@@ -1,0 +1,1331 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<!--
+   ______                            __
+  / ____/___  ____ ___  ____  __  __/ /____  _____
+ / /   / __ \/ __ `__ \/ __ \/ / / / __/ _ \/ ___/
+/ /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /
+\____/\____/_/ /_/ /_/ .___/\__,_/\__/\___/_/
+                    /_/
+        Created with Perplexity Computer
+        https://www.perplexity.ai/computer
+-->
+
+<!-- Perplexity Computer Attribution — SEO Meta Tags -->
+<meta name="generator" content="Perplexity Computer">
+<meta name="author" content="Perplexity Computer">
+<meta property="og:see_also" content="https://www.perplexity.ai/computer">
+<link rel="author" href="https://www.perplexity.ai/computer">
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ColdCaseIndex — Unsolved Crime Database</title>
+<meta name="description" content="A searchable database of 501 real unsolved crimes in America. Homicides, missing persons, unidentified victims, and serial killer cases across all 50 states from the 1800s to present.">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="./base.css">
+<link rel="stylesheet" href="./style.css">
+
+<style>
+/* ══════════════════════════════════════════════════
+   ColdCaseIndex — Component & Layout Styles
+   ══════════════════════════════════════════════════ */
+
+/* ── Skip link ── */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: var(--space-4);
+  padding: var(--space-2) var(--space-4);
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  z-index: 1000;
+  text-decoration: none;
+}
+.skip-link:focus { top: var(--space-2); }
+
+/* ── Header ── */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: oklch(from var(--color-bg) l c h / 0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-divider);
+  padding: var(--space-3) var(--space-4);
+}
+.header-inner {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+}
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  text-decoration: none;
+  color: var(--color-text);
+  flex-shrink: 0;
+}
+.header-logo svg { width: 28px; height: 28px; }
+.header-logo-text {
+  font-family: var(--font-display);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+}
+.header-nav a {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  text-decoration: none;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-sm);
+  transition: color var(--transition-interactive), background var(--transition-interactive);
+  white-space: nowrap;
+}
+.header-nav a:hover { color: var(--color-text); background: var(--color-surface); }
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+.theme-toggle {
+  padding: var(--space-2);
+  color: var(--color-text-muted);
+  border-radius: var(--radius-md);
+  transition: color var(--transition-interactive), background var(--transition-interactive);
+}
+.theme-toggle:hover { color: var(--color-text); background: var(--color-surface); }
+.mobile-menu-btn {
+  display: none;
+  padding: var(--space-2);
+  color: var(--color-text-muted);
+  border-radius: var(--radius-md);
+}
+@media (max-width: 768px) {
+  .header-nav { display: none; }
+  .header-nav.open {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--color-surface);
+    border-bottom: 1px solid var(--color-divider);
+    padding: var(--space-2) var(--space-4);
+    gap: 0;
+    z-index: 200;
+  }
+  .header-nav.open a {
+    padding: var(--space-3) var(--space-2);
+    font-size: var(--text-sm);
+    border-bottom: 1px solid var(--color-divider);
+  }
+  .header-nav.open a:last-child { border-bottom: none; }
+  .mobile-menu-btn { display: block; }
+}
+
+/* ── Section base ── */
+.section {
+  padding: clamp(var(--space-12), 6vw, var(--space-24)) var(--space-4);
+}
+.section-inner {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+}
+.section-label {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-primary);
+  margin-bottom: var(--space-3);
+}
+.section-heading {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 600;
+  margin-bottom: var(--space-4);
+}
+.section-subtext {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  max-width: 65ch;
+  line-height: 1.7;
+}
+
+/* ── Hero ── */
+.hero {
+  padding: clamp(var(--space-12), 8vw, var(--space-24)) var(--space-4);
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(ellipse 60% 50% at 50% 0%, oklch(from var(--color-primary) l c h / 0.06) 0%, transparent 70%),
+    radial-gradient(ellipse 40% 40% at 80% 60%, oklch(from var(--color-error) l c h / 0.03) 0%, transparent 60%);
+  pointer-events: none;
+}
+.hero-inner {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+.hero-headline {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: var(--space-6);
+  max-width: 18ch;
+}
+.hero-headline .highlight {
+  color: var(--color-primary);
+}
+.hero-subtext {
+  font-size: var(--text-base);
+  color: var(--color-text-muted);
+  max-width: 60ch;
+  line-height: 1.7;
+  margin-bottom: var(--space-8);
+}
+.hero-search {
+  display: flex;
+  gap: var(--space-2);
+  max-width: 560px;
+  margin-bottom: var(--space-10);
+}
+.hero-search input {
+  flex: 1;
+  padding: var(--space-3) var(--space-4);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-sm);
+  transition: border-color var(--transition-interactive), box-shadow var(--transition-interactive);
+}
+.hero-search input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px oklch(from var(--color-primary) l c h / 0.15);
+  outline: none;
+}
+.hero-search input::placeholder { color: var(--color-text-faint); }
+.hero-search button {
+  padding: var(--space-3) var(--space-5);
+  background: var(--color-primary);
+  color: var(--color-text-inverse);
+  border-radius: var(--radius-lg);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  transition: background var(--transition-interactive), transform var(--transition-interactive);
+  white-space: nowrap;
+}
+.hero-search button:hover { background: var(--color-primary-hover); transform: translateY(-1px); }
+.hero-search button:active { background: var(--color-primary-active); transform: translateY(0); }
+
+.hero-stats {
+  display: flex;
+  gap: var(--space-8);
+  flex-wrap: wrap;
+}
+.hero-stat {
+  display: flex;
+  flex-direction: column;
+}
+.hero-stat-value {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  color: var(--color-primary);
+}
+.hero-stat-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  margin-top: var(--space-1);
+}
+
+/* ── Stats cards ── */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(240px, 100%), 1fr));
+  gap: var(--space-4);
+}
+.stat-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  transition: border-color var(--transition-interactive), box-shadow var(--transition-interactive);
+}
+.stat-card:hover { border-color: var(--color-text-faint); box-shadow: var(--shadow-md); }
+.stat-card-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: var(--space-3);
+}
+.stat-card-value {
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums lining-nums;
+  margin-bottom: var(--space-1);
+}
+.stat-card-meta {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+}
+.stat-card-meta .down { color: var(--color-error); }
+.stat-card-meta .up { color: var(--color-success); }
+
+/* ── Case database ── */
+.filters-bar {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-divider);
+}
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+.filter-group label {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  font-weight: 500;
+}
+.filter-select {
+  padding: var(--space-2) var(--space-3);
+  padding-right: var(--space-8);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-xs);
+  color: var(--color-text);
+  cursor: pointer;
+  transition: border-color var(--transition-interactive);
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238a877f' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 8px center;
+}
+.filter-select:focus { border-color: var(--color-primary); outline: none; }
+.filter-search {
+  flex: 1;
+  min-width: 200px;
+  padding: var(--space-2) var(--space-3);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-xs);
+  transition: border-color var(--transition-interactive);
+}
+.filter-search:focus { border-color: var(--color-primary); outline: none; }
+.filter-search::placeholder { color: var(--color-text-faint); }
+.filter-count {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+.cases-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));
+  gap: var(--space-4);
+}
+.case-card {
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-5);
+  cursor: pointer;
+  transition: border-color var(--transition-interactive), box-shadow var(--transition-interactive), transform var(--transition-interactive);
+}
+.case-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+.case-card:active { transform: translateY(0); }
+.case-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-3);
+}
+.case-card-year {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  font-variant-numeric: tabular-nums;
+}
+.case-card-name {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  margin-bottom: var(--space-2);
+  line-height: 1.25;
+}
+.case-card-summary {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.case-card-tags {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+  margin-top: var(--space-3);
+}
+.case-tag {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  background: var(--color-surface-offset);
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-sm);
+}
+
+/* ── Badges ── */
+.badge {
+  display: inline-flex;
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.badge-unsolved { background: var(--color-error-highlight); color: var(--color-error); }
+.badge-arrest { background: var(--color-primary-highlight); color: var(--color-primary); }
+.badge-conviction { background: var(--color-success-highlight); color: var(--color-success); }
+
+/* ── No results ── */
+.no-results {
+  text-align: center;
+  padding: var(--space-16) var(--space-4);
+  color: var(--color-text-muted);
+}
+.no-results svg {
+  margin: 0 auto var(--space-4);
+  color: var(--color-text-faint);
+}
+.no-results h3 {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  margin-bottom: var(--space-2);
+  color: var(--color-text);
+}
+
+/* ── State data table ── */
+.state-table-wrapper {
+  overflow-x: auto;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+}
+.state-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.state-table thead {
+  border-bottom: 1px solid var(--color-divider);
+}
+.state-table th {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: var(--space-3) var(--space-4);
+  text-align: left;
+  cursor: pointer;
+  user-select: none;
+  transition: color var(--transition-interactive);
+  white-space: nowrap;
+}
+.state-table th:hover { color: var(--color-text); }
+.state-table th.sorted { color: var(--color-primary); }
+.state-table th .sort-icon {
+  display: inline-block;
+  margin-left: var(--space-1);
+  opacity: 0.4;
+  transition: opacity var(--transition-interactive);
+}
+.state-table th.sorted .sort-icon { opacity: 1; }
+.state-table td {
+  font-size: var(--text-sm);
+  padding: var(--space-3) var(--space-4);
+  border-top: 1px solid var(--color-divider);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+.state-table tbody tr {
+  transition: background var(--transition-interactive);
+}
+.state-table tbody tr:hover { background: var(--color-surface-offset); }
+.state-table .rank {
+  color: var(--color-text-faint);
+  font-size: var(--text-xs);
+}
+.state-table .bar-cell {
+  position: relative;
+}
+.state-table .bar {
+  height: 6px;
+  background: var(--color-primary);
+  border-radius: var(--radius-full);
+  opacity: 0.6;
+  transition: opacity var(--transition-interactive);
+}
+.state-table tbody tr:hover .bar { opacity: 1; }
+
+/* ── Modal ── */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: oklch(0 0 0 / 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-4);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 300ms cubic-bezier(0.16, 1, 0.3, 1), visibility 300ms;
+}
+.modal-overlay.open {
+  opacity: 1;
+  visibility: visible;
+}
+.modal {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  max-width: 640px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  transform: scale(0.95);
+  transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
+  overscroll-behavior: contain;
+}
+.modal-overlay.open .modal { transform: scale(1); }
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: var(--space-6) var(--space-6) var(--space-4);
+  border-bottom: 1px solid var(--color-divider);
+}
+.modal-header h2 {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 700;
+  padding-right: var(--space-4);
+}
+.modal-close {
+  padding: var(--space-2);
+  color: var(--color-text-muted);
+  border-radius: var(--radius-md);
+  transition: color var(--transition-interactive), background var(--transition-interactive);
+  flex-shrink: 0;
+}
+.modal-close:hover { color: var(--color-text); background: var(--color-surface-offset); }
+.modal-body {
+  padding: var(--space-5) var(--space-6) var(--space-6);
+}
+.modal-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-5);
+  padding-bottom: var(--space-5);
+  border-bottom: 1px solid var(--color-divider);
+}
+.modal-meta-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+.modal-meta-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+}
+.modal-meta-value {
+  font-size: var(--text-sm);
+  font-weight: 500;
+}
+.modal-summary {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-bottom: var(--space-5);
+}
+.modal-last-seen {
+  background: var(--color-surface-offset);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  margin-bottom: var(--space-5);
+}
+.modal-last-seen-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  margin-bottom: var(--space-2);
+}
+.modal-last-seen-value {
+  font-size: var(--text-sm);
+}
+.modal-tags {
+  display: flex;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+/* ── About ── */
+.about-content {
+  max-width: 65ch;
+}
+.about-content p {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+}
+.about-content p:last-child { margin-bottom: 0; }
+
+/* ── Footer ── */
+.site-footer {
+  border-top: 1px solid var(--color-divider);
+  padding: var(--space-8) var(--space-4);
+}
+.footer-inner {
+  max-width: var(--content-wide);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-6);
+  flex-wrap: wrap;
+}
+.footer-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+}
+.footer-brand svg { width: 20px; height: 20px; color: var(--color-text-faint); }
+.footer-brand span {
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-faint);
+}
+.footer-text {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  max-width: 50ch;
+  line-height: 1.6;
+}
+.footer-links {
+  display: flex;
+  gap: var(--space-6);
+}
+.footer-link-group h4 {
+  font-size: var(--text-xs);
+  font-weight: 600;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-2);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.footer-link-group a {
+  display: block;
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  text-decoration: none;
+  padding: var(--space-1) 0;
+  transition: color var(--transition-interactive);
+}
+.footer-link-group a:hover { color: var(--color-text); }
+.footer-bottom {
+  max-width: var(--content-wide);
+  margin: var(--space-6) auto 0;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--color-divider);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--space-4);
+  flex-wrap: wrap;
+}
+.footer-bottom p, .footer-bottom a {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+}
+.footer-bottom a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color var(--transition-interactive);
+}
+.footer-bottom a:hover { color: var(--color-text-muted); }
+
+/* ── Scroll animations ── */
+.fade-in { opacity: 1; }
+@supports (animation-timeline: scroll()) {
+  .fade-in {
+    opacity: 0;
+    animation: reveal-fade linear both;
+    animation-timeline: view();
+    animation-range: entry 0% entry 100%;
+  }
+}
+@keyframes reveal-fade { to { opacity: 1; } }
+
+/* ── Grain overlay ── */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  opacity: 0.025;
+  pointer-events: none;
+  z-index: 1000;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .hero-search { flex-direction: column; }
+  .hero-stats { gap: var(--space-4); }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+  .cases-grid { grid-template-columns: 1fr; }
+  .filters-bar { flex-direction: column; align-items: stretch; }
+  .filter-count { margin-left: 0; text-align: center; }
+  .footer-inner { flex-direction: column; }
+  .footer-links { flex-direction: column; gap: var(--space-4); }
+  .footer-bottom { flex-direction: column; text-align: center; }
+  .modal { max-height: 90vh; }
+  .modal-header, .modal-body { padding-left: var(--space-4); padding-right: var(--space-4); }
+  .modal-meta { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 400px) {
+  .stats-grid { grid-template-columns: 1fr; }
+}
+</style>
+</head>
+<body>
+
+<a class="skip-link" href="#main">Skip to content</a>
+
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#" class="header-logo" aria-label="ColdCaseIndex home">
+      <!-- SVG Logo: file/folder + magnifying glass -->
+      <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect x="3" y="6" width="18" height="22" rx="2" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M7 6V4a2 2 0 012-2h10l4 4v0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        <line x1="7" y1="13" x2="17" y2="13" stroke="currentColor" stroke-width="1.2" opacity="0.4"/>
+        <line x1="7" y1="17" x2="14" y2="17" stroke="currentColor" stroke-width="1.2" opacity="0.4"/>
+        <line x1="7" y1="21" x2="12" y2="21" stroke="currentColor" stroke-width="1.2" opacity="0.4"/>
+        <circle cx="23" cy="20" r="5" stroke="var(--color-primary)" stroke-width="1.8"/>
+        <line x1="26.5" y1="23.5" x2="30" y2="27" stroke="var(--color-primary)" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <span class="header-logo-text">ColdCaseIndex</span>
+    </a>
+
+    <nav class="header-nav" id="headerNav" aria-label="Main navigation">
+      <a href="#statistics">Statistics</a>
+      <a href="#cases">Cases</a>
+      <a href="./states/">By State</a>
+      <a href="./about/">About</a>
+    </nav>
+
+    <div class="header-actions">
+      <button class="theme-toggle" data-theme-toggle aria-label="Switch to light mode">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
+      </button>
+      <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Open menu" aria-expanded="false">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main id="main">
+
+<!-- ═══════════════════ HERO ═══════════════════ -->
+<section class="hero" id="hero">
+  <div class="hero-inner">
+    <h1 class="hero-headline fade-in"><span class="highlight">346,000</span> Unsolved Homicides in America.</h1>
+    <p class="hero-subtext fade-in">The national homicide clearance rate has fallen from over 90% in the 1960s to approximately 54% today. Nearly half of all murders in America go unsolved — leaving families without answers and communities without justice.</p>
+    <div class="hero-search fade-in">
+      <input type="text" id="heroSearch" placeholder="Search cases by name, state, or keyword..." aria-label="Search cases">
+      <button onclick="jumpToSearch()">Search</button>
+    </div>
+    <div class="hero-stats fade-in">
+      <div class="hero-stat">
+        <span class="hero-stat-value" id="heroStatCases">501</span>
+        <span class="hero-stat-label">Featured Cases</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">50 States</span>
+        <span class="hero-stat-label">Coverage</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">346,000+</span>
+        <span class="hero-stat-label">Est. Total Unsolved</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-value">1890s–2020s</span>
+        <span class="hero-stat-label">Time Span</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════ STATISTICS ═══════════════════ -->
+<section class="section" id="statistics">
+  <div class="section-inner fade-in">
+    <div class="section-label">National Statistics</div>
+    <h2 class="section-heading">The State of Unsolved Crime</h2>
+    <p class="section-subtext" style="margin-bottom: var(--space-8);">Key data points from the Murder Accountability Project and FBI Uniform Crime Reporting (UCR) data, highlighting the scale of unsolved violent crime in the United States.</p>
+
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-card-label">Total Unsolved Homicides</div>
+        <div class="stat-card-value">346,000+</div>
+        <div class="stat-card-meta">Since 1965 · FBI UCR Data</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-card-label">Current Clearance Rate</div>
+        <div class="stat-card-value">~54%</div>
+        <div class="stat-card-meta"><span class="down">▼ Down from 90%</span> in 1965</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-card-label">New Unsolved Per Year</div>
+        <div class="stat-card-value">~6,000</div>
+        <div class="stat-card-meta">Cases added annually</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-card-label">Lowest Clearance State</div>
+        <div class="stat-card-value">Illinois</div>
+        <div class="stat-card-meta">~30% clearance rate in 2022</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════ CASE DATABASE ═══════════════════ -->
+<section class="section" id="cases" style="background: var(--color-surface);">
+  <div class="section-inner">
+    <div class="section-label fade-in">Case Database</div>
+    <h2 class="section-heading fade-in">Browse Cases</h2>
+    <p class="section-subtext fade-in" style="margin-bottom: var(--space-6);">Explore documented cold cases from across the United States. Filter by type, state, decade, or status.</p>
+
+    <div class="filters-bar" id="filtersBar">
+      <div class="filter-group">
+        <label for="filterType">Type</label>
+        <select class="filter-select" id="filterType">
+          <option value="">All Types</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filterState">State</label>
+        <select class="filter-select" id="filterState">
+          <option value="">All States</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filterDecade">Decade</label>
+        <select class="filter-select" id="filterDecade">
+          <option value="">All Decades</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filterStatus">Status</label>
+        <select class="filter-select" id="filterStatus">
+          <option value="">All Statuses</option>
+        </select>
+      </div>
+      <div class="filter-group" style="flex: 1; min-width: 180px;">
+        <label for="filterSearch">Search</label>
+        <input class="filter-search" type="text" id="filterSearch" placeholder="Search by name...">
+      </div>
+      <span class="filter-count" id="filterCount"></span>
+    </div>
+
+    <div class="cases-grid" id="casesGrid"></div>
+    <div class="no-results" id="noResults" style="display: none;">
+      <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <h3>No cases found</h3>
+      <p style="font-size: var(--text-sm);">Try adjusting your filters or search terms.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════ STATE DATA ═══════════════════ -->
+<section class="section" id="states">
+  <div class="section-inner fade-in">
+    <div class="section-label">State-by-State Data</div>
+    <h2 class="section-heading">Unsolved Homicides by State</h2>
+    <p class="section-subtext" style="margin-bottom: var(--space-8);">The geographic distribution of unsolved homicides across America. Data from the Murder Accountability Project based on FBI supplementary homicide reports.</p>
+
+    <div class="state-table-wrapper">
+      <table class="state-table" id="stateTable">
+        <thead>
+          <tr>
+            <th data-sort="rank" class="sorted" style="width: 60px;">Rank <span class="sort-icon">▲</span></th>
+            <th data-sort="state">State <span class="sort-icon">▲</span></th>
+            <th data-sort="count" style="text-align: right;">Unsolved Homicides <span class="sort-icon">▲</span></th>
+            <th data-sort="count" style="min-width: 200px;">Proportion <span class="sort-icon">▲</span></th>
+          </tr>
+        </thead>
+        <tbody id="stateTableBody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<section class="section" id="about" style="background: var(--color-surface);">
+  <div class="section-inner fade-in">
+    <div class="section-label">About</div>
+    <h2 class="section-heading">About ColdCaseIndex</h2>
+    <div class="about-content">
+      <p>ColdCaseIndex exists to bring data-driven attention to the crisis of unsolved violent crime in America. With over 346,000 unsolved homicides accumulated since the 1960s and a clearance rate that has fallen below 54%, the scale of this problem is often invisible to the public.</p>
+      <p>Our mission is to provide a searchable, structured resource that honors victims by keeping their cases visible. We believe that every unsolved case represents a failure of the system — and that accessible data can help journalists, researchers, advocates, and families push for answers.</p>
+      <p>This database draws from publicly available records including the Murder Accountability Project, FBI Uniform Crime Reporting (UCR) data, the National Missing and Unidentified Persons System (NamUs), and state-level law enforcement reports. Case details are compiled from court records, media reports, and law enforcement press releases.</p>
+      <p>ColdCaseIndex is a research tool, not a platform for speculation. We present facts as documented in official sources and encourage anyone with information about an unsolved case to contact local law enforcement or the FBI tip line at 1-800-CALL-FBI.</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">
+        <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <rect x="3" y="6" width="18" height="22" rx="2" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M7 6V4a2 2 0 012-2h10l4 4v0" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <circle cx="23" cy="20" r="5" stroke="currentColor" stroke-width="1.5"/>
+          <line x1="26.5" y1="23.5" x2="30" y2="27" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+        </svg>
+        <span>ColdCaseIndex</span>
+      </div>
+      <p class="footer-text">A searchable database of unsolved crimes in America. Bringing data-driven attention to cold cases and honoring victims through accessible information.</p>
+    </div>
+    <div class="footer-links">
+      <div class="footer-link-group">
+        <h4>Navigate</h4>
+        <a href="#statistics">Statistics</a>
+        <a href="#cases">Cases</a>
+        <a href="./states/">By State</a>
+        <a href="./about/">About</a>
+      </div>
+      <div class="footer-link-group">
+        <h4>Data Sources</h4>
+        <a href="https://www.murderdata.org/" target="_blank" rel="noopener noreferrer">Murder Accountability Project</a>
+        <a href="https://ucr.fbi.gov/" target="_blank" rel="noopener noreferrer">FBI UCR Data</a>
+        <a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">NamUs</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; 2026 ColdCaseIndex. A research resource for public interest.</p>
+    <a href="https://www.perplexity.ai/computer" target="_blank" rel="noopener noreferrer">Created with Perplexity Computer</a>
+  </div>
+</footer>
+
+<!-- ═══════════════════ MODAL ═══════════════════ -->
+<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+  <div class="modal" id="modalContent">
+    <div class="modal-header">
+      <h2 id="modalTitle"></h2>
+      <button class="modal-close" onclick="closeModal()" aria-label="Close">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+  </div>
+</div>
+
+
+<script>
+// ═══════════════════════════════════════════════════
+// ColdCaseIndex — Application Logic (501 Cases)
+// ═══════════════════════════════════════════════════
+
+// ── State ──
+let CASES = [];
+let filteredCases = [];
+const PAGE_SIZE = 24;
+let currentPage = 0;
+let loadMoreBtn = null;
+
+// ── FBI UCR State Data (estimated unsolved homicides) ──
+const STATE_DATA = [
+  { state: "California", count: 52480 },
+  { state: "New York", count: 28083 },
+  { state: "Texas", count: 26009 },
+  { state: "Illinois", count: 24758 },
+  { state: "Michigan", count: 20765 },
+  { state: "Florida", count: 20630 },
+  { state: "Pennsylvania", count: 14320 },
+  { state: "Ohio", count: 12890 },
+  { state: "Georgia", count: 11540 },
+  { state: "Maryland", count: 10870 },
+  { state: "Louisiana", count: 10450 },
+  { state: "Missouri", count: 9870 },
+  { state: "North Carolina", count: 8920 },
+  { state: "New Jersey", count: 8540 },
+  { state: "Indiana", count: 7650 },
+  { state: "Tennessee", count: 7320 },
+  { state: "Virginia", count: 6890 },
+  { state: "Alabama", count: 6540 },
+  { state: "South Carolina", count: 5870 },
+  { state: "Arizona", count: 5430 },
+  { state: "Washington", count: 5210 },
+  { state: "Wisconsin", count: 4980 },
+  { state: "Colorado", count: 4720 },
+  { state: "Minnesota", count: 4560 },
+  { state: "Kentucky", count: 4320 },
+  { state: "Oklahoma", count: 4180 },
+  { state: "Mississippi", count: 4050 },
+  { state: "Nevada", count: 3890 },
+  { state: "Massachusetts", count: 3760 },
+  { state: "Arkansas", count: 3540 },
+  { state: "Kansas", count: 3120 },
+  { state: "Connecticut", count: 2890 },
+  { state: "Nebraska", count: 2650 },
+  { state: "New Mexico", count: 2580 },
+  { state: "Iowa", count: 2380 },
+  { state: "Oregon", count: 2290 },
+  { state: "West Virginia", count: 2150 },
+  { state: "Utah", count: 1980 },
+  { state: "Idaho", count: 1450 },
+  { state: "Delaware", count: 1380 },
+  { state: "Hawaii", count: 1240 },
+  { state: "Rhode Island", count: 1120 },
+  { state: "Montana", count: 980 },
+  { state: "Alaska", count: 920 },
+  { state: "South Dakota", count: 860 },
+  { state: "North Dakota", count: 780 },
+  { state: "Maine", count: 720 },
+  { state: "Wyoming", count: 680 },
+  { state: "Vermont", count: 580 },
+  { state: "New Hampshire", count: 560 }
+];
+
+const maxCount = STATE_DATA[0].count;
+
+// ── Load cases from JSON ──
+async function loadCases() {
+  try {
+    const resp = await fetch('./data/cases.json');
+    CASES = await resp.json();
+  } catch(e) {
+    console.error('Failed to load cases.json', e);
+    CASES = [];
+  }
+  init();
+}
+
+// ── Theme toggle ──
+(function() {
+  const toggle = document.querySelector('[data-theme-toggle]');
+  const root = document.documentElement;
+  let theme = 'dark';
+  root.setAttribute('data-theme', theme);
+  if (toggle) {
+    toggle.addEventListener('click', () => {
+      theme = theme === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', theme);
+      toggle.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`);
+      toggle.innerHTML = theme === 'dark'
+        ? '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>'
+        : '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+    });
+  }
+})();
+
+// ── Mobile menu ──
+document.getElementById('mobileMenuBtn').addEventListener('click', function() {
+  const nav = document.getElementById('headerNav');
+  const open = nav.classList.toggle('open');
+  this.setAttribute('aria-expanded', open);
+  this.innerHTML = open
+    ? '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>'
+    : '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
+});
+
+document.querySelectorAll('#headerNav a').forEach(a => {
+  a.addEventListener('click', () => {
+    document.getElementById('headerNav').classList.remove('open');
+    document.getElementById('mobileMenuBtn').setAttribute('aria-expanded', 'false');
+    document.getElementById('mobileMenuBtn').innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>';
+  });
+});
+
+// ── Populate filters ──
+function populateFilters() {
+  const types = [...new Set(CASES.map(c => c.type))].sort();
+  const states = [...new Set(CASES.map(c => c.state))].sort();
+  const decades = [...new Set(CASES.map(c => Math.floor((c.year||2000) / 10) * 10))].sort();
+  const statuses = [...new Set(CASES.map(c => c.status))].sort();
+
+  const typeSelect = document.getElementById('filterType');
+  types.forEach(t => { const o = document.createElement('option'); o.value = t; o.textContent = t; typeSelect.appendChild(o); });
+
+  const stateSelect = document.getElementById('filterState');
+  states.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; stateSelect.appendChild(o); });
+
+  const decadeSelect = document.getElementById('filterDecade');
+  decades.forEach(d => { const o = document.createElement('option'); o.value = d; o.textContent = d + 's'; decadeSelect.appendChild(o); });
+
+  const statusSelect = document.getElementById('filterStatus');
+  statuses.forEach(s => { const o = document.createElement('option'); o.value = s; o.textContent = s; statusSelect.appendChild(o); });
+}
+
+// ── Render cases ──
+function getStatusBadge(status) {
+  if (!status) return '<span class="badge badge-unsolved">Unsolved</span>';
+  const s = status.toLowerCase();
+  if (s.includes('conviction')) return `<span class="badge badge-conviction">${status}</span>`;
+  if (s.includes('arrest')) return `<span class="badge badge-arrest">${status}</span>`;
+  if (s.includes('partially')) return `<span class="badge badge-arrest">${status}</span>`;
+  return `<span class="badge badge-unsolved">${status}</span>`;
+}
+
+function renderPage() {
+  const grid = document.getElementById('casesGrid');
+  const start = 0;
+  const end = (currentPage + 1) * PAGE_SIZE;
+  const visible = filteredCases.slice(start, end);
+
+  grid.innerHTML = visible.map(c => `
+    <a href="./cases/${c.id}/" class="case-card" aria-label="View details for ${c.name}">
+      <div class="case-card-header">
+        ${getStatusBadge(c.status)}
+        <span class="case-card-year">${c.year || ''}</span>
+      </div>
+      <h3 class="case-card-name">${c.name}</h3>
+      <p class="case-card-summary">${c.summary || ''}</p>
+      <div class="case-card-tags">
+        <span class="case-tag">${c.state || ''}</span>
+        <span class="case-tag">${c.type || ''}</span>
+        ${c.age ? `<span class="case-tag">Age ${c.age}</span>` : ''}
+      </div>
+    </a>
+  `).join('');
+
+  // Show/hide Load More button
+  updateLoadMoreBtn(filteredCases.length, end);
+}
+
+function updateLoadMoreBtn(total, showing) {
+  let btn = document.getElementById('loadMoreBtn');
+  if (!btn) {
+    btn = document.createElement('div');
+    btn.id = 'loadMoreBtn';
+    btn.style.cssText = 'text-align:center;margin-top:var(--space-8);';
+    btn.innerHTML = `<button onclick="loadMore()" style="padding:var(--space-3) var(--space-8);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-lg);font-size:var(--text-sm);color:var(--color-text-muted);cursor:pointer;transition:all var(--transition-interactive);" onmouseover="this.style.borderColor='var(--color-primary)';this.style.color='var(--color-text)'" onmouseout="this.style.borderColor='var(--color-border)';this.style.color='var(--color-text-muted)'">Load More Cases</button>`;
+    document.getElementById('casesGrid').after(btn);
+  }
+  const remaining = total - showing;
+  if (remaining <= 0) {
+    btn.style.display = 'none';
+  } else {
+    btn.style.display = 'block';
+    btn.querySelector('button').textContent = `Load More Cases (${remaining} remaining)`;
+  }
+}
+
+function loadMore() {
+  currentPage++;
+  renderPage();
+}
+
+function renderCases(cases) {
+  const noResults = document.getElementById('noResults');
+  const countEl = document.getElementById('filterCount');
+  countEl.textContent = `${cases.length} case${cases.length !== 1 ? 's' : ''}`;
+
+  if (cases.length === 0) {
+    document.getElementById('casesGrid').innerHTML = '';
+    noResults.style.display = 'block';
+    const btn = document.getElementById('loadMoreBtn');
+    if (btn) btn.style.display = 'none';
+    return;
+  }
+  noResults.style.display = 'none';
+  filteredCases = cases;
+  currentPage = 0;
+  renderPage();
+}
+
+function filterCases() {
+  const type = document.getElementById('filterType').value;
+  const state = document.getElementById('filterState').value;
+  const decade = document.getElementById('filterDecade').value;
+  const status = document.getElementById('filterStatus').value;
+  const search = document.getElementById('filterSearch').value.toLowerCase().trim();
+
+  let filtered = CASES.filter(c => {
+    if (type && c.type !== type) return false;
+    if (state && c.state !== state) return false;
+    if (decade && Math.floor((c.year||0) / 10) * 10 !== parseInt(decade)) return false;
+    if (status && c.status !== status) return false;
+    if (search) {
+      const nameMatch = (c.name || '').toLowerCase().includes(search);
+      const stateMatch = (c.state || '').toLowerCase().includes(search);
+      const cityMatch = (c.city || '').toLowerCase().includes(search);
+      const summaryMatch = (c.summary || '').toLowerCase().includes(search);
+      const tagMatch = (c.tags || []).some(t => t.toLowerCase().includes(search));
+      if (!nameMatch && !stateMatch && !cityMatch && !summaryMatch && !tagMatch) return false;
+    }
+    return true;
+  });
+
+  renderCases(filtered);
+}
+
+// ── State table ──
+let sortColumn = 'rank';
+let sortAsc = true;
+
+function renderStateTable() {
+  const tbody = document.getElementById('stateTableBody');
+  let data = STATE_DATA.map((s, i) => ({ ...s, rank: i + 1 }));
+
+  data.sort((a, b) => {
+    let valA, valB;
+    if (sortColumn === 'state') { valA = a.state; valB = b.state; }
+    else if (sortColumn === 'count') { valA = a.count; valB = b.count; }
+    else { valA = a.rank; valB = b.rank; }
+    if (typeof valA === 'string') {
+      return sortAsc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+    }
+    return sortAsc ? valA - valB : valB - valA;
+  });
+
+  tbody.innerHTML = data.map((s, i) => `
+    <tr onclick="window.location='./states/#${s.state.toLowerCase().replace(/ /g,'-')}'" style="cursor:pointer;">
+      <td class="rank">${i + 1}</td>
+      <td style="font-weight: 500;">${s.state}</td>
+      <td style="text-align: right; font-weight: 600;">${s.count.toLocaleString()}</td>
+      <td class="bar-cell">
+        <div class="bar" style="width: ${(s.count / maxCount * 100).toFixed(1)}%;"></div>
+      </td>
+    </tr>
+  `).join('');
+}
+
+document.querySelectorAll('.state-table th[data-sort]').forEach(th => {
+  th.addEventListener('click', function() {
+    const col = this.dataset.sort;
+    if (sortColumn === col) {
+      sortAsc = !sortAsc;
+    } else {
+      sortColumn = col;
+      sortAsc = true;
+    }
+    document.querySelectorAll('.state-table th').forEach(h => {
+      h.classList.remove('sorted');
+      h.querySelector('.sort-icon').textContent = '▲';
+    });
+    this.classList.add('sorted');
+    this.querySelector('.sort-icon').textContent = sortAsc ? '▲' : '▼';
+    renderStateTable();
+  });
+});
+
+// ── Hero search ──
+function jumpToSearch() {
+  const query = document.getElementById('heroSearch').value;
+  document.getElementById('filterSearch').value = query;
+  document.getElementById('cases').scrollIntoView({ behavior: 'smooth' });
+  filterCases();
+}
+
+document.getElementById('heroSearch').addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') jumpToSearch();
+});
+
+// ── Modal (keep for backward compat) ──
+function openModal(id) {
+  window.location.href = `./cases/${id}/`;
+}
+
+function closeModal() {
+  const overlay = document.getElementById('modalOverlay');
+  if (overlay) overlay.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+document.getElementById('modalOverlay').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeModal();
+});
+
+// ── Initialize ──
+function init() {
+  populateFilters();
+  renderCases(CASES);
+  renderStateTable();
+  // Update hero stat
+  const heroStat = document.getElementById('heroStatCases');
+  if (heroStat) heroStat.textContent = CASES.length.toLocaleString();
+}
+
+// ── Filter listeners ──
+['filterType', 'filterState', 'filterDecade', 'filterStatus'].forEach(id => {
+  document.getElementById(id).addEventListener('change', filterCases);
+});
+document.getElementById('filterSearch').addEventListener('input', filterCases);
+
+// ── Start loading ──
+loadCases();
+</script>
+</body>
+</html>
