@@ -256,6 +256,51 @@
 .hero-search button:hover { background: var(--color-primary-hover); transform: translateY(-1px); }
 .hero-search button:active { background: var(--color-primary-active); transform: translateY(0); }
 
+/* Live Search Dropdown */
+.hero-search-wrapper { position: relative; width: 100%; max-width: 600px; }
+.search-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  margin-top: 8px;
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 100;
+  display: none;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+.search-results.active { display: block; }
+.search-result-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--color-border);
+  transition: background 0.15s;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover { background: var(--color-bg); }
+.search-result-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background: var(--color-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+.search-result-info { flex: 1; min-width: 0; }
+.search-result-name { font-weight: 600; color: var(--color-text); font-size: 14px; }
+.search-result-meta { font-size: 12px; color: var(--color-text-muted); margin-top: 2px; }
+.search-no-results { padding: 16px; text-align: center; color: var(--color-text-muted); }
+
 .hero-stats {
   display: flex;
   gap: var(--space-8);
@@ -805,9 +850,12 @@ body::after {
   <div class="hero-inner">
     <h1 class="hero-headline fade-in"><span class="highlight">346,000</span> Unsolved Homicides in America.</h1>
     <p class="hero-subtext fade-in">The national homicide clearance rate has fallen from over 90% in the 1960s to approximately 54% today. Nearly half of all murders in America go unsolved — leaving families without answers and communities without justice.</p>
-    <div class="hero-search fade-in">
-      <input type="text" id="heroSearch" placeholder="Search cases by name, state, or keyword..." aria-label="Search cases">
-      <button onclick="jumpToSearch()">Search</button>
+    <div class="hero-search-wrapper fade-in">
+      <div class="hero-search">
+        <input type="text" id="heroSearch" placeholder="Search cases by name, state, or keyword..." aria-label="Search cases" autocomplete="off">
+        <button onclick="jumpToSearch()">Search</button>
+      </div>
+      <div class="search-results" id="searchResults"></div>
     </div>
     <div class="hero-stats fade-in">
       <div class="hero-stat">
@@ -1298,7 +1346,66 @@ function jumpToSearch() {
 }
 
 document.getElementById('heroSearch').addEventListener('keydown', function(e) {
-  if (e.key === 'Enter') jumpToSearch();
+  if (e.key === 'Enter') {
+    jumpToSearch();
+    hideSearchResults();
+  }
+  if (e.key === 'Escape') hideSearchResults();
+});
+
+// ── Live Search ──
+const heroSearchInput = document.getElementById('heroSearch');
+const searchResultsDiv = document.getElementById('searchResults');
+
+heroSearchInput.addEventListener('input', function() {
+  const query = this.value.trim().toLowerCase();
+  if (query.length < 2) {
+    hideSearchResults();
+    return;
+  }
+  
+  const matches = CASES.filter(c => {
+    const name = (c.name || '').toLowerCase();
+    const state = (c.state || '').toLowerCase();
+    const type = (c.type || '').toLowerCase();
+    const year = String(c.year || '');
+    return name.includes(query) || state.includes(query) || type.includes(query) || year.includes(query);
+  }).slice(0, 8);
+  
+  if (matches.length === 0) {
+    searchResultsDiv.innerHTML = '<div class="search-no-results">No cases found</div>';
+  } else {
+    const typeIcons = { 'homicide': '🔴', 'missing': '🟡', 'unidentified': '🔵', 'serial': '⚫' };
+    searchResultsDiv.innerHTML = matches.map(c => {
+      const icon = typeIcons[c.type] || '⚪';
+      const slug = c.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+      return `<a href="./cases/${c.id || slug}/" class="search-result-item">
+        <div class="search-result-icon">${icon}</div>
+        <div class="search-result-info">
+          <div class="search-result-name">${c.name}</div>
+          <div class="search-result-meta">${c.state || 'Unknown'} · ${c.year || 'Unknown'} · ${c.type || 'Case'}</div>
+        </div>
+      </a>`;
+    }).join('');
+  }
+  searchResultsDiv.classList.add('active');
+});
+
+function hideSearchResults() {
+  searchResultsDiv.classList.remove('active');
+}
+
+// Hide on click outside
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.hero-search-wrapper')) {
+    hideSearchResults();
+  }
+});
+
+heroSearchInput.addEventListener('focus', function() {
+  if (this.value.trim().length >= 2) {
+    this.dispatchEvent(new Event('input'));
+  }
 });
 
 // ── Modal (keep for backward compat) ──
