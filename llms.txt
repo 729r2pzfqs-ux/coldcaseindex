@@ -1,0 +1,7 @@
+# coldcaseindex.com
+
+## About
+ColdCaseIndex is a database of unsolved cold cases. Browse missing persons and unsolved homicides to help bring awareness and closure.
+
+## URLs
+- Homepage: https://coldcaseindex.com/
