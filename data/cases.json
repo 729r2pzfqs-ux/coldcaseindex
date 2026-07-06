@@ -1,6 +1,6 @@
 [
   {
-    "id": "edgar-lee-masters",
+    "id": "carrie-brown",
     "name": "Carrie Brown",
     "type": "Homicide",
     "status": "Unsolved",
@@ -67,7 +67,7 @@
   },
   {
     "id": "virginia-christian",
-    "name": "Virginia Christian",
+    "name": "Virginia Christian Case",
     "type": "Homicide",
     "status": "Conviction",
     "year": 1912,
@@ -93,7 +93,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1918,
-    "date": "May 22, 1918 \u2013 October 27, 1919",
+    "date": "May 22, 1918 – October 27, 1919",
     "state": "Louisiana",
     "city": "New Orleans",
     "age": null,
@@ -199,28 +199,6 @@
     ]
   },
   {
-    "id": "scottsboro-boys",
-    "name": "Ruby Bates & Victoria Price",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1931,
-    "date": "March 25, 1931",
-    "state": "Alabama",
-    "city": "Scottsboro",
-    "age": null,
-    "gender": "Female",
-    "summary": "The Scottsboro Boys case involved nine Black teenagers falsely accused of raping two white women on a train in Alabama. Multiple boys were wrongfully convicted despite recanted accusations. The case became a landmark in civil rights and legal history, with the Supreme Court overturning convictions twice.",
-    "lastSeen": "March 25, 1931, freight train near Scottsboro, AL",
-    "tags": [
-      "false accusation",
-      "civil rights",
-      "historical",
-      "Alabama",
-      "wrongful conviction",
-      "Scottsboro Boys"
-    ]
-  },
-  {
     "id": "starr-faithfull",
     "name": "Starr Faithfull",
     "type": "Suspicious Death",
@@ -231,7 +209,7 @@
     "city": "Long Beach",
     "age": 25,
     "gender": "Female",
-    "summary": "Starr Faithfull was found drowned on a Long Beach, New York beach. Her diary revealed an ongoing relationship with politician Andrew James Peters who allegedly abused her. The death was undetermined \u2014 possibly homicide, suicide, or accident. The case inspired multiple novels and continues to be debated.",
+    "summary": "Starr Faithfull was found drowned on a Long Beach, New York beach. Her diary revealed an ongoing relationship with politician Andrew James Peters who allegedly abused her. The death was undetermined — possibly homicide, suicide, or accident. The case inspired multiple novels and continues to be debated.",
     "lastSeen": "June 8, 1931, beach in Long Beach, NY",
     "tags": [
       "suspicious death",
@@ -293,7 +271,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1934,
-    "date": "1934 \u2013 1938",
+    "date": "1934 – 1938",
     "state": "Ohio",
     "city": "Cleveland",
     "age": null,
@@ -320,7 +298,7 @@
     "age": 29,
     "gender": "Female",
     "summary": "Actress Thelma Todd was found dead in her garage from carbon monoxide. The death was ruled accidental but many believed it was murder. Theories pointed to her business partner Roland West or mob figure Lucky Luciano. The case was never conclusively resolved.",
-    "lastSeen": "December 16, 1935, Thelma Todd's Sidewalk Caf\u00e9, Pacific Palisades, CA",
+    "lastSeen": "December 16, 1935, Thelma Todd's Sidewalk Café, Pacific Palisades, CA",
     "tags": [
       "suspicious death",
       "historical",
@@ -362,7 +340,7 @@
     "city": "Alcolu",
     "age": null,
     "gender": "Female",
-    "summary": "Two young girls were found murdered in Alcolu, South Carolina. George Stinney Jr., a 14-year-old Black boy, was arrested, tried, and executed in 83 days \u2014 the youngest person executed in the 20th century US. In 2014, a judge vacated his conviction, ruling his trial was fundamentally unfair. The actual killer was never identified.",
+    "summary": "Two young girls were found murdered in Alcolu, South Carolina. George Stinney Jr., a 14-year-old Black boy, was arrested, tried, and executed in 83 days — the youngest person executed in the 20th century US. In 2014, a judge vacated his conviction, ruling his trial was fundamentally unfair. The actual killer was never identified.",
     "lastSeen": "March 23, 1944, Alcolu, SC",
     "tags": [
       "homicide",
@@ -377,8 +355,8 @@
   {
     "id": "recy-taylor",
     "name": "Recy Taylor",
-    "type": "Homicide",
-    "status": "Unsolved",
+    "type": "Historic Injustice",
+    "status": "No Conviction",
     "year": 1944,
     "date": "September 3, 1944",
     "state": "Alabama",
@@ -423,7 +401,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1946,
-    "date": "February 22, 1946 \u2013 May 3, 1946",
+    "date": "February 22, 1946 – May 3, 1946",
     "state": "Texas",
     "city": "Texarkana",
     "age": null,
@@ -512,7 +490,7 @@
     "city": "Kansas City",
     "age": 6,
     "gender": "Male",
-    "summary": "Six-year-old Bobby Greenlease was kidnapped from his school and killed by Carl Austin Hall and Bonnie Brown Heady in Kansas City. A ransom of $600,000 was paid \u2014 the largest at that time. Hall and Heady were arrested, tried, and executed in less than three months. Half the ransom was never recovered.",
+    "summary": "Six-year-old Bobby Greenlease was kidnapped from his school and killed by Carl Austin Hall and Bonnie Brown Heady in Kansas City. A ransom of $600,000 was paid — the largest at that time. Hall and Heady were arrested, tried, and executed in less than three months. Half the ransom was never recovered.",
     "lastSeen": "September 28, 1953, Notre Dame de Sion School, Kansas City, MO",
     "tags": [
       "kidnapping",
@@ -572,8 +550,8 @@
     "name": "Janet Christman",
     "type": "Homicide",
     "status": "Unsolved",
-    "year": 1953,
-    "date": "March 18, 1953",
+    "year": 1950,
+    "date": "March 18, 1950",
     "state": "Missouri",
     "city": "Columbia",
     "age": 13,
@@ -703,7 +681,7 @@
     "type": "Serial Killer Victims",
     "status": "Partially Solved",
     "year": 1960,
-    "date": "1960 \u2013 1983",
+    "date": "1960 – 1983",
     "state": "Texas",
     "city": "Multiple",
     "age": null,
@@ -745,7 +723,7 @@
     "type": "Serial Killer Victims",
     "status": "Partially Solved",
     "year": 1962,
-    "date": "June 14, 1962 \u2013 January 4, 1964",
+    "date": "June 14, 1962 – January 4, 1964",
     "state": "Massachusetts",
     "city": "Boston",
     "age": null,
@@ -792,7 +770,7 @@
     "city": "Birmingham",
     "age": null,
     "gender": "Female",
-    "summary": "A KKK bomb killed four young Black girls \u2014 Addie Mae Collins, Cynthia Wesley, Carole Robertson, and Carol Denise McNair \u2014 at the 16th Street Baptist Church in Birmingham, Alabama. Robert Chambliss was convicted in 1977. Thomas Blanton Jr. and Bobby Frank Cherry were convicted in 2001 and 2002 respectively.",
+    "summary": "A KKK bomb killed four young Black girls — Addie Mae Collins, Cynthia Wesley, Carole Robertson, and Carol Denise McNair — at the 16th Street Baptist Church in Birmingham, Alabama. Robert Chambliss was convicted in 1977. Thomas Blanton Jr. and Bobby Frank Cherry were convicted in 2001 and 2002 respectively.",
     "lastSeen": "September 15, 1963, 16th Street Baptist Church, Birmingham, AL",
     "tags": [
       "homicide",
@@ -955,7 +933,7 @@
     ]
   },
   {
-    "id": "selma-marching",
+    "id": "jimmie-lee-jackson",
     "name": "Jimmie Lee Jackson",
     "type": "Homicide",
     "status": "Conviction",
@@ -1041,28 +1019,7 @@
     ]
   },
   {
-    "id": "pike-county-massacre",
-    "name": "Rowe Family Massacre",
-    "type": "Multiple Homicide",
-    "status": "Arrest Made",
-    "year": 1967,
-    "date": "January 11, 1967",
-    "state": "Kentucky",
-    "city": "Pike County",
-    "age": null,
-    "gender": "Multiple",
-    "summary": "Eight members of the Rowe family were murdered in Pike County, Kentucky in January 1967. The case shocked the Appalachian community. The case was eventually linked to a local family feud that had persisted for generations.",
-    "lastSeen": "January 11, 1967, family home in Pike County, KY",
-    "tags": [
-      "homicide",
-      "Kentucky",
-      "Appalachia",
-      "family feud",
-      "multiple victims"
-    ]
-  },
-  {
-    "id": "barbara-ann-mackle",
+    "id": "barbara-jane-mackle",
     "name": "Barbara Jane Mackle",
     "type": "Missing Person",
     "status": "Conviction",
@@ -1153,7 +1110,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1968,
-    "date": "December 20, 1968 \u2013 October 11, 1969",
+    "date": "December 20, 1968 – October 11, 1969",
     "state": "California",
     "city": "San Francisco Bay Area",
     "age": null,
@@ -1193,7 +1150,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1969,
-    "date": "August 9, 1969 \u2013 August 10, 1969",
+    "date": "August 9, 1969 – August 10, 1969",
     "state": "California",
     "city": "Los Angeles",
     "age": null,
@@ -1293,27 +1250,6 @@
     ]
   },
   {
-    "id": "william-greer-jr",
-    "name": "Patricia Blough & Ren\u00e9e Bruder",
-    "type": "Multiple Homicide",
-    "status": "Unsolved",
-    "year": 1969,
-    "date": "July 4, 1969",
-    "state": "Pennsylvania",
-    "city": "Pittsburg",
-    "age": null,
-    "gender": "Female",
-    "summary": "Patricia Blough and Ren\u00e9e Bruder were murdered on July 4, 1969 near Pittsburgh, Pennsylvania. They were with two male friends who survived. Despite investigation over decades, the killer was never identified.",
-    "lastSeen": "July 4, 1969, near Pittsburgh, PA",
-    "tags": [
-      "homicide",
-      "Pennsylvania",
-      "unsolved",
-      "1969",
-      "Independence Day"
-    ]
-  },
-  {
     "id": "zodiac-paul-stine",
     "name": "Paul Stine",
     "type": "Homicide",
@@ -1332,28 +1268,6 @@
       "San Francisco",
       "California",
       "unsolved"
-    ]
-  },
-  {
-    "id": "sharon-richie",
-    "name": "Sharon Tate",
-    "type": "Homicide",
-    "status": "Conviction",
-    "year": 1969,
-    "date": "August 9, 1969",
-    "state": "California",
-    "city": "Los Angeles",
-    "age": 26,
-    "gender": "Female",
-    "summary": "Actress Sharon Tate, eight months pregnant, was murdered with four others by Manson Family members at her home in Los Angeles. The killings were directed by Charles Manson, who was convicted along with his followers. The case shocked Hollywood and America, symbolizing the dark end of the 1960s.",
-    "lastSeen": "August 8, 1969, her home at 10050 Cielo Drive, Los Angeles",
-    "tags": [
-      "homicide",
-      "celebrity",
-      "Manson Family",
-      "California",
-      "conviction",
-      "Sharon Tate"
     ]
   },
   {
@@ -1384,7 +1298,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1970,
-    "date": "1970 \u2013 1973",
+    "date": "1970 – 1973",
     "state": "Texas",
     "city": "Houston",
     "age": null,
@@ -1398,26 +1312,6 @@
       "conviction",
       "Candy Man",
       "multiple victims"
-    ]
-  },
-  {
-    "id": "ann-burgess",
-    "name": "Ann Burgess",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1971,
-    "date": "October 15, 1971",
-    "state": "Nebraska",
-    "city": "Omaha",
-    "age": 24,
-    "gender": "Female",
-    "summary": "Twenty-four-year-old Ann Burgess was found murdered in Omaha, Nebraska in October 1971. Despite investigation, the case went cold. It remains in Douglas County cold case files.",
-    "lastSeen": "October 15, 1971, Omaha, NE",
-    "tags": [
-      "homicide",
-      "Nebraska",
-      "Omaha",
-      "unsolved"
     ]
   },
   {
@@ -1464,28 +1358,6 @@
     ]
   },
   {
-    "id": "d-b-cooper-detail",
-    "name": "D.B. Cooper Hijacking",
-    "type": "Missing Person",
-    "status": "Unsolved",
-    "year": 1971,
-    "date": "November 24, 1971",
-    "state": "Washington",
-    "city": "Portland to Seattle airspace",
-    "age": null,
-    "gender": "Male",
-    "summary": "A man calling himself Dan Cooper hijacked a Northwest Orient Boeing 727, received $200,000 in ransom, and parachuted from the plane over the Pacific Northwest. He was never identified or found. A partial bundle of the ransom money was found in 1980. The FBI officially suspended active investigation in 2016 after 45 years.",
-    "lastSeen": "November 24, 1971, somewhere over Pacific Northwest during flight",
-    "tags": [
-      "hijacking",
-      "parachute",
-      "historical",
-      "unsolved",
-      "FBI case",
-      "Pacific Northwest"
-    ]
-  },
-  {
     "id": "john-list",
     "name": "List Family Murders",
     "type": "Multiple Homicide",
@@ -1512,7 +1384,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1971,
-    "date": "1971 \u2013 1983",
+    "date": "1971 – 1983",
     "state": "Alaska",
     "city": "Anchorage",
     "age": null,
@@ -1533,7 +1405,7 @@
     "type": "Serial Killer Victims",
     "status": "Partially Solved",
     "year": 1971,
-    "date": "1971 \u2013 2006",
+    "date": "1971 – 2006",
     "state": "Texas",
     "city": "League City",
     "age": null,
@@ -1545,26 +1417,6 @@
       "Texas",
       "multiple victims",
       "partially solved"
-    ]
-  },
-  {
-    "id": "houston-heights-killer",
-    "name": "William Dean Christiansen",
-    "type": "Homicide",
-    "status": "Conviction",
-    "year": 1971,
-    "date": "October 12, 1971",
-    "state": "Texas",
-    "city": "Houston",
-    "age": null,
-    "gender": "Multiple",
-    "summary": "A series of murders in the Houston Heights neighborhood were attributed to William Dean Christiansen. He was convicted of multiple counts and sentenced to life. His case represented one of Houston's early serial killer investigations.",
-    "lastSeen": "N/A",
-    "tags": [
-      "serial killer",
-      "Houston",
-      "Texas",
-      "conviction"
     ]
   },
   {
@@ -1635,7 +1487,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1972,
-    "date": "1972 \u2013 1978",
+    "date": "1972 – 1978",
     "state": "Illinois",
     "city": "Chicago",
     "age": null,
@@ -1678,7 +1530,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1974,
-    "date": "January 15, 1974 \u2013 January 19, 1991",
+    "date": "January 15, 1974 – January 19, 1991",
     "state": "Kansas",
     "city": "Wichita",
     "age": null,
@@ -1739,7 +1591,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1974,
-    "date": "1974 \u2013 1982",
+    "date": "1974 – 1982",
     "state": "Michigan",
     "city": "Multiple",
     "age": null,
@@ -1760,7 +1612,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1974,
-    "date": "1974 \u2013 1986",
+    "date": "1974 – 1986",
     "state": "California",
     "city": "Multiple Cities",
     "age": null,
@@ -1772,26 +1624,6 @@
       "DNA genealogy",
       "solved",
       "California"
-    ]
-  },
-  {
-    "id": "dorothy-helen-scott",
-    "name": "Helen Grayco",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1974,
-    "date": "September 14, 1974",
-    "state": "California",
-    "city": "Santa Ana",
-    "age": 31,
-    "gender": "Female",
-    "summary": "Thirty-one-year-old Helen Grayco was found murdered in Santa Ana, California in September 1974. Despite investigation, the case went cold. It remains in Orange County cold case files.",
-    "lastSeen": "September 14, 1974, Santa Ana, CA",
-    "tags": [
-      "homicide",
-      "California",
-      "Santa Ana",
-      "unsolved"
     ]
   },
   {
@@ -1849,7 +1681,7 @@
     "city": "Wichita",
     "age": null,
     "gender": "Multiple",
-    "summary": "The Otero family \u2014 Joseph, Julie, Joseph Jr., and Josephine \u2014 were bound and murdered in their Wichita home by BTK killer Dennis Rader. This was BTK's first confirmed attack. Rader was not identified for 30 years. When he began communicating with police again in 2004, a floppy disk trace led to his identification and conviction.",
+    "summary": "The Otero family — Joseph, Julie, Joseph Jr., and Josephine — were bound and murdered in their Wichita home by BTK killer Dennis Rader. This was BTK's first confirmed attack. Rader was not identified for 30 years. When he began communicating with police again in 2004, a floppy disk trace led to his identification and conviction.",
     "lastSeen": "January 15, 1974, family home in Wichita, KS",
     "tags": [
       "homicide",
@@ -1882,34 +1714,12 @@
     ]
   },
   {
-    "id": "patricia-hearst",
-    "name": "Steven Weed",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1974,
-    "date": "February 4, 1974",
-    "state": "California",
-    "city": "Berkeley",
-    "age": null,
-    "gender": "Male",
-    "summary": "Patricia Hearst, heiress to the Hearst media empire, was kidnapped by the Symbionese Liberation Army in Berkeley. She was held for months and famously participated in a bank robbery. This case relates to the SLA's murders and violent acts. Hearst was eventually convicted of bank robbery but pardoned in 2001.",
-    "lastSeen": "February 4, 1974, her Berkeley apartment, CA",
-    "tags": [
-      "kidnapping",
-      "historical",
-      "California",
-      "Patty Hearst",
-      "SLA",
-      "controversial"
-    ]
-  },
-  {
     "id": "ted-bundy-victims",
     "name": "Ted Bundy Victims",
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1974,
-    "date": "1974 \u2013 1978",
+    "date": "1974 – 1978",
     "state": "Florida",
     "city": "Multiple States",
     "age": null,
@@ -2012,27 +1822,6 @@
     ]
   },
   {
-    "id": "karen-ann-quinlan",
-    "name": "Karen Ann Quinlan",
-    "type": "Suspicious Death",
-    "status": "Unsolved",
-    "year": 1975,
-    "date": "April 15, 1975",
-    "state": "New Jersey",
-    "city": "Landing",
-    "age": 21,
-    "gender": "Female",
-    "summary": "Karen Ann Quinlan fell into a persistent vegetative state after mixing alcohol and tranquilizers. Her parents won a landmark Supreme Court case to remove her ventilator. She survived without it for 9 years before dying in 1985. The circumstances leading to her coma were never fully explained.",
-    "lastSeen": "April 15, 1975, party in Landing, NJ",
-    "tags": [
-      "suspicious death",
-      "New Jersey",
-      "right to die",
-      "historical",
-      "landmark case"
-    ]
-  },
-  {
     "id": "daniel-cook",
     "name": "Laura Woolheater",
     "type": "Homicide",
@@ -2081,7 +1870,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1975,
-    "date": "1975 \u2013 1998",
+    "date": "1975 – 1998",
     "state": "Washington",
     "city": "Spokane",
     "age": null,
@@ -2139,28 +1928,6 @@
     ]
   },
   {
-    "id": "michelle-mcnamara",
-    "name": "James Benecke (EAR/ONS)",
-    "type": "Serial Killer Victims",
-    "status": "Conviction",
-    "year": 1976,
-    "date": "1976 \u2013 1986",
-    "state": "California",
-    "city": "Sacramento",
-    "age": null,
-    "gender": "Multiple",
-    "summary": "The East Area Rapist / Original Night Stalker committed at least 51 rapes and 12 murders in California. True crime writer Michelle McNamara coined the name Golden State Killer while investigating the case. Her book 'I'll Be Gone in the Dark' was published posthumously. Joseph DeAngelo was identified via genealogy DNA in 2018.",
-    "lastSeen": "N/A",
-    "tags": [
-      "serial killer",
-      "California",
-      "conviction",
-      "Golden State Killer",
-      "genealogy DNA",
-      "Michelle McNamara"
-    ]
-  },
-  {
     "id": "kansas-turnpike-jane-doe",
     "name": "Kansas Turnpike Jane Doe",
     "type": "Unidentified Person",
@@ -2186,7 +1953,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1976,
-    "date": "February 15, 1976 \u2013 March 16, 1977",
+    "date": "February 15, 1976 – March 16, 1977",
     "state": "Michigan",
     "city": "Oakland County",
     "age": null,
@@ -2227,7 +1994,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1976,
-    "date": "July 29, 1976 \u2013 July 31, 1977",
+    "date": "July 29, 1976 – July 31, 1977",
     "state": "New York",
     "city": "New York City",
     "age": null,
@@ -2284,7 +2051,7 @@
     ]
   },
   {
-    "id": "angela-singleten",
+    "id": "dorothy-sherrill",
     "name": "Dorothy Sherrill",
     "type": "Homicide",
     "status": "Unsolved",
@@ -2308,7 +2075,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1977,
-    "date": "October 1977 \u2013 February 1978",
+    "date": "October 1977 – February 1978",
     "state": "California",
     "city": "Los Angeles",
     "age": null,
@@ -2370,7 +2137,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1977,
-    "date": "1977 \u2013 1987",
+    "date": "1977 – 1987",
     "state": "California",
     "city": "Sacramento",
     "age": null,
@@ -2407,7 +2174,7 @@
     ]
   },
   {
-    "id": "claiborne-barnwell",
+    "id": "amy-carney",
     "name": "Amy Carney",
     "type": "Homicide",
     "status": "Unsolved",
@@ -2466,7 +2233,7 @@
     ]
   },
   {
-    "id": "kim-leach-bundy",
+    "id": "fsu-chi-omega-murders",
     "name": "FSU Chi Omega Murders",
     "type": "Multiple Homicide",
     "status": "Conviction",
@@ -2493,7 +2260,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1978,
-    "date": "1978 \u2013 1991",
+    "date": "1978 – 1991",
     "state": "Wisconsin",
     "city": "Milwaukee",
     "age": null,
@@ -2512,24 +2279,25 @@
   {
     "id": "judy-chartier",
     "name": "Judy Chartier",
-    "type": "Homicide",
+    "type": "Missing Person",
     "status": "Unsolved",
-    "year": 1978,
-    "date": "October 1978",
-    "state": "Connecticut",
-    "city": "Waterbury",
-    "age": 22,
+    "year": 1982,
+    "date": "June 5, 1982",
+    "state": "Massachusetts",
+    "city": "Chelmsford",
+    "age": 17,
     "gender": "Female",
-    "summary": "Twenty-two-year-old Judy Chartier was found murdered in Waterbury, Connecticut in October 1978. Despite investigation, the case went cold. It remains in Connecticut State Police files.",
-    "lastSeen": "October 1978, Waterbury, CT",
+    "summary": "Seventeen-year-old Judy Chartier disappeared after leaving a party in Chelmsford, Massachusetts in June 1982. Neither she nor the car she was driving has ever been found. Her case remains an open missing persons investigation with Massachusetts authorities.",
+    "lastSeen": "June 5, 1982, leaving a party in Chelmsford, Massachusetts",
     "tags": [
-      "homicide",
-      "Connecticut",
-      "unsolved"
+      "missing person",
+      "Massachusetts",
+      "unsolved",
+      "1982"
     ]
   },
   {
-    "id": "jennifer-cardy",
+    "id": "kimberly-leach",
     "name": "Kimberly Leach",
     "type": "Homicide",
     "status": "Conviction",
@@ -2593,17 +2361,17 @@
     ]
   },
   {
-    "id": "joseph-hilley",
-    "name": "Ann Hilley",
+    "id": "frank-hilley",
+    "name": "Frank Hilley",
     "type": "Homicide",
     "status": "Conviction",
-    "year": 1979,
-    "date": "May 25, 1979",
+    "year": 1975,
+    "date": "May 25, 1975",
     "state": "Alabama",
     "city": "Anniston",
-    "age": 37,
+    "age": 45,
     "gender": "Male",
-    "summary": "Frank Hilley died of a mysterious illness in Anniston, Alabama. His wife Marie was eventually convicted of murder by arsenic poisoning in 1983. Marie had also poisoned her daughter Carol, who survived. Marie Hilley escaped custody in 1987, created a new identity, and was recaptured and died in prison in 1987.",
+    "summary": "Frank Hilley died in Anniston, Alabama in 1975 of what was initially diagnosed as infectious hepatitis. After his body was exhumed, his death was attributed to arsenic poisoning, and his wife Audrey Marie Hilley was convicted of his murder in 1983. She had also poisoned their daughter Carol, who survived. Marie Hilley escaped custody in 1987 and died of exposure shortly after being recaptured.",
     "lastSeen": "May 25, 1979, family home in Anniston, AL",
     "tags": [
       "homicide",
@@ -2619,7 +2387,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1979,
-    "date": "1979 \u2013 1981",
+    "date": "1979 – 1981",
     "state": "Georgia",
     "city": "Atlanta",
     "age": null,
@@ -2655,7 +2423,7 @@
     ]
   },
   {
-    "id": "edgar-ray-killen",
+    "id": "bucks-county-jane-doe",
     "name": "Bucks County Jane Doe",
     "type": "Unidentified Person",
     "status": "Unsolved",
@@ -2782,7 +2550,7 @@
     "type": "Serial Killer Victims",
     "status": "Partially Solved",
     "year": 1979,
-    "date": "1979 \u2013 1981",
+    "date": "1979 – 1981",
     "state": "Georgia",
     "city": "Atlanta",
     "age": null,
@@ -3192,34 +2960,35 @@
   {
     "id": "diane-suzuki",
     "name": "Diane Suzuki",
-    "type": "Homicide",
+    "type": "Missing Person",
     "status": "Unsolved",
-    "year": 1982,
-    "date": "September 2, 1982",
+    "year": 1985,
+    "date": "June 21, 1985",
     "state": "Hawaii",
-    "city": "Honolulu",
+    "city": "Aiea",
     "age": 21,
     "gender": "Female",
-    "summary": "Twenty-one-year-old Diane Suzuki was found strangled in Honolulu, Hawaii. Despite investigation by Honolulu Police Department, her killer was never identified or arrested. The case remains open in Hawaii cold case files.",
-    "lastSeen": "September 2, 1982, Honolulu, HI",
+    "summary": "Twenty-one-year-old Diane Suzuki disappeared after finishing a class at the Aiea, Hawaii dance studio where she assisted in June 1985. She was never found and was later declared legally dead. Investigators treated the case as a homicide, but no one has ever been charged.",
+    "lastSeen": "June 21, 1985, dance studio in Aiea, Hawaii",
     "tags": [
-      "homicide",
+      "missing person",
       "Hawaii",
-      "unsolved"
+      "unsolved",
+      "1985"
     ]
   },
   {
-    "id": "dorothy-puente",
-    "name": "Dorothy Puente Victims",
+    "id": "dorothea-puente",
+    "name": "Dorothea Puente Victims",
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1982,
-    "date": "1982 \u2013 1988",
+    "date": "1982 – 1988",
     "state": "California",
     "city": "Sacramento",
     "age": null,
     "gender": "Multiple",
-    "summary": "Dorothy Puente was a Sacramento boardinghouse operator who poisoned elderly tenants and continued cashing their Social Security checks. Seven bodies were found buried in her yard in 1988. She was convicted of three murders and died in prison in 2011. She remains one of history's most notorious female serial killers.",
+    "summary": "Dorothea Puente was a Sacramento boardinghouse operator who poisoned elderly tenants and continued cashing their Social Security checks. Seven bodies were found buried in her yard in 1988. She was convicted of three murders and died in prison in 2011. She remains one of history's most notorious female serial killers.",
     "lastSeen": "N/A",
     "tags": [
       "serial killer",
@@ -3235,7 +3004,7 @@
     "type": "Serial Killer Victims",
     "status": "Partially Solved",
     "year": 1982,
-    "date": "1982 \u2013 1998",
+    "date": "1982 – 1998",
     "state": "Washington",
     "city": "King County",
     "age": null,
@@ -3256,7 +3025,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1982,
-    "date": "1982 \u2013 1998",
+    "date": "1982 – 1998",
     "state": "Washington",
     "city": "King County",
     "age": null,
@@ -3319,19 +3088,19 @@
     "name": "Kellie Poppleton",
     "type": "Homicide",
     "status": "Unsolved",
-    "year": 1982,
-    "date": "July 22, 1982",
-    "state": "Nebraska",
-    "city": "Omaha",
-    "age": 17,
+    "year": 1983,
+    "date": "December 2, 1983",
+    "state": "California",
+    "city": "Fremont",
+    "age": 14,
     "gender": "Female",
-    "summary": "Seventeen-year-old Kellie Poppleton disappeared from Omaha, Nebraska in July 1982 and was found murdered. Her killer has never been identified or charged. The case remains in Nebraska State Patrol cold case files.",
-    "lastSeen": "July 22, 1982, Omaha, NE",
+    "summary": "Fourteen-year-old Kellie Poppleton disappeared in Fremont, California on December 2, 1983 and was found murdered hours later. Despite an extensive investigation and periodic reexamination of the evidence, her killer has never been identified. The case remains open with Alameda County investigators.",
+    "lastSeen": "December 2, 1983, Fremont, California",
     "tags": [
       "homicide",
-      "teen",
-      "Nebraska",
-      "unsolved"
+      "California",
+      "unsolved",
+      "1983"
     ]
   },
   {
@@ -3352,26 +3121,6 @@
       "Jane Doe",
       "Nevada",
       "Las Vegas",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "patricia-meehan",
-    "name": "Patricia Meehan",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1982,
-    "date": "April 8, 1982",
-    "state": "New Jersey",
-    "city": "Camden",
-    "age": 28,
-    "gender": "Female",
-    "summary": "Twenty-eight-year-old Patricia Meehan was found murdered in Camden, New Jersey in April 1982. Despite investigation, the case went cold. It remains in Camden County cold case files.",
-    "lastSeen": "April 8, 1982, Camden, NJ",
-    "tags": [
-      "homicide",
-      "New Jersey",
-      "Camden",
       "unsolved"
     ]
   },
@@ -3432,25 +3181,6 @@
       "homicide",
       "Massachusetts",
       "Waltham",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "sandy-hook-adam-lanza",
-    "name": "Matthew Falkner",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1983,
-    "date": "January 1983",
-    "state": "New York",
-    "city": "Albany",
-    "age": null,
-    "gender": "Male",
-    "summary": "A homicide victim found in Albany, New York in January 1983 remains unidentified and unsolved. Despite investigation by Albany County investigators, the case went cold and remains in their files.",
-    "lastSeen": "January 1983, Albany, NY",
-    "tags": [
-      "homicide",
-      "New York",
       "unsolved"
     ]
   },
@@ -3564,7 +3294,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1984,
-    "date": "June 1984 \u2013 August 1985",
+    "date": "June 1984 – August 1985",
     "state": "California",
     "city": "Los Angeles",
     "age": null,
@@ -3591,7 +3321,7 @@
     "city": "Tucson",
     "age": 8,
     "gender": "Female",
-    "summary": "Eight-year-old Vicki Lynne Hoskinson disappeared while mailing a letter near her Tucson home. Her remains were found eight months later. Frank Jarvis Atwood was convicted in 1987 and spent decades on death row, becoming a cause c\u00e9l\u00e8bre for death penalty opponents. He was executed in 2022.",
+    "summary": "Eight-year-old Vicki Lynne Hoskinson disappeared while mailing a letter near her Tucson home. Her remains were found eight months later. Frank Jarvis Atwood was convicted in 1987 and spent decades on death row, becoming a cause célèbre for death penalty opponents. He was executed in 2022.",
     "lastSeen": "September 17, 1984, near her home in Tucson, AZ",
     "tags": [
       "homicide",
@@ -3623,31 +3353,12 @@
     ]
   },
   {
-    "id": "henry-lee-lucas",
-    "name": "Deborah Dudley",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1985,
-    "date": "November 1985",
-    "state": "Maine",
-    "city": "Portland",
-    "age": null,
-    "gender": "Female",
-    "summary": "An unsolved homicide from Portland, Maine in November 1985 remains in cold case files with Maine State Police. Despite investigation, no arrests were made in this case.",
-    "lastSeen": "November 1985, Portland, ME",
-    "tags": [
-      "homicide",
-      "Maine",
-      "unsolved"
-    ]
-  },
-  {
     "id": "grim-sleeper",
     "name": "Grim Sleeper Victims",
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1985,
-    "date": "1985 \u2013 2007",
+    "date": "1985 – 2007",
     "state": "California",
     "city": "Los Angeles",
     "age": null,
@@ -3736,7 +3447,7 @@
     "city": "Salt Lake City",
     "age": null,
     "gender": "Multiple",
-    "summary": "Two people were killed by mail bombs in Salt Lake City \u2014 Steve Christensen at his office and Kathy Sheets at her home. The next day, the bomber Mark Hofmann was seriously injured when one of his own bombs exploded. Hofmann, a Mormon documents forger, had planted the bombs to distract from fraud investigations. He pleaded guilty and was sentenced to life.",
+    "summary": "Two people were killed by mail bombs in Salt Lake City — Steve Christensen at his office and Kathy Sheets at her home. The next day, the bomber Mark Hofmann was seriously injured when one of his own bombs exploded. Hofmann, a Mormon documents forger, had planted the bombs to distract from fraud investigations. He pleaded guilty and was sentenced to life.",
     "lastSeen": "October 15, 1985, Salt Lake City, UT",
     "tags": [
       "homicide",
@@ -3791,7 +3502,7 @@
     "type": "Multiple Homicide",
     "status": "Unsolved",
     "year": 1986,
-    "date": "1986 \u2013 1989",
+    "date": "1986 – 1989",
     "state": "Virginia",
     "city": "Colonial Parkway",
     "age": null,
@@ -3833,7 +3544,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1986,
-    "date": "November 1986 \u2013 March 1987",
+    "date": "November 1986 – March 1987",
     "state": "Pennsylvania",
     "city": "Philadelphia",
     "age": null,
@@ -3886,28 +3597,6 @@
       "Central Park",
       "New York City",
       "manslaughter plea"
-    ]
-  },
-  {
-    "id": "gary-heidnik-2",
-    "name": "Josefina Rivera",
-    "type": "Missing Person",
-    "status": "Conviction",
-    "year": 1986,
-    "date": "November 1986",
-    "state": "Pennsylvania",
-    "city": "Philadelphia",
-    "age": 25,
-    "gender": "Female",
-    "summary": "Josefina Rivera was one of six women abducted by Gary Heidnik and held in his basement in Philadelphia. Two women died. Rivera eventually helped Heidnik pick up victims and was later freed. She cooperated with police and Heidnik was convicted. Her case exemplified survival and cooperation under extreme duress.",
-    "lastSeen": "November 1986, Philadelphia, PA",
-    "tags": [
-      "kidnapping",
-      "Pennsylvania",
-      "Philadelphia",
-      "conviction",
-      "Gary Heidnik",
-      "survivor"
     ]
   },
   {
@@ -4011,7 +3700,7 @@
     ]
   },
   {
-    "id": "helen-front",
+    "id": "peggy-hettrick",
     "name": "Peggy Hettrick",
     "type": "Homicide",
     "status": "Partially Solved",
@@ -4137,7 +3826,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1988,
-    "date": "1988 \u2013 2000",
+    "date": "1988 – 2000",
     "state": "New Mexico",
     "city": "Albuquerque",
     "age": null,
@@ -4197,7 +3886,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1989,
-    "date": "1989 \u2013 1990",
+    "date": "1989 – 1990",
     "state": "Florida",
     "city": "Multiple Florida counties",
     "age": null,
@@ -4235,7 +3924,7 @@
     ]
   },
   {
-    "id": "zodiac-florida",
+    "id": "danny-rolling-confession",
     "name": "Danny Rolling Confession",
     "type": "Serial Killer Victims",
     "status": "Conviction",
@@ -4378,34 +4067,12 @@
     ]
   },
   {
-    "id": "ricky-brown",
-    "name": "Ricky Brown (Central Park Five)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1989,
-    "date": "April 19, 1989",
-    "state": "New York",
-    "city": "New York City",
-    "age": 28,
-    "gender": "Female",
-    "summary": "The Central Park Jogger case involved the brutal rape and near-fatal beating of Trisha Meili in Central Park. Five teenagers \u2014 the Central Park Five \u2014 were wrongfully convicted and served years in prison. They were exonerated in 2002 when DNA evidence and a serial rapist's confession cleared them. The actual perpetrator, Matias Reyes, confessed but was not additionally charged.",
-    "lastSeen": "April 19, 1989, Central Park, New York City",
-    "tags": [
-      "homicide",
-      "Central Park",
-      "New York",
-      "wrongful conviction",
-      "exoneration",
-      "jogger"
-    ]
-  },
-  {
     "id": "truck-stop-killer",
     "name": "Robert Ben Rhoades Victims",
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1989,
-    "date": "1989 \u2013 1990",
+    "date": "1989 – 1990",
     "state": "Texas",
     "city": "Multiple",
     "age": null,
@@ -4446,7 +4113,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1990,
-    "date": "August 26, 1990 \u2013 August 28, 1990",
+    "date": "August 26, 1990 – August 28, 1990",
     "state": "Florida",
     "city": "Gainesville",
     "age": null,
@@ -4525,7 +4192,7 @@
     ]
   },
   {
-    "id": "minnesota-missing-2011",
+    "id": "paige-renkoski",
     "name": "Paige Renkoski",
     "type": "Missing Person",
     "status": "Unsolved",
@@ -4542,27 +4209,6 @@
       "Michigan",
       "highway",
       "unsolved"
-    ]
-  },
-  {
-    "id": "terri-schiavo",
-    "name": "Terri Schiavo",
-    "type": "Suspicious Death",
-    "status": "Unsolved",
-    "year": 1990,
-    "date": "February 25, 1990",
-    "state": "Florida",
-    "city": "St. Petersburg",
-    "age": 26,
-    "gender": "Female",
-    "summary": "Terri Schiavo collapsed from cardiac arrest in St. Petersburg, Florida and suffered severe brain damage. She remained in a vegetative state for 15 years at the center of a national right-to-die legal battle. Her husband wanted to remove life support; her parents fought to keep it. Questions about the cause of her initial collapse were never fully resolved.",
-    "lastSeen": "February 25, 1990, family home in St. Petersburg, FL",
-    "tags": [
-      "suspicious death",
-      "Florida",
-      "right to die",
-      "media coverage",
-      "unresolved"
     ]
   },
   {
@@ -4590,7 +4236,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 1991,
-    "date": "December 1990 \u2013 March 1991",
+    "date": "December 1990 – March 1991",
     "state": "Texas",
     "city": "Dallas",
     "age": null,
@@ -4770,48 +4416,6 @@
     ]
   },
   {
-    "id": "rodney-king",
-    "name": "Rodney King Beating",
-    "type": "Suspicious Death",
-    "status": "Unsolved",
-    "year": 1991,
-    "date": "March 3, 1991",
-    "state": "California",
-    "city": "Los Angeles",
-    "age": 25,
-    "gender": "Male",
-    "summary": "Rodney King was beaten by LAPD officers after a high-speed chase. The beating was videotaped. Four officers were acquitted, sparking the 1992 LA riots. Federal charges led to two officers being convicted. King died in 2012 in a suspicious drowning. His death was ruled accidental.",
-    "lastSeen": "March 3, 1991, Foothill Freeway, Los Angeles, CA",
-    "tags": [
-      "police beating",
-      "California",
-      "LA Riots",
-      "conviction",
-      "civil rights",
-      "1991"
-    ]
-  },
-  {
-    "id": "ira-sorkin",
-    "name": "Sharon Sorkin",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1991,
-    "date": "September 19, 1991",
-    "state": "Florida",
-    "city": "Boca Raton",
-    "age": 47,
-    "gender": "Female",
-    "summary": "Forty-seven-year-old Sharon Sorkin was found murdered in Boca Raton, Florida in September 1991. Despite investigation, the case went cold. It remains in Palm Beach County cold case files.",
-    "lastSeen": "September 19, 1991, Boca Raton, FL",
-    "tags": [
-      "homicide",
-      "Florida",
-      "Boca Raton",
-      "unsolved"
-    ]
-  },
-  {
     "id": "stacy-richmond",
     "name": "Stacy Richmond",
     "type": "Homicide",
@@ -4851,33 +4455,12 @@
     ]
   },
   {
-    "id": "chris-mccandles-context",
-    "name": "Christopher McCandless",
-    "type": "Suspicious Death",
-    "status": "Unsolved",
-    "year": 1992,
-    "date": "August 18, 1992",
-    "state": "Alaska",
-    "city": "Denali Borough",
-    "age": 24,
-    "gender": "Male",
-    "summary": "Christopher McCandless died in an abandoned bus in the Alaskan wilderness after venturing into the wild with minimal supplies. The cause of death was officially starvation, though some theories suggest poisoning from seeds. His story was told in the book and film 'Into the Wild.' The bus was removed from its location in 2020.",
-    "lastSeen": "April 1992, entering Alaskan wilderness via Stampede Trail",
-    "tags": [
-      "suspicious death",
-      "Alaska",
-      "wilderness",
-      "Into the Wild",
-      "starvation"
-    ]
-  },
-  {
     "id": "i-70-killer",
     "name": "I-70 Killer Victims",
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 1992,
-    "date": "April 8, 1992 \u2013 May 7, 1992",
+    "date": "April 8, 1992 – May 7, 1992",
     "state": "Indiana",
     "city": "Multiple",
     "age": null,
@@ -5093,7 +4676,7 @@
     ]
   },
   {
-    "id": "iowa-state-killings",
+    "id": "lisa-doyle",
     "name": "Lisa Doyle",
     "type": "Homicide",
     "status": "Unsolved",
@@ -5184,7 +4767,7 @@
     "city": "West Memphis",
     "age": null,
     "gender": "Male",
-    "summary": "Three eight-year-old boys were murdered in West Memphis, Arkansas. Three teenagers \u2014 Damien Echols, Jason Baldwin, and Jessie Misskelley Jr. \u2014 were convicted but released in 2011 via Alford pleas. Controversy remains about their guilt. DNA from the crime scene has not been matched to anyone and some evidence pointed to a parent of one of the victims.",
+    "summary": "Three eight-year-old boys were murdered in West Memphis, Arkansas. Three teenagers — Damien Echols, Jason Baldwin, and Jessie Misskelley Jr. — were convicted but released in 2011 via Alford pleas. Controversy remains about their guilt. DNA from the crime scene has not been matched to anyone and some evidence pointed to a parent of one of the victims.",
     "lastSeen": "May 5, 1993, West Memphis, AR",
     "tags": [
       "homicide",
@@ -5300,7 +4883,7 @@
     ]
   },
   {
-    "id": "michael-huston",
+    "id": "james-riddle",
     "name": "James Riddle",
     "type": "Homicide",
     "status": "Unsolved",
@@ -5392,7 +4975,7 @@
     "city": "Hamilton Township",
     "age": 7,
     "gender": "Female",
-    "summary": "Seven-year-old Megan Kanka was lured across the street by convicted sex offender Jesse Timmendequas and murdered. Megan's Law \u2014 which requires community notification when sex offenders live in a neighborhood \u2014 was passed in her memory. Timmendequas was convicted and sentenced to death, later commuted.",
+    "summary": "Seven-year-old Megan Kanka was lured across the street by convicted sex offender Jesse Timmendequas and murdered. Megan's Law — which requires community notification when sex offenders live in a neighborhood — was passed in her memory. Timmendequas was convicted and sentenced to death, later commuted.",
     "lastSeen": "July 29, 1994, Hamilton Township, NJ",
     "tags": [
       "homicide",
@@ -5427,7 +5010,7 @@
     "id": "ron-goldman-nicole-simpson",
     "name": "Nicole Brown Simpson & Ron Goldman",
     "type": "Multiple Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 1994,
     "date": "June 12, 1994",
     "state": "California",
@@ -5442,28 +5025,6 @@
       "O.J. Simpson",
       "acquittal",
       "Los Angeles"
-    ]
-  },
-  {
-    "id": "oj-simpson-double",
-    "name": "Nicole Brown Simpson & Ron Goldman (OJ)",
-    "type": "Multiple Homicide",
-    "status": "Unsolved",
-    "year": 1994,
-    "date": "June 12, 1994",
-    "state": "California",
-    "city": "Brentwood",
-    "age": null,
-    "gender": "Multiple",
-    "summary": "Nicole Brown Simpson (35) and Ron Goldman (25) were stabbed to death outside Nicole's condominium. O.J. Simpson was tried and acquitted in the most-watched trial in TV history. He was later found liable in civil court. The case changed American attitudes about celebrity, race, and the justice system.",
-    "lastSeen": "June 12, 1994, 875 S. Bundy Drive, Brentwood, CA",
-    "tags": [
-      "homicide",
-      "celebrity",
-      "acquittal",
-      "California",
-      "unsolved",
-      "Trial of the Century"
     ]
   },
   {
@@ -5485,26 +5046,6 @@
       "South Dakota",
       "Pine Ridge",
       "MMIW"
-    ]
-  },
-  {
-    "id": "connie-smith-mn",
-    "name": "Connie Smith",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1995,
-    "date": "January 11, 1995",
-    "state": "Minnesota",
-    "city": "St. Paul",
-    "age": 34,
-    "gender": "Female",
-    "summary": "Thirty-four-year-old Connie Smith was found murdered in St. Paul, Minnesota in January 1995. Despite investigation, the case went cold. It remains in Ramsey County cold case files.",
-    "lastSeen": "January 11, 1995, St. Paul, MN",
-    "tags": [
-      "homicide",
-      "Minnesota",
-      "St. Paul",
-      "unsolved"
     ]
   },
   {
@@ -5571,26 +5112,6 @@
     ]
   },
   {
-    "id": "mary-beth-tinker",
-    "name": "Stephanie Nolen",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1995,
-    "date": "June 18, 1995",
-    "state": "Colorado",
-    "city": "Denver",
-    "age": 18,
-    "gender": "Female",
-    "summary": "Eighteen-year-old Stephanie Nolen was found murdered in Denver, Colorado in June 1995. Despite investigation, the case went cold. It remains in Denver County cold case files.",
-    "lastSeen": "June 18, 1995, Denver, CO",
-    "tags": [
-      "homicide",
-      "Colorado",
-      "Denver",
-      "unsolved"
-    ]
-  },
-  {
     "id": "amber-hagerman",
     "name": "Amber Hagerman",
     "type": "Homicide",
@@ -5609,28 +5130,6 @@
       "homicide",
       "AMBER Alert origin",
       "Texas"
-    ]
-  },
-  {
-    "id": "amber-alert-1996",
-    "name": "Amber Hagerman (AMBER Alert Origin)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1996,
-    "date": "January 13, 1996",
-    "state": "Texas",
-    "city": "Arlington",
-    "age": 9,
-    "gender": "Female",
-    "summary": "Nine-year-old Amber Hagerman was abducted and murdered in Arlington, Texas, directly inspiring the creation of the AMBER Alert system. Her killer has never been identified despite decades of investigation. The AMBER Alert system has since saved thousands of children across America.",
-    "lastSeen": "January 13, 1996, Arlington, TX",
-    "tags": [
-      "homicide",
-      "child",
-      "Texas",
-      "AMBER Alert",
-      "unsolved",
-      "landmark"
     ]
   },
   {
@@ -5697,7 +5196,7 @@
   },
   {
     "id": "jonbenet-ramsey",
-    "name": "JonBen\u00e9t Ramsey",
+    "name": "JonBenét Ramsey",
     "type": "Homicide",
     "status": "Unsolved",
     "year": 1996,
@@ -5706,35 +5205,13 @@
     "city": "Boulder",
     "age": 6,
     "gender": "Female",
-    "summary": "Six-year-old beauty pageant winner found dead in the basement of her family's home on the morning after Christmas. A ransom note demanding $118,000 was found, but JonBen\u00e9t had never left the house. She had been struck on the head and strangled. Despite extensive investigation involving thousands of suspects, no arrests have ever been made.",
+    "summary": "Six-year-old beauty pageant winner found dead in the basement of her family's home on the morning after Christmas. A ransom note demanding $118,000 was found, but JonBenét had never left the house. She had been struck on the head and strangled. Despite extensive investigation involving thousands of suspects, no arrests have ever been made.",
     "lastSeen": "December 25, 1996, at home in Boulder, CO",
     "tags": [
       "child",
       "homicide",
       "high-profile",
       "DNA evidence"
-    ]
-  },
-  {
-    "id": "jonbenet-suspect-2016",
-    "name": "JonBen\u00e9t Ramsey (Renewed Investigation)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1996,
-    "date": "December 26, 1996",
-    "state": "Colorado",
-    "city": "Boulder",
-    "age": 6,
-    "gender": "Female",
-    "summary": "JonBen\u00e9t Ramsey's case has been periodically reopened. In 2023, Boulder police announced they were working with a company using advanced DNA technology to reanalyze evidence. A profile of an unidentified male was enhanced, potentially leading to new suspects. The case remains officially unsolved after nearly 30 years.",
-    "lastSeen": "December 25, 1996, family home in Boulder, CO",
-    "tags": [
-      "child",
-      "homicide",
-      "Colorado",
-      "high-profile",
-      "DNA reanalysis",
-      "ongoing"
     ]
   },
   {
@@ -5758,29 +5235,7 @@
     ]
   },
   {
-    "id": "jon-benet-updated",
-    "name": "Patsy Ramsey as Suspect",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1996,
-    "date": "December 26, 1996",
-    "state": "Colorado",
-    "city": "Boulder",
-    "age": 6,
-    "gender": "Female",
-    "summary": "The JonBen\u00e9t Ramsey case has evolved over decades. DNA testing in 2008 exonerated the Ramsey family. Advanced touch DNA analysis in 2023 created a new profile of an unknown male. The case remains one of America's most discussed unsolved murders with no arrest after nearly 30 years.",
-    "lastSeen": "December 25, 1996, family home, Boulder, CO",
-    "tags": [
-      "homicide",
-      "child",
-      "Colorado",
-      "DNA",
-      "high-profile",
-      "decades unsolved"
-    ]
-  },
-  {
-    "id": "cathy-thomas-delaware",
+    "id": "rebecca-williams",
     "name": "Rebecca Williams",
     "type": "Homicide",
     "status": "Unsolved",
@@ -5820,16 +5275,16 @@
   },
   {
     "id": "shenandoah-murders",
-    "name": "Scott Hamlin & Lollie Winans",
+    "name": "Julianne Williams & Lollie Winans",
     "type": "Multiple Homicide",
-    "status": "Conviction",
+    "status": "Unsolved",
     "year": 1996,
     "date": "May 1996",
     "state": "Virginia",
     "city": "Shenandoah National Park",
     "age": null,
     "gender": "Female",
-    "summary": "Two young women, Julianne Williams and Laura 'Lollie' Winans, were found murdered while camping in Shenandoah National Park. Darrell Rice was initially prosecuted but charges were dropped. Randall Lee Smith, who had committed previous park murders, was eventually convicted. The case highlighted dangers in national parks.",
+    "summary": "Julianne Williams and Laura 'Lollie' Winans were found murdered at their backcountry campsite in Shenandoah National Park in 1996. Darrell Rice was indicted in 2002, but the charges were dropped in 2004 after DNA evidence did not match him. The murders remain unsolved and the FBI continues to seek information.",
     "lastSeen": "May 1996, Appalachian Trail, Shenandoah National Park, VA",
     "tags": [
       "homicide",
@@ -5846,7 +5301,7 @@
     "status": "Unsolved",
     "year": 1996,
     "date": "September 13, 1996",
-    "state": "California",
+    "state": "Nevada",
     "city": "Las Vegas",
     "age": 25,
     "gender": "Male",
@@ -5861,28 +5316,7 @@
     ]
   },
   {
-    "id": "tupac-las-vegas",
-    "name": "Tupac Shakur (Las Vegas)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 1996,
-    "date": "September 7, 1996",
-    "state": "Nevada",
-    "city": "Las Vegas",
-    "age": 25,
-    "gender": "Male",
-    "summary": "Tupac Shakur was shot four times in a drive-by shooting while stopped at a red light in Las Vegas after attending a Mike Tyson boxing match. He died of his injuries six days later. Despite numerous witnesses and suspects, no one has ever been charged. The case remains officially open by Las Vegas Metro Police.",
-    "lastSeen": "September 7, 1996, Flamingo Road, Las Vegas, NV",
-    "tags": [
-      "homicide",
-      "rapper",
-      "Las Vegas",
-      "unsolved",
-      "drive-by"
-    ]
-  },
-  {
-    "id": "wyoming-missing-1994",
+    "id": "amy-bechtel",
     "name": "Amy Bechtel",
     "type": "Missing Person",
     "status": "Unsolved",
@@ -6016,7 +5450,7 @@
     "city": "Norfolk",
     "age": 18,
     "gender": "Female",
-    "summary": "Eighteen-year-old Michelle Moore-Bosko was raped and murdered in her Norfolk apartment. Four Navy sailors \u2014 the 'Norfolk Four' \u2014 were coerced into false confessions and convicted. Another man, Danial Williams, eventually confessed. Four of the men were exonerated after years of advocacy. The case exposed problems with coerced confessions.",
+    "summary": "Eighteen-year-old Michelle Moore-Bosko was raped and murdered in her Norfolk apartment. Four Navy sailors — the 'Norfolk Four' — were coerced into false confessions and convicted. Another man, Danial Williams, eventually confessed. Four of the men were exonerated after years of advocacy. The case exposed problems with coerced confessions.",
     "lastSeen": "July 8, 1997, her apartment in Norfolk, VA",
     "tags": [
       "homicide",
@@ -6111,7 +5545,7 @@
     ]
   },
   {
-    "id": "dillon-hull",
+    "id": "paul-scagnetti",
     "name": "Paul Scagnetti",
     "type": "Homicide",
     "status": "Unsolved",
@@ -6128,28 +5562,6 @@
       "Nevada",
       "Las Vegas",
       "unsolved"
-    ]
-  },
-  {
-    "id": "james-byrd-killers",
-    "name": "Shawn Berry Release",
-    "type": "Homicide",
-    "status": "Conviction",
-    "year": 1998,
-    "date": "June 7, 1998",
-    "state": "Texas",
-    "city": "Jasper",
-    "age": null,
-    "gender": "Multiple",
-    "summary": "The brutal 1998 murder of James Byrd Jr. in Jasper, Texas led to convictions of all three perpetrators. John King was executed in 2019. Lawrence Brewer was executed in 2011. Shawn Berry received life imprisonment and is eligible for parole. The case inspired federal hate crime legislation.",
-    "lastSeen": "June 7, 1998, Jasper, TX",
-    "tags": [
-      "homicide",
-      "hate crime",
-      "Texas",
-      "conviction",
-      "James Byrd Jr.",
-      "civil rights"
     ]
   },
   {
@@ -6391,7 +5803,7 @@
     ]
   },
   {
-    "id": "ira-einhorn-holly",
+    "id": "tom-donahue",
     "name": "Tom Donahue",
     "type": "Homicide",
     "status": "Unsolved",
@@ -6534,7 +5946,7 @@
     ]
   },
   {
-    "id": "valarie-mack",
+    "id": "valerie-mack",
     "name": "Valerie Mack",
     "type": "Unidentified Person",
     "status": "Partially Solved",
@@ -6577,35 +5989,14 @@
     ]
   },
   {
-    "id": "robert-blake-bakley",
-    "name": "Bonny Lee Bakley Murder",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2001,
-    "date": "May 4, 2001",
-    "state": "California",
-    "city": "Studio City",
-    "age": 44,
-    "gender": "Female",
-    "summary": "Bonny Lee Bakley was shot dead while sitting in Robert Blake's car outside a restaurant in Studio City. Blake was acquitted in criminal court in 2005 but found liable in civil court. No other suspect was charged and the case remains officially unsolved. Blake died in 2023.",
-    "lastSeen": "May 4, 2001, Vitello's Restaurant, Studio City, CA",
-    "tags": [
-      "homicide",
-      "celebrity",
-      "acquittal",
-      "California",
-      "unsolved"
-    ]
-  },
-  {
     "id": "chandra-levy",
     "name": "Chandra Levy",
     "type": "Homicide",
     "status": "Unsolved",
     "year": 2001,
     "date": "May 1, 2001",
-    "state": "California",
-    "city": "Washington DC",
+    "state": "District of Columbia",
+    "city": "Washington",
     "age": 24,
     "gender": "Female",
     "summary": "Federal intern Chandra Levy disappeared from Washington D.C. in 2001. Her remains were found in Rock Creek Park a year later. Her disappearance drew enormous attention due to her relationship with congressman Gary Condit. Ingmar Guandique was convicted in 2010 but his conviction was vacated in 2015 and charges dropped.",
@@ -6615,27 +6006,6 @@
       "homicide",
       "political",
       "Washington DC"
-    ]
-  },
-  {
-    "id": "dc-unsolved-1999",
-    "name": "Chandra Levy (DC)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2001,
-    "date": "May 1, 2001",
-    "state": "District of Columbia",
-    "city": "Washington",
-    "age": 24,
-    "gender": "Female",
-    "summary": "Federal intern Chandra Levy disappeared from Washington D.C. Her remains were found a year later in Rock Creek Park. Ingmar Guandique was convicted then acquitted on retrial, leaving the case officially unsolved. Her disappearance caused significant political controversy due to her relationship with a sitting congressman.",
-    "lastSeen": "May 1, 2001, her apartment in Washington, D.C.",
-    "tags": [
-      "homicide",
-      "Washington DC",
-      "political",
-      "unsolved",
-      "acquittal"
     ]
   },
   {
@@ -6751,7 +6121,7 @@
     "city": "Columbia",
     "age": 48,
     "gender": "Male",
-    "summary": "Columbia Tribune sports editor Kent Heitholt was beaten and strangled in the Tribune parking lot. Two men were convicted \u2014 Ryan Ferguson and Charles Erickson \u2014 but Ferguson's conviction was vacated in 2013 after key witness recanted. Erickson's conviction stands but the case has become emblematic of wrongful conviction concerns.",
+    "summary": "Columbia Tribune sports editor Kent Heitholt was beaten and strangled in the Tribune parking lot. Two men were convicted — Ryan Ferguson and Charles Erickson — but Ferguson's conviction was vacated in 2013 after key witness recanted. Erickson's conviction stands but the case has become emblematic of wrongful conviction concerns.",
     "lastSeen": "November 1, 2001, Columbia Tribune parking lot, Columbia, MO",
     "tags": [
       "homicide",
@@ -6782,7 +6152,7 @@
     ]
   },
   {
-    "id": "phoenix-lights",
+    "id": "michelle-martinez",
     "name": "Michelle Martinez",
     "type": "Homicide",
     "status": "Unsolved",
@@ -6802,7 +6172,7 @@
     ]
   },
   {
-    "id": "mira-forman",
+    "id": "sandy-forman",
     "name": "Sandy Forman",
     "type": "Homicide",
     "status": "Unsolved",
@@ -6929,7 +6299,7 @@
     "type": "Missing Person",
     "status": "Conviction",
     "year": 2002,
-    "date": "2002 \u2013 2004",
+    "date": "2002 – 2004",
     "state": "Ohio",
     "city": "Cleveland",
     "age": null,
@@ -7010,8 +6380,8 @@
     ]
   },
   {
-    "id": "tucson-victims",
-    "name": "Erin Runnion",
+    "id": "samantha-runnion",
+    "name": "Samantha Runnion",
     "type": "Homicide",
     "status": "Conviction",
     "year": 2002,
@@ -7109,27 +6479,6 @@
       "conviction",
       "high-profile",
       "domestic violence"
-    ]
-  },
-  {
-    "id": "scott-peterson-laci",
-    "name": "Laci Peterson (Detailed)",
-    "type": "Homicide",
-    "status": "Conviction",
-    "year": 2002,
-    "date": "December 24, 2002",
-    "state": "California",
-    "city": "Modesto",
-    "age": 27,
-    "gender": "Female",
-    "summary": "Eight-months-pregnant Laci Peterson vanished on Christmas Eve. Her husband Scott reported her missing and became the prime suspect. Laci's remains and those of her unborn son washed ashore near the San Francisco Bay. Scott Peterson was convicted of first-degree murder of Laci and second-degree murder of their unborn son Conner.",
-    "lastSeen": "December 24, 2002, family home in Modesto, CA",
-    "tags": [
-      "homicide",
-      "California",
-      "conviction",
-      "domestic",
-      "high-profile"
     ]
   },
   {
@@ -7296,27 +6645,7 @@
     ]
   },
   {
-    "id": "alabama-missing-2003",
-    "name": "Cynthia Anderson",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2003,
-    "date": "September 5, 2003",
-    "state": "Alabama",
-    "city": "Mobile",
-    "age": 27,
-    "gender": "Female",
-    "summary": "Twenty-seven-year-old Cynthia Anderson was found murdered in Mobile, Alabama in September 2003. Despite investigation by Mobile Police, the case went cold. It remains in Mobile County cold case files.",
-    "lastSeen": "September 5, 2003, Mobile, AL",
-    "tags": [
-      "homicide",
-      "Alabama",
-      "Mobile",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "colorado-missing-2003",
+    "id": "dru-sjodin",
     "name": "Dru Sjodin",
     "type": "Homicide",
     "status": "Conviction",
@@ -7377,7 +6706,7 @@
     ]
   },
   {
-    "id": "colt-bundy",
+    "id": "linda-sobieraj",
     "name": "Linda Sobieraj",
     "type": "Homicide",
     "status": "Unsolved",
@@ -7502,7 +6831,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 2003,
-    "date": "2003 \u2013 2016",
+    "date": "2003 – 2016",
     "state": "South Carolina",
     "city": "Spartanburg County",
     "age": null,
@@ -7537,7 +6866,7 @@
     ]
   },
   {
-    "id": "illinois-missing-2000",
+    "id": "brianna-maitland",
     "name": "Brianna Maitland",
     "type": "Missing Person",
     "status": "Unsolved",
@@ -7577,26 +6906,6 @@
       "conviction",
       "surveillance footage",
       "Carlie's Law"
-    ]
-  },
-  {
-    "id": "dan-quisenberry",
-    "name": "Carrie Ann Lucas",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2004,
-    "date": "September 15, 2004",
-    "state": "Texas",
-    "city": "Houston",
-    "age": 32,
-    "gender": "Female",
-    "summary": "Carrie Ann Lucas was found murdered in Houston, Texas in September 2004. Her case went cold despite investigation by Houston Police Department. Her family has continued to advocate for answers.",
-    "lastSeen": "September 15, 2004, Houston, TX",
-    "tags": [
-      "homicide",
-      "Texas",
-      "Houston",
-      "unsolved"
     ]
   },
   {
@@ -7786,7 +7095,7 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 2005,
-    "date": "2005 \u2013 2009",
+    "date": "2005 – 2009",
     "state": "Louisiana",
     "city": "Jefferson Davis Parish",
     "age": null,
@@ -7822,7 +7131,7 @@
     ]
   },
   {
-    "id": "jessica-lundsford",
+    "id": "jessica-lunsford",
     "name": "Jessica Lunsford",
     "type": "Homicide",
     "status": "Conviction",
@@ -7875,7 +7184,7 @@
     "city": "Aruba",
     "age": 18,
     "gender": "Female",
-    "summary": "Alabama teenager Natalee Holloway disappeared while on a graduation trip to Aruba. She was last seen leaving a bar with Joran van der Sloot. Joran was repeatedly investigated but never charged in her disappearance. He later murdered another woman in Peru and is serving time there. Natalee was declared legally dead in 2012.",
+    "summary": "Alabama teenager Natalee Holloway disappeared while on a graduation trip to Aruba. She was last seen leaving a bar with Joran van der Sloot, who was investigated repeatedly but not charged in her disappearance. In 2023, van der Sloot admitted killing her as part of a US federal plea agreement. Natalee was declared legally dead in 2012.",
     "lastSeen": "May 30, 2005, Carlos'n Charlie's bar, Oranjestad, Aruba",
     "tags": [
       "missing person",
@@ -7927,7 +7236,7 @@
     ]
   },
   {
-    "id": "theresa-halbach",
+    "id": "teresa-halbach",
     "name": "Teresa Halbach",
     "type": "Homicide",
     "status": "Conviction",
@@ -7964,26 +7273,6 @@
       "homicide",
       "Alabama",
       "Tuscaloosa",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "amber-hunt",
-    "name": "Amber Hunt",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2006,
-    "date": "August 19, 2006",
-    "state": "Ohio",
-    "city": "Cincinnati",
-    "age": 19,
-    "gender": "Female",
-    "summary": "Nineteen-year-old Amber Hunt was found murdered in Cincinnati, Ohio in August 2006. Despite investigation by Cincinnati Police, the case went cold. It remains in Hamilton County cold case files.",
-    "lastSeen": "August 19, 2006, Cincinnati, OH",
-    "tags": [
-      "homicide",
-      "Ohio",
-      "Cincinnati",
       "unsolved"
     ]
   },
@@ -8028,7 +7317,7 @@
     ]
   },
   {
-    "id": "utah-missing-1997",
+    "id": "cassie-jo-stoddart",
     "name": "Cassie Jo Stoddart",
     "type": "Homicide",
     "status": "Conviction",
@@ -8046,28 +7335,6 @@
       "Idaho",
       "conviction",
       "premeditated"
-    ]
-  },
-  {
-    "id": "windwalker",
-    "name": "Hannah Harris",
-    "type": "Missing Person",
-    "status": "Unsolved",
-    "year": 2006,
-    "date": "September 25, 2006",
-    "state": "Oklahoma",
-    "city": "Pawhuska",
-    "age": 17,
-    "gender": "Female",
-    "summary": "Seventeen-year-old Hannah Harris, a member of the Osage Nation, disappeared from Pawhuska, Oklahoma in September 2006. She was last seen leaving a party. Despite investigation, she was never found. Her case is part of the documented MMIW crisis.",
-    "lastSeen": "September 25, 2006, Pawhuska, OK",
-    "tags": [
-      "missing person",
-      "Native American",
-      "Oklahoma",
-      "MMIW",
-      "Osage Nation",
-      "unsolved"
     ]
   },
   {
@@ -8113,7 +7380,7 @@
     ]
   },
   {
-    "id": "crystal-mangum",
+    "id": "robert-wone",
     "name": "Robert Wone",
     "type": "Homicide",
     "status": "Unsolved",
@@ -8134,7 +7401,7 @@
     ]
   },
   {
-    "id": "sasha-mccrae",
+    "id": "victoria-pham",
     "name": "Victoria Pham",
     "type": "Homicide",
     "status": "Unsolved",
@@ -8159,7 +7426,7 @@
     "type": "Serial Killer Victims",
     "status": "Conviction",
     "year": 2007,
-    "date": "2007 \u2013 2009",
+    "date": "2007 – 2009",
     "state": "Ohio",
     "city": "Cleveland",
     "age": null,
@@ -8217,26 +7484,6 @@
     ]
   },
   {
-    "id": "kim-porter",
-    "name": "Kim Porter",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2007,
-    "date": "November 30, 2007",
-    "state": "California",
-    "city": "Toluca Lake",
-    "age": null,
-    "gender": "Female",
-    "summary": "Kim Porter, the long-time partner of Sean 'Diddy' Combs, died in November 2018 of pneumonia. Her death was ruled natural causes but questions have been raised about the circumstances. The case is officially closed as a natural death.",
-    "lastSeen": "November 30, 2018, her home in Toluca Lake, CA",
-    "tags": [
-      "suspicious death",
-      "California",
-      "celebrity",
-      "natural causes ruled"
-    ]
-  },
-  {
     "id": "lisa-pizarro",
     "name": "Lisa Pizarro",
     "type": "Homicide",
@@ -8262,12 +7509,12 @@
     "type": "Serial Killer Victims",
     "status": "Unsolved",
     "year": 2007,
-    "date": "2007 \u2013 2010",
+    "date": "2007 – 2010",
     "state": "New York",
     "city": "Gilgo Beach",
     "age": null,
     "gender": "Multiple",
-    "summary": "The skeletal remains of 10 people \u2014 mostly female sex workers \u2014 were found along Ocean Parkway on Long Island, New York. Known as the Gilgo Beach murders, a serial killer dubbed LISK is believed responsible. Rex Heuermann was arrested in 2023 and charged with multiple murders. His trial is pending.",
+    "summary": "The skeletal remains of 10 people — mostly female sex workers — were found along Ocean Parkway on Long Island, New York. Known as the Gilgo Beach murders, a serial killer dubbed LISK is believed responsible. Rex Heuermann was arrested in 2023 and charged with multiple murders. His trial is pending.",
     "lastSeen": "Various dates, Long Island, NY",
     "tags": [
       "serial killer",
@@ -8276,26 +7523,6 @@
       "Gilgo Beach",
       "sex workers",
       "arrest made"
-    ]
-  },
-  {
-    "id": "lorraine-kelly",
-    "name": "Lorraine Kelly",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2007,
-    "date": "January 14, 2007",
-    "state": "Florida",
-    "city": "Tampa",
-    "age": 48,
-    "gender": "Female",
-    "summary": "Forty-eight-year-old Lorraine Kelly was found murdered in Tampa, Florida in January 2007. Despite investigation, the case went cold. It remains in Hillsborough County cold case files.",
-    "lastSeen": "January 14, 2007, Tampa, FL",
-    "tags": [
-      "homicide",
-      "Florida",
-      "Tampa",
-      "unsolved"
     ]
   },
   {
@@ -8382,7 +7609,7 @@
     "id": "caylee-anthony",
     "name": "Caylee Anthony",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2008,
     "date": "June 16, 2008",
     "state": "Florida",
@@ -8421,7 +7648,7 @@
     ]
   },
   {
-    "id": "florida-missing-2014",
+    "id": "denise-amber-lee",
     "name": "Denise Amber Lee",
     "type": "Homicide",
     "status": "Conviction",
@@ -8439,66 +7666,6 @@
       "conviction",
       "911 failure",
       "Denise's Law"
-    ]
-  },
-  {
-    "id": "holly-jolly",
-    "name": "Holly Jolly",
-    "type": "Missing Person",
-    "status": "Unsolved",
-    "year": 2008,
-    "date": "March 2, 2008",
-    "state": "Texas",
-    "city": "Victoria",
-    "age": 17,
-    "gender": "Female",
-    "summary": "Seventeen-year-old Holly Jolly disappeared from a park near her home in Victoria, Texas. Her friends reported she was meeting someone she had met online. Despite extensive searches and investigation, Holly has never been found. The case highlighted dangers of online predators targeting teenagers.",
-    "lastSeen": "March 2, 2008, Riverside Park, Victoria, TX",
-    "tags": [
-      "missing person",
-      "teen",
-      "online predator",
-      "Texas"
-    ]
-  },
-  {
-    "id": "karis-jagger",
-    "name": "Kori Cioca",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2008,
-    "date": "March 3, 2008",
-    "state": "Ohio",
-    "city": "Dayton",
-    "age": null,
-    "gender": "Female",
-    "summary": "A young woman was found murdered in Dayton, Ohio in March 2008. Despite investigation by Dayton Police, the case went cold. It remains in Montgomery County cold case files.",
-    "lastSeen": "March 3, 2008, Dayton, OH",
-    "tags": [
-      "homicide",
-      "Ohio",
-      "Dayton",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "arizona-unsolved-2008",
-    "name": "Lori Loughlin",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2008,
-    "date": "February 22, 2008",
-    "state": "Arizona",
-    "city": "Scottsdale",
-    "age": 42,
-    "gender": "Female",
-    "summary": "A 42-year-old woman was found murdered in Scottsdale, Arizona in February 2008. Despite investigation by Scottsdale Police, the case went cold. It remains in Maricopa County cold case files.",
-    "lastSeen": "February 22, 2008, Scottsdale, AZ",
-    "tags": [
-      "homicide",
-      "Arizona",
-      "Scottsdale",
-      "unsolved"
     ]
   },
   {
@@ -8562,26 +7729,6 @@
     ]
   },
   {
-    "id": "alice-waters",
-    "name": "Alice Waters",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2009,
-    "date": "February 7, 2009",
-    "state": "Georgia",
-    "city": "Athens",
-    "age": 28,
-    "gender": "Female",
-    "summary": "Twenty-eight-year-old Alice Waters was found murdered in Athens, Georgia in February 2009. Despite investigation, the case went cold. It remains in Clarke County cold case files.",
-    "lastSeen": "February 7, 2009, Athens, GA",
-    "tags": [
-      "homicide",
-      "Georgia",
-      "Athens",
-      "unsolved"
-    ]
-  },
-  {
     "id": "amber-dubois",
     "name": "Amber Dubois",
     "type": "Homicide",
@@ -8603,17 +7750,17 @@
     ]
   },
   {
-    "id": "sc-missing-2008",
+    "id": "brittanee-drexel",
     "name": "Brittanee Drexel",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "Conviction",
     "year": 2009,
     "date": "April 25, 2009",
     "state": "South Carolina",
     "city": "Myrtle Beach",
     "age": 17,
     "gender": "Female",
-    "summary": "Seventeen-year-old Brittanee Drexel disappeared from Myrtle Beach, South Carolina during spring break. A man named Timothy Da'Von Taylor was named a suspect decades later. Investigators believe she was trafficked and killed. Her case remains open with active leads being pursued.",
+    "summary": "Seventeen-year-old Brittanee Drexel disappeared from Myrtle Beach, South Carolina during spring break in 2009. In 2022, Raymond Moody pleaded guilty to her kidnapping, rape, and murder and was sentenced to life in prison. Her remains were recovered in Georgetown County, ending a thirteen-year search.",
     "lastSeen": "April 25, 2009, Blue Water Resort, Myrtle Beach, SC",
     "tags": [
       "missing person",
@@ -8626,7 +7773,7 @@
   },
   {
     "id": "jose-campos",
-    "name": "Jos\u00e9 Campos",
+    "name": "José Campos",
     "type": "Homicide",
     "status": "Unsolved",
     "year": 2009,
@@ -8635,35 +7782,13 @@
     "city": "Tucson",
     "age": 33,
     "gender": "Male",
-    "summary": "Thirty-three-year-old Jos\u00e9 Campos was found murdered in Tucson, Arizona in January 2009. Despite investigation, the case went cold. It remains in Pima County cold case files.",
+    "summary": "Thirty-three-year-old José Campos was found murdered in Tucson, Arizona in January 2009. Despite investigation, the case went cold. It remains in Pima County cold case files.",
     "lastSeen": "January 24, 2009, Tucson, AZ",
     "tags": [
       "homicide",
       "Arizona",
       "Tucson",
       "unsolved"
-    ]
-  },
-  {
-    "id": "michelle-la-toya-jackson",
-    "name": "La Toya Jackson Threat",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2009,
-    "date": "June 25, 2009",
-    "state": "California",
-    "city": "Los Angeles",
-    "age": 50,
-    "gender": "Male",
-    "summary": "Michael Jackson died in his Los Angeles home from acute propofol and benzodiazepine intoxication administered by Dr. Conrad Murray. Murray was convicted of involuntary manslaughter in 2011 and served two years. Family members alleged murder but the conviction stands as manslaughter only.",
-    "lastSeen": "June 25, 2009, his home in Holmby Hills, Los Angeles, CA",
-    "tags": [
-      "suspicious death",
-      "celebrity",
-      "California",
-      "conviction",
-      "Michael Jackson",
-      "propofol"
     ]
   },
   {
@@ -8932,7 +8057,7 @@
     ]
   },
   {
-    "id": "connecticut-grisly",
+    "id": "juanita-williams",
     "name": "Juanita Williams",
     "type": "Homicide",
     "status": "Unsolved",
@@ -8951,7 +8076,7 @@
     ]
   },
   {
-    "id": "michigan-missing-2005",
+    "id": "lauren-spierer",
     "name": "Lauren Spierer",
     "type": "Missing Person",
     "status": "Unsolved",
@@ -9136,7 +8261,7 @@
     ]
   },
   {
-    "id": "vermont-unsolved-2001",
+    "id": "melissa-jenkins",
     "name": "Melissa Jenkins",
     "type": "Homicide",
     "status": "Conviction",
@@ -9154,28 +8279,6 @@
       "Vermont",
       "conviction",
       "cult"
-    ]
-  },
-  {
-    "id": "george-zimmerman",
-    "name": "Trayvon Martin",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2012,
-    "date": "February 26, 2012",
-    "state": "Florida",
-    "city": "Sanford",
-    "age": 17,
-    "gender": "Male",
-    "summary": "Seventeen-year-old Trayvon Martin was shot and killed by neighborhood watch volunteer George Zimmerman in Sanford, Florida. Zimmerman was acquitted of murder and manslaughter in 2013. His acquittal sparked the Black Lives Matter movement. The case remains controversial and is considered partially unresolved.",
-    "lastSeen": "February 26, 2012, Retreat at Twin Lakes, Sanford, FL",
-    "tags": [
-      "homicide",
-      "Florida",
-      "teen",
-      "acquittal",
-      "Black Lives Matter",
-      "racial justice"
     ]
   },
   {
@@ -9197,27 +8300,6 @@
       "teen",
       "New Hampshire",
       "conviction"
-    ]
-  },
-  {
-    "id": "abby-hernandez-nh",
-    "name": "Abigail Hernandez Kidnapping",
-    "type": "Missing Person",
-    "status": "Conviction",
-    "year": 2013,
-    "date": "October 9, 2013",
-    "state": "New Hampshire",
-    "city": "Conway",
-    "age": 14,
-    "gender": "Female",
-    "summary": "Fourteen-year-old Abigail Hernandez was kidnapped while walking home from school in Conway, New Hampshire. She was held captive for nearly nine months by Nathaniel Kibby. She was found alive in 2014. Kibby pleaded guilty to kidnapping and other charges and was sentenced to 45 years in prison. Her survival was remarkable.",
-    "lastSeen": "October 9, 2013, walking home from Kennett High School, Conway, NH",
-    "tags": [
-      "kidnapping",
-      "teen",
-      "New Hampshire",
-      "conviction",
-      "survivor"
     ]
   },
   {
@@ -9273,7 +8355,7 @@
     "city": "Los Angeles",
     "age": 21,
     "gender": "Female",
-    "summary": "Canadian tourist Elisa Lam was found dead in a rooftop water tank at the Cecil Hotel in Los Angeles. Eerie elevator surveillance footage showed her behaving oddly before her disappearance. The death was ruled accidental drowning, but the circumstances\u2014including how she accessed the locked rooftop\u2014remain controversial.",
+    "summary": "Canadian tourist Elisa Lam was found dead in a rooftop water tank at the Cecil Hotel in Los Angeles. Eerie elevator surveillance footage showed her behaving oddly before her disappearance. The death was ruled accidental drowning, but the circumstances—including how she accessed the locked rooftop—remain controversial.",
     "lastSeen": "February 1, 2013, Cecil Hotel, Los Angeles, CA",
     "tags": [
       "suspicious death",
@@ -9283,10 +8365,10 @@
     ]
   },
   {
-    "id": "savanna-lafontaine-detail",
+    "id": "hanna-harris",
     "name": "Hanna Harris",
     "type": "Missing Person",
-    "status": "Partially Solved",
+    "status": "Conviction",
     "year": 2013,
     "date": "July 4, 2013",
     "state": "Montana",
@@ -9348,7 +8430,7 @@
     "id": "eric-garner",
     "name": "Eric Garner",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2014,
     "date": "July 17, 2014",
     "state": "New York",
@@ -9389,7 +8471,7 @@
     ]
   },
   {
-    "id": "philando-castile-detail",
+    "id": "laquan-mcdonald",
     "name": "Laquan McDonald",
     "type": "Homicide",
     "status": "Conviction",
@@ -9415,7 +8497,7 @@
     "id": "michael-brown",
     "name": "Michael Brown",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2014,
     "date": "August 9, 2014",
     "state": "Missouri",
@@ -9438,7 +8520,7 @@
     "id": "tamir-rice",
     "name": "Tamir Rice",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2014,
     "date": "November 22, 2014",
     "state": "Ohio",
@@ -9502,7 +8584,7 @@
     "id": "freddie-gray",
     "name": "Freddie Gray",
     "type": "Suspicious Death",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2015,
     "date": "April 19, 2015",
     "state": "Maryland",
@@ -9525,7 +8607,7 @@
     "id": "sandra-bland",
     "name": "Sandra Bland",
     "type": "Suspicious Death",
-    "status": "Unsolved",
+    "status": "Ruled Suicide",
     "year": 2015,
     "date": "July 13, 2015",
     "state": "Texas",
@@ -9566,7 +8648,7 @@
     ]
   },
   {
-    "id": "washington-missing-2007",
+    "id": "ingrid-lyne",
     "name": "Ingrid Lyne",
     "type": "Homicide",
     "status": "Conviction",
@@ -9590,7 +8672,7 @@
     "id": "philando-castile",
     "name": "Philando Castile",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2016,
     "date": "July 6, 2016",
     "state": "Minnesota",
@@ -9714,30 +8796,8 @@
     ]
   },
   {
-    "id": "amber-geiger",
+    "id": "botham-jean",
     "name": "Botham Jean",
-    "type": "Homicide",
-    "status": "Conviction",
-    "year": 2018,
-    "date": "September 6, 2018",
-    "state": "Texas",
-    "city": "Dallas",
-    "age": 26,
-    "gender": "Male",
-    "summary": "Botham Jean was shot and killed in his own Dallas apartment by off-duty police officer Amber Guyger, who claimed she mistakenly entered his apartment thinking it was her own. Guyger was convicted of murder in 2019 and sentenced to 10 years, later released after five. The case sparked debate about police accountability and race.",
-    "lastSeen": "September 6, 2018, his apartment in Dallas, TX",
-    "tags": [
-      "homicide",
-      "police officer",
-      "Texas",
-      "Dallas",
-      "conviction",
-      "racial justice"
-    ]
-  },
-  {
-    "id": "botham-jean-detailed",
-    "name": "Botham Jean (Detailed)",
     "type": "Homicide",
     "status": "Conviction",
     "year": 2018,
@@ -9841,27 +8901,6 @@
     ]
   },
   {
-    "id": "taylor-thyfault",
-    "name": "Taylor Thyfault",
-    "type": "Missing Person",
-    "status": "Unsolved",
-    "year": 2019,
-    "date": "September 3, 2019",
-    "state": "Colorado",
-    "city": "Denver",
-    "age": 21,
-    "gender": "Female",
-    "summary": "Twenty-one-year-old Taylor Thyfault disappeared from Denver, Colorado in September 2019 after a night out in Lower Downtown. She was captured on surveillance video but never seen again. Despite investigation, she was never found. Her case is an active investigation.",
-    "lastSeen": "September 3, 2019, LoDo neighborhood, Denver, CO",
-    "tags": [
-      "missing person",
-      "Colorado",
-      "Denver",
-      "surveillance video",
-      "unsolved"
-    ]
-  },
-  {
     "id": "lori-vallow",
     "name": "Tylee Ryan & JJ Vallow",
     "type": "Multiple Homicide",
@@ -9887,14 +8926,14 @@
     "id": "breonna-taylor",
     "name": "Breonna Taylor",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "No Conviction",
     "year": 2020,
     "date": "March 13, 2020",
     "state": "Kentucky",
     "city": "Louisville",
     "age": 26,
     "gender": "Female",
-    "summary": "EMT Breonna Taylor was shot and killed by police executing a no-knock warrant at her Louisville apartment. No drugs were found. Her boyfriend fired at officers believing it was a break-in. Only one officer was indicted \u2014 for endangering neighbors \u2014 not for Taylor's death. Her case became a central civil rights issue.",
+    "summary": "EMT Breonna Taylor was shot and killed by police executing a no-knock warrant at her Louisville apartment. No drugs were found. Her boyfriend fired at officers believing it was a break-in. Only one officer was indicted — for endangering neighbors — not for Taylor's death. Her case became a central civil rights issue.",
     "lastSeen": "March 13, 2020, her apartment in Louisville, KY",
     "tags": [
       "homicide",
@@ -9952,28 +8991,6 @@
     ]
   },
   {
-    "id": "gabby-petito-wyoming",
-    "name": "Gabby Petito (Detailed)",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2021,
-    "date": "August 27, 2021",
-    "state": "Wyoming",
-    "city": "Grand Teton National Park",
-    "age": 22,
-    "gender": "Female",
-    "summary": "Influencer Gabrielle Petito was strangled and found dead in Grand Teton National Park. Her fianc\u00e9 Brian Laundrie returned to Florida without her and refused to speak to police. After a nationwide search, Laundrie's remains were found in a Florida preserve \u2014 he had died of a self-inflicted gunshot. Her case remains officially unsolved.",
-    "lastSeen": "August 27, 2021, Grand Teton National Park, WY",
-    "tags": [
-      "homicide",
-      "Wyoming",
-      "influencer",
-      "national park",
-      "suspect deceased",
-      "unsolved"
-    ]
-  },
-  {
     "id": "gabby-petito",
     "name": "Gabrielle Petito",
     "type": "Homicide",
@@ -9984,7 +9001,7 @@
     "city": "Grand Teton",
     "age": 22,
     "gender": "Female",
-    "summary": "Travel blogger Gabrielle Petito was strangled and found in Grand Teton National Park, Wyoming. Her fianc\u00e9 Brian Laundrie returned home alone and refused to cooperate with investigators before fleeing. He was found dead of a self-inflicted gunshot in Florida. His death left Petito's case officially unsolved and sparked national conversation about missing person coverage disparities.",
+    "summary": "Travel blogger Gabrielle Petito was strangled and found in Grand Teton National Park, Wyoming. Her fiancé Brian Laundrie returned home alone and refused to cooperate with investigators before fleeing. He was found dead of a self-inflicted gunshot in Florida. His death left Petito's case officially unsolved and sparked national conversation about missing person coverage disparities.",
     "lastSeen": "August 27, 2021, Grand Teton National Park, WY",
     "tags": [
       "homicide",
@@ -10019,14 +9036,14 @@
     "id": "ethan-chapin",
     "name": "Ethan Chapin",
     "type": "Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2022,
     "date": "November 13, 2022",
     "state": "Idaho",
     "city": "Moscow",
     "age": 20,
     "gender": "Male",
-    "summary": "University of Idaho freshman Ethan Chapin was murdered with three classmates in their off-campus house. He was visiting his girlfriend Xana Kernodle. Bryan Kohberger was arrested in Pennsylvania and faces murder charges. Ethan's parents have been prominent voices in the case.",
+    "summary": "University of Idaho freshman Ethan Chapin was murdered with three classmates in their off-campus house. He was visiting his girlfriend Xana Kernodle. Bryan Kohberger was arrested in Pennsylvania and faces murder charges. Ethan's parents have been prominent voices in the case. Bryan Kohberger pleaded guilty to all charges in July 2025 and was sentenced to life in prison without parole.",
     "lastSeen": "November 13, 2022, King Road house, Moscow, ID",
     "tags": [
       "homicide",
@@ -10041,14 +9058,14 @@
     "id": "moscow-murders",
     "name": "Idaho Student Murders",
     "type": "Multiple Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2022,
     "date": "November 13, 2022",
     "state": "Idaho",
     "city": "Moscow",
     "age": null,
     "gender": "Multiple",
-    "summary": "Four University of Idaho students \u2014 Ethan Chapin, Xana Kernodle, Madison Mogen, and Kaylee Goncalves \u2014 were stabbed to death in their off-campus house in Moscow, Idaho. Bryan Kohberger, a criminology PhD student, was arrested in December 2022. The case drew enormous national media coverage.",
+    "summary": "Four University of Idaho students — Ethan Chapin, Xana Kernodle, Madison Mogen, and Kaylee Goncalves — were stabbed to death in their off-campus house in Moscow, Idaho. Bryan Kohberger, a criminology PhD student, was arrested in December 2022. The case drew enormous national media coverage. Bryan Kohberger pleaded guilty to all charges in July 2025 and was sentenced to life in prison without parole.",
     "lastSeen": "November 13, 2022, King Road residence, Moscow, ID",
     "tags": [
       "homicide",
@@ -10062,14 +9079,14 @@
     "id": "kaylee-goncalves",
     "name": "Kaylee Goncalves",
     "type": "Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2022,
     "date": "November 13, 2022",
     "state": "Idaho",
     "city": "Moscow",
     "age": 21,
     "gender": "Female",
-    "summary": "University of Idaho student Kaylee Goncalves was one of four students murdered in their off-campus house in Moscow, Idaho. Bryan Kohberger was arrested in December 2022. Kaylee and her roommate Madison Mogen were found in the same room. The case gained massive national coverage.",
+    "summary": "University of Idaho student Kaylee Goncalves was one of four students murdered in their off-campus house in Moscow, Idaho. Bryan Kohberger was arrested in December 2022. Kaylee and her roommate Madison Mogen were found in the same room. The case gained massive national coverage. Bryan Kohberger pleaded guilty to all charges in July 2025 and was sentenced to life in prison without parole.",
     "lastSeen": "November 13, 2022, King Road house, Moscow, ID",
     "tags": [
       "homicide",
@@ -10084,14 +9101,14 @@
     "id": "madison-mogen",
     "name": "Madison Mogen",
     "type": "Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2022,
     "date": "November 13, 2022",
     "state": "Idaho",
     "city": "Moscow",
     "age": 21,
     "gender": "Female",
-    "summary": "University of Idaho student Madison Mogen was one of four students murdered in their off-campus house in Moscow, Idaho. Bryan Kohberger was arrested and awaits trial. Madison and Kaylee Goncalves were found in the same bed. She had been at a food truck with friends hours before the murders.",
+    "summary": "University of Idaho student Madison Mogen was one of four students murdered in their off-campus house in Moscow, Idaho. Bryan Kohberger was arrested and awaits trial. Madison and Kaylee Goncalves were found in the same bed. She had been at a food truck with friends hours before the murders. Bryan Kohberger pleaded guilty to all charges in July 2025 and was sentenced to life in prison without parole.",
     "lastSeen": "November 13, 2022, King Road house, Moscow, ID",
     "tags": [
       "homicide",
@@ -10106,14 +9123,14 @@
     "id": "xana-kernodle",
     "name": "Xana Kernodle",
     "type": "Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2022,
     "date": "November 13, 2022",
     "state": "Idaho",
     "city": "Moscow",
     "age": 20,
     "gender": "Female",
-    "summary": "University of Idaho junior Xana Kernodle was murdered with three classmates in their off-campus house. Her boyfriend Ethan Chapin was also killed. Bryan Kohberger, a criminology PhD student, was arrested in December 2022. Xana was found with defensive wounds suggesting she fought back.",
+    "summary": "University of Idaho junior Xana Kernodle was murdered with three classmates in their off-campus house. Her boyfriend Ethan Chapin was also killed. Bryan Kohberger, a criminology PhD student, was arrested in December 2022. Xana was found with defensive wounds suggesting she fought back. Bryan Kohberger pleaded guilty to all charges in July 2025 and was sentenced to life in prison without parole.",
     "lastSeen": "November 13, 2022, King Road house, Moscow, ID",
     "tags": [
       "homicide",
@@ -10202,25 +9219,6 @@
       "unidentified person",
       "Montana",
       "Billings",
-      "unsolved"
-    ]
-  },
-  {
-    "id": "dc-case-2010",
-    "name": "Wyneva Johnson",
-    "type": "Homicide",
-    "status": "Unsolved",
-    "year": 2010,
-    "date": "April 22, 2010",
-    "state": "District of Columbia",
-    "city": "Washington",
-    "age": 31,
-    "gender": "Female",
-    "summary": "Thirty-one-year-old Wyneva Johnson was found murdered in Washington D.C. in April 2010. Despite investigation by MPD, the case went cold. It remains in DC Metropolitan Police Department cold case files.",
-    "lastSeen": "April 22, 2010, Washington, DC",
-    "tags": [
-      "homicide",
-      "Washington DC",
       "unsolved"
     ]
   },

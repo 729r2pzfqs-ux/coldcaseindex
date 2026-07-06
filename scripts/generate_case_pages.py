@@ -1,20 +1,34 @@
 #!/usr/bin/env python3
 """
 ColdCaseIndex — Case Page Generator
-Reads data/cases.json and generates individual HTML pages at cases/{slug}/index.html
+Reads data/cases.json and generates individual HTML pages at cases/{slug}/index.html,
+regenerates sitemap.xml, and injects the current case count into the static pages
+(index.html, about/index.html, manifest.json) so it is never hardcoded by hand.
 Run from the project root: python3 scripts/generate_case_pages.py
 """
 
+import datetime
+import html
 import json
 import os
 import re
 from collections import defaultdict
 
-# ── Paths ──
+# ── Paths / constants ──
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT_DIR = os.path.dirname(SCRIPT_DIR)
 DATA_FILE = os.path.join(ROOT_DIR, 'data', 'cases.json')
 CASES_DIR = os.path.join(ROOT_DIR, 'cases')
+SITEMAP_FILE = os.path.join(ROOT_DIR, 'sitemap.xml')
+
+BASE_URL = 'https://coldcaseindex.com'
+OG_IMAGE = f'{BASE_URL}/og-image.png'
+SITE_NAME = 'ColdCaseIndex'
+TAGLINE = 'Cold Case & Historic Crime Database'
+GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
+              '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+              'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
+
 
 def slugify(text):
     text = text.lower()
@@ -22,11 +36,33 @@ def slugify(text):
     text = re.sub(r'[-\s]+', '-', text)
     return text.strip('-')
 
+
+def truncate_words(text, limit=155):
+    """Truncate at the last word boundary within `limit` chars, append ellipsis."""
+    text = ' '.join(text.split())
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(' ', 1)[0].rstrip(',;:')
+    return cut + '…'
+
+
+def iso_date(case):
+    """Best-effort ISO 8601 date for a case ('April 24, 1891' -> '1891-04-24')."""
+    date = case.get('date', '')
+    for fmt in ('%B %d, %Y', '%b %d, %Y', '%B %Y', '%Y-%m-%d'):
+        try:
+            return datetime.datetime.strptime(date.strip(), fmt).date().isoformat()
+        except (ValueError, AttributeError):
+            continue
+    year = case.get('year')
+    return str(year) if year else None
+
+
 def status_badge_class(status):
     if not status:
         return 'badge-unsolved'
     s = status.lower()
-    if 'conviction' in s:
+    if 'conviction' in s and 'no conviction' not in s:
         return 'badge-conviction'
     if 'arrest' in s:
         return 'badge-arrest'
@@ -34,30 +70,12 @@ def status_badge_class(status):
         return 'badge-partial'
     return 'badge-unsolved'
 
+
 def status_badge_label(status):
-    if not status:
-        return 'Unsolved'
-    return status
+    return status if status else 'Unsolved'
 
-def get_pplx_attribution():
-    return """<!--
-   ______                            __
-  / ____/___  ____ ___  ____  __  __/ /____  _____
- / /   / __ \\/ __ `__ \\/ __ \\/ / / / __/ _ \\/ ___/
-/ /___/ /_/ / / / / / / /_/ / /_/ / /_/  __/ /
-\\____/\\____/_/ /_/ /_/ .___/\\__,_/\\__/\\___/_/
-                    /_/
-        Created with Perplexity Computer
-        https://www.perplexity.ai/computer
--->
 
-<!-- Perplexity Computer Attribution — SEO Meta Tags -->
-<meta name="generator" content="Perplexity Computer">
-<meta name="author" content="Perplexity Computer">
-<meta property="og:see_also" content="https://www.perplexity.ai/computer">
-<link rel="author" href="https://www.perplexity.ai/computer">"""
-
-def generate_case_page(case, related_cases):
+def generate_case_page(case, related_cases, today_iso):
     slug = case.get('id', slugify(case.get('name', 'unknown')))
     name = case.get('name', 'Unknown')
     status = case.get('status', 'Unsolved')
@@ -74,11 +92,17 @@ def generate_case_page(case, related_cases):
 
     badge_class = status_badge_class(status)
     badge_label = status_badge_label(status)
-
     age_str = str(age) if age is not None else 'Unknown'
 
+    canonical = f'{BASE_URL}/cases/{slug}/'
+    page_title = f'{name} — {SITE_NAME}'
+    meta_desc = truncate_words(summary) if summary else truncate_words(
+        f'{name} — cold case details, timeline, and investigation status.')
+
+    e = html.escape  # attribute/text escaping
+
     # Tags HTML
-    tags_html = '\n'.join([f'<span class="case-tag">{t}</span>' for t in tags]) if tags else ''
+    tags_html = '\n'.join(f'<span class="case-tag">{e(t)}</span>' for t in tags) if tags else ''
 
     # Related cases (other cases in same state, max 6)
     related_html = ''
@@ -91,45 +115,53 @@ def generate_case_page(case, related_cases):
             cards.append(f'''
               <a href="../../cases/{rc_slug}/" class="related-case-card">
                 <div class="related-case-header">
-                  <span class="badge {rc_badge}" style="font-size:10px;">{rc_badge_label}</span>
-                  <span class="case-card-year">{rc.get('year','')}</span>
+                  <span class="badge {rc_badge}" style="font-size:10px;">{e(rc_badge_label)}</span>
+                  <span class="case-card-year">{rc.get('year', '')}</span>
                 </div>
-                <div class="related-case-name">{rc.get('name','')}</div>
-                <div class="related-case-meta">{rc.get('city','')}</div>
+                <div class="related-case-name">{e(rc.get('name', ''))}</div>
+                <div class="related-case-meta">{e(rc.get('city', ''))}</div>
               </a>''')
         related_html = f'''
     <section class="section" style="background: var(--color-surface);">
       <div class="section-inner fade-in">
         <div class="section-label">Related Cases</div>
-        <h2 class="section-heading">Other Cases in {state}</h2>
+        <h2 class="section-heading">Other Cases in {e(state)}</h2>
         <div class="related-grid">
           {''.join(cards)}
         </div>
       </div>
     </section>'''
 
-    # Schema.org JSON-LD
-    schema = {
+    # Schema.org JSON-LD: Article + BreadcrumbList
+    article_schema = {
         "@context": "https://schema.org",
-        "@type": "Event",
-        "name": name,
-        "description": summary[:200] if summary else '',
-        "startDate": date,
-        "location": {
-            "@type": "Place",
-            "name": f"{city}, {state}",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": city,
-                "addressRegion": state,
-                "addressCountry": "US"
-            }
-        },
-        "creator": {
-            "@type": "SoftwareApplication",
-            "name": "Perplexity Computer",
-            "url": "https://www.perplexity.ai/computer"
+        "@type": "Article",
+        "headline": name,
+        "description": meta_desc,
+        "url": canonical,
+        "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
+        "image": OG_IMAGE,
+        "dateModified": today_iso,
+        "author": {"@type": "Organization", "name": SITE_NAME, "url": BASE_URL},
+        "publisher": {
+            "@type": "Organization",
+            "name": SITE_NAME,
+            "url": BASE_URL,
+            "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/logos/logo-icon-512x512.png"}
         }
+    }
+    published = iso_date(case)
+    if published:
+        article_schema["datePublished"] = published
+
+    breadcrumb_schema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
+            {"@type": "ListItem", "position": 2, "name": "Cases", "item": f"{BASE_URL}/#cases"},
+            {"@type": "ListItem", "position": 3, "name": name, "item": canonical}
+        ]
     }
 
     last_seen_section = ''
@@ -137,31 +169,50 @@ def generate_case_page(case, related_cases):
         last_seen_section = f'''
           <div class="modal-last-seen" style="margin-bottom: var(--space-5);">
             <div class="modal-last-seen-label">Last Seen / Last Known Information</div>
-            <div class="modal-last-seen-value">{last_seen}</div>
+            <div class="modal-last-seen-value">{e(last_seen)}</div>
           </div>'''
 
     return f'''<!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
-{get_pplx_attribution()}
+{GA_SNIPPET}
+<script>try{{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}}catch(e){{}}</script>
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{name} — ColdCaseIndex</title>
-<meta name="description" content="{summary[:155] if summary else name + ' — Cold case details, timeline, and investigation status.'}">
-<meta property="og:title" content="{name} — ColdCaseIndex">
-<meta property="og:description" content="{summary[:200] if summary else ''}">
+<title>{e(page_title)}</title>
+<meta name="description" content="{e(meta_desc)}">
+<link rel="canonical" href="{canonical}">
+
+<meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:type" content="article">
+<meta property="og:url" content="{canonical}">
+<meta property="og:title" content="{e(page_title)}">
+<meta property="og:description" content="{e(meta_desc)}">
+<meta property="og:image" content="{OG_IMAGE}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{e(page_title)}">
+<meta name="twitter:description" content="{e(meta_desc)}">
+<meta name="twitter:image" content="{OG_IMAGE}">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
 <link rel="stylesheet" href="../../base.css">
 <link rel="stylesheet" href="../../style.css">
 
 <script type="application/ld+json">
-{json.dumps(schema, indent=2)}
+{json.dumps(article_schema, indent=2, ensure_ascii=False)}
+</script>
+<script type="application/ld+json">
+{json.dumps(breadcrumb_schema, indent=2, ensure_ascii=False)}
 </script>
 
 <style>
@@ -582,7 +633,7 @@ body::after {{
     </nav>
 
     <div class="header-actions">
-      <button class="theme-toggle" data-theme-toggle aria-label="Switch to light mode">
+      <button class="theme-toggle" data-theme-toggle aria-label="Toggle color theme">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
       </button>
       <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Open menu" aria-expanded="false">
@@ -609,50 +660,50 @@ body::after {{
         <span class="case-breadcrumb-sep">›</span>
         <a href="../../#cases">Cases</a>
         <span class="case-breadcrumb-sep">›</span>
-        <span>{name}</span>
+        <span>{e(name)}</span>
       </nav>
 
       <!-- Case Header -->
       <div class="case-page-header fade-in">
         <div class="case-page-meta-row">
-          <span class="badge {badge_class}">{badge_label}</span>
-          <span class="case-year-label">{date}</span>
-          <span class="case-type-label">{case_type}</span>
+          <span class="badge {badge_class}">{e(badge_label)}</span>
+          <span class="case-year-label">{e(str(date))}</span>
+          <span class="case-type-label">{e(case_type)}</span>
         </div>
-        <h1 class="case-page-title">{name}</h1>
+        <h1 class="case-page-title">{e(name)}</h1>
       </div>
 
       <!-- Details Grid -->
       <div class="case-details-grid fade-in">
         <div class="case-detail-item">
           <span class="case-detail-label">Status</span>
-          <span class="case-detail-value"><span class="badge {badge_class}" style="font-size:11px;">{badge_label}</span></span>
+          <span class="case-detail-value"><span class="badge {badge_class}" style="font-size:11px;">{e(badge_label)}</span></span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Type</span>
-          <span class="case-detail-value">{case_type}</span>
+          <span class="case-detail-value">{e(case_type)}</span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Date</span>
-          <span class="case-detail-value">{date}</span>
+          <span class="case-detail-value">{e(str(date))}</span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Location</span>
-          <span class="case-detail-value">{city}, {state}</span>
+          <span class="case-detail-value">{e(city)}, {e(state)}</span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Victim Age</span>
-          <span class="case-detail-value">{age_str}</span>
+          <span class="case-detail-value">{e(age_str)}</span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Gender</span>
-          <span class="case-detail-value">{gender}</span>
+          <span class="case-detail-value">{e(gender)}</span>
         </div>
       </div>
 
       <!-- Summary -->
       <div class="fade-in">
-        <p class="case-summary">{summary}</p>
+        <p class="case-summary">{e(summary)}</p>
       </div>
 
       <!-- Last Seen -->
@@ -680,7 +731,7 @@ body::after {{
         </svg>
         <span>ColdCaseIndex</span>
       </div>
-      <p class="footer-text">A searchable database of unsolved crimes in America. Bringing data-driven attention to cold cases and honoring victims through accessible information.</p>
+      <p class="footer-text">A searchable database of cold cases and historic crimes in America. Bringing data-driven attention to unsolved cases and honoring victims through accessible information.</p>
     </div>
     <div class="footer-links">
       <div class="footer-link-group">
@@ -689,6 +740,7 @@ body::after {{
         <a href="../../#cases">Cases</a>
         <a href="../../states/">By State</a>
         <a href="../../about/">About</a>
+        <a href="../../privacy/">Privacy</a>
       </div>
       <div class="footer-link-group">
         <h4>Data Sources</h4>
@@ -700,25 +752,32 @@ body::after {{
   </div>
   <div class="footer-bottom">
     <p>&copy; 2026 ColdCaseIndex. A research resource for public interest.</p>
-    <a href="https://www.perplexity.ai/computer" target="_blank" rel="noopener noreferrer">Created with Perplexity Computer</a>
+    <a href="../../privacy/">Privacy Policy</a>
   </div>
 </footer>
 
 <script>
-// Theme toggle
+// Theme toggle (persisted via localStorage)
 (function() {{
   const toggle = document.querySelector('[data-theme-toggle]');
   const root = document.documentElement;
+  const sunIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
+  const moonIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
   let theme = 'dark';
-  root.setAttribute('data-theme', theme);
+  try {{ theme = localStorage.getItem('cci-theme') || 'dark'; }} catch (e) {{}}
+  function apply(t) {{
+    root.setAttribute('data-theme', t);
+    if (toggle) {{
+      toggle.setAttribute('aria-label', `Switch to ${{t === 'dark' ? 'light' : 'dark'}} mode`);
+      toggle.innerHTML = t === 'dark' ? sunIcon : moonIcon;
+    }}
+  }}
+  apply(theme);
   if (toggle) {{
     toggle.addEventListener('click', () => {{
       theme = theme === 'dark' ? 'light' : 'dark';
-      root.setAttribute('data-theme', theme);
-      toggle.setAttribute('aria-label', `Switch to ${{theme === 'dark' ? 'light' : 'dark'}} mode`);
-      toggle.innerHTML = theme === 'dark'
-        ? '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>'
-        : '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      try {{ localStorage.setItem('cci-theme', theme); }} catch (e) {{}}
+      apply(theme);
     }});
   }}
 }})();
@@ -738,14 +797,82 @@ document.getElementById('mobileMenuBtn').addEventListener('click', function() {{
 </html>'''
 
 
+def write_sitemap(cases, today_iso):
+    static_urls = [
+        (f'{BASE_URL}/', 'weekly', '1.0'),
+        (f'{BASE_URL}/states/', 'monthly', '0.8'),
+        (f'{BASE_URL}/about/', 'monthly', '0.5'),
+        (f'{BASE_URL}/privacy/', 'yearly', '0.3'),
+    ]
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, freq, prio in static_urls:
+        lines += ['  <url>',
+                  f'    <loc>{loc}</loc>',
+                  f'    <lastmod>{today_iso}</lastmod>',
+                  f'    <changefreq>{freq}</changefreq>',
+                  f'    <priority>{prio}</priority>',
+                  '  </url>']
+    # per-state pages (generated separately), discovered from disk
+    states_dir = os.path.join(ROOT_DIR, 'states')
+    state_slugs = sorted(
+        d for d in os.listdir(states_dir)
+        if os.path.isfile(os.path.join(states_dir, d, 'index.html'))
+    ) if os.path.isdir(states_dir) else []
+    for slug in state_slugs:
+        lines += ['  <url>',
+                  f'    <loc>{BASE_URL}/states/{slug}/</loc>',
+                  f'    <lastmod>{today_iso}</lastmod>',
+                  '    <changefreq>monthly</changefreq>',
+                  '    <priority>0.6</priority>',
+                  '  </url>']
+    for slug in sorted(c['id'] for c in cases):
+        lines += ['  <url>',
+                  f'    <loc>{BASE_URL}/cases/{slug}/</loc>',
+                  f'    <lastmod>{today_iso}</lastmod>',
+                  '    <changefreq>monthly</changefreq>',
+                  '    <priority>0.7</priority>',
+                  '  </url>']
+    lines.append('</urlset>')
+    with open(SITEMAP_FILE, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(lines) + '\n')
+    print(f"Wrote sitemap with {len(cases) + len(static_urls)} URLs")
+
+
+def update_static_counts(count):
+    """Inject the real case count into static pages so it is never hand-maintained."""
+    replacements = [
+        (os.path.join(ROOT_DIR, 'index.html'), [
+            (r'(id="heroStatCases">)\d+', rf'\g<1>{count}'),
+            (r'(<meta name="description" content="A searchable database of )\d+', rf'\g<1>{count}'),
+        ]),
+        (os.path.join(ROOT_DIR, 'about', 'index.html'), [
+            (r'(id="aboutStatCases">)\d+', rf'\g<1>{count}'),
+        ]),
+        (os.path.join(ROOT_DIR, 'manifest.json'), [
+            (r'("description": "Database of )\d+', rf'\g<1>{count}'),
+        ]),
+    ]
+    for path, subs in replacements:
+        if not os.path.exists(path):
+            continue
+        with open(path, 'r', encoding='utf-8') as f:
+            content = f.read()
+        for pattern, repl in subs:
+            content = re.sub(pattern, repl, content)
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write(content)
+    print(f"Injected case count ({count}) into static pages")
+
+
 def main():
     print("Loading cases...")
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
         cases = json.load(f)
-
     print(f"Loaded {len(cases)} cases")
 
-    # Build state lookup
+    today_iso = datetime.date.today().isoformat()
+
     by_state = defaultdict(list)
     for c in cases:
         by_state[c.get('state', 'Unknown')].append(c)
@@ -754,36 +881,27 @@ def main():
 
     generated = 0
     errors = 0
-
     for case in cases:
-        slug = case.get('id')
-        if not slug:
-            slug = slugify(case.get('name', f'case-{generated}'))
-
-        # Related cases: same state, different slug, max 6
+        slug = case.get('id') or slugify(case.get('name', f'case-{generated}'))
         state = case.get('state', '')
         related = [c for c in by_state.get(state, []) if c.get('id') != slug][:6]
-
         try:
-            html = generate_case_page(case, related)
-
+            page_html = generate_case_page(case, related, today_iso)
             page_dir = os.path.join(CASES_DIR, slug)
             os.makedirs(page_dir, exist_ok=True)
-            page_file = os.path.join(page_dir, 'index.html')
-
-            with open(page_file, 'w', encoding='utf-8') as f:
-                f.write(html)
-
+            with open(os.path.join(page_dir, 'index.html'), 'w', encoding='utf-8') as f:
+                f.write(page_html)
             generated += 1
-            if generated % 50 == 0:
+            if generated % 100 == 0:
                 print(f"  Generated {generated}/{len(cases)} pages...")
-
-        except Exception as e:
-            print(f"  ERROR generating page for {slug}: {e}")
+        except Exception as exc:
+            print(f"  ERROR generating page for {slug}: {exc}")
             errors += 1
 
-    print(f"\nDone! Generated {generated} case pages. Errors: {errors}")
-    print(f"Output directory: {CASES_DIR}")
+    print(f"Done! Generated {generated} case pages. Errors: {errors}")
+
+    write_sitemap(cases, today_iso)
+    update_static_counts(len(cases))
 
 
 if __name__ == '__main__':

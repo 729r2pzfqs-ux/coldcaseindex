@@ -1,7 +1,34 @@
-# coldcaseindex.com
+# ColdCaseIndex (coldcaseindex.com)
 
 ## About
-ColdCaseIndex is a database of unsolved cold cases. Browse missing persons and unsolved homicides to help bring awareness and closure.
+ColdCaseIndex is a searchable database of 450 documented cold cases and historic
+crimes in the United States — unsolved homicides, missing persons, unidentified
+victims, serial-killer cases, and landmark solved crimes of historical
+significance. Coverage spans all 50 states and the District of Columbia, from
+the 1890s to the present.
+
+Each case entry includes: victim/case name, case type, investigation status
+(Unsolved, Arrest Made, Conviction, Partially Solved, No Conviction), date,
+city and state, victim age and gender, a factual summary, and last-known
+information where available.
+
+## Data
+- Machine-readable case data: https://coldcaseindex.com/data/cases.json
+  (JSON array; one object per case with id, name, type, status, year, date,
+  state, city, age, gender, summary, lastSeen, tags)
+- Sources include the Murder Accountability Project, FBI UCR data, NamUs,
+  court records, law-enforcement releases, and established news reporting.
 
 ## URLs
-- Homepage: https://coldcaseindex.com/
+- Homepage (search + filters): https://coldcaseindex.com/
+- Individual case pages: https://coldcaseindex.com/cases/{case-id}/
+- Cases by state directory: https://coldcaseindex.com/states/
+- Per-state pages: https://coldcaseindex.com/states/{state-name}/
+- About & methodology: https://coldcaseindex.com/about/
+- Privacy policy: https://coldcaseindex.com/privacy/
+- Sitemap: https://coldcaseindex.com/sitemap.xml
+
+## Contact
+Corrections, updates, or removal requests: info@coldcaseindex.com
+If you have information about an unsolved case, contact local law enforcement
+or the FBI at 1-800-CALL-FBI (tips.fbi.gov).
