@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
 <script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Virginia Christian Case — ColdCaseIndex</title>
 <meta name="description" content="Seventeen-year-old Virginia Christian became the first woman executed in Virginia&#x27;s electric chair for the murder of her employer. The case raised…">
 <link rel="canonical" href="https://coldcaseindex.com/cases/virginia-christian/">
@@ -25,7 +25,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
 
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -78,8 +78,8 @@
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "Cases",
-      "item": "https://coldcaseindex.com/#cases"
+      "name": "Virginia Cases",
+      "item": "https://coldcaseindex.com/states/virginia/"
     },
     {
       "@type": "ListItem",
@@ -227,6 +227,86 @@
 .related-case-meta {
   font-size: var(--text-xs);
   color: var(--color-text-faint);
+}
+.all-state-link {
+  display: inline-block;
+  margin-top: var(--space-5);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-primary);
+  text-decoration: none;
+}
+.all-state-link:hover { text-decoration: underline; text-underline-offset: 2px; }
+.timeline {
+  margin-top: var(--space-4);
+  border-left: 2px solid var(--color-border);
+  padding-left: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  max-width: 60ch;
+}
+.timeline-item {
+  position: relative;
+  display: flex;
+  gap: var(--space-3);
+}
+.timeline-marker {
+  position: absolute;
+  left: calc(-1 * var(--space-5) - 7px);
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: var(--radius-full);
+  background: var(--color-surface);
+  border: 2px solid var(--color-primary);
+}
+.timeline-label {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  margin-bottom: var(--space-1);
+}
+.timeline-value {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}
+.how-to-help {
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}
+.how-to-help-heading {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}
+.how-to-help-text {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+}
+.how-to-help-list {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  padding-left: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+.how-to-help-list li { margin-bottom: var(--space-2); }
+.how-to-help-list a, .how-to-help-note a { color: var(--color-primary); text-underline-offset: 2px; }
+.how-to-help-note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.6;
 }
 .badge-partial {
   background: oklch(0.5 0.15 70 / 0.15);
@@ -534,7 +614,7 @@ body::after {
       <nav class="case-breadcrumb" aria-label="Breadcrumb">
         <a href="../../">Home</a>
         <span class="case-breadcrumb-sep">›</span>
-        <a href="../../#cases">Cases</a>
+        <a href="../../states/virginia/">Virginia Cases</a>
         <span class="case-breadcrumb-sep">›</span>
         <span>Virginia Christian Case</span>
       </nav>
@@ -597,6 +677,51 @@ body::after {
 <span class="case-tag">racial justice</span>
 <span class="case-tag">1912</span></div>
 
+      
+      <!-- Timeline -->
+      <div class="fade-in" style="margin-top: var(--space-8);">
+        <div class="section-label">Timeline</div>
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="timeline-marker" aria-hidden="true"></div>
+            <div>
+              <div class="timeline-label">Last Known Information</div>
+              <div class="timeline-value">March 18, 1912, Hampton, VA</div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-marker" aria-hidden="true"></div>
+            <div>
+              <div class="timeline-label">Date of Incident</div>
+              <div class="timeline-value">March 18, 1912</div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-marker" aria-hidden="true"></div>
+            <div>
+              <div class="timeline-label">Current Status</div>
+              <div class="timeline-value">Conviction</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      
+      <!-- How to Help -->
+      <div class="how-to-help fade-in">
+        <div class="section-label">How to Help</div>
+        <h2 class="how-to-help-heading">Have Information About This Case?</h2>
+        <p class="how-to-help-text">Cold cases are solved when someone comes forward. Even a detail that seems minor can matter. If you have any information about this case, contact law enforcement through one of these channels:</p>
+        <ul class="how-to-help-list">
+          <li><a href="https://tips.fbi.gov/" target="_blank" rel="noopener noreferrer">FBI Tips (tips.fbi.gov)</a> — submit a tip online to the Federal Bureau of Investigation</li>
+          <li>FBI Tip Line: 1-800-CALL-FBI (1-800-225-5324)</li>
+          <li>The local police department or sheriff's office in Virginia, or the state bureau of investigation</li>
+        </ul>
+        <p class="how-to-help-note">Tips can usually be submitted anonymously. To report an error on this page, email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+      </div>
+
     </div>
   </section>
 
@@ -656,6 +781,7 @@ body::after {
                 <div class="related-case-meta">Richmond</div>
               </a>
         </div>
+        <a href="../../states/virginia/" class="all-state-link">View all Virginia cases &rarr;</a>
       </div>
     </section>
 

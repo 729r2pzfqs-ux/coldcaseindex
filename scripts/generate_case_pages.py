@@ -104,6 +104,8 @@ def generate_case_page(case, related_cases, today_iso):
     # Tags HTML
     tags_html = '\n'.join(f'<span class="case-tag">{e(t)}</span>' for t in tags) if tags else ''
 
+    state_slug = slugify(state) if state and state != 'Unknown' else ''
+
     # Related cases (other cases in same state, max 6)
     related_html = ''
     if related_cases:
@@ -121,6 +123,8 @@ def generate_case_page(case, related_cases, today_iso):
                 <div class="related-case-name">{e(rc.get('name', ''))}</div>
                 <div class="related-case-meta">{e(rc.get('city', ''))}</div>
               </a>''')
+        all_state_link = (f'\n        <a href="../../states/{state_slug}/" class="all-state-link">'
+                          f'View all {e(state)} cases &rarr;</a>' if state_slug else '')
         related_html = f'''
     <section class="section" style="background: var(--color-surface);">
       <div class="section-inner fade-in">
@@ -128,9 +132,64 @@ def generate_case_page(case, related_cases, today_iso):
         <h2 class="section-heading">Other Cases in {e(state)}</h2>
         <div class="related-grid">
           {''.join(cards)}
-        </div>
+        </div>{all_state_link}
       </div>
     </section>'''
+
+    # Timeline (only entries the data actually supports)
+    timeline_events = []
+    if last_seen and last_seen not in ('N/A', 'Unknown', ''):
+        timeline_events.append(('Last Known Information', last_seen))
+    if date and str(date) not in ('Unknown', ''):
+        incident_label = {
+            'Missing Person': 'Reported Missing',
+            'Unidentified Person': 'Remains Discovered',
+        }.get(case_type, 'Date of Incident')
+        timeline_events.append((incident_label, str(date)))
+    timeline_events.append(('Current Status', f'{status}' + ('' if status != 'Unsolved' else ' — the case remains open')))
+
+    timeline_html = ''
+    if len(timeline_events) >= 2:
+        items = '\n'.join(f'''
+          <div class="timeline-item">
+            <div class="timeline-marker" aria-hidden="true"></div>
+            <div>
+              <div class="timeline-label">{e(label)}</div>
+              <div class="timeline-value">{e(value)}</div>
+            </div>
+          </div>''' for label, value in timeline_events)
+        timeline_html = f'''
+      <!-- Timeline -->
+      <div class="fade-in" style="margin-top: var(--space-8);">
+        <div class="section-label">Timeline</div>
+        <div class="timeline">{items}
+        </div>
+      </div>'''
+
+    # How to Help
+    if case_type == 'Missing Person':
+        type_specific_help = '''
+          <li><a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">NamUs (namus.nij.ojp.gov)</a> — the National Missing and Unidentified Persons System accepts information on missing persons cases</li>
+          <li>National Center for Missing &amp; Exploited Children: 1-800-THE-LOST (1-800-843-5678)</li>'''
+    elif case_type == 'Unidentified Person':
+        type_specific_help = '''
+          <li><a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">NamUs (namus.nij.ojp.gov)</a> — the National Missing and Unidentified Persons System maintains records of unidentified remains and accepts public information</li>'''
+    else:
+        type_specific_help = ''
+    jurisdiction = e(state) if state and state != 'Unknown' else 'the relevant jurisdiction'
+    how_to_help_html = f'''
+      <!-- How to Help -->
+      <div class="how-to-help fade-in">
+        <div class="section-label">How to Help</div>
+        <h2 class="how-to-help-heading">Have Information About This Case?</h2>
+        <p class="how-to-help-text">Cold cases are solved when someone comes forward. Even a detail that seems minor can matter. If you have any information about this case, contact law enforcement through one of these channels:</p>
+        <ul class="how-to-help-list">
+          <li><a href="https://tips.fbi.gov/" target="_blank" rel="noopener noreferrer">FBI Tips (tips.fbi.gov)</a> — submit a tip online to the Federal Bureau of Investigation</li>
+          <li>FBI Tip Line: 1-800-CALL-FBI (1-800-225-5324)</li>{type_specific_help}
+          <li>The local police department or sheriff's office in {jurisdiction}, or the state bureau of investigation</li>
+        </ul>
+        <p class="how-to-help-note">Tips can usually be submitted anonymously. To report an error on this page, email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+      </div>'''
 
     # Schema.org JSON-LD: Article + BreadcrumbList
     article_schema = {
@@ -154,12 +213,17 @@ def generate_case_page(case, related_cases, today_iso):
     if published:
         article_schema["datePublished"] = published
 
+    if state_slug:
+        crumb_mid = {"@type": "ListItem", "position": 2, "name": f"{state} Cases",
+                     "item": f"{BASE_URL}/states/{state_slug}/"}
+    else:
+        crumb_mid = {"@type": "ListItem", "position": 2, "name": "Cases", "item": f"{BASE_URL}/#cases"}
     breadcrumb_schema = {
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Home", "item": f"{BASE_URL}/"},
-            {"@type": "ListItem", "position": 2, "name": "Cases", "item": f"{BASE_URL}/#cases"},
+            crumb_mid,
             {"@type": "ListItem", "position": 3, "name": name, "item": canonical}
         ]
     }
@@ -175,11 +239,11 @@ def generate_case_page(case, related_cases, today_iso):
     return f'''<!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
 <script>try{{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}}catch(e){{}}</script>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{e(page_title)}</title>
 <meta name="description" content="{e(meta_desc)}">
 <link rel="canonical" href="{canonical}">
@@ -199,7 +263,7 @@ def generate_case_page(case, related_cases, today_iso):
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
 
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -351,6 +415,86 @@ def generate_case_page(case, related_cases, today_iso):
 .related-case-meta {{
   font-size: var(--text-xs);
   color: var(--color-text-faint);
+}}
+.all-state-link {{
+  display: inline-block;
+  margin-top: var(--space-5);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--color-primary);
+  text-decoration: none;
+}}
+.all-state-link:hover {{ text-decoration: underline; text-underline-offset: 2px; }}
+.timeline {{
+  margin-top: var(--space-4);
+  border-left: 2px solid var(--color-border);
+  padding-left: var(--space-5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+  max-width: 60ch;
+}}
+.timeline-item {{
+  position: relative;
+  display: flex;
+  gap: var(--space-3);
+}}
+.timeline-marker {{
+  position: absolute;
+  left: calc(-1 * var(--space-5) - 7px);
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: var(--radius-full);
+  background: var(--color-surface);
+  border: 2px solid var(--color-primary);
+}}
+.timeline-label {{
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: 500;
+  margin-bottom: var(--space-1);
+}}
+.timeline-value {{
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}}
+.how-to-help {{
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}}
+.how-to-help-heading {{
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+}}
+.how-to-help-text {{
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+}}
+.how-to-help-list {{
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.8;
+  padding-left: var(--space-5);
+  margin-bottom: var(--space-4);
+}}
+.how-to-help-list li {{ margin-bottom: var(--space-2); }}
+.how-to-help-list a, .how-to-help-note a {{ color: var(--color-primary); text-underline-offset: 2px; }}
+.how-to-help-note {{
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.6;
 }}
 .badge-partial {{
   background: oklch(0.5 0.15 70 / 0.15);
@@ -658,7 +802,7 @@ body::after {{
       <nav class="case-breadcrumb" aria-label="Breadcrumb">
         <a href="../../">Home</a>
         <span class="case-breadcrumb-sep">›</span>
-        <a href="../../#cases">Cases</a>
+        {f'<a href="../../states/{state_slug}/">{e(state)} Cases</a>' if state_slug else '<a href="../../#cases">Cases</a>'}
         <span class="case-breadcrumb-sep">›</span>
         <span>{e(name)}</span>
       </nav>
@@ -711,6 +855,10 @@ body::after {{
 
       <!-- Tags -->
       {'<div class="case-tags-section fade-in" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);">' + tags_html + '</div>' if tags_html else ''}
+
+      {timeline_html}
+
+      {how_to_help_html}
 
     </div>
   </section>
@@ -884,7 +1032,12 @@ def main():
     for case in cases:
         slug = case.get('id') or slugify(case.get('name', f'case-{generated}'))
         state = case.get('state', '')
-        related = [c for c in by_state.get(state, []) if c.get('id') != slug][:6]
+        # Same-state cases closest in time first, so related lists vary per case
+        year = case.get('year') or 0
+        related = sorted(
+            (c for c in by_state.get(state, []) if c.get('id') != slug),
+            key=lambda c: (abs((c.get('year') or 0) - year), c.get('name', ''))
+        )[:6]
         try:
             page_html = generate_case_page(case, related, today_iso)
             page_dir = os.path.join(CASES_DIR, slug)

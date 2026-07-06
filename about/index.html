@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
 <script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>About — ColdCaseIndex</title>
 <meta name="description" content="About ColdCaseIndex — a searchable database of documented cold cases and historic crimes in America, covering all 50 states and DC across multiple decades.">
 <link rel="canonical" href="https://coldcaseindex.com/about/">
@@ -25,10 +25,67 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="../base.css">
 <link rel="stylesheet" href="../style.css">
+
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "FAQPage",
+ "mainEntity": [
+  {
+   "@type": "Question",
+   "name": "What is a cold case?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "A cold case is a criminal investigation that remains unsolved and is no longer being actively pursued, usually because investigative leads have been exhausted. Cases can be reopened when new evidence, witnesses, or forensic technology emerges."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Where does the data on ColdCaseIndex come from?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Case details are compiled from publicly available records, including the Murder Accountability Project, FBI Uniform Crime Reporting data, the National Missing and Unidentified Persons System (NamUs), law enforcement press releases, court documents, and verified reporting from established news organizations."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Can I submit a tip about a case through ColdCaseIndex?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "No. ColdCaseIndex does not collect or forward tips. If you have information about a case, contact the FBI at tips.fbi.gov or 1-800-CALL-FBI, submit information to NamUs for missing or unidentified persons cases, or contact the local law enforcement agency handling the case."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "Why are some solved cases included in the database?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The database focuses on unsolved cases, and also documents historically significant crimes that were solved — landmark cases that shaped forensic science, legislation, or public awareness. Each case shows a status label such as Unsolved, Conviction, or No Conviction."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How do I report an error or request a case be updated or removed?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "Email info@coldcaseindex.com. If you are a family member who wishes to have a case updated or removed, we are committed to handling requests with accuracy and respect."
+   }
+  },
+  {
+   "@type": "Question",
+   "name": "How often is the database updated?",
+   "acceptedAnswer": {
+    "@type": "Answer",
+    "text": "The database is reviewed and expanded periodically. Case statuses are corrected as new developments are documented in public sources, and new cases are added over time."
+   }
+  }
+ ]
+}
+</script>
 
 <style>
 .skip-link { position:absolute;top:-100%;left:var(--space-4);padding:var(--space-2) var(--space-4);background:var(--color-primary);color:var(--color-text-inverse);border-radius:var(--radius-md);font-size:var(--text-sm);z-index:1000;text-decoration:none; }
@@ -61,6 +118,7 @@
 .about-prose ul { font-size:var(--text-sm);color:var(--color-text-muted);line-height:1.8;margin-bottom:var(--space-5);padding-left:var(--space-5); }
 .about-prose li { margin-bottom:var(--space-2); }
 .about-prose a { color:var(--color-primary);text-underline-offset:2px; }
+.about-prose .faq-q { font-family:var(--font-body);font-size:var(--text-sm);font-weight:600;color:var(--color-text);margin-top:var(--space-6);margin-bottom:var(--space-2); }
 .about-stats-row { display:flex;gap:var(--space-6);flex-wrap:wrap;margin:var(--space-8) 0;padding:var(--space-6);background:var(--color-surface);border:1px solid var(--color-border);border-radius:var(--radius-lg); }
 .about-stat { display:flex;flex-direction:column;gap:var(--space-1); }
 .about-stat-value { font-family:var(--font-display);font-size:var(--text-lg);font-weight:700;color:var(--color-primary); }
@@ -204,6 +262,23 @@ body::after { content:'';position:fixed;inset:0;opacity:0.025;pointer-events:non
         <li>NamUs (Missing/Unidentified): <a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">namus.nij.ojp.gov</a></li>
         <li>Missing persons: National Center for Missing & Exploited Children: 1-800-THE-LOST (1-800-843-5678)</li>
       </ul>
+
+      <h3>Frequently Asked Questions</h3>
+
+      <h4 class="faq-q">What is a cold case?</h4>
+      <p>A cold case is a criminal investigation that remains unsolved and is no longer being actively pursued, usually because investigative leads have been exhausted. Cases can be reopened when new evidence, witnesses, or forensic technology emerges — advances in DNA analysis and forensic genealogy have solved cases that were cold for decades.</p>
+
+      <h4 class="faq-q">Where does the data on ColdCaseIndex come from?</h4>
+      <p>Case details are compiled from the publicly available records listed under Data Sources above: the Murder Accountability Project, FBI UCR data, NamUs, law enforcement press releases, court documents, and verified reporting from established news organizations.</p>
+
+      <h4 class="faq-q">Can I submit a tip about a case through ColdCaseIndex?</h4>
+      <p>No. ColdCaseIndex does not collect or forward tips. If you have information about a case, contact the FBI at <a href="https://tips.fbi.gov/" target="_blank" rel="noopener noreferrer">tips.fbi.gov</a> or 1-800-CALL-FBI, submit information to <a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">NamUs</a> for missing or unidentified persons cases, or contact the local law enforcement agency handling the case.</p>
+
+      <h4 class="faq-q">Why are some solved cases included in the database?</h4>
+      <p>The database focuses on unsolved cases, and also documents historically significant crimes that were solved — landmark cases that shaped forensic science, legislation, or public awareness. Each case shows a status label such as Unsolved, Conviction, or No Conviction so the distinction is always visible.</p>
+
+      <h4 class="faq-q">How often is the database updated?</h4>
+      <p>The database is reviewed and expanded periodically. Case statuses are corrected as new developments are documented in public sources, and new cases are added over time.</p>
 
       <h3>Contact & Corrections</h3>
       <p>If you believe any information in our database is inaccurate or outdated, or if you are a family member who wishes to have a case updated or removed, please email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>. We are committed to accuracy and respect for victims and their families.</p>

@@ -18,7 +18,8 @@ STATES_DIR = os.path.join(ROOT_DIR, 'states')
 BASE_URL = 'https://coldcaseindex.com'
 
 GA_SNIPPET = '''<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>'''
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
+<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>'''
 
 FONTS = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,7 +37,7 @@ def status_badge_class(status):
     if not status:
         return 'badge-unsolved'
     s = status.lower()
-    if 'conviction' in s:
+    if 'conviction' in s and 'no conviction' not in s:
         return 'badge-conviction'
     if 'arrest' in s:
         return 'badge-arrest'
@@ -141,19 +142,27 @@ FOOTER_SVG = '''<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/20
           <line x1="26.5" y1="23.5" x2="30" y2="27" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
         </svg>'''
 
-THEME_JS = '''(function() {
+THEME_JS = '''// Theme toggle (persisted via localStorage)
+(function() {
   const toggle = document.querySelector('[data-theme-toggle]');
   const root = document.documentElement;
+  const sunIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
+  const moonIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
   let theme = 'dark';
-  root.setAttribute('data-theme', theme);
+  try { theme = localStorage.getItem('cci-theme') || 'dark'; } catch (e) {}
+  function apply(t) {
+    root.setAttribute('data-theme', t);
+    if (toggle) {
+      toggle.setAttribute('aria-label', `Switch to ${t === 'dark' ? 'light' : 'dark'} mode`);
+      toggle.innerHTML = t === 'dark' ? sunIcon : moonIcon;
+    }
+  }
+  apply(theme);
   if (toggle) {
     toggle.addEventListener('click', () => {
       theme = theme === 'dark' ? 'light' : 'dark';
-      root.setAttribute('data-theme', theme);
-      toggle.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} mode`);
-      toggle.innerHTML = theme === 'dark'
-        ? '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>'
-        : '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+      try { localStorage.setItem('cci-theme', theme); } catch (e) {}
+      apply(theme);
     });
   }
 })();
@@ -208,6 +217,7 @@ def build_footer():
         <a href="../../#cases">Cases</a>
         <a href="../../states/">By State</a>
         <a href="../../about/">About</a>
+        <a href="../../privacy/">Privacy</a>
       </div>
       <div class="footer-link-group">
         <h4>Data Sources</h4>
@@ -219,7 +229,7 @@ def build_footer():
   </div>
   <div class="footer-bottom">
     <p>&copy; 2026 ColdCaseIndex. A research resource for public interest.</p>
-    <p>Contact: <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a></p>
+    <p><a href="../../privacy/">Privacy Policy</a> · Contact: <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a></p>
   </div>
 </footer>'''
 
@@ -307,7 +317,7 @@ def generate_state_page(state, cases, all_state_slugs):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
-<title>Cold Cases in {state} — {n} Unsolved Cases | ColdCaseIndex</title>
+<title>Cold Cases in {state} — {n} Documented Cases | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">
 <meta property="og:title" content="Cold Cases in {state} — ColdCaseIndex">

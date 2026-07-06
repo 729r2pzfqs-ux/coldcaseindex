@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
 <meta name="google-site-verification" content="PnQaWQNHws_WTbo90jGB6meg8bYUQTFNwPb3DeO4XjM">
 <script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ColdCaseIndex — Cold Case & Historic Crime Database</title>
 <meta name="description" content="A searchable database of 450 documented cold cases and historic crimes in America. Homicides, missing persons, unidentified victims, and landmark criminal cases across all 50 states and DC, from the 1890s to today.">
 <link rel="canonical" href="https://coldcaseindex.com/">
@@ -28,7 +28,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="./base.css">
 
@@ -304,6 +304,7 @@
   font-size: 14px;
   flex-shrink: 0;
 }
+.search-result-dot { width: 10px; height: 10px; border-radius: 50%; display: block; }
 .search-result-info { flex: 1; min-width: 0; }
 .search-result-name { font-weight: 600; color: var(--color-text); font-size: 14px; }
 .search-result-meta { font-size: 12px; color: var(--color-text-muted); margin-top: 2px; }
@@ -572,114 +573,36 @@
 }
 .state-table tbody tr:hover .bar { opacity: 1; }
 
-/* ── Modal ── */
-.modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: oklch(0 0 0 / 0.7);
-  backdrop-filter: blur(4px);
-  z-index: 200;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: var(--space-4);
-  opacity: 0;
-  visibility: hidden;
-  transition: opacity 300ms cubic-bezier(0.16, 1, 0.3, 1), visibility 300ms;
-}
-.modal-overlay.open {
-  opacity: 1;
-  visibility: visible;
-}
-.modal {
-  background: var(--color-surface);
-  border: 1px solid var(--color-border);
-  border-radius: var(--radius-xl);
-  max-width: 640px;
-  width: 100%;
-  max-height: 85vh;
-  overflow-y: auto;
-  transform: scale(0.95);
-  transition: transform 300ms cubic-bezier(0.16, 1, 0.3, 1);
-  overscroll-behavior: contain;
-}
-.modal-overlay.open .modal { transform: scale(1); }
-.modal-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  padding: var(--space-6) var(--space-6) var(--space-4);
-  border-bottom: 1px solid var(--color-divider);
-}
-.modal-header h2 {
+/* ── Browse chips ── */
+.browse-subheading {
   font-family: var(--font-display);
-  font-size: var(--text-lg);
-  font-weight: 700;
-  padding-right: var(--space-4);
+  font-size: var(--text-base);
+  font-weight: 600;
+  margin-bottom: var(--space-3);
+  margin-top: var(--space-6);
 }
-.modal-close {
-  padding: var(--space-2);
-  color: var(--color-text-muted);
-  border-radius: var(--radius-md);
-  transition: color var(--transition-interactive), background var(--transition-interactive);
-  flex-shrink: 0;
-}
-.modal-close:hover { color: var(--color-text); background: var(--color-surface-offset); }
-.modal-body {
-  padding: var(--space-5) var(--space-6) var(--space-6);
-}
-.modal-meta {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-  gap: var(--space-4);
-  margin-bottom: var(--space-5);
-  padding-bottom: var(--space-5);
-  border-bottom: 1px solid var(--color-divider);
-}
-.modal-meta-item {
-  display: flex;
-  flex-direction: column;
-  gap: var(--space-1);
-}
-.modal-meta-label {
-  font-size: var(--text-xs);
-  color: var(--color-text-faint);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-weight: 500;
-}
-.modal-meta-value {
-  font-size: var(--text-sm);
-  font-weight: 500;
-}
-.modal-summary {
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
-  line-height: 1.7;
-  margin-bottom: var(--space-5);
-}
-.modal-last-seen {
-  background: var(--color-surface-offset);
-  border-radius: var(--radius-md);
-  padding: var(--space-4);
-  margin-bottom: var(--space-5);
-}
-.modal-last-seen-label {
-  font-size: var(--text-xs);
-  color: var(--color-text-faint);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  font-weight: 500;
-  margin-bottom: var(--space-2);
-}
-.modal-last-seen-value {
-  font-size: var(--text-sm);
-}
-.modal-tags {
+.browse-chips {
   display: flex;
   gap: var(--space-2);
   flex-wrap: wrap;
+  margin-bottom: var(--space-4);
 }
+.browse-chip {
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+  background: var(--color-surface-2);
+  border: 1px solid var(--color-border);
+  padding: var(--space-1) var(--space-3);
+  border-radius: var(--radius-full);
+  cursor: pointer;
+  transition: color var(--transition-interactive), border-color var(--transition-interactive), background var(--transition-interactive);
+}
+.browse-chip:hover {
+  color: var(--color-text);
+  border-color: var(--color-primary);
+  background: var(--color-surface);
+}
+.browse-chip strong { color: var(--color-primary); font-weight: 600; margin-left: var(--space-1); }
 
 /* ── About ── */
 .about-content {
@@ -803,9 +726,6 @@ body::after {
   .footer-inner { flex-direction: column; }
   .footer-links { flex-direction: column; gap: var(--space-4); }
   .footer-bottom { flex-direction: column; text-align: center; }
-  .modal { max-height: 90vh; }
-  .modal-header, .modal-body { padding-left: var(--space-4); padding-right: var(--space-4); }
-  .modal-meta { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 400px) {
   .stats-grid { grid-template-columns: 1fr; }
@@ -966,6 +886,25 @@ body::after {
   </div>
 </section>
 
+<!-- ═══════════════════ BROWSE ═══════════════════ -->
+<section class="section" id="browse">
+  <div class="section-inner">
+    <div class="section-label fade-in">Browse</div>
+    <h2 class="section-heading fade-in">Explore the Database</h2>
+    <p class="section-subtext fade-in" style="margin-bottom: var(--space-8);">Jump straight to the cases you are interested in — by decade, by case type, or the most recently documented additions.</p>
+
+    <h3 class="browse-subheading fade-in">By Decade</h3>
+    <div class="browse-chips fade-in" id="browseDecades"></div>
+
+    <h3 class="browse-subheading fade-in">By Type</h3>
+    <div class="browse-chips fade-in" id="browseTypes"></div>
+
+    <h3 class="browse-subheading fade-in">Recently Added</h3>
+    <p class="section-subtext fade-in" style="margin-bottom: var(--space-4);">The latest cases documented in the index.</p>
+    <div class="cases-grid" id="recentGrid"></div>
+  </div>
+</section>
+
 <!-- ═══════════════════ STATE DATA ═══════════════════ -->
 <section class="section" id="states">
   <div class="section-inner fade-in">
@@ -1042,20 +981,6 @@ body::after {
     <a href="./privacy/">Privacy Policy</a>
   </div>
 </footer>
-
-<!-- ═══════════════════ MODAL ═══════════════════ -->
-<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
-  <div class="modal" id="modalContent">
-    <div class="modal-header">
-      <h2 id="modalTitle"></h2>
-      <button class="modal-close" onclick="closeModal()" aria-label="Close">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-      </button>
-    </div>
-    <div class="modal-body" id="modalBody"></div>
-  </div>
-</div>
-
 
 <script>
 // ═══════════════════════════════════════════════════
@@ -1204,19 +1129,14 @@ function populateFilters() {
 function getStatusBadge(status) {
   if (!status) return '<span class="badge badge-unsolved">Unsolved</span>';
   const s = status.toLowerCase();
-  if (s.includes('conviction')) return `<span class="badge badge-conviction">${status}</span>`;
+  if (s.includes('conviction') && !s.includes('no conviction')) return `<span class="badge badge-conviction">${status}</span>`;
   if (s.includes('arrest')) return `<span class="badge badge-arrest">${status}</span>`;
   if (s.includes('partially')) return `<span class="badge badge-arrest">${status}</span>`;
   return `<span class="badge badge-unsolved">${status}</span>`;
 }
 
-function renderPage() {
-  const grid = document.getElementById('casesGrid');
-  const start = 0;
-  const end = (currentPage + 1) * PAGE_SIZE;
-  const visible = filteredCases.slice(start, end);
-
-  grid.innerHTML = visible.map(c => `
+function caseCardHTML(c) {
+  return `
     <a href="./cases/${c.id}/" class="case-card" aria-label="View details for ${c.name}">
       <div class="case-card-header">
         ${getStatusBadge(c.status)}
@@ -1229,8 +1149,13 @@ function renderPage() {
         <span class="case-tag">${c.type || ''}</span>
         ${c.age ? `<span class="case-tag">Age ${c.age}</span>` : ''}
       </div>
-    </a>
-  `).join('');
+    </a>`;
+}
+
+function renderPage() {
+  const grid = document.getElementById('casesGrid');
+  const end = (currentPage + 1) * PAGE_SIZE;
+  grid.innerHTML = filteredCases.slice(0, end).map(caseCardHTML).join('');
 
   // Show/hide Load More button
   updateLoadMoreBtn(filteredCases.length, end);
@@ -1391,13 +1316,13 @@ heroSearchInput.addEventListener('input', function() {
   if (matches.length === 0) {
     searchResultsDiv.innerHTML = '<div class="search-no-results">No cases found</div>';
   } else {
-    const typeIcons = { 'homicide': '🔴', 'missing': '🟡', 'unidentified': '🔵', 'serial': '⚫' };
+    const typeColors = { 'homicide': 'var(--color-error)', 'missing': 'oklch(0.75 0.15 70)', 'unidentified': 'var(--color-primary)', 'serial': 'var(--color-text-faint)' };
     searchResultsDiv.innerHTML = matches.map(c => {
-      const typeKey = Object.keys(typeIcons).find(k => (c.type || '').toLowerCase().includes(k));
-      const icon = typeKey ? typeIcons[typeKey] : '⚪';
+      const typeKey = Object.keys(typeColors).find(k => (c.type || '').toLowerCase().includes(k));
+      const color = typeKey ? typeColors[typeKey] : 'var(--color-text-muted)';
       const slug = c.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
       return `<a href="./cases/${c.id || slug}/" class="search-result-item">
-        <div class="search-result-icon">${icon}</div>
+        <div class="search-result-icon"><span class="search-result-dot" style="background:${color}"></span></div>
         <div class="search-result-info">
           <div class="search-result-name">${c.name}</div>
           <div class="search-result-meta">${c.state || 'Unknown'} · ${c.year || 'Unknown'} · ${c.type || 'Case'}</div>
@@ -1425,47 +1350,74 @@ heroSearchInput.addEventListener('focus', function() {
   }
 });
 
-// ── Modal (keep for backward compat) ──
-function openModal(id) {
-  window.location.href = `./cases/${id}/`;
+// ── Browse sections ──
+function setFilterAndJump(filterId, value) {
+  document.getElementById(filterId).value = value;
+  filterCases();
+  document.getElementById('cases').scrollIntoView({ behavior: 'smooth' });
 }
 
-function closeModal() {
-  const overlay = document.getElementById('modalOverlay');
-  if (overlay) overlay.classList.remove('open');
-  document.body.style.overflow = '';
+function populateBrowse() {
+  // By decade
+  const decadeCounts = {};
+  CASES.forEach(c => {
+    if (!c.year) return;
+    const d = Math.floor(c.year / 10) * 10;
+    decadeCounts[d] = (decadeCounts[d] || 0) + 1;
+  });
+  document.getElementById('browseDecades').innerHTML = Object.keys(decadeCounts)
+    .sort((a, b) => a - b)
+    .map(d => `<button class="browse-chip" onclick="setFilterAndJump('filterDecade', '${d}')">${d}s<strong>${decadeCounts[d]}</strong></button>`)
+    .join('');
+
+  // By type
+  const typeCounts = {};
+  CASES.forEach(c => {
+    if (!c.type) return;
+    typeCounts[c.type] = (typeCounts[c.type] || 0) + 1;
+  });
+  document.getElementById('browseTypes').innerHTML = Object.keys(typeCounts)
+    .sort((a, b) => typeCounts[b] - typeCounts[a])
+    .map(t => `<button class="browse-chip" onclick="setFilterAndJump('filterType', '${t.replace(/'/g, "\\'")}')">${t}<strong>${typeCounts[t]}</strong></button>`)
+    .join('');
+
+  // Recently added: last entries appended to cases.json
+  document.getElementById('recentGrid').innerHTML =
+    CASES.slice(-6).reverse().map(caseCardHTML).join('');
 }
 
-document.getElementById('modalOverlay').addEventListener('click', function(e) {
-  if (e.target === this) closeModal();
-});
-
-document.addEventListener('keydown', function(e) {
-  if (e.key === 'Escape') closeModal();
-});
+// ── Filters from URL params (e.g. /?state=Ohio#cases) ──
+function applyUrlFilters() {
+  const params = new URLSearchParams(window.location.search);
+  const map = { state: 'filterState', type: 'filterType', decade: 'filterDecade', status: 'filterStatus', q: 'filterSearch' };
+  let applied = false;
+  for (const [param, id] of Object.entries(map)) {
+    const value = params.get(param);
+    if (!value) continue;
+    const el = document.getElementById(id);
+    if (el.tagName === 'SELECT' && ![...el.options].some(o => o.value === value)) continue;
+    el.value = value;
+    applied = true;
+  }
+  if (applied) {
+    filterCases();
+    document.getElementById('cases').scrollIntoView();
+  }
+}
 
 // ── Initialize ──
 function init() {
   populateFilters();
   renderCases(CASES);
   renderStateTable();
+  populateBrowse();
+  applyUrlFilters();
   // Update hero stat
   const heroStat = document.getElementById('heroStatCases');
   if (heroStat) heroStat.textContent = CASES.length.toLocaleString();
-  applyUrlStateFilter();
 }
 
 // ── Apply ?state= URL parameter (links from the states page) ──
-function applyUrlStateFilter() {
-  const state = new URLSearchParams(window.location.search).get('state');
-  if (!state) return;
-  const select = document.getElementById('filterState');
-  if (![...select.options].some(o => o.value === state)) return;
-  select.value = state;
-  filterCases();
-  document.getElementById('cases').scrollIntoView();
-}
-
 // ── Filter listeners ──
 ['filterType', 'filterState', 'filterDecade', 'filterStatus'].forEach(id => {
   document.getElementById(id).addEventListener('change', filterCases);
