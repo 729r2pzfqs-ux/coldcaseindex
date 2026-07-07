@@ -81,7 +81,19 @@
       "addressLocality": "Troy"
     }
   },
-  "datePublished": "1981-04-01"
+  "datePublished": "1981-04-01",
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "NamUs — National Missing and Unidentified Persons System",
+      "url": "https://namus.nij.ojp.gov/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "The Doe Network — Unidentified & Missing",
+      "url": "https://www.doenetwork.org/"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
@@ -187,12 +199,50 @@
   font-weight: 500;
 }
 .case-summary {
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
+  font-size: var(--text-base);
+  color: var(--color-text);
   line-height: 1.8;
   margin-bottom: var(--space-6);
   max-width: 70ch;
+  font-weight: 500;
 }
+.case-narrative-section {
+  margin-bottom: var(--space-8);
+  max-width: 70ch;
+}
+.case-narrative {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  margin-bottom: var(--space-4);
+}
+.case-narrative:last-child { margin-bottom: 0; }
+.case-sources {
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}
+.case-sources-note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}
+.case-sources-note a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  padding-left: var(--space-5);
+  margin: 0;
+}
+.case-sources-list li { margin-bottom: var(--space-1); }
+.case-sources-list a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list a:hover { text-decoration: underline; }
 .case-back-btn {
   display: inline-flex;
   align-items: center;
@@ -681,6 +731,15 @@ body::after {
       <div class="fade-in">
         <p class="case-summary">Known as &#x27;Buckskin Girl&#x27; for the fringed jacket she wore, Marcia King was found murdered along US Route 40 near Troy, Ohio in April 1981. She was unidentified for 37 years until DNA genealogy testing identified her in 2018. Her killer has never been found.</p>
       </div>
+      
+      <!-- Extended Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Details</div>
+        <p class="case-narrative">“Marcia King (Buckskin Girl)” is an unidentified-persons case in the ColdCaseIndex database, associated with Troy, Ohio. The remains are associated with April 1981. The last known information on record places the case at April 1981, US Route 40, Troy, OH.</p>
+        <p class="case-narrative">Within the ColdCaseIndex taxonomy, Marcia King (Buckskin Girl) is filed under Unidentified Person with a status of Unsolved. An unidentified-persons entry documents recovered remains whose identity has not been established. The record is cross-referenced under the themes homicide, Ohio, identified via DNA, killer unsolved, Buckskin Girl, which connect it to related cases across the database.</p>
+        <p class="case-narrative">As of the most recent information compiled here, no arrest has been publicly recorded in the Marcia King (Buckskin Girl) case, and it remains open and unsolved. Cases like this can be reactivated at any time — advances in DNA analysis, forensic genetic genealogy, and renewed public attention have resolved cases that lay dormant for decades.</p>
+        <p class="case-narrative">Primary jurisdiction for the Marcia King (Buckskin Girl) case rests with local law enforcement in Troy, supported by Ohio state investigative authorities. The case sits within a wider national picture: the U.S. homicide clearance rate has fallen from roughly 90% in the 1960s to about 54% today, and more than 346,000 homicides recorded since 1965 remain unsolved. ColdCaseIndex documents individual cases like this one to keep them publicly visible and searchable.</p>
+      </div>
 
       <!-- Last Seen -->
       
@@ -725,6 +784,16 @@ body::after {
             </div>
           </div>
         </div>
+      </div>
+
+      
+      <!-- Sources & Further Reading -->
+      <div class="case-sources fade-in">
+        <div class="section-label">Sources &amp; Further Reading</div>
+        <p class="case-sources-note">Curated starting points for verifying and researching this case. Direct references are checked; search links are provided as further-reading aids. ColdCaseIndex is an index of public information — see a case correction? Email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+        <ul class="case-sources-list">
+          <li><a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer nofollow">NamUs — National Missing and Unidentified Persons System</a></li><li><a href="https://www.doenetwork.org/" target="_blank" rel="noopener noreferrer nofollow">The Doe Network — Unidentified &amp; Missing</a></li><li><a href="https://en.wikipedia.org/w/index.php?search=Marcia%20King%20%28Buckskin%20Girl%29%20Troy%20Ohio" target="_blank" rel="noopener noreferrer nofollow">Search Wikipedia for this case</a></li><li><a href="https://news.google.com/search?q=Marcia%20King%20%28Buckskin%20Girl%29%20Troy%20Ohio" target="_blank" rel="noopener noreferrer nofollow">Search news coverage</a></li>
+        </ul>
       </div>
 
       

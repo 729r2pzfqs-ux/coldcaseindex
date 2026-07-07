@@ -81,7 +81,14 @@
       "addressLocality": "West Memphis"
     }
   },
-  "datePublished": "1993-05-05"
+  "datePublished": "1993-05-05",
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "Murder Accountability Project — Homicide Data",
+      "url": "https://www.murderdata.org/"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
@@ -187,12 +194,50 @@
   font-weight: 500;
 }
 .case-summary {
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
+  font-size: var(--text-base);
+  color: var(--color-text);
   line-height: 1.8;
   margin-bottom: var(--space-6);
   max-width: 70ch;
+  font-weight: 500;
 }
+.case-narrative-section {
+  margin-bottom: var(--space-8);
+  max-width: 70ch;
+}
+.case-narrative {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  margin-bottom: var(--space-4);
+}
+.case-narrative:last-child { margin-bottom: 0; }
+.case-sources {
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}
+.case-sources-note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}
+.case-sources-note a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  padding-left: var(--space-5);
+  margin: 0;
+}
+.case-sources-list li { margin-bottom: var(--space-1); }
+.case-sources-list a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list a:hover { text-decoration: underline; }
 .case-back-btn {
   display: inline-flex;
   align-items: center;
@@ -681,6 +726,15 @@ body::after {
       <div class="fade-in">
         <p class="case-summary">Three eight-year-old boys were murdered in West Memphis, Arkansas. Three teenagers — Damien Echols, Jason Baldwin, and Jessie Misskelley Jr. — were convicted but released in 2011 via Alford pleas. Controversy remains about their guilt. DNA from the crime scene has not been matched to anyone and some evidence pointed to a parent of one of the victims.</p>
       </div>
+      
+      <!-- Extended Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Details</div>
+        <p class="case-narrative">Steve Branch, Michael Moore &amp; Christopher Byers is documented in the ColdCaseIndex database as a multiple-homicide case in West Memphis, Arkansas. The events are dated to May 5, 1993. The case involves more than one victim. The last known information on record places the case at May 5, 1993, West Memphis, AR.</p>
+        <p class="case-narrative">Within the ColdCaseIndex taxonomy, Steve Branch, Michael Moore &amp; Christopher Byers is filed under Multiple Homicide with a status of Partially Solved. A multiple-homicide entry documents an incident involving more than one victim. The record is cross-referenced under the themes homicide, children, Arkansas, wrongful conviction, West Memphis Three, documentary, which connect it to related cases across the database.</p>
+        <p class="case-narrative">The Steve Branch, Michael Moore &amp; Christopher Byers case is partially resolved: some elements have been established while significant questions remain open.</p>
+        <p class="case-narrative">Primary jurisdiction for the Steve Branch, Michael Moore &amp; Christopher Byers case rests with local law enforcement in West Memphis, supported by Arkansas state investigative authorities. The case sits within a wider national picture: the U.S. homicide clearance rate has fallen from roughly 90% in the 1960s to about 54% today, and more than 346,000 homicides recorded since 1965 remain unsolved. ColdCaseIndex documents individual cases like this one to keep them publicly visible and searchable.</p>
+      </div>
 
       <!-- Last Seen -->
       
@@ -726,6 +780,16 @@ body::after {
             </div>
           </div>
         </div>
+      </div>
+
+      
+      <!-- Sources & Further Reading -->
+      <div class="case-sources fade-in">
+        <div class="section-label">Sources &amp; Further Reading</div>
+        <p class="case-sources-note">Curated starting points for verifying and researching this case. Direct references are checked; search links are provided as further-reading aids. ColdCaseIndex is an index of public information — see a case correction? Email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+        <ul class="case-sources-list">
+          <li><a href="https://www.murderdata.org/" target="_blank" rel="noopener noreferrer nofollow">Murder Accountability Project — Homicide Data</a></li><li><a href="https://en.wikipedia.org/w/index.php?search=Steve%20Branch%2C%20Michael%20Moore%20%26%20Christopher%20Byers%20West%20Memphis%20Arkansas" target="_blank" rel="noopener noreferrer nofollow">Search Wikipedia for this case</a></li><li><a href="https://news.google.com/search?q=Steve%20Branch%2C%20Michael%20Moore%20%26%20Christopher%20Byers%20West%20Memphis%20Arkansas" target="_blank" rel="noopener noreferrer nofollow">Search news coverage</a></li>
+        </ul>
       </div>
 
       

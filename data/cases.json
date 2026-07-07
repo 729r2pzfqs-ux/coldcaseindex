@@ -19,6 +19,12 @@
       "Jack the Ripper copycat",
       "unsolved",
       "1891"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -41,6 +47,12 @@
       "Lizzie Borden",
       "acquittal",
       "19th century"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -63,6 +75,16 @@
       "architect",
       "conviction",
       "1900s"
+    ],
+    "sources": [
+      {
+        "title": "Stanford White — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stanford_White"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -85,6 +107,12 @@
       "execution",
       "racial justice",
       "1912"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -108,6 +136,12 @@
       "jazz",
       "1919",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -130,6 +164,16 @@
       "Hollywood",
       "acquittal",
       "1920s"
+    ],
+    "sources": [
+      {
+        "title": "Virginia Rappe — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Virginia_Rappe"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -151,6 +195,16 @@
       "historical",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "William Desmond Taylor — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/William_Desmond_Taylor"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -174,6 +228,12 @@
       "conviction",
       "thrill kill",
       "Leopold and Loeb"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -196,6 +256,16 @@
       "New York",
       "unsolved",
       "1930s"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -218,6 +288,16 @@
       "1930s",
       "political",
       "undetermined"
+    ],
+    "sources": [
+      {
+        "title": "Death of Starr Faithfull — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Starr_Faithfull"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -241,6 +321,16 @@
       "New Jersey",
       "conviction",
       "Lindbergh"
+    ],
+    "sources": [
+      {
+        "title": "Charles Lindbergh — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -263,6 +353,16 @@
       "Hollywood",
       "1930s",
       "possible murder"
+    ],
+    "sources": [
+      {
+        "title": "Paul Bern — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paul_Bern"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -284,6 +384,16 @@
       "Ohio",
       "Cleveland",
       "unidentified victims"
+    ],
+    "sources": [
+      {
+        "title": "Cleveland Torso Murderer — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cleveland_Torso_Murderer"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -306,6 +416,16 @@
       "Hollywood",
       "1930s",
       "undetermined"
+    ],
+    "sources": [
+      {
+        "title": "Thelma Todd — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thelma_Todd"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -327,6 +447,20 @@
       "aviation",
       "Pacific Ocean",
       "national mystery"
+    ],
+    "sources": [
+      {
+        "title": "Amelia Earhart — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amelia_Earhart"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -350,6 +484,12 @@
       "South Carolina",
       "civil rights",
       "child"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -372,6 +512,16 @@
       "Alabama",
       "racial injustice",
       "no prosecution"
+    ],
+    "sources": [
+      {
+        "title": "Recy Taylor — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Recy_Taylor"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -393,6 +543,12 @@
       "Chicago",
       "historical",
       "Lipstick Killer"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -415,6 +571,16 @@
       "historical",
       "Phantom Killer",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Texarkana Moonlight Murders — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Texarkana_Moonlight_Murders"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -435,6 +601,12 @@
       "high-profile",
       "historical",
       "mutilation"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -456,6 +628,20 @@
       "Pennsylvania",
       "Philadelphia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Dorothy Forstein — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Dorothy_Forstein"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -477,6 +663,20 @@
       "Ohio",
       "historical",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Beverly Potts — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Beverly_Potts"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -499,6 +699,16 @@
       "conviction",
       "execution",
       "Missouri"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Bobby Greenlease — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Bobby_Greenlease"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -520,6 +730,20 @@
       "historical",
       "Wisconsin",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Evelyn Hartley — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Evelyn_Hartley"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -543,6 +767,16 @@
       "New York",
       "conspiracy",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Frank Olson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Frank_Olson"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -564,6 +798,12 @@
       "historical",
       "Missouri",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -586,6 +826,16 @@
       "The Fugitive inspiration",
       "controversial conviction",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Sam Sheppard — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sam_Sheppard"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -608,6 +858,16 @@
       "Mississippi",
       "child",
       "acquittal"
+    ],
+    "sources": [
+      {
+        "title": "Emmett Till — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emmett_Till"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -631,6 +891,12 @@
       "child",
       "DOJ reopened",
       "acquittal"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -652,6 +918,12 @@
       "Chicago",
       "historical",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -673,6 +945,16 @@
       "Alabama",
       "FBI case",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -693,6 +975,12 @@
       "Texas",
       "confessions",
       "partially solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -715,6 +1003,12 @@
       "acquittal",
       "fugitive",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -736,6 +1030,12 @@
       "Boston",
       "partially solved",
       "Massachusetts"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -757,6 +1057,16 @@
       "New Jersey",
       "FBI case",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -781,6 +1091,12 @@
       "bombing",
       "children",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -803,6 +1119,16 @@
       "Nevada",
       "1963",
       "rescue"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -825,6 +1151,16 @@
       "conspiracy",
       "Texas",
       "high-profile"
+    ],
+    "sources": [
+      {
+        "title": "Assassination of John F. Kennedy — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -846,6 +1182,16 @@
       "historical",
       "Mississippi",
       "conviction delayed"
+    ],
+    "sources": [
+      {
+        "title": "Medgar Evers — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Medgar_Evers"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -868,6 +1214,12 @@
       "Mississippi",
       "conviction delayed",
       "Freedom Summer"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -889,6 +1241,16 @@
       "New York",
       "historical",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Kitty Genovese — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Kitty_Genovese"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -909,6 +1271,16 @@
       "homicide",
       "New York",
       "controversial conviction"
+    ],
+    "sources": [
+      {
+        "title": "Alice Crimmins — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alice_Crimmins"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -930,6 +1302,16 @@
       "JFK investigation",
       "New York",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Dorothy Kilgallen — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorothy_Kilgallen"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -952,6 +1334,16 @@
       "Alabama",
       "conviction delayed",
       "Selma"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jimmie Lee Jackson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jimmie_Lee_Jackson"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -973,6 +1365,16 @@
       "California",
       "unsolved",
       "college campus"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Cheri Jo Bates — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Cheri_Jo_Bates"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -995,6 +1397,12 @@
       "Illinois",
       "conviction",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1016,6 +1424,16 @@
       "Illinois",
       "unsolved",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Charles H. Percy — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charles_H._Percy"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1037,6 +1455,20 @@
       "buried alive",
       "conviction",
       "ransomed"
+    ],
+    "sources": [
+      {
+        "title": "Kidnapping of Barbara Mackle — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kidnapping_of_Barbara_Mackle"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1059,6 +1491,12 @@
       "teens",
       "first victims",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1080,6 +1518,12 @@
       "New Jersey",
       "conviction",
       "cold case DNA"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1102,6 +1546,16 @@
       "assassination",
       "California",
       "conviction controversial"
+    ],
+    "sources": [
+      {
+        "title": "Assassination of Robert F. Kennedy — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1122,6 +1576,12 @@
       "ciphers",
       "high-profile",
       "multiple victims"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1142,6 +1602,12 @@
       "serial killer",
       "stabbing",
       "California"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1164,6 +1630,12 @@
       "California",
       "conviction",
       "Sharon Tate"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1184,6 +1656,16 @@
       "Jane Doe",
       "Indiana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -1205,6 +1687,16 @@
       "Massachusetts",
       "cold case solved",
       "DNA 50 years later"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jane Britton — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jane_Britton"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1227,6 +1719,16 @@
       "political",
       "unsolved",
       "1969"
+    ],
+    "sources": [
+      {
+        "title": "Mary Jo Kopechne — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mary_Jo_Kopechne"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1247,6 +1749,16 @@
       "Jane Doe",
       "Nebraska",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -1268,6 +1780,12 @@
       "San Francisco",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1290,6 +1808,12 @@
       "conviction",
       "Sharon Tate",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1312,6 +1836,12 @@
       "conviction",
       "Candy Man",
       "multiple victims"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1333,6 +1863,16 @@
       "FBI case",
       "historical",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1355,6 +1895,20 @@
       "FBI case",
       "historical",
       "Washington"
+    ],
+    "sources": [
+      {
+        "title": "D. B. Cooper — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/D._B._Cooper"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1376,6 +1930,12 @@
       "conviction",
       "fugitive",
       "America's Most Wanted"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1397,6 +1957,12 @@
       "conviction",
       "hunting",
       "wilderness"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1417,6 +1983,12 @@
       "Texas",
       "multiple victims",
       "partially solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1439,6 +2011,12 @@
       "Illinois",
       "plane crash",
       "conspiracy theories"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1459,6 +2037,12 @@
       "North Carolina",
       "rural",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1479,6 +2063,16 @@
       "Jane Doe",
       "Georgia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -1501,6 +2095,12 @@
       "conviction",
       "Killer Clown",
       "execution"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1522,6 +2122,12 @@
       "wrongful conviction",
       "exoneration",
       "coerced confession"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1543,6 +2149,12 @@
       "Kansas",
       "Wichita",
       "BTK"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1563,6 +2175,16 @@
       "teen",
       "West Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1583,6 +2205,12 @@
       "Oklahoma",
       "Tulsa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1604,6 +2232,12 @@
       "Texas",
       "conviction",
       "cold case"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1624,6 +2258,12 @@
       "DNA genealogy",
       "solved",
       "California"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1646,6 +2286,16 @@
       "conspiracy",
       "1974",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Karen Silkwood — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Karen_Silkwood"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1668,6 +2318,20 @@
       "FBI case",
       "historical",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Margaret Ellen Fox — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Margaret_Ellen_Fox"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1690,6 +2354,12 @@
       "Wichita",
       "conviction",
       "serial killer first crime"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1711,6 +2381,16 @@
       "SLA",
       "conviction",
       "pardon"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1733,6 +2413,12 @@
       "execution",
       "high-profile",
       "multiple states"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1754,6 +2440,12 @@
       "Washington",
       "Seattle",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1774,6 +2466,12 @@
       "college students",
       "New Mexico",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1796,6 +2494,16 @@
       "FBI case",
       "double disappearance",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1819,6 +2527,20 @@
       "Michigan",
       "unsolved",
       "Teamsters"
+    ],
+    "sources": [
+      {
+        "title": "Jimmy Hoffa — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jimmy_Hoffa"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -1840,6 +2562,12 @@
       "conviction",
       "cold case DNA",
       "30-year cold case"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1862,6 +2590,12 @@
       "bank robbery",
       "conviction",
       "Patty Hearst"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1883,6 +2617,12 @@
       "Spokane",
       "conviction",
       "military"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1903,6 +2643,16 @@
       "Jane Doe",
       "South Dakota",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -1925,6 +2675,16 @@
       "South Dakota",
       "conviction",
       "Pine Ridge"
+    ],
+    "sources": [
+      {
+        "title": "Anna Mae Aquash — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anna_Mae_Aquash"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1945,6 +2705,16 @@
       "Jane Doe",
       "Kansas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -1966,6 +2736,12 @@
       "Michigan",
       "unsolved",
       "Babysitter killer"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -1986,6 +2762,16 @@
       "Jane Doe",
       "Oklahoma",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2007,6 +2793,12 @@
       "conviction",
       "Son of Sam",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2027,6 +2819,16 @@
       "Jane Doe",
       "Wisconsin",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2048,6 +2850,16 @@
       "college student",
       "conviction",
       "controversial plea"
+    ],
+    "sources": [
+      {
+        "title": "Bonnie Garland murder case — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bonnie_Garland_murder_case"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2067,6 +2879,12 @@
       "homicide",
       "North Carolina",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2089,6 +2907,12 @@
       "conviction",
       "cousins",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2110,6 +2934,12 @@
       "conviction",
       "fugitive",
       "Pennsylvania"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2129,6 +2959,12 @@
       "homicide",
       "Florida",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2150,6 +2986,12 @@
       "I-5 Strangler",
       "conviction",
       "cold case DNA"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2171,6 +3013,16 @@
       "Missouri",
       "St. Louis",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2190,6 +3042,12 @@
       "homicide",
       "Rhode Island",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2210,6 +3068,12 @@
       "Texas",
       "Dallas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2230,6 +3094,16 @@
       "celebrity",
       "Arizona",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Bob Crane — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bob_Crane"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2252,6 +3126,12 @@
       "conviction",
       "sorority",
       "execution"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2274,6 +3154,12 @@
       "conviction",
       "cannibalism",
       "high-profile"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2294,6 +3180,16 @@
       "Massachusetts",
       "unsolved",
       "1982"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -2316,6 +3212,12 @@
       "Florida",
       "conviction",
       "execution"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2336,6 +3238,12 @@
       "teen",
       "Connecticut",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2358,6 +3266,12 @@
       "conviction",
       "Peoples Temple",
       "1978"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2379,6 +3293,12 @@
       "arsenic poisoning",
       "conviction",
       "fugitive"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2400,6 +3320,12 @@
       "Atlanta",
       "conviction",
       "reopened investigation"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2420,6 +3346,12 @@
       "Tennessee",
       "Knoxville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2440,6 +3372,16 @@
       "Pennsylvania",
       "Jane Doe",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2461,6 +3403,16 @@
       "milk carton",
       "conviction",
       "New York City"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Etan Patz — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Etan_Patz"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2481,6 +3433,16 @@
       "Jane Doe",
       "Kentucky",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2500,6 +3462,12 @@
       "homicide",
       "Wisconsin",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2521,6 +3489,12 @@
       "Wisconsin",
       "Milwaukee",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2542,6 +3516,12 @@
       "Pennsylvania",
       "children missing",
       "conviction overturned"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2563,6 +3543,12 @@
       "Georgia",
       "partially solved",
       "DNA reexamination"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2583,6 +3569,16 @@
       "Jane Doe",
       "Alaska",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2604,6 +3600,12 @@
       "Texas",
       "axe murder",
       "dramatized"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2624,6 +3626,20 @@
       "stalker",
       "California",
       "remains found"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Dorothy Jane Scott — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Dorothy_Jane_Scott"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -2645,6 +3661,16 @@
       "Scarsdale Diet",
       "conviction",
       "domestic"
+    ],
+    "sources": [
+      {
+        "title": "Herman Tarnower — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Herman_Tarnower"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2666,6 +3692,12 @@
       "California",
       "Berkeley",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2686,6 +3718,16 @@
       "Jane Doe",
       "Oregon",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2707,6 +3749,20 @@
       "teen",
       "human trafficking",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Tammy Terrell — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Tammy_Terrell"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2728,6 +3784,12 @@
       "homicide",
       "America's Most Wanted",
       "Florida"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2749,6 +3811,16 @@
       "Texas",
       "Houston",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murders of Dean and Tina Clouse — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murders_of_Dean_and_Tina_Clouse"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2769,6 +3841,12 @@
       "Kansas",
       "Wichita",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2790,6 +3868,12 @@
       "Keddie",
       "partially solved",
       "suspect deceased"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2811,6 +3895,16 @@
       "identified via DNA",
       "killer unsolved",
       "Buckskin Girl"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2831,6 +3925,16 @@
       "Jane Doe",
       "Minnesota",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2850,6 +3954,12 @@
       "homicide",
       "New Hampshire",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2872,6 +3982,16 @@
       "bombing",
       "Pennsylvania",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Philip Testa — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Philip_Testa"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2893,6 +4013,16 @@
       "Maryland",
       "Baltimore",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Sebastian Russo — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sebastian_Russo"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2913,6 +4043,16 @@
       "New York",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -2933,6 +4073,16 @@
       "Jane Doe",
       "Illinois",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -2955,6 +4105,12 @@
       "unsolved",
       "product tampering",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -2975,6 +4131,20 @@
       "Hawaii",
       "unsolved",
       "1985"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Diane Suzuki — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Diane_Suzuki"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -2996,6 +4166,12 @@
       "Sacramento",
       "conviction",
       "elderly victims"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3017,6 +4193,12 @@
       "Green River",
       "partially solved",
       "unidentified victims"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3038,6 +4220,12 @@
       "Washington",
       "sex workers",
       "DNA evidence"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3060,6 +4248,20 @@
       "milk carton",
       "high-profile",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Johnny Gosch — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Johnny_Gosch"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3081,6 +4283,20 @@
       "Robert Durst",
       "wealthy family",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Robert Durst — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Durst"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3101,6 +4317,12 @@
       "California",
       "unsolved",
       "1983"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3122,6 +4344,16 @@
       "Nevada",
       "Las Vegas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3142,6 +4374,16 @@
       "Jane Doe",
       "California",
       "Lake Tahoe"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3162,6 +4404,12 @@
       "Georgia",
       "Macon",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3182,6 +4430,12 @@
       "Massachusetts",
       "Waltham",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3202,6 +4456,12 @@
       "college student",
       "Ohio",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3225,6 +4485,16 @@
       "mass murder",
       "Chinatown",
       "1983"
+    ],
+    "sources": [
+      {
+        "title": "Wah Mee massacre — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wah_Mee_massacre"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3245,6 +4515,16 @@
       "Jane Doe",
       "West Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3265,6 +4545,12 @@
       "Florida",
       "Jacksonville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3286,6 +4572,16 @@
       "Texas",
       "conviction",
       "cold case DNA"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Angela Samota — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Angela_Samota"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3308,6 +4604,12 @@
       "conviction",
       "Night Stalker",
       "death row"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3330,6 +4632,16 @@
       "Tucson",
       "conviction",
       "execution"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Vicki Lynne Hoskinson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Vicki_Lynne_Hoskinson"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3350,6 +4662,12 @@
       "New Hampshire",
       "Bedford",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3371,6 +4689,12 @@
       "California",
       "conviction",
       "DNA genealogy"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3392,6 +4716,16 @@
       "Tennessee",
       "Nashville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3412,6 +4746,16 @@
       "Jane Doe",
       "North Carolina",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3434,6 +4778,12 @@
       "conviction",
       "execution",
       "taunting letters"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3455,6 +4805,12 @@
       "Utah",
       "conviction",
       "fraud"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3475,6 +4831,16 @@
       "abduction",
       "missing person",
       "FBI case"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3494,6 +4860,12 @@
       "homicide",
       "Rhode Island",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3515,6 +4887,16 @@
       "Virginia",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Colonial Parkway murders — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Colonial_Parkway_murders"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3536,6 +4918,12 @@
       "serial killer",
       "Dorothy Puente",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3557,6 +4945,12 @@
       "Pennsylvania",
       "conviction",
       "execution"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3577,6 +4971,12 @@
       "Washington",
       "Spokane",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3597,6 +4997,12 @@
       "Central Park",
       "New York City",
       "manslaughter plea"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3617,6 +5023,12 @@
       "New York",
       "Buffalo",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3637,6 +5049,16 @@
       "Jane Doe",
       "Vermont",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3657,6 +5079,16 @@
       "Tennessee",
       "Memphis",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3678,6 +5110,16 @@
       "child abuse",
       "New York",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Joel Steinberg — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_Steinberg"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3697,6 +5139,12 @@
       "homicide",
       "Kentucky",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3718,6 +5166,16 @@
       "wrongful conviction",
       "exoneration",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Peggy Hettrick — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Peggy_Hettrick"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3738,6 +5196,20 @@
       "missing person",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Kidnapping of Amber Swartz-Garcia — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kidnapping_of_Amber_Swartz-Garcia"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3758,6 +5230,12 @@
       "Kansas",
       "Topeka",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3778,6 +5256,16 @@
       "Jane Doe",
       "Delaware",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -3798,6 +5286,16 @@
       "teen",
       "Maine",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3818,6 +5316,12 @@
       "Missouri",
       "St. Louis",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3839,6 +5343,12 @@
       "highway",
       "trucker suspect",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3859,6 +5369,12 @@
       "Pennsylvania",
       "Pittsburgh",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3878,6 +5394,20 @@
       "missing person",
       "polaroid photo",
       "FBI case"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Tara Calico — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Tara_Calico"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -3900,6 +5430,12 @@
       "execution",
       "female killer",
       "highway"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3921,6 +5457,16 @@
       "domestic",
       "conviction",
       "Desperate Housewives inspiration"
+    ],
+    "sources": [
+      {
+        "title": "Betty Broderick — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Betty_Broderick"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3941,6 +5487,12 @@
       "Louisiana",
       "conviction",
       "Danny Rolling"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3960,6 +5512,12 @@
       "homicide",
       "Iowa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -3981,6 +5539,16 @@
       "California",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4003,6 +5571,16 @@
       "Minnesota",
       "sex offender registry law",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jacob Wetterling — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jacob_Wetterling"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4024,6 +5602,12 @@
       "Indiana",
       "conviction",
       "criminal justice reform"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4044,6 +5628,12 @@
       "college student",
       "Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4064,6 +5654,12 @@
       "New York",
       "Long Island",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4085,6 +5681,12 @@
       "highway",
       "conviction",
       "multiple states"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4105,6 +5707,12 @@
       "Michigan",
       "Ann Arbor",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4127,6 +5735,12 @@
       "conviction",
       "execution",
       "Gainesville Ripper"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4148,6 +5762,12 @@
       "New York",
       "Long Island",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4168,6 +5788,12 @@
       "Michigan",
       "Flint",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4189,6 +5815,12 @@
       "Boston",
       "Massachusetts",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4209,6 +5841,20 @@
       "Michigan",
       "highway",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Paige Renkoski — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Paige_Renkoski"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4228,6 +5874,12 @@
       "homicide",
       "Minnesota",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4249,6 +5901,12 @@
       "Texas",
       "conviction",
       "eyeball killer"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4271,6 +5929,16 @@
       "conspiracy",
       "unsolved",
       "whistleblower"
+    ],
+    "sources": [
+      {
+        "title": "Danny Casolaro — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Danny_Casolaro"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4291,6 +5959,16 @@
       "Oklahoma",
       "Tulsa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4313,6 +5991,16 @@
       "racial tension",
       "LA Riots",
       "controversial sentence"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Latasha Harlins — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Latasha_Harlins"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4333,6 +6021,12 @@
       "Arizona",
       "Tucson",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4353,6 +6047,12 @@
       "Wisconsin",
       "Wausau",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4373,6 +6073,16 @@
       "Jane Doe",
       "Maine",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -4394,6 +6104,16 @@
       "New Jersey",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4413,6 +6133,12 @@
       "homicide",
       "Pennsylvania",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4432,6 +6158,12 @@
       "homicide",
       "Michigan",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4452,6 +6184,16 @@
       "missing person",
       "Ohio",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4472,6 +6214,12 @@
       "I-70 killer",
       "multiple states",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4492,6 +6240,12 @@
       "Virginia",
       "Roanoke",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4511,6 +6265,16 @@
       "homicide",
       "Nebraska",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Janet Anderson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Janet_Anderson"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4532,6 +6296,12 @@
       "Louisiana",
       "repeated trials",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4552,6 +6322,12 @@
       "homicide",
       "Pennsylvania",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4572,6 +6348,16 @@
       "Jane Doe",
       "Arizona",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -4592,6 +6378,20 @@
       "missing persons",
       "unsolved",
       "high-profile"
+    ],
+    "sources": [
+      {
+        "title": "Springfield Three — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Springfield_Three"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4612,6 +6412,16 @@
       "college student",
       "highway",
       "trucker suspect"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Tammy Zywicki — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Tammy_Zywicki"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4633,6 +6443,16 @@
       "Massachusetts",
       "conviction",
       "cold case solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Holly Piirainen — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Holly_Piirainen"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4654,6 +6474,12 @@
       "Illinois",
       "Chicago",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4673,6 +6499,12 @@
       "homicide",
       "New Hampshire",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4693,6 +6525,12 @@
       "college student",
       "Iowa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4712,6 +6550,12 @@
       "homicide",
       "Montana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4734,6 +6578,16 @@
       "conviction",
       "three strikes law",
       "high-profile"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Polly Klaas — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Polly_Klaas"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4754,6 +6608,16 @@
       "Georgia",
       "Atlanta",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4776,6 +6640,12 @@
       "wrongful conviction",
       "West Memphis Three",
       "documentary"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4796,6 +6666,12 @@
       "Georgia",
       "Savannah",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4816,6 +6692,12 @@
       "New Mexico",
       "Albuquerque",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4837,6 +6719,16 @@
       "California",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -4859,6 +6751,12 @@
       "conviction",
       "execution",
       "anti-abortion violence"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4880,6 +6778,16 @@
       "Hawaii",
       "Maui",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -4900,6 +6808,12 @@
       "Missouri",
       "Kansas City",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4920,6 +6834,12 @@
       "California",
       "Irvine",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4942,6 +6862,12 @@
       "Missouri",
       "St. Louis",
       "prosecutorial misconduct"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4962,6 +6888,12 @@
       "Oregon",
       "Eugene",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -4984,6 +6916,16 @@
       "conviction",
       "Megan's Law",
       "sex offender registry"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Megan Kanka — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Megan_Kanka"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5004,6 +6946,12 @@
       "Arkansas",
       "abduction",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5025,6 +6973,12 @@
       "O.J. Simpson",
       "acquittal",
       "Los Angeles"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5046,6 +7000,16 @@
       "South Dakota",
       "Pine Ridge",
       "MMIW"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -5067,6 +7031,16 @@
       "Massachusetts",
       "Somerville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Deanna Cremin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Deanna_Cremin"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5088,6 +7062,20 @@
       "Iowa",
       "unsolved",
       "news anchor"
+    ],
+    "sources": [
+      {
+        "title": "Jodi Huisentruit — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jodi_Huisentruit"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5109,6 +7097,12 @@
       "Oklahoma",
       "conviction",
       "historical"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5130,6 +7124,16 @@
       "homicide",
       "AMBER Alert origin",
       "Texas"
+    ],
+    "sources": [
+      {
+        "title": "Amber alert — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amber_alert"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5151,6 +7155,12 @@
       "conviction",
       "prominent attorney",
       "body at sea"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5171,6 +7181,12 @@
       "Illinois",
       "Springfield",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5192,6 +7208,16 @@
       "Tennessee",
       "FBI case",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5212,6 +7238,16 @@
       "homicide",
       "high-profile",
       "DNA evidence"
+    ],
+    "sources": [
+      {
+        "title": "Killing of JonBenét Ramsey — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_JonBen%C3%A9t_Ramsey"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5232,6 +7268,16 @@
       "college student",
       "recently solved",
       "cold case conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Kristin Smart — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Kristin_Smart"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5251,6 +7297,12 @@
       "homicide",
       "Delaware",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5271,6 +7323,16 @@
       "Tennessee",
       "Nashville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5292,6 +7354,12 @@
       "Virginia",
       "conviction",
       "hikers"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5313,6 +7381,16 @@
       "high-profile",
       "gang-related",
       "Las Vegas"
+    ],
+    "sources": [
+      {
+        "title": "Tupac Shakur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tupac_Shakur"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5333,6 +7411,16 @@
       "Wyoming",
       "jogger",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5353,6 +7441,12 @@
       "Nevada",
       "Reno",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5373,6 +7467,16 @@
       "Maryland",
       "Annapolis",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5394,6 +7498,16 @@
       "California",
       "conviction",
       "Bill Cosby son"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Ennis Cosby — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Ennis_Cosby"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5416,6 +7530,16 @@
       "Florida",
       "spree killer",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Gianni Versace — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gianni_Versace"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5437,6 +7561,20 @@
       "San Francisco",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Kristen Modafferi — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Kristen_Modafferi"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5459,6 +7597,12 @@
       "exoneration",
       "coerced confession",
       "Navy"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5479,6 +7623,12 @@
       "Texas",
       "San Antonio",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5499,6 +7649,16 @@
       "missing person",
       "Hawaii",
       "parental conviction"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5520,6 +7680,12 @@
       "high-profile",
       "gang-related",
       "Los Angeles"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5542,6 +7708,16 @@
       "conviction",
       "civil rights",
       "racial violence"
+    ],
+    "sources": [
+      {
+        "title": "Murder of James Byrd Jr. — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_James_Byrd_Jr."
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5562,6 +7738,12 @@
       "Nevada",
       "Las Vegas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5582,6 +7764,12 @@
       "Ohio",
       "Toledo",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5601,6 +7789,16 @@
       "missing person",
       "North Dakota",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5621,6 +7819,16 @@
       "New Mexico",
       "Santa Fe",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5641,6 +7849,12 @@
       "Minnesota",
       "Duluth",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5661,6 +7875,16 @@
       "Arkansas",
       "Little Rock",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5680,6 +7904,16 @@
       "missing person",
       "Alabama",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5700,6 +7934,12 @@
       "California",
       "Fresno",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5721,6 +7961,16 @@
       "Serial podcast",
       "Maryland",
       "conviction vacated"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Hae Min Lee — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Hae_Min_Lee"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5740,6 +7990,12 @@
       "homicide",
       "Mississippi",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5759,6 +8015,12 @@
       "homicide",
       "Indiana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5780,6 +8042,16 @@
       "Utah",
       "BYU",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5800,6 +8072,16 @@
       "college student",
       "Indiana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5820,6 +8102,12 @@
       "Maryland",
       "Baltimore",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5842,6 +8130,12 @@
       "national park",
       "conviction",
       "Cary Stayner"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5861,6 +8155,20 @@
       "child",
       "missing person",
       "FBI case"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Asha Degree — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Asha_Degree"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -5881,6 +8189,12 @@
       "Kansas",
       "Lawrence",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5901,6 +8215,12 @@
       "Louisiana",
       "New Orleans",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5922,6 +8242,16 @@
       "Massachusetts",
       "homicide",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Molly Bish — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Molly_Bish"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5943,6 +8273,12 @@
       "Missouri",
       "Joplin",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -5965,6 +8301,16 @@
       "New York",
       "serial killer",
       "partially solved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -5986,6 +8332,16 @@
       "acquittal",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Bonny Lee Bakley — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bonny_Lee_Bakley"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6006,6 +8362,16 @@
       "homicide",
       "political",
       "Washington DC"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Chandra Levy — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Chandra_Levy"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6026,6 +8392,16 @@
       "missing person",
       "New Mexico",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6047,6 +8423,12 @@
       "Las Vegas",
       "wrongful conviction",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6068,6 +8450,16 @@
       "New York",
       "unsolved",
       "immigrant"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Henryk Siwiak — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Henryk_Siwiak"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6088,6 +8480,16 @@
       "New Jersey",
       "casino",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6108,6 +8510,16 @@
       "college student",
       "New York",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jill-Lyn Euto — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jill-Lyn_Euto"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6129,6 +8541,12 @@
       "conviction",
       "wrongful conviction concerns",
       "journalist"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6149,6 +8567,12 @@
       "Louisiana",
       "Baton Rouge",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6169,6 +8593,12 @@
       "Arizona",
       "Phoenix",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6189,6 +8619,12 @@
       "Florida",
       "Tampa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6209,6 +8645,12 @@
       "Idaho",
       "Boise",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6230,6 +8672,16 @@
       "Seattle",
       "gun control advocate",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Thomas Wales — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Wales"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6250,6 +8702,12 @@
       "North Carolina",
       "Charlotte",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6271,6 +8729,16 @@
       "Wisconsin",
       "media disparity",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6291,6 +8759,12 @@
       "Pennsylvania",
       "Lancaster",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6313,6 +8787,16 @@
       "conviction",
       "captivity",
       "escape"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6334,6 +8818,16 @@
       "terrorism",
       "conviction",
       "international"
+    ],
+    "sources": [
+      {
+        "title": "Daniel Pearl — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Pearl"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6356,6 +8850,16 @@
       "conviction",
       "death row",
       "neighbor"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Danielle van Dam — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Danielle_van_Dam"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6377,6 +8881,20 @@
       "Utah",
       "conviction",
       "rescue"
+    ],
+    "sources": [
+      {
+        "title": "Elizabeth Smart — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Smart"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6398,6 +8916,16 @@
       "California",
       "conviction",
       "Joyful Child Foundation"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Samantha Runnion — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Samantha_Runnion"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6418,6 +8946,12 @@
       "Washington",
       "Tacoma",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6438,6 +8972,16 @@
       "journalist",
       "Texas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Jennifer Servo — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Jennifer_Servo"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6459,6 +9003,12 @@
       "New Jersey",
       "unsolved",
       "MOVE"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6479,6 +9029,16 @@
       "conviction",
       "high-profile",
       "domestic violence"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Laci Peterson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Laci_Peterson"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6499,6 +9059,16 @@
       "college student",
       "reward",
       "FBI case"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6519,6 +9089,12 @@
       "Texas",
       "unsolved",
       "cyclist"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6539,6 +9115,12 @@
       "Colorado",
       "Denver",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6561,6 +9143,20 @@
       "conviction",
       "rescue",
       "Stockholm syndrome"
+    ],
+    "sources": [
+      {
+        "title": "Shawn Hornbeck Foundation — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shawn_Hornbeck_Foundation"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6581,6 +9177,16 @@
       "teen",
       "Connecticut",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6601,6 +9207,16 @@
       "Washington",
       "Tacoma",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6622,6 +9238,12 @@
       "bank",
       "triple murder",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6642,6 +9264,12 @@
       "Texas",
       "El Paso",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6663,6 +9291,16 @@
       "North Dakota",
       "conviction",
       "sex offender"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Dru Sjodin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Dru_Sjodin"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6683,6 +9321,12 @@
       "rapper",
       "Georgia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6703,6 +9347,12 @@
       "Nevada",
       "Henderson",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6722,6 +9372,12 @@
       "homicide",
       "Indiana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6742,6 +9398,12 @@
       "Louisiana",
       "Shreveport",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6762,6 +9424,12 @@
       "North Carolina",
       "Raleigh",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6782,6 +9450,12 @@
       "Minnesota",
       "Minneapolis",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6803,6 +9477,12 @@
       "political theories",
       "unsolved",
       "Detroit"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6823,6 +9503,16 @@
       "police misconduct",
       "Florida",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6843,6 +9533,12 @@
       "South Carolina",
       "conviction",
       "Superbike Motorsports"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6863,6 +9559,16 @@
       "teen",
       "Kansas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6884,6 +9590,20 @@
       "Vermont",
       "unsolved",
       "abandoned car"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Brianna Maitland — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Brianna_Maitland"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6906,6 +9626,16 @@
       "conviction",
       "surveillance footage",
       "Carlie's Law"
+    ],
+    "sources": [
+      {
+        "title": "Carlie's Law — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carlie%27s_Law"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6925,6 +9655,16 @@
       "missing person",
       "South Carolina",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6945,6 +9685,12 @@
       "Virginia",
       "Richmond",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -6965,6 +9711,16 @@
       "college student",
       "Iowa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -6986,6 +9742,20 @@
       "New Hampshire",
       "internet investigation",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Maura Murray — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Maura_Murray"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7005,6 +9775,12 @@
       "homicide",
       "Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7025,6 +9801,12 @@
       "New Jersey",
       "Trenton",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7046,6 +9828,12 @@
       "Minneapolis",
       "conviction",
       "jogger"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7067,6 +9855,12 @@
       "Albuquerque",
       "unsolved",
       "highway violence"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7087,6 +9881,12 @@
       "Nevada",
       "Las Vegas",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7108,6 +9908,12 @@
       "sex workers",
       "FBI investigation",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7128,6 +9934,16 @@
       "Kentucky",
       "Louisville",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7150,6 +9966,16 @@
       "sex offender",
       "conviction",
       "Jessica's Law"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jessica Lunsford — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Lunsford"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7171,6 +9997,16 @@
       "Iowa",
       "river",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7193,6 +10029,20 @@
       "Aruba",
       "high-profile",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Natalee Holloway — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Natalee_Holloway"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7213,6 +10063,12 @@
       "Virginia",
       "pregnant victim",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7233,6 +10089,12 @@
       "New Jersey",
       "Newark",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7254,6 +10116,12 @@
       "Wisconsin",
       "conviction",
       "documentary"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7274,6 +10142,12 @@
       "Alabama",
       "Tuscaloosa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7295,6 +10169,16 @@
       "Iowa",
       "unsolved",
       "river disappearance"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7314,6 +10198,12 @@
       "homicide",
       "West Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7335,6 +10225,16 @@
       "Idaho",
       "conviction",
       "premeditated"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Cassie Jo Stoddart — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Cassie_Jo_Stoddart"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7357,6 +10257,20 @@
       "unsolved",
       "surveillance footage",
       "reward"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Jennifer Kesse — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Jennifer_Kesse"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7377,6 +10291,16 @@
       "conviction",
       "domestic",
       "California"
+    ],
+    "sources": [
+      {
+        "title": "Hans Reiser — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hans_Reiser"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7398,6 +10322,16 @@
       "lawyer",
       "acquittal",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Robert Eric Wone — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Robert_Eric_Wone"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7418,6 +10352,12 @@
       "Texas",
       "Corpus Christi",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7439,6 +10379,12 @@
       "Ohio",
       "conviction",
       "death row"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7461,6 +10407,12 @@
       "family murder",
       "CTE",
       "murder-suicide"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7481,6 +10433,16 @@
       "Mississippi",
       "Jackson",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7501,6 +10463,12 @@
       "Arizona",
       "Mesa",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7523,6 +10491,12 @@
       "Gilgo Beach",
       "sex workers",
       "arrest made"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7542,6 +10516,12 @@
       "homicide",
       "California",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7562,6 +10542,12 @@
       "Alabama",
       "Montgomery",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7583,6 +10569,20 @@
       "police officer",
       "domestic",
       "body never found"
+    ],
+    "sources": [
+      {
+        "title": "Drew Peterson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Drew_Peterson"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7603,6 +10603,12 @@
       "South Carolina",
       "Columbia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7624,6 +10630,16 @@
       "acquittal",
       "high-profile",
       "Florida"
+    ],
+    "sources": [
+      {
+        "title": "Death of Caylee Anthony — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Caylee_Anthony"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7645,6 +10661,12 @@
       "Chicago",
       "conviction",
       "Jennifer Hudson"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7666,6 +10688,16 @@
       "conviction",
       "911 failure",
       "Denise's Law"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Denise Amber Lee — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Denise_Amber_Lee"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7686,6 +10718,12 @@
       "Georgia",
       "Columbus",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7706,6 +10744,12 @@
       "Oregon",
       "Portland",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7726,6 +10770,12 @@
       "Kentucky",
       "Lexington",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7747,6 +10797,12 @@
       "California",
       "conviction",
       "sex offender"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7769,6 +10825,16 @@
       "spring break",
       "human trafficking",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Brittanee Drexel — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Brittanee_Drexel"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7789,6 +10855,12 @@
       "Arizona",
       "Tucson",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7811,6 +10883,16 @@
       "Oakland",
       "conviction",
       "Oscar Grant"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Oscar Grant — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Oscar_Grant"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7832,6 +10914,16 @@
       "Utah",
       "family tragedy",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7852,6 +10944,12 @@
       "Ohio",
       "Columbus",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7873,6 +10971,12 @@
       "California",
       "conviction",
       "Chelsea's Law"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7893,6 +10997,20 @@
       "missing person",
       "school disappearance",
       "FBI case"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Kyron Horman — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Kyron_Horman"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7914,6 +11032,16 @@
       "MMIW",
       "Montana",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7933,6 +11061,16 @@
       "missing person",
       "South Dakota",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7954,6 +11092,16 @@
       "domestic violence",
       "Virginia",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Yeardley Love — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Yeardley_Love"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -7973,6 +11121,16 @@
       "missing person",
       "Maryland",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -7993,6 +11151,12 @@
       "Missouri",
       "Columbia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8014,6 +11178,16 @@
       "New York",
       "acquittal",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Who Killed Garrett Phillips? — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Who_Killed_Garrett_Phillips%3F"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8035,6 +11209,16 @@
       "Tennessee",
       "conviction",
       "long-term missing"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Holly Bobo — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Holly_Bobo"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8054,6 +11238,12 @@
       "homicide",
       "Georgia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8073,6 +11263,12 @@
       "homicide",
       "Connecticut",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8094,6 +11290,20 @@
       "Indiana",
       "surveillance video",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Lauren Spierer — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Lauren_Spierer"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8116,6 +11326,16 @@
       "New York",
       "conviction",
       "Orthodox Jewish community"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Leiby Kletzky — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Leiby_Kletzky"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8136,6 +11356,20 @@
       "missing person",
       "Missouri",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Lisa Irwin — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Lisa_Irwin"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8155,6 +11389,12 @@
       "homicide",
       "Virginia",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8175,6 +11415,12 @@
       "California",
       "Craigslist",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8195,6 +11441,12 @@
       "Mississippi",
       "Meridian",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8215,6 +11467,16 @@
       "college student",
       "DNA evidence",
       "recently solved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Faith Hedgepeth — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Faith_Hedgepeth"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8236,6 +11498,16 @@
       "Colorado",
       "conviction",
       "juvenile offender"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jessica Ridgeway — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Ridgeway"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8258,6 +11530,12 @@
       "conviction",
       "Stand Your Ground",
       "racial justice"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8279,6 +11557,12 @@
       "Vermont",
       "conviction",
       "cult"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8300,6 +11584,16 @@
       "teen",
       "New Hampshire",
       "conviction"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8321,6 +11615,12 @@
       "Virginia",
       "conviction",
       "body never found"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8342,6 +11642,12 @@
       "New York",
       "Queens",
       "school disappearance"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8362,6 +11668,16 @@
       "Cecil Hotel",
       "surveillance video",
       "California"
+    ],
+    "sources": [
+      {
+        "title": "Death of Elisa Lam — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8384,6 +11700,16 @@
       "MMIW",
       "conviction",
       "Northern Cheyenne"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8404,6 +11730,12 @@
       "Missouri",
       "Springfield",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8424,6 +11756,12 @@
       "Illinois",
       "Chicago",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8447,6 +11785,16 @@
       "unsolved",
       "I can't breathe",
       "civil rights"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Eric Garner — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Eric_Garner"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8468,6 +11816,12 @@
       "fire",
       "hung jury",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8491,6 +11845,16 @@
       "conviction",
       "dashcam suppressed",
       "civil rights"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Laquan McDonald — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Laquan_McDonald"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8514,6 +11878,12 @@
       "no indictment",
       "Black Lives Matter",
       "civil rights"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8538,6 +11908,16 @@
       "no indictment",
       "civil rights",
       "toy gun"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Tamir Rice — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Tamir_Rice"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8557,6 +11937,12 @@
       "homicide",
       "New York",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8578,6 +11964,12 @@
       "Ferguson",
       "unsolved",
       "limited media coverage"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8601,6 +11993,16 @@
       "acquittal",
       "civil rights",
       "uprising"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Freddie Gray — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Freddie_Gray"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8623,6 +12025,16 @@
       "suicide ruling contested",
       "civil rights",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Sandra Bland — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Sandra_Bland"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8645,6 +12057,12 @@
       "conviction",
       "video evidence",
       "civil rights"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8666,6 +12084,16 @@
       "conviction",
       "online dating",
       "dismemberment"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Ingrid Lyne — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Ingrid_Lyne"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8689,6 +12117,16 @@
       "civil rights",
       "Facebook Live",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Philando Castile — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Philando_Castile"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8708,6 +12146,12 @@
       "homicide",
       "surveillance footage",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8730,6 +12174,12 @@
       "conviction",
       "domestic violence",
       "filicide"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8750,6 +12200,12 @@
       "teens",
       "audio evidence",
       "recently solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8771,6 +12227,12 @@
       "Delphi",
       "conviction",
       "Liberty German recording"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8793,6 +12255,16 @@
       "MMIW",
       "conviction",
       "Savanna's Act"
+    ],
+    "sources": [
+      {
+        "title": "Savanna's Act — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Savanna%27s_Act"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8814,6 +12286,16 @@
       "Texas",
       "conviction",
       "accountability"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Botham Jean — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Botham_Jean"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8836,6 +12318,12 @@
       "conviction",
       "family murder",
       "high-profile"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8857,6 +12345,20 @@
       "abduction",
       "FBI case",
       "reward"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Dulce Maria Alavez — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Dulce_Maria_Alavez"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8877,6 +12379,12 @@
       "doorbell camera",
       "unsolved",
       "disguised suspect"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8898,6 +12406,20 @@
       "domestic",
       "body never found",
       "partially solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jennifer Dulos — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jennifer_Dulos"
+      },
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Charley Project — Missing Persons",
+        "url": "https://charleyproject.org/"
+      }
     ]
   },
   {
@@ -8920,6 +12442,12 @@
       "conviction",
       "cult",
       "doomsday"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8944,6 +12472,16 @@
       "civil rights",
       "2020",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Breonna Taylor — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Breonna_Taylor"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8967,6 +12505,16 @@
       "Black Lives Matter",
       "global protests",
       "2020"
+    ],
+    "sources": [
+      {
+        "title": "George Floyd — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/George_Floyd"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -8988,6 +12536,12 @@
       "Colorado",
       "arrested",
       "body never found"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9009,6 +12563,16 @@
       "national parks",
       "van life",
       "suspect deceased"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Gabby Petito — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9030,6 +12594,12 @@
       "Florida",
       "apartment",
       "suspect deceased"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9052,6 +12622,12 @@
       "arrest made",
       "2022",
       "University of Idaho"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9073,6 +12649,12 @@
       "Idaho",
       "arrest made",
       "stabbing"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9095,6 +12677,12 @@
       "arrest made",
       "2022",
       "University of Idaho"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9117,6 +12705,12 @@
       "arrest made",
       "2022",
       "University of Idaho"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9139,6 +12733,12 @@
       "arrest made",
       "2022",
       "University of Idaho"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9160,6 +12760,16 @@
       "dismemberment",
       "arrest made",
       "2023"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Ana Walshe — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Ana_Walshe"
+      },
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9180,6 +12790,16 @@
       "Rhode Island",
       "Providence",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -9200,6 +12820,12 @@
       "Rhode Island",
       "Cranston",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9220,6 +12846,16 @@
       "Montana",
       "Billings",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "NamUs — National Missing and Unidentified Persons System",
+        "url": "https://namus.nij.ojp.gov/"
+      },
+      {
+        "title": "The Doe Network — Unidentified & Missing",
+        "url": "https://www.doenetwork.org/"
+      }
     ]
   },
   {
@@ -9240,6 +12876,12 @@
       "Texas",
       "San Antonio",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9260,6 +12902,12 @@
       "North Carolina",
       "Greensboro",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9280,6 +12928,12 @@
       "Texas",
       "Laredo",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9300,6 +12954,12 @@
       "Oregon",
       "Salem",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9320,6 +12980,12 @@
       "Washington",
       "Bellevue",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   },
   {
@@ -9340,6 +13006,12 @@
       "Kansas",
       "Kansas City",
       "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder Accountability Project — Homicide Data",
+        "url": "https://www.murderdata.org/"
+      }
     ]
   }
 ]

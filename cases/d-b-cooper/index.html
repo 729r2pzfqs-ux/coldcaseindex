@@ -81,7 +81,27 @@
       "addressLocality": "Seattle area"
     }
   },
-  "datePublished": "1971-11-24"
+  "datePublished": "1971-11-24",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/D._B._Cooper"
+  ],
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "D. B. Cooper — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/D._B._Cooper"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "NamUs — National Missing and Unidentified Persons System",
+      "url": "https://namus.nij.ojp.gov/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "The Charley Project — Missing Persons",
+      "url": "https://charleyproject.org/"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
@@ -187,12 +207,50 @@
   font-weight: 500;
 }
 .case-summary {
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
+  font-size: var(--text-base);
+  color: var(--color-text);
   line-height: 1.8;
   margin-bottom: var(--space-6);
   max-width: 70ch;
+  font-weight: 500;
 }
+.case-narrative-section {
+  margin-bottom: var(--space-8);
+  max-width: 70ch;
+}
+.case-narrative {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  margin-bottom: var(--space-4);
+}
+.case-narrative:last-child { margin-bottom: 0; }
+.case-sources {
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}
+.case-sources-note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}
+.case-sources-note a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  padding-left: var(--space-5);
+  margin: 0;
+}
+.case-sources-list li { margin-bottom: var(--space-1); }
+.case-sources-list a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list a:hover { text-decoration: underline; }
 .case-back-btn {
   display: inline-flex;
   align-items: center;
@@ -681,6 +739,15 @@ body::after {
       <div class="fade-in">
         <p class="case-summary">A man calling himself Dan Cooper hijacked Northwest Orient Flight 305 in 1971, extorted $200,000 in ransom, and parachuted from the plane somewhere over the Pacific Northwest. He was never identified or found. A small bundle of decomposed bills was found along the Columbia River in 1980. It remains the only unsolved commercial airline hijacking in US history.</p>
       </div>
+      
+      <!-- Extended Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Details</div>
+        <p class="case-narrative">D.B. Cooper is documented in the ColdCaseIndex database as a missing-person case connected to Seattle area, Washington. The disappearance is dated to November 24, 1971. The victim is recorded as male. The last known information on record places the case at November 24, 1971, somewhere over the Pacific Northwest.</p>
+        <p class="case-narrative">Within the ColdCaseIndex taxonomy, D.B. Cooper is filed under Missing Person with a status of Unsolved. A missing-person entry documents someone who disappeared under circumstances that remain unresolved. The record is cross-referenced under the themes hijacking, parachute, unsolved, FBI case, historical, Washington, which connect it to related cases across the database.</p>
+        <p class="case-narrative">As of the most recent information compiled here, no arrest has been publicly recorded in the D.B. Cooper case, and it remains open and unsolved. Cases like this can be reactivated at any time — advances in DNA analysis, forensic genetic genealogy, and renewed public attention have resolved cases that lay dormant for decades.</p>
+        <p class="case-narrative">Primary jurisdiction for the D.B. Cooper case rests with local law enforcement in Seattle area, supported by Washington state investigative authorities. The case sits within a wider national picture: the U.S. homicide clearance rate has fallen from roughly 90% in the 1960s to about 54% today, and more than 346,000 homicides recorded since 1965 remain unsolved. ColdCaseIndex documents individual cases like this one to keep them publicly visible and searchable.</p>
+      </div>
 
       <!-- Last Seen -->
       
@@ -726,6 +793,16 @@ body::after {
             </div>
           </div>
         </div>
+      </div>
+
+      
+      <!-- Sources & Further Reading -->
+      <div class="case-sources fade-in">
+        <div class="section-label">Sources &amp; Further Reading</div>
+        <p class="case-sources-note">Curated starting points for verifying and researching this case. Direct references are checked; search links are provided as further-reading aids. ColdCaseIndex is an index of public information — see a case correction? Email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+        <ul class="case-sources-list">
+          <li><a href="https://en.wikipedia.org/wiki/D._B._Cooper" target="_blank" rel="noopener noreferrer nofollow">D. B. Cooper — Wikipedia</a></li><li><a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer nofollow">NamUs — National Missing and Unidentified Persons System</a></li><li><a href="https://charleyproject.org/" target="_blank" rel="noopener noreferrer nofollow">The Charley Project — Missing Persons</a></li><li><a href="https://en.wikipedia.org/w/index.php?search=D.B.%20Cooper%20Seattle%20area%20Washington" target="_blank" rel="noopener noreferrer nofollow">Search Wikipedia for this case</a></li><li><a href="https://news.google.com/search?q=D.B.%20Cooper%20Seattle%20area%20Washington" target="_blank" rel="noopener noreferrer nofollow">Search news coverage</a></li>
+        </ul>
       </div>
 
       

@@ -5,7 +5,7 @@ ColdCaseIndex is a searchable database of 450 documented cold cases and historic
 crimes in the United States — unsolved homicides, missing persons, unidentified
 victims, serial-killer cases, and landmark solved crimes of historical
 significance. Coverage spans all 50 states and the District of Columbia, from
-the 1890s to the present.
+the 1890s to the 2020s.
 
 Each case entry includes: victim/case name, case type, investigation status
 (Unsolved, Arrest Made, Conviction, Partially Solved, No Conviction), date,

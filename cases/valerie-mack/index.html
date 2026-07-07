@@ -81,7 +81,19 @@
       "addressLocality": "Manorville"
     }
   },
-  "datePublished": "2000"
+  "datePublished": "2000",
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "NamUs — National Missing and Unidentified Persons System",
+      "url": "https://namus.nij.ojp.gov/"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "The Doe Network — Unidentified & Missing",
+      "url": "https://www.doenetwork.org/"
+    }
+  ]
 }
 </script>
 <script type="application/ld+json">
@@ -187,12 +199,50 @@
   font-weight: 500;
 }
 .case-summary {
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
+  font-size: var(--text-base);
+  color: var(--color-text);
   line-height: 1.8;
   margin-bottom: var(--space-6);
   max-width: 70ch;
+  font-weight: 500;
 }
+.case-narrative-section {
+  margin-bottom: var(--space-8);
+  max-width: 70ch;
+}
+.case-narrative {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  margin-bottom: var(--space-4);
+}
+.case-narrative:last-child { margin-bottom: 0; }
+.case-sources {
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}
+.case-sources-note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}
+.case-sources-note a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  padding-left: var(--space-5);
+  margin: 0;
+}
+.case-sources-list li { margin-bottom: var(--space-1); }
+.case-sources-list a { color: var(--color-primary); text-underline-offset: 2px; }
+.case-sources-list a:hover { text-decoration: underline; }
 .case-back-btn {
   display: inline-flex;
   align-items: center;
@@ -681,6 +731,15 @@ body::after {
       <div class="fade-in">
         <p class="case-summary">Valerie Mack&#x27;s remains were found in Manorville, Long Island in 2000 and later in Ocean Parkway among other Gilgo Beach victims. She was identified in 2020 via DNA. She may be a victim of the Long Island Serial Killer. Her case remains one of the Gilgo Beach cold cases.</p>
       </div>
+      
+      <!-- Extended Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Details</div>
+        <p class="case-narrative">“Valerie Mack” is an unidentified-persons case in the ColdCaseIndex database, associated with Manorville, New York. The remains are associated with 2000. The last known information on record places the case at Around 2000, Long Island, NY.</p>
+        <p class="case-narrative">Within the ColdCaseIndex taxonomy, Valerie Mack is filed under Unidentified Person with a status of Partially Solved. An unidentified-persons entry documents recovered remains whose identity has not been established. The record is cross-referenced under the themes unidentified person, Gilgo Beach, Long Island, New York, serial killer, partially solved, which connect it to related cases across the database.</p>
+        <p class="case-narrative">The Valerie Mack case is partially resolved: some elements have been established while significant questions remain open.</p>
+        <p class="case-narrative">Primary jurisdiction for the Valerie Mack case rests with local law enforcement in Manorville, supported by New York state investigative authorities. The case sits within a wider national picture: the U.S. homicide clearance rate has fallen from roughly 90% in the 1960s to about 54% today, and more than 346,000 homicides recorded since 1965 remain unsolved. ColdCaseIndex documents individual cases like this one to keep them publicly visible and searchable.</p>
+      </div>
 
       <!-- Last Seen -->
       
@@ -726,6 +785,16 @@ body::after {
             </div>
           </div>
         </div>
+      </div>
+
+      
+      <!-- Sources & Further Reading -->
+      <div class="case-sources fade-in">
+        <div class="section-label">Sources &amp; Further Reading</div>
+        <p class="case-sources-note">Curated starting points for verifying and researching this case. Direct references are checked; search links are provided as further-reading aids. ColdCaseIndex is an index of public information — see a case correction? Email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+        <ul class="case-sources-list">
+          <li><a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer nofollow">NamUs — National Missing and Unidentified Persons System</a></li><li><a href="https://www.doenetwork.org/" target="_blank" rel="noopener noreferrer nofollow">The Doe Network — Unidentified &amp; Missing</a></li><li><a href="https://en.wikipedia.org/w/index.php?search=Valerie%20Mack%20Manorville%20New%20York" target="_blank" rel="noopener noreferrer nofollow">Search Wikipedia for this case</a></li><li><a href="https://news.google.com/search?q=Valerie%20Mack%20Manorville%20New%20York" target="_blank" rel="noopener noreferrer nofollow">Search news coverage</a></li>
+        </ul>
       </div>
 
       

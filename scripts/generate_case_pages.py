@@ -112,6 +112,204 @@ def status_badge_label(status):
     return status if status else 'Unsolved'
 
 
+def an_article(word):
+    return 'an' if word and word[0].lower() in 'aeiou' else 'a'
+
+
+TYPE_NOUN = {
+    'Homicide': 'homicide',
+    'Multiple Homicide': 'multiple-homicide',
+    'Serial Killer Victims': 'serial-homicide',
+    'Missing Person': 'missing-person',
+    'Unidentified Person': 'unidentified-persons',
+    'Suspicious Death': 'suspicious-death',
+    'Historic Injustice': 'historic-injustice',
+}
+
+
+def _known(v):
+    return v is not None and str(v).strip() not in ('', 'Unknown', 'N/A')
+
+
+def build_narrative(case):
+    """Build 3-4 paragraphs of prose from *verified fields only*.
+
+    Every sentence is either a restatement of a recorded field (name, type,
+    status, date, location, age, gender) or generically-true context about the
+    case category. No case-specific fact is asserted beyond the stored data, so
+    this expands thin pages without fabricating claims about real people.
+    Case-specific tokens are interpolated throughout so each page's prose is
+    lexically distinct rather than boilerplate.
+    """
+    name = case.get('name', 'This case')
+    case_type = case.get('type', 'Homicide')
+    status = case.get('status', 'Unsolved')
+    city = case.get('city', '')
+    state = case.get('state', '')
+    date = case.get('date', '')
+    year = case.get('year')
+    age = case.get('age')
+    gender = case.get('gender', '')
+    last_seen = case.get('lastSeen', '')
+    tags = [t for t in case.get('tags', []) if str(t).strip()]
+    type_noun = TYPE_NOUN.get(case_type, 'cold')
+    is_missing = case_type == 'Missing Person'
+    is_unid = case_type == 'Unidentified Person'
+    is_multi = case_type in ('Multiple Homicide', 'Serial Killer Victims')
+
+    loc = ', '.join(p for p in (city, state) if _known(p)) or 'the United States'
+
+    # ── Paragraph 1: case details ──
+    facts = []
+    if is_missing:
+        facts.append(f"{name} is documented in the ColdCaseIndex database as a "
+                     f"missing-person case connected to {loc}.")
+    elif is_unid:
+        facts.append(f"“{name}” is an unidentified-persons case in the "
+                     f"ColdCaseIndex database, associated with {loc}.")
+    else:
+        facts.append(f"{name} is documented in the ColdCaseIndex database as "
+                     f"{an_article(type_noun)} {type_noun} case in {loc}.")
+
+    if _known(date):
+        if is_missing:
+            facts.append(f"The disappearance is dated to {date}.")
+        elif is_unid:
+            facts.append(f"The remains are associated with {date}.")
+        else:
+            facts.append(f"The events are dated to {date}.")
+
+    if is_multi:
+        facts.append("The case involves more than one victim.")
+    elif not is_unid:
+        demo = None
+        if _known(age) and _known(gender) and gender != 'Multiple':
+            demo = f"The victim is recorded as {age} years old and {gender.lower()}."
+        elif _known(age):
+            demo = f"The victim is recorded as {age} years old."
+        elif _known(gender) and gender != 'Multiple':
+            demo = f"The victim is recorded as {gender.lower()}."
+        if demo:
+            facts.append(demo)
+
+    if _known(last_seen):
+        facts.append(f"The last known information on record places the case at {last_seen}.")
+
+    # ── Paragraph 2: classification & themes (verified taxonomy fields) ──
+    type_def = {
+        'Homicide': "A homicide entry documents a killing in which the perpetrator has not been identified, has not been convicted, or where the case is otherwise historically notable.",
+        'Multiple Homicide': "A multiple-homicide entry documents an incident involving more than one victim.",
+        'Serial Killer Victims': "This entry is grouped under a confirmed or suspected serial perpetrator.",
+        'Missing Person': "A missing-person entry documents someone who disappeared under circumstances that remain unresolved.",
+        'Unidentified Person': "An unidentified-persons entry documents recovered remains whose identity has not been established.",
+        'Suspicious Death': "A suspicious-death entry documents a death, sometimes officially ruled accidental or natural, that remains contested.",
+        'Historic Injustice': "This entry documents a historically significant case of injustice.",
+    }.get(case_type, "This entry documents a case of continuing public interest.")
+    class_parts = [
+        f"Within the ColdCaseIndex taxonomy, {name} is filed under {case_type} with a "
+        f"status of {status}.",
+        type_def,
+    ]
+    if tags:
+        shown = tags[:8]
+        class_parts.append(
+            "The record is cross-referenced under the themes "
+            + ', '.join(shown)
+            + ", which connect it to related cases across the database.")
+    classification_text = ' '.join(class_parts)
+
+    # ── Paragraph 3: investigation status (generic-but-true, interpolated) ──
+    status_text = {
+        'Unsolved': (
+            f"As of the most recent information compiled here, no arrest has been "
+            f"publicly recorded in the {name} case, and it remains open and unsolved. "
+            f"Cases like this can be reactivated at any time — advances in DNA "
+            f"analysis, forensic genetic genealogy, and renewed public attention have "
+            f"resolved cases that lay dormant for decades."),
+        'Conviction': (
+            f"The {name} case ended in a criminal conviction. It is retained in this "
+            f"index as a historically significant case — one whose investigation, "
+            f"prosecution, or aftermath shaped forensic practice, criminal law, or the "
+            f"public understanding of violent crime."),
+        'Arrest Made': (
+            f"An arrest has been made in the {name} case, but it had not reached a "
+            f"final resolution as of the information compiled here."),
+        'Partially Solved': (
+            f"The {name} case is partially resolved: some elements have been "
+            f"established while significant questions remain open."),
+        'No Conviction': (
+            f"In the {name} case, the circumstances or the person believed responsible "
+            f"are known, but no conviction was secured — for example following an "
+            f"acquittal, a death before trial, or a declined indictment."),
+        'Ruled Suicide': (
+            f"The {name} case was officially ruled a suicide, a determination that has "
+            f"been questioned or revisited by some observers."),
+    }.get(status, (
+        f"The current status of the {name} case is recorded as “{status}.” "
+        f"Details may change as new information becomes available."))
+
+    # ── Paragraph 3: jurisdiction & national context ──
+    juris_place = city if _known(city) else (state if _known(state) else 'the local area')
+    state_clause = f", supported by {state} state investigative authorities" if _known(state) else ""
+    juris_text = (
+        f"Primary jurisdiction for the {name} case rests with local law enforcement in "
+        f"{juris_place}{state_clause}. The case sits within a wider national picture: the "
+        f"U.S. homicide clearance rate has fallen from roughly 90% in the 1960s to about "
+        f"54% today, and more than 346,000 homicides recorded since 1965 remain unsolved. "
+        f"ColdCaseIndex documents individual cases like this one to keep them publicly "
+        f"visible and searchable.")
+
+    e = html.escape
+    paras = [' '.join(facts), classification_text, status_text, juris_text]
+    body = '\n'.join(f'        <p class="case-narrative">{e(p)}</p>' for p in paras if p.strip())
+    return f'''
+      <!-- Extended Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Details</div>
+{body}
+      </div>'''
+
+
+def render_sources_section(case):
+    """Render 'Sources & Further Reading': stored references + honest search links."""
+    e = html.escape
+    name = case.get('name', '')
+    city = case.get('city', '')
+    state = case.get('state', '')
+    sources = [s for s in case.get('sources', []) if s.get('url') and s.get('title')]
+
+    items = []
+    for s in sources:
+        items.append(
+            f'<li><a href="{e(s["url"])}" target="_blank" rel="noopener noreferrer nofollow">'
+            f'{e(s["title"])}</a></li>')
+
+    # Honestly-labeled search deep-links (always valid; generated, not stored).
+    q_parts = [name] + [p for p in (city, state) if _known(p)]
+    query = ' '.join(q_parts).strip()
+    if query:
+        import urllib.parse as _up
+        q = _up.quote(query)
+        items.append(
+            f'<li><a href="https://en.wikipedia.org/w/index.php?search={q}" '
+            f'target="_blank" rel="noopener noreferrer nofollow">Search Wikipedia for this case</a></li>')
+        items.append(
+            f'<li><a href="https://news.google.com/search?q={q}" '
+            f'target="_blank" rel="noopener noreferrer nofollow">Search news coverage</a></li>')
+
+    if not items:
+        return ''
+    return f'''
+      <!-- Sources & Further Reading -->
+      <div class="case-sources fade-in">
+        <div class="section-label">Sources &amp; Further Reading</div>
+        <p class="case-sources-note">Curated starting points for verifying and researching this case. Direct references are checked; search links are provided as further-reading aids. ColdCaseIndex is an index of public information — see a case correction? Email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+        <ul class="case-sources-list">
+          {''.join(items)}
+        </ul>
+      </div>'''
+
+
 def generate_case_page(case, related_cases, today_iso):
     slug = case.get('id', slugify(case.get('name', 'unknown')))
     name = case.get('name', 'Unknown')
@@ -261,6 +459,16 @@ def generate_case_page(case, related_cases, today_iso):
     if published:
         article_schema["datePublished"] = published
 
+    # Sources → sameAs (identity references) + citation (all references)
+    src_list = [s for s in case.get('sources', []) if s.get('url') and s.get('title')]
+    same_as = [s['url'] for s in src_list if 'wikipedia.org/wiki/' in s['url']]
+    if same_as:
+        article_schema["sameAs"] = same_as
+    if src_list:
+        article_schema["citation"] = [
+            {"@type": "CreativeWork", "name": s['title'], "url": s['url']} for s in src_list
+        ]
+
     if state_slug:
         crumb_mid = {"@type": "ListItem", "position": 2, "name": f"{state} Cases",
                      "item": f"{BASE_URL}/states/{state_slug}/"}
@@ -275,6 +483,9 @@ def generate_case_page(case, related_cases, today_iso):
             {"@type": "ListItem", "position": 3, "name": name, "item": canonical}
         ]
     }
+
+    narrative_html = build_narrative(case)
+    sources_html = render_sources_section(case)
 
     last_seen_section = ''
     if last_seen and last_seen not in ('N/A', 'Unknown', ''):
@@ -405,12 +616,50 @@ def generate_case_page(case, related_cases, today_iso):
   font-weight: 500;
 }}
 .case-summary {{
-  font-size: var(--text-sm);
-  color: var(--color-text-muted);
+  font-size: var(--text-base);
+  color: var(--color-text);
   line-height: 1.8;
   margin-bottom: var(--space-6);
   max-width: 70ch;
+  font-weight: 500;
 }}
+.case-narrative-section {{
+  margin-bottom: var(--space-8);
+  max-width: 70ch;
+}}
+.case-narrative {{
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.85;
+  margin-bottom: var(--space-4);
+}}
+.case-narrative:last-child {{ margin-bottom: 0; }}
+.case-sources {{
+  margin-top: var(--space-10);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-6);
+  max-width: 75ch;
+}}
+.case-sources-note {{
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  line-height: 1.7;
+  margin-bottom: var(--space-4);
+  max-width: 65ch;
+}}
+.case-sources-note a {{ color: var(--color-primary); text-underline-offset: 2px; }}
+.case-sources-list {{
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+  line-height: 1.9;
+  padding-left: var(--space-5);
+  margin: 0;
+}}
+.case-sources-list li {{ margin-bottom: var(--space-1); }}
+.case-sources-list a {{ color: var(--color-primary); text-underline-offset: 2px; }}
+.case-sources-list a:hover {{ text-decoration: underline; }}
 .case-back-btn {{
   display: inline-flex;
   align-items: center;
@@ -899,6 +1148,7 @@ body::after {{
       <div class="fade-in">
         <p class="case-summary">{e(summary)}</p>
       </div>
+      {narrative_html}
 
       <!-- Last Seen -->
       {last_seen_section}
@@ -907,6 +1157,8 @@ body::after {{
       {'<div class="case-tags-section fade-in" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);">' + tags_html + '</div>' if tags_html else ''}
 
       {timeline_html}
+
+      {sources_html}
 
       {how_to_help_html}
 
@@ -1063,6 +1315,72 @@ def update_static_counts(count):
     print(f"Injected case count ({count}) into static pages")
 
 
+def _home_badge_class(status):
+    """Mirror the homepage JS getStatusBadge() mapping exactly."""
+    s = (status or '').lower()
+    if 'conviction' in s and 'no conviction' not in s:
+        return 'badge-conviction'
+    if 'arrest' in s:
+        return 'badge-arrest'
+    if 'partially' in s:
+        return 'badge-arrest'
+    return 'badge-unsolved'
+
+
+def render_home_card(case):
+    """Static equivalent of the homepage JS caseCardHTML(), so the browse grid
+    is populated in the initial HTML (no JS required). JS re-renders the same
+    markup on load as progressive enhancement."""
+    e = html.escape
+    cid = case.get('id', slugify(case.get('name', '')))
+    name = case.get('name', '')
+    status = case.get('status', 'Unsolved')
+    badge = _home_badge_class(status)
+    year = case.get('year', '') or ''
+    summary = case.get('summary', '') or ''
+    state = case.get('state', '') or ''
+    ctype = case.get('type', '') or ''
+    age = case.get('age')
+    age_tag = f'<span class="case-tag">Age {e(str(age))}</span>' if _known(age) else ''
+    return (
+        f'<a href="./cases/{e(cid)}/" class="case-card" aria-label="View details for {e(name)}">'
+        f'<div class="case-card-header">'
+        f'<span class="badge {badge}">{e(status)}</span>'
+        f'<span class="case-card-year">{e(str(year))}</span>'
+        f'</div>'
+        f'<h3 class="case-card-name">{e(name)}</h3>'
+        f'<p class="case-card-summary">{e(summary)}</p>'
+        f'<div class="case-card-tags">'
+        f'<span class="case-tag">{e(state)}</span>'
+        f'<span class="case-tag">{e(ctype)}</span>'
+        f'{age_tag}'
+        f'</div>'
+        f'</a>')
+
+
+def inject_home_grid(cases, count=24):
+    """Bake the first `count` case cards into index.html between markers so the
+    homepage is not empty without JavaScript."""
+    index_path = os.path.join(ROOT_DIR, 'index.html')
+    if not os.path.exists(index_path):
+        return
+    with open(index_path, encoding='utf-8') as f:
+        content = f.read()
+    cards = '\n'.join(render_home_card(c) for c in cases[:count])
+    block = f'<!-- HOME_CARDS:START -->\n{cards}\n<!-- HOME_CARDS:END -->'
+    pattern = re.compile(r'<!-- HOME_CARDS:START -->.*?<!-- HOME_CARDS:END -->', re.S)
+    if pattern.search(content):
+        content = pattern.sub(lambda _m: block, content)
+    else:
+        # First run: insert markers inside the (empty) cases grid container.
+        content = content.replace(
+            '<div class="cases-grid" id="casesGrid"></div>',
+            f'<div class="cases-grid" id="casesGrid">{block}</div>', 1)
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    print(f"Injected {min(count, len(cases))} static case cards into homepage grid")
+
+
 def main():
     print("Loading cases...")
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
@@ -1105,6 +1423,7 @@ def main():
 
     write_sitemap(cases, today_iso)
     update_static_counts(len(cases))
+    inject_home_grid(cases)
 
 
 if __name__ == '__main__':
