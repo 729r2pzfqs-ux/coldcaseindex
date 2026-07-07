@@ -302,6 +302,7 @@ def generate_state_page(state, cases, all_state_slugs):
         "name": f"Cold Cases in {state}",
         "description": description,
         "url": url,
+        "inLanguage": "en-US",
         "isPartOf": {"@type": "WebSite", "name": "ColdCaseIndex", "url": f"{BASE_URL}/"},
         "about": {"@type": "Thing", "name": f"Unsolved crimes in {state}"}
     }
@@ -320,6 +321,8 @@ def generate_state_page(state, cases, all_state_slugs):
 <title>Cold Cases in {state} — {n} Documented Cases | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">
+<link rel="alternate" hreflang="en" href="{url}">
+<link rel="alternate" hreflang="x-default" href="{url}">
 <meta property="og:title" content="Cold Cases in {state} — ColdCaseIndex">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="website">
@@ -494,6 +497,16 @@ def generate_states_index(by_state):
             {"@type": "ListItem", "position": 2, "name": "Cases by State", "item": url}
         ]
     }
+    collection_ld = {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Cold Cases by State",
+        "description": description,
+        "url": url,
+        "inLanguage": "en-US",
+        "isPartOf": {"@type": "WebSite", "name": "ColdCaseIndex", "url": f"{BASE_URL}/"},
+        "about": {"@type": "Thing", "name": "Cold cases and unsolved crimes by US state"}
+    }
 
     search_js = '''
 // Client-side filter over the static state grid
@@ -521,6 +534,8 @@ document.getElementById('stateSearch').addEventListener('input', function() {
 <title>Cold Cases by State — All 50 States and DC | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">
+<link rel="alternate" hreflang="en" href="{url}">
+<link rel="alternate" hreflang="x-default" href="{url}">
 <meta property="og:title" content="Cold Cases by State — ColdCaseIndex">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="website">
@@ -538,6 +553,9 @@ document.getElementById('stateSearch').addEventListener('input', function() {
 
 <script type="application/ld+json">
 {json.dumps(breadcrumb_ld, indent=1)}
+</script>
+<script type="application/ld+json">
+{json.dumps(collection_ld, indent=1)}
 </script>
 
 <style>

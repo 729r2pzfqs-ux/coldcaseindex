@@ -46,6 +46,43 @@ def truncate_words(text, limit=155):
     return cut + '…'
 
 
+def sentence_truncate(text, limit):
+    """Truncate at the last full sentence within `limit` chars; fall back to word boundary."""
+    text = ' '.join(text.split())
+    if len(text) <= limit:
+        return text
+    cut = text[:limit + 1]
+    end = max(cut.rfind('. '), cut.rfind('! '), cut.rfind('? '))
+    if end >= limit // 2:
+        return cut[:end + 1]
+    return truncate_words(text, limit)
+
+
+def build_meta_desc(case, max_len=160):
+    """Keyword-rich meta description: summary lead + type/location/year/status tail."""
+    name = case.get('name', 'Unknown')
+    summary = case.get('summary', '') or f'{name} — cold case details, timeline, and investigation status.'
+    case_type = case.get('type', 'Homicide')
+    status = case.get('status', 'Unsolved')
+    city = case.get('city', '')
+    state = case.get('state', '')
+    year = case.get('year')
+
+    loc = ', '.join(p for p in (city, state) if p and p != 'Unknown')
+    tail = f' {case_type} cold case'
+    if loc:
+        tail += f' in {loc}'
+    if year:
+        tail += f' ({year})'
+    tail += f'. Status: {status}.'
+
+    body = sentence_truncate(summary, max_len - len(tail))
+    # If the summary is too dense to fit a useful lead, fall back to summary alone.
+    if len(body) < 40:
+        return sentence_truncate(summary, max_len)
+    return body + tail
+
+
 def iso_date(case):
     """Best-effort ISO 8601 date for a case ('April 24, 1891' -> '1891-04-24')."""
     date = case.get('date', '')
@@ -96,8 +133,7 @@ def generate_case_page(case, related_cases, today_iso):
 
     canonical = f'{BASE_URL}/cases/{slug}/'
     page_title = f'{name} — {SITE_NAME}'
-    meta_desc = truncate_words(summary) if summary else truncate_words(
-        f'{name} — cold case details, timeline, and investigation status.')
+    meta_desc = build_meta_desc(case)
 
     e = html.escape  # attribute/text escaping
 
@@ -200,6 +236,9 @@ def generate_case_page(case, related_cases, today_iso):
         "url": canonical,
         "mainEntityOfPage": {"@type": "WebPage", "@id": canonical},
         "image": OG_IMAGE,
+        "inLanguage": "en-US",
+        "articleSection": case_type,
+        "isPartOf": {"@type": "WebSite", "name": SITE_NAME, "url": BASE_URL},
         "dateModified": today_iso,
         "author": {"@type": "Organization", "name": SITE_NAME, "url": BASE_URL},
         "publisher": {
@@ -209,6 +248,15 @@ def generate_case_page(case, related_cases, today_iso):
             "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/logos/logo-icon-512x512.png"}
         }
     }
+    if tags:
+        article_schema["keywords"] = ", ".join(tags)
+    if state and state != 'Unknown':
+        address = {"@type": "PostalAddress", "addressRegion": state, "addressCountry": "US"}
+        place_name = state
+        if city and city != 'Unknown':
+            address["addressLocality"] = city
+            place_name = f"{city}, {state}"
+        article_schema["contentLocation"] = {"@type": "Place", "name": place_name, "address": address}
     published = iso_date(case)
     if published:
         article_schema["datePublished"] = published
@@ -247,6 +295,8 @@ def generate_case_page(case, related_cases, today_iso):
 <title>{e(page_title)}</title>
 <meta name="description" content="{e(meta_desc)}">
 <link rel="canonical" href="{canonical}">
+<link rel="alternate" hreflang="en" href="{canonical}">
+<link rel="alternate" hreflang="x-default" href="{canonical}">
 
 <meta property="og:site_name" content="{SITE_NAME}">
 <meta property="og:type" content="article">
