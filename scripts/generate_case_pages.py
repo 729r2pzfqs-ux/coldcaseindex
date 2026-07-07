@@ -140,7 +140,21 @@ def build_narrative(case):
     this expands thin pages without fabricating claims about real people.
     Case-specific tokens are interpolated throughout so each page's prose is
     lexically distinct rather than boilerplate.
+
+    If the case has a researched `narrative` (enriched cases), that verified,
+    individually-sourced prose is rendered instead of the generic build.
     """
+    if case.get('enriched') and case.get('narrative'):
+        e = html.escape
+        body = '\n'.join(f'        <p class="case-narrative">{e(p)}</p>'
+                         for p in case['narrative'] if p.strip())
+        return f'''
+      <!-- Researched Narrative -->
+      <div class="case-narrative-section fade-in">
+        <div class="section-label">Case Background &amp; Investigation</div>
+{body}
+      </div>'''
+
     name = case.get('name', 'This case')
     case_type = case.get('type', 'Homicide')
     status = case.get('status', 'Unsolved')
@@ -370,17 +384,25 @@ def generate_case_page(case, related_cases, today_iso):
       </div>
     </section>'''
 
-    # Timeline (only entries the data actually supports)
+    # Timeline. Enriched cases carry a researched, dated event list; others fall
+    # back to the few entries the structured data supports.
     timeline_events = []
-    if last_seen and last_seen not in ('N/A', 'Unknown', ''):
-        timeline_events.append(('Last Known Information', last_seen))
-    if date and str(date) not in ('Unknown', ''):
-        incident_label = {
-            'Missing Person': 'Reported Missing',
-            'Unidentified Person': 'Remains Discovered',
-        }.get(case_type, 'Date of Incident')
-        timeline_events.append((incident_label, str(date)))
-    timeline_events.append(('Current Status', f'{status}' + ('' if status != 'Unsolved' else ' — the case remains open')))
+    if case.get('enriched') and case.get('timeline'):
+        for ev in case['timeline']:
+            d_lbl = str(ev.get('date', '')).strip()
+            e_val = str(ev.get('event', '')).strip()
+            if e_val:
+                timeline_events.append((d_lbl or '—', e_val))
+    else:
+        if last_seen and last_seen not in ('N/A', 'Unknown', ''):
+            timeline_events.append(('Last Known Information', last_seen))
+        if date and str(date) not in ('Unknown', ''):
+            incident_label = {
+                'Missing Person': 'Reported Missing',
+                'Unidentified Person': 'Remains Discovered',
+            }.get(case_type, 'Date of Incident')
+            timeline_events.append((incident_label, str(date)))
+        timeline_events.append(('Current Status', f'{status}' + ('' if status != 'Unsolved' else ' — the case remains open')))
 
     timeline_html = ''
     if len(timeline_events) >= 2:
