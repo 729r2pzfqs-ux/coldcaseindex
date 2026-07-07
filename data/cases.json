@@ -11991,14 +11991,80 @@
     ],
     "sources": [
       {
-        "title": "Murder of Danielle van Dam — Wikipedia",
+        "title": "Murder of Danielle van Dam - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Danielle_van_Dam"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Danielle van Dam case: California Supreme Court upholds David Westerfield death sentence - 10News",
+        "url": "https://www.10news.com/news/local-news/danielle-van-dam-case-california-supreme-court-upholds-david-westerfield-death-sentence"
+      },
+      {
+        "title": "Danielle van Dam: Death Sentence upheld for Westerfield - CBS 8",
+        "url": "https://www.cbs8.com/article/news/danielle-van-dam-death-sentence-upheld-for-westerfield/509-d21e3792-9547-41f5-a771-a2fe2f6ec2fe"
+      },
+      {
+        "title": "Calif. Supreme Court Upholds Death Penalty Conviction for Van Dam Murderer - NBC 7 San Diego",
+        "url": "https://www.nbcsandiego.com/news/local/david-westerfield-death-penalty-conviction-upheld-for-danielle-van-dam-murder/5978/"
+      },
+      {
+        "title": "PEOPLE v. WESTERFIELD (2019) - FindLaw",
+        "url": "https://caselaw.findlaw.com/court/ca-supreme-court/1978914.html"
+      },
+      {
+        "title": "Evidence Laid Out in Van Dam Murder - Police1",
+        "url": "https://www.police1.com/investigations/articles/evidence-laid-out-in-van-dam-murder-qF27JMcVmsfrXmwO/"
       }
-    ]
+    ],
+    "narrative": [
+      "Danielle van Dam was a 7-year-old girl who disappeared from her family's home in the Sabre Springs neighborhood of San Diego, California, during the overnight hours of February 1-2, 2002. Her parents had last seen her when she was put to bed on the evening of February 1. When the family discovered her missing the next morning, they reported her disappearance to police at about 9:39 a.m. on February 2. A sliding glass door and other openings in the home were later noted by investigators as possible points of entry, and the case quickly drew intense local and national attention.",
+      "In the days that followed, hundreds of volunteers joined organized searches across San Diego County, and law enforcement conducted an extensive investigation into the child's whereabouts. Suspicion focused on David Alan Westerfield, a self-employed design engineer who lived two doors from the van Dam family. Westerfield had been away in his motor home over the weekend of the disappearance, and investigators placed him under surveillance beginning February 4. Forensic examination of items connected to him produced physical evidence linking him to the girl, and he was arrested on February 22, 2002. Danielle's remains were found by searchers on February 27, 2002, in a remote area along Dehesa Road near Harbison Canyon, east of the city.",
+      "The trial of David Westerfield began June 4, 2002, in San Diego County Superior Court, with prosecutor Jeff Dusek leading the case. Prosecutors presented forensic evidence that included bloodstains matching Danielle's DNA profile found on Westerfield's jacket and inside his motor home, as well as her fingerprints in the motor home, hairs consistent with hers and with the family dog, and fiber evidence. A DNA analyst testified that the probability of the blood matching someone other than Danielle exceeded one in a billion. The prosecution also introduced evidence of child pornography found in Westerfield's possession. The defense challenged the timeline and forensic entomology estimates of when the body was left, arguing the insect evidence pointed to a period when Westerfield was already under police surveillance.",
+      "On August 21, 2002, after a trial lasting roughly two months, a jury found Westerfield guilty of first-degree murder and kidnapping, and of possession of child pornography, and found true a special-circumstance allegation that the murder occurred during a kidnapping. On September 16, 2002, the same jury recommended the death penalty. In January 2003, Superior Court Judge William Mudd formally sentenced Westerfield to death.",
+      "Westerfield's conviction and death sentence were subject to automatic appeal in California. On February 25, 2019, the California Supreme Court unanimously affirmed both his conviction and his death sentence in People v. Westerfield. Westerfield has remained on death row. California has maintained a moratorium on executions since Governor Gavin Newsom ordered one in 2019, meaning no execution date has been set. As of the most recent reporting, Westerfield remains incarcerated in the California state prison system as a condemned inmate."
+    ],
+    "timeline": [
+      {
+        "date": "2002-02-01",
+        "event": "Danielle van Dam, age 7, is put to bed at her family's home in the Sabre Springs neighborhood of San Diego."
+      },
+      {
+        "date": "2002-02-02",
+        "event": "Danielle is discovered missing; her family reports her disappearance to police at about 9:39 a.m."
+      },
+      {
+        "date": "2002-02-04",
+        "event": "Police place neighbor David Westerfield under surveillance as a person of interest."
+      },
+      {
+        "date": "2002-02-22",
+        "event": "David Westerfield is arrested after forensic evidence, including blood matching Danielle, is linked to him."
+      },
+      {
+        "date": "2002-02-27",
+        "event": "Searchers find Danielle's remains in a remote area along Dehesa Road near Harbison Canyon, east of San Diego."
+      },
+      {
+        "date": "2002-06-04",
+        "event": "Westerfield's trial begins in San Diego County Superior Court."
+      },
+      {
+        "date": "2002-08-21",
+        "event": "A jury convicts Westerfield of first-degree murder, kidnapping, and possession of child pornography, with a kidnapping special circumstance."
+      },
+      {
+        "date": "2002-09-16",
+        "event": "The jury recommends a sentence of death."
+      },
+      {
+        "date": "2003-01-03",
+        "event": "Judge William Mudd sentences Westerfield to death."
+      },
+      {
+        "date": "2019-02-25",
+        "event": "The California Supreme Court unanimously affirms Westerfield's conviction and death sentence in People v. Westerfield."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "elizabeth-smart",
@@ -12099,14 +12165,76 @@
     ],
     "sources": [
       {
-        "title": "Murder of Samantha Runnion — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Murder_of_Samantha_Runnion"
+        "title": "People v. Avila (S135855) - California Supreme Court Resources, Stanford",
+        "url": "https://scocal.stanford.edu/opinion/people-v-avila-34330"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Death Penalty For Runnion's Killer - CBS News",
+        "url": "https://www.cbsnews.com/news/death-penalty-for-runnions-killer/"
+      },
+      {
+        "title": "Man Guilty In O.C. Girl Murder - CBS News",
+        "url": "https://www.cbsnews.com/news/man-guilty-in-oc-girl-murder/"
+      },
+      {
+        "title": "Factory worker convicted in 5-year-old's death - NBC News",
+        "url": "https://www.nbcnews.com/id/wbna7657168"
+      },
+      {
+        "title": "Calif. jury recommends death for child killer - NBC News",
+        "url": "https://www.nbcnews.com/id/wbna7876148"
+      },
+      {
+        "title": "Murder of Samantha Runnion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Samantha_Runnion"
       }
-    ]
+    ],
+    "narrative": [
+      "On the early evening of July 15, 2002, five-year-old Samantha Runnion was playing with a friend near a condominium complex in Stanton, California, when a man driving a green car approached the two girls at about 6:30 p.m. He asked whether they had seen a lost puppy, and when Samantha responded, he seized her, threw her screaming and struggling into his car, and drove away. Her friend, who was also five, witnessed the abduction and later gave investigators a detailed description of the man and the vehicle. The following day, July 16, a hiker discovered Samantha's nude body along the Killen Trail off the Ortega Highway near Lake Elsinore in the Cleveland National Forest, roughly 50 miles from her home. An autopsy determined she had been sexually assaulted and died of asphyxiation.",
+      "The Orange County investigation moved with unusual speed. Drawing on the young witness's account, authorities produced and widely circulated a composite sketch of the suspect within hours, and Sheriff Michael Carona publicly appealed for help and warned the killer that he would be caught. The rapid distribution of the sketch, combined with tips from the public, quickly focused attention on Alejandro Avila, a 27-year-old former factory worker from Lake Elsinore. Avila had been tried in Orange County for molesting two young girls, the daughter and niece of a former girlfriend, but a jury had acquitted him in early 2001. He was arrested on July 19, 2002, three days after Samantha's body was found.",
+      "Avila was charged with kidnapping, murder with special circumstances, and two counts of committing lewd and lascivious acts on a child under 14. At his trial, which was moved to Orange County Superior Court, prosecutors presented DNA evidence recovered from beneath Samantha's fingernails that matched Avila, as well as the victim's DNA found inside his car, shoe prints consistent with Fila sneakers he had purchased, tire impressions, and cell phone and financial records placing him in the relevant areas. The jury also heard evidence of prior molestation and of child pornography accessed on a computer. After deliberating less than nine hours over two days, the jury convicted Avila on all counts on April 28, 2005. On May 16, 2005, the same jury recommended a death sentence, and the court formally imposed the death penalty on July 22, 2005.",
+      "The case had a lasting influence on child-safety awareness in California. In its wake, then-Governor Gray Davis expanded the use of electronic freeway signs to broadcast child-abduction alerts statewide, reinforcing the emerging AMBER Alert system. Samantha's mother, Erin Runnion, founded The Joyful Child Foundation, which develops education and community programs aimed at preventing crimes against children. More than 4,000 people attended Samantha's funeral. Avila's conviction and death sentence were upheld on direct appeal by the California Supreme Court on June 30, 2014, which rejected his challenges to the venue, the admission of prior-crimes evidence, and other rulings. Avila remains on California's death row; no execution has been carried out because of a statewide moratorium on executions in effect since 2019.",
+      "The recorded status of the case is a conviction: Alejandro Avila was tried, convicted, and sentenced to death for the kidnapping, sexual assault, and murder of Samantha Runnion, and that conviction has been affirmed on appeal."
+    ],
+    "timeline": [
+      {
+        "date": "2002-07-15",
+        "event": "Five-year-old Samantha Runnion is abducted around 6:30 p.m. from near her condominium complex in Stanton, California, by a man who lured her by asking about a lost puppy; her young friend witnesses the abduction."
+      },
+      {
+        "date": "2002-07-16",
+        "event": "A hiker discovers Samantha's nude body along the Killen Trail off the Ortega Highway near Lake Elsinore; an autopsy finds she was sexually assaulted and died of asphyxiation."
+      },
+      {
+        "date": "2002-07-17",
+        "event": "Investigators circulate a composite sketch based on the witness's description, and Sheriff Michael Carona makes a public appeal as the intensive manhunt continues."
+      },
+      {
+        "date": "2002-07-19",
+        "event": "Alejandro Avila, 27, of Lake Elsinore is arrested near his mother's home, three days after the body was found."
+      },
+      {
+        "date": "2002-07-22",
+        "event": "Avila is charged with kidnapping, murder with special circumstances, and lewd acts on a child; it emerges he had been acquitted in 2001 of molesting two other young girls."
+      },
+      {
+        "date": "2005-04-28",
+        "event": "An Orange County jury convicts Avila of kidnapping, first-degree murder, and two counts of lewd and lascivious acts on a child, finding the special circumstances true."
+      },
+      {
+        "date": "2005-05-16",
+        "event": "The jury returns a verdict recommending the death penalty."
+      },
+      {
+        "date": "2005-07-22",
+        "event": "The court formally sentences Alejandro Avila to death."
+      },
+      {
+        "date": "2014-06-30",
+        "event": "The California Supreme Court affirms Avila's conviction and death sentence in People v. Avila, rejecting his appeals."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jennifer-graves",
@@ -12536,14 +12664,76 @@
     ],
     "sources": [
       {
-        "title": "Murder of Dru Sjodin — Wikipedia",
+        "title": "Murder of Dru Sjodin - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Dru_Sjodin"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "About Dru | Dru Sjodin National Sex Offender Public Website (U.S. DOJ)",
+        "url": "https://www.nsopw.gov/about-dru"
+      },
+      {
+        "title": "Two decades later, Dru Sjodin case still resonates in Grand Forks and across the nation - Grand Forks Herald",
+        "url": "https://www.grandforksherald.com/news/north-dakota/two-decades-later-dru-sjodin-case-still-resonates-in-grand-forks-and-across-the-nation"
+      },
+      {
+        "title": "Rodriguez moved to Florida prison after death sentence in Sjodin killing overturned - Bismarck Tribune",
+        "url": "https://bismarcktribune.com/news/state-regional/crime-courts/rodriguez-moved-to-florida-prison-after-death-sentence-in-sjodin-killing-overturned/article_a089c75e-0f6f-11ee-a20a-3f3a78a3b89e.html"
+      },
+      {
+        "title": "Death penalty dropped in Dru Sjodin abduction, murder case - FOX 9 Minneapolis-St. Paul",
+        "url": "https://www.fox9.com/news/death-penalty-dropped-in-dru-sjodin-abduction-murder-case"
+      },
+      {
+        "title": "Judge overturns death penalty for man who killed Dru Sjodin - Bring Me The News",
+        "url": "https://bringmethenews.com/minnesota-news/judge-overturns-death-penalty-for-man-who-killed-dru-sjodin"
       }
-    ]
+    ],
+    "narrative": [
+      "Dru Katrina Sjodin was a 22-year-old University of North Dakota student from Pequot Lakes, Minnesota, working her way through college with several jobs. On November 22, 2003, she finished a shift at a Victoria's Secret store and was abducted from the parking lot of Columbia Mall in Grand Forks, North Dakota, in the late afternoon. She was on her cell phone with her boyfriend when the call abruptly ended, and she never returned to her car. Her disappearance triggered a massive, weeks-long search across the Grand Forks region and drew national attention.",
+      "Investigators soon focused on Alfonso Rodriguez Jr., a Crookston, Minnesota man who had been released from a Minnesota prison on May 1, 2003, roughly six months earlier, after serving 23 years for offenses including rape, aggravated assault, and kidnapping. He had been classified as a Level 3 (high-risk) sex offender. Rodriguez was arrested on December 1, 2003. Physical evidence, including a knife sheath and blood recovered from his car, linked him to Sjodin. Despite an extensive search, her body was not found during the winter. On April 17, 2004, her remains were discovered in a ravine near Crookston, showing evidence of assault and stabbing.",
+      "Because the abduction crossed state lines, the case was prosecuted federally under the Federal Kidnapping Act. On August 30, 2006, a federal jury in Fargo convicted Rodriguez of kidnapping resulting in death. In the penalty phase, the jury recommended capital punishment, and on February 8, 2007, U.S. District Judge Ralph R. Erickson formally sentenced Rodriguez to death, marking one of the few federal death sentences imposed in a state that had abolished capital punishment.",
+      "The murder spurred federal legislation. On July 27, 2006, President George W. Bush signed the Adam Walsh Child Protection and Safety Act, which incorporated a provision known as Dru's Law. It established and named the Dru Sjodin National Sex Offender Public Website (NSOPW), a U.S. Department of Justice-operated tool that lets the public search for registered sex offenders across state, tribal, and territorial jurisdictions.",
+      "In September 2021, Judge Erickson, by then serving on the U.S. Court of Appeals for the Eighth Circuit, vacated the death sentence in a habeas proceeding. He found that Rodriguez's constitutional rights had been violated by misleading and inaccurate testimony from a medical examiner and by his trial lawyers' failure to adequately present mental-health evidence and the possibility of an insanity defense. Prosecutors initially sought to reinstate the death penalty but ultimately announced on March 14, 2023, that they would no longer pursue it. On May 18, 2023, Rodriguez was resentenced to life in prison without the possibility of parole. He remains incarcerated in federal custody."
+    ],
+    "timeline": [
+      {
+        "date": "2003-11-22",
+        "event": "Dru Sjodin, 22, is abducted from the Columbia Mall parking lot in Grand Forks, North Dakota, after finishing her shift at Victoria's Secret."
+      },
+      {
+        "date": "2003-12-01",
+        "event": "Alfonso Rodriguez Jr., a recently released Level 3 sex offender from Crookston, Minnesota, is arrested in connection with her disappearance."
+      },
+      {
+        "date": "2004-04-17",
+        "event": "Sjodin's body is found in a ravine near Crookston, Minnesota, ending a months-long search."
+      },
+      {
+        "date": "2006-07-27",
+        "event": "President George W. Bush signs the Adam Walsh Child Protection and Safety Act, including 'Dru's Law,' establishing the Dru Sjodin National Sex Offender Public Website (NSOPW)."
+      },
+      {
+        "date": "2006-08-30",
+        "event": "A federal jury convicts Rodriguez of kidnapping resulting in death."
+      },
+      {
+        "date": "2007-02-08",
+        "event": "U.S. District Judge Ralph R. Erickson sentences Rodriguez to death."
+      },
+      {
+        "date": "2021-09",
+        "event": "Judge Erickson vacates the death sentence, citing misleading medical-examiner testimony and inadequate presentation of mental-health/insanity-defense evidence."
+      },
+      {
+        "date": "2023-03-14",
+        "event": "Federal prosecutors announce they will no longer seek the death penalty against Rodriguez."
+      },
+      {
+        "date": "2023-05-18",
+        "event": "Rodriguez is resentenced to life in prison without the possibility of parole."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "camoflauge-murder",
@@ -12778,10 +12968,77 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Todd Kohlhepp - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Todd_Kohlhepp"
+      },
+      {
+        "title": "South Carolina 'Serial Killer' Todd Kohlhepp Pleads Guilty in 7 Murders - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/south-carolina-serial-killer-todd-kohlhepp-pleads-guilty-7-murders-n765091"
+      },
+      {
+        "title": "Confessed Killer Pleads Guilty To 7 Murders Over A Dozen Years In South Carolina - NPR",
+        "url": "https://www.npr.org/sections/thetwo-way/2017/05/26/530226948/confessed-killer-pleads-guilty-to-7-murders-over-a-dozen-years-in-south-carolina"
+      },
+      {
+        "title": "Todd Kohlhepp pleads guilty in seven South Carolina slayings - CBS News",
+        "url": "https://www.cbsnews.com/news/todd-kohlhepp-pleads-guilty-in-seven-south-carolina-slayings/"
+      },
+      {
+        "title": "Todd Kohlhepp pleads guilty to murdering 7 over 13 years - CNN",
+        "url": "https://www.cnn.com/2017/05/26/us/south-carolina-kohlhepp-guilty-plea"
+      },
+      {
+        "title": "Superbike victims' families face serial killer Todd Kohlhepp in emotional hearing - Fox Carolina",
+        "url": "https://www.foxcarolina.com/2018/12/21/superbike-victims-families-face-serial-killer-todd-kohlhepp-emotional-hearing/"
       }
-    ]
+    ],
+    "narrative": [
+      "Todd Kohlhepp's crimes came to light on November 3, 2016, when Spartanburg County sheriff's deputies searching a rural property near Woodruff, South Carolina, heard banging from inside a locked metal storage container. Inside, they found 30-year-old Kala Brown chained by the neck and ankles. She had been missing since August 31, 2016, when she and her boyfriend, 32-year-old Charles David Carver, traveled to the property to do cleanup work. Investigators had traced the couple's last cellphone signals to land owned by Kohlhepp, a local real estate agent. Brown told deputies that Kohlhepp had shot and killed Carver and held her captive for roughly two months.",
+      "Kohlhepp, 45, was arrested that same day. Brown reported that other people were buried on the property, and searches soon confirmed it. On the days that followed, investigators recovered two more bodies: Johnny Joe Coxie, 29, and his wife Meagan Leigh McCraw-Coxie, 26, a couple Kohlhepp had hired to work on his land in late 2015 and then killed. Carver's body was also recovered from the property.",
+      "In custody, Kohlhepp confessed to a crime that had gone unsolved for 13 years: the Superbike Motorsports murders. On November 6, 2003, four people were shot to death at the Chesnee motorcycle dealership. The victims were owner Scott Ponder, 30; service manager Brian Lucas, 29; mechanic Chris Sherbert, 26; and bookkeeper Beverly Guy, 52, who was Ponder's mother. The quadruple homicide had baffled investigators for years. Authorities determined that Kohlhepp, who had reportedly been unhappy with service he received at the shop, was responsible.",
+      "Kohlhepp had a prior criminal record. In 1987, as a teenager in Arizona, he was convicted of kidnapping and sexually assaulting a 14-year-old girl and served time in prison before being released and moving to South Carolina, where he became a licensed real estate agent.",
+      "On May 26, 2017, Kohlhepp pleaded guilty in a Spartanburg County courtroom to seven counts of murder, along with kidnapping and criminal sexual conduct charges. He was sentenced to seven consecutive life sentences without the possibility of parole, plus an additional 60 years for the other offenses. Prosecutors said they could have pursued the death penalty but agreed to the plea deal in part because the state's supply of lethal injection drugs had expired, and the arrangement spared victims' families a lengthy trial while guaranteeing Kohlhepp would never be released.",
+      "During the plea hearing and a later 2018 evidentiary hearing, family members of the victims confronted Kohlhepp directly. Kala Brown, whose survival led to the discovery of the killings and the reopening of the Superbike case, has been widely credited as central to solving the crimes. Todd Kohlhepp remains incarcerated in the South Carolina prison system, serving his life sentences. He has at times claimed additional victims, but no further murders have been officially confirmed."
+    ],
+    "timeline": [
+      {
+        "date": "1987",
+        "event": "As a teenager in Arizona, Kohlhepp is convicted of kidnapping and sexually assaulting a 14-year-old girl and is sentenced to prison."
+      },
+      {
+        "date": "2003-11-06",
+        "event": "Four people are shot dead at Superbike Motorsports in Chesnee, SC: Scott Ponder (30), Brian Lucas (29), Chris Sherbert (26), and Beverly Guy (52). The case goes unsolved for years."
+      },
+      {
+        "date": "2015-12",
+        "event": "Johnny Joe Coxie (29) and Meagan Leigh McCraw-Coxie (26), hired to work on Kohlhepp's property, are killed and buried there."
+      },
+      {
+        "date": "2016-08-31",
+        "event": "Kala Brown (30) and boyfriend Charles David Carver (32) go missing after traveling to Kohlhepp's Woodruff property for cleanup work; Carver is killed."
+      },
+      {
+        "date": "2016-11-03",
+        "event": "Deputies find Kala Brown alive, chained inside a metal storage container on the property; Kohlhepp is arrested."
+      },
+      {
+        "date": "2016-11",
+        "event": "Searchers recover the bodies of Charles Carver and of Johnny and Meagan Coxie buried on the property."
+      },
+      {
+        "date": "2016-11",
+        "event": "In custody, Kohlhepp confesses to the 2003 Superbike Motorsports quadruple murder, linking him to seven killings in total."
+      },
+      {
+        "date": "2017-05-26",
+        "event": "Kohlhepp pleads guilty to seven counts of murder plus kidnapping and sexual assault; he is sentenced to seven consecutive life sentences without parole, plus 60 years."
+      },
+      {
+        "date": "2018-12-21",
+        "event": "Superbike victims' families confront Kohlhepp at an emotional court hearing."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "kansas-missing-2004",
@@ -12871,14 +13128,84 @@
     ],
     "sources": [
       {
-        "title": "Carlie's Law — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Carlie%27s_Law"
+        "title": "Carlie's Killer Sentenced To Death - CBS News",
+        "url": "https://www.cbsnews.com/news/carlies-killer-sentenced-to-death/"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Joseph Smith, convicted of killing 11-year-old Carlie Brucia, dies in Florida prison - FOX 13 Tampa Bay",
+        "url": "https://www.fox13news.com/news/joseph-smith-convicted-of-killing-11-year-old-carlie-brucia-dies-in-florida-prison"
+      },
+      {
+        "title": "Videotaped abductor found guilty of murder - NBC News",
+        "url": "https://www.nbcnews.com/id/wbna10083214"
+      },
+      {
+        "title": "SMITH v. STATE (2009) - FindLaw",
+        "url": "https://caselaw.findlaw.com/court/fl-supreme-court/1504427.html"
+      },
+      {
+        "title": "Convicted killer of 11-year-old Carlie Brucia dies in prison - MySuncoast",
+        "url": "https://www.mysuncoast.com/2021/07/26/convicted-killer-carlie-brucia-dies-prison/"
+      },
+      {
+        "title": "Carlie's Law - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Carlie's_Law"
       }
-    ]
+    ],
+    "narrative": [
+      "On February 1, 2004, 11-year-old Carlie Jane Brucia was abducted while walking home from a friend's house in Sarasota, Florida. As she cut across the property of Evie's Car Wash on Bee Ridge Road, a security camera behind the building captured a man approaching her, taking hold of her arm, and leading her away. The grainy surveillance still and video, which showed the abduction in progress, were released to the public and broadcast nationally, becoming one of the most widely publicized images in the history of American missing-child cases and prompting a large-scale search.",
+      "Tips from members of the public who recognized the man in the footage helped investigators identify Joseph P. Smith, a 37-year-old auto mechanic and father with a prior criminal record. Smith was already in custody on an unrelated parole violation when he was named the primary suspect. On February 5, 2004, four days after the abduction, Carlie's body was found behind the Central Church of Christ on Proctor Road. She had been sexually assaulted and died of strangulation. Smith was subsequently charged with first-degree murder, kidnapping, and capital sexual battery.",
+      "The surveillance footage proved central to the case both publicly and legally. It transformed the investigation from a search with few leads into one guided by a clear image of the perpetrator, and it later featured in the prosecution's case at trial. The video's public release illustrated the growing investigative value of commercial surveillance cameras and became a defining example of such footage helping to solve a high-profile crime.",
+      "Joseph Smith's trial began in November 2005 in Sarasota. On November 17, 2005, the jury convicted him of first-degree murder, kidnapping, and capital sexual battery. The jury recommended the death penalty, and on March 15, 2006, Circuit Judge Andrew Owens sentenced Smith to death for the murder, along with two life terms for the other convictions. Joseph Smith was convicted of Carlie Brucia's murder, a matter established as fact by the jury's verdict.",
+      "Smith's death sentence was subsequently affected by Florida death-penalty rulings, including litigation following the U.S. Supreme Court's Hurst v. Florida decision, which led to renewed sentencing proceedings. His first-degree murder conviction remained intact throughout. Before the sentencing question was fully resolved, Joseph Smith died in prison at Union Correctional Institution in Raiford, Florida, on July 26, 2021, at age 55, reportedly of liver cancer. In the wake of the case, federal legislation known as Carlie's Law was proposed to tighten supervision of federal parolees."
+    ],
+    "timeline": [
+      {
+        "date": "2004-02-01",
+        "event": "Eleven-year-old Carlie Brucia is abducted while walking home in Sarasota, Florida; a car-wash surveillance camera records the abduction."
+      },
+      {
+        "date": "2004-02-03",
+        "event": "Joseph P. Smith is arrested on an unrelated parole violation."
+      },
+      {
+        "date": "2004-02-05",
+        "event": "Carlie Brucia's body is found behind the Central Church of Christ on Proctor Road; she had been sexually assaulted and strangled."
+      },
+      {
+        "date": "2004-02-06",
+        "event": "Police publicly identify Joseph Smith as the primary suspect after tips from people who recognized the surveillance footage."
+      },
+      {
+        "date": "2004-02-20",
+        "event": "Smith is indicted for first-degree murder, with kidnapping and capital sexual battery charges also filed."
+      },
+      {
+        "date": "2005-11-07",
+        "event": "Joseph Smith's trial begins in Sarasota."
+      },
+      {
+        "date": "2005-11-17",
+        "event": "The jury convicts Smith of first-degree murder, kidnapping, and capital sexual battery."
+      },
+      {
+        "date": "2005-12-01",
+        "event": "The jury recommends the death penalty by a 10-2 vote."
+      },
+      {
+        "date": "2006-03-15",
+        "event": "Circuit Judge Andrew Owens sentences Smith to death, plus two life terms for the other convictions."
+      },
+      {
+        "date": "2020-04",
+        "event": "Following Florida death-penalty litigation, Smith is again sentenced to death; his murder conviction remains intact."
+      },
+      {
+        "date": "2021-07-26",
+        "event": "Joseph Smith dies in prison at Union Correctional Institution in Raiford, Florida, at age 55, reportedly of liver cancer."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "dana-clair-edwards",
@@ -13219,10 +13546,86 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jeff Davis 8 - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeff_Davis_8"
+      },
+      {
+        "title": "Jeff Davis 8: The True Story of the 'Murder in the Bayou' Killings - Biography",
+        "url": "https://www.biography.com/crime/murder-in-the-bayou-jeff-davis-8-true-story"
+      },
+      {
+        "title": "Murder in the Bayou: Who Killed the Women Known as the Jeff Davis 8? by Ethan Brown - Simon & Schuster",
+        "url": "https://www.simonandschuster.com/books/Murder-in-the-Bayou/Ethan-Brown/9781982127817"
+      },
+      {
+        "title": "Dark Truth Behind 8 Sex Workers Murdered in the Bayou - Rolling Stone",
+        "url": "https://www.rollingstone.com/culture/culture-features/dark-truth-behind-8-sex-workers-murdered-in-the-bayou-113264/"
+      },
+      {
+        "title": "'Murder In The Bayou': Who Are The Jeff Davis 8, Key Players? - Oxygen",
+        "url": "https://www.oxygen.com/martinis-murder/murder-in-the-bayou-who-are-the-jeff-davis-8-key-players"
+      },
+      {
+        "title": "Jennings 8: Unsolved murders haunt town, police - WWL-TV",
+        "url": "https://www.wwltv.com/article/news/jennings-8-unsolved-murders-haunt-town-police/289-412271190"
       }
-    ]
+    ],
+    "narrative": [
+      "Between May 2005 and August 2009, the bodies of eight women were discovered in the canals, drainage ditches, wooded areas, and along back roads in and around Jennings, a town of roughly 10,000 people in Jefferson Davis Parish, Louisiana. Collectively they became known as the 'Jeff Davis 8.' The victims were Loretta Lynn Chaisson Lewis, 28; Ernestine Marie Daniels Patterson, 30; Kristen Gary Lopez, 21; Whitnei Dubois, 26; Laconia 'Muggy' Brown, 23; Crystal Shay Benoit Zeno, 24; Brittney Gary, 17; and Necole Guillory, 26.",
+      "According to reporting, the women knew one another and moved in the same circles. Many struggled with poverty, addiction, and involvement in the local sex and drug trade, and several were said to have served as police informants. Some were related: Kristen Lopez and Brittney Gary were cousins. Because most of the bodies were recovered in advanced states of decomposition, often after being submerged in water, determining cause of death was difficult; in at least two cases (Patterson and Brown) the throat had been cut.",
+      "The first victim, Loretta Lewis, was found floating in a canal on the outskirts of Jennings on May 20, 2005. A month later, on June 18, 2005, Ernestine Patterson was found in a canal south of town. After a gap, Kristen Lopez was recovered from a canal in March 2007, followed over the next year and a half by Dubois, Brown, Zeno, and Gary. The last, Necole Guillory, was found off Interstate 10 in Acadia Parish in August 2009.",
+      "The investigation drew sustained criticism. In December 2008, Sheriff Ricky Edwards announced a multi-agency task force, and authorities publicly acknowledged the possibility of a 'common offender.' Yet, as documented in journalist Ethan Brown's 2016 book 'Murder in the Bayou' and related reporting, the inquiry was plagued by alleged mishandling of evidence, poor interviews, and conflicts of interest. Brown's reporting argues the deaths may not have been the work of a single serial killer but rather violent fallout from the parish's drug and sex trade.",
+      "Among the reported allegations: two female inmates claimed in 2007 that Sheriff's Office personnel had disposed of evidence connected to the Lopez case; the sergeant, Jesse Ewing, who documented their statements and forwarded material to the FBI was later removed from his position. The sheriff's chief criminal investigator, Warren Gary, was reported to have purchased a truck suspected of having been used to transport a victim's body. In 2009, DNA swabs were reportedly taken from investigators, but results were never publicly disclosed. These are attributed claims and allegations reported by Brown and other outlets; they have not been established in court.",
+      "Several men were linked to the case at various points. Frankie Richard, a strip-club owner and self-described crack addict who admitted having had sex with several of the victims and was reportedly among the last to see Kristen Lopez, was briefly charged but never prosecuted for the killings; he died in 2020. Byron Chad Jones and Lawrence Nixon were charged in Patterson's death but released after evidence problems. No individual has been convicted of guilt in any of the eight deaths.",
+      "As of 2026, all eight murders remain officially unsolved. No one has been convicted, and the families of several victims have continued to press for answers, with some publicly alleging law-enforcement involvement or cover-up. Those allegations remain unproven, and the identity of whoever killed the women has never been established."
+    ],
+    "timeline": [
+      {
+        "date": "2005-05-20",
+        "event": "Loretta Lynn Chaisson Lewis, 28, is found floating in a canal on the outskirts of Jennings, the first of the eight victims."
+      },
+      {
+        "date": "2005-06-18",
+        "event": "Ernestine Marie Daniels Patterson, 30, is found in a canal south of Jennings; her throat had been cut."
+      },
+      {
+        "date": "2007-03-18",
+        "event": "Kristen Gary Lopez, 21, is recovered from a canal near Jennings after being reported missing."
+      },
+      {
+        "date": "2007-05",
+        "event": "Whitnei Dubois, 26, is found in the Jennings area, the fourth victim."
+      },
+      {
+        "date": "2008-05",
+        "event": "Laconia 'Muggy' Brown, 23, is found; funeral services are held June 2, 2008. Her throat had been cut."
+      },
+      {
+        "date": "2008-09",
+        "event": "Crystal Shay Benoit Zeno, 24, is discovered in a wooded area near Jennings."
+      },
+      {
+        "date": "2008-11-15",
+        "event": "Brittney Gary, 17, is found hidden just off a road; she was a cousin of Kristen Lopez."
+      },
+      {
+        "date": "2008-12",
+        "event": "Sheriff Ricky Edwards announces a multi-agency task force to investigate the deaths."
+      },
+      {
+        "date": "2009-08",
+        "event": "Necole Guillory, 26, the eighth and final victim, is found off Interstate 10 in Acadia Parish."
+      },
+      {
+        "date": "2016-09-06",
+        "event": "Journalist Ethan Brown publishes 'Murder in the Bayou,' detailing alleged investigative failures, corruption, and conflicts of interest; the case remains unsolved."
+      },
+      {
+        "date": "2020-03-22",
+        "event": "Frankie Richard, a longtime person of interest never convicted in the killings, dies."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jennifer-williams-ky",
@@ -13277,14 +13680,68 @@
     ],
     "sources": [
       {
-        "title": "Murder of Jessica Lunsford — Wikipedia",
+        "title": "Murder of Jessica Lunsford - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Lunsford"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jessica Lunsford Killer John Couey Dies in Jail - CBS News",
+        "url": "https://www.cbsnews.com/news/jessica-lunsford-killer-john-couey-dies-in-jail/"
+      },
+      {
+        "title": "Couey guilty in Jessica Lunsford murder case - NBC News",
+        "url": "https://www.nbcnews.com/id/wbna10958653"
+      },
+      {
+        "title": "Jessica Lunsford's Murder Led to Stricter Sexual Crime Laws - A&E",
+        "url": "https://www.aetv.com/articles/jessica-lunsford-murder-sexual-offender-laws"
+      },
+      {
+        "title": "Convicted child killer Couey dies in prison, Florida officials say - CNN.com",
+        "url": "https://www.cnn.com/2009/CRIME/09/30/florida.couey.dead/"
       }
-    ]
+    ],
+    "narrative": [
+      "Jessica Marie Lunsford was a nine-year-old girl living with her father, Mark Lunsford, and her grandparents in Homosassa, a community in Citrus County on Florida's Gulf Coast. In the early morning hours of February 24, 2005, she was taken from her bedroom. Her father discovered she was missing when he went to wake her for school, and no signs of forced entry were initially apparent. Her disappearance triggered a large-scale search involving local, state, and federal law enforcement, volunteers, and extensive national media coverage.",
+      "The investigation focused on registered sex offenders living in the area. John Evander Couey, a 46-year-old convicted sex offender, had been staying at a home roughly 150 yards from the Lunsford residence, where his half-sister lived. Couey initially denied involvement and left the area, but investigators tracked him to Augusta, Georgia, where he was arrested on March 17, 2005. He subsequently confessed to abducting, sexually assaulting, and killing Jessica. Acting on his statements, searchers recovered her body on March 19, 2005, buried in plastic trash bags in a shallow hole near the home. An autopsy determined she had been buried alive and died of asphyxiation.",
+      "Because of the intense pretrial publicity in Citrus County, the case was moved to Miami-Dade County, where a jury was selected. On March 7, 2007, John Couey was found guilty of first-degree murder, kidnapping, sexual battery on a child, and burglary. Following the penalty phase, the jury recommended death, and on August 24, 2007, the judge formally sentenced Couey to death, along with additional life sentences. Couey remained on Florida's death row while an automatic appeal proceeded.",
+      "Couey never faced execution. He died of natural causes—reported as complications from cancer—on September 30, 2009, at age 51, at a hospital in Jacksonville, Florida, while in the custody of the Florida Department of Corrections. His death came shortly before the Florida Supreme Court was scheduled to hear his direct appeal, ending the case's legal proceedings.",
+      "Jessica's murder had a lasting influence on U.S. sex-offender legislation. In 2005, Florida enacted the Jessica Lunsford Act, commonly known as 'Jessica's Law,' which imposed mandatory minimum prison terms of 25 years for certain sex crimes against children and required lifetime electronic (GPS) monitoring of offenders after release. Championed in part by her father, versions of Jessica's Law were subsequently adopted by dozens of other states, and its provisions became a widely cited model in the national debate over how to monitor and punish child sex offenders. The case is legally closed: the sole perpetrator was identified, confessed, was convicted, and died in custody."
+    ],
+    "timeline": [
+      {
+        "date": "2005-02-24",
+        "event": "Nine-year-old Jessica Lunsford is abducted from her home in Homosassa, Florida; her father discovers her missing that morning, prompting a large-scale search."
+      },
+      {
+        "date": "2005-03-17",
+        "event": "John Evander Couey, a convicted sex offender who had been staying near the Lunsford home, is arrested in Augusta, Georgia."
+      },
+      {
+        "date": "2005-03-18",
+        "event": "Couey confesses to kidnapping, sexually assaulting, and killing Jessica."
+      },
+      {
+        "date": "2005-03-19",
+        "event": "Jessica's body is recovered, buried in plastic bags in a shallow hole near the residence; an autopsy finds she was buried alive and died of asphyxiation."
+      },
+      {
+        "date": "2005-05-02",
+        "event": "Florida Governor Jeb Bush signs the Jessica Lunsford Act ('Jessica's Law') into law, establishing 25-year mandatory minimums and lifetime GPS monitoring for certain child sex offenders."
+      },
+      {
+        "date": "2007-03-07",
+        "event": "A Miami jury finds Couey guilty of first-degree murder, kidnapping, sexual battery on a child, and burglary."
+      },
+      {
+        "date": "2007-08-24",
+        "event": "Couey is formally sentenced to death, plus additional life sentences."
+      },
+      {
+        "date": "2009-09-30",
+        "event": "John Couey dies of natural causes (cancer complications) at a Jacksonville hospital at age 51 while on death row, before his execution or the resolution of his appeal."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "iowa-state-missing",
@@ -13896,10 +14353,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Anthony Sowell - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anthony_Sowell"
+      },
+      {
+        "title": "Cleveland Strangler Investigation Timeline - Cleveland 19 News",
+        "url": "https://www.cleveland19.com/story/11440896/cleveland-strangler-investigation-timeline/"
+      },
+      {
+        "title": "Cleveland serial killer who murdered 11 women dies in prison - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/cleveland-serial-killer-who-murdered-11-women-dies-prison-n1257101"
+      },
+      {
+        "title": "Anthony Sowell, convicted Cleveland serial killer of 11 women, dies in prison - WKYC",
+        "url": "https://www.wkyc.com/article/news/crime/anthony-sowell-convicted-serial-killer-cleveland-dead-prison/95-5d4af9da-680d-4fb7-bb99-7d577c88a9fc"
+      },
+      {
+        "title": "The Victims of Anthony Sowell, the Cleveland Strangler - A&E",
+        "url": "https://www.aetv.com/articles/anthony-sowell-victims"
       }
-    ]
+    ],
+    "narrative": [
+      "In late October 2009, Cleveland police went to a house at 12205 Imperial Avenue on the city's east side to serve a warrant connected to a rape complaint. Inside the home of Anthony Sowell, a 50-year-old former U.S. Marine and registered sex offender, officers discovered the decomposing remains of two women. Over the following days the search of the property expanded, and by early November investigators had recovered the remains of eleven women in all, buried in shallow graves in the yard and basement, hidden in crawl spaces, and in one case a skull found in a bucket. The case drew national attention and Sowell became known as the 'Cleveland Strangler.'",
+      "All eleven victims were African-American women, most of them mothers, who had disappeared between 2007 and 2009. They were Crystal Dozier, Tishana Culver, Leshanda Long, Michelle Mason, Tonia Carmichael, Kim Yvette Smith, Amelda Hunter, Nancy Cobbs, Telacia Fortson, Janice Webb, and Diane Turner. Most were middle-aged; the youngest, Leshanda Long, was 25. Many struggled with addiction or lived on the margins, and several had not been reported missing at all. Coroners determined that most had been strangled.",
+      "The discoveries prompted sharp criticism about missed warnings and neglected victims. Neighbors had for years complained of a foul odor around the house, which was often attributed to a nearby sausage plant. Sowell had served roughly 15 years in prison for a 1990 attempted-rape conviction and was on the sex-offender registry after his 2005 release, yet the disappearances of the women drew little sustained investigation. Relatives of several victims later said police were slow to take reports seriously; the family of Crystal Dozier said they were left to search hospitals and post fliers on their own. Advocates and commentators argued that the victims' race, poverty, and struggles caused their vanishings to be overlooked, though such critiques are attributed to family members and community groups rather than established as official findings.",
+      "Sowell was arrested on October 31, 2009, about a mile from his home after a tip to police. His trial began in June 2011. On July 22, 2011, a Cuyahoga County jury convicted him of aggravated murder and dozens of related counts including kidnapping, rape, and abuse of a corpse. The jury recommended a death sentence, and on August 12, 2011, the judge formally sentenced Sowell to death. The Ohio Supreme Court affirmed his convictions and death sentence in December 2016, and the U.S. Supreme Court declined to hear his appeal in 2017.",
+      "Anthony Sowell died on February 8, 2021, at age 61, at a prison medical facility in Columbus, Ohio, after an unspecified terminal illness unrelated to COVID-19; he had been moved to end-of-life care weeks earlier. His Imperial Avenue house was demolished by the city in December 2011, and a memorial known as the 'Garden of 11 Angels' was later established at the site to honor the victims, dedicated in November 2021. The convictions stand as a matter of record, and the case remains widely cited in discussions of how the disappearances of marginalized women can go uninvestigated."
+    ],
+    "timeline": [
+      {
+        "date": "1990",
+        "event": "Sowell is convicted of attempted rape and sentenced to prison, serving roughly 15 years before his 2005 release and registration as a sex offender."
+      },
+      {
+        "date": "2007-05-17",
+        "event": "Crystal Dozier, the earliest identified victim, is last seen; her disappearance is among those relatives say drew little police attention."
+      },
+      {
+        "date": "2009-09-22",
+        "event": "A woman reports that Sowell raped her at his Imperial Avenue home, prompting the investigation that would uncover the killings."
+      },
+      {
+        "date": "2009-10-29",
+        "event": "Cleveland police search 12205 Imperial Avenue on a rape warrant and find the first two victims' remains."
+      },
+      {
+        "date": "2009-10-31",
+        "event": "Anthony Sowell is arrested about a mile from his home after a tip to police."
+      },
+      {
+        "date": "2009-11-04",
+        "event": "Investigators complete recovery of eleven sets of women's remains from in and around the house."
+      },
+      {
+        "date": "2009-12-04",
+        "event": "All eleven victims are identified by the county medical examiner."
+      },
+      {
+        "date": "2011-06-06",
+        "event": "Sowell's trial on aggravated murder and related charges begins in Cuyahoga County."
+      },
+      {
+        "date": "2011-07-22",
+        "event": "A jury convicts Sowell of the aggravated murders of eleven women and dozens of related counts."
+      },
+      {
+        "date": "2011-08-12",
+        "event": "Sowell is formally sentenced to death after the jury's recommendation."
+      },
+      {
+        "date": "2016-12-08",
+        "event": "The Ohio Supreme Court affirms Sowell's convictions and death sentence."
+      },
+      {
+        "date": "2021-02-08",
+        "event": "Anthony Sowell dies at age 61 in a Columbus prison medical facility from a terminal illness."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "chris-benoit",
@@ -14230,18 +14761,80 @@
     ],
     "sources": [
       {
-        "title": "Drew Peterson — Wikipedia",
+        "title": "Drew Peterson - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Drew_Peterson"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "So what happened to Stacy Peterson? That case is next for prosecutors, family - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/so-what-happened-stacy-peterson-case-next-prosecutors-family-flna983575"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Drew Peterson Found Guilty of Hiring Hit Man to Kill Prosecutor - TIME",
+        "url": "https://time.com/4353132/drew-peterson-guilty-prosecutor/"
+      },
+      {
+        "title": "Former cop Drew Peterson guilty in plot to kill prosecutor - CNN",
+        "url": "https://www.cnn.com/2016/05/31/us/drew-peterson-verdict"
+      },
+      {
+        "title": "Drew Peterson guilty in murder-for-hire trial - Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/2016/5/31/18353450/drew-peterson-guilty-in-murder-for-hire-trial"
+      },
+      {
+        "title": "Statement by Will County State's Attorney James Glasgow on Appeals Court Opinion Affirming Drew Peterson Conviction - Will County State's Attorney",
+        "url": "https://willcountysao.com/2020/12/statement-by-will-county-states-attorney-james-glasgow-on-appeals-court-opinion-affirming-drew-peterson-conviction-in-murder-for-hire-scheme-against-glasgow/"
       }
-    ]
+    ],
+    "narrative": [
+      "Stacy Ann Peterson (nee Cales) was 23 years old and the fourth wife of Drew Peterson, a longtime sergeant with the Bolingbrook, Illinois, police department, when she vanished from the couple's home on Sunday, October 28, 2007. She was reported missing the following day after relatives were unable to reach her. At the time she was close to completing a nursing degree at Joliet Junior College. Drew Peterson told investigators that Stacy had telephoned him to say she was leaving him for another man, an account her family and the police did not accept. Despite extensive searches, Stacy Peterson has never been found, and authorities came to presume she was the victim of foul play.",
+      "Stacy's disappearance revived scrutiny of the death of Drew Peterson's third wife, Kathleen Savio. Savio's body had been discovered in a dry bathtub at her home on March 1, 2004, months after her divorce from Peterson was finalized. A coroner's jury initially ruled the death an accidental drowning. After Stacy vanished, Savio's body was exhumed in November 2007 and re-examined. A forensic pathologist concluded the death was a homicide staged to look like an accident, citing bruising and an unexplained gash to the scalp, and the manner of death was reclassified.",
+      "On May 7, 2009, Drew Peterson was indicted for Savio's murder, and bail was set at $20 million. Following a trial in which the prosecution relied in part on hearsay statements attributed to both Savio and Stacy Peterson, a jury on September 6, 2012, found Peterson guilty of the first-degree murder of Kathleen Savio. On February 21, 2013, he was sentenced to 38 years in prison. Peterson's conviction in the Savio case was subsequently upheld on appeal.",
+      "While serving that sentence, Peterson was charged in a separate case with plotting to have Will County State's Attorney James Glasgow, who had prosecuted the Savio case, killed. Prosecutors said Peterson tried to hire a fellow inmate to carry out the killing, and that the inmate cooperated with the FBI. On May 31, 2016, a jury convicted Peterson of solicitation of murder and solicitation of murder for hire. He was sentenced on July 29, 2016, to an additional 40 years, to be served consecutively to his murder sentence.",
+      "Despite the convictions related to Kathleen Savio and to the plot against the prosecutor, Drew Peterson has never been charged in connection with Stacy Peterson's disappearance, and no one else has been charged. Her body has never been recovered. Investigators and Stacy's family have long publicly identified Peterson as a suspect in her case, but as a legal matter it remains an open, unsolved missing-persons investigation. Periodic searches and reported tips over the years have not led to a recovery of her remains or to charges."
+    ],
+    "timeline": [
+      {
+        "date": "2004-03-01",
+        "event": "Kathleen Savio, Drew Peterson's third wife, is found dead in a dry bathtub at her home; her death is initially ruled an accidental drowning."
+      },
+      {
+        "date": "2007-10-28",
+        "event": "Stacy Peterson, Drew Peterson's fourth wife, disappears from the couple's Bolingbrook, Illinois, home."
+      },
+      {
+        "date": "2007-10-29",
+        "event": "Stacy Peterson is reported missing after relatives are unable to reach her."
+      },
+      {
+        "date": "2007-11-16",
+        "event": "Kathleen Savio's body is exhumed for a new forensic examination amid the attention on Stacy's disappearance."
+      },
+      {
+        "date": "2008-02-21",
+        "event": "A forensic pathologist concludes Savio's death was a homicide staged to look like an accident, leading to reclassification of the manner of death."
+      },
+      {
+        "date": "2009-05-07",
+        "event": "Drew Peterson is indicted for the murder of Kathleen Savio; bail is set at $20 million."
+      },
+      {
+        "date": "2012-09-06",
+        "event": "A jury finds Drew Peterson guilty of the first-degree murder of Kathleen Savio."
+      },
+      {
+        "date": "2013-02-21",
+        "event": "Peterson is sentenced to 38 years in prison for Savio's murder."
+      },
+      {
+        "date": "2016-05-31",
+        "event": "Peterson is convicted of soliciting the murder of Will County State's Attorney James Glasgow."
+      },
+      {
+        "date": "2016-07-29",
+        "event": "Peterson is sentenced to an additional 40 years, consecutive to his murder sentence, in the murder-for-hire case."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "thomas-miller-sc",
@@ -14388,10 +14981,71 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of Jason Hudson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jason_Hudson"
+      },
+      {
+        "title": "Jennifer Hudson Family Murder Trial: William Balfour found guilty on all counts - CBS News",
+        "url": "https://www.cbsnews.com/news/jennifer-hudson-family-murder-trial-william-balfour-found-guilty-on-all-counts/"
+      },
+      {
+        "title": "William Balfour Found Guilty In Murder Of Jennifer Hudson's Family - NPR",
+        "url": "https://www.npr.org/sections/thetwo-way/2012/05/11/152527179/william-balfour-found-guilty-in-murder-of-jennifer-hudsons-family"
+      },
+      {
+        "title": "Balfour found guilty of murder in death of Jennifer Hudson's kin - CNN",
+        "url": "https://www.cnn.com/2012/05/11/justice/illinois-hudson-murder-trial/index.html"
+      },
+      {
+        "title": "Killer of Jennifer Hudson relatives gets three life sentences without parole - CNN",
+        "url": "https://www.cnn.com/2012/07/24/justice/illinois-hudson-murder-trial"
+      },
+      {
+        "title": "William Balfour gets 3 life sentences for murder of Jennifer Hudson's family - NBC News",
+        "url": "https://www.nbcnews.com/news/william-balfour-gets-3-life-sentences-murder-jennifer-hudsons-family-908362"
       }
-    ]
+    ],
+    "narrative": [
+      "On October 24, 2008, three members of Academy Award-winning singer and actress Jennifer Hudson's family were shot to death in Chicago, Illinois. The victims were Hudson's mother, 57-year-old Darnell Donerson; her brother, 29-year-old Jason Hudson; and her 7-year-old nephew, Julian King, the son of Hudson's older sister, Julia Hudson.",
+      "Donerson and Jason Hudson were found shot dead inside the family home on Chicago's South Side that afternoon. Julian King, who had been at the residence, was missing, and authorities issued an Amber Alert. Three days later, on October 27, 2008, the boy's body was discovered inside an abandoned sport utility vehicle on the city's West Side. All three had been killed with a handgun.",
+      "Suspicion quickly focused on William Balfour, the estranged husband of Julia Hudson. Balfour, who was on parole for an earlier attempted murder conviction, had been separated from Julia and no longer lived at the family home. Prosecutors alleged that he carried out the killings in a jealous rage after learning that his estranged wife had begun dating another man. According to the prosecution, Balfour became enraged upon seeing evidence of a gift from Julia's new boyfriend around the time of her birthday.",
+      "Balfour was taken into custody and, on December 1, 2008, was arrested and charged with three counts of first-degree murder and home invasion. He was denied bail at a hearing days later. A grand jury indicted him on December 30, 2008, and on January 20, 2009, Balfour pleaded not guilty to all charges. He maintained his innocence throughout the proceedings.",
+      "Because there were no surviving witnesses to the shootings and no fingerprint evidence tying Balfour to the crime scene, prosecutors built a largely circumstantial case. Evidence included the recovery of the murder weapon, a SIG Sauer handgun, and testimony that Balfour had been seen with a similar gun before the killings, along with cell-phone and vehicle evidence. Over roughly 11 days of testimony, the state called approximately 83 witnesses.",
+      "On May 11, 2012, after about three days and some 18 hours of deliberation, a Cook County jury found Balfour guilty on all seven counts against him: three counts of first-degree murder, home invasion, aggravated kidnapping, residential burglary, and possession of a stolen motor vehicle. Jennifer Hudson and members of her family attended much of the trial.",
+      "On July 24, 2012, Judge Charles Burns sentenced Balfour to three consecutive terms of life in prison without the possibility of parole, plus an additional 120 years for the other convictions. At sentencing, Jennifer Hudson and her sister Julia read statements describing the devastation caused by the killings.",
+      "Balfour's conviction is a settled legal fact. He pursued appeals of his conviction, which were rejected, and he remains incarcerated in the Illinois state prison system serving his life sentences. The case drew intense national attention because of Jennifer Hudson's fame, and she has continued to speak publicly about the loss of her mother, brother, and nephew in the years since."
+    ],
+    "timeline": [
+      {
+        "date": "2008-10-24",
+        "event": "Darnell Donerson, 57, and her son Jason Hudson, 29, are found shot to death in the family home on Chicago's South Side; 7-year-old Julian King is missing and an Amber Alert is issued."
+      },
+      {
+        "date": "2008-10-27",
+        "event": "Julian King's body is discovered inside an abandoned SUV on Chicago's West Side; all three victims died of gunshot wounds."
+      },
+      {
+        "date": "2008-12-01",
+        "event": "William Balfour, estranged husband of Hudson's sister Julia, is arrested and charged with three counts of first-degree murder and home invasion."
+      },
+      {
+        "date": "2008-12-30",
+        "event": "A grand jury indicts Balfour on the murder and related charges."
+      },
+      {
+        "date": "2009-01-20",
+        "event": "Balfour pleads not guilty to all charges."
+      },
+      {
+        "date": "2012-05-11",
+        "event": "A Cook County jury finds Balfour guilty on all seven counts, including three counts of first-degree murder, after roughly 18 hours of deliberation."
+      },
+      {
+        "date": "2012-07-24",
+        "event": "Balfour is sentenced to three consecutive life terms without parole plus an additional 120 years in prison."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "denise-amber-lee",
@@ -14524,10 +15178,76 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "John Albert Gardner - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Albert_Gardner"
+      },
+      {
+        "title": "Gardner Pleads Guilty To Both Dubois and King Murders - KPBS",
+        "url": "https://www.kpbs.org/news/public-safety/2010/04/16/gardner-pleads-guilty-murder-charges"
+      },
+      {
+        "title": "Gardner Sentenced To 3 Life Terms For Murders Of Chelsea King And Amber Dubois - KPBS",
+        "url": "https://www.kpbs.org/news/public-safety/2010/05/14/gardner-sentenced-3-life-terms-murders-chelsea-kin"
+      },
+      {
+        "title": "California sex offender pleads guilty to killing 2 teens - CNN",
+        "url": "https://www.cnn.com/2010/CRIME/04/17/chelsea.king.gardner.plea/index.html"
+      },
+      {
+        "title": "Chelsea King, Amber Dubois Killer John Gardner Pleads Guilty to Murdering Both Teens; Avoids Death Penalty - CBS News",
+        "url": "https://www.cbsnews.com/news/chelsea-king-amber-dubois-killer-john-gardner-pleads-guilty-to-murdering-both-teens-avoids-death-penalty/"
+      },
+      {
+        "title": "Taken: The Amber Dubois Story - CBS News",
+        "url": "https://www.cbsnews.com/news/taken-the-amber-dubois-story-06-11-2010/"
+      },
+      {
+        "title": "Remains ID'd as Amber Dubois - NBC 7 San Diego",
+        "url": "https://www.nbcsandiego.com/news/local/major-development-in-amber-dubois-case-sources/1866754/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of February 13, 2009, 14-year-old Amber Leeanne Dubois disappeared while walking to Escondido High School in Escondido, California. She was carrying a check to buy a lamb she planned to raise as part of a school agriculture program, and she vanished within blocks of the campus. Her disappearance set off an extensive but frustrating search: investigators eventually ran down roughly 1,200 tips and conducted hundreds of interviews, yet developed no solid leads. With no physical evidence recovered, the case went cold for more than a year.",
+      "The break came from an unrelated case. On February 25, 2010, 17-year-old Chelsea King disappeared while jogging near Lake Hodges in the Rancho Bernardo area, not far from Escondido. DNA recovered from King's discarded clothing matched John Albert Gardner III, a registered sex offender who had served five years in prison following a 2000 conviction for molesting a 13-year-old girl. Gardner was arrested on February 28, 2010. King's body was found in a shallow lakeside grave on March 2, 2010. Investigators, noting the geographic and behavioral overlap with the still-unsolved Dubois case, questioned Gardner about Amber, and on March 6, 2010, her skeletal remains were recovered in a rural area north of the Pala Indian Reservation, roughly 20 miles north of Escondido.",
+      "On April 16, 2010, Gardner pleaded guilty in San Diego Superior Court to the first-degree murders of both Amber Dubois and Chelsea King, as well as to an assault on another woman in December 2009. He admitted kidnapping, raping, and stabbing Dubois, and raping and strangling King. The pleas were the product of a negotiated agreement: Gardner offered to admit both killings and lead authorities to the truth about each girl only if prosecutors took the death penalty off the table. Because there was little independent physical evidence tying him to the Dubois murder, and to spare both families a prolonged trial, prosecutors and the King family agreed. Chelsea King's father, Brent King, said that while the death penalty was the family's first choice, in California that penalty had become 'an empty promise.'",
+      "On May 14, 2010, Judge David Danielsen sentenced Gardner to two consecutive terms of life in prison without the possibility of parole for the two murders, plus an additional term for the December 2009 assault. As part of the plea, Gardner waived his right to appeal. The sentencing hearing was emotional, with the victims' parents confronting Gardner directly in court.",
+      "The Dubois case drew significant criticism of the early investigation. Amber's family, particularly her mother Carrie McGonigle and father Maurice Dubois, said authorities were too quick to treat Amber as a possible runaway, and that unconfirmed reported sightings diverted attention and slowed the response. Commentators contrasted the immediate, large-scale search launched when physical evidence surfaced in King's disappearance with the comparatively muted early effort in Amber's case. The scrutiny fed into wider debate over how California monitored high-risk sex offenders such as Gardner, contributing to legislative changes known as Chelsea's Law. Gardner remains incarcerated in the California prison system serving his life-without-parole sentence; the case is closed."
+    ],
+    "timeline": [
+      {
+        "date": "2009-02-13",
+        "event": "Amber Dubois, 14, disappears while walking to Escondido High School in Escondido, California."
+      },
+      {
+        "date": "2009-12",
+        "event": "John Gardner assaults another young woman near Lake Hodges; she escapes."
+      },
+      {
+        "date": "2010-02-25",
+        "event": "Chelsea King, 17, disappears while jogging near Lake Hodges; her case triggers a massive search."
+      },
+      {
+        "date": "2010-02-28",
+        "event": "John Gardner is arrested after DNA from King's discarded clothing is matched to him."
+      },
+      {
+        "date": "2010-03-02",
+        "event": "Chelsea King's body is found in a shallow grave near Lake Hodges."
+      },
+      {
+        "date": "2010-03-06",
+        "event": "Amber Dubois's skeletal remains are recovered in a rural area north of the Pala Indian Reservation, about 20 miles north of Escondido."
+      },
+      {
+        "date": "2010-04-16",
+        "event": "Gardner pleads guilty to the first-degree murders of both Amber Dubois and Chelsea King, plus a 2009 assault."
+      },
+      {
+        "date": "2010-05-14",
+        "event": "Gardner is sentenced to two consecutive terms of life without the possibility of parole, plus additional time for the assault."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "brittanee-drexel",
@@ -14552,14 +15272,84 @@
     ],
     "sources": [
       {
-        "title": "Murder of Brittanee Drexel — Wikipedia",
+        "title": "Murder of Brittanee Drexel - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Brittanee_Drexel"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Raymond Moody pleads guilty to killing missing teen Brittanee Drexel, sentenced to life in prison - ABC News",
+        "url": "https://abcnews.com/US/raymond-moody-pleads-guilty-killing-missing-teen-brittanee/story?id=91730269"
+      },
+      {
+        "title": "Brittanee Drexel Case: Convicted killer of missing teen sentenced to life in prison - CNN",
+        "url": "https://www.cnn.com/2022/10/19/us/brittanee-drexel-raymond-douglas-moody-sentencing/index.html"
+      },
+      {
+        "title": "Raymond Moody pleads guilty to murdering Brittanee Drexel, ending long unsolved case - Post and Courier",
+        "url": "https://www.postandcourier.com/myrtle-beach/raymond-moody-pleads-guilty-to-murdering-brittanee-drexel-ending-long-unsolved-case/article_6da742e4-4f03-11ed-8831-630434a6cb4c.html"
+      },
+      {
+        "title": "Man sentenced to life in prison for killing New York teen Brittanee Drexel - CBS News",
+        "url": "https://www.cbsnews.com/news/raymond-moody-life-sentence-murder-brittanee-drexel-2009-vacation-south-carolina/"
+      },
+      {
+        "title": "Timeline: Brittanee Drexel murder case - 2009 until now - WBTW",
+        "url": "https://www.wbtw.com/news/grand-strand/myrtle-beach/timeline-brittanee-drexel-murder-case-2009-til-now/"
       }
-    ]
+    ],
+    "narrative": [
+      "Brittanee Marie Drexel was a 17-year-old high school student from Chili, a suburb of Rochester, New York, when she disappeared in the spring of 2009. In April of that year, Brittanee traveled to Myrtle Beach, South Carolina, with a group of friends for a spring break trip. Her mother, Dawn Drexel, had not given permission for the journey, and Brittanee reportedly told her she would be spending the weekend at a friend's house in New York rather than driving roughly 800 miles south. That deception meant several crucial days passed before the full circumstances of her trip were understood by her family.",
+      "On the evening of April 25, 2009, Brittanee left the Myrtle Beach hotel where she was staying with friends and walked a short distance to visit acquaintances at another hotel, the Bar Harbor. Surveillance footage captured her leaving, and she exchanged text messages with her boyfriend back in New York, telling him around 9:15 p.m. that she was heading back. She was never seen again. Her boyfriend alerted her mother after her phone went silent, and law enforcement launched an urgent search along the Grand Strand. Her cellphone last pinged near Georgetown, South Carolina, some 30 miles south of Myrtle Beach, before going dark.",
+      "The case drew national attention and stretched on for more than a decade with numerous false leads and dead ends. Investigators identified Raymond Douglas Moody, a registered sex offender, as a person of interest as early as 2012. In June 2016 the FBI publicly declared Brittanee a homicide victim and offered a reward, and later that year a prison informant named Taquan Brown gave a graphic account alleging she had been abducted, sexually assaulted, and killed in the Georgetown area. Despite these claims, no charges were filed for years, and the family endured a long period of uncertainty about what had happened to her.",
+      "The breakthrough came in May 2022. Investigators had refined their analysis of cellphone and surveillance data, tracking the point at which Brittanee's movements shifted from walking speed to vehicle speed, which helped focus attention on Moody. On May 5, 2022, Moody confessed during an interview and led authorities to Brittanee's remains, which were recovered from a wooded, buried site near Georgetown in mid-May and confirmed through DNA and dental records. Moody was arrested and charged with murder, kidnapping, and criminal sexual conduct.",
+      "In October 2022, Raymond Moody pleaded guilty to murder, kidnapping, and first-degree criminal sexual conduct in the death of Brittanee Drexel. In court he stated, \"I was a monster,\" acknowledging responsibility for the killing. A Georgetown County judge sentenced him to life in prison without the possibility of parole for the murder, plus consecutive 30-year sentences for the kidnapping and sexual assault charges. The guilty plea and sentence closed one of South Carolina's most prominent cold cases after more than thirteen years. Brittanee's family, including her mother Dawn, addressed the court, and the case is now considered resolved with Moody serving his life sentence."
+    ],
+    "timeline": [
+      {
+        "date": "2009-04-22",
+        "event": "Brittanee Drexel, 17, travels from the Rochester, New York area to Myrtle Beach, South Carolina, for spring break against her mother's wishes."
+      },
+      {
+        "date": "2009-04-25",
+        "event": "Brittanee leaves her hotel to visit friends at the nearby Bar Harbor hotel, texts her boyfriend around 9:15 p.m., and vanishes; it is the last confirmed sign of her alive."
+      },
+      {
+        "date": "2009-04-26",
+        "event": "Law enforcement launches an intensive search along the Grand Strand after she is reported missing."
+      },
+      {
+        "date": "2012-01-01",
+        "event": "Raymond Douglas Moody, a registered sex offender, is identified by investigators as a person of interest."
+      },
+      {
+        "date": "2016-06-01",
+        "event": "The FBI holds a press conference declaring Brittanee a homicide victim and announces a reward for information."
+      },
+      {
+        "date": "2016-08-01",
+        "event": "Prison inmate Taquan Brown testifies that Brittanee was abducted, assaulted, and killed near Georgetown, South Carolina."
+      },
+      {
+        "date": "2022-05-04",
+        "event": "Raymond Moody is taken into custody as the investigation reaches a breakthrough."
+      },
+      {
+        "date": "2022-05-05",
+        "event": "Moody confesses during an FBI interview and leads authorities toward Brittanee's remains."
+      },
+      {
+        "date": "2022-05-11",
+        "event": "Human remains are recovered from a buried site near Georgetown, about 30 miles from where Brittanee disappeared."
+      },
+      {
+        "date": "2022-05-16",
+        "event": "The remains are confirmed to be Brittanee Drexel through DNA and dental records; Moody is charged with murder, kidnapping, and criminal sexual conduct."
+      },
+      {
+        "date": "2022-10-19",
+        "event": "Raymond Moody pleads guilty to murder, kidnapping, and first-degree criminal sexual conduct and is sentenced to life in prison without parole plus 60 additional years."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jose-campos",
@@ -14760,10 +15550,69 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "John Albert Gardner - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Albert_Gardner"
+      },
+      {
+        "title": "Gardner Sentenced To 3 Life Terms For Murders Of Chelsea King And Amber Dubois - KPBS Public Media",
+        "url": "https://www.kpbs.org/news/public-safety/2010/05/14/gardner-sentenced-3-life-terms-murders-chelsea-kin"
+      },
+      {
+        "title": "Chelsea King, Amber Dubois Killer John Gardner Pleads Guilty to Murdering Both Teens; Avoids Death Penalty - CBS News",
+        "url": "https://www.cbsnews.com/news/chelsea-king-amber-dubois-killer-john-gardner-pleads-guilty-to-murdering-both-teens-avoids-death-penalty/"
+      },
+      {
+        "title": "2 Teens' Murders Changed California's Sex Offender Laws - A&E",
+        "url": "https://www.aetv.com/articles/chelsea-s-law-murders-changed-california-approach-high-risk-sex-offenders"
+      },
+      {
+        "title": "John Gardner: In His Own Words - cbs8.com",
+        "url": "https://www.cbs8.com/article/news/local/john-gardner-in-his-own-words-i-could-not-stop-myself/509-a596d3e0-0882-4a32-ac76-a9f3131f4476"
       }
-    ]
+    ],
+    "narrative": [
+      "Chelsea King was a 17-year-old senior at Poway High School in San Diego County, California. An honor student, cross-country runner, and French horn player, she went for an afternoon run on February 25, 2010, at the Rancho Bernardo Community Park near Lake Hodges. When she did not return home, her family reported her missing that evening. Searchers located her parked car near the trailhead, and a large-scale search of the rugged terrain around the lake began, drawing hundreds of volunteers alongside law enforcement.",
+      "Investigators recovered items of King's discarded clothing near the reservoir. DNA collected from that clothing was matched to John Albert Gardner III, a 30-year-old registered sex offender who had been convicted in 2000 of molesting a 13-year-old girl. Gardner was arrested on February 28, 2010. On March 2, 2010, five days after she disappeared, search teams found King's body buried in a shallow grave near Lake Hodges. Authorities determined that Gardner had raped and strangled her.",
+      "Gardner's arrest reopened questions about the unsolved disappearance of 14-year-old Amber Dubois of Escondido, who had vanished on February 13, 2009, while walking to Escondido High School. Gardner ultimately admitted responsibility for that killing as well, and on March 6, 2010, Amber Dubois's remains were recovered in a remote area near the Pala Indian Reservation in northern San Diego County, after Gardner provided information about the location.",
+      "Facing a possible death sentence, Gardner reached a plea agreement with the San Diego County District Attorney's office. On April 16, 2010, he pleaded guilty to the first-degree murder and rape of Chelsea King, the first-degree murder of Amber Dubois, and an assault with intent to commit rape against another female jogger in the same Rancho Bernardo area in December 2009. In exchange, prosecutors agreed not to seek the death penalty. District Attorney Bonnie Dumanis said the office had strong evidence in King's case but that Amber Dubois's family had sought answers and the recovery of her remains.",
+      "On May 14, 2010, San Diego Superior Court Judge David Danielsen sentenced Gardner to multiple terms of life in prison without the possibility of parole for the two murders, plus additional years for the assault and prior convictions. King's family and Dubois's family delivered victim impact statements at the hearing. Gardner has remained incarcerated in the California prison system since his sentencing.",
+      "The case prompted a significant change in California law. Chelsea King's parents, Brent and Kelly King, campaigned for tougher measures against violent sex offenders. The resulting legislation, known as Chelsea's Law, was authored by Assemblyman Nathan Fletcher and signed by Governor Arnold Schwarzenegger on September 9, 2010. The law created a one-strike life-without-parole sentence for certain aggravated sex crimes against children, increased penalties and parole supervision for other offenders, and imposed restrictions such as barring some paroled offenders from parks where children gather. The murders of Chelsea King and Amber Dubois remain among the most closely followed criminal cases in San Diego County history, and Gardner's convictions are settled matters of record."
+    ],
+    "timeline": [
+      {
+        "date": "2009-02-13",
+        "event": "Amber Dubois, 14, disappears while walking to Escondido High School; the case remains unsolved for a year."
+      },
+      {
+        "date": "2010-02-25",
+        "event": "Chelsea King, 17, goes for a run at Rancho Bernardo Community Park near Lake Hodges and does not return; she is reported missing that evening."
+      },
+      {
+        "date": "2010-02-28",
+        "event": "John Albert Gardner III, a registered sex offender, is arrested after his DNA matches evidence recovered from King's discarded clothing."
+      },
+      {
+        "date": "2010-03-02",
+        "event": "Chelsea King's body is found buried in a shallow grave near Lake Hodges, five days after she disappeared."
+      },
+      {
+        "date": "2010-03-06",
+        "event": "Amber Dubois's remains are recovered near the Pala Indian Reservation after Gardner provides information about the location."
+      },
+      {
+        "date": "2010-04-16",
+        "event": "Gardner pleads guilty to the murder and rape of Chelsea King, the murder of Amber Dubois, and a separate assault with intent to rape, under a deal that removes the death penalty."
+      },
+      {
+        "date": "2010-05-14",
+        "event": "Judge David Danielsen sentences Gardner to life in prison without the possibility of parole for the two murders, plus additional prison terms."
+      },
+      {
+        "date": "2010-09-09",
+        "event": "Governor Arnold Schwarzenegger signs Chelsea's Law, toughening sentencing and supervision for violent sex offenders against children."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "kyron-horman",
@@ -14786,18 +15635,84 @@
     ],
     "sources": [
       {
-        "title": "Disappearance of Kyron Horman — Wikipedia",
+        "title": "Disappearance of Kyron Horman - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Disappearance_of_Kyron_Horman"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Kyron Horman - Multnomah County Sheriff's Office (Open/Unsolved Cases)",
+        "url": "https://www.mcso.us/open-unsolved-cases/kyron-horman"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Kyron Horman's mom drops civil suit against stepmom - KREM",
+        "url": "https://www.krem.com/article/news/kyron-hormans-mom-drops-civil-suit-against-stepmom/293-168570388"
+      },
+      {
+        "title": "Judge calls stepmother 'prime suspect' in Kyron Horman case - KING 5",
+        "url": "https://www.king5.com/article/news/judge-calls-stepmother-prime-suspect-in-kyron-horman-case/281-307856479"
+      },
+      {
+        "title": "Kyron Horman case: 16 years later, investigators use new technology to find leads - KPTV",
+        "url": "https://www.kptv.com/2026/06/04/kyron-horman-case-16-years-later-investigators-use-new-technology-find-leads/"
+      },
+      {
+        "title": "Kyron Horman - KGW.com case coverage",
+        "url": "https://www.kgw.com/kyron"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of June 4, 2010, seven-year-old Kyron Richard Horman attended a science fair at Skyline Elementary School in Portland, Oregon, where he presented a project about red-eyed tree frogs. His stepmother, Terri Horman, told investigators she dropped him off and last saw him around 8:45 a.m. walking toward his classroom. Kyron never arrived at class, but his absence went unnoticed for hours. It was not until he failed to step off the school bus that afternoon that his family and school realized he was missing, and Terri Horman reported him missing to authorities. Kyron has never been found.",
+      "The disappearance triggered what the Multnomah County Sheriff's Office has described as the largest single search effort in Oregon history. Local, county, state, and federal agencies, including the FBI and the National Center for Missing and Exploited Children, joined the search, which combed the wooded, rural terrain around the hilltop school. By late 2010, officials reported the investigation had generated thousands of tips and cost well over a million dollars. Despite the scale of the effort, no trace of Kyron and no clear evidence of what happened to him has been publicly confirmed.",
+      "Investigative attention came to focus publicly on Terri Horman, with authorities and later a judge citing what they characterized as inconsistencies in her account. In June 2010, Kyron's father, Kaine Horman, filed for divorce and obtained a restraining order after investigators relayed an allegation that Terri had earlier sought to hire a landscaper to kill him, an allegation for which she was never charged. It is essential to note that Terri Horman has never been charged with any crime in connection with Kyron's disappearance, has consistently denied any involvement, and has publicly maintained that Kyron was taken by an unknown person. No court has found her responsible.",
+      "In June 2012, Kyron's biological mother, Desiree Young, filed a $10 million civil suit against Terri Horman, alleging that she was involved in the boy's disappearance and seeking to compel information about his whereabouts. Young voluntarily dropped that civil suit in 2013, saying she did not want it to interfere with the ongoing criminal investigation. The civil action never resulted in any legal finding of liability against Terri Horman.",
+      "More than a decade and a half later, the case remains open and unsolved. The Multnomah County Sheriff's Office continues to list Kyron Horman among its open, unsolved cases, with a $50,000 reward offered for information that resolves the case. In recent years, investigators say they have digitized thousands of pages of case files and are applying new technology in hopes of generating fresh leads. As of 2026, Kyron's whereabouts remain unknown and no one has been charged."
+    ],
+    "timeline": [
+      {
+        "date": "2010-06-04",
+        "event": "Seven-year-old Kyron Horman attends a science fair at Skyline Elementary School in Portland, Oregon; his stepmother says she last saw him around 8:45 a.m. walking toward his classroom."
+      },
+      {
+        "date": "2010-06-04",
+        "event": "Kyron does not return home on the school bus that afternoon; his family and school realize he is missing and report it to police, launching an immediate search."
+      },
+      {
+        "date": "2010-06-28",
+        "event": "Kyron's father, Kaine Horman, files for divorce and obtains a restraining order against Terri Horman after investigators relay an alleged earlier murder-for-hire plot; Terri Horman was never charged over the allegation and has denied it."
+      },
+      {
+        "date": "2010-07-01",
+        "event": "The reward for information is raised from $25,000 to $50,000 as the search continues."
+      },
+      {
+        "date": "2010-08-01",
+        "event": "A grand jury begins hearing testimony in the case, with family members and school staff among those reported to appear."
+      },
+      {
+        "date": "2010-12-01",
+        "event": "Officials report the search effort had generated thousands of tips and cost more than $1 million, with no trace of Kyron found."
+      },
+      {
+        "date": "2012-06-01",
+        "event": "Kyron's biological mother, Desiree Young, files a $10 million civil suit against Terri Horman seeking information about the boy; Terri Horman denies involvement."
+      },
+      {
+        "date": "2013-07-30",
+        "event": "Desiree Young voluntarily drops the civil suit, saying she does not want it to interfere with the ongoing criminal investigation; no finding of liability resulted."
+      },
+      {
+        "date": "2017-07-01",
+        "event": "Investigators conduct additional searches near Skyline Boulevard; the case is described by authorities as active and ongoing."
+      },
+      {
+        "date": "2025-06-04",
+        "event": "On the 15th anniversary, the sheriff's office reports it has digitized thousands of pages of case files and is pursuing new technology to develop leads."
+      },
+      {
+        "date": "2026-06-04",
+        "event": "Sixteen years after Kyron's disappearance, the case remains open and unsolved; no one has been charged, and a $50,000 reward remains offered."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "patricia-whitefish",
@@ -14881,14 +15796,64 @@
     ],
     "sources": [
       {
-        "title": "Murder of Yeardley Love — Wikipedia",
+        "title": "Murder of Yeardley Love - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Yeardley_Love"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "UVa. Lacrosse Killer George Huguely Sentenced to 23 Years in Prison - ABC News",
+        "url": "https://abcnews.com/US/uva-lacrosse-killer-george-huguely-sentenced-23-years/story?id=17107533"
+      },
+      {
+        "title": "Jury awards $15M in damages in death of UVA lacrosse player Yeardley Love - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/jury-awards-15m-damages-death-uva-lacrosse-player-yeardley-love-rcna27069"
+      },
+      {
+        "title": "George Huguely, former UVA lacrosse player convicted of Yeardley Love murder, has appeal denied - CBS News",
+        "url": "https://www.cbsnews.com/news/former-university-of-virginia-lacrosse-players-murder-conviction-affirmed/"
       }
-    ]
+    ],
+    "narrative": [
+      "In the early hours of May 3, 2010, 22-year-old Yeardley Love, a fourth-year student and member of the University of Virginia women's lacrosse team, was found unresponsive in her off-campus apartment in Charlottesville, Virginia. She was pronounced dead at the scene, and a medical examiner later determined she had died of blunt force trauma to the head. Love, originally from Cockeysville, Maryland, was weeks away from graduating. Within hours, Charlottesville police arrested George Wesley Huguely V, a fourth-year student and member of the UVA men's lacrosse team who had previously dated Love. He was charged with murder on May 4, 2010.",
+      "Prosecutors said Huguely, who had a documented history of alcohol-fueled aggression, had gone to Love's apartment after their on-again, off-again relationship had ended. According to trial testimony, he kicked through her bedroom door and shook her violently, her head striking a wall. Huguely's defense argued that Love's death was not intended and pointed to the possibility that a combination of factors, including her prescription medication, contributed to her death; the defense maintained the encounter did not amount to murder. Huguely also took Love's laptop computer, which formed the basis of a grand larceny charge.",
+      "After a trial in Charlottesville, a jury on February 22, 2012, found Huguely guilty of second-degree murder and grand larceny, deliberating for roughly nine hours. The jury recommended a sentence of 26 years. On August 30, 2012, Circuit Court Judge Edward Hogshire sentenced Huguely to 23 years in prison. Huguely's conviction was upheld on appeal: the Court of Appeals of Virginia affirmed the second-degree murder conviction on March 4, 2014, and the Supreme Court of Virginia declined to hear a further appeal later that year. Huguely remained incarcerated in the Virginia prison system, with a projected release date reported around 2030.",
+      "Love's death drew national attention to dating and relationship violence, particularly among young people and on college campuses. Her mother, Sharon Love, and sister, Lexie, established the One Love Foundation in her memory. The organization grew into a widely recognized nonprofit that educates students and young adults about the warning signs of unhealthy and abusive relationships, developing programs and materials used at schools and universities across the United States.",
+      "The family also pursued a civil wrongful-death claim against Huguely. That trial began in April 2022 in Charlottesville, and on May 2, 2022, a jury found Huguely liable and awarded $15 million in compensatory damages, to be divided between Sharon Love and Lexie Love Hodges. The verdict, coming twelve years after Love's death, was described by the family as bringing a measure of closure. Huguely's criminal conviction stands, and the case remains one of the most prominent examples cited in discussions of intimate-partner violence awareness in the United States."
+    ],
+    "timeline": [
+      {
+        "date": "2010-05-03",
+        "event": "Yeardley Love, 22, a UVA women's lacrosse player, is found dead in her Charlottesville, Virginia apartment; she died of blunt force trauma to the head."
+      },
+      {
+        "date": "2010-05-04",
+        "event": "George Huguely V, a UVA men's lacrosse player and Love's former boyfriend, is charged with murder."
+      },
+      {
+        "date": "2012-02-22",
+        "event": "A Charlottesville jury convicts Huguely of second-degree murder and grand larceny."
+      },
+      {
+        "date": "2012-08-30",
+        "event": "Huguely is sentenced to 23 years in prison."
+      },
+      {
+        "date": "2014-03-04",
+        "event": "The Court of Appeals of Virginia affirms Huguely's second-degree murder conviction."
+      },
+      {
+        "date": "2014-11-01",
+        "event": "The Supreme Court of Virginia declines to hear Huguely's further appeal, leaving the conviction in place."
+      },
+      {
+        "date": "2022-04-25",
+        "event": "A civil wrongful-death trial against Huguely begins in Charlottesville."
+      },
+      {
+        "date": "2022-05-02",
+        "event": "A jury finds Huguely liable and awards Love's family $15 million in compensatory damages."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "alexis-dehaven",
@@ -14998,14 +15963,72 @@
     ],
     "sources": [
       {
-        "title": "Murder of Holly Bobo — Wikipedia",
+        "title": "Murder of Holly Bobo - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Holly_Bobo"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Timeline Of Holly Bobo Case - NewsChannel5 Nashville",
+        "url": "https://www.newschannel5.com/news/timeline-of-holly-bobo-case"
+      },
+      {
+        "title": "Holly Bobo verdict: Zachary Adams sentenced to life in prison for 2011 slaying - CBS News",
+        "url": "https://www.cbsnews.com/news/holly-bobo-verdict-zachary-adams-sentenced-to-life-in-prison-for-2011-slaying/"
+      },
+      {
+        "title": "Zach Adams sentenced to life without parole plus 50 years for murdering Holly Bobo - WBIR",
+        "url": "https://www.wbir.com/article/news/crime/zach-adams-sentenced-to-life-without-parole-plus-50-years-for-murdering-holly-bobo/51-478095439"
+      },
+      {
+        "title": "Tennessee Appellate Court Affirms Convictions and Life Sentence in Holly Bobo Murder Case - Law&Crime",
+        "url": "https://lawandcrime.com/live-trials/live-trials-current/holly-bobo-zachary-adams/tennessee-appellate-court-affirms-convictions-and-life-sentence-in-holly-bobo-murder-case/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of April 13, 2011, 20-year-old nursing student Holly Lynn Bobo disappeared from her family's rural home in Darden, in Decatur County, Tennessee. Her brother, Clint Bobo, told investigators he saw a man in camouflage clothing walking his sister toward the woods behind the house at around 7:42 a.m.; he initially assumed the man was Holly's boyfriend. A neighbor reported hearing a scream, and bloodstains were later found in the family's carport. Holly's disappearance triggered one of the largest and longest search efforts in Tennessee history, drawing hundreds of volunteers, the Tennessee Bureau of Investigation (TBI), and the FBI. Despite extensive searches, she remained missing for more than three years.",
+      "The case broke open on September 7, 2014, when two men searching for wild ginseng discovered human skeletal remains in a wooded area of northern Decatur County, roughly 20 miles from the Bobo home. On September 8, 2014, the TBI announced that forensic analysis had confirmed the partial remains—including the skull—were those of Holly Bobo. An autopsy determined she had died from a gunshot wound to the head, and her death was ruled a homicide.",
+      "The investigation ultimately implicated several local men. Zachary Rye Adams was indicted in March 2014 on first-degree murder and especially aggravated kidnapping charges; a rape charge was later added. His brother, John Dylan Adams, and Jason Autry were also charged in connection with the case. A fourth man, Shayne Austin, was granted limited immunity early in the investigation; that immunity was later revoked, and Austin died by suicide in February 2015. The prosecution faced repeated criticism over discovery delays and disputes that briefly led the TBI to withdraw from the case before a special prosecutor was appointed.",
+      "Zachary Adams was tried in Savannah, Tennessee, after a change of venue. On September 22, 2017, following an 11-day trial, a jury found him guilty on all counts, including felony first-degree murder, especially aggravated kidnapping, and aggravated rape. The state's case relied heavily on the testimony of Jason Autry, who told jurors he had helped move Bobo's body. On September 23, 2017, Adams was sentenced to life in prison without the possibility of parole plus 50 years; under an agreement between prosecutors and the defense, he was spared a possible death sentence. Adams has continued to maintain his innocence.",
+      "The related defendants resolved their cases separately, according to court records and news reporting. In January 2018, John Dylan Adams entered an Alford plea—accepting conviction without admitting guilt—to facilitation of first-degree murder and especially aggravated kidnapping, and was sentenced to 35 years. Jason Autry, who testified against Zachary Adams as a cooperating witness, received a reduced sentence and was released around 2020. In later years, Adams pursued post-conviction relief; reporting indicates Autry recanted portions of his trial testimony in a 2024 filing, and Adams sought a new trial. As of 2025, Zachary Adams's conviction stood, having been affirmed on appeal, while post-conviction proceedings continued."
+    ],
+    "timeline": [
+      {
+        "date": "2011-04-13",
+        "event": "Holly Bobo, 20, disappears from her family's home in Darden, Decatur County, Tennessee; her brother reports seeing a man in camouflage lead her into nearby woods."
+      },
+      {
+        "date": "2014-03-05",
+        "event": "The TBI announces that a Decatur County grand jury has indicted Zachary Adams on first-degree murder and especially aggravated kidnapping charges."
+      },
+      {
+        "date": "2014-09-07",
+        "event": "Two men searching for ginseng discover human remains in wooded northern Decatur County, about 20 miles from the Bobo home."
+      },
+      {
+        "date": "2014-09-08",
+        "event": "The TBI announces that forensic analysis confirmed the partial remains are Holly Bobo's; her death is ruled a homicide by gunshot."
+      },
+      {
+        "date": "2015-02",
+        "event": "Shayne Austin, an early figure in the case who had been granted then lost immunity, dies by suicide."
+      },
+      {
+        "date": "2017-09-22",
+        "event": "After an 11-day trial in Savannah, Tennessee, a jury finds Zachary Adams guilty of first-degree felony murder, especially aggravated kidnapping, and aggravated rape."
+      },
+      {
+        "date": "2017-09-23",
+        "event": "Zachary Adams is sentenced to life in prison without parole plus 50 years, avoiding a possible death sentence under an agreement."
+      },
+      {
+        "date": "2018-01",
+        "event": "John Dylan Adams enters an Alford plea to facilitation of murder and especially aggravated kidnapping and is sentenced to 35 years."
+      },
+      {
+        "date": "2024",
+        "event": "Court filings report that cooperating witness Jason Autry recanted portions of his trial testimony as Zachary Adams sought a new trial."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jacquelyn-thomas",
@@ -15079,18 +16102,72 @@
     ],
     "sources": [
       {
-        "title": "Disappearance of Lauren Spierer — Wikipedia",
+        "title": "Disappearance of Lauren Spierer - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Disappearance_of_Lauren_Spierer"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Parents of missing college student Lauren Spierer sue 3 men last seen with her - Fox News",
+        "url": "https://www.foxnews.com/us/parents-of-missing-college-student-lauren-spierer-sue-3-men-last-seen-with-her"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "'We will never stop searching for answers': Lauren Spierer's parents share message 15 years after her disappearance - WTHR",
+        "url": "https://www.wthr.com/article/news/local/lauren-spierer-disappearance-indiana-university-iu-bloomington-police-investigation-tips/531-b3c25a6d-1a45-4a45-aa06-6f0574368492"
+      },
+      {
+        "title": "Police: 5 years later, Spierer not a 'cold case' - WRTV",
+        "url": "https://www.wrtv.com/news/local-news/bloomington-police-nearly-5-years-later-lauren-spierer-not-a-cold-case"
+      },
+      {
+        "title": "The search for Lauren Spierer (official family site)",
+        "url": "https://www.findlauren.com/"
       }
-    ]
+    ],
+    "narrative": [
+      "Lauren Elizabeth Spierer was a 20-year-old Indiana University student from Scarsdale, New York, who disappeared in the early morning hours of June 3, 2011, in Bloomington, Indiana. A textiles merchandising major, she had gone out for a night in Bloomington's downtown bar district and never returned to her Smallwood Plaza apartment. Her disappearance drew national media attention and prompted one of the largest search efforts in the region's history, but more than fifteen years later the case remains unsolved with no arrests and no charges filed against anyone.",
+      "Spierer's last-known movements have been partially reconstructed through surveillance footage and witness accounts. Around 12:30 a.m. she left her apartment and later met up with acquaintances before entering Kilroy's Sports Bar at about 1:46 a.m. Cameras recorded her leaving the bar around 2:27 a.m., having left her cell phone and shoes behind, and she was seen re-entering the Smallwood Plaza building shortly afterward. Additional footage captured her walking through nearby streets and an alley, where some of her personal items were later recovered. According to accounts given to police, she visited apartments belonging to men she knew that night. The last reported sighting was placed at roughly 4:30 a.m. near the intersection of 11th Street and College Avenue. Witnesses described her as heavily intoxicated during the evening.",
+      "The men who reported being with Spierer at various points that night were interviewed by investigators, and several were reported to have taken polygraph examinations. None of these individuals has ever been charged with any crime in connection with her disappearance, and no suspect has been publicly named by authorities. They are referenced here only as people who were present or in contact with her that night, and their cooperation or non-cooperation with the investigation has been the subject of public dispute rather than any legal finding.",
+      "The Bloomington Police Department, assisted at times by Indiana University Police and the FBI, conducted extensive searches, including a multi-day search of a landfill in August 2011, and pursued thousands of tips over the years. Investigators later examined and ruled out possible connections between Spierer's case and other Indiana crimes, including the 2015 murder of student Hannah Wilson. Despite these efforts, no physical trace of Spierer has been found, and she is widely presumed dead.",
+      "Frustrated by the lack of criminal progress, Spierer's parents, Robert and Charlene Spierer, filed a civil lawsuit in 2013 against three men who had been with their daughter that night, alleging negligence in supplying her with alcohol while intoxicated and failing to see her safely home. The claim against one defendant was dismissed in 2013, and claims against the other two were dismissed in October 2014 by a federal judge who found insufficient evidence of causation; that dismissal was upheld by a federal appeals court in 2015. As of the case's most recent anniversaries, Bloomington police have characterized the investigation as still active, continuing to receive and pursue new tips while the disappearance officially remains unsolved."
+    ],
+    "timeline": [
+      {
+        "date": "2011-06-03",
+        "event": "Lauren Spierer, 20, is last seen around 4:30 a.m. near 11th Street and College Avenue in Bloomington after a night out; surveillance had earlier recorded her at and leaving Kilroy's Sports Bar."
+      },
+      {
+        "date": "2011-06-03",
+        "event": "Spierer is reported missing later that day; Bloomington police, Indiana University Police, and volunteers launch searches of the downtown area and beyond."
+      },
+      {
+        "date": "2011-08-01",
+        "event": "Investigators conduct a multi-day search of the Sycamore Ridge Landfill area, which processes Bloomington trash, but find no trace of Spierer."
+      },
+      {
+        "date": "2013-05-01",
+        "event": "Robert and Charlene Spierer file a civil negligence lawsuit in Indiana against three men who were with their daughter that night, seeking answers and damages."
+      },
+      {
+        "date": "2013-12-01",
+        "event": "The civil claim against defendant Michael Beth is dismissed after the court finds no legal duty of care."
+      },
+      {
+        "date": "2014-10-01",
+        "event": "A federal judge dismisses the remaining civil negligence claims against Corey Rossman and Jason (Jay) Rosenbaum, citing insufficient evidence of causation."
+      },
+      {
+        "date": "2015-08-01",
+        "event": "A federal appeals court (Seventh Circuit) upholds the dismissal of the Spierer family's civil lawsuit."
+      },
+      {
+        "date": "2016-01-28",
+        "event": "The FBI searches a property near Martinsville, Indiana, using cadaver dogs and excavation, but the search yields no evidence linked to Spierer."
+      },
+      {
+        "date": "2026-06-03",
+        "event": "On the 15th anniversary of her disappearance, Bloomington police say the case remains active, reporting new tips received over the past year while it stays officially unsolved."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "leiby-kletzky",
@@ -15115,14 +16192,66 @@
     ],
     "sources": [
       {
-        "title": "Murder of Leiby Kletzky — Wikipedia",
+        "title": "Murder of Leiby Kletzky - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Leiby_Kletzky"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Levi Aron, man convicted in 2011 murder of Brooklyn boy, dies - CBS New York",
+        "url": "https://www.cbsnews.com/newyork/news/levi-aron-dies-leiby-kletzky-murder/"
+      },
+      {
+        "title": "Borough Park Shomrim Patrol, Often Called Before 911, Led Search for Boy - WNYC",
+        "url": "https://www.wnyc.org/story/146605-blog-borough-park-group-led-search-boy-delayed-nypd-response/"
+      },
+      {
+        "title": "Search Continues For Missing Brooklyn Boy Leiby Kletzky - CBS New York",
+        "url": "https://www.cbsnews.com/newyork/news/search-continues-for-missing-brooklyn-boy-leibby-kletzky/"
       }
-    ]
+    ],
+    "narrative": [
+      "On July 11, 2011, eight-year-old Leiby Kletzky disappeared while walking home from his day camp in Borough Park, a heavily Orthodox Jewish neighborhood in Brooklyn, New York. It was the first time his parents had allowed him to make the short walk alone. They had practiced the route with him the day before, arranging to meet at a designated corner. Leiby became disoriented after missing a turn and, lost, approached a stranger to ask for directions.",
+      "That stranger was Levi Aron, a 35-year-old hardware-supply clerk who lived in the nearby Kensington section of Brooklyn. Leiby got into Aron's car. When the boy failed to arrive at the meeting point, his family raised the alarm, setting off one of the largest community searches the neighborhood had ever seen.",
+      "The response was led by the Shomrim, a volunteer Orthodox Jewish neighborhood-watch patrol, alongside the New York City Police Department and the FBI. Thousands of volunteers, by some accounts up to several thousand from New York and surrounding areas, conducted a block-by-block search. A reward was offered for information. Investigators recovered surveillance footage showing Leiby walking behind a man and appearing to enter a gold-colored sedan, evidence that helped police trace the vehicle and its owner.",
+      "The search ended in tragedy. On the morning of July 13, 2011, police located Aron and found the boy's remains: part in Aron's apartment and part in a dumpster in another Brooklyn neighborhood. Aron was arrested and charged. Authorities said he had abducted and killed the child. Out of respect for the family and community, this account omits the graphic particulars, which were extensively documented at trial and in court filings.",
+      "The killing sent shockwaves through the tightly knit Orthodox community. Leiby's funeral drew thousands of mourners. The case also prompted difficult public discussion about the Shomrim's role: the group was credited with mobilizing the search quickly but was criticized because a gap of roughly two and a half hours reportedly passed before the NYPD was formally notified. Police Commissioner Raymond Kelly acknowledged the neighborhood tradition of calling the Shomrim before 911 but said he did not believe faster notification would have changed the outcome.",
+      "On August 9, 2012, Levi Aron pleaded guilty in Brooklyn Supreme Court to second-degree murder and second-degree kidnapping, avoiding a trial that the family had urged prosecutors to spare them. On August 29, 2012, Judge Neil Firetog sentenced him to 40 years to life in prison, 25 years to life for the murder charge and 15 years to life for the kidnapping charge.",
+      "Aron served his sentence at Wende Correctional Facility in upstate New York. He had been hospitalized since late August 2025, and the state corrections department said his death was expected. He died in early December 2025 at a hospital in Erie County at the age of 49. The case remains closed by way of his conviction, and it left a lasting mark on the Borough Park community and on public conversations about child safety."
+    ],
+    "timeline": [
+      {
+        "date": "2011-07-11",
+        "event": "Eight-year-old Leiby Kletzky disappears while walking home alone from day camp in Borough Park, Brooklyn, after becoming lost and asking a stranger for directions."
+      },
+      {
+        "date": "2011-07-11",
+        "event": "When Leiby fails to arrive at the family's meeting point, the Shomrim volunteer patrol, NYPD, and FBI launch a large community search; the NYPD is notified roughly two and a half hours after he goes missing."
+      },
+      {
+        "date": "2011-07-12",
+        "event": "Surveillance footage released to the public shows Leiby walking behind a man and apparently getting into a gold-colored sedan, helping investigators identify a suspect."
+      },
+      {
+        "date": "2011-07-13",
+        "event": "Police locate 35-year-old Levi Aron and find Leiby's remains; Aron is arrested and charged with the kidnapping and murder."
+      },
+      {
+        "date": "2011-07-14",
+        "event": "Thousands of mourners attend Leiby Kletzky's funeral in Brooklyn."
+      },
+      {
+        "date": "2012-08-09",
+        "event": "Levi Aron pleads guilty in Brooklyn Supreme Court to second-degree murder and second-degree kidnapping, sparing the family a trial."
+      },
+      {
+        "date": "2012-08-29",
+        "event": "Judge Neil Firetog sentences Aron to 40 years to life in prison (25 years to life for murder and 15 years to life for kidnapping)."
+      },
+      {
+        "date": "2025-12",
+        "event": "Levi Aron dies at age 49 at a hospital in Erie County, New York, while serving his sentence at Wende Correctional Facility."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "lisa-irwin",
@@ -15256,14 +16385,88 @@
     ],
     "sources": [
       {
-        "title": "Killing of Faith Hedgepeth — Wikipedia",
+        "title": "Chapel Hill police announce arrest in murder of Faith Hedgepeth - ABC11 Raleigh-Durham",
+        "url": "https://abc11.com/post/faith-hedgepeth-miguel-update-salguero-olivares-chapel-hill-police/11025184/"
+      },
+      {
+        "title": "Court documents reveal how investigators linked suspect in Faith Hedgepeth's murder - ABC11",
+        "url": "https://abc11.com/post/faith-hedgepeth-unc-student-murder-miguel-enrique-salguero-olivares-arrest/11505546/"
+      },
+      {
+        "title": "Miguel Olivares accused of killing UNC Chapel Hill student gets a trial date 13 years after her death - ABC11",
+        "url": "https://abc11.com/post/faith-hedgepeth-nc-miguel-olivares-accused-killing-unc-chapel-hill-student-gets-trial-date-13-years-death/18121717/"
+      },
+      {
+        "title": "UNC student Faith Hedgepeth murder case is one step closer to trial - WRAL.com",
+        "url": "https://www.wral.com/news/local/court-hearing-faith-hedgepeth-jan-2025/"
+      },
+      {
+        "title": "Man charged with killing UNC sophomore Faith Hedgepeth faces new drug charges in jail - WRAL.com",
+        "url": "https://www.wral.com/news/local/man-charged-killing-unc-sophomore-faith-hedgepeth-court-new-drug-charges-july-2025/"
+      },
+      {
+        "title": "What we know about Faith Hedgepeth murder suspect Miguel Salguero-Olivares - CBS 17",
+        "url": "https://www.cbs17.com/news/local-news/orange-county-news/what-we-know-about-faith-hedgepeth-murder-suspect-miguel-salguero-olivares/"
+      },
+      {
+        "title": "Killing of Faith Hedgepeth - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Faith_Hedgepeth"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Court documents reveal how suspect was linked to Faith Hedgepeth's 2012 murder - WSOC-TV",
+        "url": "https://www.wsoctv.com/news/local/court-documents-reveal-how-suspect-was-linked-faith-hedgepeths-2012-murder/K6JRLS7AQBFKPPSX7V76C5TPLM/"
       }
-    ]
+    ],
+    "narrative": [
+      "Faith Danielle Hedgepeth was a 19-year-old sophomore at the University of North Carolina at Chapel Hill and a member of the Haliwa-Saponi Indian Tribe. On the morning of September 7, 2012, she was found bludgeoned to death in her off-campus apartment at Hawthorne at the View in Chapel Hill, North Carolina. According to investigators and later court records, she had been beaten with a bottle and, autopsy findings indicated, sexually assaulted. Her roommate reported discovering the body after returning to the apartment.",
+      "The killing launched one of North Carolina's most closely watched unsolved investigations, involving Chapel Hill police, the State Bureau of Investigation (SBI) and, later, the FBI. Investigators said a handwritten note was found near Hedgepeth's body, scrawled on a fast-food takeout bag and containing a profane, threatening message; police released an image of the note in 2014 in hopes the handwriting would generate leads. Authorities reported that they had recovered the suspected killer's DNA early on from evidence at the scene, including the note bag, a bottle and a sexual-assault kit, but for years the genetic profile did not match anyone in law-enforcement databases.",
+      "According to police, the breakthrough came through forensic genetic genealogy. Investigators said they used the DNA profile to identify distant relatives who shared genetic markers with the unknown contributor; some of those relatives were interviewed and provided DNA samples, which authorities said helped narrow the search. Police also reported that a palm print recovered from the bottle used in the attack was later matched to a suspect's left palm.",
+      "On September 16, 2021 — nine years after the killing — Chapel Hill police announced the arrest of Miguel Enrique Salguero-Olivares, then 28, of Durham, North Carolina. He was taken into custody with SBI assistance and initially charged with first-degree murder; he was later also charged with first-degree rape, first-degree burglary and first-degree sexual offense. He was denied bond. Court documents released afterward described how investigators said they linked him to the crime-scene DNA and the palm print. Salguero-Olivares has been charged only; he has not been convicted, and the allegations described by investigators remain to be tested at trial.",
+      "The case has moved slowly toward trial. Prosecutors have said the file contains more than 39,000 pages of evidence and that the state expects to call roughly 30 expert witnesses. Defense filings have raised questions about the handling of physical evidence, including a blood sample collected from a bathroom door in 2012 that Chapel Hill police reportedly said they no longer possess, and have advanced a 'third-party guilt' theory pointing toward other individuals. In a January 2025 status hearing, the Durham County district attorney moved the case out of administrative homicide status and into trial preparation. On November 6, 2025, a judge set a trial date of September 28, 2026. In mid-2025 Salguero-Olivares also faced new drug charges in jail, and in June 2026 a judge denied a prosecution request to seal future pre-trial motions from public release. As of mid-2026 the case remained pending, with Salguero-Olivares awaiting trial and presumed innocent."
+    ],
+    "timeline": [
+      {
+        "date": "2012-09-07",
+        "event": "Faith Hedgepeth, a 19-year-old UNC-Chapel Hill sophomore, is found bludgeoned to death in her off-campus Chapel Hill apartment; investigators later report she was also sexually assaulted."
+      },
+      {
+        "date": "2012-12",
+        "event": "The FBI joins Chapel Hill police and the SBI in the investigation."
+      },
+      {
+        "date": "2014",
+        "event": "Police release an image of a handwritten note found near the body, on a takeout bag bearing a profane message, seeking public help with the handwriting."
+      },
+      {
+        "date": "2021-09-16",
+        "event": "Chapel Hill police announce the arrest of Miguel Enrique Salguero-Olivares, 28, of Durham; he is charged with first-degree murder and denied bond."
+      },
+      {
+        "date": "2021-09",
+        "event": "Court documents describe how investigators say they used forensic genetic genealogy, crime-scene DNA and a palm print to identify Salguero-Olivares."
+      },
+      {
+        "date": "2025-01-16",
+        "event": "At a Durham homicide status hearing, the district attorney moves the case from administrative status into trial preparation."
+      },
+      {
+        "date": "2025-07",
+        "event": "Salguero-Olivares faces new drug charges arising from his time in jail."
+      },
+      {
+        "date": "2025-11-06",
+        "event": "A judge sets a trial date of September 28, 2026, remarking the case had gone on long enough."
+      },
+      {
+        "date": "2026-06",
+        "event": "A judge denies a prosecution request to seal future pre-trial motions from public release."
+      },
+      {
+        "date": "2026-09-28",
+        "event": "Scheduled trial date for Salguero-Olivares, who remains charged and presumed innocent."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jessica-ridgeway",
@@ -15287,14 +16490,64 @@
     ],
     "sources": [
       {
-        "title": "Murder of Jessica Ridgeway — Wikipedia",
+        "title": "Murder of Jessica Ridgeway - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Ridgeway"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Austin Sigg, Colo. teen, gets life for murder of 10-year-old Jessica Ridgeway - CBS News",
+        "url": "https://www.cbsnews.com/news/austin-sigg-colo-teen-gets-life-for-murder-of-10-year-old-jessica-ridgeway/"
+      },
+      {
+        "title": "Teen convicted of killing 10-year-old Jessica Ridgeway sentenced to life - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/teen-convicted-killing-10-year-old-jessica-ridgeway-sentenced-life-flna2D11624142"
+      },
+      {
+        "title": "Austin Sigg Pleads Guilty To Jessica Ridgeway's Murder - CBS Colorado",
+        "url": "https://www.cbsnews.com/colorado/news/austin-sigg-pleads-guilty-to-jessica-ridgeways-murder/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of October 5, 2012, 10-year-old Jessica Ridgeway left her home in Westminster, Colorado, to walk to Witt Elementary School, a route that took her toward a neighborhood park where she typically met other children. She never arrived at school. When the school notified her mother that afternoon that Jessica had been absent, the family alerted authorities, and a large-scale search quickly began across the Denver metropolitan area.",
+      "Early signs pointed to an abduction. On October 7, investigators recovered Jessica's backpack, water bottle, and eyeglasses roughly six miles from her home in Superior, Colorado. The discovery intensified fears for her safety and drew hundreds of volunteers, local police, and the FBI into the search. On October 10, 2012, human remains later identified as Jessica were found in Pattridge Park Open Space near Arvada, about nine miles from where she had disappeared. Authorities disclosed that the body had been dismembered, and the case was formally classified as a homicide.",
+      "The investigation led police to Austin Reed Sigg, a 17-year-old resident of Westminster who lived near the park where the backpack items had been found. On October 23, 2012, Sigg's mother, Mindy Sigg, called 911 to report that her son had confessed to the killing. Officers arrested Sigg at the family home that night, into the early hours of October 24. Investigators also connected Sigg to an earlier attack: on May 28, 2012, he had attempted to abduct a 22-year-old woman who was jogging near the same lake; she fought him off and reported the assault, though the case had remained unsolved at the time.",
+      "Because Sigg was under 18 at the time of the offenses, prosecutors charged him as an adult but could not seek the death penalty. On October 1, 2013, in Jefferson County District Court, Sigg pleaded guilty to all charges against him, a total of about 15 counts including first-degree murder, second-degree kidnapping, sexual assault, attempted kidnapping, and sexual exploitation of a child. During the proceedings he acknowledged responsibility for luring, killing, and dismembering Jessica.",
+      "On November 19, 2013, District Judge Stephen Munsinger sentenced Sigg. For the first-degree murder count, committed as a juvenile, he received life in prison with the possibility of parole after 40 years, reflecting U.S. Supreme Court limits on mandatory life-without-parole sentences for juveniles. The judge then imposed an additional 86 years for the remaining counts, to be served consecutively, effectively ensuring Sigg would spend the rest of his life incarcerated. Sigg remains in the custody of the Colorado Department of Corrections. The case, which shook the Denver suburbs and prompted widespread discussion of child safety, is considered closed with a conviction."
+    ],
+    "timeline": [
+      {
+        "date": "2012-05-28",
+        "event": "Austin Sigg, 17, attempts to abduct a 22-year-old woman jogging near Ketner Lake in Westminster; she escapes and reports the assault, but the case initially goes unsolved."
+      },
+      {
+        "date": "2012-10-05",
+        "event": "Jessica Ridgeway, 10, disappears while walking to Witt Elementary School in Westminster, Colorado; her mother is notified of the absence that afternoon and contacts police."
+      },
+      {
+        "date": "2012-10-07",
+        "event": "Jessica's backpack, water bottle, and eyeglasses are found in Superior, Colorado, about six miles from her home, indicating an abduction."
+      },
+      {
+        "date": "2012-10-10",
+        "event": "Remains later identified as Jessica are discovered in Pattridge Park Open Space near Arvada; the case is classified as a homicide."
+      },
+      {
+        "date": "2012-10-23",
+        "event": "Sigg's mother, Mindy Sigg, calls 911 to report that her son confessed to the killing."
+      },
+      {
+        "date": "2012-10-24",
+        "event": "Austin Sigg is arrested at his Westminster home in connection with Jessica's abduction and murder."
+      },
+      {
+        "date": "2013-10-01",
+        "event": "Sigg pleads guilty in Jefferson County District Court to all counts, including first-degree murder, kidnapping, sexual assault, and sexual exploitation of a child."
+      },
+      {
+        "date": "2013-11-19",
+        "event": "Judge Stephen Munsinger sentences Sigg to life in prison with parole eligibility after 40 years on the murder count, plus an additional 86 years for the remaining charges."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jordan-davis",
@@ -15457,14 +16710,76 @@
     ],
     "sources": [
       {
-        "title": "Death of Elisa Lam — Wikipedia",
+        "title": "Death of Elisa Lam - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Death_of_Elisa_Lam"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Death of Tourist in Hotel Water Tank Ruled Accidental Drowning - NBC Los Angeles",
+        "url": "https://www.nbclosangeles.com/news/local/tourist-cecil-hotel-water-tank-drowning-death/1972136/"
+      },
+      {
+        "title": "Elisa Lam - Death, Case & Elevator - Biography.com",
+        "url": "https://www.biography.com/crime-figure/elisa-lam"
+      },
+      {
+        "title": "Coroner Autopsy Report of Elisa Lam (Los Angeles County Department of Coroner, primary document)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autopsy_Report_of_Elisa_Lam.pdf"
       }
-    ]
+    ],
+    "narrative": [
+      "Elisa Lam (born Lam Ho-yi) was a 21-year-old Canadian student from Vancouver, British Columbia, who had attended the University of British Columbia. She had been diagnosed with bipolar disorder and depression, for which she was prescribed several medications. In January 2013 she was traveling alone along the West Coast of the United States, reaching Los Angeles on January 26 and checking into the Cecil Hotel (then also marketed as the Stay on Main) in the city's downtown on January 28. Hotel staff later described some unusual behavior, and after roommate complaints she was moved to a private room. She was last seen alive on January 31, 2013, her scheduled checkout date, when she failed to make her usual daily contact with her parents, who then alerted police.",
+      "The Los Angeles Police Department publicized the disappearance in early February and, on February 13, released roughly two and a half minutes of hotel elevator surveillance footage recorded on January 31. In the clip Lam is alone, pressing multiple buttons, stepping in and out, appearing to look or hide from something in the corridor, and gesturing with her hands. The video spread rapidly online, drawing millions of views and worldwide attention. On February 19, a maintenance worker inspecting the roof after guests complained of low water pressure and discolored water discovered Lam's body inside one of four large water tanks that supplied the hotel's rooms.",
+      "The Los Angeles County coroner ruled the death an accidental drowning, with bipolar disorder listed as a significant contributing condition. An initial autopsy on February 21 was inconclusive as to manner of death; the finalized report, released in June 2013, confirmed the accidental ruling. Investigators found no evidence of physical trauma, sexual assault, or suicide. Toxicology detected prescription medications at levels suggesting she had not been taking them as directed, along with over-the-counter products and only a trace of alcohol, but no recreational drugs. Her clothing was found floating separately in the tank, coated with a sand-like particulate.",
+      "Because the roof was described as secured and the tanks difficult to access, the case generated intense online speculation. Theories circulated tying the death to the paranormal, to a supposed \"elevator game,\" to foul play by an unidentified pursuer, or to eerie coincidences involving the hotel's grim history and even the similarly named LAM-ELISA tuberculosis test. None of these theories was ever substantiated by investigators, and authorities maintained there was no evidence of foul play. Her parents filed a wrongful-death lawsuit against the hotel in September 2013; it was dismissed, with a judge ruling the death was not foreseeable because Lam had entered an area guests were not permitted to access.",
+      "The case left a lasting cultural footprint, inspiring extensive amateur online investigation and numerous references in television, film, and music, and was the subject of the 2021 Netflix docuseries \"Crime Scene: The Vanishing at the Cecil Hotel.\" Despite the official ruling of accidental death, the unresolved questions about how Lam entered the tank have kept the case a persistent subject of public fascination and speculation. Its recorded status remains contested in popular discussion even though the coroner formally classified the manner of death as accidental."
+    ],
+    "timeline": [
+      {
+        "date": "2013-01-26",
+        "event": "Elisa Lam, traveling alone, arrives in Los Angeles as part of a West Coast trip."
+      },
+      {
+        "date": "2013-01-28",
+        "event": "Lam checks into the Cecil Hotel (Stay on Main) in downtown Los Angeles."
+      },
+      {
+        "date": "2013-01-31",
+        "event": "Lam is last seen alive on her scheduled checkout date; she fails to make her daily contact with her parents."
+      },
+      {
+        "date": "2013-02-06",
+        "event": "The LAPD publicizes Lam's disappearance, seeking help to find her."
+      },
+      {
+        "date": "2013-02-13",
+        "event": "Police release elevator surveillance footage from January 31 showing Lam behaving erratically; the video goes viral."
+      },
+      {
+        "date": "2013-02-19",
+        "event": "A maintenance worker finds Lam's body in a rooftop water tank after guests report low water pressure."
+      },
+      {
+        "date": "2013-02-21",
+        "event": "An initial autopsy is performed but is inconclusive as to manner of death; a preliminary accidental-drowning finding is reported."
+      },
+      {
+        "date": "2013-06-20",
+        "event": "The finalized coroner's report rules the death an accidental drowning, with bipolar disorder a significant contributing factor and no evidence of foul play."
+      },
+      {
+        "date": "2013-09-01",
+        "event": "Lam's parents file a wrongful-death lawsuit against the hotel."
+      },
+      {
+        "date": "2015-01-01",
+        "event": "The wrongful-death lawsuit is dismissed, the court finding the death was not foreseeable."
+      },
+      {
+        "date": "2021-02-10",
+        "event": "Netflix releases the docuseries 'Crime Scene: The Vanishing at the Cecil Hotel,' renewing public attention on the case."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "hanna-harris",
@@ -15574,14 +16889,64 @@
     ],
     "sources": [
       {
-        "title": "Killing of Eric Garner — Wikipedia",
+        "title": "Killing of Eric Garner - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Eric_Garner"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Grand Jury Declines to Indict NYPD Officer in Eric Garner Chokehold Death - NBC New York",
+        "url": "https://www.nbcnewyork.com/news/local/grand-jury-decision-eric-garner-staten-island-chokehold-death-nypd/1427980/"
+      },
+      {
+        "title": "Decision not to charge NYPD officer in Eric Garner case exposes DOJ divide - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/decision-not-charge-nypd-officer-eric-garner-case-exposes-doj-n1030821"
+      },
+      {
+        "title": "Eric Garner decision: NYPD officer Daniel Pantaleo fired - NBC News",
+        "url": "https://www.nbcnews.com/think/opinion/eric-garner-decision-nypd-officer-daniel-pantaleo-fired-justice-still-ncna1043926"
+      },
+      {
+        "title": "Five years of Eric Garner and Daniel Pantaleo proceedings - City & State New York",
+        "url": "https://www.cityandstateny.com/policy/2019/08/five-years-of-eric-garner-and-daniel-pantaleo-proceedings/177150/"
       }
-    ]
+    ],
+    "narrative": [
+      "On July 17, 2014, Eric Garner, a 43-year-old Black man, died in the Tompkinsville neighborhood of Staten Island, New York, during an encounter with the New York City Police Department. Officers had approached Garner on suspicion of selling untaxed loose cigarettes. As officers moved to arrest him, Officer Daniel Pantaleo placed his arm around Garner's neck and pulled him to the ground, where several officers restrained him. Bystander video, which circulated widely, recorded Garner repeatedly saying 'I can't breathe' while held face down on the sidewalk; the phrase became a rallying cry for subsequent protests against police use of force. Garner lost consciousness and was pronounced dead at a hospital.",
+      "On August 1, 2014, the New York City Office of the Chief Medical Examiner ruled the death a homicide, attributing it to 'compression of neck, compression of chest and prone positioning during physical restraint by police,' with acute and chronic bronchial asthma, obesity, and hypertensive cardiovascular disease listed as contributing conditions. The maneuver Pantaleo used was described by the medical examiner and later officials as a chokehold, a tactic prohibited by NYPD patrol guidelines. Pantaleo and other officers disputed characterizations of the hold and maintained the restraint was a permissible takedown technique.",
+      "A Richmond County (Staten Island) grand jury heard evidence beginning in September 2014, and on December 3, 2014, it voted not to indict Pantaleo on any state criminal charge, finding insufficient legal basis to proceed. The decision, coming shortly after a grand jury in Ferguson, Missouri declined to indict an officer in the death of Michael Brown, prompted large demonstrations in New York City and nationally. The U.S. Department of Justice announced a federal civil rights investigation the same day.",
+      "The federal inquiry continued for nearly five years. On July 16, 2019 -- one day before the statute of limitations was set to expire -- the Justice Department announced it would not bring federal civil rights charges against Pantaleo. U.S. Attorney Richard Donoghue said the evidence did not establish beyond a reasonable doubt that Pantaleo 'willfully' violated Garner's civil rights; reporting indicated Attorney General William Barr made the final decision, overruling attorneys in the Civil Rights Division who had favored prosecution. Separately, the NYPD held an internal administrative disciplinary trial. Administrative Law Judge Rosemarie Maldonado found that Pantaleo had used a banned chokehold and recommended his dismissal. On August 19, 2019, Police Commissioner James O'Neill fired Pantaleo, more than five years after Garner's death.",
+      "No criminal charges were ever filed against Pantaleo or any other officer in connection with Garner's death; the grand jury declined to indict at the state level, and federal prosecutors declined to charge. Pantaleo's removal was an administrative employment action following an NYPD disciplinary proceeding, not a criminal conviction. In July 2015, New York City settled a wrongful-death claim with Garner's family for $5.9 million without admitting liability. In June 2020, amid nationwide protests over the death of George Floyd, New York enacted the Eric Garner Anti-Chokehold Act, making it a felony for police to use chokeholds or similar restraints that cause injury or death. The case remains widely cited in debates over policing, accountability, and use of force."
+    ],
+    "timeline": [
+      {
+        "date": "2014-07-17",
+        "event": "Eric Garner dies in Staten Island after Officer Daniel Pantaleo applies a chokehold during an arrest for allegedly selling untaxed cigarettes; bystander video captures Garner saying 'I can't breathe.'"
+      },
+      {
+        "date": "2014-08-01",
+        "event": "The NYC Chief Medical Examiner rules the death a homicide caused by neck and chest compression during police restraint, with asthma, obesity, and heart disease as contributing factors."
+      },
+      {
+        "date": "2014-12-03",
+        "event": "A Staten Island grand jury declines to indict Pantaleo on state criminal charges; the U.S. Department of Justice announces a federal civil rights investigation the same day."
+      },
+      {
+        "date": "2015-07-13",
+        "event": "New York City reaches a $5.9 million settlement with Garner's family to resolve a wrongful-death claim, without admission of liability."
+      },
+      {
+        "date": "2019-07-16",
+        "event": "The U.S. Department of Justice announces it will not bring federal civil rights charges against Pantaleo, citing insufficient evidence of a willful violation."
+      },
+      {
+        "date": "2019-08-19",
+        "event": "NYPD Commissioner James O'Neill fires Pantaleo following an administrative disciplinary trial in which a judge found he used a prohibited chokehold."
+      },
+      {
+        "date": "2020-06-12",
+        "event": "New York enacts the Eric Garner Anti-Chokehold Act, criminalizing police chokeholds and similar restraints that cause injury or death."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jessica-chambers",
@@ -15667,10 +17032,64 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Killing of Michael Brown - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Michael_Brown"
+      },
+      {
+        "title": "Justice Department Announces Findings of Two Civil Rights Investigations in Ferguson, Missouri - U.S. DOJ",
+        "url": "https://www.justice.gov/archives/opa/pr/justice-department-announces-findings-two-civil-rights-investigations-ferguson-missouri"
+      },
+      {
+        "title": "DOJ Report on the Shooting Death of Michael Brown by Officer Darren Wilson (PDF)",
+        "url": "https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/doj_report_on_shooting_of_michael_brown_1.pdf"
+      },
+      {
+        "title": "No charges against officer who fatally shot Michael Brown - CBS News",
+        "url": "https://www.cbsnews.com/news/michael-brown-ferguson-police-officer-no-charges-darren-wilson/"
+      },
+      {
+        "title": "St. Louis County Prosecutor Bell Will Not Charge Darren Wilson - STLPR",
+        "url": "https://www.stlpr.org/law-order/2020-07-30/wesley-bell-will-not-charge-darren-wilson"
+      },
+      {
+        "title": "Wesley Bell announces he will not bring charges after reinvestigation into death of Michael Brown - KSDK",
+        "url": "https://www.ksdk.com/article/news/local/prosecutor-new-investigation-mike-brown-ferguson-darren-wilson/63-0fdcc4a9-b51f-4b25-a6af-11ddc1cae3b0"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of August 9, 2014, 18-year-old Michael Brown, who was Black, was fatally shot by Darren Wilson, a white Ferguson, Missouri, police officer, during a street encounter in the St. Louis suburb. According to official records, the confrontation began after Wilson, in his patrol vehicle, stopped Brown and a companion, Dorian Johnson, who were walking in the roadway. A struggle occurred at the vehicle, during which Wilson's firearm discharged. Brown then moved away from the vehicle, and Wilson pursued on foot before firing additional rounds that killed Brown. Investigators later determined that Brown was struck by multiple bullets, all entering the front of his body. Minutes earlier, Brown had been recorded on surveillance video taking merchandise from a nearby convenience store.",
+      "Accounts of the shooting's final moments diverged sharply and were never resolved in court. In his statements to investigators, Wilson said Brown had assaulted him at the vehicle, reached for his gun, and then, after fleeing, turned and moved toward him, leading Wilson to fire in what he described as self-defense. Some witnesses, including Johnson, initially described Brown as surrendering with his hands raised when he was shot, an account that gave rise to the protest slogan \"Hands up, don't shoot.\" Other witnesses offered accounts more consistent with Wilson's version. Because no one was ever charged, no jury adjudicated which account was accurate; the descriptions here reflect the differing witness statements in the investigative record and are attributed accordingly, not asserted as fact.",
+      "On November 24, 2014, St. Louis County Prosecuting Attorney Robert McCulloch announced that a grand jury had declined to return an indictment against Wilson, finding insufficient probable cause to charge him under Missouri law. The decision, and the release of grand jury materials, prompted renewed protests. On March 4, 2015, the U.S. Department of Justice issued two documents. In one, the department declined to bring federal civil rights charges against Wilson, concluding that the evidence did not establish that his use of deadly force was \"objectively unreasonable\" under the applicable federal standard and that prosecutors could not disprove his stated belief that he feared for his safety.",
+      "The department's second, separate report addressed the Ferguson Police Department as an institution. It concluded that the department and the city's municipal court engaged in a pattern or practice of conduct that violated the Constitution and federal law, finding that law-enforcement practices were shaped by a focus on generating revenue rather than public safety and that these practices both reflected and reinforced racial bias against Ferguson's Black residents. The findings led to a negotiated consent decree between the city and the federal government, approved by a court in 2016, requiring reforms to policing and the municipal court system.",
+      "Brown's death drew sustained national protests in Ferguson and elsewhere and became a catalyst for the growth of the Black Lives Matter movement and broader debate over policing and race in the United States. Brown's family pursued a civil wrongful-death lawsuit against the city, which was settled. In 2017, the family reached a settlement with Ferguson, the terms of which were kept confidential. In July 2020, St. Louis County Prosecuting Attorney Wesley Bell announced that, after a months-long re-review by his office, he would not bring state charges against Wilson, saying the evidence could not prove a crime beyond a reasonable doubt while adding that the finding did not exonerate Wilson. As of 2026, no one has been charged or convicted in connection with Brown's death, and the case remains closed at the state and federal levels."
+    ],
+    "timeline": [
+      {
+        "date": "2014-08-09",
+        "event": "Michael Brown, 18, is fatally shot by Ferguson police officer Darren Wilson during a street encounter; protests begin in Ferguson within days."
+      },
+      {
+        "date": "2014-11-24",
+        "event": "St. Louis County Prosecuting Attorney Robert McCulloch announces a grand jury declined to indict Wilson, triggering renewed protests."
+      },
+      {
+        "date": "2015-03-04",
+        "event": "The U.S. Department of Justice declines federal civil rights charges against Wilson and, in a separate report, finds a pattern of unconstitutional and racially biased practices in the Ferguson Police Department and municipal court."
+      },
+      {
+        "date": "2016-04",
+        "event": "A federal court approves a consent decree between Ferguson and the DOJ mandating reforms to policing and the municipal court."
+      },
+      {
+        "date": "2017-06",
+        "event": "Brown's family settles its civil wrongful-death lawsuit against the city of Ferguson for a confidential amount."
+      },
+      {
+        "date": "2020-07-30",
+        "event": "St. Louis County Prosecuting Attorney Wesley Bell announces that a re-investigation will bring no state charges against Wilson, stating the evidence cannot prove a crime beyond a reasonable doubt but does not exonerate him."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "tamir-rice",
@@ -15697,14 +17116,76 @@
     ],
     "sources": [
       {
-        "title": "Killing of Tamir Rice — Wikipedia",
+        "title": "Killing of Tamir Rice - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Tamir_Rice"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Justice Department Declines To Prosecute Cleveland Officers In Death Of Tamir Rice - NPR",
+        "url": "https://www.npr.org/2020/12/29/951277146/justice-department-declines-to-prosecute-cleveland-officers-who-killed-tamir-ric"
+      },
+      {
+        "title": "Justice Department Announces Closing of Investigation into 2014 Officer-Involved Shooting in Cleveland, Ohio - U.S. DOJ",
+        "url": "https://www.justice.gov/archives/opa/pr/justice-department-announces-closing-investigation-2014-officer-involved-shooting-cleveland"
+      },
+      {
+        "title": "Grand Jury Declines to Indict Officers in Tamir Rice Case - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/grand-jury-declines-indict-officers-tamir-rice-case-n486876"
+      },
+      {
+        "title": "Tamir Rice grand jury declines to charge officers - CBS News",
+        "url": "https://www.cbsnews.com/news/tamir-rice-grand-jury-lets-cops-off-without-charges/"
+      },
+      {
+        "title": "U.S. Justice Department declines charges against officers in Tamir Rice case - PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/u-s-justice-department-declines-charges-against-officers-in-tamir-rice-case"
       }
-    ]
+    ],
+    "narrative": [
+      "On November 22, 2014, Tamir Rice, a 12-year-old boy, was fatally shot by a Cleveland Division of Police officer at Cudell Recreation Center in Cleveland, Ohio. Tamir had been playing with an airsoft-style pellet gun that lacked the orange safety marking that distinguishes replica firearms from real ones. A 911 caller reported a person pointing a gun at people in the park and twice told the call-taker the gun was \"probably fake\" and that the person was \"probably a juvenile.\" According to official accounts, the call-taker did not relay those qualifying details to the responding officers, Timothy Loehmann and Frank Garmback, who were dispatched to a person with a gun.",
+      "Surveillance video, released by police on November 26, 2014, showed that Loehmann shot Tamir within roughly two seconds of the patrol car arriving on scene. Tamir was struck in the torso and died of his injuries the following day, November 23, 2014, at MetroHealth Medical Center. The rapid sequence of events, the officers' near-immediate use of deadly force, and the fact that Tamir was a child with a toy made the case a national focal point during a period of intense national debate over police use of force.",
+      "The investigation was presented to a Cuyahoga County grand jury by prosecutor Timothy McGinty. On December 28, 2015, the grand jury declined to indict either officer on any criminal charges. McGinty described the shooting as the product of what he called a \"perfect storm of human error, mistakes, and communications,\" and said the evidence did not support a finding of criminal conduct; he also faulted police radio personnel for not passing along the caller's qualifications. No officer was charged criminally in the shooting at the state level. Critics, including the Rice family, contested McGinty's handling of the grand jury process.",
+      "The U.S. Department of Justice conducted a separate federal civil-rights review. On December 29, 2020, the DOJ announced it was closing its investigation without charges, stating that career prosecutors found insufficient evidence to prove beyond a reasonable doubt that either officer willfully violated Tamir's federal civil rights under the applicable statute, and citing, in part, the poor quality of the available video. No individual was ever criminally charged in Tamir Rice's death by either state or federal authorities.",
+      "Separately, in April 2016, the City of Cleveland settled a wrongful-death lawsuit brought by Tamir's family for $6 million, without any admission of wrongdoing. In May 2017, the Cleveland Division of Police fired Loehmann, citing not the shooting itself but inaccuracies and omissions in his employment application regarding his prior tenure at another department, where he had been deemed unfit for duty. Loehmann was subsequently offered or hired for policing roles in several small communities, including brief, short-lived stints in Bellaire, Ohio (2018), Tioga, Pennsylvania (2022), and jobs in West Virginia, each of which ended within days amid public objection. The case remains closed with no conviction of any person."
+    ],
+    "timeline": [
+      {
+        "date": "2014-11-22",
+        "event": "Tamir Rice, 12, is shot by Cleveland officer Timothy Loehmann at Cudell Recreation Center seconds after officers arrive; Tamir was carrying a toy airsoft pellet gun. A 911 caller had said the gun was 'probably fake' and the person 'probably a juvenile,' but the details were not relayed to officers."
+      },
+      {
+        "date": "2014-11-23",
+        "event": "Tamir Rice dies of his gunshot wound at MetroHealth Medical Center."
+      },
+      {
+        "date": "2014-11-26",
+        "event": "Cleveland police release surveillance video of the shooting."
+      },
+      {
+        "date": "2015-12-28",
+        "event": "A Cuyahoga County grand jury declines to indict officers Loehmann and Garmback; prosecutor Timothy McGinty announces no criminal charges."
+      },
+      {
+        "date": "2016-04-25",
+        "event": "The City of Cleveland settles the Rice family's wrongful-death lawsuit for $6 million, with no admission of wrongdoing."
+      },
+      {
+        "date": "2017-05-30",
+        "event": "The Cleveland Division of Police fires Timothy Loehmann, citing omissions and inaccuracies in his job application, not the shooting itself."
+      },
+      {
+        "date": "2018-10-05",
+        "event": "Loehmann is hired as a part-time officer in Bellaire, Ohio, but withdraws days later amid public opposition."
+      },
+      {
+        "date": "2020-12-29",
+        "event": "The U.S. Department of Justice closes its federal civil-rights investigation without charges, citing insufficient evidence to prove a willful violation and poor video quality."
+      },
+      {
+        "date": "2022-07-01",
+        "event": "Loehmann resigns from a police position in Tioga, Pennsylvania, after less than a week following public backlash."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "victoria-santos",
@@ -15935,10 +17416,73 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Killing of Missy Bevers - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Missy_Bevers"
+      },
+      {
+        "title": "Missy Bevers' 2016 Midlothian murder remains unsolved 10 years later - CBS Texas",
+        "url": "https://www.cbsnews.com/texas/news/missy-bevers-murder-ten-years-unsolved-midlothian-investigation/"
+      },
+      {
+        "title": "Missy Bevers Murder: 10 years since unsolved Midlothian church killing - FOX 4 Dallas-Fort Worth",
+        "url": "https://www.fox4news.com/news/missy-bevers-murder-10-years-since-unsolved-midlothian-church-killing"
+      },
+      {
+        "title": "8 years since Missy Bevers' murder: Everything we know about the North Texas case - WFAA",
+        "url": "https://www.wfaa.com/article/news/crime/missy-bevers-murder-investigation-midlothian-texas-police-suspects-leads/287-9de8d7d7-6684-4cb0-9f5f-57bc10847b26"
+      },
+      {
+        "title": "10 years later, Midlothian police say Missy Bevers murder case remains active - KWTX",
+        "url": "https://www.kwtx.com/2026/04/15/10-years-later-midlothian-police-say-missy-bevers-murder-case-remains-active/"
       }
-    ]
+    ],
+    "narrative": [
+      "Terri Leann 'Missy' Bevers was a 45-year-old fitness instructor, wife, and mother of three from Midlothian, Texas, who taught early-morning Camp Gladiator boot-camp classes. On the evening of April 17, 2016, with severe thunderstorms forecast, she told her students that the next morning's session would be held indoors at Creekside Church of Christ in Midlothian rather than outside.",
+      "In the pre-dawn hours of April 18, 2016, Bevers arrived at the church to set up for the class. Surveillance video timestamps show her entering at about 4:18 a.m. and beginning to carry exercise equipment inside. Shortly after 5:00 a.m., a student who came for the workout discovered her body inside the building. Bevers had died from multiple puncture wounds to her head and chest; a hammer and other tools were reported near the scene.",
+      "The case drew international attention because of the church's own security footage, which police later released publicly. The video captured an unidentified figure dressed head to toe in what appeared to be police-style tactical or 'SWAT' gear, including a vest marked 'POLICE,' a helmet, and gloves. For roughly 20 to 30 minutes before Bevers arrived, the figure walked slowly through the church hallways, breaking glass and prying open doors with a tool. The person's deliberate, awkward movements and distinctive gait became a focal point of public speculation.",
+      "Investigators initially treated the killing as a possible burglary but found that Bevers' purse, iPad, and other valuables were left behind, leading them to conclude the scene may have been staged and that she may have been specifically targeted. Police consulted an FBI-affiliated forensic podiatrist, Dr. Michael Nirenberg, who studied the suspect's 'out-toed' walking gait; analysts estimated the figure stood roughly 5-foot-8. Authorities first described the suspect as likely male but later said the person's sex could not be determined with certainty.",
+      "Detectives pursued numerous leads. They examined a Nissan Altima seen circling near the church around 2 a.m. that morning, though the driver was never identified or definitively linked to the crime. Family members, including Bevers' husband Brandon Bevers and his father, were looked at and reported alibis placing them out of state; police have publicly said no one has been ruled out. Bevers had also reported receiving unsettling online messages before her death, and investigators followed digital and tip-based leads.",
+      "No one has ever been arrested or charged. The Midlothian Police Department, working with the Texas Department of Public Safety, Texas Rangers, the Ellis County District Attorney's Office, and federal agencies, says the homicide remains an active investigation. As of the April 2026 ten-year anniversary, the department reported having received more than 3,000 tips over the years, said it continues to apply new forensic technology, and reiterated that no potential suspect has been eliminated. Friends and advocates have held awareness events and produced podcasts to keep the unsolved case in the public eye. All individuals discussed publicly in connection with the case remain uncharged, and none has been accused of wrongdoing."
+    ],
+    "timeline": [
+      {
+        "date": "1970-08-09",
+        "event": "Terri Leann 'Missy' Bevers (née Strickland) is born in Graham, Texas."
+      },
+      {
+        "date": "2016-04-17",
+        "event": "Amid severe weather forecasts, Bevers tells her Camp Gladiator students the next morning's class will be held inside Creekside Church of Christ in Midlothian."
+      },
+      {
+        "date": "2016-04-18",
+        "event": "Surveillance footage captures a figure in police-style tactical gear roaming the church and breaking in before dawn; Bevers enters around 4:18 a.m., and a student finds her body shortly after 5:00 a.m. She died of multiple puncture wounds to the head and chest."
+      },
+      {
+        "date": "2016-05-01",
+        "event": "Police release images of a Nissan Altima seen driving suspiciously near the church around 2 a.m. and raise the reward; the driver is never identified."
+      },
+      {
+        "date": "2016-10-01",
+        "event": "The reward for information in the case is increased to $50,000."
+      },
+      {
+        "date": "2016-12-01",
+        "event": "Additional surveillance footage of the vehicle of interest circling the area is publicized."
+      },
+      {
+        "date": "2021-01-01",
+        "event": "The reward for information leading to an arrest is reported at $150,000."
+      },
+      {
+        "date": "2023-04-18",
+        "event": "On the seventh anniversary, police reaffirm the case is active and unsolved with no arrests."
+      },
+      {
+        "date": "2026-04-18",
+        "event": "On the tenth anniversary, Midlothian police say the case remains active, report more than 3,000 tips received over the years, cite new forensic technology, and state no one has been ruled out."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "brandi-worley",
@@ -16181,10 +17725,68 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Watts family murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Watts_family_murders"
+      },
+      {
+        "title": "Chris Watts murder case: Everything we know - Denver7",
+        "url": "https://www.denver7.com/news/chris-watts-case/chris-watts-murder-case-everything-we-know-so-far-about-the-deaths-of-his-wife-daughters"
+      },
+      {
+        "title": "Christopher Watts sentenced to life in prison for killing his pregnant wife and young daughters - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/colorado-dad-christopher-watts-sentenced-life-prison-killing-his-pregnant-n937931"
+      },
+      {
+        "title": "Watts family murders - EBSCO Research Starters",
+        "url": "https://www.ebsco.com/research-starters/law/watts-family-murders"
+      },
+      {
+        "title": "Chris Watts Sentenced To 5 Life Sentences Without Parole - Patch (Broomfield, CO)",
+        "url": "https://patch.com/colorado/broomfield/chris-watts-be-sentenced-life-prison"
       }
-    ]
+    ],
+    "narrative": [
+      "In the early hours of August 13, 2018, in the Denver suburb of Frederick, Colorado, Christopher Lee Watts murdered his family inside their home. His wife, 34-year-old Shanann Watts, was 15 weeks pregnant with a son the couple planned to name Nico. Their two daughters, Bella Marie, 4, and Celeste \"CeCe\" Cathryn, 3, were also killed. Shanann had returned from a work trip to Arizona around 2 a.m. that morning; within hours she and the children were dead. Watts strangled Shanann and smothered the two girls before transporting the bodies to a rural oil-and-gas site operated by Anadarko Petroleum, where he worked.",
+      "Shanann was reported missing later that day after she failed to appear at a scheduled obstetrics appointment and did not answer calls from a concerned friend, who requested a welfare check. Over the following two days, Watts publicly presented himself as a distraught husband and father searching for his family. On August 14 he gave televised interviews to Denver stations, including Denver7 and 9NEWS, standing outside the family home and appealing for their return: \"Shanann, Bella, Celeste: If you're out there, just come back.\" The FBI and Colorado Bureau of Investigation joined the search as the case drew national attention.",
+      "The investigation quickly turned toward Watts himself. After failing a polygraph examination, he was interviewed by detectives and, on August 15, 2018, admitted involvement in the deaths and was arrested. He initially claimed he had killed Shanann in a rage after seeing her harm the children, but investigators rejected that account. Acting on information from Watts, authorities located the bodies at the Anadarko site: Shanann was buried in a shallow grave, while Bella and Celeste had been placed inside separate crude-oil storage tanks, each with an opening only about eight inches wide. Watts was fired from his job the same day and formally charged on August 20 with multiple counts of first-degree murder, unlawful termination of a pregnancy, and tampering with human remains.",
+      "On November 6, 2018, Christopher Watts pleaded guilty to five counts of first-degree murder, one count of unlawful termination of a pregnancy, and three counts of tampering with a deceased human body. The plea agreement removed the death penalty from consideration, a resolution reached with the support of Shanann's family, who did not wish to pursue capital punishment. This is an established fact: Watts admitted guilt and was convicted.",
+      "On November 19, 2018, Weld County District Court Judge Marcelo Kopcow sentenced Watts to five life sentences without the possibility of parole, three of them to run consecutively, plus additional decades for the tampering and pregnancy-termination charges. In his statement to the court, Watts offered no clear explanation for the killings; investigators pointed to his relationship with a coworker and a desire to escape his marriage as apparent motives. Watts was transferred out of Colorado to a facility in Wisconsin for his safety. As of 2026 he remains incarcerated, serving his life sentences with no possibility of release."
+    ],
+    "timeline": [
+      {
+        "date": "2018-08-13",
+        "event": "Christopher Watts murders his pregnant wife Shanann (34) and daughters Bella (4) and Celeste (3) at their Frederick, Colorado home; Shanann is reported missing after skipping a prenatal appointment."
+      },
+      {
+        "date": "2018-08-14",
+        "event": "Watts gives televised interviews to Denver news stations appealing for his family's return as the FBI and Colorado Bureau of Investigation join the search."
+      },
+      {
+        "date": "2018-08-15",
+        "event": "After failing a polygraph and being questioned, Watts admits involvement, is arrested, and is fired from Anadarko Petroleum."
+      },
+      {
+        "date": "2018-08-16",
+        "event": "Investigators recover the bodies at the Anadarko oil site: Shanann in a shallow grave and the two girls inside separate crude-oil storage tanks."
+      },
+      {
+        "date": "2018-08-20",
+        "event": "Watts is formally charged with multiple counts of first-degree murder, unlawful termination of a pregnancy, and tampering with human remains."
+      },
+      {
+        "date": "2018-08-21",
+        "event": "Watts waives his right to a preliminary hearing during a court appearance in Weld County."
+      },
+      {
+        "date": "2018-11-06",
+        "event": "Watts pleads guilty to five counts of first-degree murder and additional charges under an agreement that removes the death penalty at the request of Shanann's family."
+      },
+      {
+        "date": "2018-11-19",
+        "event": "Watts is sentenced to five life terms without parole (three consecutive) plus additional years; he is later transferred to a prison in Wisconsin."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "dulce-alavez",
@@ -16305,10 +17907,88 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Lori Vallow (Wikipedia)",
+        "url": "https://en.wikipedia.org/wiki/Lori_Vallow"
+      },
+      {
+        "title": "Jury finds Lori Vallow Daybell guilty of murdering 2 of her children (NPR)",
+        "url": "https://www.npr.org/2023/05/12/1175558940/lori-vallow-daybell-verdict-murder-verdict"
+      },
+      {
+        "title": "Lori Vallow Daybell is sentenced in 'zombie' murders of her 2 children in Idaho (NPR)",
+        "url": "https://www.npr.org/2023/07/31/1191058640/vallow-lori-daybell-sentence-murder-doomsday"
+      },
+      {
+        "title": "Chad Daybell found guilty of murder in deaths of two kids and first wife (NBC News)",
+        "url": "https://www.nbcnews.com/news/us-news/chad-daybell-verdict-murder-trial-rcna146076"
+      },
+      {
+        "title": "Lori Vallow Daybell receives life sentences in Arizona over murder conspiracy convictions (PBS NewsHour)",
+        "url": "https://www.pbs.org/newshour/nation/lori-vallow-daybell-receives-life-sentences-in-arizona-over-murder-conspiracy-convictions"
+      },
+      {
+        "title": "What did Lori Vallow Daybell do? A full timeline of the 'doomsday mom' case (CBS News)",
+        "url": "https://www.cbsnews.com/news/lori-vallow-chad-daybell-what-did-they-do-doomsday-mom-murders-case-timeline/"
       }
-    ]
+    ],
+    "narrative": [
+      "Tylee Ryan, 16, and her adopted brother Joshua 'JJ' Vallow, 7, were the children of Lori Vallow, a Chandler, Arizona, mother who by 2019 had embraced increasingly extreme apocalyptic beliefs adjacent to her Latter-day Saint faith. Tylee was last seen alive on September 8, 2019, during a family outing to Yellowstone National Park, and JJ was last confirmed alive around September 23, 2019, in Rexburg, Idaho, where the family had relocated. Their disappearance drew scrutiny only in late November 2019, when relatives requested a welfare check and police found the children gone; Lori and her new husband, author Chad Daybell, gave misleading accounts and then fled to Hawaii rather than cooperate.",
+      "The case became defined by the couple's 'doomsday' religious beliefs. Investigators and prosecutors described a fringe ideology in which Chad Daybell claimed prophetic authority and rated people as 'light' or 'dark,' with some individuals allegedly 'zombies' possessed by evil spirits. Lori came to view herself as an exalted figure destined to lead survivors of an anticipated end times. Both children, prosecutors argued, had been reclassified as obstacles or 'dark,' providing a religious rationale that overlapped with financial motives, including Social Security survivor benefits and life insurance.",
+      "A cluster of suspicious deaths surrounded the couple. On July 11, 2019, Lori's estranged husband, Charles Vallow, was fatally shot by Lori's brother, Alex Cox, who claimed self-defense. On October 19, 2019, Chad Daybell's first wife, Tammy Daybell, was found dead at home; initially attributed to natural causes, her death was later ruled a homicide by asphyxiation. Chad and Lori married in Hawaii on November 5, 2019, roughly two weeks after Tammy's death. Alex Cox died of natural causes in December 2019. On June 9, 2020, the children's remains were discovered buried on Chad Daybell's Idaho property; Tylee's body had been burned and dismembered, and JJ had been asphyxiated, wrapped in plastic and bound.",
+      "Lori Vallow Daybell was convicted, not merely accused. On May 12, 2023, an Idaho jury found her guilty of first-degree murder in the deaths of Tylee and JJ and of conspiracy to murder Tammy Daybell. On July 31, 2023, she was sentenced to consecutive terms of life in prison without the possibility of parole. She was subsequently extradited to Arizona, where she represented herself and was convicted on April 22, 2025, of conspiracy to murder Charles Vallow, and on June 12, 2025, of conspiracy to murder her niece's ex-husband, Brandon Boudreaux, who survived a 2019 shooting. On July 25, 2025, an Arizona judge imposed two additional life sentences.",
+      "Chad Daybell was tried separately in Idaho. On May 30, 2024, a jury convicted him of first-degree murder in the deaths of Tylee Ryan, JJ Vallow, and Tammy Daybell, along with conspiracy and grand theft/insurance-fraud counts. On June 1, 2024, he was sentenced to death. As of mid-2026, Lori Vallow Daybell is serving multiple life sentences across Idaho and Arizona, and Chad Daybell remains under a death sentence; both have pursued appeals of their convictions."
+    ],
+    "timeline": [
+      {
+        "date": "2019-07-11",
+        "event": "Charles Vallow, Lori's estranged husband, is fatally shot by Lori's brother Alex Cox in Chandler, Arizona; Cox claims self-defense."
+      },
+      {
+        "date": "2019-09-08",
+        "event": "Tylee Ryan, 16, is last seen alive during a family trip to Yellowstone National Park."
+      },
+      {
+        "date": "2019-09-23",
+        "event": "Joshua 'JJ' Vallow, 7, is last confirmed alive in Rexburg, Idaho."
+      },
+      {
+        "date": "2019-10-19",
+        "event": "Tammy Daybell, Chad Daybell's first wife, is found dead; her death is later ruled a homicide by asphyxiation."
+      },
+      {
+        "date": "2019-11-05",
+        "event": "Chad Daybell and Lori Vallow marry in Hawaii, about two weeks after Tammy Daybell's death."
+      },
+      {
+        "date": "2020-02-20",
+        "event": "Lori Vallow is arrested in Hawaii on charges related to abandoning her children."
+      },
+      {
+        "date": "2020-06-09",
+        "event": "The remains of Tylee Ryan and JJ Vallow are discovered buried on Chad Daybell's property near Rexburg, Idaho; Chad is arrested."
+      },
+      {
+        "date": "2023-05-12",
+        "event": "An Idaho jury finds Lori Vallow Daybell guilty of murdering Tylee and JJ and conspiring to murder Tammy Daybell."
+      },
+      {
+        "date": "2023-07-31",
+        "event": "Lori Vallow Daybell is sentenced in Idaho to consecutive life terms without parole."
+      },
+      {
+        "date": "2024-05-30",
+        "event": "Chad Daybell is convicted of first-degree murder in the deaths of Tylee, JJ, and Tammy Daybell, plus related charges."
+      },
+      {
+        "date": "2024-06-01",
+        "event": "Chad Daybell is sentenced to death in Idaho."
+      },
+      {
+        "date": "2025-07-25",
+        "event": "Lori Vallow Daybell is sentenced to two additional life terms in Arizona for conspiring to murder Charles Vallow and to murder Brandon Boudreaux (convictions April 22 and June 12, 2025)."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "breonna-taylor",
@@ -16335,14 +18015,84 @@
     ],
     "sources": [
       {
-        "title": "Breonna Taylor — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Breonna_Taylor"
+        "title": "Killing of Breonna Taylor - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Breonna_Taylor"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Brett Hankison trial: Former officer found not guilty of wanton endangerment - CBS News",
+        "url": "https://www.cbsnews.com/news/brett-hankison-trial-breonna-taylor-raid-not-guilty/"
+      },
+      {
+        "title": "Breonna Taylor case: Former Louisville cop Kelly Goodlett pleads guilty to federal conspiracy charge - CBS News",
+        "url": "https://www.cbsnews.com/news/kelly-goodlett-former-louisville-cop-pleads-guilty-in-breonna-taylor-case/"
+      },
+      {
+        "title": "Acquitted former officer involved in Breonna Taylor trial now faces federal charges - NPR",
+        "url": "https://www.npr.org/2023/11/09/1211949711/acquitted-former-officer-involved-in-breonna-taylor-trial-now-faces-federal-char"
+      },
+      {
+        "title": "Brett Hankison: Judge gives ex-officer nearly 3 years in Breonna Taylor raid - CNN",
+        "url": "https://www.cnn.com/2025/07/21/us/brett-hankison-sentencing-breonna-taylor"
+      },
+      {
+        "title": "Ex-officer cleared of wanton endangerment during Breonna Taylor raid - PBS News",
+        "url": "https://www.pbs.org/newshour/nation/ex-officer-cleared-of-wanton-endangerment-during-breonna-taylor-raid"
       }
-    ]
+    ],
+    "narrative": [
+      "Breonna Taylor, a 26-year-old emergency room technician, was fatally shot in her Louisville, Kentucky apartment shortly after midnight on March 13, 2020, when Louisville Metro Police Department (LMPD) officers executed a search warrant tied to a narcotics investigation into an acquaintance who did not live there. A judge had signed a warrant that included \"no-knock\" authorization, but officials later stated the officers were instructed to knock and announce before entry. Whether officers adequately identified themselves before forcing the door remains disputed: police said they knocked and announced their presence, while Taylor's boyfriend Kenneth Walker and several neighbors said they heard no announcement.",
+      "Believing intruders were breaking in, Walker, a licensed gun owner, fired a single shot that struck Sergeant Jonathan Mattingly in the leg. Three officers returned fire, discharging roughly 32 rounds; investigators determined that Detective Myles Cosgrove fired the shot that killed Taylor, who was struck multiple times. Detective Brett Hankison fired 10 rounds, several of which passed through a covered patio door and window into an adjacent occupied apartment. Walker was initially charged with attempted murder of a police officer, but the charge was later dropped.",
+      "The case drew national attention amid the 2020 protests over policing and racial justice. On June 11, 2020, the Louisville Metro Council unanimously passed \"Breonna's Law,\" banning no-knock search warrants within the city and requiring officers to use body cameras when serving warrants. In September 2020, the City of Louisville agreed to pay Taylor's estate a $12 million settlement, alongside policing reforms; the settlement did not include any admission of wrongdoing.",
+      "State criminal accountability was limited. On September 23, 2020, a Jefferson County grand jury indicted only Hankison, on three counts of first-degree wanton endangerment for the shots that entered the neighboring apartment; no officer was charged in connection with Taylor's death. Two grand jurors publicly stated that homicide charges were never presented to them for consideration. On March 3, 2022, a state jury acquitted Hankison of all three wanton-endangerment counts.",
+      "Federal prosecutions followed. On August 4, 2022, the U.S. Department of Justice announced civil-rights charges against four current and former LMPD officers, including Hankison and detectives Joshua Jaynes, Kelly Goodlett, and Kyle Meany, largely centered on allegations that the warrant affidavit contained falsified information. Goodlett pleaded guilty on August 23, 2022, to a conspiracy charge, becoming the first officer convicted in the case. Hankison's first federal trial ended in a mistrial on November 16, 2023, when jurors could not reach a verdict. At a retrial, a federal jury convicted him on November 1, 2024, of one count of violating Taylor's civil rights through excessive force, the first conviction of an officer for the raid itself. On July 21, 2025, a federal judge sentenced Hankison to 33 months (two years and nine months) in prison followed by three years of supervised release, rejecting a DOJ recommendation of no prison time. Hankison appealed the sentence in August 2025. The recorded status of \"No Conviction\" reflects that no one was convicted for causing Taylor's death itself; the officers who fired the fatal and other rounds during the raid were not charged with her killing."
+    ],
+    "timeline": [
+      {
+        "date": "2020-03-13",
+        "event": "LMPD officers execute a search warrant at Breonna Taylor's Louisville apartment; Kenneth Walker fires one shot, officers return roughly 32 rounds, and Taylor is fatally shot."
+      },
+      {
+        "date": "2020-06-11",
+        "event": "Louisville Metro Council unanimously passes 'Breonna's Law,' banning no-knock warrants and mandating body cameras when serving warrants."
+      },
+      {
+        "date": "2020-09-15",
+        "event": "City of Louisville announces a $12 million settlement with Taylor's estate, along with police reforms and no admission of wrongdoing."
+      },
+      {
+        "date": "2020-09-23",
+        "event": "A Jefferson County grand jury indicts Brett Hankison on three counts of wanton endangerment for shots fired into a neighboring apartment; no charges are brought over Taylor's death."
+      },
+      {
+        "date": "2022-03-03",
+        "event": "A Kentucky state jury acquits Hankison of all three wanton-endangerment charges."
+      },
+      {
+        "date": "2022-08-04",
+        "event": "The U.S. DOJ announces federal civil-rights charges against four current and former LMPD officers: Hankison, Joshua Jaynes, Kelly Goodlett, and Kyle Meany."
+      },
+      {
+        "date": "2022-08-23",
+        "event": "Former detective Kelly Goodlett pleads guilty to a federal conspiracy charge, becoming the first officer convicted in the case."
+      },
+      {
+        "date": "2023-11-16",
+        "event": "Hankison's first federal trial ends in a mistrial after the jury cannot reach a unanimous verdict."
+      },
+      {
+        "date": "2024-11-01",
+        "event": "A federal jury convicts Hankison of violating Taylor's civil rights through use of excessive force, the first conviction of an officer for the raid itself."
+      },
+      {
+        "date": "2025-07-21",
+        "event": "A federal judge sentences Hankison to 33 months in prison plus three years of supervised release, rejecting a DOJ recommendation of no prison time."
+      },
+      {
+        "date": "2025-08-06",
+        "event": "Hankison files an appeal of his 33-month federal sentence."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "george-floyd",
@@ -16368,14 +18118,92 @@
     ],
     "sources": [
       {
-        "title": "George Floyd — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/George_Floyd"
+        "title": "Murder of George Floyd - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_George_Floyd"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Trial of Derek Chauvin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trial_of_Derek_Chauvin"
+      },
+      {
+        "title": "Former Minneapolis Police Officer Derek Chauvin Sentenced to More Than 20 Years in Prison for Depriving George Floyd of Civil Rights - U.S. Department of Justice",
+        "url": "https://www.justice.gov/archives/opa/pr/former-minneapolis-police-officer-derek-chauvin-sentenced-more-20-years-prison-depriving"
+      },
+      {
+        "title": "Three ex-Minneapolis police officers guilty of violating George Floyd's civil rights - NPR",
+        "url": "https://www.npr.org/2022/02/24/1082643767/george-floyd-civil-rights-trial"
+      },
+      {
+        "title": "Two former police officers are sentenced for violating George Floyd's civil rights - NPR",
+        "url": "https://www.npr.org/2022/07/27/1113991207/george-floyd-civil-rights-police-sentenced"
+      },
+      {
+        "title": "Supreme Court rejects Derek Chauvin's appeal in George Floyd's killing - CNN",
+        "url": "https://www.cnn.com/2023/11/20/us/derek-chauvin-supreme-court-appeal/index.html"
+      },
+      {
+        "title": "Tou Thao: Officer who held back crowd during George Floyd's murder sentenced to over 4 years in prison - CNN",
+        "url": "https://www.cnn.com/2023/08/07/us/tou-thao-george-floyd-sentence/index.html"
       }
-    ]
+    ],
+    "narrative": [
+      "George Floyd, a 46-year-old Black man, died on May 25, 2020, during an arrest by Minneapolis police officers after a store clerk reported that he had used a suspected counterfeit $20 bill. Officers J. Alexander Kueng and Thomas Lane made initial contact with Floyd in his vehicle, and Officers Derek Chauvin and Tou Thao arrived shortly afterward. According to court records and the state's evidence, Chauvin knelt on the handcuffed and prone Floyd's neck and back area for approximately nine minutes while Floyd repeatedly stated that he could not breathe. Floyd was pronounced dead at Hennepin County Medical Center that evening. Bystander video of the encounter was widely circulated.",
+      "Hennepin County Medical Examiner Andrew Baker ruled Floyd's death a homicide, listing the cause as 'cardiopulmonary arrest complicating law enforcement subdual, restraint, and neck compression.' An independent autopsy commissioned by Floyd's family also concluded the death was a homicide. The four officers were fired the day after Floyd's death, and criminal charges followed in both Minnesota state court and federal court.",
+      "Derek Chauvin was tried in Hennepin County District Court from March 8 to April 20, 2021. On April 20, 2021, a jury convicted him of second-degree unintentional murder, third-degree murder, and second-degree manslaughter. On June 25, 2021, Judge Peter Cahill sentenced Chauvin to 22.5 years in prison. On December 15, 2021, Chauvin pleaded guilty to a federal charge of depriving Floyd of his civil rights, and on July 7, 2022, he was sentenced to 21 years in federal prison, to run concurrently with his state sentence. In November 2023, the U.S. Supreme Court declined to hear Chauvin's appeal of his state conviction.",
+      "The three other officers were also convicted in both federal and state proceedings. On February 24, 2022, a federal jury found Thao, Kueng, and Lane guilty of violating Floyd's civil rights; in July 2022 they were sentenced to 3.5 years (Thao), 3 years (Kueng), and 2.5 years (Lane) in federal prison. In state court, Thomas Lane pleaded guilty to aiding and abetting second-degree manslaughter (sentenced September 21, 2022, to 3 years); J. Alexander Kueng pleaded guilty to the same charge (sentenced December 9, 2022, to 3.5 years); and Tou Thao was found guilty by the court on a stipulated-evidence trial on May 2, 2023, and sentenced on August 7, 2023, to 4.75 years.",
+      "Floyd's death triggered mass protests across the United States and internationally in the weeks following May 25, 2020, and prompted a broad public debate over policing. Minneapolis agreed to a $27 million civil settlement with Floyd's family on March 12, 2021. Numerous jurisdictions enacted policing measures such as chokehold restrictions, and in June 2023 the U.S. Department of Justice released findings from a pattern-or-practice investigation concluding that the Minneapolis Police Department engaged in unlawful patterns of conduct including excessive force. As of 2026, all four former officers have been convicted; Chauvin remains incarcerated while pursuing further post-conviction litigation over his federal case."
+    ],
+    "timeline": [
+      {
+        "date": "2020-05-25",
+        "event": "George Floyd dies during a Minneapolis police arrest; he is pronounced dead at Hennepin County Medical Center that evening."
+      },
+      {
+        "date": "2020-05-26",
+        "event": "The four officers are fired; protests over Floyd's death begin in Minneapolis and spread nationally and internationally."
+      },
+      {
+        "date": "2020-06-01",
+        "event": "The Hennepin County Medical Examiner's office publicly rules Floyd's death a homicide caused by cardiopulmonary arrest complicating law enforcement subdual, restraint, and neck compression."
+      },
+      {
+        "date": "2021-03-12",
+        "event": "Minneapolis approves a $27 million civil settlement with George Floyd's family."
+      },
+      {
+        "date": "2021-04-20",
+        "event": "A Hennepin County jury convicts Derek Chauvin of second-degree murder, third-degree murder, and second-degree manslaughter."
+      },
+      {
+        "date": "2021-06-25",
+        "event": "Chauvin is sentenced to 22.5 years in prison on the state murder conviction."
+      },
+      {
+        "date": "2021-12-15",
+        "event": "Chauvin pleads guilty to a federal charge of depriving George Floyd of his civil rights."
+      },
+      {
+        "date": "2022-02-24",
+        "event": "A federal jury convicts Tou Thao, J. Alexander Kueng, and Thomas Lane of violating Floyd's civil rights."
+      },
+      {
+        "date": "2022-07-07",
+        "event": "Chauvin is sentenced to 21 years in federal prison, concurrent with his state sentence."
+      },
+      {
+        "date": "2022-09-21",
+        "event": "Thomas Lane is sentenced to 3 years in state court after pleading guilty to aiding and abetting second-degree manslaughter."
+      },
+      {
+        "date": "2023-08-07",
+        "event": "Tou Thao is sentenced to 4.75 years in state court after being found guilty by the court on stipulated evidence."
+      },
+      {
+        "date": "2023-11-20",
+        "event": "The U.S. Supreme Court declines to hear Derek Chauvin's appeal of his state murder conviction."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "suzanne-morphew",
@@ -16399,10 +18227,81 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Judge grants motion to dismiss charges against Barry Morphew in wife Suzanne Morphew's disappearance - CBS News",
+        "url": "https://www.cbsnews.com/news/barry-morphew-murder-charges-dismissed-suzanne-disappearance/"
+      },
+      {
+        "title": "Husband of Colorado mom Suzanne Morphew arrested for her murder for the second time - CBS Colorado",
+        "url": "https://www.cbsnews.com/colorado/news/husband-colorado-suzanne-morphew-arrested-second-time-facing-murder-charges/"
+      },
+      {
+        "title": "Barry Morphew murder trial delayed until 2027 - Denver7",
+        "url": "https://www.denver7.com/news/investigations/barry-morphew-murder-trial-delayed-until-2027"
+      },
+      {
+        "title": "Suzanne Morphew's husband to appear in court to face murder charge a second time - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/husband-suzanne-morphew-appear-court-face-murder-charge-second-time-rcna216146"
+      },
+      {
+        "title": "In Barry Morphew's latest Colorado court appearance, public interest in the case takes center stage - Colorado Public Radio",
+        "url": "https://www.cpr.org/2025/07/01/barry-morphew-first-court-appearance-wife-suzanne-murder-case/"
+      },
+      {
+        "title": "10th Circuit upholds dismissal of Barry Morphew's civil lawsuit against prosecutors, investigators - Colorado Politics",
+        "url": "https://www.coloradopolitics.com/2026/04/07/10th-circuit-upholds-dismissal-of-barry-morphews-civil-lawsuit-against-prosecutors-investigators/"
       }
-    ]
+    ],
+    "narrative": [
+      "Suzanne Morphew, a 49-year-old mother of two, was reported missing from her home near Maysville in Chaffee County, Colorado, on May 10, 2020 — Mother's Day. According to authorities, she was last known to have left for a bike ride and never returned; her bicycle and personal items were later found in separate locations, and no confirmed sighting of her was reported after that day. Her disappearance drew national attention and a prolonged multi-agency search across the mountainous terrain around Salida and the Arkansas River corridor.",
+      "Investigators with the Chaffee County Sheriff's Office and the Colorado Bureau of Investigation focused significant attention on her husband, Barry Morphew. On May 5, 2021, he was arrested and charged in connection with her death, with counts that court records described as including first-degree murder, tampering with physical evidence, and attempting to influence a public servant. Prosecutors pursued the case even though Suzanne's body had not been found. Barry Morphew denied involvement and maintained his innocence.",
+      "The first prosecution collapsed before trial. On April 19, 2022, District Attorney Linda Stanley moved to dismiss the charges, and a judge granted the dismissal without prejudice — meaning charges could be refiled later. The dismissal followed court sanctions against the prosecution: the trial judge had barred numerous prosecution expert witnesses as a penalty for repeated discovery violations, finding the state had failed to turn over required evidence on time. In her motion, Stanley cited the exclusion of key witnesses and stated investigators believed they were close to recovering Suzanne's remains and wished to continue investigating.",
+      "On September 22, 2023, human remains were located during an unrelated search near Moffat, in Saguache County, Colorado. On September 27, 2023, the El Paso County Coroner's Office positively identified the remains as those of Suzanne Morphew. Authorities subsequently ruled her death a homicide. A later autopsy report classified the cause as homicide by unspecified means and disclosed that a combination of tranquilizer drugs — butorphanol, azaperone, and medetomidine, known collectively as 'BAM' and used to sedate wildlife — was detected in her remains, according to the coroner and court filings.",
+      "On June 18, 2025, a Twelfth Judicial District grand jury returned an indictment charging Barry Morphew with first-degree murder in his wife's death. He was arrested two days later, on June 20, 2025, in Gilbert, Arizona. Prosecutors' filings noted that records showed Barry Morphew was among a limited number of people prescribed BAM in the area; his attorneys have disputed the strength of the evidence, and prosecutors' allegations remain unproven in court.",
+      "Barry Morphew pleaded not guilty in January 2026. A jury trial was scheduled to begin October 13, 2026, but in mid-2026 Judge Amanda Hopkins granted a defense continuance — the defense cited the need to review a large volume of discovery — delaying the trial into 2027 over the objection of prosecutors and Suzanne's family. As of mid-2026, Barry Morphew stands charged and awaits trial. He has not been convicted of any offense in connection with his wife's death, and the allegations against him are accusations that must still be proven; separately, a civil lawsuit he filed alleging malicious prosecution was dismissed, a ruling upheld on appeal in 2026."
+    ],
+    "timeline": [
+      {
+        "date": "2020-05-10",
+        "event": "Suzanne Morphew is reported missing from near Maysville, Chaffee County, Colorado, after reportedly leaving for a bike ride on Mother's Day; a large search follows."
+      },
+      {
+        "date": "2021-05-05",
+        "event": "Barry Morphew is arrested and charged in connection with his wife's death, including first-degree murder, though her body has not been found."
+      },
+      {
+        "date": "2022-04-19",
+        "event": "District Attorney Linda Stanley moves to dismiss the charges and a judge dismisses the case without prejudice, following sanctions that barred prosecution expert witnesses for discovery violations."
+      },
+      {
+        "date": "2023-09-22",
+        "event": "Human remains are found during a search near Moffat in Saguache County, Colorado."
+      },
+      {
+        "date": "2023-09-27",
+        "event": "The El Paso County Coroner positively identifies the remains as Suzanne Morphew's; her death is later ruled a homicide."
+      },
+      {
+        "date": "2024",
+        "event": "An autopsy report classifies the death as homicide by unspecified means and reports the wildlife tranquilizer cocktail 'BAM' (butorphanol, azaperone, medetomidine) in her remains."
+      },
+      {
+        "date": "2025-06-18",
+        "event": "A Twelfth Judicial District grand jury indicts Barry Morphew on a charge of first-degree murder."
+      },
+      {
+        "date": "2025-06-20",
+        "event": "Barry Morphew is arrested in Gilbert, Arizona on the new indictment."
+      },
+      {
+        "date": "2026-01",
+        "event": "Barry Morphew pleads not guilty; a jury trial is set for October 13, 2026."
+      },
+      {
+        "date": "2026",
+        "event": "A judge grants a defense continuance, delaying the trial into 2027; Barry Morphew remains charged and awaiting trial."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "gabby-petito",
