@@ -1064,14 +1064,85 @@
     ],
     "sources": [
       {
-        "title": "Sam Sheppard — Wikipedia",
+        "title": "Sam Sheppard - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Sam_Sheppard"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Sheppard v. Maxwell - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sheppard_v._Maxwell"
+      },
+      {
+        "title": "Sheppard Murder Case | Encyclopedia of Cleveland History, Case Western Reserve University",
+        "url": "https://case.edu/ech/articles/s/sheppard-murder-case"
+      },
+      {
+        "title": "Sheppard v. Maxwell, 384 U.S. 333 (1966) | Justia U.S. Supreme Court Center",
+        "url": "https://supreme.justia.com/cases/federal/us/384/333/"
+      },
+      {
+        "title": "Sheppard v. Maxwell (1966) | The First Amendment Encyclopedia, MTSU",
+        "url": "https://firstamendment.mtsu.edu/article/sheppard-v-maxwell/"
+      },
+      {
+        "title": "Dr. Sam Sheppard Trials: An Account | Famous Trials (Douglas O. Linder)",
+        "url": "https://famous-trials.com/sam-sheppard/2-sheppard"
       }
-    ]
+    ],
+    "narrative": [
+      "In the early morning hours of July 4, 1954, Marilyn Reese Sheppard, 31 and pregnant, was bludgeoned to death in the bedroom of her lakeside home in Bay Village, Ohio, a suburb of Cleveland. Her seven-year-old son slept in a nearby room and was unharmed. Her husband, Dr. Samuel H. Sheppard, an osteopathic physician, told investigators that he had fallen asleep on a downstairs couch, was awakened by his wife's cries, and struggled with a 'bushy-haired intruder' who knocked him unconscious both in the bedroom and later near the beach below the house. He was treated for injuries after the killing.",
+      "Suspicion quickly focused on Sheppard. Cleveland newspapers, led by the Cleveland Press and its editor Louis Seltzer, ran front-page editorials demanding his arrest and questioning why he had not been jailed. He was indicted and, after a nine-week trial conducted amid intense publicity, was convicted of second-degree murder on December 21, 1954, and sentenced to life in prison. His first defense attorney was William Corrigan.",
+      "After Corrigan's death, F. Lee Bailey took over the defense and pursued federal appeals. In Sheppard v. Maxwell, 384 U.S. 333, the U.S. Supreme Court on June 6, 1966, voted 8-1 to overturn the conviction, holding that the 'massive, pervasive and prejudicial' pretrial and trial publicity, together with the trial judge's failure to control a 'carnival atmosphere' in the courtroom, had denied Sheppard the fair trial guaranteed by the Due Process Clause of the Fourteenth Amendment. The decision became a landmark on the tension between free press and fair trial, prompting courts to adopt tools such as change of venue, jury sequestration, and gag orders.",
+      "Ohio retried Sheppard in the fall of 1966. With Bailey as counsel and reporters restricted in the courtroom, the jury deliberated about 12 hours and returned a verdict of not guilty on November 16, 1966, acquitting him. Sheppard resumed medical practice briefly and later worked as a professional wrestler. He died on April 6, 1970, at age 46; the reported cause was liver failure (Wernicke encephalopathy has also been cited).",
+      "The case is widely credited as an inspiration for the 1963-1967 television series 'The Fugitive' and its 1993 film adaptation, though its creators did not formally acknowledge it. In the 1990s, Sheppard's son, Sam Reese Sheppard, sought to clear his father's name and, in a 2000 civil suit against the State of Ohio, argued that Sheppard had been wrongfully imprisoned. The defense pointed to Richard Eberling, a window washer who had worked at the Sheppard home, as a possible alternative suspect; Eberling was later convicted in an unrelated 1984 murder and died in prison in 1998. Eberling was never charged in Marilyn Sheppard's death and denied involvement; his status as a suspect remains an attributed theory, not an adjudicated fact.",
+      "On April 12, 2000, after a lengthy civil trial, a Cuyahoga County jury rejected the wrongful-imprisonment claim. An Ohio appeals court later ruled in 2002 that the estate lacked standing to bring the claim. No one has ever been convicted of the murder, and it remains officially unsolved. The competing narratives, an innocent man convicted amid a media circus versus a guilty husband freed on a technicality, have never been legally resolved."
+    ],
+    "timeline": [
+      {
+        "date": "1954-07-04",
+        "event": "Marilyn Reese Sheppard is bludgeoned to death in her Bay Village, Ohio home; her husband, Dr. Sam Sheppard, reports a struggle with a 'bushy-haired intruder.'"
+      },
+      {
+        "date": "1954-07-30",
+        "event": "Sam Sheppard is arrested and charged in connection with his wife's murder."
+      },
+      {
+        "date": "1954-12-21",
+        "event": "After a nine-week trial marked by intense publicity, Sheppard is convicted of second-degree murder and sentenced to life in prison."
+      },
+      {
+        "date": "1966-06-06",
+        "event": "In Sheppard v. Maxwell, 384 U.S. 333, the U.S. Supreme Court votes 8-1 to overturn the conviction, citing prejudicial publicity and a 'carnival atmosphere.'"
+      },
+      {
+        "date": "1966-10-24",
+        "event": "Jury selection begins for Sheppard's retrial, with F. Lee Bailey as chief defense counsel and press access restricted."
+      },
+      {
+        "date": "1966-11-16",
+        "event": "After roughly 12 hours of deliberation, the jury acquits Sheppard of the murder of his wife."
+      },
+      {
+        "date": "1970-04-06",
+        "event": "Sam Sheppard dies at age 46; the reported cause is liver failure."
+      },
+      {
+        "date": "1997-09",
+        "event": "Sheppard's body is exhumed for DNA testing as his son pursues efforts to clear his name."
+      },
+      {
+        "date": "1998-07",
+        "event": "Richard Eberling, a former window washer at the Sheppard home named as an alternative suspect by the defense, dies in prison while serving a sentence for an unrelated 1984 murder; he was never charged in the Sheppard case."
+      },
+      {
+        "date": "2000-04-12",
+        "event": "A Cuyahoga County civil jury rejects the Sheppard estate's wrongful-imprisonment claim against the State of Ohio."
+      },
+      {
+        "date": "2002-02-22",
+        "event": "An Ohio appeals court rules the wrongful-imprisonment civil case should not have gone to the jury; the murder remains officially unsolved."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "emmett-till",
@@ -1295,10 +1366,77 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Henry Lee Lucas - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Henry_Lee_Lucas"
+      },
+      {
+        "title": "The Story of Henry Lee Lucas, the Notorious Subject of Netflix's 'The Confession Killer' - TIME",
+        "url": "https://time.com/5745028/the-confession-killer-henry-lee-lucas-netflix/"
+      },
+      {
+        "title": "Henry Lee Lucas Confessed to Hundreds of Murders But Committed Three - A&E",
+        "url": "https://www.aetv.com/articles/henry-lee-lucas-confession-killer-confessed-hundreds-murders-only-committed-three"
+      },
+      {
+        "title": "Henry Lee Lucas Claimed He Killed 600 People - Oxygen",
+        "url": "https://www.oxygen.com/true-crime-buzz/confession-killer-whos-henry-lee-lucas-how-many-did-he-kill"
+      },
+      {
+        "title": "The Twilight of the Texas Rangers - Texas Monthly",
+        "url": "https://www.texasmonthly.com/being-texan/the-twilight-of-the-texas-rangers/"
       }
-    ]
+    ],
+    "narrative": [
+      "Henry Lee Lucas (1936-2001) occupies a singular and cautionary place in American criminal history: a man who confessed to hundreds of murders across the country, most of which investigators later concluded he did not commit. Untangling his small number of confirmed killings from his vast catalogue of discredited confessions remains the central difficulty of the case, and it is why so many genuinely unsolved homicides were, for a time, wrongly closed.",
+      "Lucas's earliest documented killing was that of his mother, Viola Lucas, in Tecumseh, Michigan, in January 1960; he was convicted and served roughly a decade in prison. After his release he drifted through the South, and by the early 1980s was living in Texas with an accomplice, Ottis Toole. Following an arrest on a weapons charge in June 1983, Lucas confessed to the murders of Kate (Katie Pearl) Rich, an elderly woman in Ringgold, Texas, and of Frieda 'Becky' Powell, Toole's teenage niece and Lucas's companion. These killings, together with his mother's death, are the murders most reliably attributed to him. Reporting has often summarized his verifiable toll as roughly three victims, though he was ultimately convicted of eleven homicides.",
+      "What made Lucas notorious was not those crimes but what followed. In custody he began confessing to a staggering number of murders, eventually claiming responsibility for some 600 killings nationwide. The Texas Department of Public Safety and Texas Rangers organized a 'Lucas Task Force' to coordinate the flood of inquiries, and detectives from many jurisdictions traveled to interview him about their unsolved cases. Critics later charged that Lucas was frequently shown case files, crime-scene photographs, and details before interviews, and was rewarded with privileges such as food, cigarettes and attention, all of which gave him incentive and material to fabricate convincing admissions.",
+      "The confessions began to collapse under scrutiny. A 1985 Dallas Times Herald investigation demonstrated that Lucas could not physically have been present for many of the murders he claimed, given documented travel and work records. Waco prosecutor Vic Feazell and Texas Attorney General Jim Mattox pursued their own review; Mattox's office concluded that Lucas was a fabricator and warned that some officials appeared to have 'cleared cases just to get them off the books.' The episode became one of the most-cited examples of the dangers of false confessions and prompted reassessment of interrogation practices.",
+      "Lucas had meanwhile been sentenced to death for the murder of an unidentified woman known as 'Orange Socks,' found in Williamson County, Texas, on Halloween 1979 and later reported to be identified as Debra Jackson. Doubts about that conviction were serious: evidence suggested Lucas may have been in another state, and details of his confession appeared to trace back to material he had been shown. In 1998, Governor George W. Bush commuted Lucas's death sentence to life imprisonment, the only death sentence Bush commuted during his tenure as governor, citing doubt about his guilt in that case.",
+      "Lucas died of heart failure in a Texas prison on March 12, 2001, at age 64. The lasting legacy of his case is twofold: a handful of genuine murders for which he was justly held responsible, and a far larger number of real, still-unsolved homicides that were improperly marked as closed on the strength of confessions now widely regarded as false. Because of this, the true fate of many of the victims once attributed to Lucas remains uncertain, which is why the case is best described as only partially solved."
+    ],
+    "timeline": [
+      {
+        "date": "1960-01",
+        "event": "Lucas kills his mother, Viola Lucas, in Tecumseh, Michigan; he is later convicted and imprisoned."
+      },
+      {
+        "date": "1979-10-31",
+        "event": "The body of an unidentified woman later dubbed 'Orange Socks' (reportedly identified as Debra Jackson) is found in Williamson County, Texas."
+      },
+      {
+        "date": "1982-08",
+        "event": "Frieda 'Becky' Powell, Lucas's teenage companion and Ottis Toole's niece, is killed in Texas; the murder is later attributed to Lucas."
+      },
+      {
+        "date": "1982-09",
+        "event": "Kate (Katie Pearl) Rich, an elderly Ringgold, Texas woman, is killed; the murder is later attributed to Lucas."
+      },
+      {
+        "date": "1983-06",
+        "event": "Lucas is arrested in Texas on a weapons charge and begins confessing, first to the Rich and Powell murders and then to hundreds of others."
+      },
+      {
+        "date": "1983-11",
+        "event": "The Texas Rangers / Department of Public Safety 'Lucas Task Force' coordinates jurisdictions seeking to clear unsolved cases through his confessions."
+      },
+      {
+        "date": "1985-04",
+        "event": "A Dallas Times Herald investigation shows Lucas could not have committed many of the murders he claimed, undermining his confessions."
+      },
+      {
+        "date": "1986",
+        "event": "Texas Attorney General Jim Mattox's review concludes Lucas was a fabricator and that some officials cleared cases improperly to close them."
+      },
+      {
+        "date": "1998-06",
+        "event": "Governor George W. Bush commutes Lucas's 'Orange Socks' death sentence to life imprisonment, the only commutation of his governorship, citing doubt about guilt."
+      },
+      {
+        "date": "2001-03-12",
+        "event": "Henry Lee Lucas dies of congestive heart failure in a Texas prison at age 64."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "sharon-kinne",
@@ -1787,10 +1925,73 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Richard Speck - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Speck"
+      },
+      {
+        "title": "Richard Speck | Serial Killer, Nurses, Prison Video, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Richard-Speck"
+      },
+      {
+        "title": "A mass murderer leaves eight women dead | July 13, 1966 | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/july-13/a-mass-murderer-leaves-eight-women-dead"
+      },
+      {
+        "title": "How Richard Speck's Rampage 50 Years Ago Changed a Nation | NBC News",
+        "url": "https://www.nbcnews.com/news/crime-courts/how-richard-speck-s-rampage-50-years-ago-changed-nation-n606211"
+      },
+      {
+        "title": "Lead Prosecutor Reflects on Richard Speck's Chicago Murders | WTTW",
+        "url": "https://news.wttw.com/2016/07/05/lead-prosecutor-reflects-richard-speck-s-chicago-murders"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of July 13-14, 1966, eight student nurses were murdered inside a townhouse at 2319 East 100th Street in the South Deering neighborhood of Chicago, Illinois. The victims were Gloria Davy, Patricia Matusek, Nina Jo Schmale, Pamela Wilkening, Suzanne Farris, Mary Ann Jordan, Merlita Gargullo, and Valentina Pasion. Most were students affiliated with South Chicago Community Hospital who shared the residence as living quarters. The killer, 24-year-old drifter Richard Benjamin Speck, entered the townhouse and, over the course of several hours, systematically stabbed, strangled, and slashed the young women to death.",
+      "A ninth resident, 23-year-old Filipino exchange student nurse Corazon Amurao, survived by rolling under a bunk bed and remaining hidden and silent for hours while her friends were killed one by one. After the attacker left, she climbed onto a window ledge and screamed for help, alerting neighbors. Amurao became the central witness for the prosecution. Her account allowed police to establish that a single intruder was responsible and provided a detailed physical description, including that the man had a tattoo reading 'Born to Raise Hell' on his forearm.",
+      "The investigation moved quickly. Fingerprints recovered from the crime scene were matched to Speck, who had a prior criminal record. Publicity around the tattoo proved decisive: after Speck attempted suicide by cutting his wrists at a Chicago hotel, an emergency room physician, Dr. LeRoy Smith, recognized the 'Born to Raise Hell' tattoo from news reports and alerted authorities. Speck was arrested and identified while hospitalized in mid-July 1966.",
+      "Because of the extraordinary pretrial publicity, the trial was moved to Peoria, Illinois. Proceedings began on April 3, 1967. The emotional high point came when Corazon Amurao stepped down from the witness stand, walked directly to Speck, pointed at him, and declared, 'This is the man.' On April 15, 1967, after the jury deliberated less than an hour, Richard Speck was convicted of all eight murders and sentenced to death. His conviction is a matter of legal record.",
+      "Speck's death sentence was never carried out. In 1971 the U.S. Supreme Court set aside his death sentence, and after the Court's 1972 decision in Furman v. Georgia effectively invalidated existing capital-punishment statutes nationwide, Illinois courts resentenced him. He received a term of 400 to 1,200 years in prison and was held at the Stateville Correctional Center. Denied parole repeatedly, Speck remained incarcerated for the rest of his life.",
+      "On December 5, 1991, Richard Speck died of a heart attack at a hospital near the prison, one day before his 50th birthday. The case had a lasting impact on American life, widely cited as one of the mass murders that reshaped public perceptions of violent crime in the 1960s. Corazon Amurao completed her nursing career and largely avoided public attention in later decades. The case is closed: Speck was convicted and died in custody."
+    ],
+    "timeline": [
+      {
+        "date": "1966-07-13",
+        "event": "Richard Speck enters the townhouse at 2319 East 100th Street in South Deering, Chicago, and begins attacking the resident student nurses."
+      },
+      {
+        "date": "1966-07-14",
+        "event": "Eight student nurses are found murdered; Corazon Amurao survives by hiding under a bed and raises the alarm."
+      },
+      {
+        "date": "1966-07-17",
+        "event": "Speck is arrested after attempting suicide at a hotel; an ER physician recognizes his 'Born to Raise Hell' tattoo, and crime-scene fingerprints confirm his identity."
+      },
+      {
+        "date": "1967-04-03",
+        "event": "Speck's murder trial opens in Peoria, Illinois, after a change of venue due to pretrial publicity."
+      },
+      {
+        "date": "1967-04-15",
+        "event": "A jury convicts Speck of all eight murders after brief deliberation; he is sentenced to death."
+      },
+      {
+        "date": "1971-06-28",
+        "event": "The U.S. Supreme Court sets aside Speck's death sentence."
+      },
+      {
+        "date": "1972-06-29",
+        "event": "Following Furman v. Georgia, capital sentences are invalidated nationwide, leading to Speck's resentencing."
+      },
+      {
+        "date": "1972-11-22",
+        "event": "Speck is resentenced to a prison term of 400 to 1,200 years and incarcerated at Stateville Correctional Center."
+      },
+      {
+        "date": "1991-12-05",
+        "event": "Richard Speck dies of a heart attack in custody, one day before his 50th birthday."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "valerie-percy",
@@ -2614,10 +2815,69 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Robert Hansen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Hansen"
+      },
+      {
+        "title": "Victim of Alaska serial killer identified after 37 years - Alaska's News Source",
+        "url": "https://www.alaskasnewssource.com/2021/10/22/victim-alaska-serial-killer-identified-after-37-years/"
+      },
+      {
+        "title": "Photos: Alaska serial killer Robert Hansen and his victims - Anchorage Daily News",
+        "url": "https://www.adn.com/crime-justice/slideshow/robert-hansen-was-one-alaskas-worst-serial-killers/2014/08/21/"
+      },
+      {
+        "title": "Robert Hansen, 'The Butcher Baker' Serial Killer: Who He Killed - Oxygen",
+        "url": "https://www.oxygen.com/mark-of-a-killer/crime-news/robert-hansen-butcher-baker-serial-killer-victims"
       }
-    ]
+    ],
+    "narrative": [
+      "Between roughly 1971 and 1983, Anchorage, Alaska, was stalked by a killer who hid in plain sight. Robert Christian Hansen, born February 15, 1939, in Estherville, Iowa, was an unassuming married father of two who owned a popular bakery in Anchorage, an award-winning big-game hunter and licensed pilot. Behind that respectable facade, Hansen abducted women, many of them dancers and sex workers, and subjected them to a uniquely brutal ritual: he flew some of his captives into the remote Alaskan backcountry aboard his Piper Super Cub, released them, and then hunted them down like game with a rifle and a knife.",
+      "Investigators believe his suspected first victim, Celia van Zanten, was abducted in December 1971 and left to die of exposure. Over the following decade, women vanished from Anchorage's streets, but with victims who were often transient and marginalized, the disappearances drew limited attention and were slow to be linked. The pattern remained largely invisible until one intended victim survived.",
+      "On June 13, 1983, 17-year-old Cindy Paulson escaped after Hansen abducted her at gunpoint and held her captive. Handcuffed and barefoot, she fled at Merrill Field as Hansen loaded his airplane, flagged down a passing truck driver, and was taken to the Anchorage Police Department. Her detailed account, describing the abduction, the aircraft and Hansen's home, gave investigators the break they needed. Alaska State Trooper investigator Sgt. Glenn Flothe pursued the case, and the FBI's behavioral profiler John E. Douglas developed a profile of an experienced hunter with low self-esteem who took trophies, closely matching Hansen.",
+      "On October 27, 1983, police searched Hansen's home and found jewelry belonging to missing women, firearms, and an aviation chart marked with dozens of small 'x' symbols later understood to correspond to body-disposal sites. Ballistics evidence tied cartridge casings recovered at grave sites to Hansen's rifle. In February 1984, Hansen pleaded guilty. He was formally charged with the murders of Sherry Morrow, Joanna Messina, Paula Goulding, and an unidentified woman known only as 'Eklutna Annie,' and in his confession he admitted to killing 17 women and assaulting many more. He was sentenced to 461 years plus life in prison without the possibility of parole.",
+      "For decades several of Hansen's victims remained unidentified, buried under placeholder names such as 'Eklutna Annie' and 'Horseshoe Harriet.' Using DNA and forensic genetic genealogy, authorities announced in October 2021 that 'Horseshoe Harriet' was Robin Pelkey, a 19-year-old originally from Colorado, resolving one of the cases 37 years after her remains were found. Other victims are still unidentified.",
+      "Hansen's crimes have been widely chronicled, including in the 2013 feature film 'The Frozen Ground,' in which John Cusack portrayed Hansen and Nicolas Cage played a fictionalized investigator, with the story loosely drawn from Cindy Paulson's escape and the investigation. Robert Hansen died in Anchorage on August 21, 2014, at age 75, while in state custody. He remains one of the most notorious serial killers in Alaska's history, and efforts to identify all of his victims continue."
+    ],
+    "timeline": [
+      {
+        "date": "1939-02-15",
+        "event": "Robert Christian Hansen is born in Estherville, Iowa."
+      },
+      {
+        "date": "1971-12-22",
+        "event": "Celia van Zanten, believed to be Hansen's first victim, is abducted in Anchorage and later found frozen to death."
+      },
+      {
+        "date": "1983-06-13",
+        "event": "Cindy Paulson, 17, escapes after being abducted at gunpoint and reports Hansen to Anchorage police."
+      },
+      {
+        "date": "1983-10-27",
+        "event": "Investigators search Hansen's home, recovering victims' jewelry, firearms, and an aviation chart marked with disposal sites."
+      },
+      {
+        "date": "1984-02",
+        "event": "Hansen pleads guilty and is sentenced to 461 years plus life without parole; he admits to killing 17 women."
+      },
+      {
+        "date": "1984-04-25",
+        "event": "Remains later known as 'Horseshoe Harriet' are found near Horseshoe Lake."
+      },
+      {
+        "date": "2013-08-23",
+        "event": "The film 'The Frozen Ground,' dramatizing the case, is released with John Cusack as Hansen."
+      },
+      {
+        "date": "2014-08-21",
+        "event": "Robert Hansen dies in Anchorage at age 75 while in state custody."
+      },
+      {
+        "date": "2021-10-22",
+        "event": "Authorities announce that 'Horseshoe Harriet' has been identified as Robin Pelkey through DNA and genetic genealogy, 37 years after her death."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "texas-killing-fields",
@@ -2640,10 +2900,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Texas Killing Fields - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Texas_Killing_Fields"
+      },
+      {
+        "title": "Is Robert Abel Getting Away With Murder? - Texas Monthly",
+        "url": "https://www.texasmonthly.com/true-crime/is-robert-abel-getting-away-with-murder/"
+      },
+      {
+        "title": "'Texas Killing Fields': Who is Robert Abel and where is he now? - Newsweek",
+        "url": "https://www.newsweek.com/robert-abel-texas-killing-fields-today-death-league-city-1764931"
+      },
+      {
+        "title": "Galveston officials say 'significant headway' made in 'Texas Killing Fields' case after new arrest - KPRC/Click2Houston",
+        "url": "https://www.click2houston.com/news/local/2026/04/02/galveston-officials-say-significant-headway-has-been-made-in-unsolved-texas-killing-fields-case-after-new-arrest/"
+      },
+      {
+        "title": "13 UNSOLVED: League City 'Killing Fields' victim identified 33 years later - ABC13 Houston",
+        "url": "https://abc13.com/post/13-unsolved-league-city-killing-fields-victim-identified-33-years-later-search-killer-intensifies/5695172/"
+      },
+      {
+        "title": "'Texas Killing Fields': What happened to Laura Miller and was killer found? - Newsweek",
+        "url": "https://www.newsweek.com/texas-killing-fields-what-happened-laura-miller-killer-found-netflix-1763070"
+      },
+      {
+        "title": "Seeking Information in Unsolved 'Killing Fields' Murders - FBI",
+        "url": "https://www.fbi.gov/news/stories/seeking-information-in-unsolved-killing-fields-murders-091819"
       }
-    ]
+    ],
+    "narrative": [
+      "The \"Texas Killing Fields\" is the name given to a stretch of the Interstate 45 corridor southeast of Houston, and in particular to a remote patch of oil-field land off Calder Road in League City, Texas, where the remains of women and girls were repeatedly discovered from the early 1970s onward. Press accounts and the FBI have reported that dozens of women and girls, many of them young, went missing or were found murdered along the corridor across several decades. The great majority of these cases remain unsolved, and investigators have long debated whether one killer, or several, was responsible.",
+      "The Calder Road cluster is the most closely studied group. According to Wikipedia and Houston-area reporting, Heide Marie Villarreal-Fye, 25, was last seen on October 10, 1983, and her skull was discovered on April 4, 1984, after a dog carried it to a nearby home. Sixteen-year-old Laura Lynn Miller, a Clear Creek High School student, was last seen at a convenience-store payphone on September 10, 1984; her remains were found on February 2, 1986, roughly 60 feet from where Fye had been found. On that same day, the remains of a second woman were recovered nearby. Donna Marie Prudhomme, last seen in 1991, was found on September 8, 1991. Two of the four were long known only as \"Jane Doe\" and \"Janet Doe.\"",
+      "In April 2019, investigators announced that genetic-genealogy DNA analysis had identified the two unknown victims as Audrey Lee Cook, 30, and Donna Gonsoulin Prudhomme, resolving identifications that had eluded authorities for decades. The FBI and League City police have continued to seek information, treating the killings as an ongoing investigation.",
+      "Several people have been publicly named over the years, but for most of the case's history no one was charged. As reported by Texas Monthly and Newsweek, Robert Abel, a retired NASA engineer who had leased land adjacent to the dump site, was publicly identified as a person of interest in 1993 and named in a 1999 police affidavit; he was searched but never charged, always denied involvement, and died in 2005 after being struck by a train. Laura Miller's father, Tim Miller, who had once suspected Abel, later publicly apologized to him. These individuals are referenced only as publicly reported persons of interest; being named is not evidence of guilt.",
+      "The case saw major developments in 2026. Clyde Edwin Hedrick, a longtime suspect who had earlier been convicted in the 1985 death of Ellen Beason, died in March 2026 as prosecutors reportedly prepared to seek charges. On March 31 and April 1, 2026, James Dolphs Elmore Jr., 61, was arrested and charged following a Galveston County grand jury indictment with manslaughter in Laura Miller's death and with tampering with evidence related to the disposal of both Miller's and Audrey Cook's remains. Prosecutors alleged Elmore's role was tied to supplying cocaine and witnessing the disposal of the bodies; the charges are allegations that have not been proven in court. Galveston County officials said \"significant headway\" had been made but stressed there are other active leads and that additional victims may yet be identified. As of mid-2026, the corridor's broader toll remains largely unsolved."
+    ],
+    "timeline": [
+      {
+        "date": "1983-10-10",
+        "event": "Heide Marie Villarreal-Fye, 25, is last seen in League City, Texas."
+      },
+      {
+        "date": "1984-04-04",
+        "event": "Fye's skull is discovered off Calder Road after a dog carries it to a nearby home."
+      },
+      {
+        "date": "1984-09-10",
+        "event": "Laura Lynn Miller, 16, is last seen at a convenience-store payphone in League City."
+      },
+      {
+        "date": "1986-02-02",
+        "event": "Laura Miller's remains and those of a second woman (later identified as Audrey Lee Cook) are found off Calder Road."
+      },
+      {
+        "date": "1991-09-08",
+        "event": "The remains of a fourth woman, later identified as Donna Gonsoulin Prudhomme, are found beside Calder Road."
+      },
+      {
+        "date": "1993-01-01",
+        "event": "Robert Abel, a retired NASA engineer who leased adjacent land, is publicly named a person of interest and searched; he is never charged and denies involvement."
+      },
+      {
+        "date": "2005-01-01",
+        "event": "Robert Abel dies after being struck by a train; Tim Miller had earlier apologized to him for accusing him."
+      },
+      {
+        "date": "2019-04-01",
+        "event": "Genetic-genealogy DNA analysis identifies the two 'Jane/Janet Doe' victims as Audrey Lee Cook, 30, and Donna Gonsoulin Prudhomme."
+      },
+      {
+        "date": "2026-03-21",
+        "event": "Longtime suspect Clyde Edwin Hedrick dies as prosecutors reportedly prepare charges."
+      },
+      {
+        "date": "2026-04-01",
+        "event": "James Dolphs Elmore Jr., 61, is charged via Galveston County grand jury indictment with manslaughter in Laura Miller's death and evidence tampering; charges remain allegations."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "dorothy-hunt",
@@ -3244,14 +3578,85 @@
     ],
     "sources": [
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Patty Hearst | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/history/famous-cases/patty-hearst"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Patty Hearst - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Patty_Hearst"
+      },
+      {
+        "title": "Patty Hearst | Biography & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Patty-Hearst"
+      },
+      {
+        "title": "Patty Hearst kidnapped by the Symbionese Liberation Army | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/february-4/patty-hearst-kidnapped"
+      },
+      {
+        "title": "LAPD raid leaves six SLA members dead | May 17, 1974 | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/may-17/lapd-raid-leaves-six-sla-members-dead"
+      },
+      {
+        "title": "Myrna Opsahl | American Experience | PBS",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/guerrilla-myrna-opsahl/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the evening of February 4, 1974, 19-year-old Patricia Campbell Hearst, granddaughter of publishing magnate William Randolph Hearst, was abducted at gunpoint from the Berkeley, California, apartment she shared with her fiance. Her captors were the Symbionese Liberation Army (SLA), a small, self-styled urban guerrilla group led by escaped convict Donald DeFreeze, who used the name \"Cinque.\" The kidnappers initially demanded the release of two jailed SLA members, Joseph Remiro and Russell Little, and later pressed the wealthy Hearst family into distributing millions of dollars in food to the poor.",
+      "Roughly two months into her captivity, the case took an extraordinary turn. In an audiotape released on April 3, 1974, Hearst announced that she had joined the SLA of her own free will and had taken the revolutionary name \"Tania.\" On April 15, 1974, bank surveillance cameras captured her wielding an M1 carbine during an armed robbery of the Hibernia Bank in San Francisco's Sunset District. Weeks later, on May 16, she fired an automatic weapon outside Mel's Sporting Goods in Los Angeles to help two fellow SLA members, William and Emily Harris, escape a shoplifting arrest.",
+      "The next day, May 17, 1974, police surrounded an SLA safe house in South Los Angeles. In a televised shootout in which thousands of rounds were fired, six SLA members, including DeFreeze, died from gunfire, smoke inhalation, and the fire that engulfed the house. Hearst, the Harrises, and others were not present and remained fugitives. During this period the group committed further crimes, including the April 21, 1975, robbery of a Crocker National Bank branch in Carmichael, near Sacramento, during which customer Myrna Lee Opsahl, a 42-year-old mother of four, was shot and killed.",
+      "The FBI arrested Hearst in San Francisco on September 18, 1975. Her trial became a national spectacle centered on a single question: was she a willing revolutionary or a victim who had been kidnapped, isolated, and coerced into compliance? Her defense, led by attorney F. Lee Bailey, argued she had been brainwashed and acted under duress. Prosecutors portrayed her as a willing participant. On March 20, 1976, a federal jury convicted her of armed bank robbery and using a firearm during the commission of a felony. She was sentenced to 35 years, later reduced to 7 years.",
+      "The debate over coercion versus consent shaped the aftermath. President Jimmy Carter commuted Hearst's federal sentence on February 1, 1979, after she had served about 22 months in prison. On January 20, 2001, his last day in office, President Bill Clinton granted her a full pardon, restoring her civil rights.",
+      "The surviving SLA members eventually faced justice for the Opsahl killing. In 2002, William and Emily Harris, Sara Jane Olson (formerly Kathleen Soliah, a longtime fugitive arrested in 1999), and others pleaded guilty to second-degree murder; sentences were handed down in 2003, with Emily Harris, who admitted firing the fatal shot, receiving eight years. Patricia Hearst, meanwhile, rebuilt a private life, married her former bodyguard, raised a family, and later appeared in films and became known as a champion show-dog breeder. Her case remains one of the most cited real-world examples in discussions of coercion, captivity, and the psychological phenomenon sometimes called Stockholm syndrome."
+    ],
+    "timeline": [
+      {
+        "date": "1974-02-04",
+        "event": "Patricia Hearst, 19, is kidnapped from her Berkeley apartment by the Symbionese Liberation Army."
+      },
+      {
+        "date": "1974-04-03",
+        "event": "Hearst declares on an audiotape that she has joined the SLA and taken the name \"Tania.\""
+      },
+      {
+        "date": "1974-04-15",
+        "event": "Hearst is filmed carrying a carbine during the SLA's armed robbery of the Hibernia Bank in San Francisco."
+      },
+      {
+        "date": "1974-05-16",
+        "event": "Hearst fires a weapon outside Mel's Sporting Goods in Los Angeles to aid the escape of SLA members William and Emily Harris."
+      },
+      {
+        "date": "1974-05-17",
+        "event": "Six SLA members, including leader Donald DeFreeze, die in a televised police shootout and fire at a Los Angeles safe house; Hearst was not present."
+      },
+      {
+        "date": "1975-04-21",
+        "event": "The SLA robs a Crocker National Bank branch in Carmichael, California; customer Myrna Opsahl is shot and killed."
+      },
+      {
+        "date": "1975-09-18",
+        "event": "The FBI arrests Hearst in San Francisco."
+      },
+      {
+        "date": "1976-03-20",
+        "event": "A federal jury convicts Hearst of armed bank robbery and use of a firearm; she is sentenced to 35 years, later reduced to 7."
+      },
+      {
+        "date": "1979-02-01",
+        "event": "President Jimmy Carter commutes Hearst's sentence after she served about 22 months in prison."
+      },
+      {
+        "date": "2001-01-20",
+        "event": "President Bill Clinton grants Hearst a full pardon on his last day in office."
+      },
+      {
+        "date": "2003-02-15",
+        "event": "SLA members, including Sara Jane Olson (Kathleen Soliah) and the Harrises, are sentenced for the 1975 murder of Myrna Opsahl."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ted-bundy-victims",
@@ -4545,10 +4950,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jonestown - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jonestown"
+      },
+      {
+        "title": "Leo Ryan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leo_Ryan"
+      },
+      {
+        "title": "Who was killed at the Port Kaituma airstrip on November 18? - Jonestown & Peoples Temple, San Diego State University",
+        "url": "https://jonestown.sdsu.edu/?page_id=35346"
+      },
+      {
+        "title": "Jonestown - Federal Bureau of Investigation (Famous Cases)",
+        "url": "https://www.fbi.gov/history/famous-cases/jonestown"
+      },
+      {
+        "title": "Jonestown | History, Facts, Jim Jones, & Survivors - Britannica",
+        "url": "https://www.britannica.com/event/Jonestown"
+      },
+      {
+        "title": "Mass suicide at Jonestown | November 18, 1978 - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/november-18/mass-suicide-at-jonestown"
       }
-    ]
+    ],
+    "narrative": [
+      "In November 1978, U.S. Representative Leo Ryan, a Democrat from California, led a fact-finding delegation to Guyana to investigate reports that members of Jim Jones's Peoples Temple were being held against their will at Jonestown, the church's agricultural settlement in the South American jungle. According to the historical record, Ryan traveled as chairman of a congressional oversight subcommittee and was accompanied by aides, several journalists, an NBC television crew, and a group of relatives of Temple members known as the Concerned Relatives. The delegation arrived in the Guyanese capital of Georgetown on November 14 and reached Jonestown on November 17.",
+      "During the visit, a number of Temple members indicated they wished to leave, and Ryan agreed to escort them out. On November 18, 1978, as the group prepared to depart from the airstrip at nearby Port Kaituma, gunmen who had followed the delegation from Jonestown opened fire on the party and the waiting aircraft. Congressman Ryan was killed, shot more than twenty times, along with four others: NBC reporter Don Harris, NBC cameraman Bob Brown, San Francisco Examiner photographer Greg Robinson, and Temple defector Patricia Parks. Roughly nine to eleven others were wounded, including Ryan's legislative aide Jackie Speier, who survived and later became a U.S. congresswoman. Ryan is the only sitting member of the U.S. Congress to be killed in the line of duty.",
+      "Later that same day at the Jonestown settlement, more than 900 Peoples Temple members died in what the historical record describes as a mass murder-suicide carried out at Jones's direction. Members drank or were forced to consume grape Flavor Aid laced with cyanide and sedatives; the poison was administered to infants and children first, some by syringe, before adults consumed it. Reported figures place the death toll at Jonestown at 909, including some 304 children, with additional deaths in Georgetown bringing the overall total to 918. Jim Jones himself was found dead in the settlement's central pavilion with a gunshot wound to the head, determined by investigators to be self-inflicted. It remained one of the largest losses of American civilian life in a single non-natural event prior to September 11, 2001.",
+      "Larry Layton, a Peoples Temple member who had posed as a defector and boarded one of the aircraft, drew a weapon and fired at members of the departing group, wounding two people before being subdued. He was the only person tried and convicted in U.S. courts in connection with the airstrip attack. Layton was initially acquitted in a Guyanese court. In the United States, his first federal trial in 1981 ended in a mistrial; he was retried and convicted in 1986 by a federal jury in San Francisco of conspiracy and aiding and abetting in the murder of Congressman Ryan and the attempted murder of U.S. deputy chief of mission Richard Dwyer. He was sentenced in March 1987 to life in prison and was released on parole in 2002.",
+      "The Jonestown tragedy left a lasting imprint on American culture, giving rise to the phrase 'drinking the Kool-Aid' and prompting congressional and public scrutiny of new religious movements. The case is considered closed. Larry Layton's conviction stands as the sole criminal conviction obtained; the other identified gunmen died at Jonestown, and no further prosecutions followed. Jackie Speier's survival and later political career, along with continued scholarship and the recovery of unclaimed victims' remains decades afterward, have kept the events in public memory."
+    ],
+    "timeline": [
+      {
+        "date": "1974",
+        "event": "The Peoples Temple, led by Jim Jones, begins developing its agricultural settlement, later called Jonestown, on leased land in northwestern Guyana."
+      },
+      {
+        "date": "November 14, 1978",
+        "event": "Congressman Leo Ryan's delegation arrives in Georgetown, Guyana, to investigate abuse allegations at Jonestown."
+      },
+      {
+        "date": "November 17, 1978",
+        "event": "Ryan and members of his party visit the Jonestown settlement; some Temple members express a wish to leave."
+      },
+      {
+        "date": "November 18, 1978 (afternoon)",
+        "event": "At the Port Kaituma airstrip, Temple gunmen ambush the departing group, killing Ryan, journalists Don Harris, Bob Brown, and Greg Robinson, and defector Patricia Parks, and wounding several others."
+      },
+      {
+        "date": "November 18, 1978 (evening)",
+        "event": "At Jonestown, more than 900 Peoples Temple members die in a mass murder-suicide by cyanide-laced Flavor Aid; Jim Jones dies of a gunshot wound to the head."
+      },
+      {
+        "date": "November 1978",
+        "event": "Larry Layton is taken into custody in Guyana in connection with the airstrip shooting."
+      },
+      {
+        "date": "1981",
+        "event": "Larry Layton's first U.S. federal trial in San Francisco ends in a mistrial."
+      },
+      {
+        "date": "1986",
+        "event": "Larry Layton is convicted by a federal jury in San Francisco of conspiracy and aiding and abetting in the murder of Congressman Ryan and attempted murder of diplomat Richard Dwyer."
+      },
+      {
+        "date": "March 3, 1987",
+        "event": "Layton is sentenced to concurrent life terms in federal prison."
+      },
+      {
+        "date": "April 2002",
+        "event": "Larry Layton is released on parole after serving roughly 18 years in prison."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "frank-hilley",
@@ -5786,10 +6261,73 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Dorothea Puente - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dorothea_Puente"
+      },
+      {
+        "title": "The Life and Deaths of Dorothea Puente - Sactown Magazine",
+        "url": "https://www.sactownmag.com/the-life-and-deaths-of-dorothea-puente/"
+      },
+      {
+        "title": "Dorothea Puente - Crime Museum",
+        "url": "https://www.crimemuseum.org/crime-library/serial-killers/dorothea-puente/"
+      },
+      {
+        "title": "Dorothea Puente | Murderpedia",
+        "url": "https://murderpedia.org/female.P/p/puente-dorothea.htm"
       }
-    ]
+    ],
+    "narrative": [
+      "Dorothea Puente operated a boarding house at 1426 F Street in downtown Sacramento, California, presenting herself as a caring landlady who took in elderly, disabled, and marginalized tenants, many of them referred to her through social services. Behind that reputation, she systematically murdered residents and continued to collect their Social Security and other government benefit checks after their deaths, forging signatures and diverting the funds for her own use.",
+      "Between 1982 and 1988, Puente is believed to have killed at least nine people, typically by drugging them with sedatives before they died. Her earliest identified victim was Ruth Munroe, a business associate who died of a codeine overdose in April 1982. Another early victim was her boyfriend Everson Gillmouth, 77, whose remains were found in a box along the Sacramento River in January 1986 but not identified for years. Most of her later victims were tenants at the F Street house, and their bodies were buried in the yard of the property.",
+      "The scheme unraveled in November 1988. Social workers and family had grown concerned about a missing developmentally disabled tenant, Alvaro 'Bert' Montoya, and on November 11, 1988, police and a federal probation agent came to the boarding house and began digging in the yard. They uncovered human remains, and over the following days investigators exhumed a total of seven bodies buried on the property. Puente, questioned but not immediately detained, fled Sacramento and was arrested days later in Los Angeles after a man she met at a bar recognized her from news reports.",
+      "Puente was ultimately charged with nine counts of murder. Her trial, moved to Monterey on a change of venue, began in early 1993 and featured lengthy jury deliberations that became among the longest in California history to that point. On August 26, 1993, the jury convicted her of three murders: first-degree murder in the deaths of tenants Dorothy Miller and Benjamin Fink, and second-degree murder in the death of Leona Carpenter. The jury deadlocked on the remaining six counts, which resulted in a mistrial on those charges; prosecutors did not retry them.",
+      "The jury declined to impose the death penalty, and on December 10, 1993, Puente was sentenced to two life terms in prison without the possibility of parole. She was incarcerated at the Central California Women's Facility in Chowchilla, where she consistently maintained her innocence and denied killing anyone, insisting the deaths were natural.",
+      "Dorothea Puente died in prison on March 27, 2011, at the age of 82. Because the case ended in conviction, it is not an unsolved matter; the recorded status reflects her 1993 convictions on three counts of murder. The six deadlocked counts, along with earlier suspected victims such as Ruth Munroe and Everson Gillmouth, were never adjudicated, leaving the full number of her victims a matter of historical estimate rather than legal finding."
+    ],
+    "timeline": [
+      {
+        "date": "1982-04-28",
+        "event": "Ruth Munroe, a business associate of Puente, dies of a codeine overdose; later considered one of Puente's suspected victims."
+      },
+      {
+        "date": "1985",
+        "event": "Everson Gillmouth, 77, Puente's boyfriend, is killed; his remains are placed in a box that is later dumped along the Sacramento River."
+      },
+      {
+        "date": "1986-01-01",
+        "event": "Everson Gillmouth's remains are discovered along the Sacramento River but go unidentified for years."
+      },
+      {
+        "date": "1988-08-24",
+        "event": "Tenant Alvaro 'Bert' Montoya, a developmentally disabled boarder, is last seen alive."
+      },
+      {
+        "date": "1988-11-11",
+        "event": "Police and a federal probation agent begin digging in the yard of Puente's boarding house at 1426 F Street and uncover human remains."
+      },
+      {
+        "date": "1988-11-16",
+        "event": "After fleeing Sacramento, Puente is arrested in Los Angeles; investigators ultimately recover seven bodies from the property."
+      },
+      {
+        "date": "1993-02-09",
+        "event": "Puente's murder trial opens in Monterey following a change of venue."
+      },
+      {
+        "date": "1993-08-26",
+        "event": "The jury convicts Puente of three murders (first-degree for Dorothy Miller and Benjamin Fink, second-degree for Leona Carpenter) and deadlocks on the other six counts."
+      },
+      {
+        "date": "1993-12-10",
+        "event": "Puente is sentenced to two life terms without the possibility of parole."
+      },
+      {
+        "date": "2011-03-27",
+        "event": "Dorothea Puente dies in prison at the Central California Women's Facility at age 82."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ridgway-victims",
@@ -6183,14 +6721,90 @@
     ],
     "sources": [
       {
-        "title": "Wah Mee massacre — Wikipedia",
+        "title": "Wah Mee massacre - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Wah_Mee_massacre"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Wah Mee Massacre leaves 13 dead in Seattle's Chinatown International District on February 19, 1983 - HistoryLink.org",
+        "url": "https://www.historylink.org/File/2984"
+      },
+      {
+        "title": "Man convicted in Wah Mee Massacre granted parole - The Seattle Times",
+        "url": "https://www.seattletimes.com/news/man-convicted-in-wah-mee-massacre-granted-parole/"
+      },
+      {
+        "title": "'Wah Mee Massacre' remains Washington's deadliest mass shooting - KING 5",
+        "url": "https://www.king5.com/article/news/crime/wah-mee-massacre-washington-deadliest-mass-murder/281-37fa61d0-e7c1-4a72-b172-753710a8b0a6"
+      },
+      {
+        "title": "Feb. 19, 1983: The Wah Mee Massacre in Seattle - HeraldNet",
+        "url": "https://www.heraldnet.com/news/feb-19-1983-the-wah-mee-massacre-in-seattle/"
+      },
+      {
+        "title": "Wah Mee: A look back at the deadliest mass shooting in Washington history - KIRO 7 News",
+        "url": "https://www.kiro7.com/news/local/wah-mee-look-back-deadliest-massacre-washington-history/NESYMLNLHBBCBLTX4AVF2ONVAE/"
       }
-    ]
+    ],
+    "narrative": [
+      "During the early morning hours of February 19, 1983, three armed men entered the Wah Mee Club, an illegal gambling parlor in the basement of the Louisa Hotel at 665 South King Street in Seattle's Chinatown-International District. The club, known within the community for high-stakes gambling, was frequented by patrons carrying large sums of cash. The gunmen, admitted as regulars, gained entry near closing time and proceeded to bind the occupants at gunpoint before robbing them.",
+      "The attackers hogtied fourteen people with nylon cord and shot each of them, most in the head and some repeatedly, in what investigators concluded was a deliberate attempt to leave no witnesses. Thirteen victims died, making it the deadliest mass murder in Washington state history. The dead ranged in age and included gamblers, club employees, and community members; the killings devastated the tight-knit Chinatown-International District.",
+      "One man survived. Wai Yok Chin, a 61-year-old pai gow dealer and former U.S. Navy sailor, was shot but managed to loosen his bindings, crawl up the stairs, and reach South King Street, where he flagged down help and alerted police. Despite his wounds, Chin lived to identify the assailants and became the prosecution's central eyewitness across the trials. He died in May 1993 at age 71.",
+      "Police quickly identified three suspects: Kwan Fai \"Willie\" Mak, 22; Keung Kin \"Benjamin\" Ng, 20; and Wai Chiu \"Tony\" Ng, 25 (no relation to Benjamin). Investigators concluded the robbery was primarily planned by Mak, reportedly to pay off gambling debts. Mak and Benjamin Ng were arrested in Seattle within days. Tony Ng fled the country and remained a fugitive until he was arrested in Calgary, Alberta, Canada, on October 4, 1984, and later extradited.",
+      "All three men were convicted, but their outcomes differed significantly. Benjamin Ng was convicted on August 25, 1983, of 13 counts of aggravated first-degree murder; jurors declined to impose death, and he was sentenced the following day to life in prison without the possibility of parole. Willie Mak was convicted on October 6, 1983, and sentenced on October 22 to death by hanging. His death sentence was overturned on appeal in 1988 due to flawed sentencing-phase instructions, and after further proceedings he was resentenced on April 29, 2002, to life in prison without parole.",
+      "Tony Ng, whose defense argued he participated under duress from Mak and did not fire the fatal shots, was tried separately in 1985. On April 19, 1985, a jury found him guilty of 13 counts of first-degree robbery and one count of first-degree assault, but acquitted him of the murder charges. He was sentenced on July 3, 1985, to consecutive terms totaling a lengthy prison sentence with the possibility of parole.",
+      "As of the most recent reporting, both Willie Mak and Benjamin Ng remain incarcerated in Washington state, serving life sentences without parole. Tony Ng was granted parole in October 2013 after serving roughly 28 years and was deported to his native Hong Kong on May 13, 2014. The massacre remains a defining tragedy in the history of Seattle's Chinatown-International District, memorialized on its anniversaries."
+    ],
+    "timeline": [
+      {
+        "date": "1983-02-19",
+        "event": "Three gunmen bind, rob, and shoot 14 people at the Wah Mee gambling club in Seattle's Chinatown-International District; 13 die and one, Wai Yok Chin, survives to alert police."
+      },
+      {
+        "date": "1983-02",
+        "event": "Kwan Fai \"Willie\" Mak and Keung Kin \"Benjamin\" Ng are arrested in Seattle days after the killings; Wai Chiu \"Tony\" Ng flees and becomes a fugitive."
+      },
+      {
+        "date": "1983-08-25",
+        "event": "Benjamin Ng is convicted of 13 counts of aggravated first-degree murder."
+      },
+      {
+        "date": "1983-08-26",
+        "event": "Benjamin Ng is sentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "1983-10-06",
+        "event": "Willie Mak is convicted of aggravated first-degree murder and assault."
+      },
+      {
+        "date": "1983-10-22",
+        "event": "Willie Mak is sentenced to death by hanging."
+      },
+      {
+        "date": "1984-10-04",
+        "event": "Tony Ng is arrested in Calgary, Alberta, Canada, and later extradited to Washington."
+      },
+      {
+        "date": "1985-04-19",
+        "event": "Tony Ng is convicted of 13 counts of first-degree robbery and assault but acquitted of murder."
+      },
+      {
+        "date": "1985-07-03",
+        "event": "Tony Ng is sentenced to a lengthy prison term with the possibility of parole."
+      },
+      {
+        "date": "1988-11-10",
+        "event": "Willie Mak's death sentence is overturned on appeal."
+      },
+      {
+        "date": "2002-04-29",
+        "event": "Willie Mak is resentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "2014-05-13",
+        "event": "Tony Ng, paroled in October 2013 after about 28 years, is deported to Hong Kong."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "west-virginia-jane-doe",
@@ -9525,10 +10139,76 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Oklahoma City bombing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Oklahoma_City_bombing"
+      },
+      {
+        "title": "The Oklahoma City Bombing: 20 Years Later - FBI",
+        "url": "https://www.fbi.gov/news/stories/the-oklahoma-city-bombing-20-years-later"
+      },
+      {
+        "title": "Timothy McVeigh | Biography, Oklahoma City Bombing, Death, & Facts - Britannica",
+        "url": "https://www.britannica.com/biography/Timothy-McVeigh"
+      },
+      {
+        "title": "Oklahoma City Bombing - Oklahoma Historical Society",
+        "url": "https://www.okhistory.org/publications/enc/entry?entry=OK026"
+      },
+      {
+        "title": "The Oklahoma City Bombing & The Trial of Timothy McVeigh: An Account - Famous Trials",
+        "url": "https://famous-trials.com/oklacity/730-home"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of April 19, 1995, at 9:02 a.m., a rented Ryder truck packed with roughly 4,800 pounds of ammonium nitrate fertilizer mixed with nitromethane and diesel fuel detonated outside the Alfred P. Murrah Federal Building in downtown Oklahoma City. The blast sheared away much of the building's north face, collapsed floors onto one another, and damaged or destroyed hundreds of surrounding structures. The attack killed 168 people, including 19 children, many of them in a day-care center on the second floor, and injured several hundred more. It was, at the time, the deadliest act of domestic terrorism in United States history and remains the deadliest carried out by American citizens.",
+      "The investigation moved with unusual speed. Within days, federal agents traced a vehicle axle bearing a serial number to the Ryder truck rented in Junction City, Kansas, and a composite sketch led to a motel registration linked to Timothy McVeigh, a 26-year-old Army veteran. McVeigh had already been arrested about 90 minutes after the bombing by an Oklahoma state trooper near Perry, Oklahoma, on unrelated charges of driving without a license plate and carrying a concealed weapon. He was identified and held as the bombing suspect just before his scheduled release. Investigators soon linked him to Terry Nichols, a former Army acquaintance, who surrendered to police in Herington, Kansas, on April 21, 1995.",
+      "Prosecutors described McVeigh as the principal planner and bomber, motivated by anti-government anger intensified by the 1993 federal siege at Waco, Texas, which had ended on the same April 19 date two years earlier. Nichols was accused of helping gather materials and assemble the bomb. A third associate, Michael Fortier, had advance knowledge of the plot and, with his wife Lori, became a key cooperating witness.",
+      "In federal court in Denver, McVeigh was convicted on June 2, 1997, of murder and conspiracy charges and was sentenced to death on June 13, 1997. He was executed by lethal injection at the U.S. Penitentiary in Terre Haute, Indiana, on June 11, 2001, the first federal prisoner put to death since 1963. Terry Nichols was convicted in federal court in December 1997 of conspiracy and involuntary manslaughter and sentenced to life in prison without parole; a later Oklahoma state trial in 2004 convicted him on 161 counts of first-degree murder, adding additional life sentences. Michael Fortier pleaded guilty to lesser charges, including failing to warn authorities of the plot, and received a 12-year sentence in exchange for his testimony; he was released in 2006 and entered the witness protection program. Lori Fortier received immunity for her cooperation.",
+      "The site of the Murrah Building was transformed into the Oklahoma City National Memorial, dedicated on April 19, 2000, five years after the attack. Its Field of Empty Chairs holds 168 chairs, one for each victim, arranged by the floor on which they died. The case is legally closed, with all identified conspirators convicted; McVeigh executed, Nichols serving life, and Fortier having completed his sentence. Questions about whether others may have been involved have persisted among some researchers, but no additional prosecutions have resulted."
+    ],
+    "timeline": [
+      {
+        "date": "1995-04-19",
+        "event": "A truck bomb detonates outside the Alfred P. Murrah Federal Building at 9:02 a.m., killing 168 people and injuring hundreds; Timothy McVeigh is arrested about 90 minutes later near Perry, Oklahoma, on unrelated traffic and weapons charges."
+      },
+      {
+        "date": "1995-04-21",
+        "event": "McVeigh is identified as the bombing suspect and formally charged; Terry Nichols surrenders to police in Herington, Kansas."
+      },
+      {
+        "date": "1997-06-02",
+        "event": "A federal jury in Denver convicts Timothy McVeigh on all counts, including conspiracy and murder."
+      },
+      {
+        "date": "1997-06-13",
+        "event": "McVeigh is sentenced to death."
+      },
+      {
+        "date": "1997-12-23",
+        "event": "Terry Nichols is convicted in federal court of conspiracy and involuntary manslaughter."
+      },
+      {
+        "date": "1998-06-04",
+        "event": "Nichols is sentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "2000-04-19",
+        "event": "The Oklahoma City National Memorial is dedicated on the fifth anniversary of the bombing."
+      },
+      {
+        "date": "2001-06-11",
+        "event": "Timothy McVeigh is executed by lethal injection at Terre Haute, Indiana."
+      },
+      {
+        "date": "2004-08-09",
+        "event": "An Oklahoma state jury convicts Nichols on 161 counts of first-degree murder, resulting in additional life sentences."
+      },
+      {
+        "date": "2006-01-20",
+        "event": "Michael Fortier is released from federal prison after serving part of his 12-year sentence and enters the witness protection program."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "amber-hagerman",
@@ -15069,14 +15749,84 @@
     ],
     "sources": [
       {
-        "title": "Murder of Denise Amber Lee — Wikipedia",
+        "title": "Murder of Denise Amber Lee - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Denise_Amber_Lee"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Florida man is executed for killing a young mom who called 911 from his car begging for help - WUSF",
+        "url": "https://www.wusf.org/courts-law/2026-03-17/florida-man-is-executed-for-killing-a-young-mom-who-called-911-from-his-car-begging-for-help"
+      },
+      {
+        "title": "Florida executes Michael Lee King for 2008 murder of Denise Amber Lee - Fox News",
+        "url": "https://www.foxnews.com/us/florida-executes-convict-2008-rape-killing-woman-whose-final-call-sparked-911-reforms"
+      },
+      {
+        "title": "Michael King execution: Man convicted of 2008 murder of Denise Amber Lee put to death - WTSP",
+        "url": "https://www.wtsp.com/article/news/crime/florida-execution-today-michael-king-denise-amber-lee-murder-north-port/67-9c59c48a-c861-447a-a0a1-8ae0a7a6181d"
+      },
+      {
+        "title": "King v. State (2012) - FindLaw",
+        "url": "https://caselaw.findlaw.com/court/fl-supreme-court/1593954.html"
+      },
+      {
+        "title": "Judge Sentences Michael King to Death - Florida Legislature Capital Cases",
+        "url": "https://www.leg.state.fl.us/capitalcases/Documents/Enewsletter/2009_Articles_December/Judge%20Sentences%20Michael%20King%20to%20Death.pdf"
       }
-    ]
+    ],
+    "narrative": [
+      "Denise Amber Lee was a 21-year-old wife and mother of two young sons living in North Port, Charlotte County, Florida. On January 17, 2008, she was abducted from her home by Michael Lee King, a 36-year-old unemployed plumber who, investigators said, had been driving around North Port at random searching for a victim. King forced her into his Camaro, took her to his residence where she was sexually assaulted, and later shot her in the head. Her body was recovered from a shallow grave near a canal on January 19, 2008, two days after she disappeared.",
+      "The case drew national attention because of a series of failures in the emergency response. Five 911 calls connected to Lee's disappearance were placed between roughly 3:29 p.m. and 6:30 p.m. on January 17. Lee's husband, Nathan Lee, called after returning home to find her gone. At one point Lee herself managed to seize King's cellphone and dial 911, begging for her life so she could see her husband and children again. A key call came from motorist Jane Kowalski, who was stopped at an intersection and reported a child or woman screaming and pounding on the window of a nearby car. That call was routed to the Charlotte County 911 center and was mishandled: dispatchers failed to relay the information promptly or to properly dispatch the description to the officers who were already searching, and help did not reach Lee in time.",
+      "The publicized breakdown in the 911 system became a catalyst for reform. In the months after the killing, the Florida Legislature unanimously passed the Denise Amber Lee Act, which called for improved training and standards for 911 dispatchers. Nathan Lee established the Denise Amber Lee Foundation in 2008, and he has since traveled the country advocating for mandatory dispatcher training, uniform protocols, and public awareness. The foundation's work has been credited with influencing 911 training standards and legislation in multiple states, making the case a touchstone in national discussions of emergency-dispatch accountability.",
+      "Michael King was arrested the night of the abduction, hours after Lee was reported missing. He was charged with first-degree murder, kidnapping, and sexual battery. His trial was held in Sarasota County; on August 28, 2009, after deliberating roughly two hours, the jury found him guilty on all counts. The jury unanimously recommended a death sentence, and King was formally sentenced to death. He was convicted and sentenced to death for the murder of Denise Amber Lee. The Florida Supreme Court upheld his convictions and sentence in 2012 (King v. State).",
+      "After years of appeals, Florida Governor Ron DeSantis signed King's death warrant in February 2026. Michael Lee King, then 54, was executed by lethal injection at Florida State Prison near Starke on March 17, 2026. The case remains widely cited in 911 and public-safety training, and the Denise Amber Lee Foundation continues its advocacy for improved emergency-dispatch practices."
+    ],
+    "timeline": [
+      {
+        "date": "2008-01-17",
+        "event": "Denise Amber Lee, 21, is abducted from her North Port, Florida home by Michael Lee King; five 911 calls, including one from Lee herself and one from witness Jane Kowalski, are placed over the following hours."
+      },
+      {
+        "date": "2008-01-17",
+        "event": "Kowalski's 911 call reporting a person screaming in a nearby car is routed to the Charlotte County 911 center and mishandled; King is arrested later that night."
+      },
+      {
+        "date": "2008-01-19",
+        "event": "Denise Amber Lee's body is found in a shallow grave near a North Port canal; she had been sexually assaulted and shot."
+      },
+      {
+        "date": "2008-04-24",
+        "event": "The Florida Legislature unanimously passes the Denise Amber Lee Act calling for improved 911 dispatcher training."
+      },
+      {
+        "date": "2008-06-01",
+        "event": "Nathan Lee, Denise's husband, establishes the Denise Amber Lee Foundation to advocate for nationwide 911 reform."
+      },
+      {
+        "date": "2009-08-24",
+        "event": "Michael King's trial begins in Sarasota County, Florida."
+      },
+      {
+        "date": "2009-08-28",
+        "event": "A jury convicts King of first-degree murder, kidnapping, and sexual battery after about two hours of deliberation."
+      },
+      {
+        "date": "2009-09-04",
+        "event": "The jury unanimously (12-0) recommends the death penalty; King is later formally sentenced to death."
+      },
+      {
+        "date": "2012-01-01",
+        "event": "The Florida Supreme Court affirms King's convictions and death sentence in King v. State."
+      },
+      {
+        "date": "2026-02-13",
+        "event": "Florida Governor Ron DeSantis signs Michael King's death warrant, scheduling his execution."
+      },
+      {
+        "date": "2026-03-17",
+        "event": "Michael Lee King, 54, is executed by lethal injection at Florida State Prison near Starke at 6:13 p.m."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "marquel-hines",
@@ -15400,14 +16150,88 @@
     ],
     "sources": [
       {
-        "title": "Killing of Oscar Grant — Wikipedia",
+        "title": "Killing of Oscar Grant - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Oscar_Grant"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Johannes Mehserle found guilty of involuntary manslaughter - ABC7 San Francisco",
+        "url": "https://abc7news.com/johannes-mehserle-oscar-grant-bart-trial-strategy/7913/"
+      },
+      {
+        "title": "Mehserle sentenced to 2 years, including time served - Oakland North",
+        "url": "https://oaklandnorth.net/2010/11/05/mehserle-sentenced-to-2-years-including-time-served/"
+      },
+      {
+        "title": "Alameda DA Reopens Investigation Into Oscar Grant Killing, Nearly 12 Years Later - KQED",
+        "url": "https://www.kqed.org/news/11841062/alameda-da-reopens-investigation-into-oscar-grant-killing-nearly-12-years-later"
+      },
+      {
+        "title": "Attorney General Bonta Announces Review of Oscar Grant Case - California Department of Justice",
+        "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-review-oscar-grant-case"
+      },
+      {
+        "title": "Ex-BART officer Johannes Mehserle released after 11 months in prison - NBC News",
+        "url": "https://www.nbcnews.com/id/wbna43376251"
       }
-    ]
+    ],
+    "narrative": [
+      "In the early morning hours of January 1, 2009, 22-year-old Oscar Grant III was fatally shot by Bay Area Rapid Transit (BART) police officer Johannes Mehserle on the platform of the Fruitvale Station in Oakland, California. Officers had detained Grant and several other passengers who were returning from New Year's Eve celebrations in San Francisco following reports of a fight aboard a crowded train. Grant, who was unarmed, was lying face down on the platform when Mehserle drew his firearm and shot him once in the back. Grant died later that morning at Highland Hospital.",
+      "The shooting was recorded by multiple bystanders on cell phones, and the footage was broadcast widely beginning the next day. The videos, which spread rapidly online and on television, made the case a national flashpoint in debates over police use of force and race, as Grant was a Black man and Mehserle was white. In the days and weeks that followed, Oakland saw a series of protests, some of which escalated into rioting downtown, resulting in over 100 arrests and significant property damage.",
+      "Alameda County prosecutors charged Mehserle with murder, and he was arrested in Nevada in January 2009. Citing extensive pretrial publicity, the court granted a change of venue, moving the trial to Los Angeles. At trial, Mehserle testified that he had intended to draw his Taser to subdue Grant but mistakenly drew his .40-caliber handgun instead. His defense argued this was a case of weapon confusion; the prosecution countered that the two weapons differed substantially in weight, size, and holster position, making such confusion unlikely. This account remains a contested element of the case.",
+      "On July 8, 2010, a Los Angeles jury convicted Mehserle of involuntary manslaughter, rejecting the more serious charges of second-degree murder and voluntary manslaughter. It was a rare criminal conviction of a police officer for an on-duty shooting. On November 5, 2010, the judge sentenced Mehserle to two years in prison, the minimum term for involuntary manslaughter, and struck a firearm sentencing enhancement that could have added years. With credit for time already served, Mehserle was released in June 2011 after serving roughly 11 months. An appeal challenging the conviction was later denied.",
+      "Grant's death had a lasting cultural and legal legacy. The 2013 film 'Fruitvale Station,' directed by Ryan Coogler in his feature debut, dramatized the final day of Grant's life and won the U.S. Dramatic Grand Jury Prize at the Sundance Film Festival, bringing renewed national attention to the case. In October 2020, Alameda County District Attorney Nancy O'Malley reopened the investigation, focusing on the conduct of a second officer, Anthony Pirone, whom a BART internal review had found initiated the chain of events leading to the shooting. In January 2021, the DA's office concluded that although Pirone's conduct was unprofessional, no criminal charges could be filed. Following requests from Grant's family and community groups, California Attorney General Rob Bonta announced on August 17, 2021, that the state Department of Justice would conduct an independent review of Pirone's involvement. Mehserle remains the only person criminally convicted in connection with Grant's death."
+    ],
+    "timeline": [
+      {
+        "date": "2009-01-01",
+        "event": "BART officer Johannes Mehserle fatally shoots 22-year-old Oscar Grant III, who was unarmed and face down, on the Fruitvale Station platform in Oakland; the shooting is captured on multiple bystander cell phone videos."
+      },
+      {
+        "date": "2009-01-07",
+        "event": "Grant's funeral is held; a peaceful protest begins at Fruitvale Station."
+      },
+      {
+        "date": "2009-01-08",
+        "event": "Evening protests in downtown Oakland escalate into rioting, with over 100 arrests."
+      },
+      {
+        "date": "2009-01-13",
+        "event": "Mehserle is arrested in Nevada after Alameda County prosecutors file a murder charge."
+      },
+      {
+        "date": "2009-10-16",
+        "event": "A judge grants a change of venue, moving Mehserle's trial to Los Angeles due to pretrial publicity."
+      },
+      {
+        "date": "2010-06-10",
+        "event": "Mehserle's trial begins in Los Angeles; he later testifies he mistook his handgun for his Taser (a contested claim)."
+      },
+      {
+        "date": "2010-07-08",
+        "event": "A Los Angeles jury convicts Mehserle of involuntary manslaughter, acquitting him of second-degree and voluntary manslaughter charges."
+      },
+      {
+        "date": "2010-11-05",
+        "event": "Mehserle is sentenced to two years in prison, the minimum term, with the judge striking a firearm enhancement."
+      },
+      {
+        "date": "2011-06-13",
+        "event": "Mehserle is released from custody after serving roughly 11 months."
+      },
+      {
+        "date": "2013-01-19",
+        "event": "'Fruitvale Station,' directed by Ryan Coogler, premieres at the Sundance Film Festival and wins the U.S. Dramatic Grand Jury Prize."
+      },
+      {
+        "date": "2020-10-05",
+        "event": "Alameda County DA Nancy O'Malley reopens the investigation, focusing on officer Anthony Pirone's role."
+      },
+      {
+        "date": "2021-08-17",
+        "event": "California Attorney General Rob Bonta announces an independent state review of Pirone's involvement after the DA declined to charge him in January 2021."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "susan-powell",
@@ -15932,14 +16756,80 @@
     ],
     "sources": [
       {
-        "title": "Who Killed Garrett Phillips? — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Who_Killed_Garrett_Phillips%3F"
+        "title": "Who Killed Garrett Phillips? - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Who_Killed_Garrett_Phillips"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Nick Hillary Found Not Guilty in Murder of 12-Year-Old Garrett Phillips - NBC News / Dateline",
+        "url": "https://www.nbcnews.com/dateline/nick-hillary-found-not-guilty-murder-12-year-old-garrett-n656091"
+      },
+      {
+        "title": "A Five Year Journey in the Garrett Phillips Case - NBC News / Dateline",
+        "url": "https://www.nbcnews.com/dateline/five-year-journey-garrett-phillips-case-n657616"
+      },
+      {
+        "title": "Hillary indicted in Garrett Phillips murder again - NCPR (North Country Public Radio)",
+        "url": "https://www.northcountrypublicradio.org/news/story/27260/20150122/hillary-indicted-in-garrett-phillips-murder-again"
+      },
+      {
+        "title": "Liz Garbus on Why We May Never Know 'Who Killed Garrett Phillips' - Variety",
+        "url": "https://variety.com/2019/tv/features/who-killed-garrett-phillips-liz-garbus-interview-1203271419/"
+      },
+      {
+        "title": "Hillary loses lawsuit against village of Potsdam, police - WWNY",
+        "url": "https://www.wwnytv.com/2022/06/10/hillary-loses-lawsuit-against-village-potsdam-police/"
+      },
+      {
+        "title": "U.S. Appeals Court strikes down Nick Hillary's verdict appeal in discrimination case - WWNY",
+        "url": "https://www.wwnytv.com/2023/07/03/us-appeals-court-strikes-down-nick-hillarys-verdict-appeal-discrimination-case/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the afternoon of October 24, 2011, 12-year-old Garrett Phillips was fatally attacked inside the Market Street apartment he shared with his mother and younger brother in Potsdam, a small college village in St. Lawrence County, New York. According to news accounts, neighbors responded to sounds of a struggle and Garrett was found gravely injured; he died shortly afterward. Reporting on the case has described the manner of death as strangulation and suffocation. Garrett's mother, Tandy Cyrus, was at work at the time. The killing shook the tight-knit North Country community and set off an investigation that would stretch on for years.",
+      "Investigators soon focused on Oral \"Nick\" Hillary, a Jamaican-born men's soccer coach at nearby Clarkson University and a former boyfriend of Tandy Cyrus. Hillary maintained his innocence from the outset, and his supporters and defense argued that the investigation fixated on him without physical evidence tying him to the scene. The case moved slowly through the courts: Hillary was arrested in May 2014, but a first indictment was dismissed in October 2014 when a judge found problems with the grand jury proceeding. A St. Lawrence County grand jury indicted him a second time on January 22, 2015, charging second-degree murder.",
+      "Hillary's 2016 trial in Canton, New York, was a bench trial: he waived his right to a jury and had his case decided by St. Lawrence County Judge Felix Catena. On September 28, 2016, after the prosecution presented its case, Judge Catena found Hillary not guilty. Hillary was acquitted. Prosecutors did not produce physical evidence directly linking him to the crime scene. The prosecution drew lasting scrutiny: District Attorney Mary E. Rain was later found to have committed professional misconduct, including failing to disclose evidence to the defense, and was subsequently suspended from practicing law. It is important to state clearly that Hillary was tried and acquitted, and the killing of Garrett Phillips has never been solved.",
+      "The case drew national attention through the two-part HBO documentary \"Who Killed Garrett Phillips?\", directed by Liz Garbus. It premiered at the AFI Docs festival on June 20, 2019, and aired on HBO on July 23 and 24, 2019. The film examined the investigation, questions of racial bias, and the prosecutorial conduct surrounding Hillary's prosecution. Hillary later pursued a federal civil-rights lawsuit alleging he had been targeted; he lost that case at trial in June 2022, and a federal appeals court rejected his appeal in 2023.",
+      "More than a decade after Garrett's death, no one has been convicted of the crime and the case remains officially unsolved. Coverage in local and national outlets has periodically revisited investigative leads, but none has resulted in new charges. Garrett Phillips's homicide continues to be listed among unsolved cases, and Nick Hillary — the only person ever charged — was acquitted and has consistently asserted his innocence."
+    ],
+    "timeline": [
+      {
+        "date": "2011-10-24",
+        "event": "Twelve-year-old Garrett Phillips is fatally attacked in his family's apartment on Market Street in Potsdam, New York; he dies of injuries described in reporting as strangulation and suffocation."
+      },
+      {
+        "date": "2014-05-15",
+        "event": "Oral \"Nick\" Hillary, a Clarkson University soccer coach and former boyfriend of Garrett's mother, is arrested after a St. Lawrence County grand jury indictment."
+      },
+      {
+        "date": "2014-10-16",
+        "event": "A judge dismisses the first indictment against Hillary, citing problems with the grand jury proceeding."
+      },
+      {
+        "date": "2015-01-22",
+        "event": "A St. Lawrence County grand jury indicts Hillary a second time on a charge of second-degree murder."
+      },
+      {
+        "date": "2016-09-28",
+        "event": "Following a bench trial, St. Lawrence County Judge Felix Catena finds Hillary not guilty; Hillary is acquitted, and no physical evidence had tied him to the scene."
+      },
+      {
+        "date": "2019-06-20",
+        "event": "Liz Garbus's documentary \"Who Killed Garrett Phillips?\" premieres at the AFI Docs festival in Washington, D.C."
+      },
+      {
+        "date": "2019-07-23",
+        "event": "The two-part HBO documentary \"Who Killed Garrett Phillips?\" begins airing (July 23 and 24, 2019)."
+      },
+      {
+        "date": "2022-06-10",
+        "event": "Hillary loses his federal civil-rights lawsuit against the Village of Potsdam and police at trial."
+      },
+      {
+        "date": "2023-07-03",
+        "event": "A U.S. appeals court rejects Hillary's appeal of the verdict in his discrimination lawsuit; the killing of Garrett Phillips remains unsolved."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "holly-bobo",
@@ -16572,10 +17462,68 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of Jordan Davis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jordan_Davis"
+      },
+      {
+        "title": "Michael Dunn guilty of first-degree murder for killing Jordan Davis - News4Jax",
+        "url": "https://www.news4jax.com/news/2014/10/02/michael-dunn-guilty-of-first-degree-murder-for-killing-jordan-davis/"
+      },
+      {
+        "title": "Michael Dunn Found Guilty In Florida 'Loud Music' Shooting - NPR",
+        "url": "https://www.npr.org/sections/thetwo-way/2014/10/01/353058675/michael-dunn-found-guilty-in-florida-loud-music-shooting"
+      },
+      {
+        "title": "Michael Dunn Sentenced to Life Without Parole for Loud Music Killing - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/michael-dunn-sentenced-life-without-parole-loud-music-killing-n228191"
+      },
+      {
+        "title": "Man gets life without parole for murdering Florida teen over loud music - CNN",
+        "url": "https://www.cnn.com/2014/10/17/justice/michael-dunn-sentencing"
       }
-    ]
+    ],
+    "narrative": [
+      "On the evening of November 23, 2012, 17-year-old Jordan Russell Davis was fatally shot at a Gate Petroleum gas station on Southside Boulevard in Jacksonville, Florida. Davis, an African-American high school student, was sitting in a red Dodge Durango SUV with three friends who had stopped for gum and cigarettes. The vehicle next to them was a car driven by Michael David Dunn, a 45-year-old software developer who had pulled in after attending his son's wedding earlier that day.",
+      "Dunn objected to the loud hip-hop music coming from the teenagers' SUV and asked them to turn it down. One of the teens initially lowered the volume, but Davis told him to turn it back up. A verbal confrontation escalated between Dunn and Davis. Dunn retrieved a handgun from his glove compartment and fired ten rounds at the SUV; three struck Davis, hitting his legs, lungs, and aorta and killing him. The other three teenagers were unharmed as the SUV pulled away. Dunn drove off, returned to his hotel, and was arrested the next day.",
+      "Dunn claimed he acted in self-defense, testifying that he believed he saw a shotgun and feared for his life. Prosecutors argued the threat was imagined: no firearm was ever recovered from the SUV or the scene, and evidence indicated the teens posed no armed threat. Although Dunn did not formally invoke Florida's 'Stand Your Ground' law in a pretrial immunity hearing, the case became a national flashpoint in the debate over the statute, self-defense claims, and the killing of unarmed Black teenagers, drawing frequent comparison to the 2012 killing of Trayvon Martin.",
+      "At Dunn's first trial in February 2014, the jury convicted him on three counts of attempted second-degree murder and one count of firing into an occupied vehicle, but deadlocked on the first-degree murder charge for Davis's death, and the judge declared a mistrial on that single count. Prosecutors retried Dunn on the murder charge later that year. On October 1, 2014, after roughly five and a half hours of deliberation, the retrial jury of eight men and four women found Michael Dunn guilty of the first-degree murder of Jordan Davis.",
+      "On October 17, 2014, Dunn was sentenced to life in prison without the possibility of parole for the murder, plus an additional 90 years for the three attempted-murder counts and 15 years for firing into the vehicle. His convictions were upheld on appeal: Florida's First District Court of Appeal affirmed in November 2016, and the Florida Supreme Court declined to disturb the case. Dunn remains incarcerated in the Florida prison system serving his life sentence. Jordan Davis's mother, Lucia (Lucy) McBath, became a prominent gun-safety advocate and was later elected to the U.S. House of Representatives from Georgia."
+    ],
+    "timeline": [
+      {
+        "date": "2012-11-23",
+        "event": "Jordan Davis, 17, is fatally shot by Michael Dunn during a dispute over loud music at a Gate gas station in Jacksonville, Florida."
+      },
+      {
+        "date": "2012-11-24",
+        "event": "Michael Dunn is arrested and charged; he is later indicted on first-degree murder and attempted-murder counts."
+      },
+      {
+        "date": "2014-02-15",
+        "event": "First trial ends: Dunn is convicted on three counts of attempted second-degree murder and firing into an occupied vehicle, but the jury deadlocks on the first-degree murder charge, prompting a mistrial on that count."
+      },
+      {
+        "date": "2014-09-22",
+        "event": "Jury selection begins for Dunn's retrial on the first-degree murder charge."
+      },
+      {
+        "date": "2014-10-01",
+        "event": "Retrial jury finds Michael Dunn guilty of the first-degree murder of Jordan Davis."
+      },
+      {
+        "date": "2014-10-17",
+        "event": "Dunn is sentenced to life in prison without parole plus 105 years."
+      },
+      {
+        "date": "2016-11-17",
+        "event": "Florida's First District Court of Appeal affirms Dunn's convictions."
+      },
+      {
+        "date": "2020-06-22",
+        "event": "The Florida Supreme Court declines to grant further relief, leaving the conviction and life sentence in place."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "melissa-jenkins",
@@ -16626,14 +17574,68 @@
     ],
     "sources": [
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Girl in the Shed: The Kidnapping of Abby Hernandez - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Girl_in_the_Shed:_The_Kidnapping_of_Abby_Hernandez"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Arrest Made in Abigail Hernandez Case - NBC News",
+        "url": "https://www.nbcnews.com/feature/missing-in-america/arrest-made-abigail-hernandez-case-n74126"
+      },
+      {
+        "title": "Kidnapping survivor Abby Hernandez reveals how she stayed alive in captivity - ABC News",
+        "url": "https://abcnews.com/US/kidnapping-survivor-abby-hernandez-reveals-stayed-alive-captivity/story?id=57651942"
+      },
+      {
+        "title": "Conway kidnapping victim Abigail Hernandez shares her story on ABC's '20/20' - Concord Monitor",
+        "url": "https://www.concordmonitor.com/2018/09/05/abby-hernandez-interview-abc-kidnapping-19956789/"
+      },
+      {
+        "title": "Nathaniel Kibby, The Predator Who Kidnapped Abby Hernandez - All That's Interesting",
+        "url": "https://allthatsinteresting.com/nate-kibby"
+      },
+      {
+        "title": "Nate Kibby: Where is Abby Hernandez's Kidnapper Today? - The Cinemaholic",
+        "url": "https://thecinemaholic.com/where-is-nathaniel-kibby-now/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the afternoon of October 9, 2013, 14-year-old Abigail \"Abby\" Hernandez disappeared while walking home from Kennett High School in the Conway area of North Conway, New Hampshire. When she failed to arrive home, her family reported her missing, prompting one of the largest and most sustained missing-person searches in the state's history. Investigators found few leads, and for months the case remained a mystery that gripped the small Mount Washington Valley community.",
+      "Unknown to searchers, Abby had been abducted by Nathaniel E. Kibby, a local man who had forced her into his vehicle and taken her to his property in Gorham, New Hampshire. There he confined her in a modified soundproofed storage container, where she was held captive and repeatedly assaulted over the following months. Abby later described surviving by staying calm, complying strategically, and gradually building a measure of trust with her captor.",
+      "After 284 days, Kibby released Abby on July 20, 2014, dropping her near where she had been taken. She walked the remaining distance to her mother's home and was reunited with her family after roughly nine months in captivity. Her return, alive, stunned the community and reinvigorated the investigation.",
+      "State and federal authorities arrested Kibby in late July 2014, and the New Hampshire Attorney General's Office charged him with kidnapping. Over the following months additional charges were filed as investigators built the case. In May 2016, rather than proceed to trial, Kibby pleaded guilty to seven felony counts, including three counts of aggravated felonious sexual assault, kidnapping, witness tampering, second-degree assault, and criminal threatening. He was sentenced to 45 to 90 years in state prison, with mandatory sex-offender treatment. Prosecutors said the negotiated resolution spared Abby from having to testify in detail about her abuse at a public trial.",
+      "Abby Hernandez survived her ordeal and, in the years afterward, chose to speak publicly about it to raise awareness. In September 2018 she gave a widely viewed interview to ABC News' \"20/20,\" recounting details of her captivity and how she stayed alive. She later served as an executive producer on the Lifetime film \"Girl in the Shed: The Kidnapping of Abby Hernandez,\" which premiered on February 26, 2022. Kibby remains incarcerated. The case is closed by conviction; Abby Hernandez survived and has become a public advocate for awareness of abduction and abuse."
+    ],
+    "timeline": [
+      {
+        "date": "2013-10-09",
+        "event": "Abby Hernandez, 14, disappears while walking home from school in the Conway/North Conway, New Hampshire, area; family reports her missing, launching a large-scale search."
+      },
+      {
+        "date": "2014-07-20",
+        "event": "After 284 days in captivity, Abby is released by her abductor and walks home to her mother's residence, reuniting with her family."
+      },
+      {
+        "date": "2014-07-28",
+        "event": "Nathaniel E. Kibby is arrested and charged by the New Hampshire Attorney General's Office with felony kidnapping in connection with Abby's confinement."
+      },
+      {
+        "date": "2016-05-11",
+        "event": "Kibby pleads guilty to seven felony counts, including kidnapping and aggravated felonious sexual assault, avoiding trial."
+      },
+      {
+        "date": "2016-05-11",
+        "event": "Kibby is sentenced to 45 to 90 years in state prison with mandatory sex-offender treatment; Abby delivers a victim statement in court."
+      },
+      {
+        "date": "2018-09-07",
+        "event": "Abby Hernandez tells her full story publicly for the first time in an interview on ABC News' \"20/20.\""
+      },
+      {
+        "date": "2022-02-26",
+        "event": "The Lifetime film \"Girl in the Shed: The Kidnapping of Abby Hernandez,\" on which Abby served as an executive producer, premieres."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "alexis-murphy",
@@ -16657,10 +17659,90 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of Alexis Murphy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Alexis_Murphy"
+      },
+      {
+        "title": "Virginia man guilty of abducting, murdering missing teen - CBS News",
+        "url": "https://www.cbsnews.com/news/virginia-man-guilty-of-abducting-murdering-missing-teen-17/"
+      },
+      {
+        "title": "Remains of Alexis Murphy, missing since 2013, found in Lovingston - WSET",
+        "url": "https://wset.com/news/local/remains-of-alexis-murphy-missing-since-2013-found-in-lovingston"
+      },
+      {
+        "title": "Remains of Nelson County teen Alexis Murphy found seven years after her murder - WSLS",
+        "url": "https://www.wsls.com/news/local/2021/02/17/remains-of-nelson-county-teen-alexis-murphy-found-seven-years-after-her-murder/"
+      },
+      {
+        "title": "Killer leads to Alexis Murphy's remains, could face charges in murder of second Va. woman - WTOP News",
+        "url": "https://wtop.com/virginia/2021/03/alexis-murphys-killer-led-authorities-to-her-remains-remains-focal-point-in-virginia-murder-of-samantha-clarke/"
+      },
+      {
+        "title": "Alexis Murphy: Body of slain teen found 7 years after disappearance - KIRO 7",
+        "url": "https://www.kiro7.com/news/trending/alexis-murphy-body-slain-teen-found-7-years-after-disappearance-6-years-after-killer-convicted/UTMOWX6BBBA45GOBGUO27V4PZ4/"
       }
-    ]
+    ],
+    "narrative": [
+      "Alexis Tiara Murphy was a 17-year-old high school student from Shipman in Nelson County, Virginia. On the afternoon of August 3, 2013, she left home in her white 2003 Nissan Maxima and was captured on surveillance video inside a Liberty gas station in Lovingston, along U.S. Route 29. She was never seen alive again, and her family reported her missing when she failed to return.",
+      "The disappearance triggered a large search across Nelson and surrounding counties. Investigators reviewed the gas-station surveillance footage and identified another customer present that evening: 48-year-old Randy Allen Taylor, who lived in a camper on a property off Route 29. Murphy's abandoned Nissan Maxima was found on August 6, 2013, in a movie-theater parking lot in Albemarle County, roughly 20 miles from Lovingston.",
+      "Taylor was arrested on August 11, 2013, initially on an abduction charge. When investigators searched his camper, they recovered physical evidence linking him to Murphy, including a t-shirt hidden beneath a couch that was stained with blood and contained hair extensions and false eyelashes. Forensic testing determined the blood belonged to Alexis Murphy. This DNA evidence became central to the prosecution because Murphy's body had not been located.",
+      "A grand jury indicted Taylor in September 2013, and additional charges, including first-degree murder and felony murder, were added in January 2014. Prosecutors pursued the case as a 'no-body' homicide, relying on the forensic and circumstantial evidence tying Taylor to the teenager. Taylor maintained his innocence throughout.",
+      "Taylor's trial began on May 1, 2014, in Nelson County. On May 8, 2014, a jury found him guilty of first-degree murder in the commission of an abduction and abduction with intent to defile. On July 23, 2014, he was sentenced to two life terms in prison. Around the sentencing, Taylor, through his attorney, offered to reveal the location of Murphy's remains in exchange for a reduced sentence of about 20 years; prosecutors and Murphy's family rejected the offer, and the judge imposed the full sentences. Taylor's subsequent appeals were denied in 2015 and 2016.",
+      "The case shifted years later. In October 2020, authorities transported Taylor from Red Onion State Prison and he guided investigators to a site on private property in Lovingston, near the intersection of U.S. Route 29 and Stagebridge Road. Human remains were located there on December 3, 2020. The Office of the Chief Medical Examiner in Richmond positively identified the remains as Alexis Murphy on February 5, 2021, and officials publicly announced the identification on February 17, 2021, after allowing the family time to grieve. The Nelson County Commonwealth's Attorney stated that no promises were made and that Taylor's two life sentences were unchanged.",
+      "Contrary to some summaries, Taylor did not enter a guilty plea in the Murphy case or in any related matter; he was convicted at trial and has continued to deny responsibility. Taylor's cooperation did, however, draw renewed attention to the 2010 disappearance of 19-year-old Samantha Clarke in Orange County, Virginia. In January 2021, Orange County reclassified Clarke's case from a missing-persons investigation to an abduction and homicide investigation, but Taylor has not been charged in that case and Clarke's remains have not been recovered. As of 2024, Taylor remains incarcerated and serving two life sentences for the murder of Alexis Murphy."
+    ],
+    "timeline": [
+      {
+        "date": "2013-08-03",
+        "event": "Alexis Murphy, 17, is last seen on surveillance video at a Liberty gas station in Lovingston, Virginia; she disappears."
+      },
+      {
+        "date": "2013-08-06",
+        "event": "Murphy's white 2003 Nissan Maxima is found abandoned in an Albemarle County theater parking lot."
+      },
+      {
+        "date": "2013-08-11",
+        "event": "Randy Allen Taylor, 48, is arrested on an abduction charge in connection with Murphy's disappearance."
+      },
+      {
+        "date": "2013-09-24",
+        "event": "A grand jury returns the first indictment against Taylor on felony charges."
+      },
+      {
+        "date": "2014-01",
+        "event": "Additional charges, including first-degree murder and felony murder, are added against Taylor."
+      },
+      {
+        "date": "2014-05-01",
+        "event": "Taylor's trial begins in Nelson County Circuit Court."
+      },
+      {
+        "date": "2014-05-08",
+        "event": "A jury convicts Taylor of first-degree murder in the commission of an abduction and abduction with intent to defile, based largely on DNA evidence despite no body being found."
+      },
+      {
+        "date": "2014-07-23",
+        "event": "Taylor is sentenced to two life terms in prison."
+      },
+      {
+        "date": "2020-10",
+        "event": "Taylor is transported from Red Onion State Prison and leads investigators toward a site in Lovingston."
+      },
+      {
+        "date": "2020-12-03",
+        "event": "Human remains are recovered on private property in Lovingston near U.S. Route 29 and Stagebridge Road."
+      },
+      {
+        "date": "2021-02-05",
+        "event": "The Office of the Chief Medical Examiner positively identifies the remains as Alexis Murphy."
+      },
+      {
+        "date": "2021-02-17",
+        "event": "Authorities publicly announce that Murphy's remains have been found and identified, more than seven years after her disappearance."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "avonte-oquendo",
@@ -16684,10 +17766,81 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Avonte Oquendo's Manner, Cause of Death Undetermined: Medical Examiner - NBC New York",
+        "url": "https://www.nbcnewyork.com/news/local/avonte-oquendo-cause-of-death-medical-examiner-new-york-city/761423/"
+      },
+      {
+        "title": "Avonte Oquendo's cause of death undetermined: medical examiner - QNS",
+        "url": "https://qns.com/2014/02/avonte-oquendos-cause-of-death-undetermined-medical-examiner/"
+      },
+      {
+        "title": "City settles with family of Avonte Oquendo for $2.7 million - QNS/LIC Post",
+        "url": "https://qns.com/city-settles-with-family-of-avonte-oquendo-for-2-7-million/"
+      },
+      {
+        "title": "Council to Vote on 'Avonte's Law' Requiring DOE to Evaluate Need for Alarms on NYC School Facility Exits - NYC Council",
+        "url": "https://council.nyc.gov/press/2014/07/24/347/"
+      },
+      {
+        "title": "Human remains found in Queens ID'd as missing Avonte Oquendo - CNN",
+        "url": "https://www.cnn.com/2014/01/21/justice/ny-avonte-remains/index.html"
+      },
+      {
+        "title": "'Avonte's Law': Schumer proposes GPS trackers for children with autism - NBC News",
+        "url": "https://www.nbcnews.com/tech/tech-news/avontes-law-schumer-proposes-gps-trackers-children-autism-flna2D11999566"
       }
-    ]
+    ],
+    "narrative": [
+      "Avonte Oquendo was a 14-year-old nonverbal boy with severe autism who disappeared from school in Long Island City, Queens, on October 4, 2013. He attended a District 75 special-education program housed in the Center Boulevard School building (also home to the Riverview School), which served students with disabilities. School surveillance video captured him leaving his classroom, moving through the building, and exiting alone through a side door shortly after 12:30 p.m. He was known to be drawn to trains and water.",
+      "His disappearance triggered one of the largest search efforts in recent New York City history. Police, volunteers, and the family searched for more than three months, deploying search dogs, reviewing surveillance footage, and repeatedly canvassing the city's subway system and waterfront areas because of Avonte's known fascination with trains. Recordings of his mother's voice were played in subway stations in the hope he might respond. The case drew national media attention and a large public reward fund.",
+      "On January 16, 2014, human remains were discovered along the East River shoreline in the College Point section of Queens, near Powell Cove Boulevard. On January 21, 2014, the New York City Medical Examiner's Office confirmed through DNA testing that the remains were Avonte's. The location was consistent with the tidal East River near where he had gone missing.",
+      "The medical examiner was unable to establish how Avonte died. On February 26, 2014, the office ruled that both the cause and manner of his death were undetermined, in part because of the condition of the remains after months in the water. Authorities treated the death as a likely accidental drowning of a child who had wandered to the waterfront, but no cause of death was ever officially confirmed, no evidence of foul play was reported, and no one was charged with a crime. His attorney publicly noted that it could not be determined whether Avonte was alive when he entered the water.",
+      "The case prompted school-safety and wandering-prevention reforms known as 'Avonte's Law.' A New York City measure requiring the Department of Education to evaluate and install audible alarms on exterior doors at elementary and District 75 schools passed the City Council by a 49-0 vote on July 24, 2014, and was signed by Mayor Bill de Blasio on August 7, 2014; alarms were subsequently installed across nearly all city school buildings. At the federal level, U.S. Senator Charles Schumer proposed a companion 'Avonte's Law' in 2014 to fund voluntary tracking technology for children with autism; related provisions were later enacted as 'Kevin and Avonte's Law' in 2018.",
+      "Avonte's mother, Vanessa Fontaine, filed a negligence and wrongful-death claim in 2014 against the City, the Department of Education, and school-safety personnel, initially seeking $25 million. The City settled with the family for $2.7 million, with the settlement reported in 2016. The case remains classified as an unsolved suspicious death because the exact circumstances and cause of death were never determined, though it was never charged or investigated as a homicide."
+    ],
+    "timeline": [
+      {
+        "date": "2013-10-04",
+        "event": "Avonte Oquendo, a 14-year-old nonverbal autistic boy, leaves his District 75 school program in the Center Boulevard/Riverview School building in Long Island City, Queens, through a side door and disappears."
+      },
+      {
+        "date": "2013-10",
+        "event": "A massive multi-agency and volunteer search begins, focusing on the subway system and waterfront because of Avonte's attraction to trains and water; his mother's recorded voice is played in stations."
+      },
+      {
+        "date": "2014-01-16",
+        "event": "Human remains are found along the East River shoreline in College Point, Queens, near Powell Cove Boulevard."
+      },
+      {
+        "date": "2014-01-21",
+        "event": "The NYC Medical Examiner confirms via DNA testing that the remains are Avonte Oquendo's."
+      },
+      {
+        "date": "2014-02-26",
+        "event": "The Medical Examiner rules the cause and manner of Avonte's death undetermined; authorities report no evidence of foul play and file no charges."
+      },
+      {
+        "date": "2014-06",
+        "event": "Avonte's mother, Vanessa Fontaine, files a claim/lawsuit against the City and Department of Education alleging inadequate supervision, initially seeking $25 million."
+      },
+      {
+        "date": "2014-07-24",
+        "event": "The New York City Council passes 'Avonte's Law' requiring evaluation and installation of audible door alarms at schools, by a 49-0 vote."
+      },
+      {
+        "date": "2014-08-07",
+        "event": "Mayor Bill de Blasio signs the NYC 'Avonte's Law' door-alarm legislation."
+      },
+      {
+        "date": "2016-07",
+        "event": "The City of New York settles the family's lawsuit for $2.7 million."
+      },
+      {
+        "date": "2018",
+        "event": "Federal 'Kevin and Avonte's Law' is enacted, funding voluntary tracking and safety programs for people with autism and Alzheimer's who are prone to wandering."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "elisa-lam",
@@ -16804,14 +17957,73 @@
     ],
     "sources": [
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "The death of Hanna Harris: Hope through heartbreak - Last Best News",
+        "url": "https://montana-mint.com/lastbestnews/2015/06/the-death-of-hanna-harris-hope-through-heartbreak/"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Struggle for Justice: The women behind Hanna's Act - UM Native News Project",
+        "url": "https://nativenews.jour.umt.edu/2019/northern-cheyenne/"
+      },
+      {
+        "title": "Missing and Murdered Indigenous Women and Relatives (MMIWR) Awareness - NIWRC",
+        "url": "https://www.niwrc.org/mmiwr-awareness"
+      },
+      {
+        "title": "Say Her Name: Hanna Harris' Murder is Why We Remember MMIP on May 5 - Native News Online",
+        "url": "https://nativenewsonline.net/opinion/say-her-name-hanna-harris-murder-is-why-we-remember-our-missing-and-murdered-indigenous-people-on-may-5/"
+      },
+      {
+        "title": "What Happened to Hanna Harris? - Distractify",
+        "url": "https://www.distractify.com/p/what-happened-to-hanna-harris"
       }
-    ]
+    ],
+    "narrative": [
+      "Hanna Harris was a 21-year-old citizen of the Northern Cheyenne Tribe and the mother of a young son. She lived in Lame Deer, Montana, on the Northern Cheyenne Reservation. On July 3-4, 2013, she left home to watch Independence Day fireworks and visited the Jimtown Bar near the reservation border. She never returned. Her family last heard from her around the early hours of July 4.",
+      "When Harris did not come home, her mother, Malinda Limberhand, reported her missing on July 5, 2013. According to the family and later reporting, law enforcement was slow to respond, and relatives were initially told Harris was likely out drinking and would return on her own. With little official action, Limberhand, her family, and the Northern Cheyenne community organized their own search. They gathered surveillance footage from the Jimtown Bar, located Harris's car, distributed missing-person notices, and raised reward money. On July 8, 2013, a volunteer search team found Harris's badly decomposed body near the Lame Deer rodeo grounds.",
+      "Because of the delay in recovering her remains, physical evidence was severely compromised, and an official cause of death could not be formally established. Investigators and, later, court testimony indicated Harris had been sexually assaulted and beaten to death. The case was prosecuted in federal court because the crime occurred on tribal land.",
+      "Two people were convicted. Eugenia Ann Rowland pleaded guilty to second-degree murder, admitting that she and her partner beat Harris after an altercation; on February 13, 2015, a federal judge sentenced Rowland to 22 years in prison. Garrett Sidney Henderson Wadda pleaded guilty to being an accessory after the fact, admitting he moved and dumped Harris's body at the rodeo grounds; in June 2015 he was sentenced to 10 years in prison. (Note: the convicted parties are Rowland and Wadda; earlier references naming an 'Angelina Whiteman/LaFramboise' do not match the court record.)",
+      "On August 12, 2013, roughly 200 people joined Limberhand in a 'Justice for Hanna' march in Lame Deer, calling attention to the slow response by tribal and federal authorities and to other overlooked victims. Harris's case became a catalyst for the Missing and Murdered Indigenous Women (MMIW) movement. In 2017, the Montana congressional delegation, including Senators Steve Daines and Jon Tester, secured a U.S. Senate resolution designating May 5 as the National Day of Awareness for Missing and Murdered Native Women and Girls. May 5 was chosen because it was Hanna Harris's birthday; she would have turned 30 in 2022.",
+      "Her death also spurred legislative change in Montana. 'Hanna's Act,' sponsored by Representative Rae Peppers and named in Harris's memory, was signed into Montana law in 2019. It authorizes the state Department of Justice to employ a missing-persons specialist to assist with cases across the state, maintain databases, support families, and train law enforcement. Both people convicted in the case remain in custody, and each year on May 5, communities wear red and hold events honoring Harris and other missing and murdered Indigenous people."
+    ],
+    "timeline": [
+      {
+        "date": "1992-05-05",
+        "event": "Hanna Harris is born; May 5 is later chosen as the MMIW awareness date in honor of her birthday."
+      },
+      {
+        "date": "2013-07-03",
+        "event": "Harris, 21, leaves home to watch July 4 fireworks and visits the Jimtown Bar near Lame Deer; she is last heard from in the early hours of July 4."
+      },
+      {
+        "date": "2013-07-05",
+        "event": "Family reports Harris missing; frustrated by a slow official response, her mother Malinda Limberhand and the Northern Cheyenne community begin their own search."
+      },
+      {
+        "date": "2013-07-08",
+        "event": "A volunteer search team finds Harris's badly decomposed body near the Lame Deer rodeo grounds."
+      },
+      {
+        "date": "2013-08-12",
+        "event": "About 200 people join a 'Justice for Hanna' march in Lame Deer demanding accountability."
+      },
+      {
+        "date": "2015-02-13",
+        "event": "Eugenia Ann Rowland is sentenced to 22 years in prison after pleading guilty to second-degree murder."
+      },
+      {
+        "date": "2015-06",
+        "event": "Garrett Sidney Henderson Wadda is sentenced to 10 years for accessory after the fact for moving and dumping Harris's body."
+      },
+      {
+        "date": "2017",
+        "event": "A U.S. Senate resolution, championed by Montana's delegation, designates May 5 as the National Day of Awareness for Missing and Murdered Native Women and Girls."
+      },
+      {
+        "date": "2019",
+        "event": "'Hanna's Act' is signed into Montana law, creating a missing-persons specialist within the state Department of Justice."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "nikki-leas",
@@ -16970,10 +18182,65 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jessica Chambers case: Second mistrial declared for Quinton Tellis in teen's burning death - CBS News",
+        "url": "https://www.cbsnews.com/news/jessica-chambers-case-quenton-tellis-batesville-mississippi-mistrial-declared-today-2018-10-01/"
+      },
+      {
+        "title": "Jessica Chambers Case: Judge Declares Mistrial In Quinton Tellis Trial - Oxygen",
+        "url": "https://www.oxygen.com/crime-time/judge-declares-mistrial-jessica-chambers-murder-case"
+      },
+      {
+        "title": "Quinton Tellis, accused of killing Jessica Chambers in MS, faces new hearing in Louisiana murder - Yahoo News",
+        "url": "https://www.yahoo.com/news/quinton-tellis-accused-killing-jessica-192749261.html"
+      },
+      {
+        "title": "Jessica Chambers case hits 7 years, still unfinished - Darkhorse Press",
+        "url": "https://darkhorsepressnow.com/news/top-story/2021-12-06/jessica-chambers-case-hits-7-years-still-unfinished/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the evening of December 6, 2014, 19-year-old Jessica Chambers was found badly burned on a rural road near Courtland, in Panola County, Mississippi, roughly 70 miles south of Memphis, Tennessee. Her car had been set on fire nearby. According to reporting by CBS News and Oxygen, first responders described catastrophic burns covering the great majority of her body. Chambers was airlifted to a hospital in the Memphis area, where she died early the next morning, December 7, 2014, from her injuries.",
+      "The case drew national attention, in part because of the brutality of the crime and because of accounts, later disputed in court, of what Chambers may have said to firefighters at the scene. Investigators from local, state, and federal agencies conducted a lengthy inquiry. In February 2016, more than a year after her death, a Panola County grand jury indicted Quinton Tellis, a Courtland-area man, on a charge of capital murder in connection with Chambers's death, according to CBS News and other outlets. Tellis pleaded not guilty. It is important to note that Tellis was accused, not convicted; the allegations against him were never proven in court.",
+      "The first trial took place in Panola County in October 2017. Prosecutors argued that Tellis had a connection to Chambers and pointed to circumstantial and forensic evidence. The defense contended the wrong man had been charged, emphasizing testimony from several first responders who said they heard the dying Chambers name someone who sounded like 'Eric' or 'Derek' as the person who set her on fire. Prosecutors countered with expert testimony that Chambers's severe burns would have made clear speech difficult. On October 16, 2017, the jury was unable to reach a unanimous verdict and the judge declared a mistrial, as reported by CNN and CBS News.",
+      "Prosecutors elected to try Tellis a second time. That retrial began September 24, 2018, and was heard by a jury before Panola County Circuit Judge Gerald Chatham. After roughly two days of deliberation, the second jury also deadlocked. On October 1, 2018, Judge Chatham declared a second mistrial. Defense attorney Darla Palmer told reporters the jurors were split 6-6, according to CBS News and Oxygen. In both trials, Tellis was never found guilty; each ended in a hung jury.",
+      "Following the second mistrial, District Attorney John Champion indicated prosecutors had not decided whether to bring the case a third time. As of reporting through 2021 and later, no third trial had been scheduled and the murder charge against Tellis in Chambers's death was not pursued further; some coverage described the case as effectively unresolved, or, in the words of one Mississippi outlet, 'possibly solved, possibly not' but 'definitely unfinished.' No one has been convicted in Jessica Chambers's death, and the case remains without a legal resolution.",
+      "Separately, Tellis has faced a murder charge in Louisiana in the 2015 stabbing death of Meing-Chen (Mandy) Hsiao, a former graduate student in Monroe; that case has its own protracted history and is unrelated to any finding of guilt in the Chambers matter. Any reference to the Louisiana case should not be read as evidence in the Chambers case. In sum, while Quinton Tellis was twice tried for Jessica Chambers's death, both trials ended in mistrials, he was never convicted, and the case is effectively unsolved."
+    ],
+    "timeline": [
+      {
+        "date": "2014-12-06",
+        "event": "Jessica Chambers, 19, is found severely burned near her burning car on a rural road outside Courtland, Panola County, Mississippi."
+      },
+      {
+        "date": "2014-12-07",
+        "event": "Chambers dies from her injuries at a hospital in the Memphis, Tennessee area."
+      },
+      {
+        "date": "2016-02",
+        "event": "A Panola County grand jury indicts Quinton Tellis on a capital murder charge in connection with Chambers's death; Tellis pleads not guilty."
+      },
+      {
+        "date": "2017-10",
+        "event": "The first trial of Quinton Tellis is held in Panola County, Mississippi."
+      },
+      {
+        "date": "2017-10-16",
+        "event": "The first trial ends in a mistrial after the jury is unable to reach a unanimous verdict."
+      },
+      {
+        "date": "2018-09-24",
+        "event": "The retrial of Quinton Tellis begins before Circuit Judge Gerald Chatham."
+      },
+      {
+        "date": "2018-10-01",
+        "event": "Judge Chatham declares a second mistrial; defense attorney Darla Palmer reports the jury was split 6-6."
+      },
+      {
+        "date": "2021-12-06",
+        "event": "On the seventh anniversary of Chambers's death, reporting notes no third trial has been scheduled and the case remains legally unresolved."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "laquan-mcdonald",
@@ -16999,14 +18266,85 @@
     ],
     "sources": [
       {
-        "title": "Murder of Laquan McDonald — Wikipedia",
+        "title": "Murder of Laquan McDonald - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Laquan_McDonald"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jason Van Dyke sentenced to 6 years, 9 months for Laquan McDonald murder - ABC7 Chicago",
+        "url": "https://abc7chicago.com/van-dyke-sentencing-laquan-mcdonald-jason-video/5094290/"
+      },
+      {
+        "title": "ACLU of Illinois Reacts to Acquittal of Three CPD Officers in Laquan McDonald Conspiracy Trial",
+        "url": "https://www.aclu-il.org/press-releases/aclu-illinois-reacts-acquittal-three-cpd-officers-laquan-mcdonald-conspiracy-trial/"
+      },
+      {
+        "title": "Jason Van Dyke, Chicago police officer who killed Laquan McDonald, is released - NPR",
+        "url": "https://www.npr.org/2022/02/03/1077574977/jason-van-dyke-chicago-police-released-laquan-mcdonald"
+      },
+      {
+        "title": "Chicago police chief Garry McCarthy fired amid Laquan McDonald fallout - CBS News",
+        "url": "https://www.cbsnews.com/news/chicago-police-chief-garry-mccarthy-fired-laquan-mcdonald-fallout/"
+      },
+      {
+        "title": "Chicago Cops Found Not Guilty in Laquan McDonald Cover-Up Trial - WTTW",
+        "url": "https://news.wttw.com/2019/01/17/laquan-mcdonald-police-cover-up-verdict"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of October 20, 2014, 17-year-old Laquan McDonald was fatally shot by Chicago Police Department officer Jason Van Dyke on the city's Southwest Side. Police had been called to the area after reports that McDonald, who was carrying a knife, was breaking into vehicles. Van Dyke fired 16 shots at McDonald within seconds of arriving on the scene. Preliminary internal police reports characterized the shooting as justified, describing McDonald as having lunged at or advanced toward officers, and Van Dyke was not charged at the time.",
+      "Police dashcam footage of the incident was not made public until more than a year later. On November 24, 2015, following a court order sought by a freelance journalist, the city released the video. The footage showed McDonald walking away from officers, at an angle to Van Dyke, when he was shot and continued to be shot after he fell to the ground. The video's contents differed from the accounts in the initial police reports. Its release the same day prosecutors filed charges triggered sustained protests in Chicago and became a focal point in national debates over policing and accountability.",
+      "The fallout was swift. On the day the video was released, Cook County State's Attorney Anita Alvarez charged Van Dyke with first-degree murder. On December 1, 2015, Mayor Rahm Emanuel requested and received the resignation of Police Superintendent Garry McCarthy. Alvarez subsequently lost her March 2016 reelection primary to challenger Kim Foxx. Earlier, in April 2015, the city had agreed to pay McDonald's family a $5 million settlement.",
+      "Van Dyke's trial ran from September 17 to October 5, 2018. On October 5, 2018, a Cook County jury found Van Dyke guilty of second-degree murder and 16 counts of aggravated battery with a firearm, one for each shot; he was acquitted of official misconduct. On January 18, 2019, Judge Vincent Gaughan sentenced him to 81 months (about six years and nine months) in prison. Van Dyke was released on February 3, 2022, after serving roughly three years and three months, with credit for good behavior.",
+      "Three other officers were separately prosecuted on charges of conspiracy, obstruction of justice, and official misconduct for allegedly falsifying reports to conceal the circumstances of the shooting. Detective David March, Van Dyke's partner Joseph Walsh, and officer Thomas Gaffney chose a bench trial. On January 17, 2019, Cook County Associate Judge Domenica Stephenson acquitted all three, finding that special prosecutors had not proven beyond a reasonable doubt that a conspiracy existed or that the officers had lied.",
+      "The case also prompted broader scrutiny of the Chicago Police Department. At the request of Illinois officials, the U.S. Department of Justice opened a civil rights investigation and, in January 2017, issued a report finding a pattern of unconstitutional use of force and deficiencies in training, supervision, and accountability. After the federal government under a new administration declined to pursue a federal consent decree, the Illinois Attorney General sued the city, and a court-enforceable consent decree governing police reforms took effect in early 2019 under federal court oversight, where it remains in place."
+    ],
+    "timeline": [
+      {
+        "date": "2014-10-20",
+        "event": "Chicago Police officer Jason Van Dyke fatally shoots 17-year-old Laquan McDonald, firing 16 shots."
+      },
+      {
+        "date": "2015-04-15",
+        "event": "The Chicago City Council approves a $5 million settlement with McDonald's family."
+      },
+      {
+        "date": "2015-11-24",
+        "event": "Under court order, the city releases dashcam video of the shooting; Van Dyke is charged with first-degree murder the same day, sparking protests."
+      },
+      {
+        "date": "2015-12-01",
+        "event": "Mayor Rahm Emanuel forces the resignation of Police Superintendent Garry McCarthy."
+      },
+      {
+        "date": "2016-03-15",
+        "event": "Cook County State's Attorney Anita Alvarez loses her Democratic primary to Kim Foxx."
+      },
+      {
+        "date": "2017-01-13",
+        "event": "The U.S. Department of Justice issues a report finding a pattern of civil rights violations by the Chicago Police Department."
+      },
+      {
+        "date": "2018-10-05",
+        "event": "A jury convicts Van Dyke of second-degree murder and 16 counts of aggravated battery with a firearm; he is acquitted of official misconduct."
+      },
+      {
+        "date": "2019-01-17",
+        "event": "Officers David March, Joseph Walsh, and Thomas Gaffney are acquitted of conspiracy and related cover-up charges by Judge Domenica Stephenson."
+      },
+      {
+        "date": "2019-01-18",
+        "event": "Van Dyke is sentenced to 81 months (about six years, nine months) in prison."
+      },
+      {
+        "date": "2019-01-31",
+        "event": "A federal judge approves a consent decree mandating court-supervised reforms of the Chicago Police Department."
+      },
+      {
+        "date": "2022-02-03",
+        "event": "Van Dyke is released from prison after serving roughly three years and three months of his sentence."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "michael-brown",
@@ -17263,14 +18601,92 @@
     ],
     "sources": [
       {
-        "title": "Killing of Freddie Gray — Wikipedia",
+        "title": "Killing of Freddie Gray - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Freddie_Gray"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "What we know and don't know about Freddie Gray's death - PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/know-freddie-grays-death"
+      },
+      {
+        "title": "Report: Freddie Gray sustained injury in back of police van - CNN",
+        "url": "https://www.cnn.com/2015/04/30/us/baltimore-freddie-gray-death-investigation"
+      },
+      {
+        "title": "Why prosecutors dropped charges against Freddie Gray cops - PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/prosecutors-dropped-charges-freddie-gray-cops"
+      },
+      {
+        "title": "Federal Officials Decline Prosecution in the Death of Freddie Gray - U.S. Department of Justice",
+        "url": "https://www.justice.gov/archives/opa/pr/federal-officials-decline-prosecution-death-freddie-gray"
+      },
+      {
+        "title": "Baltimore Police released from two sections of consent decree near anniversary of Freddie Gray's death - WYPR",
+        "url": "https://www.wypr.org/wypr-news/2025-04-17/baltimore-police-released-from-two-sections-of-consent-decree-near-anniversary-of-freddie-grays-death"
+      },
+      {
+        "title": "In blow to DOJ, federal judge approves Baltimore police reform agreement - PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/nation/blow-doj-federal-judge-approves-baltimore-police-reform-agreement"
       }
-    ]
+    ],
+    "narrative": [
+      "Freddie Carlos Gray Jr. was a 25-year-old Black man who died on April 19, 2015, in Baltimore, Maryland, a week after he was taken into Baltimore Police Department (BPD) custody. On the morning of April 12, 2015, officers pursued and arrested Gray in the Sandtown-Winchester neighborhood after he made eye contact and ran; police said he was found with a knife. Bystander video showed him being dragged to a police transport van, apparently unable to use his legs. He was placed in the van in handcuffs and later leg shackles but, according to BPD, was not secured with a seat belt, contrary to a department policy issued days earlier. During the roughly 45-minute ride, which included several stops, Gray sustained a critical spinal cord injury. He fell into a coma and died at the R Adams Cowley Shock Trauma Center.",
+      "On May 1, 2015, the Maryland medical examiner ruled Gray's death a homicide, concluding it resulted from the officers' failure to follow safety procedures during transport. That same day, Baltimore City State's Attorney Marilyn Mosby announced criminal charges against six officers involved in the arrest and transport: Caesar Goodson Jr., William Porter, Brian Rice, Edward Nero, Garrett Miller, and Alicia White. Charges ranged from second-degree assault and misconduct to, in Goodson's case, second-degree depraved-heart murder.",
+      "Gray's death triggered sustained protests and, following his April 27, 2015 funeral, civil unrest that included rioting, looting, and arson, with a CVS pharmacy set ablaze. Maryland's governor declared a state of emergency, activated the National Guard, and a citywide curfew was imposed. The events drew national attention to policing and race in Baltimore.",
+      "No officer was convicted. Officer William Porter's trial ended in a mistrial on December 16, 2015, when the jury deadlocked. In subsequent bench trials before Judge Barry Williams, Officer Edward Nero was acquitted on May 23, 2016, Officer Caesar Goodson Jr. (who faced the most serious charges) was acquitted on June 23, 2016, and Lieutenant Brian Rice was acquitted on July 18, 2016. On July 27, 2016, prosecutors dropped the remaining charges against Porter, Miller, and White, concluding the case with zero convictions. In September 2017, the U.S. Department of Justice announced it would not bring federal civil rights charges, citing insufficient evidence to prove a violation beyond a reasonable doubt.",
+      "Separately, the DOJ opened a civil pattern-or-practice investigation of the BPD in the wake of Gray's death. Its August 2016 report found that the department engaged in unconstitutional practices, including unlawful stops, searches, and arrests, excessive force, and racial discrimination against Black residents. This led to a federal consent decree, approved by U.S. District Judge James K. Bredar in April 2017, mandating wide-ranging reforms under court and independent-monitor oversight. The City of Baltimore separately reached a $6.4 million civil settlement with Gray's family in September 2015. As of 2025, the BPD remained under portions of the consent decree, though a judge granted partial termination of some sections after finding sustained compliance."
+    ],
+    "timeline": [
+      {
+        "date": "2015-04-12",
+        "event": "Freddie Gray, 25, is arrested by Baltimore police and transported in a police van without being secured by a seat belt."
+      },
+      {
+        "date": "2015-04-19",
+        "event": "Gray dies at Shock Trauma from a severe cervical spinal cord injury sustained in custody."
+      },
+      {
+        "date": "2015-04-27",
+        "event": "After Gray's funeral, protests escalate into rioting, looting, and arson; a state of emergency is declared and the National Guard is activated."
+      },
+      {
+        "date": "2015-05-01",
+        "event": "The medical examiner rules the death a homicide, and State's Attorney Marilyn Mosby announces charges against six officers."
+      },
+      {
+        "date": "2015-09-08",
+        "event": "The City of Baltimore reaches a $6.4 million civil settlement with Gray's family."
+      },
+      {
+        "date": "2015-12-16",
+        "event": "Officer William Porter's trial ends in a mistrial after the jury deadlocks."
+      },
+      {
+        "date": "2016-05-23",
+        "event": "Officer Edward Nero is acquitted on all charges in a bench trial."
+      },
+      {
+        "date": "2016-06-23",
+        "event": "Officer Caesar Goodson Jr., the van driver facing the most serious charges, is acquitted."
+      },
+      {
+        "date": "2016-07-18",
+        "event": "Lieutenant Brian Rice is acquitted."
+      },
+      {
+        "date": "2016-07-27",
+        "event": "Prosecutors drop the remaining charges against Porter, Miller, and White; the case ends with zero convictions."
+      },
+      {
+        "date": "2017-04-07",
+        "event": "A federal judge approves a DOJ consent decree requiring sweeping reforms of the Baltimore Police Department."
+      },
+      {
+        "date": "2017-09-12",
+        "event": "The U.S. Department of Justice announces it will not pursue federal civil rights charges against the officers."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "sandra-bland",
@@ -17295,14 +18711,69 @@
     ],
     "sources": [
       {
-        "title": "Death of Sandra Bland — Wikipedia",
+        "title": "Death of Sandra Bland - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Death_of_Sandra_Bland"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Sandra Bland: Timeline of her arrest and death in Prairie View, Texas - ABC13 Houston",
+        "url": "https://abc13.com/post/sandra-bland-timeline-of-her-arrest-and-death/2211158/"
+      },
+      {
+        "title": "Sandra Bland trooper Brian Encinia: Perjury case dismissed - CNN",
+        "url": "https://www.cnn.com/2017/06/28/us/sandra-bland-brian-encinia-perjury-case-dismissed"
+      },
+      {
+        "title": "Sandra Bland, One Year Later - The Marshall Project",
+        "url": "https://www.themarshallproject.org/2016/07/12/sandra-bland-one-year-later"
+      },
+      {
+        "title": "Sandra Bland's Phone Video Of Her Own Arrest Surfaces - NPR",
+        "url": "https://www.npr.org/2019/05/07/721086944/sandra-blands-phone-video-of-her-own-arrest-surfaces-reviving-calls-for-new-inqu"
       }
-    ]
+    ],
+    "narrative": [
+      "Sandra Annette Bland was a 28-year-old Black woman from the Chicago area who had recently traveled to Texas for a new job at Prairie View A&M University, her alma mater. On July 10, 2015, Texas Department of Public Safety trooper Brian Encinia stopped her in Prairie View, Waller County, for failing to signal a lane change. Dashcam and cellphone video show a routine stop escalating sharply after Encinia asked Bland to put out her cigarette and she declined. Encinia ordered her out of the car, drew his Taser and said 'I will light you up,' and Bland was arrested and charged with assaulting a public servant. She was booked into the Waller County Jail.",
+      "Three days later, on the morning of July 13, 2015, Bland was found unresponsive in her jail cell. The Harris County Institute of Forensic Sciences performed the autopsy and the medical examiner ruled her death a suicide by hanging (asphyxiation), reporting that she had used a plastic trash-bag liner. Officials also stated that during intake Bland had disclosed a prior suicide attempt. The autopsy noted abrasions and roughly 25 to 30 healing parallel cuts on her left forearm that were determined to predate her arrest.",
+      "Bland's family publicly disputed the suicide finding. They said she had been upbeat about her new job, questioned the jail's monitoring and record-keeping, and called for an independent investigation, contending her death was suspicious. The case drew national attention and became a focal point of the Black Lives Matter movement, with the phrase '#SayHerName' and protests demanding answers. It is important to state precisely: the death was officially ruled a suicide, while the family and many supporters rejected that conclusion; both positions are presented here as attributed claims rather than settled fact.",
+      "A Waller County grand jury reviewed the circumstances and in December 2015 declined to indict jail staff or officials in connection with her death. Separately, in January 2016, the grand jury indicted Encinia on a single misdemeanor count of perjury, alleging he lied in a sworn report by claiming he removed Bland from her vehicle to conduct a safer traffic investigation, a statement prosecutors said video contradicted. The Texas DPS moved to terminate his employment.",
+      "In June 2017, special prosecutors dismissed the perjury charge in exchange for Encinia's agreement to surrender his peace-officer license and permanently never again seek work in law enforcement. Encinia was never convicted of any crime. Earlier, in September 2016, Bland's family reached a wrongful-death settlement of roughly $1.9 million with Waller County and the DPS, which also included procedural reforms such as improved jail staffing and monitoring.",
+      "Bland's death led to legislative reform. In 2017 Texas passed Senate Bill 1849, the Sandra Bland Act, which took effect September 1, 2017. It requires county jails to divert people with mental-health and substance-use issues toward treatment, mandates independent investigation of jail deaths, and expands de-escalation training for officers. Today the case is legally closed: the death remains officially ruled a suicide, no one was convicted in connection with it, and it endures as a widely cited example in debates over policing, race, and treatment in custody."
+    ],
+    "timeline": [
+      {
+        "date": "2015-07-10",
+        "event": "Trooper Brian Encinia stops Sandra Bland in Prairie View, Texas, for failing to signal a lane change; the stop escalates and she is arrested and charged with assaulting a public servant."
+      },
+      {
+        "date": "2015-07-13",
+        "event": "Bland is found dead in her Waller County Jail cell; the Harris County medical examiner later rules the death a suicide by hanging using a plastic bag liner."
+      },
+      {
+        "date": "2015-07-21",
+        "event": "Authorities release dashcam footage of the traffic stop; Encinia is placed on administrative duty for violating DPS traffic-stop and courtesy procedures."
+      },
+      {
+        "date": "2015-12-21",
+        "event": "A Waller County grand jury declines to indict jail officials or staff in connection with Bland's death."
+      },
+      {
+        "date": "2016-01-06",
+        "event": "The grand jury indicts Encinia on a misdemeanor perjury charge; DPS begins termination proceedings and he is fired."
+      },
+      {
+        "date": "2016-09-15",
+        "event": "Bland's family settles a wrongful-death lawsuit against Waller County and DPS for approximately $1.9 million plus procedural reforms."
+      },
+      {
+        "date": "2017-06-28",
+        "event": "Prosecutors dismiss the perjury charge against Encinia in exchange for his agreement to permanently surrender his law-enforcement license; he is never convicted."
+      },
+      {
+        "date": "2017-09-01",
+        "event": "The Sandra Bland Act (Texas SB 1849) takes effect, mandating jail mental-health diversion, independent investigation of custody deaths, and de-escalation training."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "walter-scott",
@@ -17327,10 +18798,77 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Killing of Walter Scott — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Walter_Scott"
+      },
+      {
+        "title": "Former North Charleston Police Officer Michael Slager Sentenced to 20 Years in Prison for Federal Civil Rights Offense — U.S. Department of Justice",
+        "url": "https://www.justice.gov/archives/opa/pr/former-north-charleston-south-carolina-police-officer-michael-slager-sentenced-20-years"
+      },
+      {
+        "title": "Walter Scott shooting: Ex-officer Michael Slager sentenced to 20 years — CNN",
+        "url": "https://www.cnn.com/2017/12/07/us/michael-slager-sentencing/index.html"
+      },
+      {
+        "title": "Walter Scott shooting: Michael Slager, ex-officer, sentenced to 20 years in prison — NBC News",
+        "url": "https://www.nbcnews.com/storyline/walter-scott-shooting/walter-scott-shooting-michael-slager-ex-officer-sentenced-20-years-n825006"
+      },
+      {
+        "title": "Judge upholds Michael Slager's 20-year sentence for killing Walter Scott — The Post and Courier",
+        "url": "https://www.postandcourier.com/news/judge-upholds-michael-slagers-20-year-sentence-for-killing-walter-scott/article_ed4b79c4-a14f-11eb-8d5e-7ffbbaf76933.html"
+      },
+      {
+        "title": "United States v. Slager, Court of Appeals Decision — U.S. Department of Justice, Civil Rights Division",
+        "url": "https://www.justice.gov/crt/case-document/united-states-v-slager-court-appeals-decision"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of April 4, 2015, Walter Lamar Scott, a 50-year-old Black man, was fatally shot by North Charleston Police Officer Michael Slager in North Charleston, South Carolina. Slager had pulled Scott's vehicle over for a non-functioning brake light. During the stop, Scott exited his car and fled on foot, and Slager pursued him. Officials said Scott may have run because he owed back child support. What began as a routine traffic stop ended with Scott dead and became one of the most widely scrutinized police-shooting cases in the United States.",
+      "The encounter was captured on cellphone video by a bystander, Feidin Santana, who was walking to work. The footage, which surfaced days after the shooting, showed Scott running away from Slager when the officer fired eight rounds from his department-issued handgun. Five bullets struck Scott, with the fatal wounds entering from behind. The video appeared to contradict Slager's initial account that he had feared for his life during a struggle over his Taser. After the video became public, Slager was arrested and charged with murder on April 7, 2015, and was dismissed from the police department.",
+      "The video's release drew national attention amid a broader public reckoning over police use of force against Black Americans. In October 2015, the City of North Charleston agreed to pay Scott's family a $6.5 million civil settlement.",
+      "Slager's state murder trial began on October 31, 2016. On December 5, 2016, the presiding judge, Clifton Newman, declared a mistrial after the jury deadlocked, with reports indicating that 11 of the 12 jurors favored a conviction while one juror refused. Prosecutors indicated they intended to retry the case.",
+      "The matter was also pursued in federal court. On May 2, 2017, Slager pleaded guilty to a federal charge of deprivation of rights under color of law — a civil-rights violation — under a plea agreement. In exchange, state prosecutors agreed to drop the pending state murder charge, and additional federal counts were not pursued.",
+      "At sentencing, U.S. District Judge David C. Norton determined for federal sentencing-guideline purposes that Slager's conduct in shooting Scott amounted to second-degree murder and that his subsequent actions constituted obstruction of justice. On December 7, 2017, Judge Norton sentenced Slager to 20 years in federal prison. Because the federal system has no parole, Slager is expected to serve the bulk of that term. He appealed his sentence; the U.S. Court of Appeals for the Fourth Circuit and the district court later upheld it, with a judge in April 2021 declining to vacate the sentence. Slager remains incarcerated in federal custody."
+    ],
+    "timeline": [
+      {
+        "date": "2015-04-04",
+        "event": "Officer Michael Slager fatally shoots Walter Scott after a traffic stop for a broken brake light in North Charleston, South Carolina; bystander Feidin Santana records cellphone video of the shooting."
+      },
+      {
+        "date": "2015-04-07",
+        "event": "Slager is charged with murder and dismissed from the North Charleston Police Department after the video becomes public."
+      },
+      {
+        "date": "2015-10",
+        "event": "The City of North Charleston agrees to a $6.5 million civil settlement with Walter Scott's family."
+      },
+      {
+        "date": "2016-05-11",
+        "event": "A federal grand jury indicts Slager on civil-rights and related charges, including deprivation of rights under color of law and obstruction of justice."
+      },
+      {
+        "date": "2016-10-31",
+        "event": "Slager's state murder trial begins in Charleston County."
+      },
+      {
+        "date": "2016-12-05",
+        "event": "Judge Clifton Newman declares a mistrial after the jury deadlocks (reported 11-1 in favor of conviction)."
+      },
+      {
+        "date": "2017-05-02",
+        "event": "Slager pleads guilty in federal court to deprivation of rights under color of law; in exchange, the state murder charge is dropped."
+      },
+      {
+        "date": "2017-12-07",
+        "event": "U.S. District Judge David C. Norton sentences Slager to 20 years in federal prison, finding the conduct equivalent to second-degree murder plus obstruction of justice."
+      },
+      {
+        "date": "2021-04-20",
+        "event": "A judge declines to toss out Slager's 20-year sentence, upholding it after his appeal."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ingrid-lyne",
@@ -17387,14 +18925,73 @@
     ],
     "sources": [
       {
-        "title": "Killing of Philando Castile — Wikipedia",
+        "title": "Killing of Philando Castile - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Killing_of_Philando_Castile"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "The death of Philando Castile and the trial of Jeronimo Yanez - MPR News",
+        "url": "https://www.mprnews.org/crime-law-and-justice/philandocastile"
+      },
+      {
+        "title": "Jury Acquits Minnesota Officer In Shooting Death Of Philando Castile - NPR",
+        "url": "https://www.npr.org/2017/06/16/533255552/jury-acquits-minnesota-officer-in-shooting-death-of-philando-castile"
+      },
+      {
+        "title": "Minnesota officer acquitted in fatal shooting of Philando Castile - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/officer-who-shot-philando-castile-acquitted-manslaughter-charges-n771146"
+      },
+      {
+        "title": "Philando Castile Case: Ex-Officer Involved in Fatal Shooting Gets $48,500 Buyout - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/philando-castile-case-ex-officer-involved-fatal-shooting-gets-48-n781636"
+      },
+      {
+        "title": "Settlement for Philando Castile's girlfriend will be $800K - Star Tribune",
+        "url": "https://www.startribune.com/settlement-for-philando-castile-s-girlfriend-will-be-800k/460640413"
       }
-    ]
+    ],
+    "narrative": [
+      "On the evening of July 6, 2016, Philando Castile, a 32-year-old Black man who worked as a nutrition-services supervisor at a Montessori school in St. Paul, was driving through Falcon Heights, Minnesota, a suburb of St. Paul, with his girlfriend Diamond Reynolds and her four-year-old daughter. At about 9:05 p.m., St. Anthony Police Department officer Jeronimo Yanez pulled the car over near Larpenteur Avenue and Fry Street. A second officer, Joseph Kauser, was also present.",
+      "Yanez stopped the vehicle for a broken taillight. According to the official account and dashcam evidence later released, Castile informed Yanez that he had a firearm in the car. Castile had a valid permit to carry. Yanez told Castile not to reach for the gun. Within seconds, Yanez fired seven shots into the vehicle at close range, striking Castile five times. Castile was transported to Hennepin County Medical Center, where he died at approximately 9:37 p.m.",
+      "Immediately after the shooting, Diamond Reynolds began broadcasting on Facebook Live from the passenger seat, narrating the aftermath as Castile lay mortally wounded beside her. The roughly ten-minute video spread internationally within hours and became one of the most widely viewed livestreamed accounts of a police shooting. The killing occurred one day after the police shooting of Alton Sterling in Baton Rouge, Louisiana, and intensified a national debate over police use of force against Black Americans.",
+      "In November 2016, Ramsey County Attorney John Choi charged Yanez with one count of second-degree manslaughter and two counts of dangerous discharge of a firearm. It was among the first times a Minnesota police officer had been criminally charged for an on-duty shooting. Yanez testified in his own defense, stating that he believed Castile was reaching for the gun and feared for his life; prosecutors argued the shooting was an unreasonable overreaction. These competing characterizations of what Castile was doing in the moments before the shooting remained contested at trial.",
+      "The trial began May 30, 2017, before Ramsey County District Judge William H. Leary III. After roughly 25 hours of deliberation over five days, the jury acquitted Yanez of all charges on June 16, 2017. No conviction resulted from the shooting. Hours after the verdict, the city of St. Anthony announced that Yanez would not return to the police department.",
+      "Yanez separated from the St. Anthony Police Department under an agreement that included a payment of about $48,500 plus compensation for unused time. In the civil arena, the city and its insurers reached a settlement of nearly $3 million (reported at $2.995 million) with Castile's mother, Valerie Castile, in late June 2017, and an $800,000 settlement with Diamond Reynolds and her daughter in November 2017. Valerie Castile has since become a prominent advocate for police accountability, and a foundation established in Philando Castile's name has paid off school-lunch debt and funded related causes. In later years, Yanez unsuccessfully sought a Minnesota substitute-teaching license, a bid state education officials rejected and courts ultimately upheld."
+    ],
+    "timeline": [
+      {
+        "date": "2016-07-06",
+        "event": "Officer Jeronimo Yanez of the St. Anthony Police Department shoots Philando Castile during a traffic stop in Falcon Heights, Minnesota; Castile dies at Hennepin County Medical Center about 30 minutes later."
+      },
+      {
+        "date": "2016-07-06",
+        "event": "Diamond Reynolds livestreams the immediate aftermath on Facebook Live from the passenger seat; the video quickly spreads worldwide."
+      },
+      {
+        "date": "2016-11-16",
+        "event": "Ramsey County Attorney John Choi charges Yanez with second-degree manslaughter and two counts of dangerous discharge of a firearm."
+      },
+      {
+        "date": "2017-05-30",
+        "event": "Yanez's criminal trial begins in Ramsey County District Court before Judge William H. Leary III."
+      },
+      {
+        "date": "2017-06-16",
+        "event": "The jury acquits Yanez of all charges; St. Anthony announces the same day that Yanez will not return to the department."
+      },
+      {
+        "date": "2017-06-26",
+        "event": "The city and insurers reach a settlement of about $2.995 million with Castile's mother, Valerie Castile, in the wrongful-death claim."
+      },
+      {
+        "date": "2017-06-30",
+        "event": "Dashcam video of the traffic stop and shooting is publicly released."
+      },
+      {
+        "date": "2017-11-29",
+        "event": "Diamond Reynolds and her daughter reach an $800,000 settlement over emotional distress and false arrest."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "missy-bevers",
@@ -17662,14 +19259,73 @@
     ],
     "sources": [
       {
-        "title": "Savanna's Act — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Savanna%27s_Act"
+        "title": "Timeline of Savanna LaFontaine-Greywind's killing and baby abduction - InForum",
+        "url": "https://www.inforum.com/newsmd/what-we-learned-timeline-of-savannas-killing-and-baby-abduction"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Accomplice in killing of Savanna Greywind gets 20 years - MPR News",
+        "url": "https://www.mprnews.org/story/2019/10/07/accomplice-in-killing-of-savanna-greywind-gets-20-years"
+      },
+      {
+        "title": "Savanna LaFontaine-Greywind Timeline - Crime Timelines",
+        "url": "https://crimetimelines.com/savanna-lafontaine-greywind-timeline/"
+      },
+      {
+        "title": "Savanna's Act and the Not Invisible Act Signed into Law - Indian Law Resource Center",
+        "url": "https://indianlaw.org/news/savannas-act-and-not-invisible-act-signed-law"
+      },
+      {
+        "title": "Savanna's Act - National Indigenous Women's Resource Center (NIWRC)",
+        "url": "https://www.niwrc.org/resources/fact-sheet/savannas-act"
       }
-    ]
+    ],
+    "narrative": [
+      "Savanna LaFontaine-Greywind was a 22-year-old member of the Spirit Lake Nation who was eight months pregnant when she was killed in Fargo, North Dakota, in August 2017. On August 19, 2017, she left her family's apartment to help an upstairs neighbor, Brooke Crews, with what Crews described as a sewing project. Savanna never returned, and her family reported her missing when she failed to respond to their attempts to reach her.",
+      "The neighbors, Brooke Crews and her boyfriend William Hoehn, had for months been at the center of a fabricated pregnancy. According to Crews's own account, she attacked Savanna inside the couple's apartment, incapacitated her, and used a knife to cut the near-term infant from her womb. The baby, later named Haisley Jo, survived. Investigators grew suspicious after Hoehn's co-workers reported that he had suddenly begun talking about a newborn at home. On August 24, 2017, Fargo police executing search warrants found the living infant in Crews and Hoehn's apartment; DNA later confirmed she was Savanna's daughter. On August 27, 2017, kayakers discovered Savanna's body wrapped in plastic in the Red River near Harwood, north of Fargo. Her death was ruled a homicide.",
+      "The two neighbors were charged, and their cases resolved very differently. Brooke Crews pleaded guilty. On December 11, 2017, she admitted to conspiracy to commit murder, conspiracy to commit kidnapping, and giving false information to police, and on February 2, 2018, she was sentenced to life in prison without the possibility of parole. William Hoehn's path to conviction was more complicated. On September 4, 2018, he pleaded guilty to conspiracy to commit kidnapping and to giving false information to law enforcement. He then stood trial on a separate charge of conspiracy to commit murder, and on September 28, 2018, a jury found him not guilty of that murder-conspiracy count. He was therefore convicted only of the kidnapping conspiracy and the false-information charge, to which he had pleaded guilty.",
+      "Hoehn was initially sentenced to life in prison after prosecutors successfully argued he should be treated as a dangerous special offender. The North Dakota Supreme Court later reversed that enhanced sentence, finding the dangerous-special-offender designation had been improperly applied. On October 7, 2019, Hoehn was resentenced to 20 years in prison for his role in the case.",
+      "Savanna's killing drew national attention and became a rallying point for the Missing and Murdered Indigenous Women (MMIW) movement, which highlights the disproportionate rates at which Native American women are killed or go missing. Her case directly inspired federal legislation. Senator Heidi Heitkamp of North Dakota introduced a bill named in Savanna's honor in 2017, and after being reintroduced, Savanna's Act was signed into law on October 10, 2020. The law directs the Department of Justice to improve data collection on missing and murdered Indigenous people, clarify law-enforcement responsibilities across tribal, federal, state, and local agencies, and strengthen coordination and reporting.",
+      "As of 2026, Brooke Crews continues to serve life without parole, and William Hoehn remains imprisoned under his 20-year sentence. Savanna's daughter, Haisley Jo, survived and has been raised by her father and Savanna's family. The case remains a defining and frequently cited example within the broader MMIW movement."
+    ],
+    "timeline": [
+      {
+        "date": "2017-08-19",
+        "event": "Savanna LaFontaine-Greywind, 22 and eight months pregnant, goes upstairs to help neighbor Brooke Crews and is never seen alive again; family later reports her missing."
+      },
+      {
+        "date": "2017-08-24",
+        "event": "Fargo police execute search warrants at Brooke Crews and William Hoehn's apartment and find a living newborn girl, later confirmed by DNA to be Savanna's daughter, Haisley Jo."
+      },
+      {
+        "date": "2017-08-27",
+        "event": "Kayakers discover Savanna's body wrapped in plastic in the Red River near Harwood, North Dakota; her death is ruled a homicide."
+      },
+      {
+        "date": "2017-12-11",
+        "event": "Brooke Crews pleads guilty to conspiracy to commit murder, conspiracy to commit kidnapping, and giving false information to police."
+      },
+      {
+        "date": "2018-02-02",
+        "event": "Brooke Crews is sentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "2018-09-04",
+        "event": "William Hoehn pleads guilty to conspiracy to commit kidnapping and giving false information to law enforcement."
+      },
+      {
+        "date": "2018-09-28",
+        "event": "A jury finds William Hoehn not guilty of conspiracy to commit murder; his conviction stands on the kidnapping-conspiracy and false-information counts."
+      },
+      {
+        "date": "2019-10-07",
+        "event": "William Hoehn is resentenced to 20 years in prison after the North Dakota Supreme Court overturned his earlier life sentence based on an improper dangerous-special-offender designation."
+      },
+      {
+        "date": "2020-10-10",
+        "event": "Savanna's Act is signed into federal law, directing improved federal response and data collection on Missing and Murdered Indigenous People."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "botham-jean",
@@ -17693,14 +19349,81 @@
     ],
     "sources": [
       {
-        "title": "Murder of Botham Jean — Wikipedia",
+        "title": "Murder of Botham Jean - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Botham_Jean"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Former Dallas officer Amber Guyger gets 10 years in prison - The Texas Tribune",
+        "url": "https://www.texastribune.org/2019/10/02/amber-guyger-sentencing-former-dallas-officer-gets-10-years-prison/"
+      },
+      {
+        "title": "Amber Guyger Given 10 Years In Prison For Killing Man In His Dallas Apartment - NPR",
+        "url": "https://www.npr.org/2019/10/02/766454839/amber-guyger-ex-officer-who-killed-man-in-his-apartment-given-10-years-in-prison"
+      },
+      {
+        "title": "Amber Guyger gets 10-year murder sentence for fatally shooting Botham Jean - CNN",
+        "url": "https://www.cnn.com/2019/10/02/us/amber-guyger-trial-sentencing/"
+      },
+      {
+        "title": "Jury awards $98 million to family of Dallas man shot in his home by ex-police officer - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/amber-guyger-botham-jean-excessive-force-rcna181064"
+      },
+      {
+        "title": "Former Dallas police officer Amber Guyger denied parole for Botham Jean murder - CBS Texas",
+        "url": "https://www.cbsnews.com/texas/news/former-dallas-police-officer-amber-guyger-denied-parole-six-years-after-murder/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of September 6, 2018, Botham Shem Jean, a 26-year-old accountant at PwC, was fatally shot inside his own apartment at the South Side Flats complex in Dallas, Texas. The person who killed him was Amber Guyger, a 30-year-old off-duty Dallas Police Department officer who lived in the same building one floor below. Guyger, still in uniform after a long shift, entered Jean's apartment and shot him twice in the chest. Jean, who was unarmed and had been eating ice cream, was pronounced dead at a hospital.",
+      "Guyger told investigators she had parked on the wrong floor of the garage and believed she was entering her own apartment, mistaking Jean for an intruder. She said the door was ajar and that she fired after Jean did not comply with verbal commands. These accounts of her state of mind were her own statements; the central undisputed facts are that she entered an apartment that was not hers and shot and killed its lawful occupant.",
+      "The case drew national attention over race and policing: Jean was Black and Guyger is white. Guyger was initially arrested on September 9, 2018, on a manslaughter charge. The Dallas Police Department fired her on September 24, 2018, for violating department policies. On November 30, 2018, a Dallas County grand jury indicted her on the more serious charge of murder.",
+      "Guyger's trial took place in September and October 2019. On October 1, 2019, a jury found her guilty of murder. During the sentencing phase, the jury rejected a 'sudden passion' argument that could have lowered the punishment range, and on October 2, 2019, sentenced her to 10 years in prison. Prosecutors had asked for at least 28 years, a figure tied to the age Jean would have reached.",
+      "The sentencing produced courtroom moments that were widely covered. Jean's younger brother, 18-year-old Brandt Jean, told Guyger from the witness stand that he forgave her and did not want her to serve time, then asked the judge for permission to hug her; State District Judge Tammy Kemp allowed the embrace. Kemp later hugged Guyger herself and gave her a Bible, an act that drew both praise and criticism.",
+      "Guyger's conviction was upheld on appeal by Texas's Fifth Court of Appeals in 2021. She remains incarcerated in the Texas prison system. In October 2024 she was denied parole. In a separate civil wrongful-death case, a Dallas jury in November 2024 found her liable and awarded Jean's family approximately $98.65 million in damages. Jean's death also spurred discussion of police reform and, along with other cases, informed the 'Botham Jean Act' in Texas requiring officers to keep body cameras active during investigations."
+    ],
+    "timeline": [
+      {
+        "date": "2018-09-06",
+        "event": "Off-duty Dallas police officer Amber Guyger fatally shoots Botham Jean, 26, inside his own apartment at the South Side Flats complex in Dallas."
+      },
+      {
+        "date": "2018-09-09",
+        "event": "Guyger is arrested and initially charged with manslaughter."
+      },
+      {
+        "date": "2018-09-24",
+        "event": "The Dallas Police Department fires Guyger for policy violations."
+      },
+      {
+        "date": "2018-11-30",
+        "event": "A Dallas County grand jury indicts Guyger on a charge of murder."
+      },
+      {
+        "date": "2019-09-23",
+        "event": "Guyger's murder trial begins in Dallas County."
+      },
+      {
+        "date": "2019-10-01",
+        "event": "The jury finds Guyger guilty of murder."
+      },
+      {
+        "date": "2019-10-02",
+        "event": "Guyger is sentenced to 10 years in prison; Brandt Jean embraces her in a widely publicized courtroom moment and Judge Tammy Kemp gives her a Bible."
+      },
+      {
+        "date": "2021-08-05",
+        "event": "The Texas Fifth Court of Appeals upholds Guyger's murder conviction."
+      },
+      {
+        "date": "2024-10-01",
+        "event": "Guyger is denied parole after her first parole review."
+      },
+      {
+        "date": "2024-11-20",
+        "event": "A Dallas jury finds Guyger liable in a civil wrongful-death suit and awards Jean's family approximately $98.65 million."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "chris-watts-victims",
@@ -17810,18 +19533,81 @@
     ],
     "sources": [
       {
-        "title": "Disappearance of Dulce Maria Alavez — Wikipedia",
+        "title": "Disappearance of Dulce Maria Alavez - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Disappearance_of_Dulce_Maria_Alavez"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Investigators of Dulce Maria Alavez disappearance using AI to find \"missing puzzle pieces\" 6 years later - CBS Philadelphia",
+        "url": "https://www.cbsnews.com/philadelphia/news/dulce-maria-alavez-new-jersey-disappearance-2025/"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Search continues for Dulce Maria Alavez 5 years after disappearance from Bridgeton, New Jersey park - 6abc Philadelphia",
+        "url": "https://6abc.com/post/search-continues-dulce-maria-alavez-5-years-after-disappearance-bridgeton-new-jersey-park/15310269/"
+      },
+      {
+        "title": "New investigators, AI on the case 6 years after Dulce Maria Alavez disappeared from NJ playground - NBC Philadelphia",
+        "url": "https://www.nbcphiladelphia.com/news/local/dulce-maria-alavez-anniversary-six-years-south-jersey-playground/4270329/"
+      },
+      {
+        "title": "Search continues 4 years after 5-year-old Dulce Maria Alavez went missing in Bridgeton, N.J. - CBS Philadelphia",
+        "url": "https://www.cbsnews.com/philadelphia/news/sept-16-marks-4-years-since-dulce-maria-alavez-went-missing-in-bridgeton-n-j/"
+      },
+      {
+        "title": "Police Release Sketch of Possible Witness in Dulce Maria Alavez Disappearance - Time",
+        "url": "https://time.com/5703231/sketch-dulce-maria-alavez-missing/"
       }
-    ]
+    ],
+    "narrative": [
+      "Dulce Maria Alavez, a 5-year-old girl born April 25, 2014, disappeared on the afternoon of September 16, 2019, from Bridgeton City Park in Bridgeton, Cumberland County, New Jersey. According to accounts reported by the Cumberland County Prosecutor's Office and multiple news organizations, Dulce and her younger brother had gone to play near the playground and swings while their mother, Noema Alavez Perez, remained in a nearby vehicle with Dulce's younger sister. When the mother went to check on the children, Dulce's brother was found alone and Dulce was gone. She was last reported wearing a yellow shirt with an elephant design, black-and-white patterned pants, and white shoes.",
+      "Local, state, and federal authorities responded quickly. News outlets reported that more than 30 officers searched the park and surrounding wooded areas without finding her. No Amber Alert was issued in the immediate aftermath because, authorities said, the case did not initially meet the alert criteria, a point that later drew public criticism. The FBI joined the investigation alongside the New Jersey State Police and the Cumberland County Prosecutor's Office, and Dulce was added to the FBI's list of kidnapping and missing-persons cases. Investigators came to describe the case as a suspected abduction.",
+      "About a month after the disappearance, on October 15, 2019, authorities released a composite sketch of a man described as a person of interest, characterized as a Hispanic male roughly 5 feet 7 inches tall, of slender build, approximately 30 to 35 years old, wearing a white T-shirt, blue jeans, and a white baseball-style cap, according to reporting by 6abc Philadelphia and Time. Per Wikipedia's account, the reward for information had grown to roughly $52,000 by early October 2019 and was later raised to $75,000, the figure authorities continued to cite in subsequent years.",
+      "Investigators pursued numerous leads over the following years. According to reporting, tips prompted searches in locations outside New Jersey, including Austintown, Ohio, in February 2021. The National Center for Missing & Exploited Children released age-progression images depicting how Dulce might appear as she grew older. Authorities also urged anyone who had been at Bridgeton City Park on September 16, 2019, to submit photographs to help reconstruct the day, and emphasized that witnesses' immigration status would not be used against them.",
+      "Despite hundreds of tips over the years, no arrests have been made and no one has been charged in connection with Dulce's disappearance. The Cumberland County Prosecutor's Office has stated that no remains have been found. In 2024, investigators reported following up on 17 new tips originating from several states, including Pennsylvania, Massachusetts, New Hampshire, and Nevada, none of which located Dulce or a suspect. By 2025, the New Jersey State Police Special Investigations Section had reassigned investigators to review the accumulated evidence, and officials said they were employing artificial intelligence to generate updated images and identify what Cumberland County Prosecutor Jennifer Webb-McRae described as 'missing puzzle pieces.'",
+      "As of the most recent reporting, the case remains open and unsolved. Dulce, who would be about 11 years old, has not been found. Authorities continue to seek the public's help and ask that anyone with information contact the FBI's toll-free tip line at 1-800-CALL-FBI (1-800-225-5324). A reward of $75,000 remains available for information leading to her whereabouts. All investigative details above are attributed to statements from law enforcement and to reporting by the sources listed."
+    ],
+    "timeline": [
+      {
+        "date": "2014-04-25",
+        "event": "Dulce Maria Alavez is born."
+      },
+      {
+        "date": "2019-09-16",
+        "event": "Dulce, age 5, disappears from Bridgeton City Park in Bridgeton, New Jersey, while playing near the swings; her mother, Noema Alavez Perez, reports her missing after finding her brother alone."
+      },
+      {
+        "date": "2019-09-17",
+        "event": "Local, state, and federal authorities, including the FBI, launch searches of the park and surrounding woods; the case is treated as a suspected abduction."
+      },
+      {
+        "date": "2019-10-09",
+        "event": "The reward for information reaches roughly $52,000, according to Wikipedia's account."
+      },
+      {
+        "date": "2019-10-15",
+        "event": "Authorities release a composite sketch of a man described as a person of interest, per reporting by 6abc and Time."
+      },
+      {
+        "date": "2021-02-01",
+        "event": "Investigators search a location in Austintown, Ohio, following leads; nothing conclusive is found."
+      },
+      {
+        "date": "2021-09-16",
+        "event": "Around the two-year mark, the National Center for Missing & Exploited Children releases age-progression images of Dulce."
+      },
+      {
+        "date": "2023-09-16",
+        "event": "Four years after the disappearance, the case remains unsolved with the reward standing at $75,000."
+      },
+      {
+        "date": "2024-09-16",
+        "event": "Authorities report following up on 17 new tips during 2024 from multiple states; none locate Dulce or a suspect."
+      },
+      {
+        "date": "2025-09-16",
+        "event": "Six years on, the New Jersey State Police Special Investigations Section reassigns investigators and officials report using artificial intelligence to aid the still-unsolved investigation."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "elizabeth-barraza",
@@ -17871,18 +19657,81 @@
     ],
     "sources": [
       {
-        "title": "Murder of Jennifer Dulos — Wikipedia",
+        "title": "Murder of Jennifer Dulos - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Jennifer_Dulos"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "State of Connecticut, Division of Criminal Justice: Troconis Sentencing (May 31, 2024)",
+        "url": "https://portal.ct.gov/dcj/press-room/press-releases/05312024troconis"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Michelle Troconis sentenced to 20 years in Jennifer Dulos murder conspiracy - CBS News",
+        "url": "https://www.cbsnews.com/news/michelle-troconis-jennifer-dulos-death-sentencing/"
+      },
+      {
+        "title": "Michelle Troconis found guilty of conspiring to murder missing Connecticut mother Jennifer Dulos - CNN",
+        "url": "https://www.cnn.com/2024/03/01/us/michelle-troconis-trial-verdict/index.html"
+      },
+      {
+        "title": "Michelle Troconis sentenced to more than 14 years - NBC News",
+        "url": "https://www.nbcnews.com/news/crime-courts/michelle-troconis-sentenced-jennifer-dulos-murder-rcna154868"
+      },
+      {
+        "title": "What to know about the disappearance and presumed murder of Jennifer Dulos - NBC Connecticut",
+        "url": "https://www.nbcconnecticut.com/news/local/what-to-know-about-the-disappearance-and-presumed-murder-of-jennifer-dulos/3301820/"
       }
-    ]
+    ],
+    "narrative": [
+      "Jennifer Farber Dulos, a 50-year-old mother of five, was last seen on the morning of May 24, 2019, after dropping her children at school in New Canaan, Connecticut. A neighbor's camera captured her returning home around 8:05 a.m. She missed several appointments that day, and when friends could not reach her, she was reported missing that evening. She has never been found.",
+      "Her disappearance came amid a bitter divorce and custody dispute with her estranged husband, Fotis Dulos, whom she had accused in 2017 court filings of potentially trying to harm her. By 2018 she had been awarded sole physical custody of the couple's children, with Fotis limited to supervised visitation. Investigators searching her Welles Lane home reported finding blood consistent with Jennifer's in the garage and on a vehicle. Police also recovered surveillance footage of Fotis Dulos discarding garbage bags along Albany Avenue in Hartford the evening she vanished; authorities said the bags contained bloodstained clothing and cleaning items.",
+      "In January 2020, prosecutors charged Fotis Dulos with capital murder, murder, and kidnapping. He maintained his innocence. Before he could stand trial, he attempted suicide by carbon monoxide poisoning at his Farmington home and died on January 30, 2020. Because he was never tried, he was never convicted, and the allegations against him were not tested at trial.",
+      "Two other people were charged in connection with the case. Michelle Troconis, Fotis Dulos's girlfriend, and Kent Mawhinney, his former attorney, were each charged in early 2020. Troconis pleaded not guilty and went to trial in 2024. On March 1, 2024, a jury found her guilty of conspiracy to commit murder, conspiracy to commit tampering with physical evidence, tampering with physical evidence, and hindering prosecution. Prosecutors said she helped clean a vehicle believed used in the crime, burned evidence, and manipulated Fotis Dulos's cellphone to help build a false alibi. On May 31, 2024, Judge Kevin A. Randolph sentenced Troconis to 20 years in prison, suspended after 14 and a half years, followed by five years of probation; one conspiracy-to-tamper count was vacated on double jeopardy grounds. She has maintained her innocence and signaled intent to appeal.",
+      "Kent Mawhinney was charged with conspiracy to commit murder. His case resolved separately, with reporting indicating a comparatively short jail term of about 11 months.",
+      "Jennifer Dulos's body has never been recovered despite extensive searches across Connecticut. A probate court declared her legally dead in 2023. Although the case is often described in coverage as a presumed homicide, no one has been convicted of killing her, and her remains have not been located. As of 2026, the disappearance is unresolved in the sense that Jennifer has never been found and the person charged with her murder died before any verdict; the only murder-related trial conviction is that of Michelle Troconis for conspiracy and related offenses. Details attributed to prosecutors and investigators reflect their allegations and trial evidence rather than adjudicated findings against the deceased."
+    ],
+    "timeline": [
+      {
+        "date": "2017",
+        "event": "Jennifer Farber Dulos files for divorce from Fotis Dulos, beginning a contentious custody dispute."
+      },
+      {
+        "date": "2018",
+        "event": "Jennifer is awarded sole physical custody of the couple's five children; Fotis is limited to supervised visitation."
+      },
+      {
+        "date": "2019-05-24",
+        "event": "Jennifer Dulos is last seen in New Canaan, Connecticut, and is reported missing that evening."
+      },
+      {
+        "date": "2019-06-01",
+        "event": "Fotis Dulos and Michelle Troconis are arrested on evidence-tampering and hindering-prosecution charges."
+      },
+      {
+        "date": "2020-01-07",
+        "event": "Fotis Dulos is charged with murder, capital murder, and kidnapping; Troconis and Kent Mawhinney are charged with conspiracy to commit murder."
+      },
+      {
+        "date": "2020-01-28",
+        "event": "Fotis Dulos attempts suicide by carbon monoxide poisoning at his Farmington home."
+      },
+      {
+        "date": "2020-01-30",
+        "event": "Fotis Dulos dies without ever standing trial."
+      },
+      {
+        "date": "2023-10-24",
+        "event": "A Connecticut probate court declares Jennifer Dulos legally dead."
+      },
+      {
+        "date": "2024-03-01",
+        "event": "A jury finds Michelle Troconis guilty of conspiracy to commit murder, evidence tampering, and hindering prosecution."
+      },
+      {
+        "date": "2024-05-31",
+        "event": "Troconis is sentenced to 20 years, suspended after 14 and a half years, plus five years of probation."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "lori-vallow",
@@ -18430,10 +20279,61 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Body found in Orlando confirmed to be Miya Marcano - CBS News",
+        "url": "https://www.cbsnews.com/news/miya-marcano-missing-florida-college-student-body-found-armando-caballero/"
+      },
+      {
+        "title": "Miya Marcano: Sheriff's Office releases detailed timeline of disappearance, death - FOX 35 Orlando",
+        "url": "https://www.fox35orlando.com/news/miya-marcano-sheriffs-office-releases-detailed-timeline-of-disappearance-death"
+      },
+      {
+        "title": "Miya Marcano disappearance: Florida college student's cause of death ruled a homicide - ABC7 Los Angeles",
+        "url": "https://abc7.com/post/miya-marcano-florida-homicide-cause-of-death/11402256/"
+      },
+      {
+        "title": "Miya Marcano's family sues Orange County Sheriff's Office, accuses agency of negligence - ClickOrlando (WKMG)",
+        "url": "https://www.clickorlando.com/news/local/2023/09/25/miya-marcanos-family-sues-orange-county-sheriffs-office-accuses-agency-of-negligence/"
+      },
+      {
+        "title": "Family of Miya Marcano, who was found dead in Orlando woods, sues sheriff and deputies - CNN",
+        "url": "https://www.cnn.com/2023/09/26/us/florida-orlando-miya-marcano-disappearance-lawsuit/index.html"
       }
-    ]
+    ],
+    "narrative": [
+      "Miya Marcano, a 19-year-old Valencia College student, was last seen on the afternoon of Friday, September 24, 2021, at the Arden Villas apartment complex in Orlando, Florida, where she lived and worked. When she failed to board a scheduled flight to visit family and could not be reached, her relatives reported her missing that evening, and the Orange County Sheriff's Office opened an investigation that drew national attention.",
+      "Investigators quickly focused on Armando Manuel Caballero, a 27-year-old maintenance worker at the same complex. According to the Orange County Sheriff's Office, Caballero had made repeated romantic advances toward Marcano that she rebuffed, and he had access to a maintenance on-call key fob capable of unlocking residents' apartments. Sheriff's officials said fob data showed the maintenance key was used to open the deadbolt to Marcano's apartment at 2:14 p.m. and again at 4:34 p.m. on September 24, before she arrived home, entering against company policy while she was still scheduled to be at work.",
+      "On September 27, 2021, three days after Marcano disappeared, Caballero was found dead of an apparent suicide inside a maintenance shed in Seminole County. Because he died before he could be questioned or charged, detectives were never able to interrogate the man they identified as the prime suspect. No arrest was made and no criminal charges were ever filed against him.",
+      "After an eight-day search, a body was discovered on Saturday, October 2, 2021, in a wooded area near the abandoned Tymber Skan apartments in Orlando. The remains, largely skeletonized, were found with the hands, feet, and mouth bound in tape. The Orange County Medical Examiner's Office positively identified the remains as Marcano, and on December 29, 2021, Chief Medical Examiner Joshua Stephany ruled the death a homicide by undetermined means, noting that the restraints and disposal of the body in an abandoned area indicated an assault.",
+      "At an October 2, 2021 news conference, Orange County Sheriff John Mina publicly named Caballero as the person responsible. Mina said, 'We are not looking for any other people. We believe, pretty conclusively that Armando Caballero is responsible for this crime and there's not any other person or persons that we are looking for in this case.' Investigators later cited physical evidence, including Marcano's blood and hair found among Caballero's belongings, as supporting that conclusion. It is important to note that these determinations were made by the sheriff's office rather than tested at trial: Caballero was never charged with or convicted of any crime, and no prosecution occurred because he was deceased.",
+      "The sheriff's office effectively closed the criminal case with Caballero identified as the sole suspect. Marcano's family, however, has publicly disputed the thoroughness of the initial response. In September 2023, the family filed a lawsuit against the Orange County Sheriff's Office and two deputies, Samir Paulino and Cpl. Kenneth Dale, alleging negligence, inadequate training, and civil-rights violations, and claiming the case was wrongly classified as a low-priority voluntary missing-person matter rather than an endangered-person case. The two deputies were internally disciplined for policy violations, with Paulino receiving a 150-hour unpaid suspension. The family also pursued a separate wrongful-death claim against the apartment complex's parent company. Marcano's death was formally classified as a homicide, but because the named suspect died before any charges, it was never adjudicated in court, and it is sometimes carried in databases as unsolved because no one was ever prosecuted."
+    ],
+    "timeline": [
+      {
+        "date": "2021-09-24",
+        "event": "Miya Marcano, 19, is last seen at the Arden Villas apartment complex in Orlando; a maintenance key fob attributed to Armando Caballero is used to open her apartment deadbolt at 2:14 p.m. and 4:34 p.m. She is reported missing that night."
+      },
+      {
+        "date": "2021-09-25",
+        "event": "Marcano is officially entered as a missing person; Caballero is identified as a suspect the same afternoon."
+      },
+      {
+        "date": "2021-09-27",
+        "event": "Caballero, 27, is found dead of an apparent suicide inside a maintenance shed in Seminole County, before he can be questioned or charged."
+      },
+      {
+        "date": "2021-10-02",
+        "event": "After an eight-day search, a body later confirmed as Marcano is found near the abandoned Tymber Skan apartments, hands, feet, and mouth bound in tape. Sheriff John Mina publicly names Caballero as responsible."
+      },
+      {
+        "date": "2021-12-29",
+        "event": "The Orange County Medical Examiner rules Marcano's death a homicide by undetermined means."
+      },
+      {
+        "date": "2023-09-25",
+        "event": "Marcano's family files a lawsuit against the Orange County Sheriff's Office and deputies Samir Paulino and Kenneth Dale, alleging negligence and civil-rights violations in the handling of the case."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ethan-chapin",
@@ -18648,7 +20548,7 @@
     "id": "ana-walshe",
     "name": "Ana Walshe",
     "type": "Homicide",
-    "status": "Arrest Made",
+    "status": "Conviction",
     "year": 2023,
     "date": "January 1, 2023",
     "state": "Massachusetts",
@@ -18666,14 +20566,69 @@
     ],
     "sources": [
       {
-        "title": "Murder of Ana Walshe — Wikipedia",
+        "title": "Murder of Ana Walshe - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Ana_Walshe"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Brian Walshe convicted of first-degree murder in wife Ana's death in Cohasset, Massachusetts - CBS Boston",
+        "url": "https://www.cbsnews.com/boston/news/brian-walshe-verdict-murder-trial-ana/"
+      },
+      {
+        "title": "Judge cites 'barbaric' acts in sentencing Brian Walshe to life in prison without parole for wife's murder - CNN",
+        "url": "https://www.cnn.com/2025/12/18/us/brian-walshe-sentencing"
+      },
+      {
+        "title": "Brian Walshe was found guilty of murder in the killing of his wife Ana. Here's a timeline of the case - CNN",
+        "url": "https://www.cnn.com/2023/01/10/us/ana-walshe-brian-missing-timeline"
+      },
+      {
+        "title": "Brian Walshe sentenced to life in prison for murdering his wife and dismembering her body - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/brian-walshe-sentenced-murdering-wife-dismembering-body-rcna249870"
       }
-    ]
+    ],
+    "narrative": [
+      "Ana Walshe, a 39-year-old real estate executive who had emigrated from Serbia, was last seen in the early morning hours of January 1, 2023, at the home she shared with her husband, Brian Walshe, and their three young children in Cohasset, Massachusetts. According to authorities, she was reported missing on January 4, 2023, by both her employer, Tishman Speyer, and by Brian Walshe. He told investigators that Ana had left the house to catch a rideshare to Boston's Logan Airport for a work emergency in Washington, D.C., where she also maintained a residence. Police said they were unable to verify that she ever boarded a flight or arrived in Washington.",
+      "As State Police and the Norfolk District Attorney's office investigated, prosecutors said evidence pointed away from Brian Walshe's account. Authorities reported that surveillance and store records placed him purchasing cleaning supplies, a hammer, and wire snips at a Home Depot and Lowe's, and said a search of the couple's home turned up blood and a damaged, bloodstained knife in the basement. Investigators also said they recovered discarded items — including a hatchet, a hacksaw, a Tyvek suit, towels, and personal effects belonging to Ana — from trash facilities, and later testified that DNA analysis linked some items to both Ana and Brian Walshe. Prosecutors said her body was never recovered.",
+      "Central to the case, prosecutors said, was a series of internet searches attributed to Brian Walshe, some reportedly conducted on his son's iPad. Authorities said the queries included phrases such as 'how long before a body starts to smell,' methods of dismembering and disposing of a body, and 'can you be charged with murder without a body.' Prosecutors also cited a life insurance policy naming Brian Walshe as beneficiary as a possible financial motive. Walshe's defense disputed the state's interpretation of the evidence.",
+      "Brian Walshe was first arrested on January 8, 2023, and charged with misleading a police investigation. On January 18, 2023, he was further charged in connection with Ana's death, and a grand jury indicted him on March 30, 2023, on counts of first-degree murder, misleading a police investigation, and improper conveyance of a human body. He initially pleaded not guilty to all charges and, through his attorneys, maintained his innocence on the murder count.",
+      "The case remained in pretrial proceedings for nearly three years. On November 19, 2025, Brian Walshe changed his plea to guilty on the lesser charges of misleading a police investigation and improper conveyance of a human body — admitting, his defense said, that he had disposed of Ana's remains — while continuing to deny that he had killed her. His murder trial proceeded before a Norfolk County jury.",
+      "On December 15, 2025, after roughly six hours of deliberation, the jury found Brian Walshe guilty of first-degree murder. On December 18, 2025, a judge sentenced him to life in prison without the possibility of parole, citing what the court described as 'barbaric' acts, and imposed additional consecutive terms on the counts to which he had pleaded guilty. Prosecutors noted the rarity of securing a first-degree murder conviction without the victim's body having been recovered. Ana Walshe's remains have never been found."
+    ],
+    "timeline": [
+      {
+        "date": "2023-01-01",
+        "event": "Ana Walshe is last seen in the early morning at the family home in Cohasset, Massachusetts, following a New Year's Eve dinner."
+      },
+      {
+        "date": "2023-01-04",
+        "event": "Ana Walshe is reported missing by both her employer and her husband, Brian Walshe, who tells police she left for a work trip to Washington, D.C."
+      },
+      {
+        "date": "2023-01-08",
+        "event": "Brian Walshe is arrested and charged with misleading a police investigation as authorities question his account."
+      },
+      {
+        "date": "2023-01-18",
+        "event": "Brian Walshe is charged in connection with Ana's death (murder and improper conveyance/disinterring a body); he pleads not guilty."
+      },
+      {
+        "date": "2023-03-30",
+        "event": "A grand jury indicts Brian Walshe on first-degree murder, misleading a police investigation, and improper conveyance of a human body."
+      },
+      {
+        "date": "2025-11-19",
+        "event": "Brian Walshe pleads guilty to misleading police and improper conveyance of a human body, while maintaining his innocence on the murder charge."
+      },
+      {
+        "date": "2025-12-15",
+        "event": "A Norfolk County jury finds Brian Walshe guilty of first-degree murder after about six hours of deliberation."
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Brian Walshe is sentenced to life in prison without the possibility of parole, with additional consecutive terms on the other counts."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "rhode-island-jane-doe",
