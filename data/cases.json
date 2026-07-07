@@ -382,14 +382,64 @@
     ],
     "sources": [
       {
-        "title": "Charles Lindbergh — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Charles_Lindbergh"
+        "title": "Lindbergh kidnapping - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lindbergh_kidnapping"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Lindbergh Kidnapping - Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/history/cases-and-criminals/lindbergh-kidnapping"
+      },
+      {
+        "title": "Lindbergh baby kidnapping - Britannica",
+        "url": "https://www.britannica.com/event/Lindbergh-baby-kidnapping"
+      },
+      {
+        "title": "Bruno Hauptmann executed, April 3, 1936 - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/april-3/bruno-hauptmann-executed"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of March 1, 1932, 20-month-old Charles Augustus Lindbergh Jr. was taken from the second-floor nursery of the family's newly built home near Hopewell, New Jersey. The toddler was the son of aviator Charles A. Lindbergh, who in 1927 had become an international celebrity for the first solo nonstop transatlantic flight. Nurse Betty Gow discovered the child missing at about 10 p.m., and a ransom note demanding $50,000 was found on the nursery windowsill. Outside, investigators recovered a homemade wooden ladder, apparently used to reach the window, along with footprints in the mud. The case immediately drew national and international attention.",
+      "Over the following weeks the kidnappers sent a series of ransom notes bearing a distinctive symbol of interlocking circles, eventually raising the demand to $70,000. Dr. John F. Condon, a retired Bronx schoolteacher, volunteered as an intermediary and, using the pseudonym \"Jafsie,\" communicated with a man he met in cemeteries. On April 2, 1932, Condon delivered $50,000 to a man at St. Raymond's Cemetery in the Bronx. Much of the ransom was paid in gold certificates whose serial numbers had been recorded, a decision that later proved central to the investigation because such bills were about to be withdrawn from circulation.",
+      "On May 12, 1932, the child's badly decomposed body was found by a passing truck driver in woods a few miles from the Lindbergh home. An autopsy attributed death to a blow to the head, and investigators concluded the child had likely died on or near the night of the abduction. Authorities circulated the recorded serial numbers of the ransom bills, and over the next two years the marked gold certificates surfaced periodically in the New York area. On September 18-19, 1934, a ransom bill was traced to Bruno Richard Hauptmann, a German-born carpenter living in the Bronx; more than $14,000 of the ransom money was found hidden in his garage.",
+      "Hauptmann's trial opened January 2, 1935, at the Hunterdon County Courthouse in Flemington, New Jersey, in a media spectacle often called the \"Trial of the Century.\" The prosecution, led by Attorney General David T. Wilentz, presented the ransom money, handwriting analysis linking Hauptmann to the notes, Condon's address and phone number found written inside a closet in Hauptmann's home, and expert testimony that a board from his attic matched wood in the kidnap ladder. Hauptmann insisted he was innocent, claiming the money had been left with him by a business associate, Isidor Fisch, who had returned to Germany and died. On February 13, 1935, the jury convicted him of first-degree murder and he was sentenced to death. After appeals and clemency petitions failed, Hauptmann was executed in the electric chair at the New Jersey State Prison on April 3, 1936, maintaining his innocence to the end.",
+      "The kidnapping prompted Congress to pass the Federal Kidnapping Act of 1932, popularly known as the \"Lindbergh Law,\" which made transporting a kidnapping victim across state lines a federal crime and expanded FBI jurisdiction. Hauptmann's conviction and execution remain matters of historical record. However, in the decades since, some authors, journalists, and researchers, among them Ludovic Kennedy and Lloyd Gardner, have argued that the investigation was flawed and that Hauptmann may not have acted alone or may have been wrongly convicted; his widow, Anna Hauptmann, pursued unsuccessful lawsuits against New Jersey in the 1980s. These challenges are contested and have not overturned the verdict; many historians and former FBI officials continue to regard the evidence against Hauptmann as persuasive. The case endures as one of the most studied and debated crimes in American history."
+    ],
+    "timeline": [
+      {
+        "date": "1932-03-01",
+        "event": "Charles Lindbergh Jr., 20 months old, is abducted from the family home near Hopewell, New Jersey; a ransom note is left on the nursery windowsill."
+      },
+      {
+        "date": "1932-04-02",
+        "event": "Intermediary Dr. John F. Condon (\"Jafsie\") delivers $50,000 in ransom, partly in recorded gold certificates, to a man at St. Raymond's Cemetery in the Bronx."
+      },
+      {
+        "date": "1932-05-12",
+        "event": "The child's body is discovered in woods a few miles from the Lindbergh home; an autopsy attributes death to a blow to the head."
+      },
+      {
+        "date": "1932-06-22",
+        "event": "Congress passes the Federal Kidnapping Act, the \"Lindbergh Law,\" making interstate kidnapping a federal crime."
+      },
+      {
+        "date": "1934-09-19",
+        "event": "Bruno Richard Hauptmann is arrested in the Bronx after ransom bills are traced to him; ransom money is later found hidden in his garage."
+      },
+      {
+        "date": "1935-01-02",
+        "event": "Hauptmann's trial opens at the Hunterdon County Courthouse in Flemington, New Jersey."
+      },
+      {
+        "date": "1935-02-13",
+        "event": "Hauptmann is convicted of first-degree murder and sentenced to death."
+      },
+      {
+        "date": "1936-04-03",
+        "event": "Hauptmann is executed in the electric chair at the New Jersey State Prison, still professing his innocence."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "paul-bern",
@@ -1046,14 +1096,96 @@
     ],
     "sources": [
       {
-        "title": "Emmett Till — Wikipedia",
+        "title": "Emmett Till - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Emmett_Till"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Emmett Till - Civil Rights Cold Case Records Review Board (DOJ)",
+        "url": "https://www.coldcaserecords.gov/content/cases/1955-08-28-emmett-till/"
+      },
+      {
+        "title": "A Proclamation on Establishment of the Emmett Till and Mamie Till-Mobley National Monument - The White House",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/07/25/a-proclamation-on-establishment-of-the-emmett-till-and-mamie-till-mobley-national-monument/"
+      },
+      {
+        "title": "The Murder of Emmett Till - American Experience Timeline - PBS",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/till-timeline/"
+      },
+      {
+        "title": "Emmett Till's Death Inspired a Movement - National Museum of African American History and Culture",
+        "url": "https://nmaahc.si.edu/explore/stories/emmett-tills-death-inspired-movement"
+      },
+      {
+        "title": "Carolyn Bryant Donham, who accused Emmett Till before he was lynched, dies at age 88 - NPR",
+        "url": "https://www.npr.org/2023/04/27/1172489493/carolyn-bryant-donham-who-accused-emmett-till-before-he-was-lynched-dies-at-age-"
       }
-    ]
+    ],
+    "narrative": [
+      "Emmett Louis Till was a 14-year-old Black teenager from Chicago who was visiting relatives in the Mississippi Delta during the summer of 1955. On August 24, 1955, he entered Bryant's Grocery and Meat Market in the small town of Money, Mississippi, where he had an encounter with Carolyn Bryant, the 21-year-old white woman who ran the store with her husband. Accounts of what occurred have long been disputed, but Till was accused of whistling at, flirting with, or otherwise offending Bryant. Decades later, in interviews reported by historian Timothy Tyson, Bryant was said to have recanted the most serious parts of her testimony, though she denied recanting when questioned by the FBI.",
+      "In the early morning hours of August 28, 1955, Carolyn Bryant's husband, Roy Bryant, and his half-brother, J.W. Milam, abducted Till at gunpoint from his great-uncle Mose Wright's home in Leflore County. The two men beat Till severely, shot him, and dumped his body in the Tallahatchie River, weighted down with a cotton-gin fan. His mutilated body was recovered from the river on August 31, 1955, and was identifiable only by a ring he wore.",
+      "Till's mother, Mamie Till-Mobley, insisted on an open-casket funeral in Chicago so the public could see what had been done to her son. Tens of thousands of mourners viewed the body, and photographs published in Jet magazine and the Black press shocked the nation and much of the world. The funeral and images became a galvanizing moment for the emerging civil-rights movement, helping to spur activism in the months and years that followed.",
+      "Bryant and Milam were tried for murder in September 1955 in Sumner, Mississippi. The trial began on September 19, and on September 23, 1955, an all-white, all-male jury acquitted both men after deliberating for roughly an hour. The acquittal drew national and international condemnation. In January 1956, protected from further prosecution by the constitutional prohibition on double jeopardy, Bryant and Milam confessed to the killing in a paid interview with William Bradford Huie published in Look magazine. No one was ever convicted in connection with Emmett Till's murder.",
+      "The U.S. Department of Justice reopened the case in 2004 under its Cold Case Initiative; Till's body was exhumed and an autopsy conducted, but in February 2007 a Mississippi grand jury declined to indict Carolyn Bryant. The DOJ reopened the matter again in 2017 following reports that Bryant had recanted, and closed it in December 2021 without charges, citing insufficient evidence. In June 2022, researchers found an unserved 1955 arrest warrant for Carolyn Bryant Donham on a kidnapping charge, but a Leflore County grand jury again declined to indict her in August 2022. Donham died on April 25, 2023, at age 88. On July 25, 2023, President Biden established the Emmett Till and Mamie Till-Mobley National Monument, spanning sites in Illinois and Mississippi. The case remains officially closed and legally unresolved, with no living perpetrators ever held to account."
+    ],
+    "timeline": [
+      {
+        "date": "1941-07-25",
+        "event": "Emmett Louis Till is born in Chicago, Illinois."
+      },
+      {
+        "date": "1955-08-24",
+        "event": "Till has a disputed encounter with Carolyn Bryant at Bryant's Grocery in Money, Mississippi."
+      },
+      {
+        "date": "1955-08-28",
+        "event": "Roy Bryant and J.W. Milam abduct Till at gunpoint; he is beaten, shot, and killed."
+      },
+      {
+        "date": "1955-08-31",
+        "event": "Till's body is recovered from the Tallahatchie River."
+      },
+      {
+        "date": "1955-09-06",
+        "event": "Till is buried in Chicago following an open-casket funeral viewed by tens of thousands."
+      },
+      {
+        "date": "1955-09-19",
+        "event": "The murder trial of Bryant and Milam begins in Sumner, Mississippi."
+      },
+      {
+        "date": "1955-09-23",
+        "event": "An all-white, all-male jury acquits Bryant and Milam after about an hour of deliberation."
+      },
+      {
+        "date": "1956-01-24",
+        "event": "Bryant and Milam confess to the murder in a paid Look magazine interview, shielded by double jeopardy."
+      },
+      {
+        "date": "2004-05-10",
+        "event": "The DOJ reopens the case; Till's body is later exhumed and autopsied."
+      },
+      {
+        "date": "2007-02",
+        "event": "A Mississippi grand jury declines to indict Carolyn Bryant Donham."
+      },
+      {
+        "date": "2021-12",
+        "event": "The DOJ closes its renewed 2017 investigation without charges, citing insufficient evidence."
+      },
+      {
+        "date": "2022-06",
+        "event": "An unserved 1955 arrest warrant for Carolyn Bryant Donham is discovered; a grand jury again declines to indict in August 2022."
+      },
+      {
+        "date": "2023-04-25",
+        "event": "Carolyn Bryant Donham dies at age 88."
+      },
+      {
+        "date": "2023-07-25",
+        "event": "President Biden establishes the Emmett Till and Mamie Till-Mobley National Monument."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "emmett-till-2022",
@@ -1218,10 +1350,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Boston Strangler - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Boston_Strangler"
+      },
+      {
+        "title": "Albert DeSalvo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albert_DeSalvo"
+      },
+      {
+        "title": "Solving Cold Cases with DNA: The Boston Strangler Case - Office of Justice Programs",
+        "url": "https://www.ojp.gov/library/publications/solving-cold-cases-dna-boston-strangler-case"
+      },
+      {
+        "title": "Lab: Confessed Boston Strangler's DNA on slain woman's body - CNN",
+        "url": "https://www.cnn.com/2013/07/19/justice/massachusetts-boston-strangler-dna/index.html"
+      },
+      {
+        "title": "Police Find First Victim of 'Boston Strangler' - Mass Moments",
+        "url": "https://www.massmoments.org/moment-details/police-find-first-victim-of-boston-strangler.html"
+      },
+      {
+        "title": "Who was the Boston Strangler? New evidence may point to a different suspect - CBS Boston",
+        "url": "https://www.cbsnews.com/boston/news/boston-strangler-alber-desalvo-george-nassar/"
       }
-    ]
+    ],
+    "narrative": [
+      "Between June 14, 1962, and January 4, 1964, at least 13 women were killed in the Greater Boston area in a series of murders that came to be attributed to a single offender the press dubbed the \"Boston Strangler.\" The victims ranged in age from 19 to 85 and were generally attacked in their own apartments; most were sexually assaulted and strangled, frequently with articles of their own clothing left knotted around the neck. The first known victim was 55-year-old Anna Slesers, found on June 14, 1962, and the last widely counted victim was 19-year-old Mary Sullivan, killed on January 4, 1964, in her Charles Street apartment.",
+      "The killings generated one of the largest manhunts in Massachusetts history, and the state assembled a special \"Strangler Bureau\" to coordinate the investigation. Investigators were never certain that a single person was responsible: the victims varied widely in age and circumstance, and the methods differed enough that some detectives and later analysts believed more than one killer may have been involved. No one was ever charged with the stranglings during the years the cases were actively worked, and much of the physical evidence predated modern forensic techniques.",
+      "The case became linked to Albert DeSalvo, who was in custody on unrelated sexual-assault charges connected to the \"Green Man\" and \"Measuring Man\" offenses. While held, DeSalvo confessed in detail to being the Boston Strangler, initially to a fellow inmate and then to authorities through his attorney, F. Lee Bailey. His account included details that drew attention, but it also contained errors, and skeptics noted that some information could have come from press coverage or from investigators. His confession was never used to try him for the murders; a judge ruled it inadmissible, and DeSalvo was instead convicted and sentenced to life in 1967 for the earlier sexual offenses. He later recanted. DeSalvo was never tried for any of the stranglings and was stabbed to death in the Walpole State Prison infirmary in 1973; his killing was never solved.",
+      "For decades DeSalvo's guilt remained disputed. Former FBI profiler John Douglas and others questioned whether one man committed all the crimes, and some victims' families and researchers argued that the confession was unreliable. A partial resolution came in July 2013, when Massachusetts authorities announced that DNA recovered from the scene of Mary Sullivan's murder produced a familial match to DeSalvo through a relative. Investigators then exhumed DeSalvo's remains, and testing of the recovered DNA was reported as a definitive match, which officials said established that DeSalvo raped and killed Sullivan.",
+      "The 2013 DNA evidence directly ties DeSalvo to only one of the 13 deaths. The other cases were not resolved by that testing, and questions remain about whether DeSalvo was responsible for all, some, or none of the remaining murders, and whether one or more other offenders were involved. As a result, the Boston Strangler killings are best described as partially solved: forensically confirmed in the Sullivan case, but still uncertain as to the other victims."
+    ],
+    "timeline": [
+      {
+        "date": "1962-06-14",
+        "event": "Anna Slesers, 55, is found strangled in her Boston apartment, the first killing later attributed to the Boston Strangler."
+      },
+      {
+        "date": "1962-12-05",
+        "event": "Sophie Clark, 20, is killed, one of several victims murdered during the second half of 1962."
+      },
+      {
+        "date": "1963-05-08",
+        "event": "Beverly Samans, 23, is found dead, continuing the series of Greater Boston killings."
+      },
+      {
+        "date": "1964-01-04",
+        "event": "Mary Sullivan, 19, is raped and strangled in her Charles Street apartment; she is the last of the 13 victims commonly counted."
+      },
+      {
+        "date": "1964-10-27",
+        "event": "Albert DeSalvo is arrested in an unrelated home sexual assault, part of the 'Green Man' offenses that led to his detention."
+      },
+      {
+        "date": "1965",
+        "event": "While in custody, DeSalvo confesses in detail to the Boston Strangler killings; the confession is never used to charge him with murder."
+      },
+      {
+        "date": "1967-01-18",
+        "event": "DeSalvo is convicted and sentenced to life in prison for the earlier 'Green Man' sexual assaults, not for the stranglings."
+      },
+      {
+        "date": "1973-11-25",
+        "event": "DeSalvo is found stabbed to death in the infirmary of Walpole State Prison; the killing is never solved."
+      },
+      {
+        "date": "2013-07-11",
+        "event": "Massachusetts officials announce DNA evidence linking DeSalvo to the murder of Mary Sullivan via a familial match."
+      },
+      {
+        "date": "2013-07-19",
+        "event": "After exhuming DeSalvo's remains, authorities report the DNA is a match, saying it confirms he raped and killed Mary Sullivan."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "william-jones-nj",
@@ -1888,10 +2090,88 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Tate–LaBianca murders — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tate%E2%80%93LaBianca_murders"
+      },
+      {
+        "title": "Tate murders — Encyclopaedia Britannica",
+        "url": "https://www.britannica.com/event/Tate-murders"
+      },
+      {
+        "title": "Where Are The Manson Family Members Now? — Forbes",
+        "url": "https://www.forbes.com/sites/monicamercuri/2025/03/10/where-are-the-manson-family-members-now-see-whos-free-and-whos-still-behind-bars/"
+      },
+      {
+        "title": "Manson family killer Leslie Van Houten freed on parole — NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/manson-family-killer-leslie-van-houten-freed-parole-rcna93737"
+      },
+      {
+        "title": "Charles Manson follower Leslie Van Houten released from prison — CBS News",
+        "url": "https://www.cbsnews.com/news/leslie-van-houten-released-prison-charles-manson-follower-labianca-murders-los-angeles-california/"
+      },
+      {
+        "title": "Leslie Van Houten, Manson Family member, freed after parole was reversed 5 times — NPR",
+        "url": "https://www.npr.org/2023/07/12/1187225790/leslie-van-houten-manson-murder-freed-prison-parole"
       }
-    ]
+    ],
+    "narrative": [
+      "Over two nights in August 1969, members of the so-called Manson Family carried out a series of murders in Los Angeles at the direction of cult leader Charles Manson. On the night of August 8–9, 1969, followers led by Charles \"Tex\" Watson entered the home at 10050 Cielo Drive and killed five people: actress Sharon Tate, who was eight and a half months pregnant; celebrity hairstylist Jay Sebring; coffee heiress Abigail Folger; her partner, writer Wojciech Frykowski; and Steven Parent, an 18-year-old who had been visiting the property's caretaker. Tate's unborn son also died. The following night, August 10, 1969, the group murdered supermarket executive Leno LaBianca and his wife, Rosemary, at their home in the Los Feliz neighborhood.",
+      "The killings shocked the nation for their brutality and apparent randomness. Prosecutors later argued that Manson intended the murders to ignite an apocalyptic race war he called \"Helter Skelter,\" borrowed from a Beatles song. The participants staged the scenes to mislead investigators, and for months detectives did not connect the two sets of crimes. The break came in the fall of 1969, after Susan Atkins, who had been jailed on unrelated charges, described her involvement to fellow inmates at the Sybil Brand Institute. Their accounts, combined with a raid on the Family's desert base at Barker Ranch in October 1969, allowed authorities to build a case against Manson and his followers.",
+      "The trial of Manson, Atkins, Patricia Krenwinkel, and Leslie Van Houten began in June 1970 and became one of the most closely watched proceedings of the era. On January 25, 1971, all four were found guilty of first-degree murder, and in March 1971 each was sentenced to death. Watson, extradited from Texas, was tried separately later that year and likewise convicted and sentenced to death. Manson and his co-defendants were convicted of the murders as charged.",
+      "In 1972, the Supreme Court of California ruled in People v. Anderson that the state's death penalty statute was unconstitutional, sparing more than 100 condemned inmates. The death sentences of Manson and his co-defendants were commuted to life in prison, which under the law then in effect carried the possibility of parole. Over the following decades, the defendants were repeatedly denied release. Susan Atkins died of cancer in prison in September 2009 after a final parole denial. Charles Manson was denied parole a dozen times and died on November 19, 2017, at a hospital in Bakersfield, California, from cardiac arrest linked to colon cancer.",
+      "As of 2026, the case's legacy continues to be measured through the parole system. Leslie Van Houten, convicted only in the LaBianca killings, was released on parole in July 2023 after serving 53 years, following Governor Gavin Newsom's decision not to challenge the parole board's finding. Charles \"Tex\" Watson and Patricia Krenwinkel remain incarcerated; Krenwinkel is regarded as California's longest-serving female inmate. The Tate–LaBianca murders remain among the most infamous crimes in American history, closed by conviction rather than by any unresolved question of guilt."
+    ],
+    "timeline": [
+      {
+        "date": "1969-08-09",
+        "event": "Manson Family members kill Sharon Tate, Jay Sebring, Abigail Folger, Wojciech Frykowski and Steven Parent at 10050 Cielo Drive in Los Angeles."
+      },
+      {
+        "date": "1969-08-10",
+        "event": "Leno and Rosemary LaBianca are murdered at their home in the Los Feliz section of Los Angeles."
+      },
+      {
+        "date": "1969-10-12",
+        "event": "Authorities raid the Family's Barker Ranch hideout in Death Valley, leading to arrests of Manson and followers on unrelated charges."
+      },
+      {
+        "date": "1969-11-01",
+        "event": "The case breaks when Susan Atkins describes her role in the killings to fellow inmates at the Sybil Brand Institute."
+      },
+      {
+        "date": "1969-12-01",
+        "event": "Los Angeles authorities announce indictments against Manson and Family members for the Tate–LaBianca murders."
+      },
+      {
+        "date": "1970-06-15",
+        "event": "The trial of Manson, Atkins, Krenwinkel and Van Houten begins in Los Angeles."
+      },
+      {
+        "date": "1971-01-25",
+        "event": "Manson, Atkins, Krenwinkel and Van Houten are found guilty of first-degree murder."
+      },
+      {
+        "date": "1971-03-29",
+        "event": "The four defendants are sentenced to death; Tex Watson is later tried, convicted and also sentenced to death."
+      },
+      {
+        "date": "1972-02-18",
+        "event": "The California Supreme Court's People v. Anderson ruling voids the state's death penalty; the sentences are commuted to life with the possibility of parole."
+      },
+      {
+        "date": "2009-09-24",
+        "event": "Susan Atkins dies of brain cancer in prison after a final parole denial."
+      },
+      {
+        "date": "2017-11-19",
+        "event": "Charles Manson dies at age 83 in a Bakersfield hospital of cardiac arrest linked to colon cancer."
+      },
+      {
+        "date": "2023-07-11",
+        "event": "Leslie Van Houten is released on parole after 53 years, following Governor Newsom's decision not to block her release."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "indiana-dunes-jane-doe",
@@ -2094,10 +2374,79 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Dean Corll - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dean_Corll"
+      },
+      {
+        "title": "David Owen Brooks - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/David_Owen_Brooks"
+      },
+      {
+        "title": "How scientists finally gave names to many unknown victims of serial killer Dean Corll - Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2025/04/01/517375/how-scientists-finally-gave-names-to-many-unknown-victims-of-serial-killer-dean-corll/"
+      },
+      {
+        "title": "Mass Killer's Victims Unknown For 35 Years - CBS News",
+        "url": "https://www.cbsnews.com/news/mass-killers-victims-unknown-for-35-years/"
+      },
+      {
+        "title": "Parents fight against release of Houston serial killer's accomplice - KPRC Click2Houston",
+        "url": "https://www.click2houston.com/news/investigates/2025/06/19/parents-fight-against-release-of-houston-serial-killers-accomplice/"
       }
-    ]
+    ],
+    "narrative": [
+      "Between September 1970 and August 1973, Dean Arnold Corll, an electrician and former candy-factory manager known locally as \"the Candy Man,\" abducted, sexually assaulted, tortured, and murdered at least 28 teenage boys and young men in and around Houston and Pasadena, Texas. Corll did not act alone. He was aided by two teenage accomplices, Elmer Wayne Henley and David Owen Brooks, who lured victims, most of them boys aged roughly 13 to 21 from the working-class Houston Heights neighborhood, to Corll's home with offers of parties, alcohol, drugs, or rides. According to statements later given to police, Corll paid the youths a bounty, reported as up to $200, for each boy they delivered. The killings became known collectively as the Houston Mass Murders and were, at the time of their discovery, regarded as the worst case of serial murder in American history.",
+      "The case broke on August 8, 1973, when 17-year-old Henley shot and killed Corll at Corll's Pasadena home after Corll, in a rage, had bound Henley along with two other teenagers and threatened to kill them. Henley fired six shots, striking Corll several times, and then telephoned police to report the shooting. Under questioning, Henley and Brooks led investigators to hidden burial sites, and over August 8 to 13, 1973, authorities exhumed the remains of victims from a rented boat shed in southwest Houston, from the shore of Lake Sam Rayburn, and from beaches on the Bolivar Peninsula and at High Island. Twenty-seven bodies were recovered in that initial search.",
+      "Because Corll was killed before he could be tried, he was never prosecuted, and Henley was not charged in Corll's death, which authorities treated as self-defense. Henley and Brooks were, however, tried for the murders themselves. In July 1974 Henley was convicted of six killings and sentenced to six consecutive 99-year terms; after a 1979 retrial ordered on a change-of-venue issue, he was again convicted and remains imprisoned in Texas, with parole repeatedly denied. Brooks was convicted in early 1975 of one murder, that of 15-year-old William Ray Lawrence, and sentenced to life; he died in prison on May 28, 2020, of complications from COVID-19.",
+      "Identifying the victims took decades. Several bodies were nameless \"John Does\" for years, and at least one family's remains were later found to have been misidentified. Forensic anthropologist Dr. Sharon Derrick and, later, genetic-genealogy teams gradually restored names: Randell Lee Harvey was identified in 2008, and Donald Wayne Falcon was identified through DNA in 2014, among others. As of 2026, one victim remains unidentified, officially John Houston Doe 1973 and nicknamed \"Swimsuit Boy\" (NamUs UP4547); the National Center for Missing & Exploited Children released an updated facial reconstruction of him in 2023. The convictions stand, and the effort to name the final victim continues."
+    ],
+    "timeline": [
+      {
+        "date": "September 1970",
+        "event": "The first known killings in the Houston Mass Murders series begin; Corll, aided by accomplices, abducts and murders teenage boys around Houston Heights."
+      },
+      {
+        "date": "1971",
+        "event": "Elmer Wayne Henley, initially targeted as a potential victim, is recruited as an accomplice, joining David Brooks in procuring victims for Corll."
+      },
+      {
+        "date": "August 8, 1973",
+        "event": "Elmer Wayne Henley shoots and kills Dean Corll at Corll's Pasadena home, then calls police; the accomplices begin leading investigators to burial sites."
+      },
+      {
+        "date": "August 8-13, 1973",
+        "event": "Investigators recover 27 bodies from a rented boat shed in southwest Houston, from Lake Sam Rayburn, and from Bolivar Peninsula and High Island beaches."
+      },
+      {
+        "date": "July 1974",
+        "event": "Henley is convicted of six murders and sentenced to six consecutive 99-year prison terms."
+      },
+      {
+        "date": "March 1975",
+        "event": "David Brooks is convicted of the murder of 15-year-old William Ray Lawrence and sentenced to life imprisonment."
+      },
+      {
+        "date": "1979",
+        "event": "Henley is retried after a change of venue and again convicted of six murders."
+      },
+      {
+        "date": "October 2008",
+        "event": "Victim Randell Lee Harvey, long known only as a John Doe, is identified through renewed forensic work."
+      },
+      {
+        "date": "2014",
+        "event": "Victim Donald Wayne Falcon is identified through DNA analysis."
+      },
+      {
+        "date": "May 28, 2020",
+        "event": "David Brooks dies in prison of complications from COVID-19 at age 65."
+      },
+      {
+        "date": "August 2023",
+        "event": "The National Center for Missing & Exploited Children releases an updated facial reconstruction of the last unidentified victim, John Houston Doe 1973 (\"Swimsuit Boy\")."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "christine-eastin",
@@ -2403,10 +2752,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "John Wayne Gacy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Wayne_Gacy"
+      },
+      {
+        "title": "Unidentified Victims of John Wayne Gacy - Cook County Sheriff's Office",
+        "url": "https://cookcountysheriffil.gov/departments/c-c-s-p-d/unidentified-victims-john-wayne-gacy/"
+      },
+      {
+        "title": "John Wayne Gacy Victim Identified - Cook County Sheriff's Office",
+        "url": "https://cookcountysheriffil.gov/john-wayne-gacy-victim-identified/"
+      },
+      {
+        "title": "Another victim of serial killer John Wayne Gacy has been identified using DNA - NPR",
+        "url": "https://www.npr.org/2021/10/25/1049100466/dna-victim-serial-killer-john-wayne-gacy"
+      },
+      {
+        "title": "John Wayne Gacy victim No. 5 identified as Francis Wayne Alexander - ABC7 Chicago",
+        "url": "https://abc7chicago.com/post/john-wayne-gacy-victim-cook-county-sheriffs-office/11165916/"
+      },
+      {
+        "title": "Another Victim of Serial Killer John Wayne Gacy Identified Through DNA Testing - NBC Chicago",
+        "url": "https://www.nbcchicago.com/investigations/cook-county-sheriff-to-update-on-effort-to-identify-john-wayne-gacys-unnamed-victims/2654554/"
       }
-    ]
+    ],
+    "narrative": [
+      "Between 1972 and 1978, John Wayne Gacy, a building contractor and locally active community figure in the Chicago suburb of Norwood Park Township, Illinois, murdered at least 33 young men and boys. Gacy typically lured victims, many of them teenagers or young laborers, to his ranch-style home at 8213 West Summerdale Avenue, where he assaulted and strangled them. His first known killing was that of 16-year-old Timothy McCoy in January 1972, and the pace of the murders increased in the mid- to late 1970s. Because of his public persona, including performing as a clown at children's parties and civic events, Gacy was later widely referred to in the press as the 'Killer Clown.'",
+      "Gacy concealed most of his victims on his own property. Investigators ultimately recovered 26 bodies buried in the crawl space beneath his house and three more elsewhere on the grounds; four additional victims were disposed of in the Des Plaines River after the crawl space ran out of room. The scale of the concealment was not discovered until authorities began investigating the December 1978 disappearance of 15-year-old Robert Piest, a pharmacy employee last seen leaving to meet Gacy about a job. Surveillance and a search warrant led police to the Summerdale Avenue address.",
+      "Gacy was arrested on December 21, 1978, and confessed the following day as human remains were unearthed from beneath his home. He was charged with 33 murders. His trial in Cook County began in February 1980; jurors rejected an insanity defense, and on March 13, 1980, Gacy was convicted and sentenced to death. After more than a decade of appeals, he was executed by lethal injection at Stateville Correctional Center on May 10, 1994. His conviction and execution are matters of established public record.",
+      "Although Gacy himself was brought to justice, not all of his victims were identified at the time. Several sets of remains were buried as unidentified for decades. In 2011, Cook County Sheriff Tom Dart reopened the identification effort, exhuming unidentified remains and seeking DNA samples from families of young men who had gone missing across the United States in the 1970s. Within weeks the office identified William Bundy, a 19-year-old who had disappeared in 1976. In 2017, investigators identified 16-year-old James 'Jimmy' Haakenson of Minnesota, and in October 2021 they identified Francis Wayne Alexander using forensic genealogy in collaboration with the DNA Doe Project.",
+      "As of the mid-2020s, the Cook County Sheriff's Office reports that five of Gacy's victims remain unidentified. Investigators continue to solicit DNA samples via buccal (cheek) swabs from living relatives of males who went missing in the United States between roughly 1970 and 1979, comparing those profiles against the recovered remains and, where feasible, applying investigative genetic genealogy. The Sheriff's office frames the ongoing initiative as an effort to give the remaining victims their names back and to bring answers to families of the missing."
+    ],
+    "timeline": [
+      {
+        "date": "1972-01-03",
+        "event": "Gacy commits his first known murder, killing 16-year-old Timothy McCoy at his Norwood Park Township home."
+      },
+      {
+        "date": "1975-07-31",
+        "event": "18-year-old employee John Butkovich disappears; he is later confirmed as one of Gacy's victims."
+      },
+      {
+        "date": "1978-12-11",
+        "event": "15-year-old Robert Piest goes missing after leaving to meet Gacy about a job, triggering the investigation."
+      },
+      {
+        "date": "1978-12-21",
+        "event": "Gacy is arrested after police investigate Piest's disappearance."
+      },
+      {
+        "date": "1978-12-22",
+        "event": "Gacy confesses; investigators begin recovering human remains from the crawl space beneath his house."
+      },
+      {
+        "date": "1980-02-06",
+        "event": "Gacy's trial opens in Cook County Criminal Court on 33 counts of murder."
+      },
+      {
+        "date": "1980-03-13",
+        "event": "A jury convicts Gacy and he is sentenced to death."
+      },
+      {
+        "date": "1994-05-10",
+        "event": "Gacy is executed by lethal injection at Stateville Correctional Center."
+      },
+      {
+        "date": "2011-10-01",
+        "event": "Sheriff Tom Dart reopens the effort to identify Gacy's unnamed victims; William Bundy is identified within weeks."
+      },
+      {
+        "date": "2017-07-01",
+        "event": "Investigators identify 16-year-old James 'Jimmy' Haakenson of Minnesota through DNA."
+      },
+      {
+        "date": "2021-10-25",
+        "event": "The Sheriff's Office announces the identification of Francis Wayne Alexander using forensic genetic genealogy."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "peter-reilly",
@@ -2853,10 +3276,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Ted Bundy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ted_Bundy"
+      },
+      {
+        "title": "Ted Bundy | Biography, Crimes, Death, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Ted-Bundy"
+      },
+      {
+        "title": "Serial killer Ted Bundy is put to death in the electric chair at Florida State Prison on January 24, 1989 - HistoryLink.org",
+        "url": "https://www.historylink.org/File/2637"
+      },
+      {
+        "title": "Timeline of many of Ted Bundy's brutal crimes - ABC News",
+        "url": "https://abcnews.go.com/US/timeline-ted-bundys-brutal-crimes/story?id=61077236"
+      },
+      {
+        "title": "Remembering Ted Bundy and the Chi Omega Murders - Florida Sheriffs Association",
+        "url": "https://flsheriffs.org/blog/entry/remembering-ted-bundy-and-the-chi-omega-murders/"
+      },
+      {
+        "title": "Remembering Kimberly Leach, 12, Ted Bundy's last victim - ABC News",
+        "url": "https://abcnews.com/US/remembering-kimberly-leach-12-ted-bundys-victim-world/story?id=60912704"
       }
-    ]
+    ],
+    "narrative": [
+      "Theodore Robert \"Ted\" Bundy was an American serial killer who kidnapped, raped, and murdered numerous young women and girls across several U.S. states between 1974 and 1978. His documented series of attacks began in the Pacific Northwest in early 1974, when young women started disappearing from around Seattle and college campuses in Washington and Oregon. The killings later extended into Utah, Colorado, Idaho, and ultimately Florida. Many victims shared a similar appearance, and Bundy often lured them by feigning injury or posing as an authority figure before overpowering them. Because he crossed state lines and disposed of remains in remote areas, investigators in different jurisdictions initially struggled to connect the cases.",
+      "Bundy first came to law-enforcement attention in Utah, where he was arrested on August 16, 1975, after a traffic stop turned up suspicious items in his car. He was linked to the attempted 1974 abduction of Carol DaRonch and, following a 1976 bench trial, was convicted of aggravated kidnapping and sentenced to prison. While facing a murder charge in Colorado, Bundy escaped custody twice: first on June 7, 1977, by jumping from a courthouse window in Aspen, and again on December 30, 1977, by crawling through a jail ceiling in Garfield County. After the second escape he fled to Florida.",
+      "In Tallahassee, Bundy carried out his most notorious attacks. In the early hours of January 15, 1978, he entered the Chi Omega sorority house near Florida State University, killing Margaret Bowman and Lisa Levy and severely injuring two other residents. Weeks later, on February 9, 1978, he abducted and murdered 12-year-old Kimberly Leach in Lake City, Florida; her remains were found in April 1978. Bundy was arrested in Pensacola on February 15, 1978, after another traffic stop.",
+      "Bundy was tried and convicted in Florida. In July 1979, a Miami jury found him guilty of the Chi Omega murders, and he received two death sentences. In a separate trial, he was convicted of Kimberly Leach's murder in February 1980 and sentenced to death a third time. After years of appeals, Bundy was executed in the electric chair at Florida State Prison in Raiford on January 24, 1989. He was convicted of these murders and executed for them—both established as fact by the courts and carried out by the state.",
+      "In the days before his execution, Bundy confessed to roughly 30 murders committed between 1974 and 1978 across Washington, Oregon, Idaho, Utah, Colorado, and Florida. However, the true number of his victims remains unknown and is only an estimate; investigators and Bundy himself suggested the total could be higher, and some crime scholars have cited figures of 36 or more. A number of suspected victims were never conclusively identified or recovered, leaving several possible cases unresolved. Today the case is closed with respect to Bundy's conviction and execution, but the full scope of his crimes—and the identities of all his victims—has never been definitively settled."
+    ],
+    "timeline": [
+      {
+        "date": "1974-02-01",
+        "event": "University of Washington student Lynda Ann Healy disappears from Seattle, among the first known victims in a series of Pacific Northwest abductions."
+      },
+      {
+        "date": "1975-08-16",
+        "event": "Bundy is arrested during a traffic stop in Granger, Utah, after officers find suspicious items in his vehicle."
+      },
+      {
+        "date": "1976-03-01",
+        "event": "Bundy is convicted of aggravated kidnapping in Utah for the 1974 attempted abduction of Carol DaRonch and later sentenced to prison."
+      },
+      {
+        "date": "1977-06-07",
+        "event": "Bundy escapes custody by jumping from a courthouse window in Aspen, Colorado; he is recaptured days later."
+      },
+      {
+        "date": "1977-12-30",
+        "event": "Bundy escapes a second time, from the Garfield County jail in Colorado, and flees to Florida."
+      },
+      {
+        "date": "1978-01-15",
+        "event": "Bundy attacks the Chi Omega sorority house at Florida State University in Tallahassee, killing Margaret Bowman and Lisa Levy and injuring two others."
+      },
+      {
+        "date": "1978-02-09",
+        "event": "Bundy abducts and murders 12-year-old Kimberly Leach in Lake City, Florida; her remains are found in April 1978."
+      },
+      {
+        "date": "1978-02-15",
+        "event": "Bundy is arrested in Pensacola, Florida, after a traffic stop, ending his time as a fugitive."
+      },
+      {
+        "date": "1979-07-24",
+        "event": "A Miami jury convicts Bundy of the Chi Omega murders; he receives two death sentences."
+      },
+      {
+        "date": "1980-02-10",
+        "event": "Bundy is convicted of the murder of Kimberly Leach and sentenced to death a third time."
+      },
+      {
+        "date": "1989-01-24",
+        "event": "Bundy is executed in the electric chair at Florida State Prison in Raiford after confessing to about 30 murders."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ted-bundy-washington",
@@ -3373,10 +3870,76 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "David Berkowitz - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/David_Berkowitz"
+      },
+      {
+        "title": "David Berkowitz | Prison, Crimes, Son of Sam, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/David-Berkowitz"
+      },
+      {
+        "title": "Son of Sam serial killer is arrested | August 10, 1977 | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/august-10/son-of-sam-arrested"
+      },
+      {
+        "title": "The Son of Sam Struck Fear Into New York City. A Parking Ticket Led to His Capture - Biography",
+        "url": "https://www.biography.com/crime/a65529737/son-of-sam-murder-case-timeline"
+      },
+      {
+        "title": "\"Son of Sam\": A serial killer's reign of terror - CBS News",
+        "url": "https://www.cbsnews.com/pictures/son-of-sam-serial-killer-david-berkowitz-victims-and-timeline/"
       }
-    ]
+    ],
+    "narrative": [
+      "Between the summer of 1976 and the summer of 1977, a series of nighttime shootings terrorized New York City. Using a .44 caliber Bulldog revolver, the gunman targeted young people, most often women with long dark hair and couples sitting in parked cars in the Bronx, Queens, and Brooklyn. The first fatal attack came on July 29, 1976, when 18-year-old Donna Lauria was killed and her friend Jody Valenti wounded as they sat in a car in the Bronx. Over the following year the attacks continued, ultimately leaving six people dead and several others wounded. The dead included Christine Freund, Virginia Voskerichian, Valentina Suriani, Alexander Esau, and Stacy Moskowitz, along with Donna Lauria.",
+      "As the shootings mounted, police connected them through ballistics matching the same .44 caliber weapon, and the case drew intense press coverage under nicknames such as the \".44 Caliber Killer.\" The gunman began communicating with authorities and the media through taunting handwritten letters. A note left at one crime scene and a later letter to Daily News columnist Jimmy Breslin, dated May 30, 1977, signed the name \"Son of Sam.\" Berkowitz later said the name referred to a demon he claimed spoke to him through a dog owned by his neighbor Sam Carr, a story he subsequently admitted was a fabrication.",
+      "The killings triggered one of the largest manhunts in the city's history, involving a dedicated task force known as Operation Omega and heavy patrols of areas where couples parked. The decisive break came after the final shooting in Brooklyn on July 31, 1977, which killed Stacy Moskowitz and blinded Robert Violante. A witness had noticed police ticketing cars near the scene, and investigators traced a parking ticket issued that night to a vehicle registered to David Berkowitz of Yonkers. On August 10, 1977, officers arrested Berkowitz outside his apartment; a .44 revolver was found in his car, and he quickly confessed.",
+      "Berkowitz, a 24-year-old former postal worker, was found mentally competent to stand trial. On May 8, 1978, he pleaded guilty to the shootings, and on June 12, 1978, he was sentenced to six consecutive terms of 25 years to life in prison. He remains incarcerated in the New York State prison system, most recently at Shawangunk Correctional Facility, and has repeatedly been denied or has declined parole. These facts—his guilty plea and continued imprisonment—are established and undisputed.",
+      "The case had a lasting legal legacy. Anticipating that Berkowitz might profit from selling his story, New York enacted the first \"Son of Sam\" law to divert such earnings to victims; the U.S. Supreme Court struck down the original statute on First Amendment grounds in Simon & Schuster v. Members of the New York State Crime Victims Board (1991), after which New York and many other states passed revised versions. Beginning in the 1990s, Berkowitz claimed he had not acted alone, alleging that a Satanic cult he called \"the Twenty-Two Disciples of Hell\" was involved and naming associates including John and Michael Carr. These conspiracy claims have never been proven; official reviews were inconclusive, and Berkowitz alone was convicted of the crimes."
+    ],
+    "timeline": [
+      {
+        "date": "1976-07-29",
+        "event": "Donna Lauria, 18, is shot and killed and Jody Valenti wounded in a parked car in the Bronx, the first attack in the series."
+      },
+      {
+        "date": "1977-01-30",
+        "event": "Christine Freund is shot and killed in Queens."
+      },
+      {
+        "date": "1977-03-08",
+        "event": "Virginia Voskerichian is shot and killed in Queens; police confirm a common .44 caliber weapon links the attacks."
+      },
+      {
+        "date": "1977-04-17",
+        "event": "Valentina Suriani and Alexander Esau are killed in the Bronx; a note signed 'Son of Sam' is left at the scene."
+      },
+      {
+        "date": "1977-05-30",
+        "event": "A letter signed 'Son of Sam' is sent to Daily News columnist Jimmy Breslin, intensifying media coverage."
+      },
+      {
+        "date": "1977-07-31",
+        "event": "Stacy Moskowitz is killed and Robert Violante blinded in Brooklyn, the final shooting; a parking ticket issued nearby becomes the key lead."
+      },
+      {
+        "date": "1977-08-10",
+        "event": "David Berkowitz is arrested outside his Yonkers apartment; a .44 revolver is recovered and he confesses."
+      },
+      {
+        "date": "1978-05-08",
+        "event": "Berkowitz pleads guilty to the shootings after being found competent to stand trial."
+      },
+      {
+        "date": "1978-06-12",
+        "event": "Berkowitz is sentenced to six consecutive terms of 25 years to life in prison."
+      },
+      {
+        "date": "1991-12-10",
+        "event": "The U.S. Supreme Court strikes down New York's original 'Son of Sam' profit law in Simon & Schuster v. New York State Crime Victims Board."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "wisconsin-dells-jane-doe",
@@ -3487,10 +4050,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Hillside Strangler - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hillside_Strangler"
+      },
+      {
+        "title": "Kenneth Bianchi - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kenneth_Bianchi"
+      },
+      {
+        "title": "Angelo Buono Jr. - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Angelo_Buono_Jr."
+      },
+      {
+        "title": "One of the 'Hillside Stranglers' sentenced to life | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/january-9/the-hillside-stranglers"
+      },
+      {
+        "title": "Kenneth Bianchi: Biography, Serial Killer, Hillside Strangler | Biography.com",
+        "url": "https://www.biography.com/crime-figure/kenneth-bianchi"
+      },
+      {
+        "title": "'Hillside Strangler' Kenneth Bianchi denied parole - CBS Los Angeles",
+        "url": "https://www.cbsnews.com/losangeles/news/hillside-strangler-kenneth-bianchi-denied-parole/"
       }
-    ]
+    ],
+    "narrative": [
+      "Between October 1977 and February 1978, the Los Angeles area was gripped by a series of killings in which the bodies of young women and girls were found discarded, often nude, on hillsides and roadside slopes across the city and surrounding foothills. Because the earliest victims were left in elevated, exposed locations, the press dubbed the unknown killer the \"Hillside Strangler,\" and investigators initially believed they were hunting a single man. The victims ranged in age from 12 to 28 and were typically abducted, sexually assaulted, tortured, and strangled before their bodies were posed in visible places, in several instances near police facilities.",
+      "As the investigation progressed, evidence suggested that two people were working together rather than one. The perpetrators were eventually identified as cousins Kenneth Bianchi and Angelo Buono Jr., an auto-upholstery worker. The pair frequently posed as police officers to lure women into their vehicle, then drove them to Buono's home and shop in the Glendale area, where the assaults and murders took place. By the time they stopped, ten women and girls in the Los Angeles region had been killed, including 12-year-old Dolores Cepeda and 14-year-old Sonja Johnson, whose disappearances heightened public alarm.",
+      "The case broke open outside California. In January 1979, Bianchi, who had moved to Bellingham, Washington, was arrested for the murders of two women there. Investigators linked him to the Los Angeles killings, and Bianchi at first mounted an insanity defense, claiming he suffered from multiple personality disorder and that an alternate personality named \"Steve\" had committed the crimes. Court-appointed and prosecution experts, including hypnosis specialist Dr. Martin Orne, concluded that Bianchi was faking the disorder; the courts rejected the insanity and multiple-personality claims, and Bianchi ultimately admitted the alter egos were fabricated.",
+      "To avoid the death penalty, Bianchi pleaded guilty to several of the murders and agreed to testify against Buono, naming his cousin as his accomplice. Buono was arrested in October 1979. His prosecution was long and difficult, at one point nearly collapsing over doubts about Bianchi's reliability as a witness, but the case proceeded to a lengthy trial featuring hundreds of witnesses. In November 1983 Buono was convicted of nine of the murders, and in January 1984 he was sentenced to life in prison without the possibility of parole.",
+      "Both men were convicted and imprisoned. Angelo Buono died of a heart attack on September 21, 2002, at age 67, while serving his sentence at Calipatria State Prison in California. Kenneth Bianchi received life sentences for both the Washington and California murders and remains incarcerated, most recently reported at the Washington State Penitentiary, where he has repeatedly been denied parole. The Hillside Strangler case remains one of the most studied examples of two offenders killing in tandem, and of a defendant's disputed insanity claim being tested and rejected in court."
+    ],
+    "timeline": [
+      {
+        "date": "1977-10-17",
+        "event": "Yolanda Washington, 19, becomes the first known victim; her body is found the next day, beginning the Hillside Strangler killings in Los Angeles."
+      },
+      {
+        "date": "1977-10-31",
+        "event": "Judith Miller, 15, is abducted; her body is discovered on November 1, one of several victims left on open hillsides."
+      },
+      {
+        "date": "1977-11-13",
+        "event": "Twelve-year-old Dolores Cepeda and fourteen-year-old Sonja Johnson are abducted; their bodies are found on November 20, intensifying public fear."
+      },
+      {
+        "date": "1978-02-17",
+        "event": "Cindy Hudspeth, 20, the tenth and final Los Angeles victim, is found in the trunk of her car, ending the killing spree."
+      },
+      {
+        "date": "1979-01-12",
+        "event": "Kenneth Bianchi is arrested in Bellingham, Washington, in connection with two local murders, and is soon linked to the Los Angeles killings."
+      },
+      {
+        "date": "1979-10-22",
+        "event": "Angelo Buono Jr. is arrested after Bianchi names him as the second Hillside Strangler."
+      },
+      {
+        "date": "1979-10-19",
+        "event": "A judge rejects Bianchi's insanity/multiple-personality defense after experts conclude he was feigning the disorder; Bianchi later admits the alter egos were fabricated."
+      },
+      {
+        "date": "1980-01-01",
+        "event": "Bianchi pleads guilty to Los Angeles and Washington murders and agrees to testify against Buono in exchange for avoiding the death penalty."
+      },
+      {
+        "date": "1983-11-14",
+        "event": "Angelo Buono is convicted of nine of the Hillside Strangler murders after a lengthy trial."
+      },
+      {
+        "date": "1984-01-09",
+        "event": "Buono is sentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "2002-09-21",
+        "event": "Angelo Buono dies of a heart attack at age 67 at Calipatria State Prison while serving his life sentence."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ira-einhorn",
@@ -3734,10 +4371,72 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Jeffrey Dahmer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_Dahmer"
+      },
+      {
+        "title": "Cannibal and serial killer Jeffrey Dahmer is caught | July 22, 1991 - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/july-22/cannibal-and-serial-killer-jeffrey-dahmer-is-caught"
+      },
+      {
+        "title": "Jeffrey Dahmer murdered in prison | November 28, 1994 - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/november-28/jeffrey-dahmer-murdered-in-prison"
+      },
+      {
+        "title": "On this day, February 17th, 1992: Serial killer Jeffrey Dahmer sentenced - CBS News",
+        "url": "https://www.cbsnews.com/news/on-this-day-february-17th-1992-serial-killer-jeffrey-dahmer-sentenced/"
+      },
+      {
+        "title": "This Day in History: Feb. 15, 1992: Serial killer Jeffrey Dahmer convicted in 15 murders - Live 5 News",
+        "url": "https://www.live5news.com/2026/02/15/this-day-history-feb-15-1992-serial-killer-jeffrey-dahmer-convicted-15-murders/"
       }
-    ]
+    ],
+    "narrative": [
+      "Jeffrey Dahmer, often called the \"Milwaukee Cannibal,\" murdered 17 men and boys between 1978 and 1991. His victims were predominantly young men, and many were Black, Asian, or Latino. Dahmer committed his first killing on June 18, 1978, in Bath Township, Ohio, when he killed 18-year-old Steven Hicks. He did not kill again for nearly nine years, resuming in 1987 after moving to the Milwaukee, Wisconsin, area. There he typically approached victims in bars, malls, and other public places, lured them to his apartment with offers of money or company, drugged them, and killed them. He dismembered the bodies and, in some cases, engaged in acts he later confessed to investigators.",
+      "Dahmer's crimes came to light on July 22, 1991, when a man named Tracy Edwards escaped from Dahmer's Milwaukee apartment and, still partially handcuffed, flagged down police. When officers accompanied Edwards back to the apartment, they discovered photographs of dismembered bodies and then found human remains stored in the refrigerator, freezer, and elsewhere in the residence. Dahmer was arrested that night and soon confessed to the killings. Forensic investigators eventually connected the remains and evidence to numerous victims.",
+      "Reporting and later official reviews highlighted earlier missed opportunities to stop Dahmer. In one widely cited case in May 1991, 14-year-old Konerak Sinthasomphone escaped Dahmer's apartment and was found on the street, but police returned the injured, disoriented boy to Dahmer after Dahmer described him as an intoxicated adult partner; the boy was killed after officers left. Neighbor Glenda Cleveland and others had raised concerns at the time. According to news accounts, the episode drew intense criticism of the Milwaukee Police Department's handling of the encounter, and two officers were fired, though they were later reinstated following appeals.",
+      "Dahmer was charged with multiple counts of murder in Wisconsin. He pleaded guilty but insane, and the central question at his 1992 trial was whether he was legally sane. On February 15, 1992, a jury rejected the insanity defense and found him legally sane and guilty on 15 counts of murder. On February 17, 1992, he was sentenced to 15 consecutive life terms in prison. He was later extradited to Ohio and received an additional life sentence for the 1978 murder of Steven Hicks. At sentencing, relatives of the victims confronted Dahmer directly, describing their grief and anger.",
+      "On November 28, 1994, Dahmer was beaten to death by a fellow inmate, Christopher Scarver, at the Columbia Correctional Institution in Portage, Wisconsin; he was 34. Scarver, who was already serving a life sentence, also killed another inmate in the same attack. The case left a lasting mark on Milwaukee, particularly on the families of the victims and on the city's Black and immigrant communities, and it prompted scrutiny of how police responded to complaints. The case is closed: Dahmer was convicted and is deceased."
+    ],
+    "timeline": [
+      {
+        "date": "1978-06-18",
+        "event": "Dahmer commits his first murder, killing 18-year-old Steven Hicks in Bath Township, Ohio."
+      },
+      {
+        "date": "1987",
+        "event": "After a nearly nine-year gap, Dahmer resumes killing in the Milwaukee, Wisconsin, area."
+      },
+      {
+        "date": "1991-05",
+        "event": "Fourteen-year-old Konerak Sinthasomphone briefly escapes but is returned to Dahmer by police and is killed; the episode later draws heavy criticism of the Milwaukee Police Department."
+      },
+      {
+        "date": "1991-07-22",
+        "event": "Tracy Edwards escapes Dahmer's apartment and flags down police; officers discover human remains, and Dahmer is arrested."
+      },
+      {
+        "date": "1992-01-30",
+        "event": "Dahmer's trial begins in Milwaukee after he pleads guilty but insane; the jury must decide whether he was legally sane."
+      },
+      {
+        "date": "1992-02-15",
+        "event": "A jury finds Dahmer legally sane and guilty on 15 counts of murder, rejecting the insanity defense."
+      },
+      {
+        "date": "1992-02-17",
+        "event": "Dahmer is sentenced to 15 consecutive life terms in prison."
+      },
+      {
+        "date": "1992-05",
+        "event": "Dahmer is given an additional life sentence in Ohio for the 1978 murder of Steven Hicks."
+      },
+      {
+        "date": "1994-11-28",
+        "event": "Dahmer is beaten to death by fellow inmate Christopher Scarver at the Columbia Correctional Institution in Portage, Wisconsin."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "judy-chartier",
@@ -3900,10 +4599,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Wayne Williams - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wayne_Williams"
+      },
+      {
+        "title": "Mayor: New DNA from Atlanta child murders being tested, fibers being retested - FOX 5 Atlanta",
+        "url": "https://www.fox5atlanta.com/news/mayor-new-dna-from-atlanta-child-murders-being-tested-fibers-being-retested"
+      },
+      {
+        "title": "Utah lab to analyze DNA evidence from Atlanta child murders - Georgia Public Broadcasting",
+        "url": "https://www.gpb.org/news/2021/10/19/utah-lab-analyze-dna-evidence-atlanta-child-murders"
+      },
+      {
+        "title": "Wayne Williams is questioned by police for Atlanta child murders - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/may-22/atlanta-child-murderer-is-questioned"
+      },
+      {
+        "title": "Serial Killers, Part 5: Wayne Williams and the Atlanta Child Murders - FBI",
+        "url": "https://www.fbi.gov/news/stories/-serial-killers-part-5-wayne-williams-and-the-atlanta-child-murders"
       }
-    ]
+    ],
+    "narrative": [
+      "Between the summer of 1979 and the spring of 1981, at least 28 Black children, teenagers, and young adults were murdered in Atlanta, Georgia, in a wave of killings that came to be known as the Atlanta Child Murders. Most of the victims were young Black males from poor neighborhoods; many were abducted while running errands or walking through the city, and their bodies were later recovered in wooded areas, along roadsides, or in the Chattahoochee and South rivers. The steady accumulation of deaths spread fear through Atlanta's Black communities, prompted curfews and volunteer search parties, and drew intense national attention, including federal involvement and the eventual formation of a dedicated police task force.",
+      "Attention turned to Wayne Bertram Williams, a 23-year-old Atlanta music promoter and freelance photographer, after officers staking out a bridge over the Chattahoochee River reported hearing a splash in the early hours of May 22, 1981. Two days later, the body of Nathaniel Cater, a 27-year-old man, was recovered downstream. Williams was arrested on June 21, 1981. His trial began on January 6, 1982, and on February 27, 1982, a jury convicted him of murdering two adult men, Cater and 21-year-old Jimmy Ray Payne. He was sentenced to two consecutive life terms.",
+      "It is important to state precisely: Williams was convicted only of the two adult murders. He was never tried for the killing of any of the children. After his conviction, the police task force concluded there was sufficient evidence to link Williams to many of the other cases, and Atlanta authorities administratively 'cleared' roughly two dozen of the child and teen killings by attributing them to him and closing them. Those cases were never presented to a jury or tested in court. Prosecutors relied heavily on hair and fiber analysis, arguing that unusual carpet and other fibers recovered from victims matched fibers from Williams's home, car, and dog. Defense experts and later critics have questioned the statistical strength and interpretation of that fiber evidence.",
+      "The case remains genuinely disputed. Williams has consistently maintained his innocence and has alleged that Atlanta officials covered up evidence pointing elsewhere. Alternative theories have circulated for decades, most prominently the claim that members of the Ku Klux Klan were involved in some of the killings; an early suspect, a white supremacist named Charles T. Sanders, was reportedly recorded making hostile remarks about the victims. These alternative theories have not been proven, and no one else has been charged. Skeptics, including some victims' relatives, have argued that a single-perpetrator conclusion was reached too readily, while others point to the drop in similar killings after Williams's arrest as circumstantial support for his guilt.",
+      "In March 2019, Atlanta Mayor Keisha Lance Bottoms, together with the Atlanta Police Department, the Fulton County District Attorney, and the Georgia Bureau of Investigation, announced that authorities would re-examine the murders using modern forensic methods and genetic databases unavailable in the 1980s. Investigators re-analyzed fiber evidence across the roughly 30 cases and sent selected samples to a private laboratory in the Salt Lake City, Utah, area that specializes in recovering DNA from old, degraded material. By 2021, officials said DNA had been extracted and processed in connection with two cases, and the review timeline had been broadened to 1970 through 1985 to check for additional possible victims. As of this writing, the re-investigation has not publicly overturned the original findings; Williams remains imprisoned and continues to assert his innocence."
+    ],
+    "timeline": [
+      {
+        "date": "1979-07",
+        "event": "The first killings later grouped as the Atlanta Child Murders occur; young Black victims begin to be reported missing and found dead."
+      },
+      {
+        "date": "1980",
+        "event": "The death toll rises through 1980, spreading fear across Atlanta's Black communities and drawing national and federal attention; a police task force is formed."
+      },
+      {
+        "date": "1981-05-22",
+        "event": "Police staking out a bridge over the Chattahoochee River report hearing a splash; Wayne Williams is stopped and questioned nearby."
+      },
+      {
+        "date": "1981-05-24",
+        "event": "The body of Nathaniel Cater, 27, is recovered from the Chattahoochee River downstream from the bridge."
+      },
+      {
+        "date": "1981-06-21",
+        "event": "Wayne Bertram Williams, a 23-year-old music promoter, is arrested."
+      },
+      {
+        "date": "1982-01-06",
+        "event": "Williams's murder trial begins in Atlanta."
+      },
+      {
+        "date": "1982-02-27",
+        "event": "A jury convicts Williams of murdering two adult men, Nathaniel Cater and Jimmy Ray Payne; he is sentenced to two consecutive life terms."
+      },
+      {
+        "date": "1982",
+        "event": "After the conviction, Atlanta authorities administratively 'clear' roughly two dozen other child and teen cases by attributing them to Williams; he is never tried for any of them."
+      },
+      {
+        "date": "2019-03",
+        "event": "Mayor Keisha Lance Bottoms and Atlanta, Fulton County, and Georgia state authorities announce a re-examination of the cases using modern DNA and forensic methods."
+      },
+      {
+        "date": "2021-07-16",
+        "event": "Officials announce that DNA has been extracted in connection with the cases and that fiber evidence across roughly 30 cases is being re-analyzed."
+      },
+      {
+        "date": "2021-10",
+        "event": "Investigators send DNA evidence to a private laboratory in the Salt Lake City area that specializes in degraded samples; the review window is broadened to 1970-1985."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "brenda-casey",
@@ -4420,7 +5189,7 @@
     "id": "adam-walsh",
     "name": "Adam Walsh",
     "type": "Homicide",
-    "status": "Conviction",
+    "status": "No Conviction",
     "year": 1981,
     "date": "July 27, 1981",
     "state": "Florida",
@@ -4438,10 +5207,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of Adam Walsh - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Adam_Walsh"
+      },
+      {
+        "title": "Ottis Toole - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ottis_Toole"
+      },
+      {
+        "title": "Police Name Killer, Close Adam Walsh Murder Case - NPR",
+        "url": "https://www.npr.org/2008/12/16/98361783/police-name-killer-close-adam-walsh-murder-case"
+      },
+      {
+        "title": "Six-year-old Adam Walsh is abducted, July 27, 1981 - HISTORY",
+        "url": "https://www.history.com/this-day-in-history/july-27/adam-walsh-is-abducted"
+      },
+      {
+        "title": "How It Took 27 Years to Solve the Murder of Adam Walsh - A&E",
+        "url": "https://www.aetv.com/articles/how-it-took-27-years-to-solve-the-murder-of-6-year-old-adam-walsh"
+      },
+      {
+        "title": "Adam Walsh Murder: The Missing Child Who Changed America - TIME",
+        "url": "https://time.com/4437205/adam-walsh-murder/"
       }
-    ]
+    ],
+    "narrative": [
+      "On July 27, 1981, six-year-old Adam Walsh vanished from a Sears department store at the Hollywood Mall in Hollywood, Florida. His mother, Reve Walsh, had briefly left him near a display of Atari video games while she shopped a short distance away; when she returned a few minutes later, Adam was gone. A security guard is reported to have ushered a group of boys out of the store after a dispute at the game kiosk, and Adam was not seen again by his family. Two weeks later, on August 10, 1981, fishermen discovered the child's severed head in a drainage canal off the Florida Turnpike near Vero Beach in Indian River County, roughly 120 miles north of the mall. The rest of his remains were never found.",
+      "Adam's murder devastated his parents, John and Reve Walsh, and transformed John Walsh into one of the most prominent victims' advocates in the United States. Just days after their son's funeral, the couple founded what became the Adam Walsh Outreach Center for Missing Children, and John Walsh went on to lobby Congress for reforms in how missing children were tracked and searched for. His advocacy helped drive passage of the Missing Children Act of 1982 and the Missing Children's Assistance Act of 1984, which led to the creation of the National Center for Missing & Exploited Children. In 1988 he became the host of the television program America's Most Wanted. In 2006, the Adam Walsh Child Protection and Safety Act was signed into law, establishing a national sex-offender registry and other measures in Adam's name.",
+      "The investigation stretched over more than two decades and drew intense national attention, but it was hampered by mistakes. Drifter and convicted serial killer Ottis Toole became the prime suspect after he told investigators in 1983 that he had abducted and killed a boy from a South Florida mall, later specifically confessing to Adam's murder. Toole repeatedly confessed and then recanted over the years, and the physical case against him was undermined when Hollywood police lost key evidence, including bloodstained carpeting and a machete from Toole's car, and eventually the vehicle itself. Toole was never charged with Adam's killing. He died in prison of cirrhosis of the liver on September 15, 1996, while serving time for unrelated crimes.",
+      "On December 16, 2008, Hollywood Police Chief Chad Wagner, appearing alongside John and Reve Walsh, announced that the department was administratively closing the case and that its review of the file had satisfied investigators that Ottis Toole was Adam's killer. Police acknowledged they had no DNA or surviving physical evidence tying Toole to the crime and declined to detail their reasoning, resting the conclusion largely on an external review of the existing case file. The closure brought the Walsh family a measure of resolution but no courtroom verdict.",
+      "It is important to note that Ottis Toole was never convicted, and never even charged, in connection with Adam Walsh's murder. The 2008 announcement was a police administrative decision to close the case naming Toole as the perpetrator, not a criminal conviction, and Toole had already been dead for twelve years by that point. No living person has ever been prosecuted for the crime, and the case remains formally closed by police rather than resolved through the courts."
+    ],
+    "timeline": [
+      {
+        "date": "1981-07-27",
+        "event": "Six-year-old Adam Walsh is abducted from a Sears store at the Hollywood Mall in Hollywood, Florida, while his mother shops nearby."
+      },
+      {
+        "date": "1981-08-10",
+        "event": "Adam's severed head is found in a drainage canal off the Florida Turnpike near Vero Beach, Indian River County; the rest of his remains are never recovered."
+      },
+      {
+        "date": "1981-10",
+        "event": "Days after their son's funeral, John and Reve Walsh found the Adam Walsh Outreach Center for Missing Children."
+      },
+      {
+        "date": "1982-10-12",
+        "event": "The Missing Children Act of 1982 becomes law, allowing missing-child data to be entered into the FBI's National Crime Information Center."
+      },
+      {
+        "date": "1983-10",
+        "event": "Imprisoned drifter and serial killer Ottis Toole tells investigators he abducted and killed a boy from a Florida mall, and confesses to Adam's murder; he would later repeatedly recant."
+      },
+      {
+        "date": "1983-10-10",
+        "event": "The TV movie 'Adam,' dramatizing the case, airs to an audience of tens of millions and helps publicize missing children nationally."
+      },
+      {
+        "date": "1984",
+        "event": "The Missing Children's Assistance Act leads to the creation of the National Center for Missing & Exploited Children."
+      },
+      {
+        "date": "1988-02-07",
+        "event": "John Walsh debuts as host of the Fox television program America's Most Wanted."
+      },
+      {
+        "date": "1996-09-15",
+        "event": "Ottis Toole dies in a Florida prison of cirrhosis of the liver, having never been charged with Adam's murder."
+      },
+      {
+        "date": "2006-07-27",
+        "event": "President George W. Bush signs the Adam Walsh Child Protection and Safety Act into law on the 25th anniversary of the abduction."
+      },
+      {
+        "date": "2008-12-16",
+        "event": "Hollywood Police Chief Chad Wagner announces the case is administratively closed, naming Ottis Toole as the killer despite no DNA or surviving physical evidence; Toole was never charged or convicted."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "dean-clouse",
@@ -4522,10 +5365,72 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Keddie murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Keddie_murders"
+      },
+      {
+        "title": "Keddie murders revisited part 1: New evidence discovered - Plumas News",
+        "url": "https://www.plumasnews.com/keddie-murders-revisited/"
+      },
+      {
+        "title": "35 Years Later, New Clues May Solve Keddie Murder Mystery - CBS Sacramento",
+        "url": "https://www.cbsnews.com/sacramento/news/35-years-later-new-clues-may-solve-keddie-murder-mystery/"
+      },
+      {
+        "title": "Keddie murders revisited - following the clues - Plumas News",
+        "url": "https://www.plumasnews.com/keddie-murders-revisited-following-the-clues/"
+      },
+      {
+        "title": "Are Martin Smartt and John 'Bo' Boubede Dead or Alive? - The Cinemaholic",
+        "url": "https://thecinemaholic.com/are-martin-smartt-and-john-bo-boubede-dead-or-alive-where-is-marilyn-smartt-now/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of April 11-12, 1981, four people were killed inside Cabin 28 of the Keddie Resort, a small mountain community in Plumas County, California. The victims were Glenna Susan \"Sue\" Sharp, a 36-year-old single mother who had recently moved to Keddie; her 15-year-old son John Steven Sharp; and John's 17-year-old friend Dana Hall Wingate. Sue's 12-year-old daughter, Tina Louise Sharp, was missing from the cabin and would remain unaccounted for. The three bodies were discovered on the morning of April 12 by Sue's 14-year-old daughter Sheila, who had spent the night at a neighbor's home. Three younger children -- Sue's sons Rick and Greg and their friend Justin Smartt -- were found unharmed in an adjacent bedroom.",
+      "The victims had been bound with medical tape and electrical wire and killed with a combination of knives and a hammer or similar blunt instrument, an unusually violent scene that drew regional attention. The initial investigation, handled by the Plumas County Sheriff's Office with assistance from state and federal agencies, was later widely criticized for mishandled leads and evidence. Tina Sharp's fate remained unknown until April 1984, when a bottle collector found a human skull and other bones at Camp 18 near Feather Falls in Butte County, roughly 60 miles from Keddie. The remains were confirmed to be Tina's in June 1984. No one was arrested, and the case went cold for decades.",
+      "Over the years, attention focused on two men who were publicly reported as persons of interest but who were never charged: Martin \"Marty\" Smartt, a neighbor who lived nearby, and his houseguest and associate Severin John \"Bo\" Boubede. According to later reporting, Smartt had told investigators that a claw hammer went missing from his home around the time of the killings, and Boubede reportedly gave authorities false claims about his background. Both men died before any charges were considered -- Boubede in 1988 and Smartt, reportedly of cancer, in 2000. It is important to stress that neither man was ever charged or convicted, and their identification as suspects rests on investigative reporting and reopened-case statements rather than any adjudicated finding of guilt.",
+      "The Plumas County Sheriff's Office reopened the case in 2013 under Sheriff Greg Hagwood, with special investigator Mike Gamberg leading much of the renewed work. In March 2016 a hammer matching the description of the one Smartt had reported missing was recovered from a pond near the crime scene, after a relative of Boubede reportedly provided information; the hammer and a knife were slated for forensic testing. Investigators subsequently reported that DNA recovered from medical tape used at the scene matched what Gamberg described as a \"known living suspect,\" a claim officials made publicly but which has not resulted in charges. Reports have also circulated of a claimed confession by Smartt to a Veterans Affairs counselor in Reno; this account is attributed to the counselor and remains an unproven claim that was reportedly treated as hearsay.",
+      "As of this writing the Keddie murders remain officially unsolved, with no one ever convicted in the deaths of Sue, John, Tina, and Dana. Investigators have suggested that several people may have been involved in the crimes or a subsequent cover-up, but those statements have not been tested in court. The case continues to be listed as active, and any characterization of specific individuals as responsible should be understood as unproven and never established through prosecution."
+    ],
+    "timeline": [
+      {
+        "date": "1981-04-11",
+        "event": "Sue Sharp, her son John Sharp, and John's friend Dana Wingate are killed overnight in Cabin 28 at the Keddie Resort; Sue's daughter Tina Sharp goes missing."
+      },
+      {
+        "date": "1981-04-12",
+        "event": "Sheila Sharp, returning home, discovers the three bodies; three younger children in an adjacent bedroom are found unharmed."
+      },
+      {
+        "date": "1984-04",
+        "event": "A bottle collector finds human skull fragments and other bones at Camp 18 near Feather Falls in Butte County, roughly 60 miles from Keddie."
+      },
+      {
+        "date": "1984-06",
+        "event": "The recovered remains are confirmed to be those of Tina Sharp."
+      },
+      {
+        "date": "1988",
+        "event": "Person of interest Severin John \"Bo\" Boubede dies, never having been charged."
+      },
+      {
+        "date": "2000",
+        "event": "Person of interest Martin \"Marty\" Smartt dies, reportedly of cancer, never having been charged."
+      },
+      {
+        "date": "2013",
+        "event": "The Plumas County Sheriff's Office reopens the case under Sheriff Greg Hagwood, with special investigator Mike Gamberg."
+      },
+      {
+        "date": "2016-03-24",
+        "event": "A hammer matching one Smartt reported missing is recovered from a pond near the crime scene and taken into evidence for forensic testing."
+      },
+      {
+        "date": "2016",
+        "event": "Investigators publicly report that DNA from medical tape used at the scene matches a 'known living suspect,' according to investigator Mike Gamberg; no charges follow."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "marcia-king",
@@ -5397,10 +6302,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Richard Ramirez - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Ramirez"
+      },
+      {
+        "title": "Richard Ramirez | Night Stalker, Death, TV Series, Childhood, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Richard-Ramirez"
+      },
+      {
+        "title": "DNA Links \"Night Stalker\" Richard Ramirez to 1984 Killing of 9-Year-Old Mei Leung - CBS News",
+        "url": "https://www.cbsnews.com/news/dna-links-night-stalker-richard-ramirez-to-1984-killing-of-9-year-old-mei-leung/"
+      },
+      {
+        "title": "'Night Stalker' tied to SF victim through DNA - San Francisco Examiner",
+        "url": "https://www.sfexaminer.com/news/night-stalker-tied-to-sf-victim-through-dna/article_26f49965-f6f7-57a0-b7de-3f9ee6293a1f.html"
       }
-    ]
+    ],
+    "narrative": [
+      "Between the spring of 1984 and the summer of 1985, a string of nighttime home-invasion attacks spread terror across Greater Los Angeles and, later, the San Francisco Bay Area. An intruder entered homes through unlocked windows and doors, shooting or beating sleeping residents, sexually assaulting victims, and ransacking the properties. Because there was no consistent victim profile and no single method, investigators were slow to connect the crimes; the press eventually dubbed the unknown assailant the \"Night Stalker.\" The attacks left at least thirteen people dead and many more wounded or assaulted, and the seemingly random nature of the violence fueled widespread public fear during the summer of 1985.",
+      "The attacker's earliest confirmed killing was the April 10, 1984 rape and murder of nine-year-old Mei Leung in the basement of a San Francisco apartment building, though this link was not established until years later. The principal spree ran through 1984 and into 1985, striking victims in communities across Southern California before extending to the Bay Area. Survivors' accounts and physical evidence gradually convinced detectives that a single offender was responsible, and a multi-agency task force was assembled as the death toll rose through the summer of 1985.",
+      "The investigation broke open in late August 1985. After an attack on August 24, 1985 in Mission Viejo, a witness recorded a license plate, and police recovered a stolen Toyota that had been abandoned. A fingerprint lifted from the vehicle was run through California's newly installed computerized fingerprint database, which returned a match to Richard Ramirez, a drifter originally from El Paso, Texas. Authorities publicly released his name and photograph. On August 31, 1985, Ramirez was recognized by residents in East Los Angeles after his picture appeared in newspapers; a group of citizens chased and subdued him on the street until police arrived and took him into custody.",
+      "Ramirez was charged with a series of crimes committed during the spree. After a lengthy trial, on September 20, 1989 a Los Angeles jury convicted him of thirteen counts of murder, along with five attempted murders, eleven sexual assaults, and fourteen burglaries. On November 7, 1989 he was sentenced to death. Ramirez remained on California's death row for more than two decades. He died in custody on June 7, 2013, at age 53, from complications of B-cell lymphoma while awaiting execution.",
+      "In 2009, DNA testing linked Ramirez to the 1984 murder of Mei Leung, the case now regarded as his first known killing, though he was never charged in that death because he had already been convicted and sentenced. In 2016, San Francisco authorities disclosed that a second DNA profile had been recovered from the Leung crime scene, indicating another person may have been present, a thread that remains unresolved. Ramirez stands convicted of the Night Stalker murders, and his case is closed by his conviction and death, while the full scope of the Leung investigation continues to be examined."
+    ],
+    "timeline": [
+      {
+        "date": "1984-04-10",
+        "event": "Nine-year-old Mei Leung is raped and murdered in the basement of a San Francisco apartment building; the crime is later linked to Ramirez by DNA."
+      },
+      {
+        "date": "1984-06-28",
+        "event": "Retiree Jennie Vincow is found stabbed to death in her Glassell Park home, an attack later attributed to the Night Stalker."
+      },
+      {
+        "date": "1985-03-17",
+        "event": "A series of attacks intensifies in the Los Angeles area, marking the start of the most active phase of the spree."
+      },
+      {
+        "date": "1985-08-24",
+        "event": "An attack on a couple in Mission Viejo yields a witnessed license plate that leads investigators to an abandoned stolen car."
+      },
+      {
+        "date": "1985-08-28",
+        "event": "Fingerprint evidence from the recovered stolen Toyota is matched to Richard Ramirez through California's new computerized fingerprint system."
+      },
+      {
+        "date": "1985-08-30",
+        "event": "Authorities publicly identify Richard Ramirez as the Night Stalker and release his photograph to the media."
+      },
+      {
+        "date": "1985-08-31",
+        "event": "Ramirez is recognized and chased down by citizens in East Los Angeles, who subdue him until police make the arrest."
+      },
+      {
+        "date": "1989-09-20",
+        "event": "A Los Angeles jury convicts Ramirez of 13 murders, plus attempted murders, sexual assaults, and burglaries."
+      },
+      {
+        "date": "1989-11-07",
+        "event": "Ramirez is sentenced to death."
+      },
+      {
+        "date": "2009-10-01",
+        "event": "DNA evidence links Ramirez to the 1984 murder of Mei Leung, identifying it as his earliest known killing."
+      },
+      {
+        "date": "2013-06-07",
+        "event": "Ramirez dies in custody at age 53 from complications of B-cell lymphoma while awaiting execution."
+      },
+      {
+        "date": "2016-01-01",
+        "event": "San Francisco officials disclose a second DNA profile from the Mei Leung crime scene, suggesting another person may have been present."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "vicki-lynne-hoskinson",
@@ -5482,10 +6457,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Grim Sleeper - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grim_Sleeper"
+      },
+      {
+        "title": "Condemned Inmate Lonnie Franklin Dies - California Department of Corrections and Rehabilitation",
+        "url": "https://www.cdcr.ca.gov/news/2020/03/29/condemned-inmate-lonnie-franklin-dies/"
+      },
+      {
+        "title": "Brown's Forensic Experts Identify Grim Sleeper Serial Killer Suspect Through Unprecedented Use of Familial DNA - California Department of Justice",
+        "url": "https://oag.ca.gov/news/press-releases/browns-forensic-experts-identify-grim-sleeper-serial-killer-suspect-through"
+      },
+      {
+        "title": "'Grim Sleeper' serial killer Lonnie Franklin Jr. found dead in prison cell - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/grim-sleeper-serial-killer-lonnie-franklin-jr-found-dead-prison-n1171686"
+      },
+      {
+        "title": "'Grim Sleeper' killer sentenced to death - CNN",
+        "url": "https://www.cnn.com/2016/08/10/us/grim-sleeper-death-sentence/index.html"
+      },
+      {
+        "title": "Familial DNA Searching and Abandoned DNA Identify the Grim Sleeper Serial Killer - Stanford Law School",
+        "url": "https://law.stanford.edu/2010/07/08/familial-dna-searching-and-abandoned-dna-identify-the-grim-sleeper-serial-killer/"
       }
-    ]
+    ],
+    "narrative": [
+      "Beginning in the mid-1980s, a series of murders targeting young women unfolded across the impoverished neighborhoods of South Los Angeles. The first confirmed killing linked to the case was that of Debra Jackson in August 1985; over the following two decades the same offender would be tied to the deaths of at least ten people, most of them Black women, several of whom struggled with addiction during the era's crack-cocaine epidemic. Many victims were shot with a small-caliber handgun and their bodies discarded in alleys, dumpsters, and abandoned lots. Because the killings appeared to pause for roughly 14 years, from 1988 until 2002, the press later nicknamed the unidentified suspect the 'Grim Sleeper.'",
+      "For years the cases drew comparatively little public attention or investigative urgency, a neglect that community activists and victims' families attributed to the victims' race, poverty, and marginalized circumstances. DNA evidence eventually connected many of the killings to a single perpetrator, but the profile matched no one in California's offender database, and the investigation stalled. The final confirmed victim, Janecia Peters, was found on January 1, 2007.",
+      "The break came in 2010 through a pioneering forensic technique. Investigators conducted a familial DNA search, scanning the state database not for an exact match but for a close partial match that could indicate a blood relative. The search flagged Christopher Franklin, who had been entered into the database after a 2008 felony conviction and was too young to have committed the earlier murders. The near-match pointed investigators to his father, Lonnie David Franklin Jr. Detectives then covertly collected discarded 'abandoned DNA' from a slice of pizza Franklin left at a restaurant, and it matched the crime-scene evidence. It was the first time California's familial-search protocol had led to an arrest in a criminal case, marking a significant moment in forensic practice.",
+      "Franklin, a former city sanitation worker and police garage attendant, was arrested on July 7, 2010. When police searched his home, they recovered hundreds of photographs and videos of women, prompting authorities to release the images publicly and raising concern that he may have had many additional, uncharged victims. A Los Angeles Police Department task force reviewed the material for possible further cases. On May 5, 2016, a jury convicted Franklin of ten counts of first-degree murder and one count of attempted murder. The same jury recommended a death sentence on June 6, 2016, and on August 10, 2016, a Los Angeles County judge formally sentenced him to death.",
+      "Franklin was sent to death row at San Quentin State Prison. On March 28, 2020, corrections officers found him unresponsive in his cell; he was pronounced dead that evening at age 67, with authorities reporting no signs of trauma. His death ended the appeals process before any execution. Investigators have said they believe the true number of victims may be considerably higher than the ten for which he was convicted, given the gap years and the trove of photographs recovered from his home, though those additional cases were never formally charged."
+    ],
+    "timeline": [
+      {
+        "date": "1985-08",
+        "event": "Debra Jackson is killed in South Los Angeles, the first murder later confirmed as part of the Grim Sleeper series."
+      },
+      {
+        "date": "1988-01",
+        "event": "The last confirmed killing before the apparent hiatus, beginning the roughly 14-year gap that earned the 'Grim Sleeper' nickname."
+      },
+      {
+        "date": "2002",
+        "event": "Killings attributed to the same offender resume after the long apparent pause."
+      },
+      {
+        "date": "2007-01-01",
+        "event": "Janecia Peters is found dead, the final confirmed victim in the series."
+      },
+      {
+        "date": "2008",
+        "event": "Christopher Franklin, Lonnie Franklin Jr.'s son, is convicted of a felony weapons charge and his DNA is entered into California's database."
+      },
+      {
+        "date": "2010-07-07",
+        "event": "Lonnie David Franklin Jr. is arrested after a familial DNA search and covertly collected 'abandoned DNA' link him to the crime-scene evidence."
+      },
+      {
+        "date": "2010",
+        "event": "Police recover hundreds of photographs of women from Franklin's home and release many publicly, seeking to identify possible additional victims."
+      },
+      {
+        "date": "2016-05-05",
+        "event": "A jury convicts Franklin of 10 counts of first-degree murder and one count of attempted murder."
+      },
+      {
+        "date": "2016-06-06",
+        "event": "The jury recommends the death penalty."
+      },
+      {
+        "date": "2016-08-10",
+        "event": "A Los Angeles County judge formally sentences Franklin to death."
+      },
+      {
+        "date": "2020-03-28",
+        "event": "Franklin is found dead in his cell on death row at San Quentin State Prison at age 67, with no signs of trauma reported."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "nancy-leichner",
@@ -6327,10 +7376,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Aileen Wuornos - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aileen_Wuornos"
+      },
+      {
+        "title": "What Did Aileen Wuornos Do? Inside The Serial Killer's Crimes And Execution - Forbes",
+        "url": "https://www.forbes.com/sites/monicamercuri/2025/10/31/what-did-aileen-wuornos-do-inside-the-serial-killers-crimes-and-execution/"
+      },
+      {
+        "title": "Aileen Carol Wuornos #805 - Clark County Prosecuting Attorney",
+        "url": "http://www.clarkprosecutor.org/html/death/US/wuornos805.htm"
+      },
+      {
+        "title": "Case File: Aileen Wuornos - A&E",
+        "url": "https://www.aetv.com/articles/aileen-wuornos"
+      },
+      {
+        "title": "The Case of Aileen Wuornos - The Facts | Capital Punishment in Context",
+        "url": "https://capitalpunishmentincontext.org/cases/wuornos"
       }
-    ]
+    ],
+    "narrative": [
+      "Between late 1989 and 1990, seven men were shot and killed along the highways of northern and central Florida in a series of murders later attributed to Aileen Carol Wuornos, a woman who supported herself through sex work solicited along interstate roadways. The victims were Richard Charles Mallory, a 51-year-old electronics store owner and her first victim, killed in late November 1989; David Andrew Spears, a construction worker; Charles Edmund Carskaddon, a rodeo worker; Peter Abraham Siems, a retired merchant seaman whose body was never recovered; Troy Eugene Burress, a sausage salesman; Charles Richard 'Dick' Humphreys, a retired Air Force major and former police officer; and Walter Gino Antonio, a trucker and security guard. Each man was shot multiple times, and each was robbed; several were left in wooded areas off Florida roadways.",
+      "Wuornos consistently maintained during her first trial that the men had raped or attempted to rape her and that the killings were acts of self-defense. In later statements, according to reporting and court records, she abandoned that account and described the killings as robberies in which she eliminated witnesses, at one point stating that she had killed and robbed the men. The shift between these accounts became a central point of contention in her case and in subsequent public debate. This narrative presents both her self-defense claims and the later statements as reported and attributed, rather than as adjudicated fact.",
+      "The investigation gained momentum in July 1990 after Siems's car was found abandoned and wrecked in Orange Springs, Florida; witnesses described two women leaving the vehicle. Investigators linked Wuornos to the crimes through fingerprints recovered from the car and from items pawned under her name. She was arrested on January 9, 1991, at a biker bar in Volusia County. Her former partner, Tyria Moore, cooperated with police, and Wuornos confessed on January 16, 1991, again framing the deaths as self-defense.",
+      "Wuornos went to trial for Mallory's murder on January 14, 1992, was convicted on January 27, and was sentenced to death on January 31. She subsequently pleaded guilty or no contest to additional killings and ultimately received six death sentences. She spent more than a decade on Florida's death row. On October 9, 2002, after dropping her appeals and being found competent to be executed, Wuornos was put to death by lethal injection at Florida State Prison near Starke at 9:47 a.m.",
+      "Wuornos's case drew intense attention to questions about her mental state and her background. Defense experts reported diagnoses including borderline and antisocial personality disorder, and accounts of her early life described severe abuse and exploitation in childhood; supporters argued these factors, and her account of violence by clients, complicated a simple 'monster' narrative, while prosecutors emphasized the robberies. These interpretations remain debated and are attributed to the parties and experts who advanced them. Her story reached a wide audience through the 2003 film 'Monster,' in which Charlize Theron won the Academy Award for Best Actress for her portrayal of Wuornos, and through multiple documentaries. Her convictions and 2002 execution are established matters of record."
+    ],
+    "timeline": [
+      {
+        "date": "1989-11-30",
+        "event": "Richard Charles Mallory, 51, Wuornos's first victim, is killed; his body is later found in Volusia County, Florida."
+      },
+      {
+        "date": "1990-06",
+        "event": "Peter Siems, a retired merchant seaman, disappears; his body is never recovered."
+      },
+      {
+        "date": "1990-07-04",
+        "event": "Siems's abandoned, wrecked car is found in Orange Springs, Florida; witnesses report seeing two women leave it, giving investigators early leads."
+      },
+      {
+        "date": "1990-11-19",
+        "event": "Walter Gino Antonio, 61, becomes the last of the seven victims killed in the series."
+      },
+      {
+        "date": "1991-01-09",
+        "event": "Wuornos is arrested at a biker bar in Volusia County, Florida, after being linked to the crimes through fingerprints and pawned items."
+      },
+      {
+        "date": "1991-01-16",
+        "event": "Wuornos confesses to the killings, maintaining that they were committed in self-defense against men who assaulted her."
+      },
+      {
+        "date": "1992-01-14",
+        "event": "Wuornos's trial for the murder of Richard Mallory begins in Florida."
+      },
+      {
+        "date": "1992-01-27",
+        "event": "Wuornos is convicted of first-degree murder in Mallory's death."
+      },
+      {
+        "date": "1992-01-31",
+        "event": "Wuornos is sentenced to death for Mallory's murder; further death sentences follow as she pleads to additional killings."
+      },
+      {
+        "date": "2002-10-09",
+        "event": "Wuornos is executed by lethal injection at Florida State Prison near Starke at 9:47 a.m."
+      },
+      {
+        "date": "2003",
+        "event": "The film 'Monster' is released; Charlize Theron wins the Academy Award for Best Actress for portraying Wuornos."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "betty-broderick",
@@ -6698,10 +7817,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Danny Rolling - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Danny_Rolling"
+      },
+      {
+        "title": "The Gainesville Student Murders - FFP Law",
+        "url": "https://ffplaw.com/notable-case/the-gainesville-student-murders/"
+      },
+      {
+        "title": "Rolling v. State (1997) - FindLaw",
+        "url": "https://caselaw.findlaw.com/court/fl-supreme-court/1313594.html"
+      },
+      {
+        "title": "Rolling v. State (1997) - Justia",
+        "url": "https://law.justia.com/cases/florida/supreme-court/1997/83638-0.html"
+      },
+      {
+        "title": "The Twisted Tale Of 'Gainesville Ripper' Killer Danny Rolling - Oxygen",
+        "url": "https://www.oxygen.com/crime-time/serial-killer-danny-rolling-gainesville-ripper-posed-students-florida"
+      },
+      {
+        "title": "Impacts of 1990 Gainesville murders remain strong - The Independent Florida Alligator",
+        "url": "https://www.alligator.org/article/2025/07/impacts-of-1990-gainesville-murders-remain-strong-especially-for-college-aged-women"
       }
-    ]
+    ],
+    "narrative": [
+      "Over four days in late August 1990, five college students were murdered in Gainesville, Florida, in a series of killings that terrorized the University of Florida community as students returned for the fall semester. The killer, later dubbed the \"Gainesville Ripper,\" broke into off-campus apartments at night, stabbing his victims and, in several cases, mutilating and posing the bodies. The five victims were University of Florida freshmen Sonja Larson, 18, and Christina Powell, 17, killed on August 24; Santa Fe Community College student Christa Hoyt, 18, killed on August 25; and University of Florida students Tracy Paules, 23, and Manuel \"Manny\" Taboada, 23, killed on August 27. The brutality of the crimes prompted many students to leave town, arm themselves, or sleep in groups amid a widespread panic.",
+      "In the early stage of the investigation, attention fell on Edward Lewis Humphrey, an 18-to-20-year-old University of Florida student with a documented history of mental illness. He was held in custody on an unrelated assault charge, and authorities publicly scrutinized him as a possible suspect. According to reporting and court records, a grand jury declined to indict Humphrey on the murders, citing insufficient evidence, and he was formally cleared after the actual killer was identified. Humphrey was never charged in the murders and later resumed his life; sources report he went on to graduate from college. He should not be associated with guilt in this case.",
+      "The murders were ultimately linked to Danny Harold Rolling, a drifter from Shreveport, Louisiana. Rolling had been arrested on September 7, 1990, for an armed robbery of a supermarket in Ocala, Florida, and was in custody on unrelated charges. Investigators connected him to the Gainesville crimes through forensic evidence, including blood-type and later DNA analysis matching material from the crime scenes, tools recovered from a wooded campsite he had used near Gainesville, and audio-tape recordings in which he alluded to the killings. A Crime Stoppers tip also helped focus attention on Rolling. Authorities determined he had committed the five Gainesville murders during a burglary and robbery spree, and he was also linked to a 1989 triple homicide in Shreveport.",
+      "On February 15, 1994, the day his trial was set to begin in Gainesville, Rolling unexpectedly pleaded guilty to all charges, including five counts of first-degree murder. Following a penalty phase, the jury recommended death for each murder by a vote of 12 to 0, and Judge Stan Morris imposed the death sentence in the spring of 1994. Rolling remained on Florida's death row for more than a decade. He was executed by lethal injection at Florida State Prison on October 25, 2006, at age 52, after the courts rejected his final appeals; he did not contest the execution.",
+      "The case left a lasting cultural and institutional mark. It inspired changes in campus safety practices and is widely cited as source material for screenwriter Kevin Williamson's 1996 horror film \"Scream,\" directed by Wes Craven, which drew on the fear generated by a killer stalking a college town. With Rolling convicted by his own guilty plea and executed, the case is legally closed. It remains a defining event in the history of the University of Florida and Gainesville, and is regularly revisited in retrospective coverage of the murders and their impact on students, particularly college-aged women."
+    ],
+    "timeline": [
+      {
+        "date": "1990-08-24",
+        "event": "University of Florida freshmen Sonja Larson, 18, and Christina Powell, 17, are murdered in their off-campus apartment, the first victims of the Gainesville Ripper."
+      },
+      {
+        "date": "1990-08-25",
+        "event": "Santa Fe Community College student Christa Hoyt, 18, is found murdered and mutilated in her residence."
+      },
+      {
+        "date": "1990-08-27",
+        "event": "University of Florida students Tracy Paules, 23, and Manuel 'Manny' Taboada, 23, are killed, bringing the total to five victims over four days."
+      },
+      {
+        "date": "1990-08-28",
+        "event": "Amid widespread panic, many University of Florida students leave Gainesville; Edward Humphrey is scrutinized as an early suspect but is later cleared and never charged in the murders."
+      },
+      {
+        "date": "1990-09-07",
+        "event": "Danny Rolling is arrested for an armed supermarket robbery in Ocala, Florida, placing him in custody on unrelated charges."
+      },
+      {
+        "date": "1991-01",
+        "event": "A grand jury declines to indict Edward Humphrey on the murders for lack of evidence; forensic work increasingly points to Rolling."
+      },
+      {
+        "date": "1992-11",
+        "event": "Rolling is formally indicted for the five Gainesville murders after blood, DNA, campsite tool, and audio-recording evidence links him to the crimes."
+      },
+      {
+        "date": "1994-02-15",
+        "event": "On the day his trial is set to begin, Rolling pleads guilty to all charges, including five counts of first-degree murder."
+      },
+      {
+        "date": "1994-03",
+        "event": "A jury recommends the death penalty 12-0 for each murder, and Judge Stan Morris sentences Rolling to death."
+      },
+      {
+        "date": "1996-12",
+        "event": "Wes Craven's film 'Scream,' written by Kevin Williamson and widely reported as inspired in part by the Gainesville murders, is released."
+      },
+      {
+        "date": "2006-10-25",
+        "event": "Danny Rolling is executed by lethal injection at Florida State Prison at age 52, closing the case."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jacqueline-martarella",
@@ -7595,14 +8788,88 @@
     ],
     "sources": [
       {
-        "title": "Murder of Polly Klaas — Wikipedia",
+        "title": "Murder of Polly Klaas - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Polly_Klaas"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Richard Allen Davis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Allen_Davis"
+      },
+      {
+        "title": "How a Palm Print Broke Open the Polly Klaas Case - TIME",
+        "url": "https://time.com/6319572/polly-klaas-palm-print-fbi-police/"
+      },
+      {
+        "title": "Richard Allen Davis, convicted of killing Polly Klaas, seeks to have death sentence overturned - CBS San Francisco",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/polly-klass-case-kidnapping-murder-richard-allen-davis-seeks-death-sentence-overturned/"
+      },
+      {
+        "title": "Polly Klaas killer Richard Allen Davis has petition to recall death sentence denied - CBS San Francisco",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/polly-klaas-killer-richard-allen-davis-death-penalty-petition-denied/"
+      },
+      {
+        "title": "'Struck by Justice': Polly Klaas murder led to 3 strikes laws - ABC7 San Francisco",
+        "url": "https://abc7news.com/post/polly-klaas-murder-struck-by-justice-documentary-three-strikes-laws-richard-allen-davis/14493655/"
+      },
+      {
+        "title": "Resentencing denied for Polly Klaas Murderer - Sonoma County District Attorney",
+        "url": "https://da.sonomacounty.ca.gov/resentencing-denied-for-polly-klass-murderer"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of October 1, 1993, 12-year-old Polly Hannah Klaas was hosting a slumber party with two friends at her mother's home in Petaluma, California. At approximately 10:30 p.m., a man armed with a knife entered her bedroom, tied up her two friends, placed pillowcases over their heads, and told them to count to 1,000. He then carried Polly out of the house. Her mother and younger sister were asleep in another room. The two friends freed themselves and alerted Polly's mother, who called police. The abduction of a child from her own bedroom during a sleepover, with family nearby, shocked the nation.",
+      "The disappearance triggered one of the largest volunteer search efforts in the region's history. Over the following two months, roughly 4,000 people helped distribute flyers and comb the woods around Petaluma. The Polly Klaas Foundation was established to coordinate the search and support the family, and the case drew national media attention, including support from Petaluma native and actress Winona Ryder, who offered a reward. Despite the scale of the effort, weeks passed with no confirmed sightings of Polly or her abductor.",
+      "The investigation broke open through physical evidence and a chance encounter. On the night of the kidnapping, sheriff's deputies in nearby Sonoma Valley had briefly detained a man named Richard Allen Davis, a paroled repeat offender, whose car was stuck in a ditch off Pythian Road, but released him. Investigators later recovered a palm print from Polly's bedroom, and on December 2, 1993, criminalists matched it to Davis, who had been arrested on November 30 on an unrelated parole violation. On December 4, 1993, Davis confessed and led investigators to Polly's body, buried in a shallow grave off Highway 101 near Cloverdale. He had strangled her.",
+      "Davis, who had a long record including burglary, assault, and prior kidnappings and had been released from prison in June 1993, was tried in San Jose after a change of venue to Santa Clara County. On June 18, 1996, a jury convicted him of first-degree murder with four special circumstances: robbery, burglary, kidnapping, and an attempted lewd act on a child under 14. On August 5, 1996, the jury recommended death, and Judge Thomas Hastings formally imposed the death sentence on September 26, 1996. Davis has remained on California's death row since.",
+      "The murder of Polly Klaas became a defining catalyst for tougher sentencing laws. Public outrage over the fact that a career criminal on parole had abducted and killed a child helped drive the swift passage of California's \"Three Strikes and You're Out\" law, signed by Governor Pete Wilson on March 7, 1994, and later approved by voters as Proposition 184 in November 1994. The law mandated sentences of 25 years to life for a third serious or violent felony conviction. As of 2026, Richard Allen Davis remains incarcerated on death row at San Quentin; California has maintained a moratorium on executions, and courts have repeatedly rejected his efforts to overturn his death sentence."
+    ],
+    "timeline": [
+      {
+        "date": "1993-10-01",
+        "event": "Polly Klaas, 12, is abducted at knifepoint from her Petaluma bedroom during a slumber party."
+      },
+      {
+        "date": "1993-10",
+        "event": "A massive volunteer search involving roughly 4,000 people and the newly formed Polly Klaas Foundation begins."
+      },
+      {
+        "date": "1993-11-30",
+        "event": "Richard Allen Davis is arrested in Ukiah on an unrelated parole violation warrant."
+      },
+      {
+        "date": "1993-12-02",
+        "event": "Criminalists match Davis's palm print to a print recovered from Polly's bedroom."
+      },
+      {
+        "date": "1993-12-04",
+        "event": "Davis confesses and leads investigators to Polly's body in a shallow grave near Cloverdale; she had been strangled."
+      },
+      {
+        "date": "1994-03-07",
+        "event": "California's 'Three Strikes' law, propelled in part by the case, is signed into law by Governor Pete Wilson."
+      },
+      {
+        "date": "1994-11-08",
+        "event": "California voters approve Proposition 184, enshrining the Three Strikes law."
+      },
+      {
+        "date": "1996-06-18",
+        "event": "A Santa Clara County jury convicts Davis of first-degree murder with four special circumstances."
+      },
+      {
+        "date": "1996-08-05",
+        "event": "The jury recommends the death penalty."
+      },
+      {
+        "date": "1996-09-26",
+        "event": "Judge Thomas Hastings formally sentences Davis to death."
+      },
+      {
+        "date": "2024",
+        "event": "A court denies Davis's petition to recall his death sentence; he remains on death row at San Quentin."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "stacy-barker",
@@ -7657,10 +8924,84 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "West Memphis Three - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/West_Memphis_Three"
+      },
+      {
+        "title": "West Memphis Three - Encyclopedia of Arkansas",
+        "url": "https://encyclopediaofarkansas.net/entries/west-memphis-three-3039/"
+      },
+      {
+        "title": "West Memphis Three | Background & Trial | Britannica",
+        "url": "https://www.britannica.com/event/West-Memphis-Three"
+      },
+      {
+        "title": "West Memphis Three: What You Should Know About Their Wrongful Conviction - Innocence Project",
+        "url": "https://innocenceproject.org/news/who-are-west-memphis-three-damien-echols/"
+      },
+      {
+        "title": "Arkansas Supreme Court Decision Allows New DNA Testing in Case of the 'West Memphis Three' - Death Penalty Information Center",
+        "url": "https://deathpenaltyinfo.org/arkansas-supreme-court-decision-allows-new-dna-testing-in-case-of-the-west-memphis-three-convicted-of-killing-three-children-in-1993"
       }
-    ]
+    ],
+    "narrative": [
+      "On May 5, 1993, three eight-year-old boys, Steve Branch, Michael Moore, and Christopher Byers, went out to play in West Memphis, Arkansas, and did not return home. The following day, searchers found their bodies in a drainage ditch in a wooded area known as Robin Hood Hills. The children had been stripped, beaten, and bound with their own shoelaces. The brutality of the crime, committed against three second-grade Cub Scouts, shocked the community and drew intense local pressure to find those responsible.",
+      "In June 1993, police arrested three local teenagers: Jessie Misskelley Jr., Jason Baldwin, and Damien Echols. The case against them rested heavily on a statement Misskelley gave to police on June 3, 1993, after roughly twelve hours of questioning, of which only a portion was recorded. Misskelley, who was reported to have an IQ of about 72, confessed and implicated Echols and Baldwin, but he recanted soon afterward, and defense attorneys argued the statement was coerced and inconsistent with known facts about the crime. Prosecutors advanced a theory that the killings were part of a satanic ritual, a claim critics later cited as an example of the era's so-called 'satanic panic.'",
+      "The three were tried in early 1994. Misskelley was convicted in February 1994 of one count of first-degree murder and two counts of second-degree murder and sentenced to life plus 40 years. In March 1994, Echols and Baldwin were convicted of first-degree murder; Echols was sentenced to death and Baldwin to life imprisonment. All three maintained their innocence throughout. The convictions became the subject of the 'Paradise Lost' documentary trilogy by Joe Berlinger and Bruce Sinofsky, and later the film 'West of Memphis,' which drew celebrity support from figures including Peter Jackson, Eddie Vedder, Johnny Depp, and Natalie Maines, and helped fund new legal and forensic work.",
+      "Forensic testing reported in 2007 found that DNA recovered from the crime scene did not match any of the three convicted men. Defense filings pointed to other material, including a hair reported to be consistent with Terry Hobbs, stepfather of victim Steve Branch, though Hobbs has denied involvement and has never been charged. Authorities have not accepted these claims as establishing another perpetrator, and no one else has been charged in the case. Observers have cautioned that such forensic results are contested and do not, by themselves, resolve who committed the murders.",
+      "In November 2010, the Arkansas Supreme Court ordered a hearing on new evidence. On August 19, 2011, under a legal arrangement known as an Alford plea, Echols, Baldwin, and Misskelley pleaded guilty to reduced charges while continuing to assert their innocence; an Alford plea allows a defendant to concede that prosecutors have evidence sufficient for conviction without admitting the acts. Judge David Laser sentenced them to time served, about 18 years, and they were released the same day, with the state maintaining that the convictions stand. Because no other suspect has been prosecuted and the men continue to deny guilt, many regard the case as effectively unresolved. As of 2024, Echols was still seeking additional DNA testing of remaining evidence under Arkansas law."
+    ],
+    "timeline": [
+      {
+        "date": "1993-05-05",
+        "event": "Steve Branch, Michael Moore, and Christopher Byers, all age 8, disappear while playing in West Memphis, Arkansas."
+      },
+      {
+        "date": "1993-05-06",
+        "event": "The boys' bodies are found bound and beaten in a drainage ditch in the Robin Hood Hills woods."
+      },
+      {
+        "date": "1993-06-03",
+        "event": "Jessie Misskelley Jr. is questioned for about 12 hours and gives a confession implicating himself, Damien Echols, and Jason Baldwin; he later recants."
+      },
+      {
+        "date": "1993-06",
+        "event": "Echols, Baldwin, and Misskelley are arrested and charged with the murders."
+      },
+      {
+        "date": "1994-01-26",
+        "event": "Jessie Misskelley Jr.'s trial begins."
+      },
+      {
+        "date": "1994-02",
+        "event": "Misskelley is convicted of first- and second-degree murder and sentenced to life plus 40 years."
+      },
+      {
+        "date": "1994-03",
+        "event": "Echols and Baldwin are convicted of first-degree murder; Echols is sentenced to death and Baldwin to life imprisonment."
+      },
+      {
+        "date": "1996",
+        "event": "The documentary 'Paradise Lost: The Child Murders at Robin Hood Hills' is released, bringing national attention to the case."
+      },
+      {
+        "date": "2007",
+        "event": "New forensic testing reports that DNA from the crime scene does not match any of the three convicted men."
+      },
+      {
+        "date": "2010-11-04",
+        "event": "The Arkansas Supreme Court orders an evidentiary hearing on new evidence in the case."
+      },
+      {
+        "date": "2011-08-19",
+        "event": "Echols, Baldwin, and Misskelley enter Alford pleas, are sentenced to time served, and are released while asserting their innocence."
+      },
+      {
+        "date": "2024-04-18",
+        "event": "The Arkansas Supreme Court allows Echols to pursue further DNA testing of remaining evidence under state law."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "teresa-parker",
@@ -8470,14 +9811,76 @@
     ],
     "sources": [
       {
-        "title": "Murder of Kristin Smart — Wikipedia",
+        "title": "Murder of Kristin Smart - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Kristin_Smart"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Paul Flores, convicted of killing Kristin Smart, is sentenced 25 years to life - NPR",
+        "url": "https://www.npr.org/2023/03/10/1162789637/kristin-smart-murder-paul-flores-sentencing"
+      },
+      {
+        "title": "Paul Flores convicted in '96 disappearance, murder of Kristin Smart; dad found not guilty - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/verdicts-reached-1996-disappearance-murder-california-college-student-rcna49787"
+      },
+      {
+        "title": "California jury finds man guilty in the 1996 murder of Kristin Smart - CNN",
+        "url": "https://www.cnn.com/2022/10/18/us/kristin-smart-murder-cal-poly-paul-flores-ruben-flores/index.html"
+      },
+      {
+        "title": "A timeline of the Kristin Smart case and Paul Flores' conviction - CBS News",
+        "url": "https://www.cbsnews.com/news/kristin-smart-verdict-paul-flores-guilty-48-hours/"
+      },
+      {
+        "title": "Paul Flores convicted of the 1996 first-degree murder of Kristin Smart - County of San Luis Obispo District Attorney",
+        "url": "https://www.slocounty.ca.gov/departments/district-attorney/latest-news/2022/october/paul-flores-(44)-has-been-convicted-by-jury-of-the"
       }
-    ]
+    ],
+    "narrative": [
+      "Kristin Denise Smart, a 19-year-old freshman at California Polytechnic State University in San Luis Obispo, California, was last seen in the early morning hours of May 25, 1996, after attending an off-campus party. Found intoxicated on a neighbor's lawn, she began walking back toward campus in the company of several other students. One by one the others peeled off toward their own dorms until only fellow freshman Paul Flores remained with her. Flores said he left her near her residence hall, but Smart was never seen again. Because she was reported missing only after several days had passed, the trail was cold before a serious search began, a delay later blamed on a slow response by campus authorities.",
+      "Paul Flores emerged almost immediately as the prime suspect. He was seen with a black eye in the days after the disappearance, offered shifting explanations for it, and in a 1996 grand jury appearance and a later civil deposition repeatedly invoked his Fifth Amendment right against self-incrimination. Investigators searched multiple locations over the years, including properties tied to the Flores family, using cadaver dogs and ground-penetrating radar, but no body was recovered. Kristin Smart was legally declared dead in 2002. Despite persistent suspicion, prosecutors long felt they lacked enough physical evidence to bring charges, and the case languished for roughly two decades.",
+      "Renewed momentum came in 2019 when Chris Lambert, a local musician with no prior investigative background, launched the podcast \"Your Own Backyard,\" which meticulously re-examined the case, interviewed witnesses, and pressed for answers. Downloaded millions of times, the series drew national attention, surfaced new witnesses, and helped reinvigorate the sheriff's investigation. On April 13, 2021, authorities arrested Paul Flores on a charge of murder and arrested his father, Ruben Flores, as an accessory after the fact, alleging that Ruben had helped conceal Kristin's body.",
+      "The two men were tried together but before separate juries in Monterey County, where the case had been moved because of extensive publicity. Prosecutors argued that Paul Flores killed Smart during an attempted rape in his dorm room and that her body had at one point been buried beneath the deck of Ruben Flores's Arroyo Grande home before being moved. On October 18, 2022, Paul Flores was convicted of first-degree murder. His father, Ruben Flores, was acquitted of the accessory charge the same day.",
+      "On March 10, 2023, Paul Flores was sentenced to 25 years to life in prison. Kristin Smart's remains have never been found, and searches connected to the case have continued in the years since. Her disappearance also prompted the Kristin Smart Campus Security Act, signed into California law in 1998, which requires public colleges to coordinate with local police on reporting serious crimes. Paul Flores has pursued appeals of his conviction."
+    ],
+    "timeline": [
+      {
+        "date": "1996-05-25",
+        "event": "Kristin Smart, a 19-year-old Cal Poly freshman, is last seen in the early morning after an off-campus party; Paul Flores was the last person known to be with her, walking her toward the dorms."
+      },
+      {
+        "date": "1996-05",
+        "event": "Smart is reported missing after a delay of several days; an initial search turns up no trace of her."
+      },
+      {
+        "date": "1996-09",
+        "event": "Paul Flores appears before a grand jury but is not charged; he becomes and remains the prime suspect."
+      },
+      {
+        "date": "2002-05",
+        "event": "Kristin Smart is legally declared dead; her body has still not been found."
+      },
+      {
+        "date": "2019-09-30",
+        "event": "Chris Lambert launches the podcast \"Your Own Backyard,\" which re-examines the case, draws national attention, and helps generate new leads."
+      },
+      {
+        "date": "2021-04-13",
+        "event": "Paul Flores is arrested for murder and his father, Ruben Flores, is arrested as an accessory after the fact."
+      },
+      {
+        "date": "2022-07-18",
+        "event": "The joint trial of Paul and Ruben Flores begins in Monterey County before two separate juries."
+      },
+      {
+        "date": "2022-10-18",
+        "event": "Paul Flores is convicted of first-degree murder; Ruben Flores is acquitted of being an accessory after the fact."
+      },
+      {
+        "date": "2023-03-10",
+        "event": "Paul Flores is sentenced to 25 years to life in prison."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "rebecca-williams",
@@ -8565,7 +9968,7 @@
     "id": "tupac-shakur",
     "name": "Tupac Shakur",
     "type": "Homicide",
-    "status": "Unsolved",
+    "status": "Arrest Made",
     "year": 1996,
     "date": "September 13, 1996",
     "state": "Nevada",
@@ -8583,14 +9986,84 @@
     ],
     "sources": [
       {
-        "title": "Tupac Shakur — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Tupac_Shakur"
+        "title": "Murder of Tupac Shakur — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Can the Tupac Shakur murder trial salvage any justice from a 27-year-old case? — NPR",
+        "url": "https://www.npr.org/2023/10/17/1206454515/tupac-shakur-murder-investigation"
+      },
+      {
+        "title": "Las Vegas police investigating Tupac Shakur's 1996 murder have searched a Nevada home — NPR",
+        "url": "https://www.npr.org/2023/07/19/1188565874/tupac-murder-investigation-house-search"
+      },
+      {
+        "title": "Tupac Shakur murder suspect's trial in Las Vegas pushed to summer of 2026 — News3LV",
+        "url": "https://news3lv.com/news/local/trial-date-man-charged-tupac-shakur-murder-duane-davis-keffe-d-delayed-summer-2026-las-vegas-clark-county-court-nevada"
+      },
+      {
+        "title": "Tupac Shakur Murder Suspect Files Appeal to Dismiss Charges — Rolling Stone",
+        "url": "https://www.rollingstone.com/music/music-news/tupac-shakur-murder-suspect-files-appeal-dismiss-charges-1235396840/"
+      },
+      {
+        "title": "Orlando Anderson — Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orlando_Anderson"
       }
-    ]
+    ],
+    "narrative": [
+      "On the night of September 7, 1996, rapper Tupac Shakur was shot in a drive-by attack on the edge of the Las Vegas Strip. Shakur, 25, had attended the Mike Tyson heavyweight bout at the MGM Grand earlier that evening with Death Row Records executive Marion \"Suge\" Knight. According to police accounts, hours before the shooting Shakur and members of his entourage were involved in a lobby altercation with a man later identified as Orlando \"Baby Lane\" Anderson, a member of the Compton-based South Side Crips. At about 11:15 p.m., as Shakur rode in a BMW driven by Knight and stopped at a red light near East Flamingo Road and Koval Lane in Paradise, Nevada, a white Cadillac pulled alongside and a gunman opened fire. Shakur was struck multiple times by rounds fired from a .40-caliber handgun. Knight was grazed.",
+      "Shakur was hospitalized at University Medical Center in critical condition and underwent surgery that included removal of his right lung. He died of his injuries six days later, on September 13, 1996, with authorities citing respiratory failure and cardiac arrest. His death, coming amid a widely publicized rivalry between East Coast and West Coast hip-hop figures, drew intense national attention. Despite that scrutiny, no one was charged for years, and the case remained officially unsolved for more than two and a half decades.",
+      "Over the years, investigators and journalists repeatedly pointed to Orlando Anderson as a suspect in the shooting. Anderson denied involvement and was never charged; he was killed in an unrelated gang shooting in Southern California in 1998. Attention also turned to Anderson's uncle, Duane \"Keffe D\" Davis, a self-described former gang figure who, in a 2018 memoir and in filmed interviews, publicly described being in the Cadillac and said he had supplied the gun used in the attack. Davis has said he was in the front passenger seat; accounts attributed to investigators allege Anderson was among those in the back of the vehicle. Davis's public statements would later become central to the prosecution.",
+      "On September 29, 2023 — roughly 27 years after the shooting — a Clark County grand jury indicted Davis on a charge of first-degree murder, and he was arrested. Prosecutors allege he orchestrated the drive-by and provided the firearm. Davis pleaded not guilty on November 2, 2023. It is important to note that Davis has been charged, not convicted; the allegations against him remain unproven, and he awaits trial. His defense has argued that his prior accounts were fabricated or exaggerated for profit and has cited claimed immunity agreements from earlier interviews with law enforcement.",
+      "Through 2024 and 2025 the prosecution advanced slowly. A judge set bail at $750,000 in January 2024, but Davis remained in custody. His attorneys sought dismissal, arguing his earlier statements were protected by immunity; after a lower court upheld the charges, the defense pursued an appeal to the Nevada Supreme Court. Separately, in April 2025 Davis was convicted in an unrelated jailhouse altercation and later sentenced to a term in state prison. His murder trial, originally slated for 2024, was repeatedly postponed; as of late 2025 the trial was reset for August 10, 2026, before District Court Judge Carli Kierny. As of mid-2026, the case is an active prosecution with no verdict reached, and the recorded status of \"unsolved\" should be updated to reflect a pending murder charge."
+    ],
+    "timeline": [
+      {
+        "date": "1996-09-07",
+        "event": "Hours before the shooting, Tupac Shakur and his entourage are involved in a lobby altercation with Orlando \"Baby Lane\" Anderson at the MGM Grand after the Mike Tyson fight."
+      },
+      {
+        "date": "1996-09-07",
+        "event": "About 11:15 p.m., Shakur is shot multiple times in a drive-by at East Flamingo Road and Koval Lane in Paradise, Nevada, while riding in a car driven by Suge Knight."
+      },
+      {
+        "date": "1996-09-13",
+        "event": "Shakur dies of his injuries at University Medical Center in Las Vegas at age 25."
+      },
+      {
+        "date": "1998-05-29",
+        "event": "Orlando Anderson, long named by investigators as a suspect who denied involvement and was never charged, is killed in an unrelated gang shooting in California."
+      },
+      {
+        "date": "2018-01-01",
+        "event": "Duane \"Keffe D\" Davis publicly describes his account of the shooting in a memoir and filmed interviews, saying he was in the vehicle and provided the gun."
+      },
+      {
+        "date": "2023-07-17",
+        "event": "Las Vegas police execute a search warrant at a Nevada home in connection with the reopened investigation."
+      },
+      {
+        "date": "2023-09-29",
+        "event": "A Clark County grand jury indicts Davis on a charge of first-degree murder; he is arrested, 27 years after the shooting."
+      },
+      {
+        "date": "2023-11-02",
+        "event": "Davis pleads not guilty to the murder charge."
+      },
+      {
+        "date": "2024-01-09",
+        "event": "A judge sets bail at $750,000 with conditions, but Davis remains in custody at the Clark County Detention Center."
+      },
+      {
+        "date": "2025-04-09",
+        "event": "Davis is convicted in an unrelated jailhouse fight case; he is later sentenced to a state prison term."
+      },
+      {
+        "date": "2025-11-18",
+        "event": "The murder trial, previously scheduled for February 2026, is reset to August 10, 2026, before Judge Carli Kierny, after the defense cites voluminous discovery."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "amy-bechtel",
@@ -8713,7 +10186,7 @@
     "id": "gianni-versace",
     "name": "Gianni Versace",
     "type": "Homicide",
-    "status": "Conviction",
+    "status": "No Conviction",
     "year": 1997,
     "date": "July 15, 1997",
     "state": "Florida",
@@ -8732,14 +10205,68 @@
     ],
     "sources": [
       {
-        "title": "Gianni Versace — Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Gianni_Versace"
+        "title": "Andrew Cunanan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Cunanan"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Fashion designer Gianni Versace murdered by Andrew Cunanan in killing spree | July 15, 1997 | HISTORY",
+        "url": "https://www.history.com/this-day-in-history/july-15/versace-murdered-in-cunanan-killing-spree"
+      },
+      {
+        "title": "Serial Killers, Part 6: Andrew Cunanan | Federal Bureau of Investigation",
+        "url": "https://www.fbi.gov/news/stories/serial-killers-part-6-andrew-cunanan"
+      },
+      {
+        "title": "The Versace Murder: What Happened And Who Killed The Fashion Icon? | NBC 6 South Florida",
+        "url": "https://www.nbcmiami.com/news/local/the-versace-killing-the-murder-and-the-mansion-25-years-later/2806102/"
+      },
+      {
+        "title": "The murder of fashion designer Gianni Versace 25 years later | CBS Miami",
+        "url": "https://www.cbsnews.com/miami/news/murder-fashion-designer-gianni-versace-25-years-later/"
       }
-    ]
+    ],
+    "narrative": [
+      "On the morning of July 15, 1997, the Italian fashion designer Giovanni Maria \"Gianni\" Versace, aged 50, was shot to death on the front steps of Casa Casuarina, his oceanfront mansion on Ocean Drive in Miami Beach, Florida. Versace had walked to a nearby cafe to buy magazines and was returning home at about 8:45 a.m. when a gunman approached and shot him twice in the head with a .40-caliber Taurus pistol. The attacker fled on foot and disappeared into a nearby parking garage. Versace was pronounced dead a short time later. The killing of one of the most celebrated figures in international fashion drew worldwide attention and shocked the design world.",
+      "Investigators quickly linked the shooting to Andrew Phillip Cunanan, a 27-year-old already sought in a multi-state manhunt. In the parking garage near the mansion, police found a red pickup truck connected to an earlier killing in New Jersey and tied to Cunanan. He had been placed on the FBI's Ten Most Wanted Fugitives list on June 12, 1997, weeks before Versace's death. Cunanan's motive was never established; police found no evidence that he and Versace had any prior relationship, though the two men reportedly may have crossed paths years earlier.",
+      "The Versace shooting was the final killing in a cross-country spree that had begun that spring. Cunanan's first known victim was Jeffrey Trail, a former U.S. Navy officer beaten to death in Minneapolis on April 27, 1997. Days later he killed David Madson, an architect, whose body was found near Rush Lake, Minnesota. He then traveled to Chicago and killed real-estate developer Lee Miglin in early May, and on May 9, 1997, he shot cemetery caretaker William Reese in Pennsville Township, New Jersey, stealing Reese's red pickup truck. Versace, killed on July 15, was his fifth and final victim.",
+      "A massive federal and local manhunt followed the Versace murder, one of the largest in the region's history. Cunanan evaded capture for eight days. On July 23, 1997, the caretaker of a houseboat about two miles north of Versace's mansion reported a gunshot; a police tactical team entered the vessel and found Cunanan dead from a single self-inflicted gunshot wound to the head, fired from the same weapon used in earlier killings. He left no confession or note explaining his actions.",
+      "Because Andrew Cunanan died by suicide before he could be arrested, he was never tried in court and never convicted of any of the five murders, including Versace's. Law enforcement formally identified him as the sole perpetrator based on physical evidence, ballistics, and witness accounts, and the cases were closed with his death. The murders were later dramatized in the 2018 anthology series \"The Assassination of Gianni Versace: American Crime Story,\" renewing public interest, but the underlying question of Cunanan's motive remains unresolved."
+    ],
+    "timeline": [
+      {
+        "date": "1997-04-27",
+        "event": "Jeffrey Trail, a former Navy officer, is beaten to death in Minneapolis, Minnesota — Cunanan's first known victim."
+      },
+      {
+        "date": "1997-05-03",
+        "event": "The body of architect David Madson is found near Rush Lake, Minnesota; he had been shot."
+      },
+      {
+        "date": "1997-05-04",
+        "event": "Real-estate developer Lee Miglin is killed at his Chicago home; his vehicle is stolen."
+      },
+      {
+        "date": "1997-05-09",
+        "event": "Cemetery caretaker William Reese is shot dead in Pennsville Township, New Jersey; his red pickup truck is taken."
+      },
+      {
+        "date": "1997-06-12",
+        "event": "Andrew Cunanan is added to the FBI's Ten Most Wanted Fugitives list."
+      },
+      {
+        "date": "1997-07-15",
+        "event": "Gianni Versace is shot twice and killed on the front steps of his Miami Beach mansion, Casa Casuarina, at about 8:45 a.m."
+      },
+      {
+        "date": "1997-07-15",
+        "event": "A red pickup truck linked to Cunanan is found in a nearby parking garage, confirming him as the suspect and triggering an intensified manhunt."
+      },
+      {
+        "date": "1997-07-23",
+        "event": "Cunanan is found dead of a self-inflicted gunshot wound aboard a houseboat in Miami Beach, ending the manhunt before any arrest or trial."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "kristen-modafferi",
@@ -8882,10 +10409,80 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of the Notorious B.I.G. - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_the_Notorious_B.I.G."
+      },
+      {
+        "title": "FBI Releases Files in Notorious B.I.G. Murder - ABC News",
+        "url": "https://abcnews.com/Entertainment/notorious-big-murder-fbi-releases-documents/story?id=13312262"
+      },
+      {
+        "title": "Notorious B.I.G. autopsy unsealed 15 years after rapper's unsolved fatal shooting - CBS News",
+        "url": "https://www.cbsnews.com/news/notorious-big-autopsy-unsealed-15-years-after-rappers-unsolved-fatal-shooting/"
+      },
+      {
+        "title": "The Notorious B.I.G.'s murder remains unsolved 25 years later - FOX 5 New York",
+        "url": "https://www.fox5ny.com/news/the-notorious-b-i-g-s-murder-remains-unsolved-25-years-later"
       }
-    ]
+    ],
+    "narrative": [
+      "Shortly after midnight on March 9, 1997, 24-year-old rapper Christopher Wallace, known professionally as The Notorious B.I.G. (and earlier as Biggie Smalls), was killed in a drive-by shooting in Los Angeles. Wallace had been attending an after-party hosted by Vibe magazine at the Petersen Automotive Museum, which was shut down early by the fire department because of overcrowding. As his GMC Suburban stopped at a red light near the corner of Wilshire Boulevard and South Fairfax Avenue, a dark Chevrolet Impala pulled alongside and a gunman opened fire. Wallace was struck by four of the shots and pronounced dead at 1:15 a.m. at Cedars-Sinai Medical Center. His second album, Life After Death, was released roughly two weeks later.",
+      "The killing came at the height of a widely reported rivalry between the East Coast and West Coast hip-hop scenes, often framed around New York's Bad Boy Entertainment, with which Wallace was associated, and Los Angeles-based Death Row Records, co-founded by Marion 'Suge' Knight. That rivalry had been intensified by the fatal shooting of West Coast rapper Tupac Shakur in Las Vegas in September 1996, a case that also remains unsolved. Many observers linked the two killings, and investigators explored whether Wallace's death was connected to Shakur's, though no such link has ever been established in court.",
+      "The Los Angeles Police Department and, later, the FBI investigated the case, but no one has ever been arrested, charged, or convicted in Wallace's death. Investigators recovered evidence including rare 9mm Gecko ammunition. The FBI's file, released in heavily redacted form under the Freedom of Information Act in 2011, indicated the bureau had examined the case before closing its inquiry in 2005. In 2012 the long-sealed county autopsy report was made public, detailing the gunshot wounds and noting no drugs or alcohol were found in Wallace's system.",
+      "Over the years several competing theories have been advanced, all of them contested and none proven. One line of investigation, reported by the Los Angeles Times, pointed to a member of Compton's Southside Crips acting for personal or financial motives. A 2002 book by Randall Sullivan, drawing on the work of former LAPD detective Russell Poole, alleged a conspiracy involving Suge Knight and corrupt LAPD officer David Mack, naming an associate as an alleged gunman; those claims were disputed and criticized as speculative, and the individuals named have denied involvement. Retired LAPD detective Greg Kading later alleged that Knight had arranged for a Mob Piru gang associate, Wardell 'Poochie' Fouse, to carry out the killing. All such accounts are allegations and theories only; none has resulted in charges, and the named individuals have not been found responsible in any court.",
+      "The Wallace family pursued civil litigation against the City of Los Angeles, alleging that rogue officers were involved. A 2005 wrongful-death trial ended in a mistrial after the court found evidence had not been properly disclosed, and the family was awarded attorneys' fees. A subsequent federal suit was dismissed on procedural grounds, and later refiled claims were also dismissed by 2010. The criminal case remains officially open but unsolved. Wallace's mother, Voletta Wallace, campaigned for answers for decades until her death in February 2025. More than a quarter-century after the shooting, the murder of The Notorious B.I.G. stands as one of Los Angeles's most prominent unresolved homicides."
+    ],
+    "timeline": [
+      {
+        "date": "1996-09-13",
+        "event": "Rapper Tupac Shakur dies in Las Vegas after a September 7 shooting, intensifying the East Coast-West Coast rivalry; his killing also remains unsolved."
+      },
+      {
+        "date": "1997-03-08",
+        "event": "Christopher Wallace attends a Vibe magazine after-party at the Petersen Automotive Museum in Los Angeles, which is closed early due to overcrowding."
+      },
+      {
+        "date": "1997-03-09",
+        "event": "Just after midnight, Wallace is shot in a drive-by at Wilshire Blvd and S. Fairfax Ave and pronounced dead at 1:15 a.m. at Cedars-Sinai Medical Center."
+      },
+      {
+        "date": "1997-03-25",
+        "event": "Wallace's second album, Life After Death, is released about two weeks after his death."
+      },
+      {
+        "date": "2002-01-01",
+        "event": "Randall Sullivan's book LAbyrinth, drawing on former detective Russell Poole, publicizes allegations of a conspiracy involving Suge Knight and an LAPD officer (disputed and unproven)."
+      },
+      {
+        "date": "2005-06-21",
+        "event": "A wrongful-death trial brought by the Wallace family against the City of Los Angeles begins; it ends in a mistrial after the court finds undisclosed evidence."
+      },
+      {
+        "date": "2005-01-01",
+        "event": "The FBI closes its investigation into the murder without arrests."
+      },
+      {
+        "date": "2007-04-16",
+        "event": "The Wallace family files a renewed federal wrongful-death lawsuit against the City of Los Angeles."
+      },
+      {
+        "date": "2007-12-17",
+        "event": "A federal judge grants summary judgment against the family's suit on procedural grounds; further refiled claims are dismissed by 2010."
+      },
+      {
+        "date": "2011-04-06",
+        "event": "The FBI releases hundreds of heavily redacted pages from its case file under the Freedom of Information Act."
+      },
+      {
+        "date": "2012-12-07",
+        "event": "The long-sealed county autopsy report is made public, 15 years after the shooting."
+      },
+      {
+        "date": "2025-02-21",
+        "event": "Voletta Wallace, the rapper's mother, dies after decades seeking justice; the murder remains officially unsolved."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "james-byrd",
@@ -10191,20 +11788,86 @@
     ],
     "sources": [
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Ariel Castro kidnappings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ariel_Castro_kidnappings"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Cleveland Kidnappings Fast Facts - CNN",
+        "url": "https://www.cnn.com/2013/07/26/us/cleveland-kidnappings-fast-facts"
+      },
+      {
+        "title": "Judge sentences Cleveland kidnapper Ariel Castro to life, plus 1,000 years - CNN",
+        "url": "https://www.cnn.com/2013/08/01/justice/ohio-castro"
+      },
+      {
+        "title": "Ohio Kidnapper Ariel Castro Commits Suicide In Prison - NPR",
+        "url": "https://www.npr.org/2013/09/04/218995976/ohio-kidnapper-ariel-castro-commits-suicide-in-prison"
+      },
+      {
+        "title": "Ariel Castro - Victims, Death & Children - Biography",
+        "url": "https://www.biography.com/crime/ariel-castro"
+      },
+      {
+        "title": "The Cleveland Kidnapping Survivors: Where Are They Now? - A&E",
+        "url": "https://www.aetv.com/articles/cleveland-kidnapping-survivors-now"
       }
-    ]
+    ],
+    "narrative": [
+      "Between 2002 and 2004, three young women disappeared within a few miles of one another on the west side of Cleveland, Ohio. Michelle Knight, 21, vanished on August 23, 2002. Amanda Berry, 16, went missing on April 21, 2003, the day before her 17th birthday, after finishing a shift at a fast-food restaurant. Gina DeJesus, 14, disappeared on April 2, 2004, while walking home from middle school. Each had been lured into a car by Ariel Castro, a Cleveland school-bus driver and acquaintance of the DeJesus family, and taken to his house on Seymour Avenue, where he confined them.",
+      "For roughly a decade the women were held captive in the home, frequently restrained, and subjected to sustained physical and sexual abuse. Berry gave birth to a daughter during her captivity. The case drew little sustained public attention over the years, and to the outside world the three remained among Cleveland's long-term missing persons.",
+      "The captivity ended on May 6, 2013. When Castro left the house that afternoon without fully securing an interior door, Berry reached the front door with her young daughter, called out to passing neighbors, and pushed through a storm door with the help of neighbor Charles Ramsey and others. She reached a phone and told a 911 dispatcher, \"I've been kidnapped and I've been missing for ten years, and I'm here, I'm free now.\" Police arrived within minutes, freed Knight and DeJesus from inside the house, and arrested Castro the same day.",
+      "Castro, then 52, was indicted on hundreds of counts. On July 26, 2013, he pleaded guilty to 937 charges, including multiple counts of kidnapping and rape and two counts of aggravated murder tied to forcibly ending one of Berry's pregnancies, as part of an agreement that removed the death penalty from consideration. On August 1, 2013, a Cuyahoga County judge sentenced him to life in prison without the possibility of parole plus 1,000 years. At the hearing Knight addressed Castro directly, telling him that the years he had taken \"do not compare to the little time you will spend in prison.\" Roughly a month later, on September 3, 2013, Castro was found dead in his cell at the Correctional Reception Center in Orient, Ohio; the county coroner ruled the death a suicide by hanging.",
+      "In the years since, the three survivors have rebuilt their lives and become public advocates for missing persons. Knight, who later took the name Lily Rose Lee, published a memoir and has spoken widely about survival and recovery. Berry and DeJesus co-authored the book \"Hope\" and, with the Cleveland Family Center for Missing Children and Adults, have worked to support other families. Berry later joined a Cleveland television station highlighting missing-person cases. The Seymour Avenue house was demolished in August 2013. Castro's conviction stands as the resolution of the criminal case, and the survivors' continued advocacy remains the enduring public legacy."
+    ],
+    "timeline": [
+      {
+        "date": "2002-08-23",
+        "event": "Michelle Knight, 21, disappears in Cleveland after being lured into Ariel Castro's car."
+      },
+      {
+        "date": "2003-04-21",
+        "event": "Amanda Berry, 16, goes missing the day before her 17th birthday."
+      },
+      {
+        "date": "2004-04-02",
+        "event": "Gina DeJesus, 14, disappears while walking home from school."
+      },
+      {
+        "date": "2013-05-06",
+        "event": "Amanda Berry escapes with her daughter and calls 911; police free Knight and DeJesus and arrest Castro the same day."
+      },
+      {
+        "date": "2013-05-08",
+        "event": "Berry and DeJesus return to their families amid crowds of supporters."
+      },
+      {
+        "date": "2013-06-12",
+        "event": "Castro is indicted; charges later grow to nearly a thousand counts."
+      },
+      {
+        "date": "2013-07-26",
+        "event": "Castro pleads guilty to 937 counts, including kidnapping, rape, and aggravated murder, avoiding the death penalty."
+      },
+      {
+        "date": "2013-08-01",
+        "event": "Castro is sentenced to life without parole plus 1,000 years; survivor Michelle Knight speaks in court."
+      },
+      {
+        "date": "2013-08-07",
+        "event": "The house on Seymour Avenue where the women were held is demolished."
+      },
+      {
+        "date": "2013-09-03",
+        "event": "Castro is found dead in his prison cell in Orient, Ohio; the death is ruled a suicide."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "daniel-pearl",
     "name": "Daniel Pearl",
     "type": "Homicide",
-    "status": "Conviction",
+    "status": "No Conviction",
     "year": 2002,
     "date": "February 1, 2002",
     "state": "California",
@@ -10222,14 +11885,88 @@
     ],
     "sources": [
       {
-        "title": "Daniel Pearl — Wikipedia",
+        "title": "Daniel Pearl - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Daniel_Pearl"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Ahmed Omar Saeed Sheikh - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ahmed_Omar_Saeed_Sheikh"
+      },
+      {
+        "title": "Top Pakistan court upholds acquittal in Daniel Pearl murder case - Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2021/1/28/pakistan-court-frees-man-convicted-of-killing-us-journalist-pearl"
+      },
+      {
+        "title": "Pakistan Court Orders Release Of Man Accused Of Killing 'Wall Street Journal' Reporter - NPR",
+        "url": "https://www.npr.org/2021/01/28/961485215/pakistans-top-court-orders-release-for-killer-of-wall-street-journal-reporter"
+      },
+      {
+        "title": "Daniel Pearl's accused killer ordered released by Pakistan Supreme Court - The Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/nation-world/daniel-pearl-accused-killer-released-20210128.html"
+      },
+      {
+        "title": "Khalid Sheikh Mohammed: I beheaded American reporter - CNN",
+        "url": "https://www.cnn.com/2007/US/03/15/guantanamo.mohammed/"
+      },
+      {
+        "title": "Khalid Sheikh Mohammed killed Daniel Pearl against advice from Al-Qaeda leaders - RSF",
+        "url": "https://rsf.org/en/khalid-sheikh-mohammed-killed-daniel-pearl-against-advice-al-qaeda-leaders"
       }
-    ]
+    ],
+    "narrative": [
+      "Daniel Pearl was an American journalist and the South Asia bureau chief for The Wall Street Journal. In January 2002, while based in Karachi, Pakistan, he was reporting on militant networks, pursuing a story about alleged links between the British-born 'shoe bomber' Richard Reid and Islamist groups. On January 23, 2002, Pearl set out for what he believed would be an interview with a religious figure, Mubarak Ali Gilani, near Karachi's Metropole Hotel. He never returned. His captors soon circulated emails and photographs depicting him in captivity and issuing demands, and identifying him as an American and a Jew.",
+      "Pearl was killed by his captors, an act later dated to on or around February 1, 2002. On February 21, 2002, a video recording of his murder by beheading was released. His remains were recovered in May 2002 from a plot on the outskirts of Karachi. The killing drew worldwide condemnation and became one of the most prominent journalist murders of the post-9/11 era; his family later established the Daniel Pearl Foundation in his memory.",
+      "In July 2002, a Pakistani anti-terrorism court in Hyderabad convicted four men in connection with the case. British-born militant Ahmed Omar Saeed Sheikh, described by prosecutors as the principal organizer of the abduction, was sentenced to death. Three co-accused, Fahad Naseem, Salman Saqib and Sheikh Adil, received life sentences. Sheikh acknowledged a role in planning the kidnapping but denied carrying out the murder, and the convictions were subject to years of appeals.",
+      "The attribution of the killing itself grew more complicated over time. According to US government accounts, Khalid Sheikh Mohammed, the alleged principal architect of the September 11 attacks who was captured in 2003, claimed during US custody that he had personally beheaded Pearl. The 9/11 Commission's 2004 report cited that claimed admission, and US officials said forensic 'vein-matching' analysis of the hand of the killer shown in the video pointed to Mohammed. Because that claim was made in the context of interrogations, including methods US officials later acknowledged as coercive, it has never been tested at an independent trial.",
+      "The Pakistani convictions were ultimately overturned. On April 2, 2020, the Sindh High Court set aside Sheikh's murder conviction and death sentence, reducing his liability to a lesser charge and treating his time already served as sufficient; the three co-accused were acquitted. Prosecutors and the Pearl family appealed. On January 28, 2021, Pakistan's Supreme Court, in a 2-1 decision, upheld the acquittals and ordered the men released, and dismissed the government's and family's appeals. US officials, including the White House, condemned the ruling. Despite the court orders, Pakistani authorities kept Sheikh in detention under provincial public-order measures rather than freeing him. The Pearl family called the outcome 'a complete travesty of justice.' As of publication, no one stands convicted in Pakistan of Pearl's murder, and the man once sentenced to death for it has been acquitted while remaining in state custody."
+    ],
+    "timeline": [
+      {
+        "date": "2002-01-23",
+        "event": "Daniel Pearl, WSJ South Asia bureau chief, is abducted in Karachi, Pakistan, while going to a purported interview about militant networks."
+      },
+      {
+        "date": "2002-02-01",
+        "event": "Pearl is killed by his captors (date later established as on or around this day)."
+      },
+      {
+        "date": "2002-02-21",
+        "event": "A video showing Pearl's beheading is released, confirming his death."
+      },
+      {
+        "date": "2002-05-16",
+        "event": "Pearl's remains are discovered buried on the outskirts of Karachi."
+      },
+      {
+        "date": "2002-07-15",
+        "event": "A Pakistani anti-terrorism court convicts four men; Ahmed Omar Saeed Sheikh is sentenced to death and three co-accused get life sentences."
+      },
+      {
+        "date": "2003-03-01",
+        "event": "Khalid Sheikh Mohammed is captured; he later reportedly claims in US custody to have personally killed Pearl."
+      },
+      {
+        "date": "2004-07-22",
+        "event": "The 9/11 Commission report is released, citing Khalid Sheikh Mohammed's claimed admission that he beheaded Pearl."
+      },
+      {
+        "date": "2007-03-10",
+        "event": "At a Guantanamo Bay tribunal hearing, Khalid Sheikh Mohammed publicly states he decapitated Pearl."
+      },
+      {
+        "date": "2020-04-02",
+        "event": "The Sindh High Court overturns Sheikh's murder conviction and death sentence and acquits the co-accused, reducing his case to time served."
+      },
+      {
+        "date": "2021-01-28",
+        "event": "Pakistan's Supreme Court, 2-1, upholds the acquittals and orders the men released, dismissing government and family appeals."
+      },
+      {
+        "date": "2021-02-02",
+        "event": "Pakistani authorities keep Sheikh in detention under public-order measures despite the release order, drawing US condemnation."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "danielle-van-dam",
@@ -10285,18 +12022,60 @@
     ],
     "sources": [
       {
-        "title": "Elizabeth Smart — Wikipedia",
+        "title": "Kidnapping of Elizabeth Smart - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kidnapping_of_Elizabeth_Smart"
+      },
+      {
+        "title": "Elizabeth Smart - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Elizabeth_Smart"
       },
       {
-        "title": "NamUs — National Missing and Unidentified Persons System",
-        "url": "https://namus.nij.ojp.gov/"
+        "title": "Elizabeth Smart's captor Wanda Barzee has been released from prison - ABC News",
+        "url": "https://abcnews.com/US/elizabeth-smarts-captor-wanda-barzee-released-prison-wednesday/story?id=57904971"
       },
       {
-        "title": "The Charley Project — Missing Persons",
-        "url": "https://charleyproject.org/"
+        "title": "Elizabeth Smart abduction: Where the key figures in her kidnapping case are now - CNN",
+        "url": "https://www.cnn.com/2026/01/21/us/elizabeth-smart-abduction-today"
       }
-    ]
+    ],
+    "narrative": [
+      "In the early hours of June 5, 2002, 14-year-old Elizabeth Smart was abducted at knifepoint from the bedroom she shared with her younger sister in her family's home in Salt Lake City, Utah. Her nine-year-old sister, Mary Katherine, witnessed the abduction but pretended to be asleep out of fear. She would later recall the intruder's voice, an observation that proved central to identifying the man responsible. The case drew intense national attention and became one of the most closely followed missing-child investigations in the United States.",
+      "The abductor was Brian David Mitchell, a self-styled itinerant street preacher who had briefly done handyman work at the Smart home the previous year. Mitchell held Smart captive with the help of his wife, Wanda Barzee. For roughly nine months the pair kept her at a makeshift camp in the hills above Salt Lake City and later moved with her to San Diego County, California. During the captivity Smart was tethered, threatened, and repeatedly sexually assaulted by Mitchell.",
+      "On March 12, 2003, Smart was recovered alive in Sandy, Utah, less than 20 miles from her home, after passersby who had seen news coverage recognized Mitchell and Barzee walking with a disguised girl and alerted police. Mitchell and Barzee were taken into custody. Smart was reunited with her family, and the case shifted to a lengthy set of legal proceedings complicated by extended disputes over Mitchell's competency to stand trial.",
+      "Wanda Barzee pleaded guilty in November 2009 to federal charges of kidnapping and unlawful transportation of a minor, and she also entered a plea in the related state case. She was sentenced to 15 years, the maximum under her state conviction. Brian David Mitchell was found guilty by a federal jury on December 10, 2010, of kidnapping and unlawful transportation of a minor across state lines, and on May 25, 2011, he was sentenced to life in prison without the possibility of parole. He is held in federal custody. Barzee was released on September 19, 2018, after credit for time served advanced her release date; she remained subject to supervised release and sex-offender registration.",
+      "In the years after her recovery, Elizabeth Smart became a prominent advocate for missing persons and survivors of sexual assault and abduction. She founded the Elizabeth Smart Foundation, worked as a commentator and author, and campaigned for legislation and education aimed at preventing child abduction and supporting survivors. As of 2026, Mitchell remains imprisoned for life, Barzee is out of custody under supervision, and Smart continues her public advocacy work."
+    ],
+    "timeline": [
+      {
+        "date": "2002-06-05",
+        "event": "Elizabeth Smart, age 14, is abducted at knifepoint from her bedroom in Salt Lake City, Utah, by Brian David Mitchell."
+      },
+      {
+        "date": "2002-2003",
+        "event": "Smart is held captive for roughly nine months at a camp near Salt Lake City and later in San Diego County, California, by Mitchell and Wanda Barzee."
+      },
+      {
+        "date": "2003-03-12",
+        "event": "Smart is recovered alive in Sandy, Utah, after witnesses recognize her captors from news coverage; Mitchell and Barzee are arrested."
+      },
+      {
+        "date": "2009-11-17",
+        "event": "Wanda Barzee pleads guilty to federal kidnapping charges and is sentenced to 15 years."
+      },
+      {
+        "date": "2010-12-10",
+        "event": "A federal jury finds Brian David Mitchell guilty of kidnapping and unlawful transportation of a minor across state lines."
+      },
+      {
+        "date": "2011-05-25",
+        "event": "Mitchell is sentenced to life in federal prison without the possibility of parole."
+      },
+      {
+        "date": "2018-09-19",
+        "event": "Wanda Barzee is released from a Utah prison after completing her 15-year term, subject to supervised release and sex-offender registration."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "samantha-runnion",
@@ -10433,14 +12212,76 @@
     ],
     "sources": [
       {
-        "title": "Murder of Laci Peterson — Wikipedia",
+        "title": "Murder of Laci Peterson - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Murder_of_Laci_Peterson"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Scott Peterson murder case: Los Angeles Innocence Project plans appeal after new evidence rejected by judge - ABC7 Los Angeles",
+        "url": "https://abc7.com/post/scott-peterson-murder-case-los-angeles-innocence-project-plans-appeal-new-evidence-rejected-judge/18990780/"
+      },
+      {
+        "title": "Judge grants new DNA testing on only 1 item in Scott Peterson case - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/judge-grants-new-dna-testing-only-1-item-scott-peterson-case-rcna154559"
+      },
+      {
+        "title": "Judge largely denies Scott Peterson DNA testing request in bid to prove innocence - ABC7 San Francisco",
+        "url": "https://abc7news.com/post/scott-peterson-court-requesting-additional-dna-testing-revisit/14886761/"
+      },
+      {
+        "title": "Scott Peterson now: What happened after Laci Peterson murder conviction? - TODAY",
+        "url": "https://www.today.com/news/scott-peterson-now-rcna166193"
       }
-    ]
+    ],
+    "narrative": [
+      "Laci Peterson, a 27-year-old substitute teacher who was roughly eight months pregnant with her first child, was reported missing from her home in Modesto, California, on the evening of December 24, 2002. Her husband, Scott Peterson, told police he had left that morning to go fishing at the Berkeley Marina on San Francisco Bay, some 90 miles away, and returned to find their home empty and their dog wandering the neighborhood with its leash attached. Laci's disappearance on Christmas Eve drew immediate national attention, and the couple's family, friends, and thousands of volunteers mounted an extensive search across Modesto and the surrounding region in the weeks that followed.",
+      "As the search continued, investigators grew suspicious of Scott Peterson, in part because his stated fishing location coincided with the area of the bay that became central to the case, and in part because he was found to have been having an extramarital affair with a woman named Amber Frey, who came forward publicly in January 2003. On April 13, 2003, the remains of a male fetus washed ashore on a tidal flat along San Francisco Bay, and the next day a woman's partial remains were found nearby along the Point Isabel shoreline in Richmond. DNA testing confirmed the bodies were those of Laci and the couple's unborn son, whom the family had named Conner. Scott Peterson was arrested on April 18, 2003, near La Jolla and was charged with two counts of murder.",
+      "Peterson's trial, moved to Redwood City in San Mateo County because of pretrial publicity, began in June 2004. Prosecutors presented a largely circumstantial case, arguing that Peterson had killed his wife and disposed of her body in the bay near where he claimed to have been fishing. On November 12, 2004, a jury convicted him of first-degree murder in the death of Laci and second-degree murder in the death of Conner. The same jury recommended death, and on March 16, 2005, Peterson was formally sentenced to death and later sent to San Quentin State Prison's death row.",
+      "In August 2020, the California Supreme Court overturned Peterson's death sentence, ruling that the trial court had improperly dismissed prospective jurors who expressed opposition to capital punishment during jury selection. The court left his underlying murder convictions intact. A separate review of claims that a juror had committed misconduct did not result in a new trial. In December 2020 the court declined to reconsider the conviction, and in 2021 Peterson was resentenced to life in prison without the possibility of parole. He was later transferred to Mule Creek State Prison in Ione, California.",
+      "Beginning in early 2024, the Los Angeles Innocence Project took up Peterson's case and sought post-conviction discovery and new DNA testing, arguing on his behalf that physical evidence could point to another perpetrator. A judge granted limited relief, ordering new DNA testing on a piece of duct tape associated with the case while denying broader testing requests. The organization later pursued a habeas corpus petition alleging wrongful conviction based on what it characterized as false evidence. In an order issued in April 2026, a San Mateo County Superior Court judge denied that petition, finding the claims procedurally barred or without merit, and Peterson's attorneys said they would appeal to a higher court. The claims of innocence are advanced by Peterson's defense and have not been endorsed by the courts; as of 2026, his murder convictions stand and he remains incarcerated serving life without parole."
+    ],
+    "timeline": [
+      {
+        "date": "2002-12-24",
+        "event": "Laci Peterson, about eight months pregnant, is reported missing from her home in Modesto, California, on Christmas Eve."
+      },
+      {
+        "date": "2003-04-13",
+        "event": "The remains of a male fetus wash ashore along San Francisco Bay; a woman's partial remains are found nearby the next day."
+      },
+      {
+        "date": "2003-04-18",
+        "event": "DNA confirms the remains are Laci and her unborn son Conner; Scott Peterson is arrested near La Jolla and charged with two counts of murder."
+      },
+      {
+        "date": "2004-11-12",
+        "event": "A jury convicts Scott Peterson of first-degree murder of Laci and second-degree murder of Conner."
+      },
+      {
+        "date": "2005-03-16",
+        "event": "Peterson is sentenced to death and later sent to San Quentin State Prison's death row."
+      },
+      {
+        "date": "2020-08-24",
+        "event": "The California Supreme Court overturns Peterson's death sentence over jury-selection errors while upholding his murder convictions."
+      },
+      {
+        "date": "2021-12-08",
+        "event": "Peterson is resentenced to life in prison without the possibility of parole."
+      },
+      {
+        "date": "2024-03-12",
+        "event": "The Los Angeles Innocence Project's involvement is confirmed at a status hearing as it seeks new testing and post-conviction discovery."
+      },
+      {
+        "date": "2024-05-29",
+        "event": "A judge grants limited new DNA testing on a piece of duct tape associated with the case while denying broader requests."
+      },
+      {
+        "date": "2026-04-28",
+        "event": "A San Mateo County Superior Court judge denies the defense's habeas petition; Peterson's attorneys announce plans to appeal."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "rachel-cooke",
@@ -11652,10 +13493,92 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Murder of Teresa Halbach - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Teresa_Halbach"
+      },
+      {
+        "title": "Brendan Dassey - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brendan_Dassey"
+      },
+      {
+        "title": "Steven Avery | Biography, Convictions, Appeal, & Facts | Britannica",
+        "url": "https://www.britannica.com/biography/Steven-Avery"
+      },
+      {
+        "title": "Another appeals court rejects Steven Avery's request for new hearing - WBAY",
+        "url": "https://www.wbay.com/2025/01/15/another-appeals-court-rejects-steven-averys-request-new-trial/"
+      },
+      {
+        "title": "Steven Avery files motion asking for new DNA testing of evidence - WSAW",
+        "url": "https://www.wsaw.com/2024/03/15/steven-avery-files-motion-asking-new-dna-testing-evidence/"
+      },
+      {
+        "title": "Four Things You Need to Know about the Brendan Dassey Case - Innocence Project",
+        "url": "https://innocenceproject.org/news/four-things-that-you-need-to-know-about-the-brendan-dassey-case/"
       }
-    ]
+    ],
+    "narrative": [
+      "Teresa Halbach, a 25-year-old freelance photographer from Calumet County, Wisconsin, was last seen on October 31, 2005, after driving to the Avery family's auto salvage yard in Manitowoc County to photograph a vehicle for Auto Trader magazine. When she failed to return home, her family reported her missing on November 3, 2005. Two days later, on November 5, her Toyota RAV4 was found partially concealed among vehicles at the Avery salvage yard. Investigators subsequently recovered charred bone fragments in a burn pit near Steven Avery's residence, and forensic analysis identified them as Halbach's remains. Blood recovered from inside the RAV4 was matched to Avery.",
+      "Steven Avery, whose family owned the salvage yard, was arrested on November 11, 2005, and charged with Halbach's murder, along with related counts. His then-16-year-old nephew, Brendan Dassey, was charged in March 2006 after telling investigators during recorded interrogations that he had helped Avery assault and kill Halbach and burn her body. The case drew heightened attention because Avery had previously served 18 years for a 1985 rape and attempted-murder conviction before being exonerated by DNA evidence and released on September 11, 2003 with assistance from the Wisconsin Innocence Project. At the time of his 2005 arrest, Avery had a pending civil lawsuit against Manitowoc County over that wrongful conviction.",
+      "Both were convicted in separate 2007 trials. On March 18, 2007, a jury found Avery guilty of first-degree intentional homicide and a firearms charge; he was sentenced to life in prison without the possibility of parole. Dassey was convicted on April 25, 2007 of being party to first-degree intentional homicide, second-degree sexual assault, and mutilation of a corpse, and was sentenced to life with parole eligibility in 2048. Avery's trial defense argued that Manitowoc County officers—who were supposed to be recused because of the civil suit—had access to evidence and alleged that key items may have been planted, a claim the prosecution rejected. Jurors accepted the state's forensic case.",
+      "The convictions became internationally known after Netflix released the documentary series \"Making a Murderer\" on December 18, 2015. The filmmakers and Avery's supporters raised questions about police conduct, the handling of physical evidence, and the reliability of Dassey's confession, which critics said was coerced from a teenager with limited intellectual capacity. Prosecutors and law enforcement have consistently disputed the documentary's framing, arguing it omitted incriminating evidence and that the investigations and verdicts were sound. These remain contested allegations on both sides; the courts have not overturned either conviction.",
+      "Dassey's confession was the subject of extended federal litigation. A federal magistrate judge overturned his conviction in August 2016, finding the confession involuntary, and a three-judge appeals panel affirmed in 2017. But on December 8, 2017, the full Seventh Circuit Court of Appeals reversed 4–3 and reinstated the conviction, and the U.S. Supreme Court declined to hear the case on June 25, 2018. Meanwhile, attorney Kathleen Zellner has pursued numerous post-conviction motions for Avery, advancing alternate-suspect theories and requests for new forensic testing. On January 15, 2025, the Wisconsin Court of Appeals again rejected Avery's bid for an evidentiary hearing, calling his third-party evidence speculative. As of 2026, both Steven Avery and Brendan Dassey remain incarcerated and their convictions stand, while Avery's legal team continues to seek further review."
+    ],
+    "timeline": [
+      {
+        "date": "1985",
+        "event": "Steven Avery is convicted of the rape and attempted murder of Penny Beerntsen and sentenced to 32 years; the conviction is later shown to be wrongful."
+      },
+      {
+        "date": "2003-09-11",
+        "event": "Avery is exonerated by DNA evidence and released after serving 18 years; he later files a civil lawsuit against Manitowoc County."
+      },
+      {
+        "date": "2005-10-31",
+        "event": "Photographer Teresa Halbach, 25, is last seen after an appointment at the Avery salvage yard in Manitowoc County, Wisconsin."
+      },
+      {
+        "date": "2005-11-03",
+        "event": "Halbach is reported missing by her family."
+      },
+      {
+        "date": "2005-11-05",
+        "event": "Halbach's Toyota RAV4 is discovered partially hidden at the Avery salvage yard; charred remains later identified as hers are found nearby."
+      },
+      {
+        "date": "2005-11-11",
+        "event": "Steven Avery is arrested and charged in Halbach's death."
+      },
+      {
+        "date": "2006-03-01",
+        "event": "Brendan Dassey, 16, gives a recorded statement to investigators describing involvement in the killing; he is later charged."
+      },
+      {
+        "date": "2007-03-18",
+        "event": "Avery is convicted of first-degree intentional homicide and sentenced to life without parole."
+      },
+      {
+        "date": "2007-04-25",
+        "event": "Dassey is convicted of homicide, sexual assault, and corpse mutilation, and sentenced to life with parole eligibility in 2048."
+      },
+      {
+        "date": "2015-12-18",
+        "event": "Netflix releases the documentary series 'Making a Murderer,' generating widespread debate over the evidence and Dassey's confession."
+      },
+      {
+        "date": "2017-12-08",
+        "event": "The full Seventh Circuit reverses 4-3 to reinstate Dassey's conviction after lower courts had overturned it."
+      },
+      {
+        "date": "2018-06-25",
+        "event": "The U.S. Supreme Court declines to hear Dassey's appeal, ending his federal challenge."
+      },
+      {
+        "date": "2025-01-15",
+        "event": "The Wisconsin Court of Appeals again rejects Avery's request for an evidentiary hearing on his alternate-suspect claims."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "victoria-anne-banks",
@@ -11982,7 +13905,7 @@
     "id": "chris-benoit",
     "name": "Chris Benoit Family Murders",
     "type": "Multiple Homicide",
-    "status": "Conviction",
+    "status": "No Conviction",
     "year": 2007,
     "date": "June 22, 2007",
     "state": "Georgia",
@@ -12001,10 +13924,72 @@
     ],
     "sources": [
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Chris Benoit double-murder and suicide - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chris_Benoit_double-murder_and_suicide"
+      },
+      {
+        "title": "Wrestler's slain son was probably sedated, investigators say - CNN",
+        "url": "https://edition.cnn.com/2007/US/07/17/wrestler.murder/index.html"
+      },
+      {
+        "title": "Wrestler Chris Benoit's Brain Forensic Exam Consistent With Numerous Brain Injuries - ScienceDaily (Sports Legacy Institute)",
+        "url": "https://www.sciencedaily.com/releases/2007/09/070905224343.htm"
+      },
+      {
+        "title": "Chris Benoit case - The Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/news/local/chris-benoit-case/K0Mozbjcv1sV45f5pmL5nL/"
+      },
+      {
+        "title": "WWE Shares Internal Timeline And Details Relating to Chris Benoit Tragedy - WWE Corporate",
+        "url": "https://corporate.wwe.com/about/news/2007/06-26-2007"
       }
-    ]
+    ],
+    "narrative": [
+      "In late June 2007, professional wrestler Chris Benoit, his wife Nancy, and their seven-year-old son Daniel were found dead at the family's home in Fayetteville, Georgia. Benoit, then 40, was one of World Wrestling Entertainment's most prominent performers. After being unable to reach him over a weekend, WWE asked the Fayette County Sheriff's Office to conduct a welfare check, and on Monday, June 25, 2007, deputies entered the residence and discovered the three bodies. The discovery drew immediate national attention because of Benoit's fame and the disturbing nature of the scene.",
+      "Investigators and the Georgia state medical examiner reconstructed a timeline in which the deaths occurred over the weekend of June 22-24. Authorities concluded that Benoit strangled Nancy, 43, in an upstairs office on Friday, June 22, binding her with cords; that he suffocated Daniel in the boy's bedroom on Saturday, June 23, after the child had been sedated with the anti-anxiety drug Xanax; and that Benoit then hanged himself using a weight-machine cable in his home gym on Sunday, June 24. Bibles were placed near the bodies of Nancy and Daniel. Between roughly 3:51 and 3:58 a.m. on Sunday, Benoit sent text messages from his and Nancy's phones to co-workers giving his home address and noting that a garage door was open and the dogs were by the pool. Officials characterized the deaths as a murder-suicide committed by Chris Benoit; because he died at the scene, he was never arrested, tried, or convicted.",
+      "The case triggered intense national debate about anabolic steroid use in professional wrestling. Investigators reported finding anabolic steroids and other prescription drugs in the home, and toxicology indicated Benoit had testosterone in his system. Attention focused on his physician, Dr. Phil Astin, who had seen Benoit shortly before the killings; Astin was later prosecuted and convicted on federal charges of improperly prescribing controlled substances to patients, though authorities and WWE cautioned against a simple \"roid rage\" explanation, noting the deliberate, drawn-out nature of the killings rather than a single impulsive act.",
+      "In September 2007, the Sports Legacy Institute announced results of a forensic neuropathological examination of Benoit's brain, led by neurosurgeon Julian Bailes of West Virginia University. Researchers reported that Benoit had chronic traumatic encephalopathy (CTE) in all regions of the brain, with damage so severe it was compared to that of an 85-year-old Alzheimer's patient, which they attributed to repeated concussions across his roughly two-decade wrestling career. Bailes stressed that the findings could not be said to explain or excuse the murders, but the study became an early and widely cited case in the emerging public discussion of long-term brain trauma in contact sports and entertainment.",
+      "In the aftermath, WWE removed nearly all references to Benoit from its programming, website, video archives, and merchandise, and has continued to omit his name from historical references and broadcasts. The Fayette County Sheriff's Office formally closed its investigation on February 12, 2008, stating there was no evidence that anyone other than Chris Benoit contributed to the deaths. The case remains officially resolved as a murder-suicide; there was no trial and no criminal conviction of the perpetrator, who died at the scene."
+    ],
+    "timeline": [
+      {
+        "date": "2007-06-22",
+        "event": "Authorities concluded Chris Benoit strangled his wife Nancy, 43, in an upstairs office of their Fayetteville, Georgia home, binding her with cords."
+      },
+      {
+        "date": "2007-06-23",
+        "event": "Investigators determined Benoit suffocated his seven-year-old son Daniel in the boy's bedroom; the medical examiner found the child had been sedated with Xanax beforehand."
+      },
+      {
+        "date": "2007-06-24",
+        "event": "Between roughly 3:51 and 3:58 a.m., Benoit texted his home address and access details to co-workers; officials concluded he later died by suicide, hanging himself with a weight-machine cable in his home gym."
+      },
+      {
+        "date": "2007-06-25",
+        "event": "After WWE requested a welfare check, Fayette County sheriff's deputies entered the home and found the three bodies; WWE aired a live tribute show that evening before the murders were publicly known."
+      },
+      {
+        "date": "2007-06-26",
+        "event": "As details emerged, WWE stated the deaths were being treated as a double-murder and suicide and began removing references to Benoit from its programming and archives."
+      },
+      {
+        "date": "2007-07-17",
+        "event": "The Georgia medical examiner's office announced toxicology findings, including that Daniel had been sedated and that Benoit had elevated testosterone, fueling national debate over steroids in wrestling."
+      },
+      {
+        "date": "2007-09-05",
+        "event": "The Sports Legacy Institute, with neurosurgeon Julian Bailes, announced that Benoit's brain showed severe chronic traumatic encephalopathy (CTE) in all regions, comparable to an elderly Alzheimer's patient."
+      },
+      {
+        "date": "2008-02-12",
+        "event": "The Fayette County Sheriff's Office formally closed the investigation, concluding no one other than Chris Benoit contributed to the deaths."
+      },
+      {
+        "date": "2009-05-29",
+        "event": "Dr. Phil Astin, Benoit's physician, was sentenced in federal court after pleading guilty to illegally dispensing controlled substances to patients, including Benoit."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "ms-missing-2007",
@@ -12306,14 +14291,80 @@
     ],
     "sources": [
       {
-        "title": "Death of Caylee Anthony — Wikipedia",
+        "title": "Death of Caylee Anthony - Wikipedia",
         "url": "https://en.wikipedia.org/wiki/Death_of_Caylee_Anthony"
       },
       {
-        "title": "Murder Accountability Project — Homicide Data",
-        "url": "https://www.murderdata.org/"
+        "title": "Casey Anthony Trial Fast Facts - CNN",
+        "url": "https://www.cnn.com/2013/11/04/us/casey-anthony-trial-fast-facts"
+      },
+      {
+        "title": "Casey Anthony Found Not Guilty Of Killing Her Daughter - NPR",
+        "url": "https://www.npr.org/sections/thetwo-way/2011/07/06/137627015/casey-anthony-found-not-guilty-of-killing-her-daughter"
+      },
+      {
+        "title": "The Casey Anthony Case: A Timeline - Oxygen",
+        "url": "https://www.oxygen.com/crime-news/the-casey-anthony-case-a-timeline"
+      },
+      {
+        "title": "Casey Anthony Trial: Not Guilty Murder Verdict - ABC News",
+        "url": "https://abcnews.go.com/US/casey_anthony_trial/casey-anthony-guilty-murder-caylees-death/story?id=13987918"
       }
-    ]
+    ],
+    "narrative": [
+      "Caylee Marie Anthony was a two-year-old girl from Orlando, Florida, who was last seen alive on June 16, 2008. She was not reported missing for roughly a month. On July 15, 2008, her grandmother, Cindy Anthony, placed a 911 call stating that she had not seen the child for 31 days and that Caylee's mother, Casey Anthony, had given inconsistent explanations for the girl's whereabouts. Casey Anthony initially told investigators that a babysitter had taken Caylee, an account police were unable to verify. The delayed report and shifting statements drew intense national and international media attention to the case.",
+      "Casey Anthony was arrested on July 16, 2008, initially on charges related to child neglect and providing false statements to law enforcement. As the investigation continued, prosecutors escalated the case, and in October 2008 a grand jury indicted her on charges including first-degree murder, aggravated child abuse, and aggravated manslaughter of a child. She pleaded not guilty. During this period the whereabouts of Caylee remained unknown, and the search for the child continued for months.",
+      "On December 11, 2008, a utility worker discovered skeletal remains inside a bag in a wooded area near the Anthony family home. On December 19, 2008, authorities confirmed that the remains were Caylee's. The Orange County medical examiner, Dr. Jan Garavaglia, ruled the death a homicide but stated that the cause of death was undetermined, describing it as a homicide by undetermined means. Because of the condition of the remains, investigators were unable to establish a precise mechanism or manner in which the child died.",
+      "Casey Anthony's trial began in the spring of 2011, with opening statements delivered on May 24, 2011. Prosecutors argued that she had killed her daughter, while defense attorney Jose Baez contended that Caylee had drowned accidentally in the family swimming pool and that the death had been concealed — allegations that family members denied. On July 5, 2011, after deliberating less than 11 hours, the jury acquitted Casey Anthony of first-degree murder, aggravated child abuse, and aggravated manslaughter of a child. She was found guilty only of four misdemeanor counts of providing false information to law enforcement. On July 7, 2011, she was sentenced to four years with credit for time served and was released within days.",
+      "In 2013, a Florida appellate court overturned two of the four false-information convictions on double jeopardy grounds, concluding that her statements could constitute only two offenses rather than four. Casey Anthony was legally acquitted of responsibility for her daughter's death, and the verdict cannot be revisited under double jeopardy protections. No one has been held criminally responsible for Caylee Anthony's death, and the manner in which she died remains officially undetermined. The case has since been the subject of extensive media coverage, books, and documentaries, but it has produced no further criminal charges."
+    ],
+    "timeline": [
+      {
+        "date": "2008-06-16",
+        "event": "Caylee Anthony, age 2, is last seen alive in Orlando, Florida."
+      },
+      {
+        "date": "2008-07-15",
+        "event": "Grandmother Cindy Anthony reports Caylee missing in a 911 call, saying the child had not been seen for 31 days."
+      },
+      {
+        "date": "2008-07-16",
+        "event": "Casey Anthony is arrested on charges related to child neglect and providing false statements to law enforcement."
+      },
+      {
+        "date": "2008-10-14",
+        "event": "A grand jury indicts Casey Anthony on charges including first-degree murder, aggravated child abuse, and aggravated manslaughter of a child; she pleads not guilty."
+      },
+      {
+        "date": "2008-12-11",
+        "event": "Skeletal remains are found in a wooded area near the Anthony family home."
+      },
+      {
+        "date": "2008-12-19",
+        "event": "Authorities confirm the remains are those of Caylee Anthony."
+      },
+      {
+        "date": "2009-01",
+        "event": "Medical examiner Dr. Jan Garavaglia rules the death a homicide by undetermined means, with cause of death listed as undetermined."
+      },
+      {
+        "date": "2011-05-24",
+        "event": "Opening statements begin in Casey Anthony's murder trial in Orlando."
+      },
+      {
+        "date": "2011-07-05",
+        "event": "The jury acquits Casey Anthony of murder, aggravated child abuse, and aggravated manslaughter, convicting her only of four counts of providing false information to law enforcement."
+      },
+      {
+        "date": "2011-07-07",
+        "event": "Casey Anthony is sentenced to four years with credit for time served and is released within days."
+      },
+      {
+        "date": "2013-01-25",
+        "event": "A Florida appellate court overturns two of the four false-information convictions on double jeopardy grounds."
+      }
+    ],
+    "enriched": true
   },
   {
     "id": "jennifer-hudson-family",
