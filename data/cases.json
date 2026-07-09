@@ -29653,5 +29653,825 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "carla-walker-1974",
+  "name": "Carla Walker",
+  "type": "Homicide",
+  "status": "Conviction",
+  "year": 1974,
+  "date": "February 17, 1974",
+  "state": "Texas",
+  "city": "Fort Worth",
+  "age": 17,
+  "gender": "Female",
+  "summary": "Carla Walker, 17, was abducted at gunpoint from a Fort Worth bowling-alley parking lot in February 1974 and found murdered three days later. The case went unsolved for 46 years until forensic genetic genealogy identified Glen McCurley, who pleaded guilty in 2021.",
+  "lastSeen": "February 17, 1974, in her boyfriend's car in the Ridglea Bowl parking lot, Fort Worth, Texas",
+  "tags": [
+   "genetic genealogy",
+   "conviction",
+   "Texas",
+   "Fort Worth",
+   "1974",
+   "Othram"
+  ],
+  "sources": [
+   {
+    "title": "Murder of Carla Walker - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Carla_Walker"
+   },
+   {
+    "title": "Carla Walker's murder went unsolved for 46 years - Crime+Investigation",
+    "url": "https://www.crimeandinvestigation.co.uk/articles/murder-carla-walker-unsolved"
+   },
+   {
+    "title": "How Genetic Genealogy Solved The 1974 Murder Of Carla Walker - True Crime Reporter",
+    "url": "https://www.truecrimereporter.com/episodes/cold-case-justice-how-detective-jeff-bennett-used-genetic-genealogy-to-solve-a-murder/"
+   },
+   {
+    "title": "Cornyn, Welch Introduce the Carla Walker Act - AAFS",
+    "url": "https://www.aafs.org/article/cornyn-welch-introduce-carla-walker-act-help-solve-cold-cases"
+   }
+  ],
+  "narrative": [
+   "Carla Jan Walker was a popular 17-year-old junior at Western Hills High School in Fort Worth, Texas, remembered as a cheerful teenager with a wide circle of friends. On the night of February 16-17, 1974, she attended a Valentine's dance with her boyfriend, Rodney McCoy. In the early hours of February 17, the couple stopped at the Ridglea Bowl bowling alley parking lot. As they sat in McCoy's car, an armed man forced his way inside, pistol-whipped McCoy unconscious, and abducted Carla. McCoy revived and raised the alarm, but the girl was gone.",
+   "Three days later, on February 20, 1974, Carla's body was discovered in a drainage culvert near Lake Benbrook, southwest of the city. An autopsy revealed she had been beaten, sexually assaulted and strangled, and that she had been injected with morphine before her death. Investigators recovered forensic evidence, including material from her clothing, but 1970s technology could not link it to a suspect. The brutal killing terrified Fort Worth and became one of Tarrant County's most notorious cold cases, generating hundreds of leads over the decades while her family waited for answers that never came.",
+   "The breakthrough came in 2020. Fort Worth cold-case detective Jeff Bennett sent the decades-old evidence to Othram, a Texas laboratory specializing in extracting usable DNA from tiny, degraded samples. Using forensic genetic genealogy, building a genetic profile from the crime-scene DNA and comparing it against public genealogy databases, Othram's scientists developed investigative leads that pointed to Glen Samuel McCurley Jr. McCurley, then in his late seventies, had actually been questioned in 1974 and was known to have owned a .22-caliber pistol, but he had passed a polygraph and was cleared at the time. A fresh DNA sample confirmed the match, and McCurley was arrested in September 2020 and charged with capital murder.",
+   "The prosecution marked one of the first times DNA evidence developed through forensic genetic genealogy was set to be presented at a criminal trial. In August 2021, three days into his trial, McCurley changed his plea to guilty, admitting that he had abducted and killed Carla Walker. He was sentenced to life in prison without parole and acknowledged the crime in a recorded statement. McCurley died in prison on July 15, 2023. Carla's case became a landmark in the field: in 2025, U.S. Senator John Cornyn introduced the 'Carla Walker Act,' legislation named in her memory to fund forensic genetic genealogy for solving cold cases nationwide. After 46 years, the genetic evidence that had sat on a shelf finally delivered justice for a teenager whose killing had gone unpunished for nearly half a century."
+  ],
+  "timeline": [
+   {
+    "date": "February 17, 1974",
+    "event": "Carla Walker is abducted at gunpoint from the Ridglea Bowl parking lot; her boyfriend is pistol-whipped."
+   },
+   {
+    "date": "February 20, 1974",
+    "event": "Her body is found in a culvert near Lake Benbrook, having been raped and strangled."
+   },
+   {
+    "date": "September 2020",
+    "event": "Othram's forensic genetic genealogy identifies Glen McCurley, who is arrested."
+   },
+   {
+    "date": "August 2021",
+    "event": "McCurley pleads guilty mid-trial and is sentenced to life without parole."
+   },
+   {
+    "date": "July 15, 2023",
+    "event": "Glen McCurley dies in prison."
+   },
+   {
+    "date": "2025",
+    "event": "The Carla Walker Act is introduced in Congress in her memory to fund cold-case DNA work."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "cindy-song-2001",
+  "name": "Hyun Jong \"Cindy\" Song",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2001,
+  "date": "November 1, 2001",
+  "state": "Pennsylvania",
+  "city": "State College",
+  "age": 21,
+  "gender": "Female",
+  "summary": "Hyun Jong \"Cindy\" Song, a 21-year-old Penn State student, vanished after being dropped off at her State College, Pennsylvania, apartment early on November 1, 2001, following a Halloween night out. Some of her belongings were found inside, but she was gone. A convicted killer was later linked to the case by an informant, but her body has never been found.",
+  "lastSeen": "November 1, 2001, around 4 a.m., dropped off at her apartment on Blue Course Drive, State College, Pennsylvania",
+  "tags": [
+   "missing person",
+   "college student",
+   "Halloween",
+   "unsolved",
+   "possible abduction",
+   "Pennsylvania"
+  ],
+  "sources": [
+   {
+    "title": "Penn State History Lesson: The Disappearance Of Cindy Song - Onward State",
+    "url": "https://onwardstate.com/2025/10/29/penn-state-history-lesson-the-disappearance-of-cindy-song/"
+   },
+   {
+    "title": "The Mysterious Disappearance of Cindy Song - Unsolved Mysteries",
+    "url": "https://unsolved.com/gallery/cindy-song/"
+   },
+   {
+    "title": "Cindy Song - And Then They Were Gone",
+    "url": "https://www.andthentheyweregone.com/blog/cindy-song"
+   }
+  ],
+  "narrative": [
+   "Hyun Jong Song, known to friends as Cindy, was a South Korean-born student at Pennsylvania State University, majoring in integrative arts and active in campus life through the Korean Undergraduate Student Association, the Red Cross, and an advertising club. In the fall of 2001 she was 21 years old and living in an apartment on Blue Course Drive in State College, Pennsylvania. By all accounts she was a bright, sociable young woman looking ahead to graduation. Her disappearance on the morning after Halloween would become one of Penn State's most enduring mysteries, unsolved for more than two decades.",
+   "On the night of October 31, 2001, Cindy dressed in a bunny costume and went out with friends to Player's Night Club on West College Avenue, where they danced and celebrated the holiday. Afterward the group reportedly went to a friend's home to play video games for a few hours. Around 4 a.m. on November 1, her roommate, Stacy Paik, dropped Cindy off at their apartment. That was the last time anyone reported seeing her. When friends later checked the apartment, they found evidence she had made it safely inside: her false eyelashes had been removed and set down, and her backpack and phone were there. Yet Cindy herself was gone, and her bunny costume, purse, identification, and credit cards were missing. There were no signs of a struggle.",
+   "The absence of a struggle and the presence of some belongings but not others left investigators from the Ferguson Township Police Department with more questions than answers. There was no activity on her bank cards and no calls from her phone after she was dropped off. In December 2001, a tip emerged that a woman matching Cindy's description had been seen being forced into a vehicle in Philadelphia's Chinatown, roughly two hundred miles away; police developed a composite sketch of a possible suspect, but the lead was ultimately not confirmed. The case went cold, with no crime scene, no witnesses to an abduction, and no physical evidence pointing to a clear perpetrator.",
+   "Years later the investigation took a dramatic turn when an informant connected the case to Hugo Selenski, a Pennsylvania man later convicted of murder in unrelated killings. According to accounts, Selenski's associate Paul Weakley brought forward a claim that Selenski was involved in Cindy's abduction, and Selenski himself reportedly said that he and another man, Michael Kerkowski, had mistaken her for a prostitute, held her captive, and later buried her body. When multiple bodies were unearthed on Selenski's property in 2003, however, Cindy's remains were not among them, and investigators were never able to substantiate the claims. Selenski is serving a life sentence for other crimes. With no body, no crime scene, and no confirmed suspect, Cindy Song's disappearance remains open and unsolved, still haunting her family, friends, and the Penn State community more than twenty years later."
+  ],
+  "timeline": [
+   {
+    "date": "October 31, 2001",
+    "event": "Cindy Song goes out in a bunny costume with friends to Player's Night Club in State College for Halloween."
+   },
+   {
+    "date": "November 1, 2001, ~4 a.m.",
+    "event": "Her roommate drops Cindy off at her apartment on Blue Course Drive; it is the last confirmed sighting."
+   },
+   {
+    "date": "November 2001",
+    "event": "Friends find her eyelashes, backpack, and phone inside the apartment, but her costume, ID, and credit cards are missing and Cindy is gone; there are no signs of a struggle."
+   },
+   {
+    "date": "December 2001",
+    "event": "A tip reports a woman matching Cindy's description forced into a vehicle in Philadelphia; a composite sketch is made but the lead is never confirmed."
+   },
+   {
+    "date": "2003",
+    "event": "An informant links convicted killer Hugo Selenski to the case; multiple bodies are found on his property, but Cindy's remains are not among them."
+   },
+   {
+    "date": "Ongoing",
+    "event": "The case remains open and unsolved; no body, crime scene, or confirmed suspect has been established."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "danielle-imbo-richard-petrone-2005",
+  "name": "Danielle Imbo and Richard Petrone Jr.",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2005,
+  "date": "February 19, 2005",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "age": 34,
+  "gender": "Multiple",
+  "summary": "Danielle Imbo, 34, and Richard Petrone Jr., 35, a dating couple, vanished after leaving a bar on South Street in Philadelphia on the night of February 19, 2005. Neither they nor Petrone's pickup truck have ever been found. The FBI has investigated the case as a possible murder-for-hire but has never named a suspect.",
+  "lastSeen": "February 19, 2005, around 11:45 p.m., leaving Abilene's bar at 429 South Street, Philadelphia, Pennsylvania",
+  "tags": [
+   "missing couple",
+   "possible homicide",
+   "murder for hire",
+   "FBI",
+   "no bodies found",
+   "Pennsylvania"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Danielle Imbo and Richard Petrone Jr. - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Danielle_Imbo_and_Richard_Petrone_Jr."
+   },
+   {
+    "title": "What happened to Richard Petrone and Danielle Imbo? 20 years later - CBS News Philadelphia",
+    "url": "https://www.cbsnews.com/philadelphia/news/richard-petrone-danielle-imbo-missing-philadelphia-mystery/"
+   },
+   {
+    "title": "What happened to Danielle Imbo and Richard Petrone? - NBC10 Philadelphia",
+    "url": "https://www.nbcphiladelphia.com/news/local/danielle-imbo-richard-petrone-philadelphia-missing-south-street-unsolved-disappearance/4113773/"
+   },
+   {
+    "title": "Twenty Years Later, FBI Continues to Pursue Information - FBI Philadelphia",
+    "url": "https://www.fbi.gov/contact-us/field-offices/philadelphia/news/twenty-years-later-fbi-continues-to-pursue-information-on-the-disappearance-of-danielle-imbo-and-richard-petrone-jr"
+   }
+  ],
+  "narrative": [
+   "Danielle Imbo, born August 7, 1970, was a 34-year-old mortgage loan processor from Mount Laurel, New Jersey, and the mother of a young son. Richard \"Rich\" Petrone Jr., born August 29, 1969, was a 35-year-old Philadelphia man who worked at his family's bakery and had a teenage daughter. The two had been friends from South Jersey and were dating on and off in early 2005, as Danielle was going through a separation from her husband. Friends described them as ordinary, hardworking people with no obvious enemies and no connection to organized crime, which is part of what has made their sudden and complete vanishing so baffling.",
+   "On the night of February 19, 2005, the couple attended an informal gathering with friends at Abilene's, a bar and restaurant at 429 South Street in Philadelphia. Witnesses said they left around 11:45 p.m., heading toward Petrone's black 2001 Dodge Dakota pickup truck, intending to drive to Imbo's home in New Jersey. That was the last confirmed sighting of either of them. When neither returned home or answered their phones, family members reported them missing the following day. Crucially, from that night forward there was no activity on their cell phones, bank accounts, or credit cards, and the pickup truck simply disappeared along with them, an unusual detail given the difficulty of concealing a full-size vehicle.",
+   "The investigation grew into one of the region's most enduring mysteries, involving the Philadelphia Police Department, the New Jersey State Police, and eventually the FBI, which took a lead role beginning in 2008 and pursued the case as a possible murder-for-hire. Investigators explored numerous theories, including debts, jealousy, and intimidation, but none could be substantiated, and no crime scene was ever located. The FBI has publicly stated that it believes people know what happened, and it has offered a reward of up to $15,000 for information leading to an arrest and conviction. Despite promising leads over the years, no suspect has ever been publicly named or charged.",
+   "For the victims' families, the absence of any physical evidence has meant two decades without closure. Petrone's mother never held a funeral, and Imbo's brother has spoken repeatedly about the anguish of not knowing. In February 2025, marking the twentieth anniversary of the disappearance, the FBI's Philadelphia field office renewed its public appeal for information, emphasizing that the case remains open and active. Retired agents involved in the investigation have acknowledged the frustration of a case with no bodies, no vehicle, and no real physical evidence to work from. The complete absence of the truck, in particular, has long puzzled investigators, since disposing of a full-size pickup without a trace suggests planning and resources beyond a random act of violence. The couple has never been found, and their disappearance remains unsolved, sustained by the enduring belief of investigators that someone in the Philadelphia and South Jersey community still holds the key to what happened that night."
+  ],
+  "timeline": [
+   {
+    "date": "February 19, 2005",
+    "event": "Danielle Imbo and Richard Petrone leave Abilene's bar at 429 South Street around 11:45 p.m., heading to Petrone's pickup truck. It is the last confirmed sighting."
+   },
+   {
+    "date": "February 20, 2005",
+    "event": "Family members report the couple missing after they fail to return home or answer their phones."
+   },
+   {
+    "date": "After February 19, 2005",
+    "event": "No further activity is recorded on either person's cell phone, bank accounts, or credit cards; Petrone's 2001 Dodge Dakota is never found."
+   },
+   {
+    "date": "2008",
+    "event": "The FBI begins investigating the disappearance as a possible murder-for-hire; no suspects are named."
+   },
+   {
+    "date": "Ongoing",
+    "event": "The FBI offers a reward of up to $15,000 for information leading to an arrest and conviction."
+   },
+   {
+    "date": "February 2025",
+    "event": "On the 20th anniversary, the FBI's Philadelphia field office renews its public appeal, stating the case remains open and active."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "jennifer-dulos-2019",
+  "name": "Jennifer Farber Dulos",
+  "type": "Homicide",
+  "status": "Partially Solved",
+  "year": 2019,
+  "date": "May 24, 2019",
+  "state": "Connecticut",
+  "city": "New Canaan",
+  "age": 50,
+  "gender": "Female",
+  "summary": "Jennifer Farber Dulos, a mother of five, vanished on May 24, 2019, after dropping her children at school in New Canaan, Connecticut. Investigators concluded she was attacked in her garage and killed by her estranged husband, Fotis Dulos, who died by suicide before trial. Her body has never been found.",
+  "lastSeen": "May 24, 2019, after dropping her children at school in New Canaan, Connecticut",
+  "tags": [
+   "missing person",
+   "presumed homicide",
+   "domestic",
+   "custody dispute",
+   "body never found",
+   "Connecticut"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Jennifer Dulos - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Jennifer_Dulos"
+   },
+   {
+    "title": "What to know about the disappearance and presumed murder of Jennifer Dulos - NBC Connecticut",
+    "url": "https://www.nbcconnecticut.com/news/local/what-to-know-about-the-disappearance-and-presumed-murder-of-jennifer-dulos/3301820/"
+   },
+   {
+    "title": "How police tracked an old work truck to find Jennifer Dulos' alleged killer - CBS News",
+    "url": "https://www.cbsnews.com/pictures/jennifer-dulos-how-police-tracked-alleged-killer/"
+   }
+  ],
+  "narrative": [
+   "Jennifer Farber Dulos was born on September 27, 1968, and grew up in New York City in an affluent family. A Brown University graduate and aspiring writer, she married Greek-born luxury home builder Fotis Dulos, and the couple had five children together. By 2017 the marriage had collapsed, and Jennifer filed for divorce, initiating a bitter, drawn-out custody battle. In court filings she expressed fear of her husband, writing that she was afraid of what he might do and that he had threatened to take the children. She moved with the children into a rented home on Welles Lane in New Canaan, Connecticut, a quiet, wealthy suburb where she believed they would be safe.",
+   "On the morning of May 24, 2019, Jennifer dropped her five children at the New Canaan Country School and was never seen again. When she missed several appointments and could not be reached for roughly ten hours, she was reported missing shortly before 7 p.m. Officers who searched her home found what appeared to be bloodstains on the garage floor and on a vehicle parked inside. Investigators later concluded that Jennifer had suffered a serious physical assault in the garage. DNA testing showed the blood was hers, and surveillance video captured Fotis Dulos discarding garbage bags along Albany Avenue in Hartford that evening; the bags held clothing in her size, zip ties, and sponges stained with her blood.",
+   "Fotis Dulos and his girlfriend, Michelle Troconis, were arrested on June 1, 2019, on charges of tampering with evidence and hindering prosecution. On January 7, 2020, prosecutors escalated the case, charging Fotis with murder, felony murder, and kidnapping. Troconis was charged with conspiracy to commit murder, and Fotis's former attorney, Kent Mawhinney, was also arrested on a conspiracy charge. Police theorized that Fotis lay in wait at the home, attacked Jennifer as she returned, and disposed of her body, which despite extensive searches was never recovered.",
+   "The case never reached a full murder trial. On January 28, 2020, facing new charges and released on bond, Fotis Dulos attempted suicide by carbon monoxide poisoning at his Farmington home; he died on January 30, 2020. Prosecutors formally dropped the charges against him after his death. Michelle Troconis went to trial in 2024 and, on March 1, 2024, was found guilty of conspiracy to commit murder and multiple counts of evidence tampering and hindering prosecution; that May she was sentenced to more than fourteen years in prison. Kent Mawhinney, the third defendant, later resolved his case with a comparatively short sentence. A probate judge declared Jennifer legally dead in October 2023, formally acknowledging what investigators had long concluded. Throughout the proceedings, authorities maintained that the physical evidence, the blood in the garage, the discarded bloodied clothing, and the surveillance footage of Fotis along the trash route in Hartford, pointed clearly to a planned attack, even though her body was never recovered. For her five children and her mother, who cared for them after the disappearance, the years of court hearings brought a measure of accountability without the closure of a recovered body. Her remains have never been found, and the location of Jennifer Dulos's body remains the case's central unanswered question."
+  ],
+  "timeline": [
+   {
+    "date": "September 27, 1968",
+    "event": "Jennifer Farber is born in New York City."
+   },
+   {
+    "date": "2017",
+    "event": "Jennifer files for divorce from Fotis Dulos, beginning a contentious custody battle; she later expresses fear of him in court filings."
+   },
+   {
+    "date": "May 24, 2019",
+    "event": "Jennifer disappears after dropping her children at school in New Canaan; reported missing that evening. Blood is later found in her garage."
+   },
+   {
+    "date": "June 1, 2019",
+    "event": "Fotis Dulos and Michelle Troconis are arrested on evidence-tampering and hindering-prosecution charges."
+   },
+   {
+    "date": "January 7, 2020",
+    "event": "Fotis Dulos is charged with murder and kidnapping; Troconis and attorney Kent Mawhinney are charged with conspiracy to commit murder."
+   },
+   {
+    "date": "January 30, 2020",
+    "event": "Fotis Dulos dies by suicide before trial; the murder charges against him are later dropped."
+   },
+   {
+    "date": "October 24, 2023",
+    "event": "A probate judge declares Jennifer Dulos legally dead."
+   },
+   {
+    "date": "March 1, 2024",
+    "event": "Michelle Troconis is found guilty of conspiracy to commit murder and related charges; she is later sentenced to more than 14 years."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "ken-mcelroy-1981",
+  "name": "Ken McElroy",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 1981,
+  "date": "July 10, 1981",
+  "state": "Missouri",
+  "city": "Skidmore",
+  "age": 47,
+  "gender": "Male",
+  "summary": "Kenneth Rex McElroy, the notorious 'town bully' of Skidmore, Missouri, was shot dead in his pickup truck on the main street in front of dozens of witnesses in July 1981. Despite the crowd, no one identified the shooters, and no one has ever been charged.",
+  "lastSeen": "July 10, 1981, seated in his pickup truck on the main street of Skidmore, Missouri",
+  "tags": [
+   "vigilante",
+   "unsolved",
+   "Missouri",
+   "1981",
+   "town bully",
+   "cold case"
+  ],
+  "sources": [
+   {
+    "title": "Ken McElroy - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ken_McElroy"
+   },
+   {
+    "title": "This Day in History: Ken McElroy killed in broad daylight, no one charged - KCTV5",
+    "url": "https://www.kctv5.com/2025/07/10/this-day-history-ken-mcelroy-killed-broad-daylight-no-one-charged/"
+   },
+   {
+    "title": "Who Killed Ken Rex McElroy: Town Keeps Its Secret - Patch",
+    "url": "https://patch.com/us/across-america/who-killed-ken-rex-mcelroy-town-keeps-its-secret-38-years"
+   }
+  ],
+  "narrative": [
+   "Kenneth Rex McElroy was a name residents of Skidmore, a farming town in northwest Missouri's Nodaway County, spoke only in whispers. Born June 16, 1934, McElroy spent decades terrorizing his neighbors: over his life he was accused of dozens of felonies including assault, cattle and hog rustling, arson, burglary, statutory rape and child molestation. He was indicted twenty-one times and, thanks to witness intimidation and a shrewd defense attorney, escaped conviction in all but one instance. He cultivated a menacing reputation, reportedly stalking those who crossed him and boasting that no jury would ever hold him. For the people of Skidmore, McElroy was less a neighbor than an unpunishable predator.",
+   "The lone conviction came in 1980, after McElroy shot elderly grocer Ernest 'Bo' Bowenkamp in the neck following a dispute involving McElroy's daughter. He was found guilty of second-degree assault in June 1981 but was released on bond pending appeal. On June 30, 1981, he appeared at a Skidmore tavern carrying a rifle and openly threatened Bowenkamp, deepening the town's fear. On the morning of July 10, 1981, dozens of residents gathered to discuss the problem. When McElroy and his wife, Trena, walked to his pickup truck parked on the main street, a crowd of between thirty and forty-six people surrounded the vehicle. As McElroy sat behind the wheel, gunmen opened fire with at least two different weapons, including a centerfire rifle and a .22-caliber rimfire. He was struck multiple times and died in the truck; Trena, seated beside him, was unhurt.",
+   "Despite the extraordinary number of eyewitnesses, no one would say who pulled the triggers. Investigators from the county sheriff's office, the Missouri State Highway Patrol, the FBI and a federal grand jury all pressed residents for answers, but the town closed ranks in what became one of America's most famous instances of collective silence. Only Trena McElroy publicly named a man she said fired the fatal shots; prosecutors declined to charge him, citing insufficient corroborating evidence. A federal civil-rights investigation likewise produced no indictments. In 1984 Trena filed a wrongful-death lawsuit that was eventually settled for $17,600, with no admission of wrongdoing by any defendant.",
+   "The killing has been chronicled in books, documentaries and Harry N. MacLean's award-winning 'In Broad Daylight,' and it continues to draw national attention as a study in vigilante justice and small-town omerta. Decades of renewed interest, including comments from later Nodaway County sheriffs, have not shaken loose a single prosecutable account. As of 2026, more than four decades after McElroy died on a sunny July morning in front of his neighbors, no one has ever been arrested or charged in his death, and the case remains officially unsolved. The people who watched Ken Rex McElroy die have largely taken their knowledge to the grave, leaving Skidmore's darkest secret intact."
+  ],
+  "timeline": [
+   {
+    "date": "June 16, 1934",
+    "event": "Kenneth Rex McElroy is born; grows up to be accused of dozens of felonies and indicted 21 times."
+   },
+   {
+    "date": "1980",
+    "event": "McElroy shoots grocer Ernest 'Bo' Bowenkamp in the neck after a dispute."
+   },
+   {
+    "date": "June 1981",
+    "event": "McElroy is convicted of second-degree assault but freed on bond pending appeal."
+   },
+   {
+    "date": "June 30, 1981",
+    "event": "He appears at a Skidmore tavern with a rifle and threatens Bowenkamp."
+   },
+   {
+    "date": "July 10, 1981",
+    "event": "McElroy is shot dead in his pickup truck on Skidmore's main street before 30-46 witnesses."
+   },
+   {
+    "date": "1984",
+    "event": "Trena McElroy's wrongful-death lawsuit is settled for $17,600 with no admission of guilt."
+   },
+   {
+    "date": "2026",
+    "event": "No one has ever been charged; the case remains officially unsolved."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "lita-mcclinton-1987",
+  "name": "Lita McClinton Sullivan",
+  "type": "Homicide",
+  "status": "Conviction",
+  "year": 1987,
+  "date": "January 16, 1987",
+  "state": "Georgia",
+  "city": "Atlanta",
+  "age": 35,
+  "gender": "Female",
+  "summary": "Lita McClinton Sullivan, an Atlanta socialite, was shot dead at her Buckhead townhouse in January 1987 by a hit man disguised as a flower delivery man, on the day of a divorce hearing. Her estranged husband, James Sullivan, was convicted of arranging the murder-for-hire nearly two decades later.",
+  "lastSeen": "January 16, 1987, at the front door of her townhouse in the Buckhead neighborhood of Atlanta, Georgia",
+  "tags": [
+   "murder-for-hire",
+   "conviction",
+   "Georgia",
+   "Atlanta",
+   "1987",
+   "socialite"
+  ],
+  "sources": [
+   {
+    "title": "Lita McClinton - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lita_McClinton"
+   },
+   {
+    "title": "Husband Convicted In Socialite Slaying - CBS News",
+    "url": "https://www.cbsnews.com/news/husband-convicted-in-socialite-slaying/"
+   },
+   {
+    "title": "Sullivan v. State (2008) - FindLaw",
+    "url": "https://caselaw.findlaw.com/court/ga-supreme-court/1451986.html"
+   },
+   {
+    "title": "Triggerman in socialite Lita Sullivan's murder released from prison - AJC",
+    "url": "https://www.ajc.com/news/local/triggerman-socialite-sullivan-murder-released-from-prison/Pwc3DKaD8LzVfzYu5JiNVN/"
+   }
+  ],
+  "narrative": [
+   "Lita LaVaughn McClinton Sullivan was a poised, well-connected Atlanta socialite and the daughter of a prominent Black family; her father, Emory McClinton, was a Georgia civil-rights figure and transportation official. Born January 7, 1952, she married James Vincent Sullivan, a wealthy white businessman, in 1976. Sullivan had inherited a liquor-distribution fortune and moved the couple to a Palm Beach, Florida mansion, but the marriage soured amid his controlling behavior and infidelities. By the mid-1980s Lita had returned to Atlanta and filed for divorce, and the two were locked in a bitter fight over money and property as a crucial hearing approached in January 1987.",
+   "On the morning of January 16, 1987, the day a hearing in the divorce was scheduled, a man posing as a florist arrived at Lita's townhouse in Atlanta's Buckhead neighborhood carrying a box of long-stemmed pink roses. When the 35-year-old opened her door, the 'delivery man' drew a pistol and shot her in the head. She died at the scene. The killing bore the hallmarks of a professional hit, and suspicion immediately fell on her estranged husband, who stood to lose millions in the divorce and who was conspicuously in Florida at the time. Yet for years investigators lacked the evidence to charge him.",
+   "The case broke open a decade later. In 1997 authorities identified Phillip Anthony Harwood, a North Carolina man, as the triggerman; he admitted he had been paid roughly $25,000 to kill Lita at James Sullivan's behest. A key witness, Belinda Trahan, came forward with knowledge of the murder-for-hire plot, and in 1998 Sullivan was finally indicted. Harwood pleaded guilty to voluntary manslaughter, received a 20-year sentence and agreed to testify. Sullivan, however, had fled the country. An international manhunt ended on July 2, 2002, when he was captured in Thailand after being profiled on television; he was extradited to the United States in 2004.",
+   "In March 2006, a Fulton County jury deliberated only a few hours before convicting James Sullivan of murder in the death of his wife. He was sentenced to life in prison without the possibility of parole. Prosecutors and family members described a case in which wealth, mobility and privilege allowed a killer to evade justice for nearly two decades while Lita's parents fought to keep her memory and her case alive. Harwood was released from prison in 2017 after serving his term. The conviction closed a case that had haunted Atlanta for a generation, though Lita McClinton's family has continued to speak publicly about the long, painful road to accountability and the class and racial dynamics that shadowed the investigation. James Sullivan remains incarcerated."
+  ],
+  "timeline": [
+   {
+    "date": "January 7, 1952",
+    "event": "Lita LaVaughn McClinton is born into a prominent Atlanta family."
+   },
+   {
+    "date": "1976",
+    "event": "She marries wealthy businessman James Vincent Sullivan."
+   },
+   {
+    "date": "January 16, 1987",
+    "event": "Lita is shot dead at her Buckhead door by a gunman disguised as a florist, on the day of a divorce hearing."
+   },
+   {
+    "date": "1997",
+    "event": "Phillip Anthony Harwood is identified as the paid triggerman."
+   },
+   {
+    "date": "1998",
+    "event": "James Sullivan is indicted for arranging the murder."
+   },
+   {
+    "date": "July 2, 2002",
+    "event": "Sullivan is captured in Thailand after fleeing the country."
+   },
+   {
+    "date": "2004",
+    "event": "Sullivan is extradited to the United States."
+   },
+   {
+    "date": "March 2006",
+    "event": "Sullivan is convicted of murder and sentenced to life without parole."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "mary-shotwell-little-1965",
+  "name": "Mary Shotwell Little",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 1965,
+  "date": "October 14, 1965",
+  "state": "Georgia",
+  "city": "Atlanta",
+  "age": 25,
+  "gender": "Female",
+  "summary": "Mary Shotwell Little, a 25-year-old newlywed bank secretary, vanished on October 14, 1965, from the Lenox Square shopping center in Atlanta. Her bloodstained car was found the next day, and her credit card was later used at gas stations in North Carolina by a woman who appeared injured and in distress. The case has never been solved.",
+  "lastSeen": "October 14, 1965, around 8 p.m., at the Lenox Square shopping center in Atlanta, Georgia",
+  "tags": [
+   "missing person",
+   "possible abduction",
+   "bloodstained car",
+   "newlywed",
+   "1960s cold case",
+   "Georgia"
+  ],
+  "sources": [
+   {
+    "title": "Mary Shotwell Little - The Charley Project",
+    "url": "https://charleyproject.org/case/mary-shotwell-little"
+   },
+   {
+    "title": "Chilling Tales: Mary Shotwell Little - DeKalb History Center",
+    "url": "https://dekalbhistory.org/blog-posts/chilling-tales-mary-shotwell-little/"
+   },
+   {
+    "title": "Cold Case Atlanta: Mary Shotwell Little - Monument Multi-Media",
+    "url": "https://monumentmultimedia.com/showcase/cold-case-atlanta-mary-shotwell-little/"
+   },
+   {
+    "title": "Buckhead - Atlanta, Georgia - Mystery - Mary Shotwell Little",
+    "url": "http://www.buckhead.net/history/mystery/msl_a.html"
+   }
+  ],
+  "narrative": [
+   "Mary Shotwell Little, born January 14, 1940, was a 25-year-old secretary at the Citizens & Southern National Bank in Atlanta. Just six weeks before she disappeared, she had married Roy Little, a bank auditor who was away training at the time and planned to return the following day. By all accounts Mary was happy in her new marriage and settled in her work, giving no hint of any reason to vanish. On the afternoon of Thursday, October 14, 1965, she left the office and drove to the Lenox Square shopping center in Atlanta's Buckhead district to shop and to meet a coworker for dinner.",
+   "That evening Mary stopped for groceries and then met her friend for a meal at a cafeteria at Lenox Square, and the two shopped before parting ways around 8 p.m. She was never seen again. When she failed to report to work the next morning, her worried boss and colleagues began searching. Shortly after noon on October 15, her 1965 Mercury Comet was discovered parked in the Lenox Square lot. The interior and exterior of the car bore blood, and a strange red dust coated the outside. Inside, her groceries remained in the back, and investigators found women's undergarments, including a slip, girdle, and stockings, folded neatly between the front seats and stained with blood. Her coat, purse, jewelry, and outer clothing were gone.",
+   "The physical evidence only deepened the mystery. Blood was found on the steering wheel, the driver's door near the handle, the inside of the passenger window, and the front seats, and testing indicated it was probably Mary's, though the amount was not consistent with a fatal injury at the scene. The car's odometer showed roughly forty unexplained miles. About a day after she vanished, and again in the weeks that followed, her gasoline credit card was used at service stations in Charlotte, North Carolina, her hometown, and in Raleigh. The signatures matched hers, and attendants described a young woman who appeared injured, with a head wound or bloodstains, traveling with one or two unshaven older men who seemed to control her movements.",
+   "Despite the vivid clues, investigators were never able to determine who took Mary Shotwell Little or why. Theories over the decades have ranged from a stalker to a targeted abduction, and the case grew even eerier when a young woman named Diane Shields, who had connections to Mary's workplace, was murdered about eighteen months later in a separate unsolved case with unsettling similarities. Over the years the original Atlanta police file was reportedly lost, further complicating any fresh investigation. Mary's body has never been found and no one has ever been charged. Sixty years on, the disappearance remains one of Atlanta's most haunting cold cases, still discussed and re-examined by writers, historians, and investigators searching for answers."
+  ],
+  "timeline": [
+   {
+    "date": "January 14, 1940",
+    "event": "Mary Shotwell is born; she later works as a secretary at Citizens & Southern National Bank in Atlanta."
+   },
+   {
+    "date": "Early September 1965",
+    "event": "Mary marries bank auditor Roy Little, about six weeks before her disappearance."
+   },
+   {
+    "date": "October 14, 1965",
+    "event": "Mary shops for groceries and has dinner with a coworker at Lenox Square, parting ways around 8 p.m. She is never seen again."
+   },
+   {
+    "date": "October 15, 1965 (~noon)",
+    "event": "Her bloodstained 1965 Mercury Comet is found in the Lenox Square parking lot with her groceries and blood-stained undergarments inside."
+   },
+   {
+    "date": "October 1965",
+    "event": "Her gasoline credit card is used at service stations in Charlotte and Raleigh, North Carolina; attendants describe an injured woman in distress accompanied by one or two men."
+   },
+   {
+    "date": "1967",
+    "event": "Diane Shields, who had ties to Mary's workplace, is murdered in a separate unsolved case with eerie similarities."
+   },
+   {
+    "date": "Ongoing",
+    "event": "Mary Shotwell Little's body is never found and no one is charged; the case remains unsolved decades later."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "myra-lewis-2014",
+  "name": "Myra Lewis",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2014,
+  "date": "March 1, 2014",
+  "state": "Mississippi",
+  "city": "Camden",
+  "age": 2,
+  "gender": "Female",
+  "summary": "Two-year-old Myra Rena Lewis vanished from the front yard of her rural home near Camden, Mississippi, on March 1, 2014. Despite an Amber Alert, an FBI investigation and a $20,000 reward, she has never been found.",
+  "lastSeen": "March 1, 2014, playing in the front yard of her family home on Mount Pilgrim Road near Camden, Mississippi",
+  "tags": [
+   "missing child",
+   "toddler",
+   "Amber Alert",
+   "FBI",
+   "Mississippi",
+   "unsolved",
+   "abduction"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Myra Lewis - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Myra_Lewis"
+   },
+   {
+    "title": "Exclusive: Grandmother of missing Camden toddler Myra Lewis breaks silence 12 years later - WLBT",
+    "url": "https://www.wlbt.com/2026/03/10/exclusive-grandmother-missing-camden-toddler-myra-lewis-breaks-silence-12-years-later/"
+   },
+   {
+    "title": "Myra Lewis: Two-Year-Old Goes Missing in Camden Mississippi - City Towner",
+    "url": "https://citytowner.com/myra-lewis-camden-ms/"
+   },
+   {
+    "title": "Myra Lewis, 2: Disappeared From Her Front Yard in 2014 - Our Black Girls",
+    "url": "https://www.ourblackgirls.com/p/myra-lewis-2-disappeared-from-her"
+   },
+   {
+    "title": "MYRA LEWIS - FBI Kidnappings and Missing Persons",
+    "url": "https://www.fbi.gov/wanted/kidnap/myra-lewis"
+   }
+  ],
+  "narrative": [
+   "Myra Rena Lewis was a two-year-old girl who vanished from the front yard of her family's rural home on Mount Pilgrim Road near Camden, in Madison County, Mississippi, on the morning of March 1, 2014. Myra was playing outside with her older sister when her mother, Ericka Lewis, left the house between roughly 10:30 and 11:00 a.m. to run errands. Ericka later said she had told both girls to go back inside. Myra's father, Gregory Lewis, was at home caring for the couple's one-month-old baby. When Ericka returned around 3:00 p.m. and asked where Myra was, Gregory reportedly said he believed the child was with her mother. Each parent had assumed the other was watching the toddler, and by the time the family realized Myra was gone, several hours had passed.",
+   "A frantic search followed. Deputies, K-9 units, helicopters and dive teams combed a four-mile radius around the isolated home and searched nearby ponds, but found no trace of the little girl. The Madison County Sheriff's Office issued an Amber Alert on March 2, 2014, and formally classified the case as a child abduction. The FBI joined the investigation within days and eventually posted a $20,000 reward for information leading to Myra's recovery. Ericka Lewis was briefly jailed in March 2014 on an unrelated probation violation and released that May; investigators have never publicly named a suspect in the disappearance itself.",
+   "Because Myra disappeared from a remote yard with no witnesses and no physical evidence, investigators have struggled to determine whether she wandered off, drowned, or was taken by someone. Extensive ground and water searches turned up nothing, leading many to suspect she was abducted. In a 2026 interview marking twelve years since the disappearance, Myra's grandmother, Martha Sanders, publicly voiced suspicion that a family member was involved, saying she had 'no doubt' about it, though no charges have ever resulted. The Madison County Sheriff's Office has said 'everything is still on the table' as the investigation continues.",
+   "Myra Lewis holds the grim distinction of being the longest unsolved missing-child case in Mississippi history to have prompted an Amber Alert. The National Center for Missing & Exploited Children has released age-progressed images showing how she might look as she grows, and the FBI's reward remains active. More than a decade after she vanished, no arrest has been made and Myra has never been found; she would be a teenager today. Investigators continue to ask anyone with information to contact the Madison County Sheriff's Office, the FBI, or the National Center for Missing & Exploited Children, hoping that a single tip may finally reveal what happened to the toddler who disappeared from her own front yard on an ordinary Saturday morning."
+  ],
+  "timeline": [
+   {
+    "date": "March 1, 2014",
+    "event": "Two-year-old Myra Lewis is last seen playing in the front yard of her family home near Camden, Mississippi, mid-morning; she is discovered missing when her mother returns around 3:00 p.m."
+   },
+   {
+    "date": "March 2, 2014",
+    "event": "The Madison County Sheriff's Office issues an Amber Alert as searchers comb a four-mile radius, nearby ponds and woods with K-9 units and helicopters."
+   },
+   {
+    "date": "March 3, 2014",
+    "event": "Authorities formally classify Myra's disappearance as a child abduction."
+   },
+   {
+    "date": "March 10, 2014",
+    "event": "The FBI announces its involvement in the investigation and later offers a $20,000 reward for information."
+   },
+   {
+    "date": "May 2014",
+    "event": "Ericka Lewis, jailed in March on an unrelated probation violation, is released; no suspect is publicly identified in Myra's disappearance."
+   },
+   {
+    "date": "March 2026",
+    "event": "On the twelfth anniversary, Myra's grandmother speaks out publicly; the case remains open and unsolved, the longest of its kind tied to an Amber Alert in Mississippi history."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "paige-johnson-2010",
+  "name": "Paige Valisa Johnson",
+  "type": "Homicide",
+  "status": "Partially Solved",
+  "year": 2010,
+  "date": "September 23, 2010",
+  "state": "Kentucky",
+  "city": "Covington",
+  "age": 17,
+  "gender": "Female",
+  "summary": "Paige Johnson, a 17-year-old mother, disappeared from Covington, Kentucky, on September 23, 2010, after last being seen with acquaintance Jacob Bumpass. Her burned remains were found in the woods of Clermont County, Ohio, in March 2020. Bumpass was later convicted of abuse of a corpse and tampering with evidence, but her cause of death was never determined.",
+  "lastSeen": "September 23, 2010, in Covington, Kentucky, reportedly with Jacob Bumpass near 15th Street and Scott Boulevard",
+  "tags": [
+   "missing person",
+   "remains found",
+   "homicide",
+   "conviction",
+   "teenager",
+   "Kentucky"
+  ],
+  "sources": [
+   {
+    "title": "Remains of Paige Johnson found in Clermont County - WCPO",
+    "url": "https://www.wcpo.com/news/local-news/clermont-county/pd-remains-of-paige-johnson-nky-teen-missing-for-nearly-10-years-found-in-clermont-county"
+   },
+   {
+    "title": "Police: Paige Johnson remains found - Fox19",
+    "url": "https://www.fox19.com/2020/03/25/police-paige-johnson-remains-found/"
+   },
+   {
+    "title": "Ohio man convicted of abuse of corpse 13 years after Paige Johnson disappeared - CBS News",
+    "url": "https://www.cbsnews.com/news/jacob-bumpass-convicted-death-kentucky-teenager-paige-johnson-missing-2010/"
+   },
+   {
+    "title": "Paige Valisa Johnson - The Charley Project",
+    "url": "https://charleyproject.org/case/paige-valisa-johnson"
+   }
+  ],
+  "narrative": [
+   "Paige Valisa Johnson was a 17-year-old girl from northern Kentucky who had recently become a mother to a two-year-old daughter. She had just turned 17 when she vanished, and by all accounts she was a young woman still finding her footing. On the night of September 22, 2010, she went out in Covington, Kentucky, and by the early hours of September 23 she was riding around with 22-year-old Jacob Bumpass, an acquaintance. She was reported missing to the Covington Police Department that day, and the search for her would stretch on for nearly a decade, becoming one of the best-known missing-persons cases in the Cincinnati region.",
+   "Bumpass, the last person known to have been with Paige, told investigators he had dropped her off around 1 a.m. near the intersection of 15th Street and Scott Boulevard in Covington. That account quickly drew scrutiny. Cell phone records placed Bumpass's phone not downtown but near East Fork Lake in Clermont County, Ohio, a rural area miles from where he claimed to have left her. Investigators noted that several witnesses refused to cooperate and that some had provided false information, hampering the case for years. Despite repeated searches, Paige's whereabouts remained unknown, and the investigation stalled without a body.",
+   "The breakthrough came nearly ten years later. On March 22, 2020, a woman called 911 to report that her husband, while deer hunting in the woods near State Route 276 in Clermont County's Williamsburg Township, had found a burned human skull. The Hamilton County coroner confirmed through dental records on March 24, 2020, that the remains were Paige Johnson's. The location was strikingly close to where cell tower data had placed Bumpass's phone on the morning she disappeared, roughly a mile or two away, giving investigators renewed confidence in their long-held theory.",
+   "On July 29, 2020, a grand jury indicted Jacob Bumpass on charges of tampering with evidence and abuse of a corpse in connection with Paige's death. In July 2023, following a trial in which prosecutors presented DNA and cell phone evidence, a jury found him guilty on both counts. On September 7, 2023, a judge sentenced Bumpass to four years in prison, the maximum allowed for those charges, and his attorney indicated plans to appeal. Because of the burned condition of the remains, a cause of death was never established, so Bumpass was never charged with murder, and it remains officially unknown whether Paige was killed or died under other circumstances before her body was burned and concealed. Prosecutors said that several witnesses had refused to cooperate over the years and that some had actively provided false information, and they urged anyone with additional knowledge to come forward even after the conviction. For her family, including her mother and the young daughter Paige left behind, the recovery and identification of her remains at last allowed them to bring her home and hold a proper burial, even as the full truth of how the 17-year-old died stayed frustratingly out of reach nearly a decade and a half after she vanished."
+  ],
+  "timeline": [
+   {
+    "date": "September 23, 2010",
+    "event": "Paige Johnson, 17, is reported missing to Covington police; she was last seen with Jacob Bumpass, who claims he dropped her off near 15th and Scott."
+   },
+   {
+    "date": "2010-2019",
+    "event": "The investigation stalls; cell records place Bumpass's phone near East Fork Lake, contradicting his account, but no body is found."
+   },
+   {
+    "date": "March 22, 2020",
+    "event": "A deer hunter finds a burned human skull in the woods near State Route 276 in Clermont County, Ohio."
+   },
+   {
+    "date": "March 24, 2020",
+    "event": "The remains are identified as Paige Johnson through dental records."
+   },
+   {
+    "date": "July 29, 2020",
+    "event": "Jacob Bumpass is indicted on charges of tampering with evidence and abuse of a corpse."
+   },
+   {
+    "date": "July 2023",
+    "event": "A jury finds Bumpass guilty on both counts."
+   },
+   {
+    "date": "September 7, 2023",
+    "event": "Bumpass is sentenced to four years in prison, the maximum for the charges; cause of death remains undetermined."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "patricia-meehan-1989",
+  "name": "Patricia Bernadette Meehan",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 1989,
+  "date": "April 20, 1989",
+  "state": "Montana",
+  "city": "Circle",
+  "age": 37,
+  "gender": "Female",
+  "summary": "Patricia Meehan, 37, walked away on foot into the Montana prairie after causing a head-on car crash near Circle on April 20, 1989, and was never seen again. Thousands of alleged sightings were reported across the country in the years that followed, but none led to her. Her disappearance remains unsolved.",
+  "lastSeen": "April 20, 1989, walking away from a car crash on Montana Highway 200 near Circle, Montana",
+  "tags": [
+   "missing person",
+   "car crash",
+   "walkaway",
+   "thousands of sightings",
+   "Unsolved Mysteries",
+   "Montana"
+  ],
+  "sources": [
+   {
+    "title": "Patricia Bernadette Meehan - The Charley Project",
+    "url": "https://charleyproject.org/case/patricia-bernadette-meehan"
+   },
+   {
+    "title": "Disappearance of Patricia Meehan - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Patricia_Meehan"
+   },
+   {
+    "title": "The Unsolved Disappearance Of Patricia Meehan In Montana - Max Country",
+    "url": "https://945maxcountry.com/patricia-meehan-missing-case/"
+   },
+   {
+    "title": "Patricia Meehan, The Woman Who Vanished After A Car Crash In 1989 - All That's Interesting",
+    "url": "https://allthatsinteresting.com/patricia-meehan"
+   }
+  ],
+  "narrative": [
+   "Patricia Bernadette Meehan, born November 1, 1951, was a 37-year-old woman who had been living in Montana, roughly 400 miles from the eastern part of the state where she disappeared. In the period before April 1989 she had reportedly been experiencing significant psychological distress; she had scheduled an appointment with a psychologist and had expressed a wish to return to her parents' home in Pennsylvania. A slight woman, about five feet three inches tall with blonde hair and a fair, freckled complexion, she gave little outward warning of what would become one of Montana's strangest and most enduring missing-persons mysteries.",
+   "On the evening of April 20, 1989, Patricia was driving northwest on Montana Highway 200 near the small town of Circle when her car crossed the center line and struck another vehicle head-on. Witnesses to the aftermath described an unsettling scene. Patricia climbed from the wreckage, walked toward the driver of the other car, and stared blankly, as one witness put it, as though looking right through her, without speaking. Rather than waiting for help, she then turned, climbed over a fence beside the road, and walked off into the open prairie, vanishing into the darkness. She appeared dazed and disoriented, and no one stopped her.",
+   "Searchers found a trail of tennis-shoe prints leading roughly three-quarters of a mile from the crash site, which they believed were hers, before the tracks faded into the terrain. Despite an extensive search of the sparsely populated countryside, no further trace of Patricia was found, and her presence in that remote area was itself unexplained given how far it was from her home. Investigators could not determine whether she had died in the wilderness, deliberately walked away from her life, or met with foul play after leaving the scene.",
+   "In the months and years after her disappearance, the case took an extraordinary turn: more than 5,000 reported sightings of Patricia Meehan poured in from across the United States. Based on photographs and videotapes, her parents verified sightings in states including Montana, Washington, South Dakota, and Minnesota, and several were confirmed as credible by police, yet not one ever led investigators to her. The case gained national attention when it was featured on the television program Unsolved Mysteries, prompting still more reported sightings. Decades later, none of the leads has been resolved, and Patricia has never been located. The sheer volume and geographic spread of the reported sightings, some hundreds of miles apart and years after she disappeared, only deepened the mystery, raising the possibility that she survived the crash and quietly built a new life somewhere far from Montana. Others have feared she perished in the vast, unforgiving terrain the night she walked away, her remains simply never found. Her case, handled by McCone County authorities, remains open and unsolved, an enduring puzzle of a disoriented woman who stepped out of a car wreck and simply walked into the darkness, only to seemingly reappear thousands of times across the country without ever truly being found."
+  ],
+  "timeline": [
+   {
+    "date": "November 1, 1951",
+    "event": "Patricia Bernadette Meehan is born; she later lives in Montana, about 400 miles from where she disappears."
+   },
+   {
+    "date": "Before April 1989",
+    "event": "Patricia reportedly experiences psychological distress, schedules a psychologist appointment, and expresses a wish to return to her parents' home in Pennsylvania."
+   },
+   {
+    "date": "April 20, 1989",
+    "event": "Driving on Highway 200 near Circle, Montana, Patricia crosses the center line and causes a head-on crash. She climbs from the wreckage, stares blankly at the other driver, then climbs a fence and walks into the prairie."
+   },
+   {
+    "date": "April 1989",
+    "event": "Searchers follow her tennis-shoe prints about three-quarters of a mile before the trail fades; no further trace is found."
+   },
+   {
+    "date": "1989-1991",
+    "event": "More than 5,000 alleged sightings of Patricia are reported across the U.S.; her parents verify several in Montana, Washington, South Dakota, and Minnesota, but none lead to her."
+   },
+   {
+    "date": "Ongoing",
+    "event": "The case is featured on Unsolved Mysteries and remains open and unsolved with McCone County authorities."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "tiffany-whitton-2013",
+  "name": "Tiffany Michelle Whitton",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2013,
+  "date": "September 13, 2013",
+  "state": "Georgia",
+  "city": "Marietta",
+  "age": 26,
+  "gender": "Female",
+  "summary": "Tiffany Whitton, a 26-year-old mother, was last seen on security video running barefoot out of a Walmart in Marietta, Georgia, in the early hours of September 13, 2013, after a suspected shoplifting incident. She left behind her purse and shoes and has never been found. Her boyfriend, Ashley Caudle, remains a person of interest.",
+  "lastSeen": "September 13, 2013, around 2:04 a.m., fleeing a Walmart Supercenter on Cobb Parkway (U.S. 41) in Marietta, Georgia",
+  "tags": [
+   "missing person",
+   "foul play suspected",
+   "person of interest",
+   "drug addiction",
+   "young mother",
+   "Georgia"
+  ],
+  "sources": [
+   {
+    "title": "Tiffany Michelle Whitton - The Charley Project",
+    "url": "https://charleyproject.org/case/tiffany-michelle-whitton"
+   },
+   {
+    "title": "Disappearance of Tiffany Whitton - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Tiffany_Whitton"
+   },
+   {
+    "title": "Tiffany Whitton ran from a Georgia Walmart and disappeared - NewsNation",
+    "url": "https://www.newsnationnow.com/missing/tiffany-whitton/"
+   }
+  ],
+  "narrative": [
+   "Tiffany Michelle Whitton was born on January 30, 1987, and was a 26-year-old mother of a young daughter living in the Marietta and Powder Springs area of suburban Atlanta. By 2013 her life had grown chaotic: she was jobless, struggling with addiction to heroin and methamphetamine, had a criminal record, and was in a turbulent relationship with her boyfriend, Ashley \"Red\" Caudle. Friends and family later said the couple fought frequently and intensely, at one point being evicted from a residence over their conflicts. The circumstances of her disappearance were captured in unusual detail on store surveillance video, yet more than a decade later almost nothing is known about what became of her afterward.",
+   "On the night of September 12, 2013, Whitton and Caudle went to a friend's house and used drugs. Shortly after midnight on September 13, they borrowed a truck and drove to a Walmart Supercenter on Cobb Parkway, U.S. Route 41, in Marietta. Loss prevention officers watched on camera as the couple wandered the store with a shopping cart, and Whitton appeared to be under the influence. When employees suspected her of shoplifting and moved to confront her near the exit, a brief struggle ensued and she broke free, fleeing barefoot into the parking lot around 2:04 a.m. She left behind her purse and shoes and ran out of range of the security cameras. That footage is the last confirmed record of Tiffany Whitton.",
+   "From the outset investigators suspected foul play, and attention centered on Ashley Caudle, who was with her that night. Caudle claimed to have no knowledge of what happened to her, but police said he made false statements about his actions that evening and was agitated and angry about the situation at the store, behavior evident on the Walmart video. He has consistently denied involvement while remaining the primary person of interest. In 2015, Caudle pleaded guilty to unrelated charges of possessing methamphetamine with intent to distribute and possessing a firearm as a convicted felon, and was sentenced to ten to twenty years in prison, a term the judge reportedly linked in part to a belief that he was not cooperating fully in the Whitton investigation.",
+   "The Marietta Police Department pursued numerous leads over the years. Roughly ten months after the disappearance, investigators searched and excavated the backyard of Caudle's mother's home but found no significant evidence, and later efforts included sonar searches of area waters such as Lake Allatoona. None produced a trace of Tiffany. Her mother has publicly stated her belief that Caudle knows what happened, though authorities have never gathered enough evidence to bring charges. The case drew wider notice through national media coverage examining why missing-persons cases like hers often receive limited attention. More than a decade after she ran out of that Walmart, Tiffany Whitton remains missing, and her disappearance is unsolved."
+  ],
+  "timeline": [
+   {
+    "date": "September 12, 2013",
+    "event": "Tiffany Whitton and boyfriend Ashley Caudle use drugs at a friend's house."
+   },
+   {
+    "date": "September 13, 2013 (after midnight)",
+    "event": "The couple drives a borrowed truck to a Walmart on Cobb Parkway in Marietta; Whitton is suspected of shoplifting."
+   },
+   {
+    "date": "September 13, 2013, ~2:04 a.m.",
+    "event": "Whitton breaks free from loss prevention officers and flees barefoot into the parking lot, leaving her purse and shoes; she runs out of camera range and is never seen again."
+   },
+   {
+    "date": "2014",
+    "event": "Investigators search and excavate the backyard of Caudle's mother's home but find no significant evidence."
+   },
+   {
+    "date": "2015",
+    "event": "Ashley Caudle pleads guilty to unrelated meth and firearm charges and is sentenced to 10-20 years; he remains a person of interest in Whitton's disappearance."
+   },
+   {
+    "date": "Ongoing",
+    "event": "The Marietta Police Department pursues additional leads, including sonar searches of area waters; Whitton is never found and the case remains unsolved."
+   }
+  ],
+  "enriched": true
  }
 ]
