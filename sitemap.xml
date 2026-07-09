@@ -313,6 +313,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/washington-dc/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/west-virginia/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -362,6 +368,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/alexis-patterson/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/aliayah-lunsford-2011/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2318,6 +2330,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/thomas-wales/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/timmothy-pitzen-2011/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

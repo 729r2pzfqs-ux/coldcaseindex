@@ -24816,5 +24816,162 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "aliayah-lunsford-2011",
+  "name": "Aliayah Paige Lunsford",
+  "type": "Missing Person",
+  "status": "Conviction",
+  "year": 2011,
+  "date": "September 24, 2011",
+  "state": "West Virginia",
+  "city": "Weston",
+  "age": 3,
+  "gender": "Female",
+  "summary": "Aliayah Paige Lunsford, a 3-year-old girl, was reported missing on September 24, 2011, from her home in Weston, West Virginia. Her mother, Lena Lunsford, was convicted of murdering the child in 2018, but Aliayah's body has never been recovered.",
+  "lastSeen": "September 24, 2011, at her home in Weston, Lewis County, West Virginia",
+  "tags": [
+   "missing person",
+   "west virginia",
+   "weston",
+   "child",
+   "homicide",
+   "conviction",
+   "2011"
+  ],
+  "sources": [
+   {
+    "title": "Aliayah Paige Lunsford – The Charley Project",
+    "url": "https://charleyproject.org/case/aliayah-paige-lunsford"
+   },
+   {
+    "title": "Aliayah Lunsford missing: Mother of West Virginia girl charged – CBS News",
+    "url": "https://www.cbsnews.com/news/aliayah-lunsford-missing-west-virginia-mother-charged/"
+   },
+   {
+    "title": "Nearly 2,400 days after Aliayah Lunsford's disappearance, the trial of Lena Lunsford begins – WV MetroNews",
+    "url": "https://wvmetronews.com/2018/04/15/nearly-2400-days-after-aliayah-lunsfords-disappearance-the-trial-of-lena-lunsford-begins-monday/"
+   },
+   {
+    "title": "Aliayah Paige Lunsford – NamUs MP12461",
+    "url": "https://namus.nij.ojp.gov/case/MP12461"
+   }
+  ],
+  "narrative": [
+   "Aliayah Paige Lunsford was a three-year-old girl living in Weston, in Lewis County, West Virginia. On the evening of September 23, 2011, she was said to be sick with flu-like symptoms, including vomiting. According to her mother, Lena Marie Lunsford, Aliayah was asleep in bed when she checked on her at 6:30 the next morning, September 24, but was gone when she checked again around 9:00 a.m.",
+   "Lena did not report Aliayah missing until about 11:30 a.m., roughly five hours after the child was said to have last been seen and more than two hours after Lena claimed to have realized she was gone. There were no signs of forced entry to the home. An extensive search of the surrounding area, including a nearby river, turned up no trace of the little girl, and a large volunteer and law-enforcement effort followed in the days and weeks afterward.",
+   "From early on, inconsistencies in the family's account drew scrutiny to Lena Lunsford's story of an overnight abduction. Investigators came to believe there had been no kidnapping at all. In November 2016, more than five years after Aliayah disappeared, Lena was arrested at her home in St. Petersburg, Florida, and charged in connection with the child's death, accused of fabricating the kidnapping story and concealing evidence.",
+   "Lena Lunsford's trial began in April 2018. Testimony from Aliayah's older sisters described how their mother had struck Aliayah in the head with a wooden bed slat, after which the toddler became unresponsive and was never given medical care. Prosecutors argued the child died from her injuries around September 23, 2011, and that her body was then disposed of. In April 2018 a jury convicted Lena of murder of a child by a parent, along with related child-abuse and false-report charges, and she was sentenced to life in prison plus additional years.",
+   "Despite the conviction, Aliayah Lunsford's body has never been recovered, and she remains listed as a missing person even though authorities believe she was killed. Her mother's appeals of the conviction have been pursued in the years since. The case stands as one in which a perpetrator was tried and convicted while the victim herself was never found, leaving the recovery of Aliayah's remains as the outstanding question."
+  ],
+  "timeline": [
+   {
+    "date": "September 23, 2011",
+    "event": "Aliayah, 3, is reportedly ill with flu-like symptoms at her home in Weston, West Virginia."
+   },
+   {
+    "date": "September 24, 2011",
+    "event": "Her mother says she last saw Aliayah asleep at 6:30 a.m. and found her gone around 9:00 a.m."
+   },
+   {
+    "date": "September 24, 2011",
+    "event": "Lena Lunsford reports the child missing at about 11:30 a.m.; searches find no sign of her."
+   },
+   {
+    "date": "September–October 2011",
+    "event": "A large search effort covers the area, including a nearby river, without result; investigators grow suspicious of the family's account."
+   },
+   {
+    "date": "November 2016",
+    "event": "Lena Lunsford is arrested in St. Petersburg, Florida, and charged in Aliayah's death."
+   },
+   {
+    "date": "April 2018",
+    "event": "Lena is convicted of murder of a child by a parent and related charges and sentenced to life in prison plus additional years."
+   },
+   {
+    "date": "Present",
+    "event": "Aliayah's body has never been found; she remains listed as missing despite the murder conviction."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "timmothy-pitzen-2011",
+  "name": "Timmothy Pitzen",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2011,
+  "date": "May 11, 2011",
+  "state": "Illinois",
+  "city": "Aurora",
+  "age": 6,
+  "gender": "Male",
+  "summary": "Six-year-old Timmothy Pitzen vanished after his mother pulled him out of school in Aurora, Illinois, and took him on a multi-day trip before dying by suicide. She left a note saying the boy was safe with people who would care for him, and he has never been found.",
+  "lastSeen": "May 13, 2011, at the Kalahari Resort in Wisconsin Dells, Wisconsin",
+  "tags": [
+   "missing child",
+   "Illinois",
+   "unsolved",
+   "parental abduction",
+   "cold case",
+   "suicide note"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Timmothy Pitzen - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Timmothy_Pitzen"
+   },
+   {
+    "title": "Teen claims to be Timmothy Pitzen, the Illinois 6-year-old who went missing in 2011 - ABC News",
+    "url": "https://abcnews.go.com/US/teen-claims-timmothy-pitzen-illinois-year-missing-2011/story?id=62143057"
+   },
+   {
+    "title": "Timmothy Pitzen Case: What We Know So Far - NBC Chicago",
+    "url": "https://www.nbcchicago.com/news/local/timmothy-pitzen-case-what-we-know-so-far-2/3002759/"
+   },
+   {
+    "title": "The Search for Timmothy Pitzen: New NCMEC Image",
+    "url": "https://www.missingkids.org/blog/2024/search-for-timmothy-pitzen-new-image"
+   },
+   {
+    "title": "Aurora, Illinois, native Timmothy Pitzen has been missing for years - NewsNation",
+    "url": "https://www.newsnationnow.com/missing/timmothy-pitzen-aurora-illinois-missing-boy-anniversary/"
+   }
+  ],
+  "narrative": [
+   "On the morning of May 11, 2011, Timmothy James Pitzen was dropped off at Greenman Elementary School in Aurora, Illinois, by his father. Shortly afterward, his mother, Amy Fry-Pitzen, signed him out of school, telling staff there was a family emergency. Instead of an emergency, she took her six-year-old son on a road trip through the Midwest, visiting the Brookfield Zoo near Chicago and then two water parks in Wisconsin.",
+   "Surveillance footage and receipts traced their movements over the next two days. The pair stayed at the Kalahari Resort in Wisconsin Dells, where Timmothy was last captured on security video at the checkout line around 10:00 a.m. on May 13, 2011. That was the final confirmed sighting of the boy. Amy Fry-Pitzen then drove south, making purchases and stops in Illinois before checking into a motel in the Rockford area.",
+   "On May 14, 2011, a housekeeper found Amy Fry-Pitzen dead in a Rockford Inn room. She had died by suicide. She left a note stating that Timmothy was safe with people who would love and care for him, and that he would never be found. The note offered no names, locations, or other details that would allow investigators to trace where she had left him. Timmothy was not with her, and his car seat and some of his belongings were missing.",
+   "The disappearance touched off an extensive search, but investigators were unable to establish who, if anyone, was caring for the boy or whether the note was truthful. Amy Fry-Pitzen had traveled through areas that authorities examined closely, and numerous tips and theories emerged over the years, none of which led to Timmothy. In 2019, a young man in Ohio falsely claimed to be Timmothy; DNA testing quickly disproved the claim, underscoring how the case continued to draw attention.",
+   "More than a decade later, the case remains unsolved. Timmothy's father and other relatives have continued to appeal for information, and the National Center for Missing & Exploited Children has periodically released age-progressed images showing how he might look as a young adult. Authorities have never recovered Timmothy or confirmed his fate, and the question posed by his mother's note, whether he is alive and living with another family, has never been answered."
+  ],
+  "timeline": [
+   {
+    "date": "May 11, 2011",
+    "event": "Amy Fry-Pitzen signs Timmothy out of his Aurora, Illinois elementary school and leaves with him."
+   },
+   {
+    "date": "May 11-12, 2011",
+    "event": "Mother and son visit the Brookfield Zoo and travel to water parks in Wisconsin."
+   },
+   {
+    "date": "May 13, 2011",
+    "event": "Timmothy is last seen on surveillance video at the Kalahari Resort in Wisconsin Dells around 10:00 a.m."
+   },
+   {
+    "date": "May 14, 2011",
+    "event": "Amy Fry-Pitzen is found dead by suicide at a motel in the Rockford, Illinois area, leaving a note saying Timmothy is safe but will never be found."
+   },
+   {
+    "date": "2019",
+    "event": "A young man in Ohio falsely claims to be Timmothy Pitzen; DNA testing disproves the claim."
+   },
+   {
+    "date": "2024",
+    "event": "The National Center for Missing & Exploited Children releases a new age-progressed image; the case remains unsolved."
+   }
+  ],
+  "enriched": true
  }
 ]
