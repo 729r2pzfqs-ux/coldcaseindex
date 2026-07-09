@@ -61200,5 +61200,2150 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "natalee-holloway-suspect-2023",
+    "name": "Natalee Holloway (confession)",
+    "type": "Missing Person",
+    "status": "Solved",
+    "year": 2023,
+    "date": "October 18, 2023",
+    "state": "Alabama",
+    "city": "Birmingham",
+    "age": 18,
+    "gender": "Female",
+    "summary": "Joran van der Sloot was extradited from Peru and pleaded guilty to extorting Natalee Holloway's family. He admitted for the first time that he killed Natalee in Aruba in 2005.",
+    "lastSeen": "May 30, 2005, Aruba",
+    "tags": [
+      "missing person",
+      "Alabama",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Natalee Holloway case resolution - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Natalee_Holloway"
+      },
+      {
+        "title": "Van der Sloot guilty plea - CNN",
+        "url": "https://www.cnn.com/2023/10/18/us/joran-van-der-sloot-natalee-holloway-plea/index.html"
+      },
+      {
+        "title": "Van der Sloot extradition - NBC",
+        "url": "https://www.nbcnews.com/news/us-news/joran-van-der-sloot-natalee-holloway/"
+      }
+    ],
+    "narrative": [
+      "In October 2023, Joran van der Sloot was temporarily extradited from Peru, where he was serving a 28-year sentence for murdering Stephany Flores, to face charges in the United States.",
+      "Van der Sloot pleaded guilty to extortion and wire fraud for taking $25,000 from Natalee Holloway's mother Beth in 2010 in exchange for information about Natalee's remains—information that turned out to be false.",
+      "During the plea hearing, van der Sloot admitted for the first time that he killed Natalee Holloway on a beach in Aruba on May 30, 2005, and disposed of her body in the ocean.",
+      "He was sentenced to 20 years in U.S. federal prison, to be served after his Peruvian sentence. Beth Holloway finally received the closure she had sought for 18 years."
+    ],
+    "timeline": [
+      {
+        "date": "2005-05-30",
+        "event": "Natalee Holloway disappears in Aruba."
+      },
+      {
+        "date": "2023-10-18",
+        "event": "Van der Sloot confesses to killing Natalee."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "david-carrick-met-police-2023",
+    "name": "David Carrick Victims",
+    "type": "Serial Rape",
+    "status": "Solved",
+    "year": 2023,
+    "date": "January 16, 2023",
+    "state": "United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Female",
+    "summary": "Metropolitan Police officer David Carrick pleaded guilty to 49 offenses including 24 rapes against 12 women over 17 years. He used his status as a police officer to prey on victims.",
+    "lastSeen": "Various dates, Hertfordshire and London, England",
+    "tags": [
+      "serial rape",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "David Carrick case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-beds-bucks-herts-david-carrick"
+      },
+      {
+        "title": "Carrick sentencing - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/david-carrick"
+      },
+      {
+        "title": "Met Police failures - Sky News",
+        "url": "https://news.sky.com/story/david-carrick-met-police/"
+      }
+    ],
+    "narrative": [
+      "David Carrick, a Metropolitan Police officer for 20 years, pleaded guilty in January 2023 to 49 offenses including 24 rapes against 12 women committed between 2003 and 2020.",
+      "Carrick used his position as a police officer to gain women's trust before controlling, manipulating, and sexually assaulting them. Some victims said they didn't report him because he was a police officer.",
+      "He was sentenced to a minimum of 30 years in prison. The case, coming after the Sarah Everard murder, further damaged public trust in the Metropolitan Police.",
+      "An internal review found that nine opportunities to investigate Carrick had been missed. The Met Police faced intense scrutiny over its vetting and complaints processes."
+    ],
+    "timeline": [
+      {
+        "date": "2023-01-16",
+        "event": "Carrick pleads guilty to 49 offenses."
+      },
+      {
+        "date": "2023-02-07",
+        "event": "Sentenced to minimum 30 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "karen-read-2024",
+    "name": "John O'Keefe (Karen Read)",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2022,
+    "date": "January 29, 2022",
+    "state": "Massachusetts",
+    "city": "Canton",
+    "age": 46,
+    "gender": "Male",
+    "summary": "Boston police officer John O'Keefe was found dead outside a home in Canton, Massachusetts. His girlfriend Karen Read was charged with murder. Her first trial ended in mistrial. Supporters claim she's being framed.",
+    "lastSeen": "January 29, 2022, Canton, Norfolk County, Massachusetts",
+    "tags": [
+      "homicide",
+      "Massachusetts",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Karen Read case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_John_O%27Keefe"
+      },
+      {
+        "title": "Read trial - Boston Globe",
+        "url": "https://www.bostonglobe.com/metro/karen-read/"
+      },
+      {
+        "title": "Mistrial - CNN",
+        "url": "https://www.cnn.com/2024/07/01/us/karen-read-mistrial/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 29, 2022, Boston police officer John O'Keefe, 46, was found dead in the snow outside a house in Canton, Massachusetts. He had injuries to his head and arm.",
+      "His girlfriend Karen Read was charged with second-degree murder. Prosecutors alleged she struck O'Keefe with her SUV and left him to die in a snowstorm after a night of drinking.",
+      "Read's defense argued she was being framed by law enforcement and that O'Keefe was killed inside the house during an altercation, then moved outside. The theory gained massive public support.",
+      "Her first trial in 2024 ended in a mistrial after the jury deadlocked. The case has become one of the most divisive in Massachusetts legal history, with passionate supporters on both sides."
+    ],
+    "timeline": [
+      {
+        "date": "2022-01-29",
+        "event": "John O'Keefe found dead."
+      },
+      {
+        "date": "2024-07-01",
+        "event": "Karen Read's first trial ends in mistrial."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "bryan-kohberger-2022",
+    "name": "Idaho Student Murders",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2022,
+    "date": "November 13, 2022",
+    "state": "Idaho",
+    "city": "Moscow",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Four University of Idaho students were stabbed to death in their off-campus home. Bryan Kohberger, a WSU criminology PhD student, was arrested. He pleaded guilty to all four murders in 2025.",
+    "lastSeen": "November 13, 2022, King Road residence, Moscow, Latah County, Idaho",
+    "tags": [
+      "homicide",
+      "Idaho",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "University of Idaho murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2022_University_of_Idaho_killings"
+      },
+      {
+        "title": "Kohberger arrest - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/bryan-kohberger-idaho-students/"
+      },
+      {
+        "title": "Case details - CNN",
+        "url": "https://www.cnn.com/us/idaho-student-killings/index.html"
+      }
+    ],
+    "narrative": [
+      "On November 13, 2022, four University of Idaho students were stabbed to death in their off-campus home on King Road in Moscow, Idaho. The victims were Kaylee Goncalves (21), Madison Mogen (21), Xana Kernodle (20), and Ethan Chapin (20).",
+      "Two other roommates were in the house and survived unharmed, apparently sleeping through the attacks. The case generated massive national attention and online speculation.",
+      "Bryan Kohberger, 28, a criminology PhD student at nearby Washington State University, was arrested on December 30, 2022. Cell phone data placed him at the scene, and DNA on a knife sheath matched his profile.",
+      "Kohberger initially maintained his innocence. In 2025, he changed his plea to guilty on all four counts of first-degree murder. He was sentenced to life without parole."
+    ],
+    "timeline": [
+      {
+        "date": "2022-11-13",
+        "event": "Four Idaho students murdered."
+      },
+      {
+        "date": "2022-12-30",
+        "event": "Bryan Kohberger arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "riley-strain-2024",
+    "name": "Riley Strain",
+    "type": "Accidental Death",
+    "status": "Solved",
+    "year": 2024,
+    "date": "March 8, 2024",
+    "state": "Tennessee",
+    "city": "Nashville",
+    "age": 22,
+    "gender": "Male",
+    "summary": "University of Missouri senior Riley Strain disappeared on Nashville's Broadway after being kicked out of a bar. His body was found in the Cumberland River two weeks later. His death was ruled accidental drowning.",
+    "lastSeen": "March 8, 2024, Broadway, Nashville, Davidson County, Tennessee",
+    "tags": [
+      "accidental death",
+      "Tennessee",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Riley Strain case - WKRN Nashville",
+        "url": "https://www.wkrn.com/news/riley-strain/"
+      },
+      {
+        "title": "Strain disappearance - People",
+        "url": "https://people.com/crime/riley-strain-missing-nashville/"
+      },
+      {
+        "title": "Body found - CNN",
+        "url": "https://www.cnn.com/2024/03/22/us/riley-strain-body-found/index.html"
+      }
+    ],
+    "narrative": [
+      "On March 8, 2024, Riley Strain, a 22-year-old University of Missouri senior, disappeared during a night out on Broadway in Nashville, Tennessee. He was asked to leave Luke Bryan's bar after appearing intoxicated.",
+      "CCTV footage tracked Strain walking toward the Cumberland River. His bank card and phone were found near the riverbank.",
+      "After a two-week search that drew national attention, Strain's body was found in the Cumberland River on March 22, about eight miles downstream from where he was last seen.",
+      "The medical examiner ruled his death an accidental drowning with acute alcohol intoxication as a contributing factor. The case highlighted the dangers of Nashville's riverside bar district."
+    ],
+    "timeline": [
+      {
+        "date": "2024-03-08",
+        "event": "Riley Strain disappears on Nashville Broadway."
+      },
+      {
+        "date": "2024-03-22",
+        "event": "His body found in Cumberland River."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "chad-daybell-2024",
+    "name": "Chad Daybell",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "May 30, 2024",
+    "state": "Idaho",
+    "city": "Boise",
+    "age": 55,
+    "gender": "Male",
+    "summary": "Chad Daybell was convicted of murdering his first wife Tammy, his new wife Lori Vallow's two children (JJ and Tylee), and conspiracy. He was sentenced to death.",
+    "lastSeen": "Various dates, Rexburg, Fremont County, Idaho",
+    "tags": [
+      "homicide",
+      "Idaho",
+      "2020s",
+      "death penalty",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Chad Daybell trial - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chad_Daybell"
+      },
+      {
+        "title": "Daybell verdict - East Idaho News",
+        "url": "https://www.eastidahonews.com/chad-daybell/"
+      },
+      {
+        "title": "Death sentence - CNN",
+        "url": "https://www.cnn.com/2024/05/30/us/chad-daybell-verdict/index.html"
+      }
+    ],
+    "narrative": [
+      "Chad Daybell, a doomsday-focused author, was convicted in May 2024 of murdering his first wife Tammy Daybell, and his new wife Lori Vallow Daybell's two children—JJ Vallow (7) and Tylee Ryan (16).",
+      "Daybell killed Tammy on October 19, 2019, staging it to look like natural causes. He married Lori just two weeks later. JJ and Tylee had been missing since September 2019.",
+      "The children's remains were found buried on Daybell's property in June 2020. Tylee's body had been burned. The case was intertwined with bizarre religious beliefs about zombies and the apocalypse.",
+      "Daybell was found guilty of all charges and sentenced to death. His wife Lori had previously been convicted and sentenced to life without parole."
+    ],
+    "timeline": [
+      {
+        "date": "2019-10-19",
+        "event": "Tammy Daybell killed."
+      },
+      {
+        "date": "2024-05-30",
+        "event": "Chad Daybell convicted; sentenced to death."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gilgo-beach-suspect-2023",
+    "name": "Gilgo Beach (Rex Heuermann)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2023,
+    "date": "July 13, 2023",
+    "state": "New York",
+    "city": "Massapequa Park",
+    "age": 59,
+    "gender": "Male",
+    "summary": "Rex Heuermann, an NYC architect, was arrested and charged as the Gilgo Beach serial killer. DNA and phone data linked him to the murders of at least four women whose remains were found on Long Island.",
+    "lastSeen": "July 13, 2023, Massapequa Park, Nassau County, New York",
+    "tags": [
+      "serial killer",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Gilgo Beach murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gilgo_Beach_murders"
+      },
+      {
+        "title": "Heuermann arrest - Newsday",
+        "url": "https://www.newsday.com/long-island/gilgo-beach-murders/"
+      },
+      {
+        "title": "Heuermann charged - CNN",
+        "url": "https://www.cnn.com/2023/07/14/us/gilgo-beach-murders-suspect-arrested/index.html"
+      }
+    ],
+    "narrative": [
+      "On July 13, 2023, Rex Heuermann, 59, a New York City architect living in Massapequa Park, Long Island, was arrested and charged with three murders linked to the Gilgo Beach serial killings.",
+      "Between 2007 and 2011, the remains of 10 people were discovered along Ocean Parkway near Gilgo Beach on Long Island's South Shore. The case went unsolved for over a decade.",
+      "Heuermann was identified through a combination of cell phone data, burner phone records, and DNA evidence—specifically, genetic material linked to him through a family member.",
+      "He was initially charged with killing three of the 'Gilgo Four'—Melissa Barthelemy, Megan Waterman, and Amber Costello. A fourth count for Maureen Brainard-Barnes was later added. Investigation into additional victims continues."
+    ],
+    "timeline": [
+      {
+        "date": "2010-12-11",
+        "event": "First Gilgo Beach remains discovered."
+      },
+      {
+        "date": "2023-07-13",
+        "event": "Rex Heuermann arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gabby-petito-domestic-violence",
+    "name": "Gabby Petito (domestic violence context)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2021,
+    "date": "August 27, 2021",
+    "state": "Wyoming",
+    "city": "Spread Creek",
+    "age": 22,
+    "gender": "Female",
+    "summary": "The Gabby Petito case highlighted systemic failures in law enforcement response to domestic violence. A Moab, Utah police stop weeks before her murder failed to recognize her as a DV victim.",
+    "lastSeen": "August 27, 2021, Spread Creek Dispersed Camping Area, Bridger-Teton, Wyoming",
+    "tags": [
+      "homicide",
+      "domestic violence",
+      "Wyoming",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Gabby Petito domestic violence response - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gabby_Petito"
+      },
+      {
+        "title": "Moab police response - Deseret News",
+        "url": "https://www.deseret.com/gabby-petito-moab-police/"
+      },
+      {
+        "title": "DV reform - AP News",
+        "url": "https://apnews.com/article/gabby-petito-domestic-violence/"
+      }
+    ],
+    "narrative": [
+      "On August 12, 2021, police in Moab, Utah pulled over Brian Laundrie and Gabby Petito after a 911 caller reported a man slapping a woman. Officers separated the couple and identified Gabby as the aggressor.",
+      "Body camera footage showed Gabby crying and in distress. Officers did not arrest anyone and allowed the couple to separate for the night. An independent review later found the officers made 'several unintentional mistakes.'",
+      "Two weeks later, Gabby was dead—strangled by Laundrie in a remote Wyoming campsite. Laundrie fled to Florida and died by suicide in a nature reserve.",
+      "The case prompted nationwide scrutiny of how police handle domestic violence calls. Two Moab officers were disciplined. Multiple states passed 'Gabby Petito laws' improving DV response protocols."
+    ],
+    "timeline": [
+      {
+        "date": "2021-08-12",
+        "event": "Moab police stop; Gabby identified as 'aggressor.'"
+      },
+      {
+        "date": "2021-08-27",
+        "event": "Gabby Petito murdered by Laundrie."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sarah-boone-2020",
+    "name": "Jorge Torres Jr.",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "February 24, 2020",
+    "state": "Florida",
+    "city": "Winter Park",
+    "age": 42,
+    "gender": "Male",
+    "summary": "Sarah Boone zipped her boyfriend Jorge Torres Jr. into a suitcase during a drinking game and left him to die. She recorded video of him begging to be let out. She was convicted of second-degree murder.",
+    "lastSeen": "February 24, 2020, their apartment, Winter Park, Orange County, Florida",
+    "tags": [
+      "homicide",
+      "Florida",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Sarah Boone case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sarah_Boone_(criminal)"
+      },
+      {
+        "title": "Boone trial - Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/crime/sarah-boone/"
+      },
+      {
+        "title": "Suitcase death - CNN",
+        "url": "https://www.cnn.com/2024/sarah-boone-suitcase-murder/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 24, 2020, Sarah Boone called 911 saying she found her boyfriend Jorge Torres Jr., 42, dead inside a suitcase at their apartment in Winter Park, Florida.",
+      "Boone told police they had been playing a drinking game of hide-and-seek. She claimed she zipped Jorge into a suitcase as a joke and fell asleep, forgetting he was inside.",
+      "However, videos on Boone's phone showed Torres calling out and begging to be released while Boone laughed and refused to let him out. She told him 'that's what you get.'",
+      "Boone went through 15 different attorneys before trial. She was convicted of second-degree murder in 2024."
+    ],
+    "timeline": [
+      {
+        "date": "2020-02-24",
+        "event": "Jorge Torres Jr. dies inside a suitcase."
+      },
+      {
+        "date": "2024-10-22",
+        "event": "Sarah Boone convicted of second-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "cleo-smith-2021",
+    "name": "Cleo Smith (rescue)",
+    "type": "Kidnapping",
+    "status": "Solved",
+    "year": 2021,
+    "date": "October 16, 2021",
+    "state": "Australia",
+    "city": "Carnarvon",
+    "country": "Australia",
+    "age": 4,
+    "gender": "Female",
+    "summary": "Four-year-old Cleo Smith was abducted from her family's tent at a campsite in Western Australia. She was found alive 18 days later in a locked house. Terence Kelly pleaded guilty to child stealing.",
+    "lastSeen": "October 16, 2021, Blowholes campsite, Macleod, Western Australia",
+    "tags": [
+      "kidnapping",
+      "child",
+      "Australia",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Cleo Smith - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Cleo_Smith"
+      },
+      {
+        "title": "Cleo found - ABC Australia",
+        "url": "https://www.abc.net.au/news/cleo-smith-found/"
+      },
+      {
+        "title": "Kelly conviction - The Guardian",
+        "url": "https://www.theguardian.com/australia-news/cleo-smith"
+      }
+    ],
+    "narrative": [
+      "Four-year-old Cleo Smith vanished from her family's tent at the Blowholes campsite near Carnarvon, Western Australia on October 16, 2021. The tent zipper was open to a height she couldn't reach.",
+      "A massive search and investigation followed. Western Australia Police offered a $1 million reward. The case gripped Australia for 18 days.",
+      "On November 3, 2021, police broke into a locked house in Carnarvon and found Cleo alive and well. She said 'My name is Cleo' when officers entered.",
+      "Terence Darrell Kelly, 36, was arrested at the scene. He had taken Cleo and was playing with her and buying her toys. He pleaded guilty to child stealing and was sentenced to 13 years and 6 months."
+    ],
+    "timeline": [
+      {
+        "date": "2021-10-16",
+        "event": "Cleo Smith abducted from tent."
+      },
+      {
+        "date": "2021-11-03",
+        "event": "Cleo found alive; Kelly arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "constance-marten-2023",
+    "name": "Constance Marten & Mark Gordon",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "February 28, 2023",
+    "state": "United Kingdom",
+    "city": "Brighton",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Female",
+    "summary": "Constance Marten and Mark Gordon went on the run across England after their newborn baby died. The baby's body was found in a bag in Brighton. Both were convicted of manslaughter by gross negligence.",
+    "lastSeen": "January-February 2023, various locations across England",
+    "tags": [
+      "homicide",
+      "infant",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Constance Marten case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-constance-marten"
+      },
+      {
+        "title": "Baby Victoria found - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/constance-marten-mark-gordon"
+      },
+      {
+        "title": "Trial verdict - Sky News",
+        "url": "https://news.sky.com/story/constance-marten-mark-gordon/"
+      }
+    ],
+    "narrative": [
+      "In January 2023, aristocrat Constance Marten and her partner Mark Gordon went on the run across England. Marten had given birth in the back of a car and the couple avoided hospitals and authorities.",
+      "Their car was found abandoned and on fire on the M61 motorway. A nationwide manhunt followed as police grew increasingly concerned for the welfare of the newborn.",
+      "On February 28, 2023, Marten and Gordon were found on a park bench in Brighton. They did not have the baby. Police discovered the remains of baby Victoria in a bag in a shed nearby.",
+      "Both were convicted of manslaughter by gross negligence. Gordon was also convicted of perverting the course of justice. The baby had died from cold exposure within hours of birth."
+    ],
+    "timeline": [
+      {
+        "date": "2023-01-05",
+        "event": "Car found abandoned; manhunt begins."
+      },
+      {
+        "date": "2023-02-28",
+        "event": "Marten and Gordon found; baby's body discovered."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "letby-trial-2023",
+    "name": "Lucy Letby Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 2023,
+    "date": "August 18, 2023",
+    "state": "United Kingdom",
+    "city": "Chester",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Neonatal nurse Lucy Letby was convicted of murdering seven babies and attempting to murder six others at the Countess of Chester Hospital. She received a whole-life order.",
+    "lastSeen": "2015-2016, Countess of Chester Hospital, Chester, England",
+    "tags": [
+      "serial murder",
+      "infant",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Lucy Letby - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucy_Letby"
+      },
+      {
+        "title": "Letby trial - BBC",
+        "url": "https://www.bbc.com/news/uk-england-merseyside-lucy-letby"
+      },
+      {
+        "title": "Letby conviction - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/lucy-letby"
+      }
+    ],
+    "narrative": [
+      "Lucy Letby, a neonatal nurse at the Countess of Chester Hospital, was convicted in August 2023 of murdering seven babies and attempting to murder six others between June 2015 and June 2016.",
+      "Letby killed babies through methods including injecting air into their bloodstreams, poisoning them with insulin, overfeeding them with milk, and causing trauma. She targeted the most vulnerable premature infants.",
+      "Senior doctors had raised concerns about Letby in 2016 when they noticed a correlation between her shifts and unexplained baby deaths. Hospital management initially failed to act and ordered the doctors to apologize to Letby.",
+      "Letby was sentenced to a whole-life order—meaning she will never be released. The case led to a public inquiry (the Thirlwall Inquiry) into the hospital's failures. She was convicted of a further attempted murder at a retrial in 2024."
+    ],
+    "timeline": [
+      {
+        "date": "2020-11-10",
+        "event": "Letby arrested."
+      },
+      {
+        "date": "2023-08-18",
+        "event": "Convicted of 7 murders and 6 attempted murders; whole-life order."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "grace-millane-new-zealand-2018",
+    "name": "Grace Millane",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "December 1, 2018",
+    "state": "New Zealand",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "age": 22,
+    "gender": "Female",
+    "summary": "British backpacker Grace Millane was murdered by a man she met on Tinder in Auckland, New Zealand on her 22nd birthday. Jesse Kempson was convicted of murder.",
+    "lastSeen": "December 1, 2018, CityLife Hotel, Auckland, New Zealand",
+    "tags": [
+      "homicide",
+      "New Zealand",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Grace Millane - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Grace_Millane"
+      },
+      {
+        "title": "Millane case - NZ Herald",
+        "url": "https://www.nzherald.co.nz/grace-millane/"
+      },
+      {
+        "title": "Kempson conviction - BBC",
+        "url": "https://www.bbc.com/news/world-asia-grace-millane"
+      }
+    ],
+    "narrative": [
+      "Grace Millane, a 22-year-old British backpacker, was killed on December 1, 2018—her birthday—after a Tinder date in Auckland, New Zealand. She had been traveling the world after graduating from university.",
+      "Her date, Jesse Kempson, strangled her in his hotel room. He took intimate photos of her body, stuffed it in a suitcase, and buried it in a wooded area outside Auckland.",
+      "Kempson claimed Grace died accidentally during consensual rough sex. The jury rejected this defense. He was convicted of murder in November 2019.",
+      "Grace's father David gave an emotional press conference in Auckland. The case sparked a national conversation in New Zealand about violence against women. Kempson's name was initially suppressed under New Zealand law."
+    ],
+    "timeline": [
+      {
+        "date": "2018-12-01",
+        "event": "Grace Millane murdered in Auckland."
+      },
+      {
+        "date": "2019-11-22",
+        "event": "Kempson convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ivan-milat-backpacker-1990s",
+    "name": "Ivan Milat Victims (Backpacker Murders)",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1994,
+    "date": "September 1992",
+    "state": "Australia",
+    "city": "Belanglo",
+    "country": "Australia",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Ivan Milat murdered seven backpackers in the Belanglo State Forest south of Sydney. Their bodies were found in 1992-1993. Milat was convicted in 1996 and died in prison in 2019.",
+    "lastSeen": "1989-1992, Belanglo State Forest, New South Wales, Australia",
+    "tags": [
+      "serial killer",
+      "Australia",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Ivan Milat - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ivan_Milat"
+      },
+      {
+        "title": "Backpacker murders - ABC Australia",
+        "url": "https://www.abc.net.au/news/ivan-milat/"
+      },
+      {
+        "title": "Milat death - Sydney Morning Herald",
+        "url": "https://www.smh.com.au/national/ivan-milat-dies/"
+      }
+    ],
+    "narrative": [
+      "Between 1989 and 1992, Ivan Milat abducted and murdered seven backpackers—both local and international—in the Belanglo State Forest, about 150 km southwest of Sydney.",
+      "The victims' remains were discovered by orienteers in September 1992 and subsequent searches through 1993. All had been stabbed or shot, some multiple times. Several had been subjected to a prolonged ordeal.",
+      "Milat was arrested in 1994 after Paul Onions, a British backpacker who had escaped an abduction attempt in 1990, identified him. Evidence linking Milat to the victims was found at his home.",
+      "Milat was convicted of seven murders and sentenced to seven consecutive life sentences in 1996. He maintained his innocence and died of cancer in prison on October 27, 2019."
+    ],
+    "timeline": [
+      {
+        "date": "1992-09-19",
+        "event": "First bodies found in Belanglo State Forest."
+      },
+      {
+        "date": "1996-07-27",
+        "event": "Ivan Milat convicted of seven murders."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "joanna-dennehy-2013",
+    "name": "Joanna Dennehy Victims",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2013,
+    "date": "March-April 2013",
+    "state": "United Kingdom",
+    "city": "Peterborough",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Male",
+    "summary": "Joanna Dennehy murdered three men and stabbed two others in Peterborough and Hereford. She is one of only three women in the UK to receive a whole-life order.",
+    "lastSeen": "March-April 2013, Peterborough, Cambridgeshire and Hereford, Herefordshire, England",
+    "tags": [
+      "serial killer",
+      "United Kingdom",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Joanna Dennehy - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joanna_Dennehy"
+      },
+      {
+        "title": "Dennehy case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-cambridgeshire-joanna-dennehy"
+      },
+      {
+        "title": "Dennehy sentencing - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/joanna-dennehy"
+      }
+    ],
+    "narrative": [
+      "In March 2013, Joanna Dennehy, 31, murdered three men in Peterborough, Cambridgeshire: her landlord Kevin Lee, Lukasz Slaboszewski, and John Chapman. She stabbed each multiple times.",
+      "After the killings, Dennehy went on the run with an accomplice, Gary Stretch. In Hereford, she randomly attacked two men walking their dogs, stabbing both. They survived.",
+      "Dennehy showed no remorse and later told a psychiatrist she killed because she wanted 'to have my fun.' She was diagnosed with psychopathy and antisocial personality disorder.",
+      "Dennehy pleaded guilty to three murders and two attempted murders. She was sentenced to a whole-life order in 2014—only the third woman in England to receive such a sentence."
+    ],
+    "timeline": [
+      {
+        "date": "2013-03-19",
+        "event": "First murder."
+      },
+      {
+        "date": "2013-04-02",
+        "event": "Two men randomly stabbed in Hereford."
+      },
+      {
+        "date": "2014-02-28",
+        "event": "Dennehy sentenced to whole-life order."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "natalie-mcnally-2022",
+    "name": "Natalie McNally",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2022,
+    "date": "December 18, 2022",
+    "state": "United Kingdom",
+    "city": "Lurgan",
+    "country": "United Kingdom",
+    "age": 32,
+    "gender": "Female",
+    "summary": "Natalie McNally, who was 15 weeks pregnant, was stabbed to death in her home in Lurgan, Northern Ireland. Stephen McCullagh was convicted of her murder.",
+    "lastSeen": "December 18, 2022, her home in Lurgan, County Armagh, Northern Ireland",
+    "tags": [
+      "homicide",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Natalie McNally - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Natalie_McNally"
+      },
+      {
+        "title": "McNally case - BBC Northern Ireland",
+        "url": "https://www.bbc.com/news/uk-northern-ireland-natalie-mcnally"
+      },
+      {
+        "title": "McCullagh convicted - Belfast Telegraph",
+        "url": "https://www.belfasttelegraph.co.uk/news/natalie-mcnally/"
+      }
+    ],
+    "narrative": [
+      "On December 18, 2022, Natalie McNally, 32, was stabbed to death in her home in Lurgan, County Armagh, Northern Ireland. She was 15 weeks pregnant.",
+      "Natalie's family campaigned publicly for justice. She had worked as a civil servant and was described as a loving sister and daughter.",
+      "Stephen McCullagh was arrested and charged with murder. Evidence included DNA, phone data, and CCTV footage placing him near Natalie's home.",
+      "McCullagh was convicted of murder in 2024. The case highlighted violence against women and the particular vulnerability of pregnant women to domestic violence."
+    ],
+    "timeline": [
+      {
+        "date": "2022-12-18",
+        "event": "Natalie McNally murdered."
+      },
+      {
+        "date": "2024-01-01",
+        "event": "McCullagh convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "brianna-ghey-2023",
+    "name": "Brianna Ghey",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "February 11, 2023",
+    "state": "United Kingdom",
+    "city": "Warrington",
+    "country": "United Kingdom",
+    "age": 16,
+    "gender": "Female",
+    "summary": "Sixteen-year-old transgender girl Brianna Ghey was murdered in a park in Warrington by two 15-year-olds. The killers had planned the attack for weeks. Both received life sentences.",
+    "lastSeen": "February 11, 2023, Culcheth Linear Park, Warrington, Cheshire, England",
+    "tags": [
+      "homicide",
+      "child",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Brianna Ghey - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Brianna_Ghey"
+      },
+      {
+        "title": "Ghey case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-manchester-brianna-ghey"
+      },
+      {
+        "title": "Trial details - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/brianna-ghey"
+      }
+    ],
+    "narrative": [
+      "On February 11, 2023, Brianna Ghey, a 16-year-old transgender girl, was stabbed 28 times in Culcheth Linear Park in Warrington, Cheshire. She died at the scene.",
+      "Her killers, Scarlett Jenkinson and Eddie Ratcliffe, both 15, had planned the attack for weeks. Messages between them showed they had discussed methods of killing and had targeted Brianna.",
+      "Jenkinson, who had an obsession with torture and serial killers, lured Brianna to the park where Ratcliffe stabbed her. They tried to cover their tracks by wiping their phones.",
+      "Both were convicted of murder in February 2024. Jenkinson received a minimum term of 22 years and Ratcliffe 20 years. Brianna's mother Esther campaigned for stricter controls on children's social media access."
+    ],
+    "timeline": [
+      {
+        "date": "2023-02-11",
+        "event": "Brianna Ghey murdered."
+      },
+      {
+        "date": "2024-02-02",
+        "event": "Jenkinson and Ratcliffe convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jaylen-fleer-2020",
+    "name": "Jaylen Fleer",
+    "type": "Sexual Exploitation",
+    "status": "Solved",
+    "year": 2020,
+    "date": "June 2020",
+    "state": "California",
+    "city": "San Diego",
+    "age": 27,
+    "gender": "Male",
+    "summary": "San Diego County sheriff's deputy Jaylen Fleer was sentenced to 12 years for sexually exploiting minors. He was caught in a sting operation when he arranged to meet a 14-year-old.",
+    "lastSeen": "June 2020, San Diego County, California",
+    "tags": [
+      "sexual exploitation",
+      "California",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Jaylen Fleer case - San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/crime/jaylen-fleer/"
+      },
+      {
+        "title": "Deputy arrested - NBC San Diego",
+        "url": "https://www.nbcsandiego.com/news/local/jaylen-fleer-deputy/"
+      }
+    ],
+    "narrative": [
+      "In June 2020, Jaylen Fleer, 27, a San Diego County sheriff's deputy, was arrested after arranging to meet a person he believed to be a 14-year-old girl for sex.",
+      "Investigation revealed Fleer had been sending explicit messages to minors and had previously engaged in sexual activity with a teenage girl.",
+      "Fleer pleaded guilty to multiple felony charges including lewd acts on a minor and meeting a minor with the intent to commit a sex act.",
+      "He was sentenced to 12 years in state prison. The case highlighted concerns about law enforcement officers abusing their positions."
+    ],
+    "timeline": [
+      {
+        "date": "2020-06-01",
+        "event": "Fleer arrested in sting operation."
+      },
+      {
+        "date": "2021-04-01",
+        "event": "Sentenced to 12 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "heather-elvis-2013",
+    "name": "Heather Elvis",
+    "type": "Missing Person",
+    "status": "Solved",
+    "year": 2013,
+    "date": "December 18, 2013",
+    "state": "South Carolina",
+    "city": "Myrtle Beach",
+    "age": 20,
+    "gender": "Female",
+    "summary": "Twenty-year-old Heather Elvis vanished from Peachtree Landing near Myrtle Beach. Sidney and Tammy Moorer, a married couple Heather had been involved with, were convicted of kidnapping and murder.",
+    "lastSeen": "December 18, 2013, Peachtree Landing boat ramp, Socastee, Horry County, South Carolina",
+    "tags": [
+      "missing person",
+      "South Carolina",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Heather Elvis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Heather_Elvis"
+      },
+      {
+        "title": "Elvis case - Myrtle Beach Sun News",
+        "url": "https://www.myrtlebeachonline.com/news/heather-elvis/"
+      },
+      {
+        "title": "Moorer trial - WMBF",
+        "url": "https://www.wmbfnews.com/heather-elvis-moorer/"
+      }
+    ],
+    "narrative": [
+      "On December 18, 2013, Heather Elvis, a 20-year-old waitress, disappeared from the Peachtree Landing boat ramp near Myrtle Beach, South Carolina. Her car was found at the landing with the door open.",
+      "Heather had been having a relationship with Sidney Moorer, a married man. When his wife Tammy discovered the affair, she became enraged and threatening.",
+      "Phone records showed Sidney called Heather in the early morning hours of her disappearance, luring her to Peachtree Landing. GPS data placed the Moorers' truck at the landing.",
+      "Sidney Moorer was convicted of kidnapping and murder in separate trials. Tammy was convicted of kidnapping and conspiracy. Heather's body has never been found."
+    ],
+    "timeline": [
+      {
+        "date": "2013-12-18",
+        "event": "Heather Elvis vanishes."
+      },
+      {
+        "date": "2019-08-01",
+        "event": "Sidney Moorer convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sherri-papini-hoax-2022",
+    "name": "Sherri Papini (hoax)",
+    "type": "Hoax/Fraud",
+    "status": "Solved",
+    "year": 2022,
+    "date": "March 2, 2022",
+    "state": "California",
+    "city": "Redding",
+    "age": 39,
+    "gender": "Female",
+    "summary": "Sherri Papini was convicted of faking her own kidnapping in 2016. She had claimed she was abducted while jogging and tortured by two Hispanic women. She had actually been staying with an ex-boyfriend.",
+    "lastSeen": "November 2, 2016 - November 24, 2016 (claimed kidnapping period), Redding, California",
+    "tags": [
+      "hoax",
+      "California",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Sherri Papini case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Sherri_Papini"
+      },
+      {
+        "title": "Papini conviction - Sacramento Bee",
+        "url": "https://www.sacbee.com/news/california/sherri-papini/"
+      },
+      {
+        "title": "Papini confession - CNN",
+        "url": "https://www.cnn.com/2022/03/sherri-papini-hoax/index.html"
+      }
+    ],
+    "narrative": [
+      "In November 2016, Sherri Papini, a mother of two from Redding, California, disappeared while jogging. She reappeared 22 days later on Thanksgiving Day, bound and branded, claiming two Hispanic women had kidnapped and tortured her.",
+      "Papini's story generated massive media coverage and public sympathy. She was labeled a 'supermom' who had been taken from her family. Law enforcement spent thousands of hours investigating.",
+      "In 2020, DNA evidence led investigators to James Reyes, an ex-boyfriend. He revealed that Papini had stayed with him voluntarily. She had inflicted her own injuries and branded herself.",
+      "Papini was arrested in 2022 and pleaded guilty to lying to federal agents and mail fraud. She was sentenced to 18 months in federal prison. The case diverted resources from real missing persons cases."
+    ],
+    "timeline": [
+      {
+        "date": "2016-11-02",
+        "event": "Papini 'disappears' while jogging."
+      },
+      {
+        "date": "2022-04-18",
+        "event": "Pleads guilty to faking her kidnapping."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "robert-pickton-farm-2002",
+    "name": "Robert Pickton Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 2002,
+    "date": "February 22, 2002",
+    "state": "Canada",
+    "city": "Port Coquitlam",
+    "country": "Canada",
+    "age": null,
+    "gender": "Female",
+    "summary": "Pig farmer Robert Pickton was convicted of six murders but linked to as many as 49 missing women from Vancouver's Downtown Eastside. Remains were found on his farm. He died in prison in 2024.",
+    "lastSeen": "1983-2002, Pickton farm, Port Coquitlam, British Columbia, Canada",
+    "tags": [
+      "serial killer",
+      "Canada",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Robert Pickton - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Pickton"
+      },
+      {
+        "title": "Pickton case - Vancouver Sun",
+        "url": "https://www.vancouversun.com/news/robert-pickton/"
+      },
+      {
+        "title": "Pickton death - CBC",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/robert-pickton-dies/"
+      }
+    ],
+    "narrative": [
+      "Robert Pickton, a pig farmer from Port Coquitlam, British Columbia, was linked to the disappearances of dozens of women from Vancouver's Downtown Eastside—many of them Indigenous women and sex workers.",
+      "Police searched his farm beginning in 2002, finding the DNA of 33 women on the property. Pickton told an undercover officer he had killed 49 women and was 'sloppy' about cleaning up.",
+      "He was convicted of six counts of second-degree murder in 2007 and sentenced to life with no parole for 25 years. The remaining 20 charges were stayed.",
+      "Pickton died in prison on May 31, 2024 after being attacked by a fellow inmate. The case exposed systemic failures in how police handled missing persons cases involving marginalized women."
+    ],
+    "timeline": [
+      {
+        "date": "2002-02-22",
+        "event": "Pickton farm searched; evidence found."
+      },
+      {
+        "date": "2007-12-09",
+        "event": "Pickton convicted of six murders."
+      },
+      {
+        "date": "2024-05-31",
+        "event": "Pickton dies in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "scott-peterson-new-trial-2024",
+    "name": "Scott Peterson (new evidence)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "2024",
+    "state": "California",
+    "city": "Modesto",
+    "age": null,
+    "gender": "Female",
+    "summary": "The Los Angeles Innocence Project took on Scott Peterson's case, arguing new evidence could prove his innocence. In 2024, a judge ordered new DNA testing on evidence from the Laci Peterson murder.",
+    "lastSeen": "December 24, 2002, Modesto, Stanislaus County, California",
+    "tags": [
+      "homicide",
+      "California",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Scott Peterson case update - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Scott_Peterson"
+      },
+      {
+        "title": "Innocence Project - San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/scott-peterson-innocence/"
+      },
+      {
+        "title": "DNA testing ordered - NBC",
+        "url": "https://www.nbcnews.com/news/crime-courts/scott-peterson-dna-testing/"
+      }
+    ],
+    "narrative": [
+      "In 2024, the Los Angeles Innocence Project filed a habeas petition on behalf of Scott Peterson, arguing that new evidence could prove he did not murder his pregnant wife Laci in 2002.",
+      "The petition cited several pieces of evidence including a van seen near the Petersons' home that was never investigated, break-ins in the neighborhood around the time of Laci's disappearance, and potential alibi witnesses.",
+      "A San Mateo County judge ordered new DNA testing on several items of evidence, including duct tape found on Laci's body and a mattress protector found near where her remains washed ashore.",
+      "Peterson remains in prison serving life without parole. His death sentence was overturned in 2020 due to juror misconduct, but his murder conviction was upheld. The DNA testing results could impact his case."
+    ],
+    "timeline": [
+      {
+        "date": "2002-12-24",
+        "event": "Laci Peterson disappears."
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Judge orders new DNA testing."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "robert-hanssen-spy-2001",
+    "name": "Robert Hanssen (spy)",
+    "type": "Espionage",
+    "status": "Solved",
+    "year": 2001,
+    "date": "February 18, 2001",
+    "state": "Virginia",
+    "city": "Vienna",
+    "age": 56,
+    "gender": "Male",
+    "summary": "FBI agent Robert Hanssen was arrested for spying for Russia for 22 years. He is considered the most damaging spy in FBI history, compromising dozens of agents. He died in prison in 2023.",
+    "lastSeen": "February 18, 2001, Foxstone Park, Vienna, Virginia",
+    "tags": [
+      "espionage",
+      "Virginia",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Robert Hanssen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Hanssen"
+      },
+      {
+        "title": "Hanssen case - FBI",
+        "url": "https://www.fbi.gov/history/famous-cases/robert-hanssen"
+      },
+      {
+        "title": "Hanssen death - CNN",
+        "url": "https://www.cnn.com/2023/06/05/politics/robert-hanssen-dies/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 18, 2001, FBI agent Robert Hanssen was arrested at Foxstone Park in Vienna, Virginia while making a dead drop for Russian intelligence. He had been spying for the Soviet Union and Russia for 22 years.",
+      "Hanssen compromised dozens of intelligence operations, revealed the identities of three KGB agents working for the U.S. (two of whom were executed), and provided thousands of classified documents.",
+      "His espionage was particularly devastating because he held senior counterintelligence positions—he was literally the person tasked with catching spies like himself.",
+      "Hanssen pleaded guilty to 15 counts of espionage and was sentenced to 15 consecutive life sentences. He died in federal prison on June 5, 2023. His story was depicted in the film 'Breach.'"
+    ],
+    "timeline": [
+      {
+        "date": "2001-02-18",
+        "event": "Hanssen arrested at dead drop."
+      },
+      {
+        "date": "2002-05-10",
+        "event": "Sentenced to 15 consecutive life terms."
+      },
+      {
+        "date": "2023-06-05",
+        "event": "Dies in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "aldrich-ames-cia-1994",
+    "name": "Aldrich Ames (spy)",
+    "type": "Espionage",
+    "status": "Solved",
+    "year": 1994,
+    "date": "February 21, 1994",
+    "state": "Virginia",
+    "city": "Arlington",
+    "age": 52,
+    "gender": "Male",
+    "summary": "CIA officer Aldrich Ames spied for the Soviet Union for nine years, compromising more than 100 intelligence operations. At least 10 agents he betrayed were executed. He is serving life in prison.",
+    "lastSeen": "February 21, 1994, his home in Arlington, Virginia",
+    "tags": [
+      "espionage",
+      "Virginia",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Aldrich Ames - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aldrich_Ames"
+      },
+      {
+        "title": "Ames case - CIA",
+        "url": "https://www.cia.gov/stories/story/aldrich-ames/"
+      },
+      {
+        "title": "Ames arrest - New York Times",
+        "url": "https://www.nytimes.com/1994/02/22/us/cia-officer-charged-as-spy.html"
+      }
+    ],
+    "narrative": [
+      "On February 21, 1994, CIA counterintelligence officer Aldrich Ames was arrested at his home in Arlington, Virginia for spying for the Soviet Union and Russia since 1985.",
+      "Ames had been paid $2.7 million by the KGB, making him the highest-paid spy in history at the time. He used the money to buy a $540,000 house and a Jaguar—purchases that should have raised red flags.",
+      "His betrayals led to the exposure and execution of at least 10 CIA sources within the Soviet Union, including Dmitri Polyakov, considered one of the most valuable U.S. intelligence assets of the Cold War.",
+      "Ames pleaded guilty and was sentenced to life without parole. His case, along with Robert Hanssen's, led to major reforms in how intelligence agencies monitor their own personnel."
+    ],
+    "timeline": [
+      {
+        "date": "1994-02-21",
+        "event": "Ames arrested."
+      },
+      {
+        "date": "1994-04-28",
+        "event": "Sentenced to life without parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "whitey-bulger-2018",
+    "name": "Whitey Bulger (death)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "October 30, 2018",
+    "state": "West Virginia",
+    "city": "Hazelton",
+    "age": 89,
+    "gender": "Male",
+    "summary": "Notorious Boston mob boss Whitey Bulger was beaten to death hours after arriving at a West Virginia federal prison. Fotios 'Freddy' Geas was charged. Bulger had been an FBI informant for decades.",
+    "lastSeen": "October 30, 2018, USP Hazelton, Bruceton Mills, West Virginia",
+    "tags": [
+      "homicide",
+      "West Virginia",
+      "2010s",
+      "organized crime",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "James 'Whitey' Bulger death - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Whitey_Bulger#Death"
+      },
+      {
+        "title": "Bulger killed - Boston Globe",
+        "url": "https://www.bostonglobe.com/metro/whitey-bulger-killed/"
+      },
+      {
+        "title": "Geas charged - CNN",
+        "url": "https://www.cnn.com/2018/10/30/us/whitey-bulger-killed/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 30, 2018, James 'Whitey' Bulger, 89, was beaten to death at USP Hazelton in West Virginia. He had arrived at the prison just hours before, after being transferred from a facility in Florida.",
+      "Bulger, the notorious Boston crime boss who was also a longtime FBI informant, was found in his cell. He had been beaten with a lock stuffed in a sock and his eyes had been reportedly disfigured.",
+      "Fotios 'Freddy' Geas, a Mafia hitman, was charged with the murder. Geas reportedly despised informants. Questions arose about why the 89-year-old Bulger was transferred to a high-security facility.",
+      "Bulger had been on the FBI's Most Wanted list for 16 years before being captured in Santa Monica, California in 2011. His story was depicted in the film 'Black Mass' starring Johnny Depp."
+    ],
+    "timeline": [
+      {
+        "date": "2011-06-22",
+        "event": "Bulger captured in Santa Monica."
+      },
+      {
+        "date": "2013-08-12",
+        "event": "Convicted of 11 murders."
+      },
+      {
+        "date": "2018-10-30",
+        "event": "Beaten to death in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jesse-matthews-hannah-graham",
+    "name": "Hannah Graham",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2014,
+    "date": "September 13, 2014",
+    "state": "Virginia",
+    "city": "Charlottesville",
+    "age": 18,
+    "gender": "Female",
+    "summary": "University of Virginia student Hannah Graham vanished after a night out. Jesse Matthew was convicted of her murder and linked to several other attacks through DNA, including Morgan Harrington's murder.",
+    "lastSeen": "September 13, 2014, Charlottesville, Virginia",
+    "tags": [
+      "homicide",
+      "Virginia",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Hannah Graham - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Hannah_Graham"
+      },
+      {
+        "title": "Graham case - Daily Progress",
+        "url": "https://www.dailyprogress.com/news/crime/hannah-graham/"
+      },
+      {
+        "title": "Matthew conviction - CNN",
+        "url": "https://www.cnn.com/2016/03/02/us/hannah-graham-case/index.html"
+      }
+    ],
+    "narrative": [
+      "On September 13, 2014, University of Virginia sophomore Hannah Graham, 18, disappeared after a night out in Charlottesville. Surveillance footage showed her walking with a man later identified as Jesse Matthew.",
+      "Hannah's remains were found five weeks later in rural Albemarle County. Jesse Matthew, a hospital worker, was arrested in Texas after fleeing Virginia.",
+      "DNA evidence linked Matthew not only to Graham's murder but also to the 2009 murder of Virginia Tech student Morgan Harrington and a 2005 sexual assault in Fairfax County.",
+      "Matthew pleaded guilty to both the Graham and Harrington murders and was sentenced to four consecutive life terms."
+    ],
+    "timeline": [
+      {
+        "date": "2014-09-13",
+        "event": "Hannah Graham disappears."
+      },
+      {
+        "date": "2016-03-02",
+        "event": "Matthew sentenced to four life terms."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "joseph-deangelo-east-area-rapist",
+    "name": "East Area Rapist Victims",
+    "type": "Serial Rape",
+    "status": "Solved",
+    "year": 1976,
+    "date": "1976-1979",
+    "state": "California",
+    "city": "Sacramento",
+    "age": null,
+    "gender": "Female",
+    "summary": "Before becoming the Golden State Killer, Joseph James DeAngelo committed at least 50 rapes in the Sacramento area as the East Area Rapist. He terrorized neighborhoods from 1976 to 1979.",
+    "lastSeen": "1976-1979, Sacramento area, California",
+    "tags": [
+      "serial rape",
+      "California",
+      "1970s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "East Area Rapist - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Golden_State_Killer#East_Area_Rapist"
+      },
+      {
+        "title": "EAR case files - Sacramento Bee",
+        "url": "https://www.sacbee.com/news/local/crime/east-area-rapist/"
+      },
+      {
+        "title": "I'll Be Gone in the Dark - HBO",
+        "url": "https://www.hbo.com/ill-be-gone-in-the-dark"
+      }
+    ],
+    "narrative": [
+      "Between 1976 and 1979, a masked intruder terrorized the Sacramento area, breaking into homes and raping women while their partners were tied up in adjacent rooms. He was known as the East Area Rapist.",
+      "The attacker committed at least 50 sexual assaults with a distinctive MO: he would stake out neighborhoods, sometimes calling victims beforehand, and would stack dishes on the bound partner's back to alert him if they moved.",
+      "The East Area Rapist was later linked through DNA to the Original Night Stalker murders in Southern California, and both were linked to the Visalia Ransacker burglaries—all committed by the same person.",
+      "The case was finally solved in 2018 when genetic genealogy identified Joseph James DeAngelo, a former police officer, as the perpetrator. Michelle McNamara's book 'I'll Be Gone in the Dark' helped revive public interest."
+    ],
+    "timeline": [
+      {
+        "date": "1976-06-18",
+        "event": "First known East Area Rapist attack."
+      },
+      {
+        "date": "2018-04-24",
+        "event": "DeAngelo arrested through genetic genealogy."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "pamela-smart-1990",
+    "name": "Pamela Smart (case)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1990,
+    "date": "May 1, 1990",
+    "state": "New Hampshire",
+    "city": "Derry",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Pamela Smart manipulated her 15-year-old student lover into murdering her husband Gregg. She was convicted of conspiracy to commit murder and sentenced to life without parole.",
+    "lastSeen": "May 1, 1990, Smart home, Derry, Rockingham County, New Hampshire",
+    "tags": [
+      "homicide",
+      "New Hampshire",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Pamela Smart - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pamela_Smart"
+      },
+      {
+        "title": "Smart case - Concord Monitor",
+        "url": "https://www.concordmonitor.com/pamela-smart/"
+      },
+      {
+        "title": "To Die For film - IMDB",
+        "url": "https://www.imdb.com/title/tt0114681/"
+      }
+    ],
+    "narrative": [
+      "On May 1, 1990, Gregg Smart, 24, was found shot dead in the couple's condominium in Derry, New Hampshire. It appeared to be a burglary gone wrong.",
+      "Investigation revealed that Gregg's wife Pamela, a 22-year-old high school media coordinator, had seduced her 15-year-old student Billy Flynn and manipulated him and two friends into killing Gregg.",
+      "The trial was one of the first to be televised nationally, prefiguring the O.J. Simpson trial. It became a media sensation.",
+      "Pamela Smart was convicted of conspiracy to commit murder and sentenced to life without parole. The teenagers received lesser sentences and have all been released. Smart's case inspired the Nicole Kidman film 'To Die For.'"
+    ],
+    "timeline": [
+      {
+        "date": "1990-05-01",
+        "event": "Gregg Smart murdered."
+      },
+      {
+        "date": "1991-03-22",
+        "event": "Pamela Smart convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "richard-glossip-oklahoma",
+    "name": "Richard Glossip (case)",
+    "type": "Death Row",
+    "status": "Unsolved",
+    "year": 2025,
+    "date": "2025",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "age": 61,
+    "gender": "Male",
+    "summary": "Richard Glossip has been on Oklahoma's death row since 1997 for the murder of Barry Van Treese. Even the state's attorney general has questioned his conviction. The Supreme Court heard his case in 2024.",
+    "lastSeen": "1997-present, Oklahoma State Penitentiary",
+    "tags": [
+      "death row",
+      "Oklahoma",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Richard Glossip - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Glossip"
+      },
+      {
+        "title": "Glossip Supreme Court - SCOTUSblog",
+        "url": "https://www.scotusblog.com/case-files/cases/glossip-v-oklahoma/"
+      },
+      {
+        "title": "Glossip innocence - The Intercept",
+        "url": "https://theintercept.com/richard-glossip/"
+      }
+    ],
+    "narrative": [
+      "Richard Glossip was convicted of the 1997 murder of his boss Barry Van Treese at the Best Budget Inn in Oklahoma City. The actual killer, Justin Sneed, received life in prison in exchange for testifying that Glossip hired him.",
+      "Glossip has maintained his innocence for over 25 years. No physical evidence links him to the crime—the entire case rests on Sneed's testimony.",
+      "In an extraordinary move, Oklahoma's own attorney general concluded that the conviction was unreliable, citing destroyed evidence and Sneed's undisclosed psychiatric history.",
+      "The U.S. Supreme Court heard the case in 2024, marking a rare instance where a state's attorney general argued alongside a death row inmate that the conviction should be overturned."
+    ],
+    "timeline": [
+      {
+        "date": "1997-01-07",
+        "event": "Barry Van Treese murdered."
+      },
+      {
+        "date": "2024-10-09",
+        "event": "Supreme Court hears Glossip v. Oklahoma."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "robert-blake-2005",
+    "name": "Bonny Lee Bakley (Robert Blake)",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2001,
+    "date": "May 4, 2001",
+    "state": "California",
+    "city": "Studio City",
+    "age": 44,
+    "gender": "Female",
+    "summary": "Actor Robert Blake's wife Bonny Lee Bakley was shot dead outside a restaurant. Blake was acquitted of murder but found liable in a civil trial. The case officially remains unsolved.",
+    "lastSeen": "May 4, 2001, Vitello's restaurant, Studio City, Los Angeles, California",
+    "tags": [
+      "homicide",
+      "California",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Bonny Lee Bakley - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bonny_Lee_Bakley"
+      },
+      {
+        "title": "Blake trial - Los Angeles Times",
+        "url": "https://www.latimes.com/entertainment/robert-blake/"
+      },
+      {
+        "title": "Blake acquittal - CNN",
+        "url": "https://www.cnn.com/2005/LAW/03/16/blake.trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On May 4, 2001, Bonny Lee Bakley was shot and killed while sitting in a car outside Vitello's restaurant in Studio City, Los Angeles. Her husband, actor Robert Blake, said he had returned to the restaurant to retrieve a gun he'd left behind.",
+      "Blake was arrested and charged with murder. His trial drew comparisons to the O.J. Simpson case—another celebrity accused of killing a spouse.",
+      "Blake was acquitted of murder in 2005 but found liable for Bakley's death in a civil suit and ordered to pay $15 million. He was unable to pay.",
+      "Blake died on March 9, 2023 at age 89. The murder of Bonny Lee Bakley officially remains unsolved."
+    ],
+    "timeline": [
+      {
+        "date": "2001-05-04",
+        "event": "Bonny Lee Bakley shot dead."
+      },
+      {
+        "date": "2005-03-16",
+        "event": "Robert Blake acquitted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "natalia-grace-barnett-2019",
+    "name": "Natalia Grace Barnett",
+    "type": "Abandonment/Fraud",
+    "status": "Solved",
+    "year": 2023,
+    "date": "September 2023",
+    "state": "Indiana",
+    "city": "Lafayette",
+    "age": null,
+    "gender": "Female",
+    "summary": "Michael and Kristine Barnett adopted Natalia Grace, a Ukrainian-born woman with dwarfism, then had her age legally changed from 8 to 22 and abandoned her. Michael was convicted of neglect.",
+    "lastSeen": "2013-present, various locations, Indiana",
+    "tags": [
+      "abandonment",
+      "Indiana",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Natalia Grace Barnett - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natalia_Grace_Barnett"
+      },
+      {
+        "title": "Curious Case of Natalia Grace - ID Channel",
+        "url": "https://www.investigationdiscovery.com/show/the-curious-case-of-natalia-grace"
+      },
+      {
+        "title": "Barnett trial - Indianapolis Star",
+        "url": "https://www.indystar.com/story/news/crime/natalia-barnett/"
+      }
+    ],
+    "narrative": [
+      "In 2010, Michael and Kristine Barnett adopted Natalia Grace, described as a 6-year-old Ukrainian orphan with a form of dwarfism called spondyloepiphyseal dysplasia.",
+      "In 2012, the Barnetts petitioned a court to change Natalia's age from 8 to 22, claiming she was actually an adult posing as a child. They then moved to Canada and left Natalia in a Lafayette, Indiana apartment.",
+      "The case became a media sensation, with debate over whether Natalia was a child who had been abandoned or an adult who had deceived her adoptive family. Medical experts disagreed on her actual age.",
+      "Michael Barnett was convicted of neglecting a dependent in 2022. Charges against Kristine were dropped. Natalia was later taken in by another family and has maintained she was always a child."
+    ],
+    "timeline": [
+      {
+        "date": "2012-07-01",
+        "event": "Barnetts petition to change Natalia's age."
+      },
+      {
+        "date": "2022-09-12",
+        "event": "Michael Barnett convicted of neglect."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "rust-shooting-baldwin-2024",
+    "name": "Halyna Hutchins (Rust trial)",
+    "type": "Involuntary Manslaughter",
+    "status": "Solved",
+    "year": 2024,
+    "date": "July 12, 2024",
+    "state": "New Mexico",
+    "city": "Santa Fe",
+    "age": 42,
+    "gender": "Female",
+    "summary": "Involuntary manslaughter charges against Alec Baldwin for the death of Halyna Hutchins on the Rust set were dismissed after the judge ruled prosecutors withheld evidence from the defense.",
+    "lastSeen": "October 21, 2021, Bonanza Creek Ranch, Santa Fe, New Mexico",
+    "tags": [
+      "involuntary manslaughter",
+      "New Mexico",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Rust shooting trial - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rust_(film)#Trial"
+      },
+      {
+        "title": "Baldwin charges dismissed - CNN",
+        "url": "https://www.cnn.com/2024/07/12/entertainment/alec-baldwin-rust-trial/index.html"
+      },
+      {
+        "title": "Hutchins death - New York Times",
+        "url": "https://www.nytimes.com/2024/07/12/arts/alec-baldwin-rust-trial-dismissed.html"
+      }
+    ],
+    "narrative": [
+      "On October 21, 2021, cinematographer Halyna Hutchins was killed on the set of the film 'Rust' in Santa Fe, New Mexico when a prop gun held by actor Alec Baldwin discharged a live round.",
+      "Armorer Hannah Gutierrez-Reed was convicted of involuntary manslaughter in March 2024 for allowing live ammunition onto the set. She was sentenced to 18 months in prison.",
+      "Baldwin was charged with involuntary manslaughter but his trial was dramatically dismissed in July 2024 after Judge Mary Marlowe Sommer ruled that prosecutors had withheld ballistics evidence from the defense.",
+      "The case raised nationwide questions about firearms safety protocols on film sets and led to significant changes in industry practices."
+    ],
+    "timeline": [
+      {
+        "date": "2021-10-21",
+        "event": "Halyna Hutchins killed on Rust set."
+      },
+      {
+        "date": "2024-03-06",
+        "event": "Armorer Gutierrez-Reed convicted."
+      },
+      {
+        "date": "2024-07-12",
+        "event": "Charges against Baldwin dismissed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "barry-morphew-arrest-2021",
+    "name": "Barry Morphew (arrest detail)",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2021,
+    "date": "May 5, 2021",
+    "state": "Colorado",
+    "city": "Poncha Springs",
+    "age": 53,
+    "gender": "Male",
+    "summary": "Barry Morphew was arrested for the murder of his wife Suzanne in 2021. He also illegally cast her ballot for Trump. Murder charges were dropped in 2022 but he was convicted of the ballot fraud.",
+    "lastSeen": "May 5, 2021, Poncha Springs, Chaffee County, Colorado",
+    "tags": [
+      "homicide",
+      "Colorado",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Barry Morphew arrest - Denver Post",
+        "url": "https://www.denverpost.com/tag/barry-morphew/"
+      },
+      {
+        "title": "Ballot fraud - Colorado Sun",
+        "url": "https://coloradosun.com/barry-morphew-ballot/"
+      },
+      {
+        "title": "Charges dropped - CNN",
+        "url": "https://www.cnn.com/2022/04/19/us/barry-morphew-charges-dropped/index.html"
+      }
+    ],
+    "narrative": [
+      "Barry Morphew was arrested on May 5, 2021 and charged with first-degree murder in the disappearance of his wife Suzanne, who vanished on Mother's Day 2020.",
+      "During the investigation, authorities discovered that Barry had submitted his missing wife's mail-in ballot for Donald Trump in the 2020 presidential election, claiming she would have wanted him to.",
+      "Murder charges were dropped in April 2022 before trial, with prosecutors citing evidence concerns. Barry was convicted of forgery for casting Suzanne's ballot.",
+      "Suzanne's remains were found in September 2023. As of 2024, Barry Morphew has not been recharged with murder."
+    ],
+    "timeline": [
+      {
+        "date": "2021-05-05",
+        "event": "Barry Morphew arrested for murder."
+      },
+      {
+        "date": "2022-04-19",
+        "event": "Murder charges dropped."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "elizabeth-holmes-theranos-2022",
+    "name": "Elizabeth Holmes (Theranos)",
+    "type": "Fraud",
+    "status": "Solved",
+    "year": 2022,
+    "date": "January 3, 2022",
+    "state": "California",
+    "city": "San Jose",
+    "age": 37,
+    "gender": "Female",
+    "summary": "Theranos founder Elizabeth Holmes was convicted of fraud for deceiving investors about her blood-testing technology. She was sentenced to over 11 years in federal prison.",
+    "lastSeen": "January 3, 2022, U.S. District Court, San Jose, California",
+    "tags": [
+      "fraud",
+      "California",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Elizabeth Holmes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes"
+      },
+      {
+        "title": "Holmes verdict - Wall Street Journal",
+        "url": "https://www.wsj.com/articles/elizabeth-holmes-theranos-verdict/"
+      },
+      {
+        "title": "Holmes sentencing - CNN",
+        "url": "https://www.cnn.com/2022/11/18/tech/elizabeth-holmes-sentencing/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 3, 2022, Elizabeth Holmes, the former CEO of blood-testing startup Theranos, was found guilty of four counts of wire fraud and conspiracy to commit fraud against investors.",
+      "Holmes had claimed her company's technology could run hundreds of medical tests from a single drop of blood. In reality, the technology didn't work, and Theranos secretly ran most tests on conventional machines.",
+      "At its peak, Theranos was valued at $9 billion. Holmes was celebrated as a visionary—the youngest female self-made billionaire. Her board included Henry Kissinger and George Shultz.",
+      "Holmes was sentenced to 11 years and 3 months in federal prison. She reported to prison in May 2023. The case became a defining cautionary tale of Silicon Valley hubris."
+    ],
+    "timeline": [
+      {
+        "date": "2022-01-03",
+        "event": "Holmes convicted of fraud."
+      },
+      {
+        "date": "2023-05-30",
+        "event": "Holmes reports to federal prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "anna-delvey-sorokin-2019",
+    "name": "Anna Delvey (Sorokin)",
+    "type": "Fraud",
+    "status": "Solved",
+    "year": 2019,
+    "date": "May 9, 2019",
+    "state": "New York",
+    "city": "New York City",
+    "age": 28,
+    "gender": "Female",
+    "summary": "Anna Sorokin, posing as German heiress 'Anna Delvey,' defrauded New York banks, hotels, and acquaintances of hundreds of thousands of dollars. She was convicted of theft and grand larceny.",
+    "lastSeen": "Various dates, Manhattan, New York",
+    "tags": [
+      "fraud",
+      "New York",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Anna Sorokin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anna_Sorokin"
+      },
+      {
+        "title": "Anna Delvey - New York Magazine",
+        "url": "https://www.thecut.com/article/how-anna-delvey-tricked-new-york.html"
+      },
+      {
+        "title": "Sorokin trial - CNN",
+        "url": "https://www.cnn.com/2019/04/25/us/anna-sorokin-delvey-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "Anna Sorokin, a Russian-born German national, posed as 'Anna Delvey,' a wealthy German heiress, and infiltrated New York's social scene between 2013 and 2017.",
+      "She defrauded banks, hotels, and individuals, attempting to secure a $22 million loan for a private arts club. She lived in luxury hotels without paying, stiffed friends with expenses, and forged bank statements.",
+      "Sorokin was convicted of theft of services, grand larceny, and other charges in May 2019. She was sentenced to 4 to 12 years in prison.",
+      "Her story was adapted into Netflix's 'Inventing Anna.' Sorokin was released in 2021 but remained in ICE custody due to her overstayed visa. She was released on house arrest and launched a podcast."
+    ],
+    "timeline": [
+      {
+        "date": "2017-10-03",
+        "event": "Sorokin arrested."
+      },
+      {
+        "date": "2019-05-09",
+        "event": "Convicted of fraud; sentenced to 4-12 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alex-jones-sandy-hook-judgment",
+    "name": "Sandy Hook Defamation Judgment",
+    "type": "Defamation",
+    "status": "Solved",
+    "year": 2022,
+    "date": "October 12, 2022",
+    "state": "Connecticut",
+    "city": "Waterbury",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Alex Jones was ordered to pay nearly $1.5 billion in damages to Sandy Hook families for spreading conspiracy theories that the 2012 school shooting was a hoax.",
+    "lastSeen": "Various dates, Connecticut and Texas courtrooms",
+    "tags": [
+      "defamation",
+      "Connecticut",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Alex Jones Sandy Hook lawsuit - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alex_Jones#Sandy_Hook_lawsuits"
+      },
+      {
+        "title": "Connecticut verdict - New York Times",
+        "url": "https://www.nytimes.com/2022/10/12/business/alex-jones-sandy-hook-damages.html"
+      },
+      {
+        "title": "Total damages - CNN",
+        "url": "https://www.cnn.com/2022/10/12/media/alex-jones-sandy-hook-damages/index.html"
+      }
+    ],
+    "narrative": [
+      "In October 2022, a Connecticut jury ordered conspiracy theorist Alex Jones to pay $965 million in damages to the families of Sandy Hook shooting victims. A Texas jury had previously awarded $49.3 million.",
+      "Jones had spent years claiming on his InfoWars platform that the 2012 Sandy Hook Elementary School shooting, which killed 20 children and 6 staff members, was a 'false flag' operation using 'crisis actors.'",
+      "Families testified about years of harassment and death threats from Jones's followers. Some families had been forced to move multiple times. One father said he received death threats and was harassed at his son's grave.",
+      "Jones filed for bankruptcy. The total damages exceeded $1.4 billion. The case was seen as a landmark moment in holding conspiracy theorists legally accountable for the real-world consequences of their claims."
+    ],
+    "timeline": [
+      {
+        "date": "2022-08-05",
+        "event": "Texas jury awards $49.3 million."
+      },
+      {
+        "date": "2022-10-12",
+        "event": "Connecticut jury awards $965 million."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "epstein-client-list-2024",
+    "name": "Jeffrey Epstein (documents)",
+    "type": "Sex Trafficking",
+    "status": "Solved",
+    "year": 2024,
+    "date": "January 3, 2024",
+    "state": "New York",
+    "city": "New York City",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "In January 2024, court documents naming over 150 associates of Jeffrey Epstein were unsealed. The documents came from Virginia Giuffre's civil lawsuit against Ghislaine Maxwell.",
+    "lastSeen": "Various dates, New York and Florida",
+    "tags": [
+      "sex trafficking",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Epstein documents release - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jeffrey_Epstein"
+      },
+      {
+        "title": "Documents unsealed - New York Times",
+        "url": "https://www.nytimes.com/2024/01/03/nyregion/jeffrey-epstein-documents.html"
+      },
+      {
+        "title": "Names revealed - CNN",
+        "url": "https://www.cnn.com/2024/01/03/us/jeffrey-epstein-documents-released/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 3, 2024, a federal judge in New York ordered the unsealing of documents from Virginia Giuffre's 2015 civil lawsuit against Ghislaine Maxwell, naming over 150 individuals associated with Jeffrey Epstein.",
+      "The documents included depositions, flight logs, and testimony mentioning prominent figures from politics, business, and entertainment. Many named individuals denied wrongdoing or any knowledge of Epstein's crimes.",
+      "Epstein had died in his Manhattan jail cell in August 2019 while awaiting trial on federal sex trafficking charges. His death was ruled a suicide, though conspiracy theories persist.",
+      "Maxwell was convicted in December 2021 of sex trafficking and sentenced to 20 years. The document release renewed calls for accountability but no new criminal charges resulted directly from the unsealing."
+    ],
+    "timeline": [
+      {
+        "date": "2019-08-10",
+        "event": "Epstein dies in jail."
+      },
+      {
+        "date": "2021-12-29",
+        "event": "Maxwell convicted."
+      },
+      {
+        "date": "2024-01-03",
+        "event": "Court documents unsealed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "george-santos-fraud-2023",
+    "name": "George Santos (fraud)",
+    "type": "Fraud",
+    "status": "Solved",
+    "year": 2025,
+    "date": "February 7, 2025",
+    "state": "New York",
+    "city": "Central Islip",
+    "age": 36,
+    "gender": "Male",
+    "summary": "Former congressman George Santos pleaded guilty to wire fraud and aggravated identity theft. He had fabricated virtually his entire biography and stolen donor funds. He was sentenced to prison.",
+    "lastSeen": "Various dates, Long Island, New York",
+    "tags": [
+      "fraud",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "George Santos - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/George_Santos"
+      },
+      {
+        "title": "Santos guilty plea - New York Times",
+        "url": "https://www.nytimes.com/2025/02/07/nyregion/george-santos-guilty-plea.html"
+      },
+      {
+        "title": "Santos expulsion - CNN",
+        "url": "https://www.cnn.com/politics/george-santos/index.html"
+      }
+    ],
+    "narrative": [
+      "George Santos was elected to the U.S. House of Representatives from New York's 3rd district in 2022 after fabricating virtually his entire life story—his education, work history, religion, and family background.",
+      "Santos lied about graduating from Baruch College and NYU, working at Goldman Sachs and Citigroup, being Jewish with grandparents who fled the Holocaust, and founding a charity for animal rescue.",
+      "He was indicted on 23 federal charges including wire fraud, money laundering, and stealing public funds. He was expelled from Congress in December 2023—only the sixth member in history.",
+      "Santos pleaded guilty to wire fraud and aggravated identity theft in early 2025. He admitted to defrauding campaign donors and using their money for personal expenses including designer goods."
+    ],
+    "timeline": [
+      {
+        "date": "2023-05-10",
+        "event": "Santos indicted on fraud charges."
+      },
+      {
+        "date": "2023-12-01",
+        "event": "Expelled from Congress."
+      },
+      {
+        "date": "2025-02-07",
+        "event": "Pleads guilty to wire fraud."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "crypto-king-sbf-2023",
+    "name": "Sam Bankman-Fried (FTX)",
+    "type": "Fraud",
+    "status": "Solved",
+    "year": 2023,
+    "date": "November 2, 2023",
+    "state": "New York",
+    "city": "New York City",
+    "age": 31,
+    "gender": "Male",
+    "summary": "FTX founder Sam Bankman-Fried was convicted of defrauding customers of $8 billion. His crypto exchange collapsed in November 2022. He was sentenced to 25 years in prison.",
+    "lastSeen": "Various dates, FTX headquarters in Bahamas and SDNY courthouse, New York",
+    "tags": [
+      "fraud",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Sam Bankman-Fried - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried"
+      },
+      {
+        "title": "SBF verdict - Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/sam-bankman-fried-ftx-trial-verdict/"
+      },
+      {
+        "title": "SBF sentencing - CNN",
+        "url": "https://www.cnn.com/2024/03/28/business/sam-bankman-fried-sentencing/index.html"
+      }
+    ],
+    "narrative": [
+      "Sam Bankman-Fried, founder of cryptocurrency exchange FTX, was convicted of seven counts of fraud and conspiracy on November 2, 2023. He had stolen $8 billion in customer deposits.",
+      "FTX collapsed in November 2022 when it was revealed that customer funds had been secretly funneled to Bankman-Fried's trading firm Alameda Research. The collapse wiped out billions in customer savings.",
+      "At his peak, Bankman-Fried was worth $26 billion. He lived in a luxury penthouse in the Bahamas and was one of the largest political donors in the U.S., cultivating an image as an altruistic 'effective altruist.'",
+      "He was sentenced to 25 years in federal prison in March 2024. The case was the largest financial fraud case since Bernie Madoff."
+    ],
+    "timeline": [
+      {
+        "date": "2022-11-11",
+        "event": "FTX files for bankruptcy."
+      },
+      {
+        "date": "2023-11-02",
+        "event": "SBF convicted of fraud."
+      },
+      {
+        "date": "2024-03-28",
+        "event": "Sentenced to 25 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "r-kelly-conviction-2022",
+    "name": "R. Kelly (sentencing)",
+    "type": "Sex Trafficking",
+    "status": "Solved",
+    "year": 2022,
+    "date": "June 29, 2022",
+    "state": "New York",
+    "city": "New York City",
+    "age": 55,
+    "gender": "Male",
+    "summary": "R&B singer R. Kelly was sentenced to 30 years for sex trafficking and racketeering. He was later convicted of child pornography charges in Chicago. Victims described decades of abuse.",
+    "lastSeen": "Various dates, New York and Chicago courtrooms",
+    "tags": [
+      "sex trafficking",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "R. Kelly sentencing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/R._Kelly#Federal_trial_in_New_York"
+      },
+      {
+        "title": "Kelly sentenced - New York Times",
+        "url": "https://www.nytimes.com/2022/06/29/arts/music/r-kelly-sentencing.html"
+      },
+      {
+        "title": "Kelly conviction - CNN",
+        "url": "https://www.cnn.com/2022/06/29/entertainment/r-kelly-sentencing/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 29, 2022, R&B singer R. Kelly (Robert Sylvester Kelly) was sentenced to 30 years in federal prison after his conviction on sex trafficking and racketeering charges.",
+      "Kelly had operated a criminal enterprise to recruit and sexually abuse women and underage girls for decades. His inner circle helped identify and groom victims.",
+      "In September 2022, Kelly was convicted in a separate Chicago federal trial of child pornography charges related to videos showing him sexually abusing minors. He was sentenced to an additional 20 years.",
+      "The case was propelled by the 2019 documentary series 'Surviving R. Kelly.' Despite decades of allegations, Kelly had avoided accountability until the #MeToo movement shifted public sentiment."
+    ],
+    "timeline": [
+      {
+        "date": "2021-09-27",
+        "event": "Convicted of sex trafficking in New York."
+      },
+      {
+        "date": "2022-06-29",
+        "event": "Sentenced to 30 years."
+      },
+      {
+        "date": "2022-09-14",
+        "event": "Convicted of child pornography in Chicago."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "tyre-nichols-2023",
+    "name": "Tyre Nichols",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "January 7, 2023",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "age": 29,
+    "gender": "Male",
+    "summary": "Tyre Nichols was beaten to death by five Memphis police officers after a traffic stop. Body camera footage showed a prolonged assault. Three officers were convicted of federal civil rights violations.",
+    "lastSeen": "January 7, 2023, Memphis, Shelby County, Tennessee",
+    "tags": [
+      "homicide",
+      "police",
+      "Tennessee",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Tyre Nichols - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Tyre_Nichols"
+      },
+      {
+        "title": "Nichols case - Commercial Appeal",
+        "url": "https://www.commercialappeal.com/story/news/crime/tyre-nichols/"
+      },
+      {
+        "title": "Nichols body camera - CNN",
+        "url": "https://www.cnn.com/2023/01/27/us/tyre-nichols-memphis-police-body-camera/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 7, 2023, Tyre Nichols, a 29-year-old Black man, was stopped by Memphis police during a traffic stop. Officers pulled him from his car and attempted to detain him. Nichols ran.",
+      "Body camera footage showed five officers—all Black members of the SCORPION unit—punching, kicking, and beating Nichols with a baton after catching him near his home. He called out for his mother.",
+      "Nichols died three days later from his injuries. The footage, released on January 27, triggered nationwide protests. The SCORPION unit was permanently disbanded.",
+      "Five officers were fired and charged federally. In 2024, three were convicted of witness tampering and federal civil rights violations. Two others pleaded guilty."
+    ],
+    "timeline": [
+      {
+        "date": "2023-01-07",
+        "event": "Tyre Nichols beaten by police."
+      },
+      {
+        "date": "2023-01-10",
+        "event": "Nichols dies from injuries."
+      },
+      {
+        "date": "2024-10-03",
+        "event": "Three officers convicted."
+      }
+    ],
+    "enriched": true
   }
 ]
