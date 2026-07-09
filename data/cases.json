@@ -54365,5 +54365,1257 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "trudy-appleby-1996",
+    "name": "Trudy Appleby",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1996,
+    "date": "August 21, 1996",
+    "state": "Illinois",
+    "city": "Moline",
+    "age": 11,
+    "gender": "Female",
+    "summary": "Eleven-year-old Trudy Appleby vanished from Moline, Illinois on a hot summer day. A family friend was named a person of interest but was never charged. Her body has never been found.",
+    "lastSeen": "August 21, 1996, near her home in Moline, Illinois",
+    "tags": [
+      "missing person",
+      "child",
+      "Illinois",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Trudy Appleby - Charley Project",
+        "url": "http://charleyproject.org/case/trudy-lynn-appleby"
+      },
+      {
+        "title": "Appleby case - Quad-City Times",
+        "url": "https://qctimes.com/news/local/trudy-appleby/"
+      }
+    ],
+    "narrative": [
+      "On August 21, 1996, eleven-year-old Trudy Appleby was last seen near her home in Moline, Illinois. She had told a friend she was going swimming at a spot along the Mississippi River.",
+      "Trudy never came home. Despite extensive searches of the river and surrounding areas, no trace of her was found.",
+      "In 2013, a family friend named William 'Ed' Smith was publicly identified as a person of interest after police received new information. Smith denied involvement and was never charged.",
+      "The case remains open with Moline police. Trudy's family continues to seek answers about what happened to the girl on that August afternoon."
+    ],
+    "timeline": [
+      {
+        "date": "1996-08-21",
+        "event": "Trudy Appleby vanishes in Moline, Illinois."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "bianca-devins-2019",
+    "name": "Bianca Devins",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "July 14, 2019",
+    "state": "New York",
+    "city": "Utica",
+    "age": 17,
+    "gender": "Female",
+    "summary": "Seventeen-year-old Bianca Devins was murdered by Brandon Clark, who then posted photos of her body on Instagram. The case highlighted issues of online violence and platform responsibility.",
+    "lastSeen": "July 14, 2019, Utica, New York",
+    "tags": [
+      "homicide",
+      "New York",
+      "2010s",
+      "social media",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Bianca Devins - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Bianca_Devins"
+      },
+      {
+        "title": "Bianca Devins case - Syracuse.com",
+        "url": "https://www.syracuse.com/crime/bianca-devins/"
+      },
+      {
+        "title": "Platform responsibility - The Verge",
+        "url": "https://www.theverge.com/2019/7/15/bianca-devins-instagram/"
+      }
+    ],
+    "narrative": [
+      "On July 14, 2019, seventeen-year-old Bianca Devins was murdered by twenty-one-year-old Brandon Clark after they attended a concert together in Queens, New York. Clark slit Bianca's throat in his car after they returned to the Utica area.",
+      "Clark then posted graphic photos of Bianca's body on Instagram and Discord before calling 911. When police arrived, Clark cut his own throat and stabbed himself in the neck but survived.",
+      "The photos spread rapidly across social media platforms despite efforts to remove them. Online communities where Clark had been active celebrated the killing, leading to widespread discussion about internet radicalization and misogyny.",
+      "Clark pleaded guilty to second-degree murder and was sentenced to 25 years to life in prison. The case prompted new conversations about platform responsibility and the speed of content moderation."
+    ],
+    "timeline": [
+      {
+        "date": "2019-07-14",
+        "event": "Bianca Devins murdered; photos posted online."
+      },
+      {
+        "date": "2020-03-16",
+        "event": "Brandon Clark pleads guilty; sentenced to 25 years to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "daniel-entwistle-2006",
+    "name": "Rachel & Lillian Entwistle",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2006,
+    "date": "January 20, 2006",
+    "state": "Massachusetts",
+    "city": "Hopkinton",
+    "age": null,
+    "gender": "Female",
+    "summary": "Neil Entwistle shot his wife Rachel and infant daughter Lillian before fleeing to England. He was extradited and convicted of double murder.",
+    "lastSeen": "January 20, 2006, their home in Hopkinton, Massachusetts",
+    "tags": [
+      "homicide",
+      "Massachusetts",
+      "2000s",
+      "domestic violence",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Neil Entwistle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Neil_Entwistle"
+      },
+      {
+        "title": "Entwistle case - Boston Globe",
+        "url": "https://www.bostonglobe.com/metro/entwistle/"
+      },
+      {
+        "title": "Entwistle trial - CNN",
+        "url": "https://www.cnn.com/2008/CRIME/06/26/entwistle.trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 20, 2006, Rachel Entwistle, 27, and her nine-month-old daughter Lillian Rose were found shot dead in the master bedroom of their rented home in Hopkinton, Massachusetts. Rachel had been shot in the head; Lillian in the torso.",
+      "Rachel's husband Neil Entwistle, a British national, had already fled to England. He flew out of Logan Airport the day after the murders. He claimed he found his wife and daughter dead and panicked.",
+      "Neil was extradited from England in February 2006. Evidence showed he had searched the internet for methods of killing and had been running fraudulent internet businesses while deeply in debt.",
+      "Neil Entwistle was convicted of two counts of first-degree murder in 2008 and sentenced to life in prison without the possibility of parole."
+    ],
+    "timeline": [
+      {
+        "date": "2006-01-20",
+        "event": "Rachel and Lillian Entwistle found shot dead."
+      },
+      {
+        "date": "2006-02-16",
+        "event": "Neil Entwistle extradited from England."
+      },
+      {
+        "date": "2008-06-26",
+        "event": "Convicted of double murder; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jessica-chambers-2014",
+    "name": "Jessica Chambers",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2014,
+    "date": "December 6, 2014",
+    "state": "Mississippi",
+    "city": "Courtland",
+    "age": 19,
+    "gender": "Female",
+    "summary": "Nineteen-year-old Jessica Chambers was found set on fire on a rural road in Courtland, Mississippi. After two trials, Quinton Tellis was convicted of her murder.",
+    "lastSeen": "December 6, 2014, near her car on a rural road, Courtland, Mississippi",
+    "tags": [
+      "homicide",
+      "Mississippi",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jessica Chambers - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Chambers"
+      },
+      {
+        "title": "Jessica Chambers case - Clarion-Ledger",
+        "url": "https://www.clarionledger.com/story/news/crime/jessica-chambers/"
+      },
+      {
+        "title": "Tellis trial - CNN",
+        "url": "https://www.cnn.com/2017/10/jessica-chambers-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On December 6, 2014, nineteen-year-old Jessica Chambers was found engulfed in flames on a rural road near Courtland, Mississippi. First responders found her walking down the road, burned over 98% of her body. She died hours later at a Memphis hospital.",
+      "Jessica tried to speak to first responders but was so severely burned that her words were difficult to understand. Some witnesses reported she said a name.",
+      "Quinton Tellis was charged with Jessica's murder in 2016. His first trial in 2017 ended in a mistrial due to a hung jury. A second trial also ended in a mistrial in 2018.",
+      "Tellis was eventually convicted of capital murder in a third proceeding and sentenced to life in prison. He was also connected to another murder in Louisiana."
+    ],
+    "timeline": [
+      {
+        "date": "2014-12-06",
+        "event": "Jessica Chambers found set on fire; dies at hospital."
+      },
+      {
+        "date": "2017-10-01",
+        "event": "First trial ends in mistrial."
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Tellis convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "savannah-spurlock-2019",
+    "name": "Savannah Spurlock",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "January 4, 2019",
+    "state": "Kentucky",
+    "city": "Richmond",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Twenty-two-year-old Savannah Spurlock was last seen leaving a Lexington bar with three men. Her remains were found months later at the property of David Sparks, who pleaded guilty to murder.",
+    "lastSeen": "January 4, 2019, leaving a bar in Lexington, Kentucky",
+    "tags": [
+      "homicide",
+      "Kentucky",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Savannah Spurlock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Savannah_Spurlock"
+      },
+      {
+        "title": "Savannah Spurlock case - Lexington Herald-Leader",
+        "url": "https://www.kentucky.com/news/local/crime/savannah-spurlock/"
+      },
+      {
+        "title": "David Sparks plea - WKYT",
+        "url": "https://www.wkyt.com/2021/david-sparks-savannah-spurlock/"
+      }
+    ],
+    "narrative": [
+      "On January 4, 2019, twenty-two-year-old Savannah Spurlock, a mother of four, was last seen on surveillance footage leaving a Lexington, Kentucky bar with three men. She never returned home.",
+      "Five months later, on June 11, 2019, Savannah's remains were found buried in a shallow grave at a property in Garrard County belonging to the family of David Sparks, one of the three men seen with her that night.",
+      "Sparks initially denied involvement. Evidence showed that Savannah had gone to Sparks's home willingly, but investigators determined she was killed there.",
+      "David Sparks pleaded guilty to murder, tampering with physical evidence, and abuse of a corpse in 2021. He was sentenced to 30 years in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2019-01-04",
+        "event": "Savannah Spurlock last seen leaving a Lexington bar."
+      },
+      {
+        "date": "2019-06-11",
+        "event": "Her remains found at David Sparks's property."
+      },
+      {
+        "date": "2021-08-18",
+        "event": "Sparks pleads guilty; sentenced to 30 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jennifer-pan-murder-2010",
+    "name": "Jennifer Pan (case)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2010,
+    "date": "November 8, 2010",
+    "state": "Canada",
+    "city": "Markham",
+    "country": "Canada",
+    "age": 24,
+    "gender": "Female",
+    "summary": "Jennifer Pan hired hitmen to murder her parents in Markham, Ontario. Her mother was killed; her father survived. Pan was convicted of first-degree murder.",
+    "lastSeen": "November 8, 2010, Pan family home, Markham, Ontario, Canada",
+    "tags": [
+      "homicide",
+      "Canada",
+      "2010s",
+      "murder for hire",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Jennifer Pan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jennifer_Pan"
+      },
+      {
+        "title": "Pan case - Toronto Star",
+        "url": "https://www.thestar.com/news/crime/jennifer-pan/"
+      },
+      {
+        "title": "Pan trial - CBC News",
+        "url": "https://www.cbc.ca/news/canada/toronto/jennifer-pan/"
+      }
+    ],
+    "narrative": [
+      "On November 8, 2010, three men entered the Pan family home in Markham, Ontario and shot both parents. Bich Ha Pan, 49, was killed. Huei Hann Pan, 57, was critically wounded but survived.",
+      "Jennifer Pan, 24, initially appeared to be a victim—she was found tied up in the home and told police about a home invasion by strangers. However, her father's recovery proved fatal to her story. From his hospital bed, he told police he saw Jennifer talking calmly with the intruders.",
+      "Investigation revealed Jennifer had orchestrated the attack. She had been living an elaborate lie for years—pretending to attend university and work as a pharmacist while actually living with her boyfriend. When her parents discovered the deception, she hired hitmen to kill them.",
+      "Jennifer Pan was convicted of first-degree murder, attempted murder, and conspiracy. She was sentenced to life with no parole eligibility for 25 years."
+    ],
+    "timeline": [
+      {
+        "date": "2010-11-08",
+        "event": "Home invasion at Pan residence; mother killed."
+      },
+      {
+        "date": "2014-12-13",
+        "event": "Jennifer Pan convicted of first-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "evelyn-boswell-2019",
+    "name": "Evelyn Boswell",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "December 2019",
+    "state": "Tennessee",
+    "city": "Sullivan County",
+    "age": 1,
+    "gender": "Female",
+    "summary": "Fifteen-month-old Evelyn Boswell was reported missing in February 2020 but had actually been dead since December 2019. Her mother Megan Boswell was convicted of her murder.",
+    "lastSeen": "December 2019, Sullivan County, Tennessee",
+    "tags": [
+      "homicide",
+      "child",
+      "Tennessee",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Evelyn Boswell - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Evelyn_Boswell"
+      },
+      {
+        "title": "Evelyn Boswell case - WJHL",
+        "url": "https://www.wjhl.com/baby-evelyn-boswell/"
+      },
+      {
+        "title": "Megan Boswell conviction - WCYB",
+        "url": "https://wcyb.com/news/local/megan-boswell-trial/"
+      }
+    ],
+    "narrative": [
+      "Evelyn Mae Boswell, born in November 2018, was reported missing by her grandfather to the Sullivan County Sheriff's Office on February 18, 2020. Investigators quickly determined that no one had actually seen the child since December 2019.",
+      "Evelyn's mother, Megan Boswell, gave investigators multiple conflicting stories about the child's whereabouts, changing her account at least seven times.",
+      "On March 6, 2020, Evelyn's remains were found on property belonging to a family member in Sullivan County. She had been dead for approximately two months before being reported missing.",
+      "Megan Boswell was convicted of felony murder, aggravated child abuse, and other charges in 2023. She was sentenced to life plus 64 years in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2019-12-01",
+        "event": "Evelyn Boswell dies (approximate)."
+      },
+      {
+        "date": "2020-02-18",
+        "event": "Grandfather reports Evelyn missing."
+      },
+      {
+        "date": "2020-03-06",
+        "event": "Evelyn's remains found."
+      },
+      {
+        "date": "2023-09-29",
+        "event": "Megan Boswell convicted; sentenced to life plus 64 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "abby-williams-libby-german-2017",
+    "name": "Abby Williams & Libby German",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2017,
+    "date": "February 13, 2017",
+    "state": "Indiana",
+    "city": "Delphi",
+    "age": null,
+    "gender": "Female",
+    "summary": "Teenagers Abby Williams and Libby German were murdered on the Monon High Bridge trail in Delphi, Indiana. Richard Allen was convicted in 2024 after Libby's phone recorded the killer.",
+    "lastSeen": "February 13, 2017, Monon High Bridge trail, Delphi, Indiana",
+    "tags": [
+      "homicide",
+      "children",
+      "Indiana",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murders of Abby Williams and Libby German - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murders_of_Abby_Williams_and_Libby_German"
+      },
+      {
+        "title": "Delphi murders - Indianapolis Star",
+        "url": "https://www.indystar.com/news/crime/delphi-murders/"
+      },
+      {
+        "title": "Richard Allen arrest - CNN",
+        "url": "https://www.cnn.com/2022/10/31/us/delphi-murders-arrest-richard-allen/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 13, 2017, fourteen-year-old Liberty 'Libby' German and thirteen-year-old Abigail 'Abby' Williams went hiking on the Monon High Bridge trail near Delphi, Indiana. Their bodies were found the next day in a wooded area.",
+      "Libby had secretly recorded video and audio on her cell phone showing a man approaching them on the bridge. The grainy image and a voice saying 'down the hill' were released to the public. Despite millions of tips, the case went unsolved for over five years.",
+      "In October 2022, Richard Allen, 50, a Delphi resident and CVS pharmacy employee, was arrested and charged with the murders. He had actually been briefly interviewed in 2017 but was not considered a suspect until a tip was re-examined.",
+      "Allen was convicted of two counts of murder in 2024 and sentenced to 130 years in prison. His defense claimed he had been coerced into confessing while in custody."
+    ],
+    "timeline": [
+      {
+        "date": "2017-02-13",
+        "event": "Abby and Libby go missing on the Monon High Bridge trail."
+      },
+      {
+        "date": "2017-02-14",
+        "event": "Their bodies found; audio/video from Libby's phone released."
+      },
+      {
+        "date": "2022-10-28",
+        "event": "Richard Allen arrested."
+      },
+      {
+        "date": "2024-11-01",
+        "event": "Allen convicted; sentenced to 130 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ahmaud-arbery-2020",
+    "name": "Ahmaud Arbery",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "February 23, 2020",
+    "state": "Georgia",
+    "city": "Brunswick",
+    "age": 25,
+    "gender": "Male",
+    "summary": "Ahmaud Arbery was chased and shot dead while jogging in Brunswick, Georgia by three white men who claimed they suspected him of burglary. All three were convicted of murder after video went viral.",
+    "lastSeen": "February 23, 2020, Satilla Shores neighborhood, Brunswick, Georgia",
+    "tags": [
+      "homicide",
+      "Georgia",
+      "2020s",
+      "racial justice",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Ahmaud Arbery - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Ahmaud_Arbery"
+      },
+      {
+        "title": "Arbery case - Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/news/ahmaud-arbery/"
+      },
+      {
+        "title": "Arbery trial - CNN",
+        "url": "https://www.cnn.com/2021/11/ahmaud-arbery-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 23, 2020, Ahmaud Arbery, a 25-year-old Black man, was jogging through the Satilla Shores neighborhood of Brunswick, Georgia when he was chased by three white men in pickup trucks. Gregory McMichael, his son Travis McMichael, and neighbor William 'Roddie' Bryan cornered Arbery and Travis shot him three times.",
+      "The three men claimed they suspected Arbery of burglary and were attempting a 'citizen's arrest.' Local prosecutors initially declined to bring charges, with two prosecutors later indicted for their handling of the case.",
+      "In May 2020, cell phone video of the shooting recorded by Bryan was leaked online, sparking national outrage. The Georgia Bureau of Investigation took over the case and all three men were arrested.",
+      "All three were convicted of murder in November 2021 and sentenced to life in prison—the McMichaels without parole. They were also convicted of federal hate crimes in February 2022. The case led Georgia to pass its first hate crime law and reform its citizen's arrest statute."
+    ],
+    "timeline": [
+      {
+        "date": "2020-02-23",
+        "event": "Ahmaud Arbery shot and killed while jogging."
+      },
+      {
+        "date": "2020-05-07",
+        "event": "Video surfaces; arrests follow."
+      },
+      {
+        "date": "2021-11-24",
+        "event": "All three defendants convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "daniel-holtzclaw-2015",
+    "name": "Daniel Holtzclaw Victims",
+    "type": "Serial Rape/Assault",
+    "status": "Solved",
+    "year": 2015,
+    "date": "December 10, 2015",
+    "state": "Oklahoma",
+    "city": "Oklahoma City",
+    "age": null,
+    "gender": "Female",
+    "summary": "Oklahoma City police officer Daniel Holtzclaw was convicted of raping and sexually assaulting 13 Black women while on duty. He targeted vulnerable women in a low-income neighborhood.",
+    "lastSeen": "Various dates, northeast Oklahoma City, Oklahoma",
+    "tags": [
+      "sexual assault",
+      "Oklahoma",
+      "2010s",
+      "law enforcement",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Daniel Holtzclaw - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Holtzclaw"
+      },
+      {
+        "title": "Holtzclaw trial - The Oklahoman",
+        "url": "https://www.oklahoman.com/story/news/crime/holtzclaw/"
+      },
+      {
+        "title": "Holtzclaw victims - BuzzFeed News",
+        "url": "https://www.buzzfeednews.com/article/jtes/daniel-holtzclaw-women-in-their-own-words"
+      }
+    ],
+    "narrative": [
+      "Daniel Holtzclaw was an Oklahoma City police officer who sexually assaulted at least 13 women while on duty between 2011 and 2014. All of his known victims were Black women, many with criminal records or substance abuse issues—women he believed would not be taken seriously.",
+      "Holtzclaw targeted women during traffic stops and welfare checks in a low-income, predominantly Black neighborhood. He used police databases to identify vulnerable targets and leveraged his authority to coerce compliance.",
+      "His final victim, a 57-year-old grandmother, immediately reported the assault. GPS data from his patrol car corroborated victims' accounts, and DNA evidence sealed the case.",
+      "In December 2015, Holtzclaw was convicted of 18 of 36 charges, including four counts of first-degree rape. He was sentenced to 263 years in prison. The case highlighted how police officers can exploit their position and how bias against marginalized victims enables serial predators."
+    ],
+    "timeline": [
+      {
+        "date": "2014-06-18",
+        "event": "Final victim reports assault; Holtzclaw arrested."
+      },
+      {
+        "date": "2015-12-10",
+        "event": "Convicted of 18 charges; sentenced to 263 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "lauren-smith-fields-2021",
+    "name": "Lauren Smith-Fields",
+    "type": "Suspicious Death",
+    "status": "Unsolved",
+    "year": 2021,
+    "date": "December 12, 2021",
+    "state": "Connecticut",
+    "city": "Bridgeport",
+    "age": 23,
+    "gender": "Female",
+    "summary": "Twenty-three-year-old Lauren Smith-Fields was found dead after a Bumble date in Bridgeport, Connecticut. Her family alleges police mishandled the investigation due to racial bias.",
+    "lastSeen": "December 12, 2021, her apartment in Bridgeport, Connecticut",
+    "tags": [
+      "suspicious death",
+      "Connecticut",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Lauren Smith-Fields - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Lauren_Smith-Fields"
+      },
+      {
+        "title": "Smith-Fields case - Connecticut Post",
+        "url": "https://www.ctpost.com/news/lauren-smith-fields/"
+      },
+      {
+        "title": "Investigation criticism - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/lauren-smith-fields-bridgeport-death-investigation/"
+      }
+    ],
+    "narrative": [
+      "On December 12, 2021, twenty-three-year-old Lauren Smith-Fields, a Black woman, was found dead in her apartment in Bridgeport, Connecticut. She had been on a date the previous night with a man she met on the dating app Bumble.",
+      "The man, who was white and significantly older, called 911 and was briefly questioned before being released. Police did not collect his clothing or perform a thorough investigation of the scene.",
+      "Lauren's family was not notified of her death by police; they learned about it from her landlord. The family accused the Bridgeport Police Department of racism and negligence in their handling of the case.",
+      "The medical examiner ruled the cause of death as acute intoxication from a combination of fentanyl, promethazine, hydroxyzine, and alcohol. Lauren's family disputes this finding. Several officers were disciplined for their handling of the case, and the detective initially assigned was fired."
+    ],
+    "timeline": [
+      {
+        "date": "2021-12-12",
+        "event": "Lauren Smith-Fields found dead in her apartment."
+      },
+      {
+        "date": "2022-01-23",
+        "event": "Family goes public about mishandled investigation."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "shanquella-robinson-2022",
+    "name": "Shanquella Robinson",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2022,
+    "date": "October 29, 2022",
+    "state": "North Carolina",
+    "city": "Charlotte",
+    "age": 25,
+    "gender": "Female",
+    "summary": "Twenty-five-year-old Shanquella Robinson died on a group trip to Cabo San Lucas, Mexico. Video showed her being beaten by a friend. Her death was ruled homicide but no extradition has occurred.",
+    "lastSeen": "October 29, 2022, a vacation rental in San José del Cabo, Mexico",
+    "tags": [
+      "homicide",
+      "North Carolina",
+      "international",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Shanquella Robinson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Shanquella_Robinson"
+      },
+      {
+        "title": "Robinson case - Charlotte Observer",
+        "url": "https://www.charlotteobserver.com/news/local/shanquella-robinson/"
+      },
+      {
+        "title": "Mexico investigation - CNN",
+        "url": "https://www.cnn.com/2022/11/16/us/shanquella-robinson-mexico-death/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 29, 2022, twenty-five-year-old Shanquella Robinson of Charlotte, North Carolina died while on a vacation trip with friends in San José del Cabo, Mexico. Her companions initially told her mother she had died of alcohol poisoning.",
+      "Video emerged showing Shanquella being brutally beaten by one of her friends in the vacation rental. The Mexican autopsy determined her cause of death was severe spinal cord injury and atlas luxation—consistent with a violent beating.",
+      "Mexican authorities issued an arrest warrant for one of Shanquella's travel companions, but as of 2024, no extradition has been carried out by the United States.",
+      "The case highlighted jurisdictional complications in international homicide cases and raised questions about accountability when Americans are killed abroad by other Americans."
+    ],
+    "timeline": [
+      {
+        "date": "2022-10-29",
+        "event": "Shanquella Robinson dies in Cabo San Lucas."
+      },
+      {
+        "date": "2022-11-16",
+        "event": "Beating video surfaces; Mexican authorities investigate."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "israel-keyes-2012",
+    "name": "Israel Keyes Victims",
+    "type": "Serial Killer Victims",
+    "status": "Partially Solved",
+    "year": 2012,
+    "date": "December 2, 2012",
+    "state": "Alaska",
+    "city": "Anchorage",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Serial killer Israel Keyes confessed to multiple murders across the U.S. before killing himself in jail. His known victims include Samantha Koenig and the Currier couple, but the full extent is unknown.",
+    "lastSeen": "Various locations across the United States",
+    "tags": [
+      "serial killer",
+      "Alaska",
+      "2010s",
+      "unsolved victims"
+    ],
+    "sources": [
+      {
+        "title": "Israel Keyes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Israel_Keyes"
+      },
+      {
+        "title": "FBI - Israel Keyes",
+        "url": "https://www.fbi.gov/news/stories/new-information-released-in-serial-killer-case"
+      },
+      {
+        "title": "Keyes case - Anchorage Daily News",
+        "url": "https://www.adn.com/alaska-news/crime-courts/israel-keyes/"
+      }
+    ],
+    "narrative": [
+      "Israel Keyes was one of the most methodical serial killers in American history. Operating from roughly 2001 to 2012, he traveled extensively across the United States, pre-positioning 'murder kits' in various locations and targeting victims seemingly at random.",
+      "Keyes was caught in 2012 after kidnapping and murdering eighteen-year-old Samantha Koenig from a coffee stand in Anchorage, Alaska. He used her debit card, which led to his identification and arrest in Texas.",
+      "During interrogation, Keyes confessed to multiple murders, including Bill and Lorraine Currier of Essex, Vermont (killed in 2011). He hinted at many more victims but refused to provide details about all of them.",
+      "On December 2, 2012, Keyes killed himself in his jail cell in Anchorage. He took the full scope of his crimes to the grave. The FBI continues to investigate potential victims and has released sketches and information in hopes of identifying them."
+    ],
+    "timeline": [
+      {
+        "date": "2012-02-01",
+        "event": "Keyes kidnaps and murders Samantha Koenig."
+      },
+      {
+        "date": "2012-03-13",
+        "event": "Keyes arrested in Texas."
+      },
+      {
+        "date": "2012-12-02",
+        "event": "Keyes dies by suicide in jail."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "delphi-murders-bridge-guy",
+    "name": "Richard Allen (Delphi)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2017,
+    "date": "February 13, 2017",
+    "state": "Indiana",
+    "city": "Delphi",
+    "age": 50,
+    "gender": "Male",
+    "summary": "Richard Allen was convicted in 2024 of the Delphi murders of Abby Williams and Libby German. He was identified five years after the crime despite being interviewed early in the investigation.",
+    "lastSeen": "February 13, 2017, Monon High Bridge, Delphi, Indiana",
+    "tags": [
+      "homicide",
+      "Indiana",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Richard Allen (criminal) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murders_of_Abby_Williams_and_Libby_German"
+      },
+      {
+        "title": "Allen trial - Indianapolis Star",
+        "url": "https://www.indystar.com/story/news/crime/delphi-murders-trial/"
+      },
+      {
+        "title": "Allen sentencing - WTHR",
+        "url": "https://www.wthr.com/article/news/crime/delphi-murders-richard-allen-sentencing/"
+      }
+    ],
+    "narrative": [
+      "Richard Allen, 50, of Delphi, Indiana was arrested on October 28, 2022 for the February 2017 murders of Abigail Williams and Liberty German. He had worked at a local CVS pharmacy and lived in the small town the entire time.",
+      "Allen had actually been contacted by police in 2017 as part of the massive tip investigation—he admitted being on the trail that day. However, his tip was misfiled and not re-examined until 2022.",
+      "While in custody, Allen made multiple confessions to his wife and mother during recorded phone calls and to prison guards. His defense claimed these confessions were the result of psychological deterioration caused by solitary confinement.",
+      "Allen was convicted of two counts of murder in November 2024 after a dramatic trial that included testimony about Odinism-related evidence the defense had presented as an alternative theory. He was sentenced to 130 years in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2017-02-13",
+        "event": "Abby Williams and Libby German murdered in Delphi."
+      },
+      {
+        "date": "2022-10-28",
+        "event": "Richard Allen arrested."
+      },
+      {
+        "date": "2024-11-11",
+        "event": "Allen convicted; sentenced to 130 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "susan-powell-2009",
+    "name": "Susan Powell",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2009,
+    "date": "December 6, 2009",
+    "state": "Utah",
+    "city": "West Valley City",
+    "age": 28,
+    "gender": "Female",
+    "summary": "Susan Powell vanished from her home in West Valley City, Utah. Her husband Josh claimed he took their sons camping in a blizzard. Josh later murdered both sons and himself. Susan's body was never found.",
+    "lastSeen": "December 6, 2009, her home in West Valley City, Utah",
+    "tags": [
+      "missing person",
+      "homicide",
+      "Utah",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Susan Powell - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Susan_Powell"
+      },
+      {
+        "title": "Susan Powell case - Salt Lake Tribune",
+        "url": "https://www.sltrib.com/news/susan-powell/"
+      },
+      {
+        "title": "Powell case - CNN",
+        "url": "https://www.cnn.com/2012/02/05/justice/washington-powell-house-fire/index.html"
+      }
+    ],
+    "narrative": [
+      "On December 6, 2009, twenty-eight-year-old Susan Powell disappeared from her home in West Valley City, Utah. Her husband Josh told police he had taken their two young sons on a midnight camping trip in freezing weather, and when he returned, Susan was gone.",
+      "Investigators focused on Josh as the primary suspect. Evidence included Susan's blood on the floor, Josh's rental of a car with the back seats removed, and cell phone records placing him in the desert that night. However, no body was found and Josh was never charged.",
+      "Josh moved with his sons to Washington state, where he fought for custody against Susan's parents. On February 5, 2012, during a supervised visit, Josh locked the caseworker out, attacked his sons Charlie (7) and Braden (5) with a hatchet, then set the house on fire, killing all three.",
+      "Susan's body has never been found. West Valley City police have named Josh Powell as the sole person of interest but closed the active investigation since both the suspect and the only potential witnesses are dead."
+    ],
+    "timeline": [
+      {
+        "date": "2009-12-06",
+        "event": "Susan Powell vanishes from her home."
+      },
+      {
+        "date": "2012-02-05",
+        "event": "Josh Powell murders sons and himself."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "richard-matt-david-sweat-2015",
+    "name": "Richard Matt & David Sweat Prison Escape",
+    "type": "Fugitive",
+    "status": "Solved",
+    "year": 2015,
+    "date": "June 6, 2015",
+    "state": "New York",
+    "city": "Dannemora",
+    "age": null,
+    "gender": "Male",
+    "summary": "Convicted murderers Richard Matt and David Sweat escaped from Clinton Correctional Facility using power tools smuggled by a prison employee. Matt was killed and Sweat was recaptured after 23 days.",
+    "lastSeen": "June 6, 2015, Clinton Correctional Facility, Dannemora, New York",
+    "tags": [
+      "fugitive",
+      "New York",
+      "2010s",
+      "prison escape",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "2015 Clinton Correctional escape - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2015_Clinton_Correctional_Facility_escape"
+      },
+      {
+        "title": "Prison break - New York Times",
+        "url": "https://www.nytimes.com/2015/06/08/nyregion/escape-from-clinton-correctional-facility/"
+      },
+      {
+        "title": "Showtime Escape at Dannemora - CNN",
+        "url": "https://www.cnn.com/2015/06/06/us/new-york-prison-break/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 6, 2015, convicted murderers Richard Matt, 48, and David Sweat, 35, escaped from Clinton Correctional Facility, a maximum-security prison in Dannemora, New York. They cut through cell walls and steam pipes using power tools, then crawled through tunnels to a manhole outside the prison walls.",
+      "The escape was aided by prison employee Joyce Mitchell, who had developed romantic relationships with both men. She smuggled hacksaw blades, chisels, and other tools inside frozen hamburger meat. She was supposed to be their getaway driver but backed out.",
+      "A massive 23-day manhunt involving over 1,000 law enforcement officers combed the dense woods of northern New York. On June 26, Matt was shot and killed by a Border Patrol agent near Malone, NY after failing to comply with orders.",
+      "Sweat was shot and captured on June 28, about two miles from the Canadian border. Joyce Mitchell pleaded guilty to promoting prison contraband and was sentenced to 2-7 years."
+    ],
+    "timeline": [
+      {
+        "date": "2015-06-06",
+        "event": "Matt and Sweat escape from Clinton Correctional."
+      },
+      {
+        "date": "2015-06-26",
+        "event": "Richard Matt shot and killed."
+      },
+      {
+        "date": "2015-06-28",
+        "event": "David Sweat shot and recaptured."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "nancy-grace-caylee-anthony",
+    "name": "Caylee Anthony",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2008,
+    "date": "June 16, 2008",
+    "state": "Florida",
+    "city": "Orlando",
+    "age": 2,
+    "gender": "Female",
+    "summary": "Two-year-old Caylee Anthony's remains were found six months after her mother Casey failed to report her missing. Casey was controversially acquitted of murder in 2011 in what some called 'the trial of the century.'",
+    "lastSeen": "June 16, 2008, Orlando, Florida",
+    "tags": [
+      "homicide",
+      "child",
+      "Florida",
+      "2000s",
+      "controversial acquittal"
+    ],
+    "sources": [
+      {
+        "title": "Death of Caylee Anthony - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Caylee_Anthony"
+      },
+      {
+        "title": "Casey Anthony trial - CNN",
+        "url": "https://www.cnn.com/2011/CRIME/07/05/florida.casey.anthony.verdict/index.html"
+      },
+      {
+        "title": "Caylee Anthony case - Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/casey-anthony/"
+      }
+    ],
+    "narrative": [
+      "On July 15, 2008, Cindy Anthony called 911 to report her granddaughter Caylee, 2, missing—noting that her daughter Casey's car smelled like 'a dead body.' Casey had not reported Caylee missing for 31 days, telling elaborate lies about a nanny named 'Zanny.'",
+      "Casey Anthony told increasingly bizarre stories. She claimed a babysitter named Zenaida Fernandez-Gonzalez had taken Caylee and that she had been searching for her daughter secretly. None of this was true.",
+      "On December 11, 2008, Caylee's skeletal remains were found in a swampy wooded area near the Anthony home. Duct tape was found near the skull.",
+      "In a 2011 trial that captivated the nation, Casey Anthony was acquitted of first-degree murder, aggravated manslaughter, and aggravated child abuse. She was convicted only of four misdemeanor counts of lying to police. The verdict shocked many and remains one of the most controversial in American legal history."
+    ],
+    "timeline": [
+      {
+        "date": "2008-06-16",
+        "event": "Caylee Anthony last seen alive (estimated)."
+      },
+      {
+        "date": "2008-07-15",
+        "event": "Grandmother reports Caylee missing."
+      },
+      {
+        "date": "2008-12-11",
+        "event": "Caylee's remains found."
+      },
+      {
+        "date": "2011-07-05",
+        "event": "Casey Anthony acquitted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "devonte-hart-family-2018",
+    "name": "Hart Family",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "March 26, 2018",
+    "state": "California",
+    "city": "Mendocino County",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Jennifer and Sarah Hart drove their SUV off a cliff in Mendocino County, California, killing themselves and their six adopted children. The murders followed a CPS visit.",
+    "lastSeen": "March 26, 2018, Highway 1 cliff, Mendocino County, California",
+    "tags": [
+      "homicide",
+      "children",
+      "California",
+      "2010s",
+      "child welfare failure",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Hart family murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hart_family_murders"
+      },
+      {
+        "title": "Hart family case - Oregonian",
+        "url": "https://www.oregonlive.com/pacific-northwest-news/hart-family/"
+      },
+      {
+        "title": "Inquest findings - Mendocino County",
+        "url": "https://www.mendocinocounty.org/hart-family-inquest"
+      }
+    ],
+    "narrative": [
+      "On March 26, 2018, Jennifer and Sarah Hart intentionally drove their SUV off a cliff along Highway 1 in Mendocino County, California, killing themselves and their six adopted children: Markis (19), Hannah (16), Devonte (15), Abigail (14), Jeremiah (14), and Sierra (12).",
+      "The Hart family had been the subject of a viral photo showing Devonte hugging a police officer during a 2014 protest. Behind the public image, the children were being starved and abused.",
+      "A CPS caseworker from Washington state had visited their home on March 23 after a neighbor reported concerns about the children being malnourished. The family fled that same day.",
+      "Toxicology showed Jennifer Hart had a blood alcohol level of .102. Evidence showed the SUV accelerated toward the cliff edge. The case exposed catastrophic failures in the child welfare system across multiple states."
+    ],
+    "timeline": [
+      {
+        "date": "2018-03-26",
+        "event": "Hart family SUV driven off cliff; eight dead."
+      },
+      {
+        "date": "2018-04-01",
+        "event": "Case ruled murder-suicide."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gabby-petito-2021-case",
+    "name": "Gabby Petito",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2021,
+    "date": "August 27, 2021",
+    "state": "Wyoming",
+    "city": "Spread Creek",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Twenty-two-year-old Gabby Petito was murdered by her fiancé Brian Laundrie during a cross-country van trip. The case drew massive media attention as Gabby's family reported her missing and Laundrie fled.",
+    "lastSeen": "August 27, 2021, near Spread Creek Dispersed Camping Area, Bridger-Teton National Forest, Wyoming",
+    "tags": [
+      "homicide",
+      "Wyoming",
+      "2020s",
+      "domestic violence",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Gabby Petito - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito"
+      },
+      {
+        "title": "Gabby Petito case - Fox News",
+        "url": "https://www.foxnews.com/category/us/gabby-petito"
+      },
+      {
+        "title": "Petito/Laundrie timeline - CNN",
+        "url": "https://www.cnn.com/2021/10/25/us/gabby-petito-brian-laundrie-timeline/index.html"
+      }
+    ],
+    "narrative": [
+      "In the summer of 2021, Gabby Petito, 22, and her fiancé Brian Laundrie, 23, set out on a cross-country van trip, documenting their travels on social media. On August 12, police in Moab, Utah responded to a domestic incident between the couple.",
+      "On September 1, Laundrie returned to his parents' home in North Port, Florida alone, driving Gabby's van. He refused to speak with police. Gabby's mother reported her missing on September 11 after not hearing from her since August 25.",
+      "On September 19, Gabby's remains were found near Spread Creek in Bridger-Teton National Forest, Wyoming. She had been strangled. Laundrie had disappeared from his parents' home on September 13.",
+      "On October 20, Laundrie's remains were found in the Carlton Reserve in Florida. He had died from a self-inflicted gunshot wound. A notebook confession confirmed he had killed Gabby."
+    ],
+    "timeline": [
+      {
+        "date": "2021-08-27",
+        "event": "Gabby Petito murdered near Spread Creek, Wyoming (estimated)."
+      },
+      {
+        "date": "2021-09-19",
+        "event": "Gabby's remains found."
+      },
+      {
+        "date": "2021-10-20",
+        "event": "Brian Laundrie found dead with confession."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ralph-smith-springfield-three",
+    "name": "Springfield Three",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1992,
+    "date": "June 7, 1992",
+    "state": "Missouri",
+    "city": "Springfield",
+    "age": null,
+    "gender": "Female",
+    "summary": "Three women—Sherrill Levitt, her daughter Suzie Streeter, and Suzie's friend Stacy McCall—vanished from their Springfield, Missouri home on the night of a high school graduation. No trace has ever been found.",
+    "lastSeen": "June 7, 1992, Sherrill Levitt's home, Springfield, Missouri",
+    "tags": [
+      "missing person",
+      "Missouri",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Springfield Three - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Springfield_Three"
+      },
+      {
+        "title": "Springfield Three case - Springfield News-Leader",
+        "url": "https://www.news-leader.com/news/crime/springfield-three/"
+      },
+      {
+        "title": "Case overview - Springfield PD",
+        "url": "https://www.springfieldmo.gov/police/cold-cases/springfield-three"
+      }
+    ],
+    "narrative": [
+      "On June 7, 1992, Sherrill Levitt (47), her daughter Suzanne 'Suzie' Streeter (19), and Suzie's friend Stacy McCall (18) vanished from Sherrill's home in Springfield, Missouri. Suzie and Stacy had attended their high school graduation party the night before.",
+      "Friends arrived at the home the next morning to find the front porch light broken, purses and cars still present, but no sign of the three women. The dog was inside and unharmed. There was no evidence of a struggle.",
+      "The case has generated numerous theories over three decades—from serial killers to connections with local drug activity to a possible link to a nearby construction project where cadaver dogs later alerted.",
+      "Despite extensive investigation, not a single trace of the three women has ever been found. No arrests have been made. The case remains Springfield's most prominent unsolved mystery."
+    ],
+    "timeline": [
+      {
+        "date": "1992-06-07",
+        "event": "Sherrill Levitt, Suzie Streeter, and Stacy McCall vanish."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "murdaugh-housekeeper-death",
+    "name": "Gloria Satterfield",
+    "type": "Suspicious Death",
+    "status": "Solved",
+    "year": 2018,
+    "date": "February 2, 2018",
+    "state": "South Carolina",
+    "city": "Hampton",
+    "age": 57,
+    "gender": "Female",
+    "summary": "Murdaugh family housekeeper Gloria Satterfield died after a fall at the Murdaugh home. Alex Murdaugh collected $4.3 million in insurance but stole the money from her sons.",
+    "lastSeen": "February 2, 2018, Murdaugh family home, Hampton County, South Carolina",
+    "tags": [
+      "suspicious death",
+      "South Carolina",
+      "2010s",
+      "fraud",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Gloria Satterfield case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murdaugh_murders#Death_of_Gloria_Satterfield"
+      },
+      {
+        "title": "Satterfield insurance fraud - Island Packet",
+        "url": "https://www.islandpacket.com/news/state/south-carolina/murdaugh/satterfield/"
+      },
+      {
+        "title": "Satterfield sons settlement - CNN",
+        "url": "https://www.cnn.com/2021/10/28/us/gloria-satterfield-murdaugh-insurance/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 2, 2018, Gloria Satterfield, 57, the longtime housekeeper for the Murdaugh family, was found with severe head injuries at the Murdaugh home in Hampton County, South Carolina. Alex Murdaugh claimed she tripped over his dogs on the front steps.",
+      "Gloria died on February 26 from her injuries. Alex Murdaugh encouraged her sons to file a wrongful death suit against him, directing them to his friend/attorney Cory Fleming.",
+      "The insurance company paid $4.3 million to settle the claim. However, Alex Murdaugh and Cory Fleming stole all of the money—Gloria's sons never received a penny.",
+      "In 2021, after the Murdaugh murder case brought scrutiny to all of Alex's dealings, the fraud was exposed. Gloria's body was exhumed and her death was reclassified from accidental to undetermined. Alex was convicted of fraud charges related to the theft."
+    ],
+    "timeline": [
+      {
+        "date": "2018-02-02",
+        "event": "Gloria Satterfield injured at Murdaugh home."
+      },
+      {
+        "date": "2018-02-26",
+        "event": "Satterfield dies; death ruled accidental."
+      },
+      {
+        "date": "2021-10-01",
+        "event": "Insurance fraud exposed; death reclassified."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "doomsday-cult-children-2019",
+    "name": "JJ Vallow & Tylee Ryan",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "September 2019",
+    "state": "Idaho",
+    "city": "Rexburg",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "JJ Vallow (7) and Tylee Ryan (16) were murdered by their mother Lori Vallow and stepfather Chad Daybell, who held apocalyptic religious beliefs. Both children were buried on Chad's property.",
+    "lastSeen": "September 2019, Rexburg, Idaho",
+    "tags": [
+      "homicide",
+      "children",
+      "Idaho",
+      "2010s",
+      "cult",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Lori Vallow case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lori_Vallow_Daybell"
+      },
+      {
+        "title": "JJ and Tylee - East Idaho News",
+        "url": "https://www.eastidahonews.com/2020/lori-vallow-chad-daybell/"
+      },
+      {
+        "title": "Vallow conviction - CNN",
+        "url": "https://www.cnn.com/2023/05/12/us/lori-vallow-daybell-verdict/index.html"
+      }
+    ],
+    "narrative": [
+      "In September 2019, seven-year-old Joshua 'JJ' Vallow and sixteen-year-old Tylee Ryan disappeared in Rexburg, Idaho. Their mother Lori Vallow and her new husband Chad Daybell, both adherents of apocalyptic religious beliefs, claimed the children were safe.",
+      "When concerned relatives contacted police in November 2019, Lori and Chad fled to Hawaii. They refused to produce the children or explain their whereabouts.",
+      "On June 9, 2020, investigators searched Chad Daybell's property and found the children's remains. JJ had been wrapped in plastic and bound with duct tape. Tylee had been dismembered and burned.",
+      "Lori Vallow was convicted of first-degree murder in May 2023 and sentenced to life without parole. Chad Daybell was convicted in 2024 and sentenced to death. The case involved a web of apocalyptic beliefs in which the couple classified their victims as 'dark spirits' or 'zombies.'"
+    ],
+    "timeline": [
+      {
+        "date": "2019-09-23",
+        "event": "Tylee Ryan last seen alive."
+      },
+      {
+        "date": "2019-09-23",
+        "event": "JJ Vallow last seen alive."
+      },
+      {
+        "date": "2020-06-09",
+        "event": "Children's remains found on Chad Daybell's property."
+      },
+      {
+        "date": "2023-05-12",
+        "event": "Lori Vallow convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "tiger-king-carole-baskin",
+    "name": "Don Lewis",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1997,
+    "date": "August 18, 1997",
+    "state": "Florida",
+    "city": "Tampa",
+    "age": 59,
+    "gender": "Male",
+    "summary": "Millionaire exotic animal owner Don Lewis vanished in Tampa, Florida. The Netflix series 'Tiger King' revived interest in the case, implicating his wife Carole Baskin. He was declared legally dead in 2002.",
+    "lastSeen": "August 18, 1997, his home in Tampa, Florida",
+    "tags": [
+      "missing person",
+      "Florida",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Don Lewis disappearance - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Don_Lewis_(disappeared)"
+      },
+      {
+        "title": "Tiger King - Netflix",
+        "url": "https://www.netflix.com/title/81115994"
+      },
+      {
+        "title": "Lewis case reopened - Tampa Bay Times",
+        "url": "https://www.tampabay.com/news/crime/don-lewis-carole-baskin/"
+      }
+    ],
+    "narrative": [
+      "On August 18, 1997, Jack Donald 'Don' Lewis, a 59-year-old millionaire who owned numerous exotic animals in Tampa, Florida, vanished. His van was later found at a small airport, but there was no evidence he boarded a plane.",
+      "Lewis's wife Carole (now Carole Baskin) inherited his estate after he was declared legally dead in 2002. His family accused her of involvement in his disappearance and contested the will, which they claimed had been forged.",
+      "The case received renewed attention in 2020 with the Netflix series 'Tiger King,' in which Joe Exotic accused Baskin of murdering Lewis and feeding him to her big cats. Baskin has always denied any involvement.",
+      "In 2020, the case was officially reopened by the Hillsborough County Sheriff's Office. Despite new leads and increased scrutiny, no charges have been filed and Don Lewis has never been found."
+    ],
+    "timeline": [
+      {
+        "date": "1997-08-18",
+        "event": "Don Lewis disappears from Tampa."
+      },
+      {
+        "date": "2002-08-19",
+        "event": "Lewis declared legally dead."
+      },
+      {
+        "date": "2020-03-20",
+        "event": "Case receives renewed attention from Tiger King."
+      }
+    ],
+    "enriched": true
   }
 ]
