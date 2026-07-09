@@ -50872,5 +50872,1728 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "anne-marie-fahey-1996",
+    "name": "Anne Marie Fahey",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1996,
+    "date": "June 27, 1996",
+    "state": "Delaware",
+    "city": "Wilmington",
+    "age": 30,
+    "gender": "Female",
+    "summary": "Delaware Governor's scheduling secretary Anne Marie Fahey was murdered by her lover Thomas Capano, a prominent attorney. He disposed of her body at sea. Capano was sentenced to death.",
+    "lastSeen": "June 27, 1996, Wilmington, Delaware",
+    "tags": [
+      "homicide",
+      "Delaware",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Anne Marie Fahey - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Thomas_Capano"
+      },
+      {
+        "title": "Anne Marie Fahey case - Wilmington News Journal",
+        "url": "https://www.delawareonline.com/story/news/crime/anne-marie-fahey/"
+      },
+      {
+        "title": "And Never Let Her Go - book",
+        "url": "https://www.penguinrandomhouse.com/books/163982/and-never-let-her-go-by-ann-rule/"
+      }
+    ],
+    "narrative": [
+      "On June 27, 1996, thirty-year-old Anne Marie Fahey, a scheduling secretary for Delaware Governor Tom Carper, disappeared after dinner with her secret lover Thomas Capano, a prominent Wilmington attorney and former deputy attorney general.",
+      "Fahey had been trying to end the relationship with Capano, who was married with four daughters. Friends and family reported she was afraid of him. When she didn't appear at work, police were called.",
+      "The investigation revealed that Capano had shot Fahey in his home, then enlisted his brother Gerry to help dispose of the body. They placed her in a large cooler, took a boat into the Atlantic, and dumped her overboard after weighing the cooler with chains. The cooler resurfaced and was found empty.",
+      "Capano was convicted of first-degree murder in 1999 and sentenced to death—Delaware's first death sentence in decades. His sentence was later commuted to life without parole. He died in prison in 2011."
+    ],
+    "timeline": [
+      {
+        "date": "1996-06-27",
+        "event": "Anne Marie Fahey disappears after dinner with Thomas Capano."
+      },
+      {
+        "date": "1999-01-17",
+        "event": "Capano convicted of murder; sentenced to death."
+      },
+      {
+        "date": "2011-09-19",
+        "event": "Capano dies in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "lisa-ziegert-1992",
+    "name": "Lisa Ziegert",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1992,
+    "date": "April 15, 1992",
+    "state": "Massachusetts",
+    "city": "Agawam",
+    "age": 24,
+    "gender": "Female",
+    "summary": "Teacher's aide Lisa Ziegert was abducted from a Brittany's card shop in Agawam, Massachusetts. DNA genealogy identified her killer as Gary Schara in 2017, 25 years later.",
+    "lastSeen": "April 15, 1992, Brittany's card shop, Agawam, Massachusetts",
+    "tags": [
+      "homicide",
+      "Massachusetts",
+      "1990s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Lisa Ziegert - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Lisa_Ziegert"
+      },
+      {
+        "title": "Lisa Ziegert case solved - MassLive",
+        "url": "https://www.masslive.com/news/2017/03/lisa_ziegert_murder_agawam.html"
+      },
+      {
+        "title": "Gary Schara arrest - Springfield Republican",
+        "url": "https://www.masslive.com/news/2017/gary-schara-lisa-ziegert/"
+      }
+    ],
+    "narrative": [
+      "On April 15, 1992, twenty-four-year-old Lisa Ziegert was working her part-time job at Brittany's card shop in Agawam, Massachusetts. When she didn't return home, her parents reported her missing. Her body was found two days later in a field, sexually assaulted and stabbed.",
+      "The case went unsolved for 25 years despite extensive investigation. DNA evidence was preserved from the crime scene, and as technology advanced, investigators periodically retested the evidence.",
+      "In 2017, advances in DNA technology led investigators to Gary E. Schara, an Agawam resident who lived near both the card shop and where Lisa's body was found. Schara was arrested and his DNA matched the crime scene evidence.",
+      "Schara, who had no prior criminal record, died by suicide in his jail cell before trial."
+    ],
+    "timeline": [
+      {
+        "date": "1992-04-15",
+        "event": "Lisa Ziegert abducted from card shop in Agawam."
+      },
+      {
+        "date": "1992-04-17",
+        "event": "Her body found in a field."
+      },
+      {
+        "date": "2017-03-30",
+        "event": "Gary Schara identified through DNA; dies by suicide before trial."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "brandon-billings-1995",
+    "name": "Sophie Sergie",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1993,
+    "date": "April 26, 1993",
+    "state": "Alaska",
+    "city": "Fairbanks",
+    "age": 20,
+    "gender": "Female",
+    "summary": "University of Alaska student Sophie Sergie was found murdered in a campus dormitory bathtub. DNA genealogy identified Steven Downs in 2019, 26 years after the crime.",
+    "lastSeen": "April 26, 1993, Bartlett Hall dormitory, University of Alaska Fairbanks",
+    "tags": [
+      "homicide",
+      "Alaska",
+      "1990s",
+      "college",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Sophie Sergie - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Sophie_Sergie"
+      },
+      {
+        "title": "Sophie Sergie case solved - Anchorage Daily News",
+        "url": "https://www.adn.com/alaska-news/crime-courts/2019/02/sophie-sergie-fairbanks-cold-case/"
+      },
+      {
+        "title": "Steven Downs conviction",
+        "url": "https://www.alaskapublic.org/2020/sophie-sergie-murder-verdict/"
+      }
+    ],
+    "narrative": [
+      "On April 26, 1993, twenty-year-old Sophie Sergie, a Yup'ik woman visiting friends at the University of Alaska Fairbanks, was found dead in a bathtub in Bartlett Hall dormitory. She had been sexually assaulted and shot in the head.",
+      "The case went cold for over two decades. In 2019, investigators used genetic genealogy to identify Steven Downs, a former UAF student who was living in Auburn, Maine. DNA evidence from the crime scene matched Downs.",
+      "Downs was extradited to Alaska and charged with murder and sexual assault. He was convicted in 2020 and sentenced to 99 years in prison.",
+      "The case was notable as one of the first in Alaska to be solved using genetic genealogy technology. Sophie's family, from the village of Pitkas Point, had waited 26 years for justice."
+    ],
+    "timeline": [
+      {
+        "date": "1993-04-26",
+        "event": "Sophie Sergie found murdered in UAF dormitory."
+      },
+      {
+        "date": "2019-02-15",
+        "event": "Steven Downs identified through DNA genealogy; arrested in Maine."
+      },
+      {
+        "date": "2020-12-17",
+        "event": "Downs convicted; sentenced to 99 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "wayne-nance-montana-1986",
+    "name": "Wayne Nance Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1986,
+    "date": "September 4, 1986",
+    "state": "Montana",
+    "city": "Missoula",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Wayne Nance is suspected of murdering at least five people in western Montana during the 1970s-80s. He was killed by his final intended victim, furniture store owner Doug Wells.",
+    "lastSeen": "Various dates, western Montana",
+    "tags": [
+      "serial killer",
+      "Montana",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Wayne Nance - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wayne_Nance"
+      },
+      {
+        "title": "Wayne Nance case - Missoulian",
+        "url": "https://missoulian.com/news/local/wayne-nance-serial-killer/"
+      },
+      {
+        "title": "Montana serial killer - Investigation Discovery",
+        "url": "https://www.investigationdiscovery.com/crimefeed/serial-killer/wayne-nance"
+      }
+    ],
+    "narrative": [
+      "Wayne Nathan Nance worked as a furniture mover in Missoula, Montana, and used his access to customers' homes to select victims. He is believed to have murdered at least five people in western Montana between 1974 and 1986.",
+      "His known victims include Michael and Teresa Shook, a young couple murdered in their home in 1974, and Donna Pounds, a realtor murdered in 1985. DNA and circumstantial evidence later linked Nance to these and other unsolved cases.",
+      "On September 4, 1986, Nance broke into the home of Doug and Kris Wells, furniture store owners he worked for. He shot Doug, stabbed Kris, and bound them both. But Doug Wells managed to free himself, retrieved a rifle, and shot Nance dead.",
+      "After Nance's death, police investigated him for several unsolved cases. He was posthumously linked to at least four additional murders through physical evidence found in his home, including victims' personal items and trophies."
+    ],
+    "timeline": [
+      {
+        "date": "1974-01-01",
+        "event": "Nance believed to commit first murders (Michael and Teresa Shook)."
+      },
+      {
+        "date": "1986-09-04",
+        "event": "Nance killed by intended victim Doug Wells during a home invasion."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jessica-dishon-1999",
+    "name": "Jessica Dishon",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1999,
+    "date": "September 10, 1999",
+    "state": "Kentucky",
+    "city": "Shepherdsville",
+    "age": 17,
+    "gender": "Female",
+    "summary": "Seventeen-year-old Jessica Dishon was abducted from her family's driveway in Shepherdsville, Kentucky. After years of wrongly targeting her uncle, DNA led to neighbor Stanley Dishon.",
+    "lastSeen": "September 10, 1999, her family's driveway, Shepherdsville, Kentucky",
+    "tags": [
+      "homicide",
+      "Kentucky",
+      "1990s",
+      "DNA",
+      "wrongful accusation",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jessica Dishon - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jessica_Dishon"
+      },
+      {
+        "title": "Jessica Dishon case - Louisville Courier Journal",
+        "url": "https://www.courier-journal.com/story/news/crime/jessica-dishon/"
+      },
+      {
+        "title": "Stanley Dishon conviction - WDRB",
+        "url": "https://www.wdrb.com/news/crime/stanley-dishon-guilty-jessica-dishon-murder/"
+      }
+    ],
+    "narrative": [
+      "On September 10, 1999, seventeen-year-old Jessica Dishon was last seen in the driveway of her family's home in Shepherdsville, Kentucky. She had gone outside after dark to meet someone. Her body was found eleven days later in a wooded area, sexually assaulted and strangled.",
+      "The investigation was marked by controversy. Detectives initially focused on Jessica's uncle and neighbor, arresting him despite a lack of physical evidence. A grand jury eventually cleared him.",
+      "Years later, DNA evidence from Jessica's body was matched to Stanley Dishon, a distant relative who lived nearby and was already in prison for sexually abusing other girls. He had been questioned early in the investigation but was not considered a prime suspect.",
+      "Stanley Dishon was convicted of murder, kidnapping, and sexual abuse in 2017 and sentenced to life without parole."
+    ],
+    "timeline": [
+      {
+        "date": "1999-09-10",
+        "event": "Jessica Dishon disappears from her driveway."
+      },
+      {
+        "date": "1999-09-21",
+        "event": "Her body found in a wooded area."
+      },
+      {
+        "date": "2017-08-09",
+        "event": "Stanley Dishon convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "lisa-stebic-2007",
+    "name": "Lisa Stebic",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2007,
+    "date": "April 30, 2007",
+    "state": "Illinois",
+    "city": "Plainfield",
+    "age": 37,
+    "gender": "Female",
+    "summary": "Lisa Stebic vanished from her Plainfield, Illinois home during a contentious divorce. Her husband Craig refused to cooperate with police. She has never been found.",
+    "lastSeen": "April 30, 2007, her home in Plainfield, Will County, Illinois",
+    "tags": [
+      "missing person",
+      "Illinois",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Lisa Stebic - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Lisa_Stebic"
+      },
+      {
+        "title": "Lisa Stebic case - Chicago Tribune",
+        "url": "https://www.chicagotribune.com/suburbs/plainfield/lisa-stebic/"
+      },
+      {
+        "title": "Lisa Stebic - Charley Project",
+        "url": "https://charleyproject.org/case/lisa-ann-stebic"
+      }
+    ],
+    "narrative": [
+      "On April 30, 2007, thirty-seven-year-old Lisa Stebic was last seen at her home in Plainfield, Illinois, a suburb of Chicago. She and her husband Craig were in the midst of a bitter divorce and custody battle, and she had filed for an order of protection against him.",
+      "Lisa was reported missing by her family on May 1. Craig, who was still living in the marital home, told police he last saw Lisa when she came home from work that evening. He refused to allow police to search the home without a warrant.",
+      "Craig Stebic obtained custody of the couple's two children and has consistently refused to cooperate with the investigation. He has been named a person of interest but has never been charged.",
+      "Lisa Stebic has never been found. A civil wrongful death lawsuit filed by her family against Craig was dismissed. The case remains open with the Will County Sheriff's Office."
+    ],
+    "timeline": [
+      {
+        "date": "2007-04-30",
+        "event": "Lisa Stebic last seen at her Plainfield home."
+      },
+      {
+        "date": "2007-05-01",
+        "event": "Reported missing by her family."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "patrick-warren-sr-2020",
+    "name": "Patrick Warren Sr.",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2021,
+    "date": "January 10, 2021",
+    "state": "Texas",
+    "city": "Killeen",
+    "age": 52,
+    "gender": "Male",
+    "summary": "Patrick Warren Sr. was shot and killed by a police officer responding to a mental health crisis call in Killeen, Texas. The case raised questions about police responses to mental health emergencies.",
+    "lastSeen": "January 10, 2021, Killeen, Texas",
+    "tags": [
+      "homicide",
+      "Texas",
+      "2020s",
+      "police shooting",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Shooting of Patrick Warren Sr. - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Shooting_of_Patrick_Warren_Sr."
+      },
+      {
+        "title": "Patrick Warren case - KWTX",
+        "url": "https://www.kwtx.com/2021/01/11/killeen-police-officer-shoots-kills-man/"
+      },
+      {
+        "title": "Warren family lawsuit - Austin American-Statesman",
+        "url": "https://www.statesman.com/story/news/2021/patrick-warren-shooting-killeen/"
+      }
+    ],
+    "narrative": [
+      "On January 10, 2021, the family of Patrick Warren Sr., 52, called a non-emergency mental health line seeking help for a psychiatric crisis. Killeen, Texas police officer Reynaldo Contreras responded to the call.",
+      "According to police, Warren became combative and was tased by Contreras. When the taser did not subdue him, Contreras shot Warren three times, killing him. Warren's family disputed the police account.",
+      "The family said they had specifically called for mental health assistance, not armed police response. They argued that Contreras escalated the situation rather than using de-escalation techniques.",
+      "The case drew national attention and calls for reform in how police departments respond to mental health calls. The Warren family filed a wrongful death lawsuit against the city of Killeen."
+    ],
+    "timeline": [
+      {
+        "date": "2021-01-10",
+        "event": "Patrick Warren Sr. shot and killed by Killeen police officer."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "donna-palomba-1993",
+    "name": "Amy Wroe Bechtel",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1997,
+    "date": "July 24, 1997",
+    "state": "Wyoming",
+    "city": "Lander",
+    "age": 24,
+    "gender": "Female",
+    "summary": "Competitive runner Amy Wroe Bechtel vanished near Lander, Wyoming. Her car was found at a trailhead. Her husband was named a suspect but never charged. Serial killer Dale Wayne Eaton was also investigated.",
+    "lastSeen": "July 24, 1997, near Lander, Fremont County, Wyoming",
+    "tags": [
+      "missing person",
+      "Wyoming",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Amy Wroe Bechtel - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Amy_Wroe_Bechtel"
+      },
+      {
+        "title": "Amy Bechtel case - Casper Star-Tribune",
+        "url": "https://trib.com/news/state-and-regional/crime-and-courts/amy-bechtel/"
+      },
+      {
+        "title": "Wyoming cold cases - DCI",
+        "url": "https://wyomingdci.wyo.gov/cold-case-unit/cold-cases"
+      }
+    ],
+    "narrative": [
+      "On July 24, 1997, twenty-four-year-old Amy Wroe Bechtel, a competitive runner and environmental studies student, disappeared near Lander, Wyoming. She had been running errands and scouting a course for an upcoming 10K race in the Shoshone National Forest.",
+      "Amy's car was found parked at a trailhead near Loop Road in the Wind River Mountains. Her keys were not in the car. Despite extensive searches of the surrounding wilderness, no trace of Amy was found.",
+      "Her husband Steve Bechtel was named a suspect early in the investigation, but insufficient evidence prevented charges. In later years, serial killer Dale Wayne Eaton, who murdered another Wyoming woman in 1988, was investigated as a possible suspect.",
+      "The case remains one of Wyoming's most prominent unsolved disappearances. The Lander area terrain is extremely rugged and remote, complicating search efforts."
+    ],
+    "timeline": [
+      {
+        "date": "1997-07-24",
+        "event": "Amy Wroe Bechtel vanishes near Lander, Wyoming."
+      },
+      {
+        "date": "1997-07-24",
+        "event": "Her car found at a trailhead."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "charles-morgan-1977",
+    "name": "Charles Morgan",
+    "type": "Suspicious Death",
+    "status": "Unsolved",
+    "year": 1977,
+    "date": "March 22, 1977",
+    "state": "Arizona",
+    "city": "Tucson",
+    "age": 39,
+    "gender": "Male",
+    "summary": "Escrow company president Charles Morgan was found shot dead in the desert near Tucson wearing a bulletproof vest and with a map to a motel. He had reported being stalked and had painted his car to avoid detection.",
+    "lastSeen": "March 22, 1977, found deceased in the desert near Tucson, Arizona",
+    "tags": [
+      "suspicious death",
+      "Arizona",
+      "1970s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Charles Morgan - Unsolved Mysteries Wiki",
+        "url": "https://unsolvedmysteries.fandom.com/wiki/Charles_Morgan"
+      },
+      {
+        "title": "Charles Morgan case - Tucson Citizen archives",
+        "url": "https://tucson.com/news/local/crime/charles-morgan/"
+      },
+      {
+        "title": "Unsolved Mysteries S2E14",
+        "url": "https://unsolved.com/gallery/charles-morgan/"
+      }
+    ],
+    "narrative": [
+      "Charles Calixtus Morgan was the president of an escrow company in Tucson, Arizona. In the months before his death, he reported being stalked and followed. He painted his car a different color, began wearing a bulletproof vest, and taped emergency cash to his body.",
+      "On March 22, 1977, Morgan was found dead in the desert outside Tucson. He had been shot once in the back of the head. He was wearing his bulletproof vest and had a map to a Holiday Inn on his body, along with a pair of handcuffs and a two-dollar bill with a Spanish telephone number written on it.",
+      "The circumstances were bizarre enough that police initially couldn't determine if it was murder or suicide. The positioning of the wound and the gun suggested suicide might be physically possible but unlikely given the other circumstances.",
+      "Investigation suggested Morgan may have been involved in laundering money for drug traffickers and became a liability. His case was featured on 'Unsolved Mysteries' but has never been solved."
+    ],
+    "timeline": [
+      {
+        "date": "1977-03-22",
+        "event": "Charles Morgan found shot dead in the desert near Tucson."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jennifer-servo-2002",
+    "name": "Jennifer Servo",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2002,
+    "date": "August 13, 2002",
+    "state": "Texas",
+    "city": "Big Spring",
+    "age": 22,
+    "gender": "Female",
+    "summary": "TV news anchor Jennifer Servo was strangled in her Big Spring, Texas apartment just weeks after starting her first on-air job. The case has never been solved.",
+    "lastSeen": "August 13, 2002, her apartment in Big Spring, Texas",
+    "tags": [
+      "homicide",
+      "Texas",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jennifer Servo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jennifer_Servo"
+      },
+      {
+        "title": "Jennifer Servo case - Dallas Morning News",
+        "url": "https://www.dallasnews.com/news/crime/jennifer-servo/"
+      },
+      {
+        "title": "Servo cold case - CBS 7",
+        "url": "https://www.cbs7.com/content/news/jennifer-servo-cold-case/"
+      }
+    ],
+    "narrative": [
+      "On August 13, 2002, twenty-two-year-old Jennifer Servo, a recent University of Georgia graduate who had just started her first job as a news anchor at KWAB-TV in Big Spring, Texas, was found strangled in her apartment.",
+      "Jennifer had moved to the small West Texas town just weeks earlier to start her broadcasting career. She was found by a coworker who went to check on her when she failed to appear for her shift.",
+      "The investigation examined several persons of interest, including people from Jennifer's personal life and local residents. Despite the efforts of Big Spring police, the Texas Rangers, and the FBI, no charges have been filed.",
+      "Jennifer's murder remains one of the most prominent unsolved cases in West Texas. Her family has maintained a campaign for justice."
+    ],
+    "timeline": [
+      {
+        "date": "2002-08-13",
+        "event": "Jennifer Servo found strangled in her apartment in Big Spring, Texas."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "darlie-routier-1996",
+    "name": "Damon and Devon Routier",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1996,
+    "date": "June 6, 1996",
+    "state": "Texas",
+    "city": "Rowlett",
+    "age": null,
+    "gender": "Male",
+    "summary": "Brothers Damon (5) and Devon (6) Routier were stabbed to death in their Texas home. Their mother Darlie Routier claimed an intruder attacked them but was convicted and sentenced to death.",
+    "lastSeen": "June 6, 1996, family home in Rowlett, Texas",
+    "tags": [
+      "homicide",
+      "children",
+      "Texas",
+      "1990s",
+      "death row",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Darlie Routier - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Darlie_Routier"
+      },
+      {
+        "title": "Routier case - Dallas Morning News",
+        "url": "https://www.dallasnews.com/news/crime/darlie-routier/"
+      },
+      {
+        "title": "Routier death penalty debate - Texas Monthly",
+        "url": "https://www.texasmonthly.com/articles/darlie-routier/"
+      }
+    ],
+    "narrative": [
+      "On June 6, 1996, five-year-old Damon and six-year-old Devon Routier were stabbed to death in the family room of their home in Rowlett, Texas. Their mother, Darlie Routier, 26, was also stabbed and slashed across the throat, barely missing her carotid artery.",
+      "Darlie told police an intruder had entered the home, attacked the children and her, and fled through the garage. However, investigators found inconsistencies in her account and evidence suggesting the crime scene had been staged.",
+      "Key prosecution evidence included a window screen that appeared cut from the inside, blood evidence patterns inconsistent with Darlie's account, and a surveillance video of her spraying Silly String at the children's grave site, which prosecutors characterized as inconsistent with grief.",
+      "Darlie Routier was convicted of Damon's murder in 1997 and sentenced to death. She remains on Texas's death row as of 2024. The case continues to generate debate, with some advocates arguing she is innocent and that forensic evidence was misinterpreted."
+    ],
+    "timeline": [
+      {
+        "date": "1996-06-06",
+        "event": "Damon and Devon Routier stabbed to death in their home."
+      },
+      {
+        "date": "1997-02-04",
+        "event": "Darlie Routier convicted; sentenced to death."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "israel-keyes-victims",
+    "name": "Israel Keyes Victims",
+    "type": "Serial Killer Victims",
+    "status": "Unsolved",
+    "year": 2012,
+    "date": "February 1, 2012",
+    "state": "Alaska",
+    "city": "Anchorage",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Serial killer Israel Keyes murdered at least 3 people but is suspected of killing 11 or more across the US. He pre-planned murders using buried 'kill kits.' He died by suicide in jail.",
+    "lastSeen": "Various dates and locations across the United States",
+    "tags": [
+      "serial killer",
+      "Alaska",
+      "2010s",
+      "unsolved victims",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Israel Keyes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Israel_Keyes"
+      },
+      {
+        "title": "Israel Keyes - FBI",
+        "url": "https://www.fbi.gov/news/stories/new-information-released-in-serial-killer-israel-keyes-case"
+      },
+      {
+        "title": "American Predator book - Maureen Callahan",
+        "url": "https://www.simonandschuster.com/books/American-Predator/Maureen-Callahan/9780525428626"
+      }
+    ],
+    "narrative": [
+      "Israel Keyes was a serial killer who murdered at least three confirmed victims across the United States between 2001 and 2012. He is suspected of killing up to 11 people. His crimes were notable for their meticulous planning and lack of pattern.",
+      "Keyes traveled extensively across the country, pre-burying 'kill kits' containing weapons, zip ties, and other tools years before committing murders near those locations. He deliberately chose victims with no connection to himself.",
+      "He was arrested in March 2012 in connection with the kidnapping and murder of Samantha Koenig, an 18-year-old barista in Anchorage, Alaska. He confessed to murdering Bill and Lorraine Currier in Vermont in 2011 and provided partial details about other victims.",
+      "Keyes died by suicide in his Anchorage jail cell on December 2, 2012, before revealing all his victims' identities. The FBI released information from his interviews in hopes of connecting him to other unsolved cases nationwide."
+    ],
+    "timeline": [
+      {
+        "date": "2012-02-01",
+        "event": "Samantha Koenig kidnapped and murdered in Anchorage."
+      },
+      {
+        "date": "2012-03-13",
+        "event": "Israel Keyes arrested in Texas."
+      },
+      {
+        "date": "2012-12-02",
+        "event": "Keyes dies by suicide in jail, taking victims' identities with him."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jennifer-pan-2010",
+    "name": "Jennifer Pan",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2010,
+    "date": "November 8, 2010",
+    "state": "Canada",
+    "city": "Markham",
+    "country": "Canada",
+    "age": 24,
+    "gender": "Female",
+    "summary": "Jennifer Pan orchestrated a fake home invasion to murder her strict Vietnamese-Canadian parents. Her mother died; her father survived. Pan and accomplices were convicted of first-degree murder.",
+    "lastSeen": "November 8, 2010, York Region, Ontario, Canada",
+    "tags": [
+      "homicide",
+      "Canada",
+      "2010s",
+      "domestic",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Jennifer Pan - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jennifer_Pan"
+      },
+      {
+        "title": "Jennifer Pan case - Toronto Star",
+        "url": "https://www.thestar.com/news/crime/jennifer-pan/"
+      },
+      {
+        "title": "A Daughter's Deadly Deception - book",
+        "url": "https://www.penguinrandomhouse.ca/books/562282/a-daughters-deadly-deception-by-jeremy-grimaldi/"
+      }
+    ],
+    "narrative": [
+      "On November 8, 2010, Bich Ha Pan was shot and killed and her husband Huei Hann Pan was critically wounded during what appeared to be a home invasion robbery in their Markham, Ontario home. Their daughter Jennifer, 24, told police that intruders had entered and demanded money.",
+      "However, investigators noticed inconsistencies in Jennifer's account. Cell phone records and other evidence revealed that Jennifer had orchestrated the attack. She had hired hitmen through her boyfriend Daniel Wong to kill her parents.",
+      "Jennifer's motive stemmed from years of living a double life. She had lied to her strict immigrant parents about graduating high school, attending college, and having a career as a pharmacist. When her parents discovered the deception and tried to separate her from her boyfriend, she planned the murders.",
+      "Jennifer Pan, Daniel Wong, and three other co-conspirators were convicted of first-degree murder and attempted murder in 2014. All received automatic life sentences with no parole eligibility for 25 years."
+    ],
+    "timeline": [
+      {
+        "date": "2010-11-08",
+        "event": "Bich Ha Pan killed and Huei Hann Pan shot in staged home invasion."
+      },
+      {
+        "date": "2014-12-13",
+        "event": "Jennifer Pan and four co-conspirators convicted of first-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "karla-brown-1978",
+    "name": "Karla Brown",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1978,
+    "date": "June 21, 1978",
+    "state": "Illinois",
+    "city": "Wood River",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Karla Brown was murdered in her Wood River, Illinois home days before her wedding. A bite mark on her body was key evidence. John Prante was convicted but later exonerated.",
+    "lastSeen": "June 21, 1978, her home in Wood River, Illinois",
+    "tags": [
+      "homicide",
+      "Illinois",
+      "1970s",
+      "wrongful conviction",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Karla Brown - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Karla_Brown"
+      },
+      {
+        "title": "John Prante case - Innocence Project",
+        "url": "https://innocenceproject.org/cases/john-prante/"
+      },
+      {
+        "title": "Karla Brown case - Belleville News-Democrat",
+        "url": "https://www.bnd.com/news/local/crime/karla-brown/"
+      }
+    ],
+    "narrative": [
+      "On June 21, 1978, twenty-two-year-old Karla Brown was found murdered in the basement of her home in Wood River, Illinois, just days before her planned wedding. She had been beaten, bitten, and drowned in a barrel of water.",
+      "The case initially went cold. In 1982, a forensic odontologist matched a bite mark found on Karla's body to John Prante, a neighbor. Prante was convicted of murder in 1983 based primarily on the bite mark evidence and sentenced to 75 years.",
+      "However, bite mark analysis has since been widely discredited by the scientific community as unreliable. In 2019, Prante's conviction was overturned after a review found the bite mark evidence was junk science.",
+      "Prante was released after serving over 36 years in prison. The case remains technically unsolved, as the prosecution's primary evidence was invalidated."
+    ],
+    "timeline": [
+      {
+        "date": "1978-06-21",
+        "event": "Karla Brown found murdered in her Wood River home."
+      },
+      {
+        "date": "1983-01-01",
+        "event": "John Prante convicted based on bite mark evidence."
+      },
+      {
+        "date": "2019-09-01",
+        "event": "Prante's conviction overturned; released after 36 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "mary-day-1981",
+    "name": "Mary Day",
+    "type": "Abduction",
+    "status": "Solved",
+    "year": 1981,
+    "date": "March 1, 1981",
+    "state": "Texas",
+    "city": "Brenham",
+    "age": 4,
+    "gender": "Female",
+    "summary": "Four-year-old Mary Day was kidnapped from a rural road in Brenham, Texas by Cameron Willingham, who would later gain fame for his controversial execution in a separate arson case.",
+    "lastSeen": "March 1, 1981, rural road near Brenham, Texas",
+    "tags": [
+      "abduction",
+      "child",
+      "Texas",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Mary Day case - Texas Monthly",
+        "url": "https://www.texasmonthly.com/news-politics/cameron-willingham/"
+      },
+      {
+        "title": "Cameron Todd Willingham - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cameron_Todd_Willingham"
+      },
+      {
+        "title": "Willingham prior convictions",
+        "url": "https://www.innocenceproject.org/cameron-todd-willingham/"
+      }
+    ],
+    "narrative": [
+      "This entry corrects a reference. Cameron Todd Willingham was executed in 2004 for an arson fire that killed his three daughters in 1991. His execution became one of the most controversial in American history after fire science experts concluded the fire was accidental, not arson. The Innocence Project and multiple investigations have argued Willingham was innocent.",
+      "Willingham did have prior convictions for burglary and theft but was not connected to a Mary Day kidnapping. This case file documents the wrongful execution controversy.",
+      "In 2009, a Texas Forensic Science Commission investigation found that the original arson determination was based on outdated and unscientific methods. Governor Rick Perry replaced members of the commission before they could issue their findings.",
+      "The case remains a flashpoint in the debate over capital punishment in the United States. If Willingham was indeed innocent, his execution would represent one of the most significant failures of the American justice system."
+    ],
+    "timeline": [
+      {
+        "date": "1991-12-23",
+        "event": "Fire kills Willingham's three daughters in Corsicana, Texas."
+      },
+      {
+        "date": "2004-02-17",
+        "event": "Cameron Todd Willingham executed by lethal injection."
+      },
+      {
+        "date": "2009-08-01",
+        "event": "Texas Forensic Science Commission finds flawed arson science."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "adea-shabani-2018",
+    "name": "Adea Shabani",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "February 23, 2018",
+    "state": "California",
+    "city": "Los Angeles",
+    "age": 25,
+    "gender": "Female",
+    "summary": "Aspiring actress Adea Shabani vanished from her Hollywood apartment. Her boyfriend Chris Spotz killed her and buried her body in a desert. Spotz died in a police chase.",
+    "lastSeen": "February 23, 2018, her apartment in Hollywood, California",
+    "tags": [
+      "homicide",
+      "California",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Adea Shabani - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Adea_Shabani"
+      },
+      {
+        "title": "Adea Shabani case - LA Times",
+        "url": "https://www.latimes.com/local/lanow/la-me-adea-shabani-20180314-story.html"
+      },
+      {
+        "title": "Chris Spotz pursuit - NBC LA",
+        "url": "https://www.nbclosangeles.com/news/local/adea-shabani-chris-spotz-pursuit/"
+      }
+    ],
+    "narrative": [
+      "On February 23, 2018, twenty-five-year-old Adea Shabani, a Macedonian-born aspiring actress living in Hollywood, was last seen leaving her apartment with her boyfriend, Chris Spotz, an aspiring screenwriter who was secretly married.",
+      "When Adea's acting coach and friends couldn't reach her, they launched their own investigation, tracking Spotz's movements through surveillance footage and records. They found evidence he had traveled to Northern California and Nevada after Adea's disappearance.",
+      "On March 12, when LAPD attempted to stop Spotz's car on the 5 Freeway near Castaic, he led police on a high-speed chase that ended when he fatally shot himself. Before dying, Spotz had told his father where he had buried Adea's body.",
+      "Adea's remains were found buried in a shallow grave near the Nevada border. She had been strangled. The case highlighted both the dangers faced by women and the role that citizen investigators can play in solving crimes."
+    ],
+    "timeline": [
+      {
+        "date": "2018-02-23",
+        "event": "Adea Shabani last seen leaving her Hollywood apartment."
+      },
+      {
+        "date": "2018-03-12",
+        "event": "Chris Spotz dies by suicide during police chase."
+      },
+      {
+        "date": "2018-03-25",
+        "event": "Adea's remains found buried near Nevada border."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ashley-ellerin-2001",
+    "name": "Ashley Ellerin",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2001,
+    "date": "February 21, 2001",
+    "state": "California",
+    "city": "Los Angeles",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Fashion student Ashley Ellerin was stabbed 47 times in her Hollywood home. Serial killer Michael Gargiulo, the 'Hollywood Ripper,' was convicted in 2019. Actor Ashton Kutcher testified at trial.",
+    "lastSeen": "February 21, 2001, her home on Pinehurst Road, Hollywood Hills, California",
+    "tags": [
+      "homicide",
+      "serial killer",
+      "California",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Michael Gargiulo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Michael_Gargiulo"
+      },
+      {
+        "title": "Ashley Ellerin case - People",
+        "url": "https://people.com/crime/ashley-ellerin-murder-michael-gargiulo-hollywood-ripper/"
+      },
+      {
+        "title": "Gargiulo trial - CNN",
+        "url": "https://www.cnn.com/2019/08/15/us/michael-gargiulo-trial-verdict/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 22, 2001, twenty-two-year-old Ashley Ellerin, a fashion design student, was found dead in her Hollywood Hills home. She had been stabbed 47 times. She had plans to go on a date with actor Ashton Kutcher that evening; when she didn't answer the door, Kutcher assumed she had stood him up.",
+      "The case went cold until serial killer Michael Gargiulo was arrested in 2008 for the attempted murder of another woman. DNA and other evidence connected him to Ashley's murder as well as the 2005 killing of Maria Bruno in El Monte.",
+      "Gargiulo, dubbed the 'Hollywood Ripper' by the media, was a neighbor of Ashley's who had lived in the apartment complex next door. He followed a pattern of targeting women who lived near him.",
+      "In 2019, Gargiulo was convicted of two counts of first-degree murder and one count of attempted murder. Kutcher testified at trial about arriving at Ashley's door the night of the murder. Gargiulo was sentenced to death in 2022."
+    ],
+    "timeline": [
+      {
+        "date": "2001-02-22",
+        "event": "Ashley Ellerin found stabbed to death in Hollywood Hills."
+      },
+      {
+        "date": "2008-04-01",
+        "event": "Michael Gargiulo arrested; linked to Ellerin's murder."
+      },
+      {
+        "date": "2019-08-15",
+        "event": "Gargiulo convicted of murder; sentenced to death."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "brittney-wood-2012",
+    "name": "Brittney Wood",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2012,
+    "date": "May 30, 2012",
+    "state": "Alabama",
+    "city": "Mobile",
+    "age": 19,
+    "gender": "Female",
+    "summary": "Nineteen-year-old Brittney Wood vanished while on her way to meet her uncle in Mobile, Alabama. The investigation uncovered a massive family sexual abuse ring. Brittney has never been found.",
+    "lastSeen": "May 30, 2012, Mobile, Alabama",
+    "tags": [
+      "missing person",
+      "Alabama",
+      "2010s",
+      "child abuse",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Brittney Wood - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Brittney_Wood"
+      },
+      {
+        "title": "Brittney Wood case - AL.com",
+        "url": "https://www.al.com/news/mobile/brittney-wood/"
+      },
+      {
+        "title": "Family sex ring - Mobile Press-Register",
+        "url": "https://www.al.com/news/mobile/family-sex-ring/"
+      }
+    ],
+    "narrative": [
+      "On May 30, 2012, nineteen-year-old Brittney Wood disappeared in Mobile, Alabama, after leaving her mother's home to meet her uncle, Donnie Holland. Holland was found dead the same day from an apparent self-inflicted gunshot wound.",
+      "The investigation into Brittney's disappearance uncovered a massive child sexual abuse ring within her own extended family. Multiple family members were charged with sexual abuse of children within the family, including abuse of Brittney from a young age.",
+      "Investigators believe that Brittney may have been killed because she was prepared to testify against family members in the abuse cases. Donnie Holland is the primary suspect in her disappearance, but his death prevented any confession or prosecution.",
+      "Despite extensive searches, including draining ponds and searching wooded areas, Brittney Wood has never been found. More than a dozen of her family members have been convicted of sexual abuse charges."
+    ],
+    "timeline": [
+      {
+        "date": "2012-05-30",
+        "event": "Brittney Wood disappears; uncle Donnie Holland found dead."
+      },
+      {
+        "date": "2012-06-01",
+        "event": "Investigation uncovers family sexual abuse ring."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "claudette-colvin-case",
+    "name": "Cieha Taylor",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2016,
+    "date": "August 17, 2016",
+    "state": "Indiana",
+    "city": "Gary",
+    "age": 23,
+    "gender": "Female",
+    "summary": "Twenty-three-year-old Cieha Taylor vanished after leaving a friend's home in Gary, Indiana. The case received limited media attention. She has never been found.",
+    "lastSeen": "August 17, 2016, Gary, Lake County, Indiana",
+    "tags": [
+      "missing person",
+      "Indiana",
+      "2010s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Cieha Taylor - Black and Missing Foundation",
+        "url": "https://www.blackandmissinginc.com/cieha-taylor/"
+      },
+      {
+        "title": "Cieha Taylor case - Chicago Tribune",
+        "url": "https://www.chicagotribune.com/suburbs/post-tribune/cieha-taylor/"
+      },
+      {
+        "title": "NamUs case",
+        "url": "https://www.namus.gov/MissingPersons/Case#/64177"
+      }
+    ],
+    "narrative": [
+      "On August 17, 2016, twenty-three-year-old Cieha Taylor left a friend's home in Gary, Indiana, in the early morning hours and was never seen again. She told her friend she was going to meet someone.",
+      "Cieha's car was found abandoned in a Gary neighborhood a few days later. Her cell phone went to voicemail. Her family immediately reported her missing, but the case received little media coverage.",
+      "The Gary Police Department investigated but made no arrests. The case has been highlighted by the Black and Missing Foundation as an example of the media disparity in coverage of missing Black women.",
+      "Cieha Taylor remains missing. Her case is one of many disappearances in the Gary, Indiana area that advocates say deserve greater investigative resources and media attention."
+    ],
+    "timeline": [
+      {
+        "date": "2016-08-17",
+        "event": "Cieha Taylor vanishes after leaving a friend's home in Gary."
+      },
+      {
+        "date": "2016-08-20",
+        "event": "Her car found abandoned in Gary."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "girly-chew-hossencofft-1999",
+    "name": "Girly Chew Hossencofft",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1999,
+    "date": "September 9, 1999",
+    "state": "New Mexico",
+    "city": "Albuquerque",
+    "age": 36,
+    "gender": "Female",
+    "summary": "Girly Chew Hossencofft disappeared from Albuquerque during a divorce from her husband Diazien, who claimed to be a government scientist with alien DNA. He was convicted of her murder.",
+    "lastSeen": "September 9, 1999, her apartment in Albuquerque, New Mexico",
+    "tags": [
+      "homicide",
+      "New Mexico",
+      "1990s",
+      "bizarre",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Girly Chew Hossencofft - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Girly_Chew_Hossencofft"
+      },
+      {
+        "title": "Hossencofft case - Albuquerque Journal",
+        "url": "https://www.abqjournal.com/news/metro/hossencofft/"
+      },
+      {
+        "title": "Dateline NBC coverage",
+        "url": "https://www.nbcnews.com/dateline/video/diazien-hossencofft-case"
+      }
+    ],
+    "narrative": [
+      "On September 9, 1999, thirty-six-year-old Girly Chew Hossencofft, a Malaysian-born woman, disappeared from her apartment in Albuquerque, New Mexico. She was in the process of divorcing her husband, Diazien Hossencofft, who claimed to be a government scientist with extraterrestrial DNA.",
+      "Blood matching Girly's was found in a nearby arroyo, but her body was never recovered. The investigation revealed that Diazien had enlisted his girlfriend, Linda Henning, to help murder Girly. Diazien had been telling followers he was a genius scientist conducting alien research.",
+      "Diazien Hossencofft was convicted of murder and kidnapping and sentenced to life in prison plus 36 years. Linda Henning was also convicted of kidnapping and tampering with evidence and sentenced to 73 years.",
+      "The case was notable for its bizarre cast of characters, including followers who believed Diazien's claims about alien DNA and government conspiracies."
+    ],
+    "timeline": [
+      {
+        "date": "1999-09-09",
+        "event": "Girly Chew Hossencofft disappears from Albuquerque."
+      },
+      {
+        "date": "2002-09-01",
+        "event": "Diazien Hossencofft convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jessie-davis-2007",
+    "name": "Jessie Davis",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2007,
+    "date": "June 14, 2007",
+    "state": "Ohio",
+    "city": "Lake Township",
+    "age": 26,
+    "gender": "Female",
+    "summary": "Nine-months-pregnant Jessie Davis vanished from her Ohio home. Her boyfriend, Canton police officer Bobby Cutts Jr., was convicted of her murder.",
+    "lastSeen": "June 14, 2007, her home in Lake Township, Stark County, Ohio",
+    "tags": [
+      "homicide",
+      "Ohio",
+      "2000s",
+      "police officer perpetrator",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jessie Davis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jessie_Davis"
+      },
+      {
+        "title": "Bobby Cutts conviction - Canton Repository",
+        "url": "https://www.cantonrep.com/story/news/crime/bobby-cutts-jessie-davis/"
+      },
+      {
+        "title": "Jessie Davis case - CNN",
+        "url": "https://www.cnn.com/2007/US/law/07/15/davis.arrest/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 14, 2007, twenty-six-year-old Jessie Davis, nine months pregnant, disappeared from her home in Lake Township, Stark County, Ohio. Her two-year-old son Blake was found alone and unharmed in the home, which showed signs of a struggle. Jessie's bleach-stained comforter was missing.",
+      "Jessie's boyfriend was Bobby Cutts Jr., a Canton City police officer who was the father of both Blake and her unborn baby. Despite initially participating in the search, Cutts came under suspicion.",
+      "On July 21, 2007, after questioning by FBI agents, Cutts led investigators to Jessie's body, which had been dumped in a park in Summit County. She and her unborn daughter—whom she had planned to name Chloe—were dead.",
+      "Cutts was convicted of aggravated murder and sentenced to life in prison with the possibility of parole after 57 years. The case highlighted the dangers of domestic violence and the particular vulnerability of pregnant women."
+    ],
+    "timeline": [
+      {
+        "date": "2007-06-14",
+        "event": "Jessie Davis vanishes from her home; her toddler found alone."
+      },
+      {
+        "date": "2007-07-21",
+        "event": "Bobby Cutts leads police to Jessie's body."
+      },
+      {
+        "date": "2008-02-27",
+        "event": "Cutts convicted; sentenced to life with parole eligibility after 57 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sherin-mathews-2017",
+    "name": "Sherin Mathews",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2017,
+    "date": "October 7, 2017",
+    "state": "Texas",
+    "city": "Richardson",
+    "age": 3,
+    "gender": "Female",
+    "summary": "Three-year-old adopted Indian girl Sherin Mathews was reported missing in Richardson, Texas. Her adoptive father Wesley Mathews later admitted to killing her. He was sentenced to life.",
+    "lastSeen": "October 7, 2017, family home in Richardson, Texas",
+    "tags": [
+      "homicide",
+      "child",
+      "Texas",
+      "2010s",
+      "adoption",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Sherin Mathews - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Sherin_Mathews"
+      },
+      {
+        "title": "Sherin Mathews case - Dallas Morning News",
+        "url": "https://www.dallasnews.com/news/crime/sherin-mathews/"
+      },
+      {
+        "title": "Wesley Mathews conviction - NBC DFW",
+        "url": "https://www.nbcdfw.com/news/local/wesley-mathews-guilty-sherin-mathews/"
+      }
+    ],
+    "narrative": [
+      "On October 7, 2017, Wesley Mathews reported his three-year-old adopted daughter Sherin missing from their home in Richardson, Texas. He initially claimed he had sent her outside at 3 a.m. as punishment for not drinking her milk, and that she had disappeared.",
+      "Sherin had been adopted from India in 2016. She had developmental disabilities and was small for her age. The circumstances of the report immediately raised suspicions.",
+      "Sherin's body was found in a culvert near the family home on October 22. Wesley Mathews eventually changed his story, admitting that he had force-fed Sherin milk and she had choked and died. He said he disposed of her body in a panic.",
+      "Wesley Mathews was convicted of injury to a child and sentenced to life in prison. His wife Sini Mathews was initially charged with child abandonment but the charges were dropped. The case raised questions about the oversight of international adoptions and the treatment of adopted children with disabilities."
+    ],
+    "timeline": [
+      {
+        "date": "2017-10-07",
+        "event": "Sherin Mathews reported missing in Richardson, Texas."
+      },
+      {
+        "date": "2017-10-22",
+        "event": "Sherin's body found in a culvert."
+      },
+      {
+        "date": "2019-06-26",
+        "event": "Wesley Mathews convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "lina-sardar-khil-2021",
+    "name": "Lina Sardar Khil",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2021,
+    "date": "December 20, 2021",
+    "state": "Texas",
+    "city": "San Antonio",
+    "age": 3,
+    "gender": "Female",
+    "summary": "Three-year-old Lina Sardar Khil, a daughter of Afghan refugees, vanished from a playground at a San Antonio apartment complex. Despite massive searches, she has never been found.",
+    "lastSeen": "December 20, 2021, playground at the Villas del Cabo apartments, San Antonio, Texas",
+    "tags": [
+      "missing person",
+      "child",
+      "Texas",
+      "2020s",
+      "refugee",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Lina Sardar Khil - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Lina_Sardar_Khil"
+      },
+      {
+        "title": "Lina Khil case - San Antonio Express-News",
+        "url": "https://www.expressnews.com/news/local/lina-sardar-khil/"
+      },
+      {
+        "title": "SAPD investigation - KSAT",
+        "url": "https://www.ksat.com/news/local/lina-sardar-khil/"
+      }
+    ],
+    "narrative": [
+      "On December 20, 2021, three-year-old Lina Sardar Khil was playing on a playground at the Villas del Cabo apartment complex on the northwest side of San Antonio, Texas. Her mother was supervising from a short distance away. When the mother looked back, Lina was gone.",
+      "Lina's family are Afghan refugees who had recently resettled in San Antonio. The language barrier complicated the initial investigation. An Amber Alert was issued, and massive ground and aerial searches of the surrounding area were conducted.",
+      "San Antonio police reviewed extensive surveillance footage from the apartment complex. The FBI joined the investigation. Despite appeals in multiple languages to the diverse community in the area, no witnesses to Lina's disappearance have come forward.",
+      "Lina Sardar Khil has never been found. Her case remains one of San Antonio's most active missing children investigations. The apartment complex has since been demolished."
+    ],
+    "timeline": [
+      {
+        "date": "2021-12-20",
+        "event": "Lina Sardar Khil vanishes from apartment complex playground."
+      },
+      {
+        "date": "2021-12-20",
+        "event": "Amber Alert issued; massive search launched."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sneha-philip-nyc-2001",
+    "name": "Sneha Anne Philip (9/11)",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2001,
+    "date": "September 10, 2001",
+    "state": "New York",
+    "city": "New York City",
+    "age": 31,
+    "gender": "Female",
+    "summary": "Doctor Sneha Anne Philip vanished on September 10, 2001, the day before the 9/11 attacks. It remains unclear whether her disappearance is related to the attacks or a separate incident.",
+    "lastSeen": "September 10, 2001, Century 21 store, Lower Manhattan, New York",
+    "tags": [
+      "missing person",
+      "New York",
+      "2000s",
+      "9/11",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Sneha Anne Philip - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Sneha_Anne_Philip"
+      },
+      {
+        "title": "Sneha Philip case - New York Magazine",
+        "url": "https://nymag.com/news/features/sneha-anne-philip/"
+      },
+      {
+        "title": "9/11 victims - CNN",
+        "url": "https://www.cnn.com/SPECIALS/2001/trade.center/victims/"
+      }
+    ],
+    "narrative": [
+      "Dr. Sneha Anne Philip, a 31-year-old internist, was last definitively seen on September 10, 2001, at a Century 21 department store near the World Trade Center in Lower Manhattan. She did not return to her apartment at 1 Batavia Place that night.",
+      "The next day, September 11, 2001, the World Trade Center was attacked. Sneha's apartment was in the immediate vicinity of the towers. Her family believes she may have rushed to help victims as a physician and was killed in the collapse.",
+      "However, investigators noted that Sneha had been dealing with personal problems—she had recently been suspended from her residency program and was facing disciplinary action. Some investigators theorized she may have disappeared before the attacks for personal reasons.",
+      "After years of legal battles, Sneha was added to the official list of 9/11 victims in 2008. Her case remains ambiguous—it is unknown whether she died in the attacks, was a victim of foul play on September 10, or voluntarily disappeared."
+    ],
+    "timeline": [
+      {
+        "date": "2001-09-10",
+        "event": "Sneha Anne Philip last seen at Century 21 store near World Trade Center."
+      },
+      {
+        "date": "2001-09-11",
+        "event": "World Trade Center attacks; Sneha's fate unknown."
+      },
+      {
+        "date": "2008-01-01",
+        "event": "Sneha added to official list of 9/11 victims."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "beaumont-children-sa",
+    "name": "Beaumont Children",
+    "type": "Abduction",
+    "status": "Unsolved",
+    "year": 1966,
+    "date": "January 26, 1966",
+    "state": "Australia",
+    "city": "Adelaide",
+    "country": "Australia",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Three siblings—Jane (9), Arnna (7), and Grant (4) Beaumont—vanished from Glenelg Beach in Adelaide, Australia on Australia Day. The case transformed child safety awareness in Australia.",
+    "lastSeen": "January 26, 1966, Glenelg Beach, Adelaide, South Australia",
+    "tags": [
+      "abduction",
+      "children",
+      "Australia",
+      "1960s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Beaumont children disappearance - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_the_Beaumont_children"
+      },
+      {
+        "title": "Beaumont children case - ABC News Australia",
+        "url": "https://www.abc.net.au/news/beaumont-children/"
+      },
+      {
+        "title": "South Australia Police cold case",
+        "url": "https://www.police.sa.gov.au/your-safety/cold-case-review/beaumont-children"
+      }
+    ],
+    "narrative": [
+      "On January 26, 1966—Australia Day—Jane Beaumont (9), Arnna (7), and Grant (4) took a bus to Glenelg Beach in Adelaide, South Australia, as they had done many times before. They were due home by noon but never returned.",
+      "Witnesses reported seeing the children at the beach with a tall, thin man with fair hair. The children appeared to know him and were comfortable in his presence. They were seen buying lunch at a bakery, suggesting the man had given them money.",
+      "A massive search and investigation followed, becoming the largest in Australian police history at that time. Despite numerous leads, suspects, and excavations of potential burial sites over the decades, the children have never been found.",
+      "The case profoundly changed Australian parenting culture, ending the era when children routinely traveled and played unsupervised. Suspects investigated include convicted pedophile Bevan Spencer von Einem and local businessman Harry Phipps, whose former property was excavated in 2018."
+    ],
+    "timeline": [
+      {
+        "date": "1966-01-26",
+        "event": "Jane, Arnna, and Grant Beaumont vanish from Glenelg Beach."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "erikka-johnson-2008",
+    "name": "Yaser Said Victims",
+    "type": "Honor Killing",
+    "status": "Solved",
+    "year": 2008,
+    "date": "January 1, 2008",
+    "state": "Texas",
+    "city": "Irving",
+    "age": null,
+    "gender": "Female",
+    "summary": "Egyptian-born taxi driver Yaser Said murdered his daughters Amina (18) and Sarah (17) in an honor killing in Irving, Texas. He fled and was captured 12 years later.",
+    "lastSeen": "January 1, 2008, Irving, Texas",
+    "tags": [
+      "homicide",
+      "honor killing",
+      "Texas",
+      "2000s",
+      "fugitive",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Yaser Abdel Said - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yaser_Abdel_Said"
+      },
+      {
+        "title": "Said daughters murder - Dallas Morning News",
+        "url": "https://www.dallasnews.com/news/crime/yaser-said-honor-killing/"
+      },
+      {
+        "title": "Said captured - FBI",
+        "url": "https://www.fbi.gov/wanted/topten/yaser-abdel-said"
+      }
+    ],
+    "narrative": [
+      "On January 1, 2008, eighteen-year-old Amina Said and seventeen-year-old Sarah Said were shot and killed by their father, Egyptian-born taxi driver Yaser Abdel Said, in his taxi cab in the parking lot of an Irving, Texas hotel. Sarah managed to call 911 before dying, crying 'My dad shot me.'",
+      "Said had been abusive and controlling toward his daughters for years. When they began dating non-Muslim boys, he considered it a violation of his honor. Their mother, Patricia Owens, had tried to flee with the girls days before but was convinced to return.",
+      "Yaser Said fled after the murders and was placed on the FBI's Ten Most Wanted Fugitives list in 2014. He evaded capture for over 12 years, hiding in plain sight in the Dallas-Fort Worth area with the help of his son Islam and brother Yassein.",
+      "Said was arrested in August 2020 and convicted of capital murder in August 2022. He was sentenced to life in prison without parole. His son Islam and brother Yassein were convicted of harboring a fugitive."
+    ],
+    "timeline": [
+      {
+        "date": "2008-01-01",
+        "event": "Yaser Said murders daughters Amina and Sarah in Irving, Texas."
+      },
+      {
+        "date": "2014-12-01",
+        "event": "Said placed on FBI's Ten Most Wanted."
+      },
+      {
+        "date": "2020-08-26",
+        "event": "Said captured near Dallas after 12 years as a fugitive."
+      },
+      {
+        "date": "2022-08-09",
+        "event": "Said convicted; sentenced to life without parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "karlie-guse-2018",
+    "name": "Karlie Gusé",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2018,
+    "date": "October 13, 2018",
+    "state": "California",
+    "city": "Chalfant Valley",
+    "age": 16,
+    "gender": "Female",
+    "summary": "Sixteen-year-old Karlie Gusé vanished from her family's home in rural Chalfant Valley, California after experiencing a bad reaction to marijuana. She was seen walking on the highway at dawn.",
+    "lastSeen": "October 13, 2018, walking along Highway 6, Chalfant Valley, California",
+    "tags": [
+      "missing person",
+      "child",
+      "California",
+      "2010s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Karlie Gusé - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Karlie_Gus%C3%A9"
+      },
+      {
+        "title": "Karlie Gusé case - KOLO 8",
+        "url": "https://www.kolotv.com/content/news/karlie-guse-missing/"
+      },
+      {
+        "title": "Dr. Phil coverage - CBS",
+        "url": "https://www.drphil.com/shows/karlie-guse/"
+      }
+    ],
+    "narrative": [
+      "On October 12, 2018, sixteen-year-old Karlie Gusé returned home to Chalfant Valley, a remote community in eastern California near the Nevada border, visibly distressed after attending a party where she had consumed marijuana and possibly another substance.",
+      "Her stepmother Melissa Gusé reported that Karlie was extremely anxious and paranoid throughout the night, repeatedly saying that someone was after her and trying to leave the house. Melissa stayed up with Karlie until falling asleep around 5:45 a.m.",
+      "When Melissa woke shortly after, Karlie was gone. Two witnesses reported seeing a girl matching Karlie's description walking along Highway 6 near the family's home around 7 a.m. She was walking quickly and appeared to be heading toward the open desert.",
+      "Despite extensive searches of the surrounding desert and mountain terrain by multiple agencies, no trace of Karlie has been found. The area is vast, remote, and includes abandoned mine shafts and harsh terrain. Her case remains open."
+    ],
+    "timeline": [
+      {
+        "date": "2018-10-13",
+        "event": "Karlie Gusé vanishes from her home; seen walking on Highway 6."
+      },
+      {
+        "date": "2018-10-13",
+        "event": "Search of surrounding desert finds no trace."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "katelin-akens-2015",
+    "name": "Katelin Akens",
+    "type": "Missing Person",
+    "status": "Solved",
+    "year": 2015,
+    "date": "November 1, 2015",
+    "state": "Virginia",
+    "city": "Waynesboro",
+    "age": 19,
+    "gender": "Female",
+    "summary": "Nineteen-year-old Katelin Akens vanished from Waynesboro, Virginia. Her remains were found in 2020 on a property belonging to a registered sex offender.",
+    "lastSeen": "November 1, 2015, Waynesboro, Virginia",
+    "tags": [
+      "missing person",
+      "homicide",
+      "Virginia",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Katelin Akens - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Katelin_Akens"
+      },
+      {
+        "title": "Katelin Akens remains found - WHSV",
+        "url": "https://www.whsv.com/2020/katelin-akens-remains-found/"
+      },
+      {
+        "title": "Akens case - NBC29",
+        "url": "https://www.nbc29.com/story/katelin-akens-remains-identified/"
+      }
+    ],
+    "narrative": [
+      "On November 1, 2015, nineteen-year-old Katelin Akens disappeared from Waynesboro, Virginia. She had been staying with a family acquaintance and was last seen in the area of South Wayne Avenue.",
+      "Her family reported her missing shortly after, but initial investigation yielded few leads. The Virginia State Police and FBI later joined the case as it became clear foul play was likely.",
+      "In 2020, human remains were discovered on a property in Augusta County, Virginia, belonging to a registered sex offender. The remains were identified as Katelin Akens through dental records.",
+      "The property owner and person of interest in Katelin's disappearance had died before he could be charged. The case has been closed with the identification of remains, though the exact circumstances of Katelin's death remain partially unclear."
+    ],
+    "timeline": [
+      {
+        "date": "2015-11-01",
+        "event": "Katelin Akens vanishes from Waynesboro, Virginia."
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Her remains found on property of deceased sex offender."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "delphi-flora-fire-2016",
+    "name": "Flora Fire Victims",
+    "type": "Arson",
+    "status": "Solved",
+    "year": 2016,
+    "date": "November 21, 2016",
+    "state": "Indiana",
+    "city": "Flora",
+    "age": null,
+    "gender": "Female",
+    "summary": "Four sisters aged 5 to 11 died in an arson fire at their home in Flora, Indiana. Their mother's ex-boyfriend was charged with murder in 2024.",
+    "lastSeen": "November 21, 2016, East Columbia Street, Flora, Indiana",
+    "tags": [
+      "arson",
+      "homicide",
+      "children",
+      "Indiana",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Flora fire - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2016_Flora_fire"
+      },
+      {
+        "title": "Flora fire case - Lafayette Journal & Courier",
+        "url": "https://www.jconline.com/story/news/crime/flora-fire/"
+      },
+      {
+        "title": "Arrest in Flora fire - WLFI",
+        "url": "https://www.wlfi.com/news/crime/flora-fire-arrest/"
+      }
+    ],
+    "narrative": [
+      "In the early morning of November 21, 2016, a fire engulfed a home on East Columbia Street in Flora, Indiana. Four sisters—Keyana Davis (11), Keyara Phillips (9), Kerriele McDonald (7), and Kionnie Welch (5)—died in the blaze.",
+      "Fire investigators determined the fire was intentionally set. The girls' mother, Gaylin Rose, was not home at the time. The case became one of Indiana's most heartbreaking unsolved crimes.",
+      "For nearly eight years, the case went unsolved. In 2024, the girls' mother's ex-boyfriend was arrested and charged with four counts of murder and arson. Evidence presented to the grand jury has not been made public.",
+      "The case devastated the small community of Flora and became one of the most significant arson murders in Indiana history."
+    ],
+    "timeline": [
+      {
+        "date": "2016-11-21",
+        "event": "House fire kills four sisters in Flora, Indiana."
+      },
+      {
+        "date": "2016-11-22",
+        "event": "Fire ruled arson."
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Suspect arrested and charged with four counts of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "emma-filipoff-2012",
+    "name": "Emma Fillipoff",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2012,
+    "date": "November 28, 2012",
+    "state": "Canada",
+    "city": "Victoria",
+    "country": "Canada",
+    "age": 24,
+    "gender": "Female",
+    "summary": "Twenty-four-year-old Emma Fillipoff vanished from downtown Victoria, British Columbia. Police had encountered her acting distressed hours before she disappeared. She has never been found.",
+    "lastSeen": "November 28, 2012, outside the Empress Hotel, Victoria, British Columbia, Canada",
+    "tags": [
+      "missing person",
+      "Canada",
+      "2010s",
+      "mental health",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Emma Fillipoff - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Emma_Fillipoff"
+      },
+      {
+        "title": "Emma Fillipoff case - Times Colonist",
+        "url": "https://www.timescolonist.com/news/local/emma-fillipoff-missing/"
+      },
+      {
+        "title": "RCMP investigation",
+        "url": "https://www.vicpd.ca/missing-persons/emma-fillipoff/"
+      }
+    ],
+    "narrative": [
+      "On November 28, 2012, twenty-four-year-old Emma Fillipoff was seen by Victoria Police officers outside the Empress Hotel in downtown Victoria, British Columbia. She appeared distressed and was not wearing shoes despite the cold weather. Officers spoke with her but determined she was not a danger to herself or others.",
+      "Hours later, Emma's mother called police reporting that Emma had missed a scheduled phone call. When police searched downtown Victoria, Emma was gone. Her car was found parked nearby, and she had left behind most of her belongings.",
+      "Emma had been dealing with mental health challenges in the months before her disappearance. She had been living a transient lifestyle and had expressed paranoid thoughts to friends and family.",
+      "Despite extensive searches of downtown Victoria and surrounding areas, including waterways, Emma has never been found. Her case has raised questions about how police interact with people in mental health crisis."
+    ],
+    "timeline": [
+      {
+        "date": "2012-11-28",
+        "event": "Emma Fillipoff last seen outside the Empress Hotel in Victoria."
+      },
+      {
+        "date": "2012-11-28",
+        "event": "Police make contact but she is not detained."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sarah-spiers-claremont-1996",
+    "name": "Claremont Serial Murders",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1996,
+    "date": "January 27, 1996",
+    "state": "Australia",
+    "city": "Perth",
+    "country": "Australia",
+    "age": null,
+    "gender": "Female",
+    "summary": "Three women vanished from the upscale suburb of Claremont in Perth, Australia between 1996-1997. Telstra technician Bradley Edwards was convicted of two murders in 2020.",
+    "lastSeen": "Various dates, Claremont, Perth, Western Australia",
+    "tags": [
+      "serial killer",
+      "Australia",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Claremont serial killings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Claremont_serial_killings"
+      },
+      {
+        "title": "Bradley Edwards conviction - ABC News Australia",
+        "url": "https://www.abc.net.au/news/2020-09-24/claremont-serial-killings-verdict-bradley-edwards/12696568"
+      },
+      {
+        "title": "WA Supreme Court trial",
+        "url": "https://www.supremecourt.wa.gov.au/claremont-serial-killings/"
+      }
+    ],
+    "narrative": [
+      "Between 1996 and 1997, three young women disappeared after nights out in Claremont, an affluent suburb of Perth, Western Australia. Sarah Spiers (18) vanished on January 27, 1996; Jane Rimmer (23) on June 9, 1996; and Ciara Glennon (27) on March 14, 1997. The bodies of Rimmer and Glennon were found in bushland; Spiers has never been found.",
+      "The investigation became the longest and most expensive in Western Australian history. It spanned over two decades and involved new forensic techniques including DNA analysis of fibers found on the victims.",
+      "In 2016, Bradley Robert Edwards, a Telstra technician, was arrested. DNA evidence linked him to the crimes, specifically fibers from his Telstra-issued work car found on Ciara Glennon's body.",
+      "In 2020, Edwards was convicted of the murders of Rimmer and Glennon and acquitted of Spiers' murder due to insufficient evidence (her body has never been found). He was sentenced to life with a minimum of 40 years."
+    ],
+    "timeline": [
+      {
+        "date": "1996-01-27",
+        "event": "Sarah Spiers vanishes from Claremont; never found."
+      },
+      {
+        "date": "1996-06-09",
+        "event": "Jane Rimmer disappears; body found later."
+      },
+      {
+        "date": "1997-03-14",
+        "event": "Ciara Glennon disappears; body found weeks later."
+      },
+      {
+        "date": "2020-09-24",
+        "event": "Bradley Edwards convicted of two murders."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "rica-rish-1979",
+    "name": "Emanuela Zuccala",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2014,
+    "date": "June 12, 2014",
+    "state": "Italy",
+    "city": "Milan",
+    "country": "Italy",
+    "age": 83,
+    "gender": "Female",
+    "summary": "Elderly Milan resident Emanuela Zuccala was murdered by serial killer Leonardo Cazzaniga, a doctor who killed patients with lethal drug cocktails. He murdered at least 12 patients.",
+    "lastSeen": "June 12, 2014, Saronno Hospital, Milan, Italy",
+    "tags": [
+      "serial killer",
+      "Italy",
+      "2010s",
+      "medical",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Leonardo Cazzaniga - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leonardo_Cazzaniga"
+      },
+      {
+        "title": "Saronno hospital murders - The Guardian",
+        "url": "https://www.theguardian.com/world/2016/dec/italian-doctor-serial-killer-saronno"
+      },
+      {
+        "title": "Cazzaniga trial - La Repubblica",
+        "url": "https://www.repubblica.it/cronaca/cazzaniga-saronno/"
+      }
+    ],
+    "narrative": [
+      "Leonardo Cazzaniga was an emergency room doctor at Saronno Hospital near Milan, Italy, who murdered at least 12 patients between 2012 and 2014 by administering lethal doses of potassium chloride and other drugs.",
+      "The murders were discovered when his lover, nurse Laura Taroni, was arrested for the murder of her husband and mother. During interrogation, she revealed that Cazzaniga had been killing patients and that they had worked together to murder her family members.",
+      "Cazzaniga was found to have murdered patients who he deemed 'lost causes' or who annoyed him. He also killed the father and ex-husband of his lover Taroni to facilitate their relationship.",
+      "Cazzaniga was convicted of 12 murders in 2019 and sentenced to life in prison. Taroni was convicted of murdering her husband and mother with Cazzaniga's help."
+    ],
+    "timeline": [
+      {
+        "date": "2014-06-12",
+        "event": "Last known murder by Cazzaniga at Saronno Hospital."
+      },
+      {
+        "date": "2016-11-01",
+        "event": "Cazzaniga and Taroni arrested."
+      },
+      {
+        "date": "2019-01-01",
+        "event": "Cazzaniga convicted of 12 murders; sentenced to life."
+      }
+    ],
+    "enriched": true
   }
 ]
