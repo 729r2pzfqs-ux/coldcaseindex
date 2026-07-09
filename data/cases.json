@@ -20780,5 +20780,319 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "frank-morris-1964",
+  "name": "Frank Morris",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 1964,
+  "date": "December 10, 1964 (died December 14, 1964)",
+  "state": "Louisiana",
+  "city": "Ferriday",
+  "age": 51,
+  "gender": "Male",
+  "summary": "Frank Morris, a Black shoe-shop owner in Ferriday, Louisiana, was fatally burned in the early hours of December 10, 1964, when two white men set fire to his store and, according to FBI records, one of them blocked his escape with a shotgun. Morris died of his burns four days later. Despite three FBI investigations, extensive reporting by the Concordia Sentinel, and a 2011 Concordia Parish grand jury, no one was ever charged.",
+  "lastSeen": "Attacked at his shoe shop on the Ferriday-Vidalia highway (US 84) in Ferriday, Louisiana, around 1:00 a.m. on December 10, 1964; died at Concordia Parish Hospital on December 14, 1964",
+  "tags": [
+   "louisiana",
+   "arson",
+   "civil rights era",
+   "ku klux klan",
+   "racial violence",
+   "fbi cold case initiative",
+   "grand jury",
+   "1960s"
+  ],
+  "sources": [
+   {
+    "title": "Murder of Frank Morris — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Frank_Morris"
+   },
+   {
+    "title": "Murder of Frank Morris — LSU Cold Case Project",
+    "url": "https://lsucoldcaseproject.com/case/murder-of-frank-morris/"
+   },
+   {
+    "title": "Frank Morris — Un(re)solved, FRONTLINE PBS",
+    "url": "https://www.pbs.org/wgbh/frontline/interactive/unresolved/cases/frank-morris/"
+   },
+   {
+    "title": "Who Killed Frank Morris? — Nieman Reports",
+    "url": "https://niemanreports.org/who-killed-frank-morris/"
+   },
+   {
+    "title": "Solving a 1964 Cold Case: Mystery of Frank Morris — NPR",
+    "url": "https://www.npr.org/2011/01/13/132806611/what-happened-to-frank-morris-solving-a-46-year-old-cold-case"
+   },
+   {
+    "title": "Frank Morris — Notice to Close File, U.S. Department of Justice Civil Rights Division",
+    "url": "https://www.justice.gov/crt/case-document/frank-morris-notice-close-file"
+   },
+   {
+    "title": "Articles about the Frank Morris Case — Civil Rights Cold Case Project",
+    "url": "https://coldcases.org/articles-case/20/"
+   }
+  ],
+  "narrative": [
+   "Frank Morris, 51, owned Frank's Shoe Service in Ferriday, a small town in Concordia Parish, Louisiana, across the Mississippi River from Natchez. His shop, one of the few Black-owned businesses in town, served both Black and white customers, and Morris was a well-known figure locally who also hosted a gospel music program on the radio. Around 1:00 a.m. on December 10, 1964, Morris, who often slept in the back of his store, was awakened by the sound of breaking glass. Two white men had spread gasoline around the building and set it alight. According to FBI records and later news accounts, when Morris tried to flee through the front door, one of the men leveled a shotgun at him, used a racial slur, and ordered him back inside the burning building. Morris eventually escaped, but he had suffered burns over essentially his entire body. Police officers found him with his clothing burned away and took him to Concordia Parish Hospital, where FBI agents interviewed him. Morris said he did not recognize his attackers. He slipped into a coma and died on December 14, 1964.",
+   "The FBI opened an investigation immediately, interviewing Morris's family, employees, dozens of local business owners and residents, police officers, and known members of the Ku Klux Klan. With no viable suspects, the bureau closed the case in May 1965. It was reopened in 1967 during the investigation of the Wharlest Jackson bombing in nearby Natchez, after a confidential source described as a high-ranking Mississippi Klansman told agents that four Klan members — E.D. Morace, Tommie Lee Jones, Thor Lee Torgersen, and James Lee Scarborough — had been involved in the arson. All denied involvement, and with no physical evidence the second investigation was closed in February 1968. Investigators and journalists have also pointed to Concordia Parish sheriff's deputy Frank DeLaughter, a Klansman reputed to be the most feared man in the parish, as a central figure; according to the LSU Cold Case Project, one account held that DeLaughter was angered after Morris refused him further credit at the shop. DeLaughter was never charged in the case and died in 1996.",
+   "In 2007 the FBI reopened the case a third time under its Civil Rights Era Cold Case Initiative, and in 2008 it announced a $10,000 reward. That same year Stanley Nelson, editor of the weekly Concordia Sentinel, began an investigation that ultimately produced more than 150 stories. In January 2011 the Sentinel reported that Arthur Leonard Spencer, a Rayville truck driver and former Klansman, had been implicated by his own son, ex-wife, and ex-brother-in-law, who said Spencer and a deceased associate, Coonie Poissot, had separately admitted taking part in the arson. Spencer acknowledged past Klan membership but denied any involvement in the attack. Nelson's reporting made him a finalist for the 2011 Pulitzer Prize for Local Reporting.",
+   "Following the Sentinel's revelations, the Justice Department and the local district attorney presented the case to a Concordia Parish grand jury in 2011, but no indictment was returned. Spencer died in 2013, and on December 30, 2013, the Justice Department formally closed the case, citing evidence that fell short of the standard for prosecution, the deaths of the original suspects, and expired statutes of limitations. The DOJ's closing memorandum stated that evidence 'strongly suggests' Morace — who died in 1978 — was involved, based on self-incriminating statements reported by three separate sources in 1967, but no one was ever charged, and the murder of Frank Morris remains officially unsolved."
+  ],
+  "timeline": [
+   {
+    "date": "December 10, 1964",
+    "event": "Around 1:00 a.m., two white men spread gasoline and set fire to Frank's Shoe Service in Ferriday; one reportedly blocks Morris's escape with a shotgun. Morris suffers burns over his entire body."
+   },
+   {
+    "date": "December 14, 1964",
+    "event": "Frank Morris dies of his burns at Concordia Parish Hospital, four days after the fire, having told FBI agents he did not recognize his attackers."
+   },
+   {
+    "date": "May 1965",
+    "event": "The FBI closes its first investigation without viable suspects despite extensive interviews in Ferriday."
+   },
+   {
+    "date": "1967",
+    "event": "During the Wharlest Jackson bombing investigation, a confidential Klan source names four Klansmen — E.D. Morace, Tommie Lee Jones, Thor Lee Torgersen, and James Lee Scarborough — as involved; all deny it."
+   },
+   {
+    "date": "February 1968",
+    "event": "The FBI closes its second investigation, citing insufficient evidence."
+   },
+   {
+    "date": "2007",
+    "event": "The FBI reopens the case under its Civil Rights Era Cold Case Initiative; Concordia Sentinel editor Stanley Nelson begins a years-long investigation."
+   },
+   {
+    "date": "2008",
+    "event": "The FBI announces a $10,000 reward for information in the Morris case."
+   },
+   {
+    "date": "January 2011",
+    "event": "The Concordia Sentinel reports that relatives of former Klansman Arthur Leonard Spencer have implicated him and the late Coonie Poissot in the arson; Spencer denies involvement."
+   },
+   {
+    "date": "2011",
+    "event": "A Concordia Parish grand jury hears testimony in the case but returns no indictment; Nelson is named a finalist for the Pulitzer Prize for Local Reporting."
+   },
+   {
+    "date": "2013",
+    "event": "Arthur Leonard Spencer dies without ever being charged."
+   },
+   {
+    "date": "December 30, 2013",
+    "event": "The Justice Department formally closes the case, citing insufficient evidence, deceased suspects, and expired statutes of limitations; the murder remains unsolved."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "taylor-casey-2024",
+  "name": "Taylor Casey",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2024,
+  "date": "June 19, 2024",
+  "state": "Illinois",
+  "city": "Paradise Island (Bahamas); of Chicago",
+  "age": 41,
+  "gender": "Female",
+  "summary": "Taylor Casey, a 41-year-old yoga practitioner and youth advocate from Chicago, vanished on June 19, 2024, while attending a month-long yoga teacher certification program at the Sivananda Ashram Yoga Retreat on Paradise Island in the Bahamas. Days later, a police dog tracked a scent from a tent at the retreat to the water, and her iPhone was recovered from more than 50 feet of ocean, but neither Bahamian nor U.S. authorities were able to unlock it. Her family, who pressed for FBI involvement and offered a $10,000 reward, has received no answers, and Casey remains missing.",
+  "lastSeen": "Evening of June 18-19, 2024, at the Sivananda Ashram Yoga Retreat, Paradise Island, Bahamas",
+  "tags": [
+   "illinois",
+   "chicago",
+   "bahamas",
+   "missing person",
+   "yoga retreat",
+   "international",
+   "lgbtq",
+   "unsolved"
+  ],
+  "sources": [
+   {
+    "title": "CBS News Chicago — 1 year since Chicago woman, Taylor Casey, went missing in the Bahamas and still no answers",
+    "url": "https://www.cbsnews.com/chicago/news/taylor-casey-missing-bahamas-chicago-one-year/"
+   },
+   {
+    "title": "Wikipedia — Disappearance of Taylor Casey",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Taylor_Casey"
+   },
+   {
+    "title": "ABC7 Chicago — Taylor Casey missing Bahamas: Chicago woman's cellphone found 1 week after her disappearance",
+    "url": "https://abc7chicago.com/post/taylor-casey-missing-bahamas-chicago-womans-cellphone-found/15004989/"
+   },
+   {
+    "title": "CBS News Chicago — Bahamas search crews say they've found missing Chicago woman's phone in water",
+    "url": "https://www.cbsnews.com/chicago/news/missing-chicago-woman-bahamas-taylor-casey-yoga-retreat/"
+   },
+   {
+    "title": "ABC7 — Bahamas police found Chicago woman's phone under 50+ feet of water after yoga retreat disappearance",
+    "url": "https://abc7.com/post/missing-american-taylor-casey-update-bahamas-phone-found-under-water/15045119/"
+   },
+   {
+    "title": "Chicago Sun-Times — Family of Chicago woman missing in the Bahamas offers $10,000 reward for information",
+    "url": "https://chicago.suntimes.com/crime/2024/07/31/missing-woman-lgbtq-trans-chicago-nation-bahamas-crime-taylor-casey-investigation-fbi-investigation"
+   },
+   {
+    "title": "CBS News Chicago — Family of Taylor Casey calls for FBI help on her 42nd birthday",
+    "url": "https://www.cbsnews.com/chicago/news/family-of-chicago-woman-missing-in-the-bahamas-calling-for-fbi-help-on-her-birthday/"
+   }
+  ],
+  "narrative": [
+   "Taylor Casey, a 41-year-old Chicago resident, traveled to the Bahamas in June 2024 to attend a month-long yoga teacher certification program at the Sivananda Ashram Yoga Retreat on Paradise Island, a resort island off Nassau. Casey, a transgender woman, had practiced yoga for roughly 15 years and was known in Chicago as a youth advocate and community leader. On the evening of June 18, 2024, she spoke with her mother, Colette Seymore, by phone; Seymore later said her daughter mentioned that things were hard at the retreat and that something seemed off. Casey was last seen at the retreat around that evening and the following day, June 19. When she failed to appear for morning yoga classes, the retreat alerted authorities, and the Royal Bahamas Police Force confirmed her missing on June 20, 2024.",
+   "In the days after the disappearance, searchers made the case's most significant discovery. According to Bahamian police, on June 22 a search dog picked up a scent from a tent at the retreat and tracked it to the water's edge, where the trail ended. Casey's iPhone was subsequently recovered from the ocean off Paradise Island — under more than 50 feet of water, according to Police Commissioner Clayton Fernander, who said investigators had been unable to open the device. Authorities also recovered a journal belonging to Casey. U.S. authorities were asked to help unlock the phone, but as of the one-year anniversary of the disappearance, the family said the phone had neither been unlocked nor released to them, and its records remained unavailable. Searches with divers, drones, underwater drones, and search-and-rescue dogs, along with reviews of surveillance footage, produced no further leads.",
+   "Casey's family quickly grew critical of the investigation. Seymore traveled to Paradise Island and described the visit as deeply unsettling, saying she felt authorities did not care and noting there were initially no missing person flyers posted. In July 2024, the family formally asked the FBI to join the search, saying they were not satisfied with how the investigation had been handled; relatives and advocates also said they feared prejudice may have affected the response because Casey is a transgender woman. A spokesperson for the yoga retreat, Peter Goudie, said authorities had done everything they could. The U.S. Embassy in Nassau provided assistance, U.S. Senator Tammy Duckworth's office monitored the case, and Interpol was also engaged. On July 31, 2024, the family announced a $10,000 reward for information leading to answers about Casey's whereabouts.",
+   "More than a year after the disappearance, the case remains unresolved. At the one-year mark in June 2025, CBS News Chicago reported there were still no answers: no arrests, no confirmed sightings, and no explanation for how Casey's phone came to rest deep in the ocean. Casey's family and the 'Find Taylor Casey' campaign have continued to hold events and press for federal involvement. Casey remains listed as a missing person, and anyone with information is asked to contact the Royal Bahamas Police Force or the FBI."
+  ],
+  "timeline": [
+   {
+    "date": "Early June 2024",
+    "event": "Taylor Casey arrives at the Sivananda Ashram Yoga Retreat on Paradise Island, Bahamas, for a month-long yoga teacher certification program."
+   },
+   {
+    "date": "June 18, 2024",
+    "event": "Casey speaks with her mother by phone; her mother later says Casey mentioned the retreat was hard and something seemed off. Casey is last seen at the retreat that evening."
+   },
+   {
+    "date": "June 19, 2024",
+    "event": "Casey is last seen in the area of Paradise Island, according to police; she is reported missing after failing to attend yoga classes."
+   },
+   {
+    "date": "June 20, 2024",
+    "event": "The Royal Bahamas Police Force confirms Casey missing after she stops showing up for classes."
+   },
+   {
+    "date": "June 22, 2024",
+    "event": "A search dog tracks a scent from a tent at the retreat to the water's edge, according to police."
+   },
+   {
+    "date": "Late June 2024",
+    "event": "Casey's iPhone is recovered from the ocean off Paradise Island; police later say it was found under more than 50 feet of water and could not be unlocked. A journal belonging to Casey is also recovered."
+   },
+   {
+    "date": "July 3, 2024",
+    "event": "Search efforts expand with underwater drones; surveillance footage reviews yield no new leads."
+   },
+   {
+    "date": "July 11, 2024",
+    "event": "On Casey's 42nd birthday, her family publicly calls for the FBI to take over the search, citing dissatisfaction with the Bahamian investigation."
+   },
+   {
+    "date": "July 31, 2024",
+    "event": "Casey's family announces a $10,000 reward for information about her whereabouts."
+   },
+   {
+    "date": "September 2024",
+    "event": "Three months after the disappearance, authorities report no answers; the family continues to press for FBI involvement."
+   },
+   {
+    "date": "June 19, 2025",
+    "event": "One-year anniversary passes with no arrests or confirmed sightings; the family says Casey's phone has not been unlocked or released. The case remains unsolved."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "wvu-coed-murders-1970",
+  "name": "Mared Malarik & Karen Ferrell (WVU Coed Murders)",
+  "type": "Multiple Homicide",
+  "status": "Conviction",
+  "year": 1970,
+  "date": "January 18, 1970",
+  "state": "West Virginia",
+  "city": "Morgantown",
+  "age": null,
+  "gender": "Female",
+  "summary": "West Virginia University freshmen Mared Malarik, 19, and Karen Ferrell, 18, vanished on January 18, 1970, after leaving a movie in downtown Morgantown and accepting a ride toward their dormitory. Their decapitated bodies were found 88 days later in shallow graves about 10 miles south of the city; their heads have never been recovered. Eugene Paul Clawson was convicted of the murders in 1976 and again at a 1981 retrial after the first verdict was overturned, but he recanted his confession, and researchers and investigators have since publicly questioned whether he was the killer.",
+  "lastSeen": "Last seen January 18, 1970, getting into a cream-colored sedan outside the Metropolitan Theater in downtown Morgantown; bodies found April 16, 1970, in a wooded area about 10 miles south of Morgantown",
+  "tags": [
+   "west virginia",
+   "morgantown",
+   "college students",
+   "hitchhiking",
+   "disputed conviction",
+   "recanted confession",
+   "double homicide",
+   "1970s"
+  ],
+  "sources": [
+   {
+    "title": "Dateline NBC — Horrific murders of two West Virginia University freshmen remain unsolved 55 years later",
+    "url": "https://www.nbcnews.com/dateline/cold-case-spotlight/west-virginia-murders-mared-malarik-karen-ferrell-rcna192293"
+   },
+   {
+    "title": "Oxygen — Investigators Examine Murders Of Karen Ferrell And Mared Malarik",
+    "url": "https://www.oxygen.com/crime-news/investigators-examine-murders-karen-ferrell-mared-malarik"
+   },
+   {
+    "title": "WV MetroNews — Renewed effort to find remains of WVU coeds murdered in 1970",
+    "url": "https://wvmetronews.com/2022/05/16/renewed-effort-to-find-remains-of-wvu-coeds-murdered-in-1970/"
+   },
+   {
+    "title": "CBS News — 52 years after West Virginia coeds found decapitated, investigators hope high-tech help will locate final evidence",
+    "url": "https://www.cbsnews.com/news/karen-ferrell-mared-malarik-murdered-west-virginia-investigators-high-tech-help-evidence/"
+   },
+   {
+    "title": "The Dominion Post — 'The overlooked confession': Morgantown man thinks he knows who killed two WVU coeds in 1970",
+    "url": "https://www.dominionpost.com/2022/10/15/the-overlooked-confession-morgantown-man-thinks-he-knows-who-killed-two-wvu-coeds-in-1970-and-hes-getting-assistance-from-the-state-police/"
+   },
+   {
+    "title": "WVU Coed Murders — About Mared & Karen (companion site to the book by Geoffrey C. Fuller and S. James McLaughlin)",
+    "url": "https://www.coedmurders.com/about-mared-and-karen"
+   }
+  ],
+  "narrative": [
+   "On the evening of January 18, 1970, Mared Ellen Malarik, a 19-year-old freshman from Kinnelon, New Jersey, and Karen Lynn Ferrell, an 18-year-old freshman from Quinwood, West Virginia, attended a showing of the film Oliver! at the Metropolitan Theater in downtown Morgantown, West Virginia. The two West Virginia University students, roommates at Westchester Hall, set out to hitchhike back toward their dormitory afterward — a common practice among students at the time. Witnesses reported seeing them get into a cream-colored sedan driven by a white man with dark hair. They were never seen alive again. According to later case accounts, authorities initially entertained the possibility that the young women had run away, which slowed the early search.",
+   "In the weeks that followed, anonymous letters arrived from someone claiming to know where the women could be found, containing directions that later proved accurate. On April 16, 1970 — 88 days after the disappearance — National Guard members searching a wooded area off Goshen Road, roughly 10 miles south of Morgantown, discovered the students' decapitated bodies concealed under brush in makeshift graves. Their heads were not with the remains and have never been recovered despite repeated searches over the following decades.",
+   "The case sat without an arrest until 1976, when Eugene Paul Clawson, then an inmate in New Jersey, confessed to the murders. Clawson was tried in West Virginia and convicted of the killings in 1976, receiving a sentence of life without parole. That conviction was overturned — reporting by Oxygen cites inadequate legal representation and improperly admitted crime scene photographs — and Clawson was retried and convicted a second time in 1981. He recanted his confession and maintained his innocence for the rest of his life; he died in custody in 2009.",
+   "Doubts about Clawson's guilt have persisted and grown. Authors Geoffrey C. Fuller and S. James McLaughlin, whose 2021 book The WVU Coed Murders examined the case, concluded that Clawson's confession contained dozens of details that matched contemporary newspaper coverage but conflicted with the actual facts of the crime, and they argue someone else killed the two students. Dateline NBC's 2025 coverage described the murders as effectively remaining unsolved 55 years later despite the standing conviction.",
+   "The investigation has seen renewed activity in recent years. In May 2022, West Virginia State Police oversaw new excavations near the original discovery site after Albert 'Rod' Everly — a member of the National Guard unit that found the bodies in 1970 — brought forward an analysis of the anonymous letters, which he regards as an overlooked confession by the true killer. Everly has pointed to Richard Warren Hoover, the late leader of a Psychic Science Church in Cumberland, Maryland, as a person who he believes committed the murders or had direct knowledge of them; that theory has not been confirmed by authorities and no one else has been charged. Cadaver dog searches and, later, ground-penetrating radar acquired by the state police have so far failed to locate the victims' skulls, which investigators continue to seek as potential physical evidence."
+  ],
+  "timeline": [
+   {
+    "date": "January 18, 1970",
+    "event": "Mared Malarik and Karen Ferrell see the movie Oliver! at the Metropolitan Theater in downtown Morgantown and are last seen getting into a cream-colored sedan while hitchhiking back toward their WVU dormitory."
+   },
+   {
+    "date": "Early 1970",
+    "event": "Anonymous letters are sent claiming knowledge of the missing students' whereabouts, containing directions that later prove accurate."
+   },
+   {
+    "date": "April 16, 1970",
+    "event": "National Guard members find the two students' decapitated bodies in makeshift graves in a wooded area about 10 miles south of Morgantown; their heads are missing."
+   },
+   {
+    "date": "1976",
+    "event": "New Jersey inmate Eugene Paul Clawson confesses to the murders; he is tried in West Virginia, convicted, and sentenced to life without parole."
+   },
+   {
+    "date": "1977",
+    "event": "Clawson's conviction is overturned, with reporting citing inadequate legal representation and improperly admitted crime scene photographs."
+   },
+   {
+    "date": "1981",
+    "event": "Clawson is retried and convicted a second time. He recants his confession and maintains his innocence."
+   },
+   {
+    "date": "2009",
+    "event": "Eugene Paul Clawson dies in custody, still asserting he did not kill Malarik and Ferrell."
+   },
+   {
+    "date": "2021",
+    "event": "Geoffrey C. Fuller and S. James McLaughlin publish The WVU Coed Murders, concluding Clawson's confession tracked newspaper accounts rather than case facts and that someone else was responsible."
+   },
+   {
+    "date": "May 2022",
+    "event": "West Virginia State Police oversee renewed excavations near the 1970 discovery site, prompted by former National Guard member Albert 'Rod' Everly's analysis of the anonymous letters."
+   },
+   {
+    "date": "July 2022",
+    "event": "State police announce acquisition of ground-penetrating radar to continue searching for the victims' never-recovered skulls; the search has not yet located them."
+   }
+  ],
+  "enriched": true
  }
 ]
