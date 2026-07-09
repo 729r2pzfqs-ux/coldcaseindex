@@ -1237,6 +1237,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/ina-jane-doe-1993/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/ingrid-lyne/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1886,6 +1892,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/oklahoma-girl-scout-murders-1977/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/opelika-jane-doe-2012/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
