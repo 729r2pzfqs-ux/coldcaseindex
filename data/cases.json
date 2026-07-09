@@ -58523,5 +58523,2682 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "chris-porco-2004",
+    "name": "Peter & Joan Porco",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2004,
+    "date": "November 15, 2004",
+    "state": "New York",
+    "city": "Delmar",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Chris Porco attacked his parents with an axe while they slept in Delmar, New York. His father died; his mother survived but lost an eye. Joan initially identified Chris by nodding, then denied it.",
+    "lastSeen": "November 15, 2004, their home in Delmar, New York",
+    "tags": [
+      "homicide",
+      "New York",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Christopher Porco - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Christopher_Porco"
+      },
+      {
+        "title": "Porco case - Times Union Albany",
+        "url": "https://www.timesunion.com/news/crime/christopher-porco/"
+      }
+    ],
+    "narrative": [
+      "On November 15, 2004, Peter Porco was attacked with a fireman's axe while sleeping in his Delmar, New York home. His wife Joan was also struck but survived. In a bizarre detail, Peter apparently got up after the attack and went about his morning routine—making his lunch, getting the newspaper—before collapsing and dying.",
+      "When a paramedic asked Joan Porco if her son Christopher did this, she nodded yes. But after recovering, Joan denied Chris was responsible and became his staunchest defender.",
+      "Evidence showed Chris had driven from his college at the University of Rochester, used a stolen key, and attacked his parents over disputes about money and forged loans. Toll records placed his car on the route.",
+      "Chris Porco was convicted of second-degree murder and attempted murder in 2006 and sentenced to 50 years to life. Joan Porco testified in his defense."
+    ],
+    "timeline": [
+      {
+        "date": "2004-11-15",
+        "event": "Peter Porco murdered; Joan severely injured."
+      },
+      {
+        "date": "2006-08-10",
+        "event": "Chris Porco convicted; sentenced to 50 years to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gypsy-rose-blanchard-release-2024",
+    "name": "Gypsy Rose Blanchard (release)",
+    "type": "Parole",
+    "status": "Solved",
+    "year": 2024,
+    "date": "December 28, 2023",
+    "state": "Missouri",
+    "city": "Chillicothe",
+    "age": 32,
+    "gender": "Female",
+    "summary": "Gypsy Rose Blanchard was released from prison in December 2023 after serving 8 years for conspiring to murder her mother Dee Dee, who had subjected her to Munchausen syndrome by proxy abuse for decades.",
+    "lastSeen": "December 28, 2023, Chillicothe Correctional Center, Missouri",
+    "tags": [
+      "parole",
+      "Missouri",
+      "2020s",
+      "Munchausen by proxy",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Gypsy Rose Blanchard release - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gypsy_Rose_Blanchard"
+      },
+      {
+        "title": "Blanchard released - People",
+        "url": "https://people.com/crime/gypsy-rose-blanchard-released-prison/"
+      },
+      {
+        "title": "Post-release - CNN",
+        "url": "https://www.cnn.com/2023/12/28/us/gypsy-rose-blanchard-released/index.html"
+      }
+    ],
+    "narrative": [
+      "Gypsy Rose Blanchard was released from the Chillicothe Correctional Center in Missouri on December 28, 2023, after serving eight years of a ten-year sentence for second-degree murder.",
+      "Gypsy had conspired with her online boyfriend Nicholas Godejohn to kill her mother Dee Dee Blanchard in 2015. Dee Dee had subjected Gypsy to years of Munchausen syndrome by proxy abuse, forcing her to use a wheelchair, shaving her head, and subjecting her to unnecessary surgeries.",
+      "Her release generated enormous public interest. Gypsy quickly amassed millions of social media followers and became a public figure, appearing on talk shows and launching a reality series.",
+      "The case remained a touchstone for discussions about Munchausen syndrome by proxy, the limits of self-defense, and the justice system's treatment of abuse victims who resort to violence."
+    ],
+    "timeline": [
+      {
+        "date": "2015-06-14",
+        "event": "Dee Dee Blanchard murdered."
+      },
+      {
+        "date": "2016-07-05",
+        "event": "Gypsy pleads guilty; sentenced to 10 years."
+      },
+      {
+        "date": "2023-12-28",
+        "event": "Gypsy released from prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "mark-winger-1995",
+    "name": "Donnah Winger",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1995,
+    "date": "August 29, 1995",
+    "state": "Illinois",
+    "city": "Springfield",
+    "age": 31,
+    "gender": "Female",
+    "summary": "Mark Winger murdered his wife Donnah and a shuttle driver he lured to their home, staging it to look like a break-in. He was a hero until a friend went to police years later.",
+    "lastSeen": "August 29, 1995, their home in Springfield, Illinois",
+    "tags": [
+      "homicide",
+      "Illinois",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Mark Winger - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mark_Winger"
+      },
+      {
+        "title": "Winger case - Dateline NBC",
+        "url": "https://www.nbcnews.com/dateline/video/mark-winger"
+      }
+    ],
+    "narrative": [
+      "On August 29, 1995, Mark Winger called 911 claiming that a shuttle driver named Roger Harrington had broken into his Springfield, Illinois home and was beating his wife Donnah with a hammer. Mark said he shot Harrington to save Donnah.",
+      "Donnah died from her injuries. Mark was hailed as a hero—a husband who tried to save his wife. He collected insurance money and remarried.",
+      "Four years later, Mark's friend DeAnn Schultz went to police. She revealed that Mark had been having an affair with her and had expressed a desire to get rid of Donnah. She also disclosed that Mark had deliberately lured Harrington to the house.",
+      "Investigation confirmed the scheme: Mark had killed Donnah himself with the hammer, then lured Harrington to the house and shot him to create a cover story. Winger was convicted of two counts of first-degree murder and sentenced to life."
+    ],
+    "timeline": [
+      {
+        "date": "1995-08-29",
+        "event": "Donnah Winger and Roger Harrington killed."
+      },
+      {
+        "date": "2002-06-05",
+        "event": "Mark Winger convicted of double murder; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "rebecca-zahau-coronado-2011",
+    "name": "Rebecca Zahau (civil case)",
+    "type": "Wrongful Death",
+    "status": "Solved",
+    "year": 2018,
+    "date": "April 4, 2018",
+    "state": "California",
+    "city": "Coronado",
+    "age": 32,
+    "gender": "Female",
+    "summary": "A civil jury found Adam Shacknai responsible for Rebecca Zahau's death at the Spreckels mansion, despite the sheriff ruling it suicide. The family was awarded $5 million.",
+    "lastSeen": "July 13, 2011, Spreckels mansion, Coronado, California",
+    "tags": [
+      "wrongful death",
+      "California",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Zahau civil verdict - San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/courts/rebecca-zahau-civil-trial/"
+      },
+      {
+        "title": "Zahau case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Rebecca_Zahau"
+      }
+    ],
+    "narrative": [
+      "Rebecca Zahau, 32, was found hanging nude with her hands bound from a balcony of the Spreckels mansion in Coronado, California on July 13, 2011. The San Diego Sheriff's Department ruled her death a suicide.",
+      "The death occurred just two days after Max Shacknai, the 6-year-old son of Rebecca's boyfriend Jonah Shacknai, was critically injured falling down stairs at the same mansion. Max later died.",
+      "Rebecca's family disputed the suicide ruling, arguing it was physically impossible for her to bind herself in the manner described and that the scene was staged.",
+      "In a 2018 civil trial, a jury found Jonah's brother Adam Shacknai responsible for Rebecca's death by a preponderance of evidence. The family was awarded $5 million. Criminal charges were never filed."
+    ],
+    "timeline": [
+      {
+        "date": "2011-07-13",
+        "event": "Rebecca Zahau found dead at Spreckels mansion."
+      },
+      {
+        "date": "2018-04-04",
+        "event": "Civil jury finds Adam Shacknai responsible."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "betty-broderick-1989",
+    "name": "Betty Broderick (case detail)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1989,
+    "date": "November 5, 1989",
+    "state": "California",
+    "city": "San Diego",
+    "age": 41,
+    "gender": "Female",
+    "summary": "Betty Broderick shot her ex-husband Dan and his new wife Linda dead in their bed. After one mistrial, she was convicted of two counts of second-degree murder. She has been denied parole multiple times.",
+    "lastSeen": "November 5, 1989, Dan and Linda's home, Marston Hills, San Diego, California",
+    "tags": [
+      "homicide",
+      "California",
+      "1980s",
+      "domestic violence",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Betty Broderick - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Betty_Broderick"
+      },
+      {
+        "title": "Broderick case - San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/crime/betty-broderick/"
+      },
+      {
+        "title": "Dirty John Season 2 - USA Network",
+        "url": "https://www.usanetwork.com/dirty-john/season-2"
+      }
+    ],
+    "narrative": [
+      "On November 5, 1989, Betty Broderick, 41, used a key she'd kept to enter the Marston Hills home of her ex-husband Dan Broderick and his new wife Linda Kolkena. She shot them both dead as they slept.",
+      "The murders were the culmination of a bitter four-year divorce and custody battle. Dan, a prominent medical malpractice attorney, had left Betty for his much-younger legal assistant Linda. Betty's behavior had become increasingly erratic.",
+      "Betty's first trial in 1990 ended in a mistrial (a deadlocked jury). In her second trial in 1991, she was convicted of two counts of second-degree murder and sentenced to 32 years to life.",
+      "Betty has been denied parole multiple times, most recently in 2017 when she was denied again and told she could not apply until 2032. The case was dramatized in the second season of USA Network's 'Dirty John.'"
+    ],
+    "timeline": [
+      {
+        "date": "1989-11-05",
+        "event": "Betty Broderick murders Dan and Linda."
+      },
+      {
+        "date": "1991-12-11",
+        "event": "Convicted of two counts of second-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "wendi-andriano-2000",
+    "name": "Joe Andriano",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2000,
+    "date": "October 8, 2000",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "age": 33,
+    "gender": "Male",
+    "summary": "Wendi Andriano murdered her terminally ill husband Joe by poisoning him with sodium azide and then bludgeoning him. She claimed self-defense. She was sentenced to death.",
+    "lastSeen": "October 8, 2000, their apartment in Ahwatukee, Phoenix, Arizona",
+    "tags": [
+      "homicide",
+      "Arizona",
+      "2000s",
+      "death row",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Wendi Andriano - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Wendi_Andriano"
+      },
+      {
+        "title": "Andriano case - Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/local/phoenix/wendi-andriano/"
+      }
+    ],
+    "narrative": [
+      "On October 8, 2000, Wendi Andriano called 911 saying her husband Joe had attacked her in their Ahwatukee, Phoenix apartment. When police arrived, they found Joe dead with massive head injuries from a bar stool.",
+      "Joe Andriano, 33, had been terminally ill with cancer. Investigation revealed Wendi had ordered sodium azide—a chemical poison—from the internet and had been administering it to Joe in his drinks.",
+      "When the sodium azide didn't kill him fast enough, Wendi struck him with a bar stool and stabbed him with a knife. She then staged the scene to look like self-defense.",
+      "Wendi Andriano was convicted of first-degree murder and sentenced to death in 2004. She remains on Arizona's death row."
+    ],
+    "timeline": [
+      {
+        "date": "2000-10-08",
+        "event": "Joe Andriano murdered by his wife Wendi."
+      },
+      {
+        "date": "2004-12-22",
+        "event": "Wendi convicted; sentenced to death."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "liam-fee-scotland-2014",
+    "name": "Liam Fee",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2014,
+    "date": "March 22, 2014",
+    "state": "United Kingdom",
+    "city": "Glenrothes",
+    "country": "United Kingdom",
+    "age": 2,
+    "gender": "Male",
+    "summary": "Two-year-old Liam Fee was murdered by his mother Rachel and her partner Nyomi Fee in Glenrothes, Scotland. He had suffered prolonged abuse. They also abused two other children.",
+    "lastSeen": "March 22, 2014, their home in Thornton, Glenrothes, Fife, Scotland",
+    "tags": [
+      "homicide",
+      "child",
+      "United Kingdom",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Liam Fee - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Liam_Fee"
+      },
+      {
+        "title": "Fee trial - BBC Scotland",
+        "url": "https://www.bbc.com/news/uk-scotland-liam-fee"
+      }
+    ],
+    "narrative": [
+      "On March 22, 2014, two-year-old Liam Fee was pronounced dead at his home in Thornton, near Glenrothes, Fife, Scotland. He had suffered a ruptured heart caused by severe blunt force trauma to his chest.",
+      "His mother Rachel Trelfa (also known as Rachel Fee) and her civil partner Nyomi Fee had subjected Liam to prolonged physical abuse. Evidence showed he had suffered multiple broken bones in the weeks before his death.",
+      "The couple attempted to blame Liam's death on another child in their care. They had also been abusing two other boys, tying them up in cages and forcing them to eat dog excrement.",
+      "Rachel and Nyomi Fee were both convicted of murder and multiple charges of child abuse in 2016. Each was sentenced to life imprisonment with minimum terms of 23.5 and 24 years respectively."
+    ],
+    "timeline": [
+      {
+        "date": "2014-03-22",
+        "event": "Liam Fee dies from abuse injuries."
+      },
+      {
+        "date": "2016-05-31",
+        "event": "Rachel and Nyomi Fee convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "daniel-pelka-2012-uk",
+    "name": "Daniel Pelka",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2012,
+    "date": "March 3, 2012",
+    "state": "United Kingdom",
+    "city": "Coventry",
+    "country": "United Kingdom",
+    "age": 4,
+    "gender": "Male",
+    "summary": "Four-year-old Daniel Pelka was starved and beaten to death by his mother and stepfather in Coventry, England. He had been so hungry he stole food from bins at school. Multiple agencies failed to protect him.",
+    "lastSeen": "March 3, 2012, their home in Coventry, West Midlands, England",
+    "tags": [
+      "homicide",
+      "child",
+      "United Kingdom",
+      "2010s",
+      "child welfare failure",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Daniel Pelka - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Daniel_Pelka"
+      },
+      {
+        "title": "Pelka case - Coventry Telegraph",
+        "url": "https://www.coventrytelegraph.net/news/coventry-news/daniel-pelka/"
+      },
+      {
+        "title": "Serious case review - BBC",
+        "url": "https://www.bbc.com/news/uk-england-coventry-warwickshire-daniel-pelka"
+      }
+    ],
+    "narrative": [
+      "On March 3, 2012, four-year-old Daniel Pelka was brought to Coventry hospital by his mother Magdalena Luczak and stepfather Mariusz Krezolek. He had an unsurvivable head injury and died the same day.",
+      "Daniel, who had been born in Poland, had been systematically starved and beaten over a prolonged period. At death, he weighed just under 24 pounds—half the expected weight for a child his age.",
+      "Teachers reported that Daniel scavenged food from school bins, stole other children's lunches, and appeared emaciated. Despite multiple contacts with professionals, no effective intervention occurred.",
+      "Luczak and Krezolek were convicted of murder in 2013 and sentenced to minimum terms of 30 years each. A serious case review found 'collective failure' by agencies. Luczak was found dead in prison in 2015."
+    ],
+    "timeline": [
+      {
+        "date": "2012-03-03",
+        "event": "Daniel Pelka dies from abuse injuries."
+      },
+      {
+        "date": "2013-08-01",
+        "event": "Mother and stepfather convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "suzy-lamplugh-search-2018",
+    "name": "Suzy Lamplugh (suspect)",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1986,
+    "date": "July 28, 1986",
+    "state": "United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "age": 25,
+    "gender": "Female",
+    "summary": "Estate agent Suzy Lamplugh vanished after leaving to meet a client named 'Mr. Kipper' in London. Serial killer John Cannan is the prime suspect but has never been charged. Suzy was declared dead in 1994.",
+    "lastSeen": "July 28, 1986, Shorrolds Road, Fulham, London, England",
+    "tags": [
+      "missing person",
+      "United Kingdom",
+      "1980s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Suzy Lamplugh - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Suzy_Lamplugh"
+      },
+      {
+        "title": "Lamplugh case - Metropolitan Police",
+        "url": "https://www.met.police.uk/suzy-lamplugh/"
+      },
+      {
+        "title": "Cannan suspect - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/suzy-lamplugh"
+      }
+    ],
+    "narrative": [
+      "On July 28, 1986, Suzy Lamplugh, a 25-year-old estate agent, left her office in Fulham, London to show a property to a client she had recorded as 'Mr. Kipper.' She was never seen again.",
+      "Suzy's car was found parked about a mile from the property with her purse inside. There were no signs of a struggle. She was declared dead in 1994, presumed murdered.",
+      "John Cannan, a convicted rapist and murderer released from prison just days before Suzy's disappearance, has been named as the prime suspect. He had used the alias 'Kipper' and matched witness descriptions. Police searched properties linked to Cannan in 2018.",
+      "Despite extensive investigation, no body has been found and no charges have been brought. The Suzy Lamplugh Trust, established by Suzy's mother, became a leading personal safety charity in the UK."
+    ],
+    "timeline": [
+      {
+        "date": "1986-07-28",
+        "event": "Suzy Lamplugh vanishes after meeting 'Mr. Kipper.'"
+      },
+      {
+        "date": "2002-01-01",
+        "event": "John Cannan named as prime suspect."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "marc-dutroux-belgium-1996",
+    "name": "Marc Dutroux Victims",
+    "type": "Kidnapping/Murder",
+    "status": "Solved",
+    "year": 1996,
+    "date": "August 13, 1996",
+    "state": "Belgium",
+    "city": "Marcinelle",
+    "country": "Belgium",
+    "age": null,
+    "gender": "Female",
+    "summary": "Marc Dutroux kidnapped six girls in Belgium, killing four. Two were rescued alive from a dungeon. The case exposed police incompetence and triggered massive protests, reshaping Belgian politics.",
+    "lastSeen": "Various dates, Marcinelle, Belgium",
+    "tags": [
+      "kidnapping",
+      "murder",
+      "Belgium",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Marc Dutroux - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marc_Dutroux"
+      },
+      {
+        "title": "Dutroux affair - BBC",
+        "url": "https://www.bbc.com/news/world-europe-marc-dutroux"
+      },
+      {
+        "title": "White March - The Guardian",
+        "url": "https://www.theguardian.com/world/dutroux-affair"
+      }
+    ],
+    "narrative": [
+      "Between 1995 and 1996, Marc Dutroux kidnapped six girls in Belgium, aged 8 to 19. He held them in a dungeon he had built in the basement of his house in Marcinelle. Two girls starved to death while Dutroux was in prison for auto theft.",
+      "On August 13, 1996, police raided Dutroux's home and rescued two surviving girls—Sabine Dardenne (12) and Laetitia Delhez (14). The discovery triggered outrage when it emerged that police had searched the house earlier but failed to find the dungeon.",
+      "The case exposed catastrophic police failures—officers had heard children's voices during an earlier search but didn't investigate. Judges and officials were accused of protecting Dutroux. The scandal triggered the 'White March' in Brussels, where 300,000 people protested.",
+      "Dutroux was convicted in 2004 and sentenced to life imprisonment. The affair fundamentally reshaped Belgian politics and led to major reforms in the police and justice system."
+    ],
+    "timeline": [
+      {
+        "date": "1996-08-13",
+        "event": "Two girls rescued from Dutroux's dungeon."
+      },
+      {
+        "date": "2004-06-17",
+        "event": "Dutroux convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "josef-fritzl-austria-2008",
+    "name": "Josef Fritzl Case",
+    "type": "Kidnapping/Abuse",
+    "status": "Solved",
+    "year": 2008,
+    "date": "April 26, 2008",
+    "state": "Austria",
+    "city": "Amstetten",
+    "country": "Austria",
+    "age": null,
+    "gender": "Female",
+    "summary": "Josef Fritzl imprisoned his daughter Elisabeth in a cellar for 24 years, fathering seven children with her. The case was discovered in 2008 when one of the children needed hospital care.",
+    "lastSeen": "1984-2008, basement of Fritzl home, Amstetten, Austria",
+    "tags": [
+      "kidnapping",
+      "abuse",
+      "Austria",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Fritzl case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fritzl_case"
+      },
+      {
+        "title": "Fritzl case - BBC",
+        "url": "https://www.bbc.com/news/world-europe-fritzl"
+      },
+      {
+        "title": "Fritzl conviction - The Guardian",
+        "url": "https://www.theguardian.com/world/josef-fritzl"
+      }
+    ],
+    "narrative": [
+      "In August 1984, Josef Fritzl lured his 18-year-old daughter Elisabeth into the basement of their family home in Amstetten, Austria, where he drugged her and locked her in a purpose-built cellar. He would keep her imprisoned for 24 years.",
+      "During her captivity, Fritzl repeatedly raped Elisabeth, fathering seven children. Three of the children were raised upstairs by Fritzl and his wife, who believed Elisabeth had abandoned them. Three remained in the cellar. One died shortly after birth.",
+      "The case was discovered in April 2008 when 19-year-old Kerstin, one of the cellar children, fell critically ill and was taken to hospital. Elisabeth persuaded Fritzl to let her accompany Kerstin, and she told authorities the truth.",
+      "Fritzl was convicted of murder (the baby who died), enslavement, rape, incest, and imprisonment in 2009. He was sentenced to life in a psychiatric institution."
+    ],
+    "timeline": [
+      {
+        "date": "1984-08-28",
+        "event": "Elisabeth Fritzl imprisoned by her father."
+      },
+      {
+        "date": "2008-04-26",
+        "event": "Elisabeth freed after 24 years."
+      },
+      {
+        "date": "2009-03-19",
+        "event": "Josef Fritzl sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "amanda-knox-italy-2007",
+    "name": "Amanda Knox (case)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2007,
+    "date": "November 1, 2007",
+    "state": "Italy",
+    "city": "Perugia",
+    "country": "Italy",
+    "age": 20,
+    "gender": "Female",
+    "summary": "American student Amanda Knox was convicted, then acquitted, then reconvicted, then definitively acquitted of the murder of her roommate Meredith Kercher in Perugia, Italy. Rudy Guede was convicted.",
+    "lastSeen": "November 1, 2007, apartment in Perugia, Italy",
+    "tags": [
+      "homicide",
+      "Italy",
+      "2000s",
+      "exoneration",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Amanda Knox - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Amanda_Knox"
+      },
+      {
+        "title": "Knox case - BBC",
+        "url": "https://www.bbc.com/news/world-europe-amanda-knox"
+      },
+      {
+        "title": "Knox acquittal - CNN",
+        "url": "https://www.cnn.com/2015/03/27/europe/amanda-knox-acquitted/index.html"
+      }
+    ],
+    "narrative": [
+      "On November 1, 2007, British student Meredith Kercher was found murdered in the apartment she shared with Amanda Knox in Perugia, Italy. She had been sexually assaulted and stabbed.",
+      "Knox, 20, and her Italian boyfriend Raffaele Sollecito were arrested along with Rudy Guede, a local man whose DNA was found at the scene. Knox and Sollecito were convicted in 2009.",
+      "The case became an international sensation. Knox spent four years in Italian prison before her conviction was overturned on appeal in 2011. Italy's supreme court then ordered a retrial, which reconvicted her in absentia in 2014.",
+      "In 2015, Italy's highest court definitively acquitted Knox and Sollecito, finding that there was no reliable evidence linking them to the murder. Guede, whose DNA was abundant at the scene, served 16 years and was released in 2021."
+    ],
+    "timeline": [
+      {
+        "date": "2007-11-01",
+        "event": "Meredith Kercher murdered in Perugia."
+      },
+      {
+        "date": "2009-12-04",
+        "event": "Knox convicted."
+      },
+      {
+        "date": "2011-10-03",
+        "event": "Knox acquitted on appeal; freed."
+      },
+      {
+        "date": "2015-03-27",
+        "event": "Definitively acquitted by highest court."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "oscar-pistorius-2013",
+    "name": "Reeva Steenkamp",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2013,
+    "date": "February 14, 2013",
+    "state": "South Africa",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "age": 29,
+    "gender": "Female",
+    "summary": "Paralympic champion Oscar Pistorius shot and killed his girlfriend Reeva Steenkamp through a locked bathroom door on Valentine's Day. He claimed he thought she was an intruder. He was convicted of murder.",
+    "lastSeen": "February 14, 2013, Pistorius home, Silver Woods, Pretoria, South Africa",
+    "tags": [
+      "homicide",
+      "South Africa",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Trial of Oscar Pistorius - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trial_of_Oscar_Pistorius"
+      },
+      {
+        "title": "Pistorius case - BBC",
+        "url": "https://www.bbc.com/news/world-africa-oscar-pistorius"
+      },
+      {
+        "title": "Steenkamp family - CNN",
+        "url": "https://www.cnn.com/2013/02/14/world/africa/south-africa-oscar-pistorius/index.html"
+      }
+    ],
+    "narrative": [
+      "In the early morning hours of Valentine's Day 2013, Oscar Pistorius, the famed 'Blade Runner' Paralympic sprinter, fired four shots through a locked bathroom door at his home in Pretoria, killing his girlfriend Reeva Steenkamp, a 29-year-old model and law graduate.",
+      "Pistorius claimed he believed an intruder had broken in and was hiding in the bathroom. Prosecutors argued the couple had been fighting and Reeva had locked herself in the bathroom to escape.",
+      "Pistorius was initially convicted of culpable homicide (manslaughter) in 2014. On appeal, this was upgraded to murder in 2015. He was sentenced to 13 years and 5 months in prison.",
+      "Pistorius was released on parole in January 2024 after serving about half his sentence. The case generated worldwide attention due to his celebrity status and the dramatic televised trial."
+    ],
+    "timeline": [
+      {
+        "date": "2013-02-14",
+        "event": "Pistorius shoots Reeva Steenkamp through bathroom door."
+      },
+      {
+        "date": "2015-12-03",
+        "event": "Conviction upgraded to murder."
+      },
+      {
+        "date": "2024-01-05",
+        "event": "Pistorius released on parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "chris-dawson-australia-2022",
+    "name": "Lynette Dawson",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1982,
+    "date": "January 8, 1982",
+    "state": "Australia",
+    "city": "Sydney",
+    "country": "Australia",
+    "age": 33,
+    "gender": "Female",
+    "summary": "Chris Dawson, a former rugby league player and teacher, was convicted in 2022 of murdering his wife Lynette in 1982. The case was revived by the podcast 'The Teacher's Pet.'",
+    "lastSeen": "January 8, 1982, their home in Bayview, Sydney, Australia",
+    "tags": [
+      "homicide",
+      "Australia",
+      "1980s",
+      "podcast",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Chris Dawson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chris_Dawson"
+      },
+      {
+        "title": "Teacher's Pet podcast - The Australian",
+        "url": "https://www.theaustralian.com.au/the-teachers-pet/"
+      },
+      {
+        "title": "Dawson conviction - ABC",
+        "url": "https://www.abc.net.au/news/chris-dawson-verdict/"
+      }
+    ],
+    "narrative": [
+      "Lynette Dawson, 33, vanished from her home in Bayview, Sydney on January 8, 1982. Her husband Chris, a former rugby league player and high school teacher, claimed she had called from a phone box saying she needed time away.",
+      "Two days after Lynette disappeared, Chris moved his teenage former student and babysitter, known as 'JC,' into the family home. He had been having an affair with the girl since she was 16.",
+      "The case lay dormant for decades until journalist Hedley Thomas launched the podcast 'The Teacher's Pet' in 2018, which attracted millions of listeners and generated new evidence and witnesses.",
+      "Chris Dawson was arrested in 2018 and convicted of murder in August 2022. He was sentenced to 24 years in prison. Lynette's body has never been found."
+    ],
+    "timeline": [
+      {
+        "date": "1982-01-08",
+        "event": "Lynette Dawson vanishes."
+      },
+      {
+        "date": "2022-08-30",
+        "event": "Chris Dawson convicted of murder; sentenced to 24 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jill-meagher-australia-2012",
+    "name": "Jill Meagher",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2012,
+    "date": "September 22, 2012",
+    "state": "Australia",
+    "city": "Melbourne",
+    "country": "Australia",
+    "age": 29,
+    "gender": "Female",
+    "summary": "Irish-Australian Jill Meagher was raped and murdered while walking home from a bar in Brunswick, Melbourne. Adrian Bayley, who was on parole for multiple rapes, was convicted.",
+    "lastSeen": "September 22, 2012, Sydney Road, Brunswick, Melbourne, Australia",
+    "tags": [
+      "homicide",
+      "Australia",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Jill Meagher - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Jill_Meagher"
+      },
+      {
+        "title": "Meagher case - The Age",
+        "url": "https://www.theage.com.au/national/victoria/jill-meagher/"
+      },
+      {
+        "title": "Bayley conviction - ABC",
+        "url": "https://www.abc.net.au/news/jill-meagher-bayley/"
+      }
+    ],
+    "narrative": [
+      "On September 22, 2012, Jill Meagher, a 29-year-old Irish-born ABC radio journalist, disappeared while walking home from a bar on Sydney Road in Brunswick, Melbourne. CCTV footage showed a man talking to her.",
+      "Her body was found six days later in a shallow grave in a paddock northwest of Melbourne. She had been raped and strangled.",
+      "Adrian Bayley, 41, a serial rapist who was on parole at the time, was arrested after being identified from the CCTV footage. He had been convicted of 16 prior rapes.",
+      "Bayley was sentenced to life with a minimum of 35 years. The case sparked outrage about how Bayley was on parole and led to major reforms of Victoria's parole system, including the abolition of automatic parole for violent offenders."
+    ],
+    "timeline": [
+      {
+        "date": "2012-09-22",
+        "event": "Jill Meagher vanishes walking home."
+      },
+      {
+        "date": "2012-09-28",
+        "event": "Her body found; Bayley arrested."
+      },
+      {
+        "date": "2013-06-19",
+        "event": "Bayley sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "amy-schulz-2019",
+    "name": "Amy Schulz (Schuerr)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "September 2019",
+    "state": "Indiana",
+    "city": "Peru",
+    "age": 33,
+    "gender": "Female",
+    "summary": "Amy Schulz Schuerr was found dead in Peru, Indiana. Her husband Benjamin Schuerr was convicted after evidence showed he strangled her and staged the scene as a fall.",
+    "lastSeen": "September 2019, their home in Peru, Miami County, Indiana",
+    "tags": [
+      "homicide",
+      "Indiana",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Schuerr case - WRTV Indianapolis",
+        "url": "https://www.wrtv.com/news/local-news/benjamin-schuerr/"
+      },
+      {
+        "title": "Peru Indiana murder - Kokomo Tribune",
+        "url": "https://www.kokomotribune.com/news/crime/amy-schuerr/"
+      }
+    ],
+    "narrative": [
+      "In September 2019, Amy Schulz Schuerr, 33, was found dead in her home in Peru, Indiana. Her husband Benjamin claimed she had fallen down the stairs.",
+      "The autopsy revealed injuries inconsistent with a fall, including strangulation marks on her neck. Evidence at the scene had been staged.",
+      "Benjamin Schuerr was arrested and charged with murder. Investigation uncovered a troubled marriage and financial motives.",
+      "Schuerr was convicted of murder and sentenced to 55 years in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2019-09-01",
+        "event": "Amy Schuerr found dead."
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Benjamin Schuerr convicted; sentenced to 55 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "brittney-griner-detention-2022",
+    "name": "Brittney Griner (detention)",
+    "type": "Wrongful Detention",
+    "status": "Solved",
+    "year": 2022,
+    "date": "February 17, 2022",
+    "state": "Russia",
+    "city": "Moscow",
+    "country": "Russia",
+    "age": 31,
+    "gender": "Female",
+    "summary": "WNBA star Brittney Griner was detained in Russia for carrying cannabis cartridges. She was convicted and sentenced to 9 years but freed in a prisoner exchange for arms dealer Viktor Bout.",
+    "lastSeen": "February 17, 2022 - December 8, 2022, various Russian detention facilities",
+    "tags": [
+      "wrongful detention",
+      "Russia",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Brittney Griner detention - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brittney_Griner#Detention_in_Russia"
+      },
+      {
+        "title": "Griner case - ESPN",
+        "url": "https://www.espn.com/wnba/story/brittney-griner/"
+      },
+      {
+        "title": "Prisoner exchange - CNN",
+        "url": "https://www.cnn.com/2022/12/08/politics/brittney-griner-released/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 17, 2022, WNBA star Brittney Griner was detained at Moscow's Sheremetyevo Airport when Russian customs agents found cannabis oil cartridges in her luggage. She was playing in the Russian basketball league during the WNBA off-season.",
+      "Griner's detention coincided with Russia's invasion of Ukraine, and her case became entangled in geopolitics. The U.S. State Department classified her as 'wrongfully detained.'",
+      "Griner was convicted of drug smuggling and sentenced to nine years in a Russian penal colony. She was held in increasingly harsh conditions.",
+      "On December 8, 2022, Griner was released as part of a prisoner exchange—she was traded for Viktor Bout, a convicted Russian arms dealer serving a 25-year sentence in the U.S. The exchange was controversial."
+    ],
+    "timeline": [
+      {
+        "date": "2022-02-17",
+        "event": "Griner detained at Moscow airport."
+      },
+      {
+        "date": "2022-08-04",
+        "event": "Convicted; sentenced to 9 years."
+      },
+      {
+        "date": "2022-12-08",
+        "event": "Freed in prisoner exchange for Viktor Bout."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "madeline-soto-2024",
+    "name": "Madeline Soto",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "February 26, 2024",
+    "state": "Florida",
+    "city": "Kissimmee",
+    "age": 13,
+    "gender": "Female",
+    "summary": "Thirteen-year-old Madeline Soto was murdered by her mother's boyfriend Stephan Sterns in Kissimmee, Florida. He was found to have sexually abused her for years. He faces the death penalty.",
+    "lastSeen": "February 26, 2024, Kissimmee, Osceola County, Florida",
+    "tags": [
+      "homicide",
+      "child",
+      "Florida",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Madeline Soto - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Madeline_Soto"
+      },
+      {
+        "title": "Soto case - Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/crime/madeline-soto/"
+      },
+      {
+        "title": "Sterns arrest - WESH",
+        "url": "https://www.wesh.com/article/madeline-soto-stephan-sterns/"
+      }
+    ],
+    "narrative": [
+      "On February 26, 2024, thirteen-year-old Madeline Soto was reported missing from Kissimmee, Florida by her mother's boyfriend Stephan Sterns, who claimed he dropped her off at school. The school had no record of her arrival.",
+      "Madeline's body was found in a rural area of St. Cloud, Florida on March 1, 2024. Investigation revealed Sterns had been sexually abusing Madeline for years—thousands of images of child sexual abuse material involving Madeline were found on his devices.",
+      "Sterns was charged with first-degree murder and over 60 counts of sexual offenses against Madeline. Evidence showed the abuse had been ongoing since she was approximately 8 years old.",
+      "The state is seeking the death penalty against Sterns. The case prompted outrage about how the abuse went undetected for so long and raised questions about the mother's awareness."
+    ],
+    "timeline": [
+      {
+        "date": "2024-02-26",
+        "event": "Madeline Soto reported missing."
+      },
+      {
+        "date": "2024-03-01",
+        "event": "Her body found; Sterns arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "laken-riley-2024",
+    "name": "Laken Riley",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "February 22, 2024",
+    "state": "Georgia",
+    "city": "Athens",
+    "age": 22,
+    "gender": "Female",
+    "summary": "Twenty-two-year-old UGA nursing student Laken Riley was murdered while jogging on campus. Jose Ibarra, a Venezuelan national in the U.S. illegally, was convicted. The case became politically charged.",
+    "lastSeen": "February 22, 2024, jogging near UGA campus, Athens, Georgia",
+    "tags": [
+      "homicide",
+      "Georgia",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Laken Riley - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Laken_Riley"
+      },
+      {
+        "title": "Riley case - Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/news/crime/laken-riley/"
+      },
+      {
+        "title": "Ibarra conviction - CNN",
+        "url": "https://www.cnn.com/2024/11/20/us/laken-riley-trial-jose-ibarra/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 22, 2024, Laken Riley, a 22-year-old Augusta University nursing student, went jogging near the University of Georgia campus in Athens, Georgia. She was attacked and killed.",
+      "Jose Antonio Ibarra, 26, a Venezuelan national who had entered the U.S. illegally in 2022, was arrested the following day. Phone data and surveillance footage placed him at the scene.",
+      "Ibarra was convicted of malice murder, felony murder, kidnapping, aggravated assault, and other charges in November 2024. He was sentenced to life without the possibility of parole.",
+      "The case became a flashpoint in the national immigration debate. The 'Laken Riley Act,' requiring ICE detention of undocumented immigrants charged with certain crimes, was signed into law in 2025."
+    ],
+    "timeline": [
+      {
+        "date": "2024-02-22",
+        "event": "Laken Riley murdered while jogging."
+      },
+      {
+        "date": "2024-11-20",
+        "event": "Jose Ibarra convicted; sentenced to life without parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "rachel-morin-2023",
+    "name": "Rachel Morin",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "August 5, 2023",
+    "state": "Maryland",
+    "city": "Bel Air",
+    "age": 37,
+    "gender": "Female",
+    "summary": "Mother of five Rachel Morin was murdered while hiking on the Ma & Pa Heritage Trail in Bel Air, Maryland. Victor Martinez-Hernandez, a Salvadoran national, was arrested after a multistate manhunt.",
+    "lastSeen": "August 5, 2023, Ma & Pa Heritage Trail, Bel Air, Harford County, Maryland",
+    "tags": [
+      "homicide",
+      "Maryland",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Rachel Morin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Rachel_Morin"
+      },
+      {
+        "title": "Morin case - Baltimore Sun",
+        "url": "https://www.baltimoresun.com/news/crime/rachel-morin/"
+      },
+      {
+        "title": "Martinez-Hernandez arrest - CNN",
+        "url": "https://www.cnn.com/2024/06/15/us/rachel-morin-suspect-arrested/index.html"
+      }
+    ],
+    "narrative": [
+      "On August 5, 2023, Rachel Morin, a 37-year-old mother of five, went for a hike on the Ma & Pa Heritage Trail near Bel Air, Maryland. She never returned home. Her body was found the next day.",
+      "An extensive investigation using DNA evidence and surveillance footage led to the identification of Victor Antonio Martinez-Hernandez, a citizen of El Salvador who had entered the U.S. illegally.",
+      "Martinez-Hernandez was arrested in Tulsa, Oklahoma in June 2024. He was linked to additional violent crimes including a murder in El Salvador and an assault in Los Angeles.",
+      "The case, along with the Laken Riley case, became part of the national debate about border security and immigration enforcement during the 2024 election cycle."
+    ],
+    "timeline": [
+      {
+        "date": "2023-08-05",
+        "event": "Rachel Morin murdered on hiking trail."
+      },
+      {
+        "date": "2024-06-15",
+        "event": "Martinez-Hernandez arrested in Oklahoma."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "audrii-cunningham-2024",
+    "name": "Audrii Cunningham",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "February 15, 2024",
+    "state": "Texas",
+    "city": "Livingston",
+    "age": 11,
+    "gender": "Female",
+    "summary": "Eleven-year-old Audrii Cunningham was murdered by Don Steven McDougal, a family friend who was supposed to take her to school. Her body was found in the Trinity River. McDougal was charged with capital murder.",
+    "lastSeen": "February 15, 2024, near her home in Livingston, Polk County, Texas",
+    "tags": [
+      "homicide",
+      "child",
+      "Texas",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Audrii Cunningham - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Audrii_Cunningham"
+      },
+      {
+        "title": "Cunningham case - Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/news/crime/audrii-cunningham/"
+      },
+      {
+        "title": "McDougal arrest - KPRC",
+        "url": "https://www.click2houston.com/news/local/audrii-cunningham-mcdougal/"
+      }
+    ],
+    "narrative": [
+      "On February 15, 2024, eleven-year-old Audrii Cunningham did not arrive at her school in Livingston, Texas. She was supposed to be dropped off by Don Steven McDougal, 42, a family friend who lived on the family's property.",
+      "McDougal initially told investigators he had dropped Audrii at school. Phone and GPS data contradicted his account.",
+      "Audrii's body was found on February 20 in the Trinity River near a bridge south of Livingston. She had been killed by blunt force trauma.",
+      "McDougal was arrested and charged with capital murder of a child. The case highlighted the dangers children face from trusted adults in their lives."
+    ],
+    "timeline": [
+      {
+        "date": "2024-02-15",
+        "event": "Audrii Cunningham disappears."
+      },
+      {
+        "date": "2024-02-20",
+        "event": "Her body found in Trinity River; McDougal charged."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ruby-garcia-2024",
+    "name": "Ruby Garcia",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2024,
+    "date": "March 22, 2024",
+    "state": "Michigan",
+    "city": "Grand Rapids",
+    "age": 25,
+    "gender": "Female",
+    "summary": "Twenty-five-year-old Ruby Garcia was shot and killed on a highway in Grand Rapids, Michigan. Brandon Ortiz-Vite, her ex-boyfriend and an undocumented immigrant, was convicted of murder.",
+    "lastSeen": "March 22, 2024, Highway 131, Kent County, Grand Rapids, Michigan",
+    "tags": [
+      "homicide",
+      "Michigan",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Ruby Garcia - WOOD-TV",
+        "url": "https://www.woodtv.com/news/grand-rapids/ruby-garcia-murder/"
+      },
+      {
+        "title": "Ortiz-Vite conviction - MLive",
+        "url": "https://www.mlive.com/news/grand-rapids/ruby-garcia-ortiz-vite/"
+      }
+    ],
+    "narrative": [
+      "On March 22, 2024, Ruby Garcia, 25, was shot and killed alongside Highway 131 in Grand Rapids, Michigan. Her ex-boyfriend Brandon Ortiz-Vite, 25, a Mexican national who had been deported in 2020 and reentered the U.S., was arrested.",
+      "The case gained national attention when former President Trump cited it in a campaign speech. Ruby's family pushed back, saying her death was being exploited politically.",
+      "Ortiz-Vite was convicted of first-degree murder and sentenced to life without parole.",
+      "The case, alongside others, fueled the immigration debate during the 2024 presidential election."
+    ],
+    "timeline": [
+      {
+        "date": "2024-03-22",
+        "event": "Ruby Garcia shot and killed."
+      },
+      {
+        "date": "2024-12-01",
+        "event": "Ortiz-Vite convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "elijah-vue-2023",
+    "name": "Elijah Vue",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2023,
+    "date": "February 20, 2023",
+    "state": "Wisconsin",
+    "city": "Two Rivers",
+    "age": 3,
+    "gender": "Male",
+    "summary": "Three-year-old Elijah Vue was reported missing from Two Rivers, Wisconsin. His mother's boyfriend Jesse Vang was the last to see him. Vang was charged with abuse but Elijah has never been found.",
+    "lastSeen": "February 20, 2023, Two Rivers, Manitowoc County, Wisconsin",
+    "tags": [
+      "missing person",
+      "child",
+      "Wisconsin",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Elijah Vue - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Elijah_Vue"
+      },
+      {
+        "title": "Vue case - Milwaukee Journal Sentinel",
+        "url": "https://www.jsonline.com/story/news/crime/elijah-vue/"
+      },
+      {
+        "title": "Search continues - WLUK",
+        "url": "https://fox11online.com/news/local/elijah-vue/"
+      }
+    ],
+    "narrative": [
+      "On February 20, 2023, three-year-old Elijah Vue was reported missing from an apartment in Two Rivers, Wisconsin. His mother's boyfriend Jesse Vang, 38, was the last person known to have seen the boy.",
+      "Vang told police he put Elijah down for a nap and the child was gone when he checked later. Prior to the disappearance, Elijah had been seen with bruises and other signs of abuse.",
+      "Extensive searches of the Two Rivers area, including the Twin River and Lake Michigan shoreline, have not located Elijah. Search dogs indicated human remains near the river.",
+      "Vang was charged with felony physical abuse of a child and bail jumping. As of 2024, Elijah has not been found and no murder charges have been filed."
+    ],
+    "timeline": [
+      {
+        "date": "2023-02-20",
+        "event": "Elijah Vue reported missing."
+      },
+      {
+        "date": "2023-03-01",
+        "event": "Vang charged with child abuse."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "king-von-shooting-2020",
+    "name": "King Von",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "November 6, 2020",
+    "state": "Georgia",
+    "city": "Atlanta",
+    "age": 26,
+    "gender": "Male",
+    "summary": "Chicago rapper King Von (Dayvon Bennett) was shot and killed outside an Atlanta nightclub during a shootout between rival groups. Timothy Leeks was charged with his murder.",
+    "lastSeen": "November 6, 2020, Monaco Hookah Lounge, Atlanta, Georgia",
+    "tags": [
+      "homicide",
+      "Georgia",
+      "2020s",
+      "music",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Death of King Von - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/King_Von"
+      },
+      {
+        "title": "King Von shooting - Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/news/crime/king-von-atlanta/"
+      },
+      {
+        "title": "Leeks arrested - TMZ",
+        "url": "https://www.tmz.com/2020/11/07/king-von-dead-shot-killed-atlanta/"
+      }
+    ],
+    "narrative": [
+      "On November 6, 2020, rapper King Von (Dayvon Daquan Bennett), 26, was shot and killed outside the Monaco Hookah Lounge in Atlanta. A confrontation between his group and associates of rapper Quando Rondo escalated into gunfire.",
+      "Surveillance video showed the altercation beginning as a fistfight before multiple people drew weapons. King Von was struck multiple times.",
+      "Timothy Leeks, 22, was arrested at the hospital where he was being treated for gunshot wounds. He was charged with King Von's murder.",
+      "The shooting occurred amid a broader pattern of violence in the hip-hop community and highlighted the deadly connections between rap rivalries and real-world street violence."
+    ],
+    "timeline": [
+      {
+        "date": "2020-11-06",
+        "event": "King Von shot and killed outside Atlanta nightclub."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "xxxtenacion-2018",
+    "name": "XXXTentacion",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "June 18, 2018",
+    "state": "Florida",
+    "city": "Deerfield Beach",
+    "age": 20,
+    "gender": "Male",
+    "summary": "Rapper XXXTentacion (Jahseh Onfroy) was shot and killed during a robbery outside a motorcycle dealership in Deerfield Beach, Florida. Four men were convicted in 2024.",
+    "lastSeen": "June 18, 2018, RIVA Motorsports, Deerfield Beach, Florida",
+    "tags": [
+      "homicide",
+      "Florida",
+      "2010s",
+      "music",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of XXXTentacion - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_XXXTentacion"
+      },
+      {
+        "title": "XXXTentacion case - Sun-Sentinel",
+        "url": "https://www.sun-sentinel.com/local/broward/xxxtentacion/"
+      },
+      {
+        "title": "Convictions - CNN",
+        "url": "https://www.cnn.com/2024/03/xxxtentacion-murder-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 18, 2018, rapper XXXTentacion (Jahseh Dwayne Ricardo Onfroy), 20, was shot and killed outside RIVA Motorsports in Deerfield Beach, Florida. He was blocked in the parking lot by two suspects in an SUV.",
+      "The attackers demanded the Louis Vuitton bag containing $50,000 that XXXTentacion had withdrawn from a bank shortly before. He was shot multiple times and pronounced dead at a hospital.",
+      "Four men were arrested and charged: Michael Boatwright, Dedrick Williams, Trayvon Newsome, and Robert Allen. Allen cooperated with prosecutors.",
+      "In 2024, Boatwright was convicted of first-degree murder and sentenced to life. Williams and Newsome pleaded guilty to lesser charges. The case highlighted the dangers facing young, wealthy rap artists."
+    ],
+    "timeline": [
+      {
+        "date": "2018-06-18",
+        "event": "XXXTentacion shot and killed during robbery."
+      },
+      {
+        "date": "2024-03-12",
+        "event": "Boatwright convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "pop-smoke-2020",
+    "name": "Pop Smoke",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "February 19, 2020",
+    "state": "California",
+    "city": "Los Angeles",
+    "age": 20,
+    "gender": "Male",
+    "summary": "Brooklyn rapper Pop Smoke (Bashar Jackson) was shot and killed during a home invasion in Hollywood Hills. Five teenagers were convicted. He had accidentally posted his address on social media.",
+    "lastSeen": "February 19, 2020, rented home in Hollywood Hills, Los Angeles, California",
+    "tags": [
+      "homicide",
+      "California",
+      "2020s",
+      "music",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Pop Smoke - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Pop_Smoke"
+      },
+      {
+        "title": "Pop Smoke case - Los Angeles Times",
+        "url": "https://www.latimes.com/california/story/pop-smoke-murder/"
+      },
+      {
+        "title": "Teen convictions - CNN",
+        "url": "https://www.cnn.com/2024/04/pop-smoke-murder-sentencing/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 19, 2020, rapper Pop Smoke (Bashar Barakah Jackson), 20, was shot and killed during a home invasion at a rented home in the Hollywood Hills. Four masked individuals broke in around 4:30 a.m.",
+      "Pop Smoke had inadvertently revealed the address of the rental house by posting a photo of a gift bag on Instagram with the address visible.",
+      "Five teenagers were charged with the murder. The primary shooter was 15 at the time. The group had targeted Pop Smoke for robbery.",
+      "In 2024, the defendants received sentences ranging from probation to 18 years. The light sentences drew criticism from Pop Smoke's family and fans."
+    ],
+    "timeline": [
+      {
+        "date": "2020-02-19",
+        "event": "Pop Smoke shot and killed during home invasion."
+      },
+      {
+        "date": "2024-04-01",
+        "event": "Defendants sentenced."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "dolph-murder-2021",
+    "name": "Young Dolph",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2021,
+    "date": "November 17, 2021",
+    "state": "Tennessee",
+    "city": "Memphis",
+    "age": 36,
+    "gender": "Male",
+    "summary": "Memphis rapper Young Dolph (Adolph Thornton Jr.) was shot and killed while buying cookies at Makeda's Homemade Cookies. Justin Johnson and Cornelius Smith were charged with his murder.",
+    "lastSeen": "November 17, 2021, Makeda's Homemade Cookies, Memphis, Tennessee",
+    "tags": [
+      "homicide",
+      "Tennessee",
+      "2020s",
+      "music",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Young Dolph - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Young_Dolph#Death"
+      },
+      {
+        "title": "Dolph case - Commercial Appeal",
+        "url": "https://www.commercialappeal.com/story/news/crime/young-dolph/"
+      },
+      {
+        "title": "Arrests - CNN",
+        "url": "https://www.cnn.com/2022/01/young-dolph-suspects-arrested/index.html"
+      }
+    ],
+    "narrative": [
+      "On November 17, 2021, rapper Young Dolph (Adolph Robert Thornton Jr.), 36, was shot and killed while buying cookies at Makeda's Homemade Cookies in Memphis, Tennessee. Two men approached and fired multiple shots through the storefront window.",
+      "Young Dolph was a beloved figure in Memphis known for his generosity, including annual Thanksgiving turkey giveaways. His death shocked the city and music world.",
+      "Justin Johnson and Cornelius Smith were arrested and charged with first-degree murder. The killing was believed to be connected to a long-running rivalry between Young Dolph and rapper Yo Gotti's label.",
+      "The case highlighted the epidemic of gun violence affecting the hip-hop community and the city of Memphis."
+    ],
+    "timeline": [
+      {
+        "date": "2021-11-17",
+        "event": "Young Dolph shot and killed at Makeda's cookies."
+      },
+      {
+        "date": "2022-01-11",
+        "event": "Justin Johnson and Cornelius Smith arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "paul-bernardo-karla-homolka",
+    "name": "Paul Bernardo & Karla Homolka Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 1995,
+    "date": "September 1, 1995",
+    "state": "Canada",
+    "city": "St. Catharines",
+    "country": "Canada",
+    "age": null,
+    "gender": "Female",
+    "summary": "Paul Bernardo and Karla Homolka, the 'Ken and Barbie Killers,' raped and murdered teenagers Leslie Mahaffy and Kristen French in Ontario. Homolka received a controversial plea deal.",
+    "lastSeen": "Various dates, St. Catharines/Burlington, Ontario, Canada",
+    "tags": [
+      "serial murder",
+      "Canada",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Paul Bernardo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Paul_Bernardo"
+      },
+      {
+        "title": "Bernardo case - Toronto Star",
+        "url": "https://www.thestar.com/news/crime/paul-bernardo/"
+      },
+      {
+        "title": "Homolka deal - CBC",
+        "url": "https://www.cbc.ca/news/canada/karla-homolka/"
+      }
+    ],
+    "narrative": [
+      "Paul Bernardo and his wife Karla Homolka kidnapped, raped, and murdered at least two teenage girls in southern Ontario between 1991 and 1992. Their victims were Leslie Mahaffy (14) and Kristen French (15).",
+      "The couple also drugged and sexually assaulted Karla's younger sister Tammy Homolka in December 1990; Tammy died from the effects of the drugs administered to sedate her.",
+      "Bernardo had also been the 'Scarborough Rapist,' committing at least 13 sexual assaults before the murders. He videotaped the torture and murder of the victims.",
+      "Homolka received a controversial plea deal—12 years for manslaughter in exchange for testimony against Bernardo—before the videotapes revealing her active participation were discovered. Bernardo was sentenced to life with no parole for 25 years. Homolka was released in 2005."
+    ],
+    "timeline": [
+      {
+        "date": "1991-06-15",
+        "event": "Leslie Mahaffy kidnapped and murdered."
+      },
+      {
+        "date": "1992-04-16",
+        "event": "Kristen French kidnapped and murdered."
+      },
+      {
+        "date": "1995-09-01",
+        "event": "Bernardo convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "clifford-olson-canada-1981",
+    "name": "Clifford Olson Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1982,
+    "date": "January 11, 1982",
+    "state": "Canada",
+    "city": "Vancouver",
+    "country": "Canada",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Canadian serial killer Clifford Olson murdered 11 children in British Columbia. He received a controversial $100,000 payment in exchange for revealing the location of victims' bodies.",
+    "lastSeen": "1980-1981, Lower Mainland, British Columbia, Canada",
+    "tags": [
+      "serial killer",
+      "Canada",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Clifford Olson - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Clifford_Olson"
+      },
+      {
+        "title": "Olson case - Vancouver Sun",
+        "url": "https://www.vancouversun.com/news/clifford-olson/"
+      },
+      {
+        "title": "Olson death - CBC",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/clifford-olson-dies/"
+      }
+    ],
+    "narrative": [
+      "Clifford Olson murdered 11 children and youth between the ages of 9 and 18 in the Lower Mainland of British Columbia between November 1980 and July 1981.",
+      "After his arrest, Olson struck a controversial deal with the RCMP: he would reveal the locations of victims' remains in exchange for $100,000 to be placed in a trust fund for his wife and son. The deal outraged Canadians.",
+      "Olson was convicted of 11 counts of first-degree murder in January 1982 and sentenced to life. He applied for parole multiple times, each application generating public outrage.",
+      "Olson died of cancer in prison on September 30, 2011. His case led to changes in Canadian law regarding faint-hope clauses and how serial killers are managed within the corrections system."
+    ],
+    "timeline": [
+      {
+        "date": "1982-01-11",
+        "event": "Olson pleads guilty to 11 murders."
+      },
+      {
+        "date": "2011-09-30",
+        "event": "Olson dies in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "annecy-knife-attack-2023",
+    "name": "Annecy Knife Attack",
+    "type": "Mass Stabbing",
+    "status": "Solved",
+    "year": 2023,
+    "date": "June 8, 2023",
+    "state": "France",
+    "city": "Annecy",
+    "country": "France",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "A man stabbed six people, including four toddlers in strollers, at a playground in Annecy, France. All survived. The attacker was a Syrian refugee with mental health issues.",
+    "lastSeen": "June 8, 2023, Paquier gardens, Annecy, Haute-Savoie, France",
+    "tags": [
+      "mass stabbing",
+      "France",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "2023 Annecy stabbing - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2023_Annecy_stabbing"
+      },
+      {
+        "title": "Annecy attack - Le Monde",
+        "url": "https://www.lemonde.fr/en/france/annecy-stabbing/"
+      },
+      {
+        "title": "Annecy victims - BBC",
+        "url": "https://www.bbc.com/news/world-europe-65841885"
+      }
+    ],
+    "narrative": [
+      "On June 8, 2023, a man attacked people with a knife at the Paquier gardens playground in Annecy, a lakeside town in the French Alps. He stabbed four toddlers in strollers and two adults.",
+      "The children, aged between 22 and 36 months, suffered serious injuries including one who was stabbed in the chest. Bystanders, including a Catholic pilgrim named Henri, tackled the attacker.",
+      "The perpetrator was identified as Abdalmasih H., a 31-year-old Syrian refugee who had been granted asylum in Sweden. He had a history of mental health problems.",
+      "All six victims survived. The attack shocked France and was described by President Macron as 'absolute cowardice.' The attacker was charged with attempted murder."
+    ],
+    "timeline": [
+      {
+        "date": "2023-06-08",
+        "event": "Man stabs six people, including four toddlers, in Annecy."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "richard-ramirez-stalker",
+    "name": "Night Stalker (Richard Ramirez)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 1985,
+    "date": "August 31, 1985",
+    "state": "California",
+    "city": "Los Angeles",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Richard Ramirez terrorized Los Angeles in 1984-1985, breaking into homes and committing murder, rape, and robbery. He was caught by an angry mob and convicted of 13 murders.",
+    "lastSeen": "Various dates, Los Angeles and San Francisco, California",
+    "tags": [
+      "serial killer",
+      "California",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Richard Ramirez - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Richard_Ramirez"
+      },
+      {
+        "title": "Night Stalker - Los Angeles Times",
+        "url": "https://www.latimes.com/crime/night-stalker/"
+      },
+      {
+        "title": "Ramirez death - CNN",
+        "url": "https://www.cnn.com/2013/06/07/us/richard-ramirez-obit/index.html"
+      }
+    ],
+    "narrative": [
+      "Between June 1984 and August 1985, Richard Ramirez broke into homes across the Los Angeles area, killing at least 13 people and sexually assaulting numerous others. His victims ranged in age from 9 to 83.",
+      "Ramirez's attacks were random and brutal—he would enter unlocked homes and windows at night, shooting, stabbing, and bludgeoning victims. He also committed rape and forced victims to 'swear to Satan.'",
+      "He was identified through a fingerprint match and his photo was published. On August 31, 1985, he was recognized in East Los Angeles and chased by an angry mob who beat him until police arrived.",
+      "Ramirez was convicted of 13 murders and sentenced to death in 1989. He died on death row from B-cell lymphoma on June 7, 2013, at age 53."
+    ],
+    "timeline": [
+      {
+        "date": "1985-08-31",
+        "event": "Ramirez caught by angry mob."
+      },
+      {
+        "date": "1989-11-07",
+        "event": "Convicted of 13 murders; sentenced to death."
+      },
+      {
+        "date": "2013-06-07",
+        "event": "Dies on death row."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "pedro-lopez-monster-andes",
+    "name": "Pedro López (Monster of the Andes)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 1980,
+    "date": "March 9, 1980",
+    "state": "Ecuador",
+    "city": "Ambato",
+    "country": "Ecuador",
+    "age": null,
+    "gender": "Female",
+    "summary": "Pedro López confessed to killing over 300 girls across Colombia, Ecuador, and Peru. Released in 1998, his whereabouts are unknown. He is considered one of history's most prolific serial killers.",
+    "lastSeen": "1998 (released from psychiatric facility), Colombia",
+    "tags": [
+      "serial killer",
+      "Ecuador",
+      "Colombia",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Pedro López - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Pedro_L%C3%B3pez_(serial_killer)"
+      },
+      {
+        "title": "Monster of the Andes - NBC News",
+        "url": "https://www.nbcnews.com/news/world/pedro-lopez-monster-andes"
+      }
+    ],
+    "narrative": [
+      "Pedro López, known as the 'Monster of the Andes,' confessed to killing more than 300 young girls across Colombia, Ecuador, and Peru during the 1970s. He targeted impoverished and indigenous girls.",
+      "López was caught in Ecuador in 1980 after a flash flood uncovered the remains of several victims. He led police to 53 graves. Ecuadorian authorities confirmed at least 110 murders.",
+      "He was convicted of 110 murders in Ecuador and sentenced to 16 years—the maximum under Ecuadorian law at the time. He was released in 1998 for good behavior and deported to Colombia.",
+      "In Colombia, he was briefly committed to a psychiatric facility, then released in 1998. His current whereabouts are unknown. He remains one of the most prolific serial killers in recorded history, and may still be at large."
+    ],
+    "timeline": [
+      {
+        "date": "1980-03-09",
+        "event": "Pedro López captured in Ecuador."
+      },
+      {
+        "date": "1998-01-01",
+        "event": "Released; current whereabouts unknown."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "tsutomu-miyazaki-japan-1989",
+    "name": "Tsutomu Miyazaki Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1989,
+    "date": "August 10, 1989",
+    "state": "Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "age": null,
+    "gender": "Female",
+    "summary": "Tsutomu Miyazaki, the 'Otaku Killer,' murdered four young girls in the Tokyo/Saitama area. He kept body parts as trophies and sent taunting letters to families. He was executed in 2008.",
+    "lastSeen": "1988-1989, Saitama Prefecture, Japan",
+    "tags": [
+      "serial killer",
+      "Japan",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Tsutomu Miyazaki - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tsutomu_Miyazaki"
+      },
+      {
+        "title": "Miyazaki case - Japan Times",
+        "url": "https://www.japantimes.co.jp/news/miyazaki-execution/"
+      }
+    ],
+    "narrative": [
+      "Between August 1988 and June 1989, Tsutomu Miyazaki kidnapped and murdered four girls aged 4 to 7 in the Saitama Prefecture and Tokyo areas of Japan.",
+      "Miyazaki committed acts of necrophilia, mutilated the bodies, and kept body parts as trophies. He sent taunting postcards to the families of victims, including bone fragments of one girl sent to her family.",
+      "He was caught on July 23, 1989 while attempting to photograph a young girl. Police found over 5,000 videotapes in his home, many containing anime and horror films, leading to the derogatory label 'Otaku Killer.'",
+      "Miyazaki was convicted of four murders and sentenced to death. He was executed by hanging on June 17, 2008. The case created lasting stigma against otaku culture in Japan."
+    ],
+    "timeline": [
+      {
+        "date": "1989-07-23",
+        "event": "Miyazaki arrested."
+      },
+      {
+        "date": "1997-04-14",
+        "event": "Convicted and sentenced to death."
+      },
+      {
+        "date": "2008-06-17",
+        "event": "Executed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "cecil-hotel-netflix",
+    "name": "Elisa Lam (Cecil Hotel detail)",
+    "type": "Suspicious Death",
+    "status": "Solved",
+    "year": 2013,
+    "date": "February 19, 2013",
+    "state": "California",
+    "city": "Los Angeles",
+    "age": 21,
+    "gender": "Female",
+    "summary": "The bizarre elevator surveillance video of Elisa Lam at the Cecil Hotel went viral. Her body was found in a rooftop water tank. Her death was ruled accidental drowning related to bipolar disorder.",
+    "lastSeen": "January 31, 2013, Cecil Hotel, Los Angeles, California",
+    "tags": [
+      "suspicious death",
+      "California",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Cecil Hotel Netflix - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Crime_Scene:_The_Vanishing_at_the_Cecil_Hotel"
+      },
+      {
+        "title": "Lam case details - Los Angeles Times",
+        "url": "https://www.latimes.com/local/lanow/elisa-lam/"
+      },
+      {
+        "title": "Coroner report - LA County",
+        "url": "https://mec.lacounty.gov/"
+      }
+    ],
+    "narrative": [
+      "On February 19, 2013, guests at the Cecil Hotel in downtown Los Angeles complained about low water pressure and dark-colored water. Maintenance workers found the body of Elisa Lam, 21, a Canadian tourist, in one of the rooftop water tanks.",
+      "Elevator surveillance footage showing Lam acting strangely—pressing multiple buttons, appearing to talk to someone unseen, and making unusual gestures—went viral and spawned conspiracy theories.",
+      "The Los Angeles County coroner ruled Lam's death an accidental drowning, with bipolar disorder listed as a significant contributing factor. Lam had stopped taking her medications.",
+      "The case was the subject of the 2021 Netflix docuseries 'Crime Scene: The Vanishing at the Cecil Hotel,' which examined both the mystery and the internet sleuths who investigated it."
+    ],
+    "timeline": [
+      {
+        "date": "2013-01-31",
+        "event": "Elisa Lam last seen alive."
+      },
+      {
+        "date": "2013-02-19",
+        "event": "Her body found in rooftop water tank."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "joseph-james-deangelo-2018",
+    "name": "Golden State Killer (arrest)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2018,
+    "date": "April 24, 2018",
+    "state": "California",
+    "city": "Citrus Heights",
+    "age": 72,
+    "gender": "Male",
+    "summary": "Joseph James DeAngelo, the Golden State Killer, was arrested in 2018 through investigative genetic genealogy. The former police officer had committed 13 murders and 50+ rapes across California.",
+    "lastSeen": "April 24, 2018, his home in Citrus Heights, California",
+    "tags": [
+      "serial killer",
+      "California",
+      "2010s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Golden State Killer arrest - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo"
+      },
+      {
+        "title": "DeAngelo arrest - Sacramento Bee",
+        "url": "https://www.sacbee.com/news/local/crime/golden-state-killer/"
+      },
+      {
+        "title": "Genetic genealogy - CNN",
+        "url": "https://www.cnn.com/2018/04/25/us/golden-state-killer-arrested/index.html"
+      }
+    ],
+    "narrative": [
+      "On April 24, 2018, Joseph James DeAngelo, 72, was arrested at his home in Citrus Heights, California. Investigators identified him as the Golden State Killer—a serial rapist and murderer who terrorized California from 1974 to 1986.",
+      "DeAngelo was identified through investigative genetic genealogy. Investigators uploaded DNA from crime scenes to GEDmatch, a public genealogy database, and identified distant relatives. They then used traditional detective work to narrow the suspect pool.",
+      "DeAngelo, a former police officer with the Auburn and Exeter police departments, had committed at least 13 murders, 50+ rapes, and over 100 burglaries across California.",
+      "He pleaded guilty to 13 murders and 13 kidnapping charges in 2020 and was sentenced to multiple consecutive life sentences without parole. The case pioneered the use of genetic genealogy in criminal investigations."
+    ],
+    "timeline": [
+      {
+        "date": "2018-04-24",
+        "event": "DeAngelo arrested through genetic genealogy."
+      },
+      {
+        "date": "2020-08-21",
+        "event": "Sentenced to multiple consecutive life terms."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "casey-white-murder-conviction",
+    "name": "Casey White (murder conviction)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2022,
+    "date": "October 2022",
+    "state": "Alabama",
+    "city": "Florence",
+    "age": null,
+    "gender": "Female",
+    "summary": "Casey White was convicted of the 2015 capital murder of Connie Ridgeway in Lauderdale County, Alabama. He had confessed in 2020 while in jail and later escaped with corrections officer Vicky White.",
+    "lastSeen": "2015, Lauderdale County, Alabama",
+    "tags": [
+      "homicide",
+      "Alabama",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Casey White murder case - AL.com",
+        "url": "https://www.al.com/news/casey-white-connie-ridgeway/"
+      },
+      {
+        "title": "Ridgeway case - WAFF",
+        "url": "https://www.waff.com/casey-white-ridgeway-murder/"
+      }
+    ],
+    "narrative": [
+      "Connie Ridgeway, 58, was found stabbed to death in her Lauderdale County, Alabama apartment on October 23, 2015. The case went cold for several years.",
+      "In 2020, while Casey White was serving a 75-year sentence for other crimes, he confessed to an inmate that he had killed Ridgeway as a murder-for-hire. He was charged with capital murder.",
+      "While awaiting trial for Ridgeway's murder, White engineered an escape from jail with the help of corrections officer Vicky White in April 2022. They were fugitives for 11 days before being caught in Indiana.",
+      "Casey White was convicted of capital murder for Ridgeway's death and sentenced to life without parole."
+    ],
+    "timeline": [
+      {
+        "date": "2015-10-23",
+        "event": "Connie Ridgeway murdered."
+      },
+      {
+        "date": "2020-01-01",
+        "event": "Casey White confesses to murder."
+      },
+      {
+        "date": "2023-01-01",
+        "event": "White convicted of capital murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alex-batty-france-2023",
+    "name": "Alex Batty (found)",
+    "type": "Abduction",
+    "status": "Solved",
+    "year": 2023,
+    "date": "December 13, 2023",
+    "state": "France",
+    "city": "Revel",
+    "country": "France",
+    "age": 17,
+    "gender": "Male",
+    "summary": "British teenager Alex Batty was found in the French Pyrenees after being missing for six years. His mother and grandfather had taken him to Morocco and then a hippie commune in France.",
+    "lastSeen": "October 2017 - December 2023, various locations, France",
+    "tags": [
+      "abduction",
+      "France",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Alex Batty case - BBC",
+        "url": "https://www.bbc.com/news/uk-alex-batty"
+      },
+      {
+        "title": "Batty found - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/alex-batty/"
+      },
+      {
+        "title": "Batty recovery - Sky News",
+        "url": "https://news.sky.com/story/alex-batty/"
+      }
+    ],
+    "narrative": [
+      "Alex Batty from Oldham, Greater Manchester was 11 years old when his mother Melanie and grandfather David took him on what was supposed to be a short holiday to Spain in October 2017. They never returned.",
+      "Instead, they took Alex to Morocco and then to a hippie commune in the French Pyrenees, where they lived off the grid. Alex's grandmother in the UK reported them missing.",
+      "On December 13, 2023, Alex, now 17, approached a delivery driver on a remote mountain road near Revel in southern France. He explained who he was and that he wanted to go home.",
+      "Alex was returned to the UK and placed in the care of his grandmother. He had not attended school in six years. His mother and grandfather face charges of child abduction."
+    ],
+    "timeline": [
+      {
+        "date": "2017-10-01",
+        "event": "Alex Batty taken by mother to Spain."
+      },
+      {
+        "date": "2023-12-13",
+        "event": "Alex found in French Pyrenees; returned to UK."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "baby-holly-1981",
+    "name": "Baby Holly (found alive)",
+    "type": "Missing Person",
+    "status": "Solved",
+    "year": 2022,
+    "date": "June 8, 2022",
+    "state": "Texas",
+    "city": "Houston",
+    "age": null,
+    "gender": "Female",
+    "summary": "Holly Marie Clouse was found alive at age 42 in Oklahoma after her parents were identified as murdered Jane and John Does from 1981. She had been handed to a church by two women in robes.",
+    "lastSeen": "1981-2022, various locations",
+    "tags": [
+      "missing person",
+      "Texas",
+      "2020s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Dean and Tina Clouse murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deaths_of_Tina_and_Dean_Clouse"
+      },
+      {
+        "title": "Baby Holly found - Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/news/crime/baby-holly-found/"
+      },
+      {
+        "title": "DNA identification - CNN",
+        "url": "https://www.cnn.com/2022/06/08/us/baby-holly-found-alive/index.html"
+      }
+    ],
+    "narrative": [
+      "In January 1981, the remains of a young couple were found in a wooded area of Houston, Texas. They remained unidentified for over 40 years, known only as Jane and John Doe.",
+      "In 2021, genetic genealogy identified the couple as Harold Dean Clouse Jr. and Tina Gail Clouse of Florida. They had been murdered—their baby daughter Holly had been missing since their deaths.",
+      "Investigators discovered that Holly had been dropped off at a church in Arizona in 1980 by two women in white robes who appeared to be members of a nomadic religious group. Holly was adopted and raised by a loving family.",
+      "In June 2022, Holly Marie Clouse was found alive in Oklahoma at age 42. She had no knowledge of her birth parents or the circumstances of their deaths. The murder case remains unsolved."
+    ],
+    "timeline": [
+      {
+        "date": "1981-01-01",
+        "event": "Dean and Tina Clouse's remains found in Houston."
+      },
+      {
+        "date": "2022-06-08",
+        "event": "Baby Holly found alive at age 42 in Oklahoma."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "nicola-bulley-2023",
+    "name": "Nicola Bulley",
+    "type": "Accidental Death",
+    "status": "Solved",
+    "year": 2023,
+    "date": "January 27, 2023",
+    "state": "United Kingdom",
+    "city": "St Michael's on Wyre",
+    "country": "United Kingdom",
+    "age": 45,
+    "gender": "Female",
+    "summary": "Nicola Bulley vanished while walking her dog by the River Wyre in Lancashire, England. Her body was found in the river three weeks later. The case drew massive attention and amateur sleuthing.",
+    "lastSeen": "January 27, 2023, River Wyre, St Michael's on Wyre, Lancashire, England",
+    "tags": [
+      "accidental death",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Nicola Bulley - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Nicola_Bulley"
+      },
+      {
+        "title": "Bulley case - BBC Lancashire",
+        "url": "https://www.bbc.com/news/uk-england-lancashire-nicola-bulley"
+      },
+      {
+        "title": "Inquest findings - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/nicola-bulley"
+      }
+    ],
+    "narrative": [
+      "On January 27, 2023, Nicola Bulley, 45, a mortgage adviser and mother of two, vanished while walking her dog along the River Wyre in St Michael's on Wyre, Lancashire. Her phone was found on a bench, still connected to a work call.",
+      "The case generated enormous media coverage and attracted 'armchair detectives' who traveled to the area, filmed residents, and promoted conspiracy theories about her disappearance.",
+      "Lancashire Police controversially disclosed that Bulley had struggled with alcohol and menopause, drawing criticism about victim-blaming. The disclosure was later ruled inappropriate by the police watchdog.",
+      "Nicola's body was found in the River Wyre on February 19, about a mile from where she disappeared. The coroner ruled her death was accidental—she had fallen into the river. The case prompted debate about social media speculation and police transparency."
+    ],
+    "timeline": [
+      {
+        "date": "2023-01-27",
+        "event": "Nicola Bulley vanishes by River Wyre."
+      },
+      {
+        "date": "2023-02-19",
+        "event": "Her body found in the river; ruled accidental."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ian-huntley-soham-2002",
+    "name": "Holly Wells & Jessica Chapman",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2002,
+    "date": "August 4, 2002",
+    "state": "United Kingdom",
+    "city": "Soham",
+    "country": "United Kingdom",
+    "age": 10,
+    "gender": "Female",
+    "summary": "Ten-year-olds Holly Wells and Jessica Chapman were murdered by school caretaker Ian Huntley in Soham, Cambridgeshire. The case led to major reforms in criminal record checks for people working with children.",
+    "lastSeen": "August 4, 2002, Soham, Cambridgeshire, England",
+    "tags": [
+      "homicide",
+      "children",
+      "United Kingdom",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Soham murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Soham_murders"
+      },
+      {
+        "title": "Huntley case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-cambridgeshire-soham"
+      },
+      {
+        "title": "Bichard Inquiry - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/soham-murders"
+      }
+    ],
+    "narrative": [
+      "On August 4, 2002, ten-year-old best friends Holly Wells and Jessica Chapman disappeared from a family barbecue in Soham, Cambridgeshire. They were last seen walking past the home of Ian Huntley, the caretaker at their school.",
+      "Huntley, 28, publicly appealed for information and gave media interviews while secretly knowing the girls were dead. His girlfriend Maxine Carr provided him with a false alibi.",
+      "Huntley had lured the girls into his house and murdered them. Their bodies were found two weeks later in a ditch near RAF Lakenheath in Suffolk.",
+      "Huntley was convicted of two counts of murder and sentenced to a minimum of 40 years. The Bichard Inquiry that followed revealed that Huntley had previous allegations of sexual offenses that were never properly recorded, leading to the creation of the Disclosure and Barring Service (DBS) check system."
+    ],
+    "timeline": [
+      {
+        "date": "2002-08-04",
+        "event": "Holly Wells and Jessica Chapman go missing."
+      },
+      {
+        "date": "2002-08-17",
+        "event": "Their bodies found."
+      },
+      {
+        "date": "2003-12-17",
+        "event": "Huntley convicted; sentenced to minimum 40 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "moors-murders-1966",
+    "name": "Moors Murders Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 1966,
+    "date": "May 6, 1966",
+    "state": "United Kingdom",
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Ian Brady and Myra Hindley murdered five children in Manchester, England, burying some on Saddleworth Moor. Keith Bennett's body has never been found. The case remains one of Britain's most notorious.",
+    "lastSeen": "1963-1965, Greater Manchester area, England",
+    "tags": [
+      "serial murder",
+      "children",
+      "United Kingdom",
+      "1960s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Moors murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moors_murders"
+      },
+      {
+        "title": "Brady and Hindley - BBC",
+        "url": "https://www.bbc.com/news/uk-england-manchester-moors-murders"
+      },
+      {
+        "title": "Keith Bennett search - Manchester Evening News",
+        "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/moors-murders/"
+      }
+    ],
+    "narrative": [
+      "Between July 1963 and October 1965, Ian Brady and Myra Hindley kidnapped and murdered five children aged 10 to 17 in the Manchester area. They buried at least three victims on Saddleworth Moor.",
+      "The victims were Pauline Reade (16), John Kilbride (12), Keith Bennett (12), Lesley Ann Downey (10), and Edward Evans (17). Brady and Hindley sexually assaulted their victims and audio-recorded Lesley Ann pleading for her life.",
+      "They were caught after Evans's murder when Hindley's brother-in-law witnessed the killing and alerted police. Brady and Hindley were convicted in May 1966.",
+      "Brady died in prison in 2017; Hindley died in 2002. Despite extensive searches over decades, the body of Keith Bennett has never been found, causing ongoing anguish for his family."
+    ],
+    "timeline": [
+      {
+        "date": "1965-10-06",
+        "event": "Edward Evans murdered; police alerted."
+      },
+      {
+        "date": "1966-05-06",
+        "event": "Brady and Hindley convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "fred-rose-west-1994",
+    "name": "Fred & Rose West Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 1994,
+    "date": "1994",
+    "state": "United Kingdom",
+    "city": "Gloucester",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Female",
+    "summary": "Fred and Rose West murdered at least 12 young women at their home at 25 Cromwell Street, Gloucester. Victims were buried in the garden and cellar. Fred hanged himself before trial; Rose was convicted.",
+    "lastSeen": "1967-1987, 25 Cromwell Street, Gloucester, England",
+    "tags": [
+      "serial murder",
+      "United Kingdom",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Fred West - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fred_West"
+      },
+      {
+        "title": "Cromwell Street - BBC",
+        "url": "https://www.bbc.com/news/uk-england-gloucestershire-fred-rose-west"
+      },
+      {
+        "title": "West case - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/fred-west"
+      }
+    ],
+    "narrative": [
+      "Fred and Rose West murdered at least 12 young women and girls between 1967 and 1987, burying most under the patio, cellar, and garden of their home at 25 Cromwell Street in Gloucester—a house that became known as the 'House of Horrors.'",
+      "Victims included their own daughter Heather, lodgers, and young women they picked up. The Wests sexually assaulted and tortured their victims before killing them.",
+      "Police excavated the property in February 1994 after a concerned social worker's report about a missing Heather. They eventually found the remains of nine women.",
+      "Fred West hanged himself in prison on January 1, 1995, before his trial. Rose West was convicted of 10 murders in November 1995 and sentenced to life imprisonment. 25 Cromwell Street was demolished in 1996."
+    ],
+    "timeline": [
+      {
+        "date": "1994-02-24",
+        "event": "Police begin excavating 25 Cromwell Street."
+      },
+      {
+        "date": "1995-01-01",
+        "event": "Fred West kills himself in prison."
+      },
+      {
+        "date": "1995-11-22",
+        "event": "Rose West convicted of 10 murders."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "peter-tobin-uk-2006",
+    "name": "Peter Tobin Victims",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2006,
+    "date": "September 29, 2006",
+    "state": "United Kingdom",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Female",
+    "summary": "Serial killer Peter Tobin murdered at least three young women. Bodies of two early victims were found under his former home 17 years after they disappeared. Tobin died in prison in 2022.",
+    "lastSeen": "Various dates, Scotland and England",
+    "tags": [
+      "serial killer",
+      "United Kingdom",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Peter Tobin - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Tobin"
+      },
+      {
+        "title": "Tobin case - BBC Scotland",
+        "url": "https://www.bbc.com/news/uk-scotland-peter-tobin"
+      },
+      {
+        "title": "Tobin death - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/peter-tobin-dies"
+      }
+    ],
+    "narrative": [
+      "Peter Tobin was convicted of three murders, but police believe he may have killed many more. His known victims are Angelika Kluk (23, killed 2006), Vicky Hamilton (15, killed 1991), and Dinah McNicol (18, killed 1991).",
+      "Tobin murdered Polish student Angelika Kluk in September 2006 at a Glasgow church where he was working as a handyman. Her body was found under the floor.",
+      "After his conviction for Kluk's murder, police investigated Tobin's previous homes. Under the garden of his former house in Margate, Kent, they found the remains of Vicky Hamilton and Dinah McNicol—both missing since 1991.",
+      "Tobin was convicted of all three murders and sentenced to life with a minimum of 21 years. He died in prison on October 8, 2022. Operation Anagram investigated whether he was responsible for additional unsolved murders."
+    ],
+    "timeline": [
+      {
+        "date": "2006-09-29",
+        "event": "Angelika Kluk murdered at Glasgow church."
+      },
+      {
+        "date": "2007-11-01",
+        "event": "Hamilton and McNicol remains found."
+      },
+      {
+        "date": "2022-10-08",
+        "event": "Tobin dies in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "josef-mengele-auschwitz",
+    "name": "Josef Mengele (fugitive)",
+    "type": "War Criminal/Fugitive",
+    "status": "Solved",
+    "year": 1979,
+    "date": "February 7, 1979",
+    "state": "Brazil",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "age": 67,
+    "gender": "Male",
+    "summary": "Nazi doctor Josef Mengele, the 'Angel of Death' of Auschwitz, evaded capture for 34 years. He drowned while swimming in Brazil in 1979. His remains were identified by forensic examination in 1985.",
+    "lastSeen": "February 7, 1979, Bertioga beach, São Paulo, Brazil",
+    "tags": [
+      "war criminal",
+      "fugitive",
+      "Brazil",
+      "1970s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Josef Mengele - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Josef_Mengele"
+      },
+      {
+        "title": "Mengele identification - BBC",
+        "url": "https://www.bbc.com/news/world-europe-josef-mengele"
+      },
+      {
+        "title": "Mengele hunt - New York Times",
+        "url": "https://www.nytimes.com/1985/06/22/world/mengele-bones.html"
+      }
+    ],
+    "narrative": [
+      "Josef Mengele, the SS physician who performed horrific medical experiments on prisoners at Auschwitz, fled Europe after World War II. He lived in Argentina, Paraguay, and finally Brazil under assumed names.",
+      "Despite being one of the most wanted Nazi war criminals, Mengele evaded Israeli, German, and American efforts to capture him for over three decades. His family in Germany secretly supported him financially.",
+      "On February 7, 1979, Mengele drowned while swimming at Bertioga beach near São Paulo, Brazil. He was buried under a false name.",
+      "In 1985, acting on intelligence, investigators exhumed remains from a grave in Embu, Brazil. Forensic experts—and later DNA testing in 1992—confirmed the remains were Mengele's, ending one of history's longest manhunts."
+    ],
+    "timeline": [
+      {
+        "date": "1945-01-01",
+        "event": "Mengele flees Auschwitz."
+      },
+      {
+        "date": "1979-02-07",
+        "event": "Mengele drowns in Brazil."
+      },
+      {
+        "date": "1985-06-21",
+        "event": "Remains exhumed and identified."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "andre-chikatilo-1992",
+    "name": "Andrei Chikatilo Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 1992,
+    "date": "October 15, 1992",
+    "state": "Russia",
+    "city": "Rostov-on-Don",
+    "country": "Russia",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Soviet serial killer Andrei Chikatilo, the 'Butcher of Rostov,' murdered 52 women and children over 12 years. He was caught, convicted of 52 murders, and executed in 1994.",
+    "lastSeen": "Various dates, Rostov Oblast, Russia",
+    "tags": [
+      "serial killer",
+      "Russia",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Andrei Chikatilo - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrei_Chikatilo"
+      },
+      {
+        "title": "Chikatilo case - BBC",
+        "url": "https://www.bbc.com/news/world-europe-chikatilo"
+      },
+      {
+        "title": "Chikatilo trial - The Guardian",
+        "url": "https://www.theguardian.com/world/chikatilo"
+      }
+    ],
+    "narrative": [
+      "Andrei Chikatilo murdered at least 52 women and children in the Rostov Oblast region of the Soviet Union between 1978 and 1990. Known as the 'Butcher of Rostov' and the 'Red Ripper,' he lured victims from bus and train stations.",
+      "Soviet investigators made critical errors early on—an innocent man was executed for Chikatilo's first murder. Chikatilo was once arrested but released because his blood type didn't match the evidence (a rare condition caused the discrepancy).",
+      "Chikatilo was finally caught on November 20, 1990, after an undercover operation at bus and train stations. He confessed to 56 murders, though police could confirm 52.",
+      "He was convicted of 52 murders in 1992 in a trial where he was kept in a cage in the courtroom to protect him from victims' families. He was executed by gunshot on February 14, 1994."
+    ],
+    "timeline": [
+      {
+        "date": "1990-11-20",
+        "event": "Chikatilo arrested."
+      },
+      {
+        "date": "1992-10-15",
+        "event": "Convicted of 52 murders."
+      },
+      {
+        "date": "1994-02-14",
+        "event": "Executed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "aileen-wuornos-execution-2002",
+    "name": "Aileen Wuornos (execution)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2002,
+    "date": "October 9, 2002",
+    "state": "Florida",
+    "city": "Starke",
+    "age": 46,
+    "gender": "Female",
+    "summary": "Aileen Wuornos, who killed seven men along Florida highways, was executed in 2002. She had abandoned her appeals, saying she wanted to die. The case explored how childhood trauma can create killers.",
+    "lastSeen": "October 9, 2002, Florida State Prison, Starke, Florida",
+    "tags": [
+      "serial killer",
+      "Florida",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Aileen Wuornos execution - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aileen_Wuornos"
+      },
+      {
+        "title": "Wuornos execution - CNN",
+        "url": "https://www.cnn.com/2002/LAW/10/09/wuornos.execution/index.html"
+      },
+      {
+        "title": "Monster film - Roger Ebert",
+        "url": "https://www.rogerebert.com/reviews/monster-2004"
+      }
+    ],
+    "narrative": [
+      "Aileen Wuornos was executed by lethal injection on October 9, 2002 at Florida State Prison. She had killed seven men along Florida highways between 1989 and 1990, shooting them while working as a sex worker.",
+      "Wuornos initially claimed self-defense, saying the men had raped or attempted to rape her. She later recanted and said some of the killings were not in self-defense.",
+      "Her final words before execution were bizarre, referencing Jesus and claiming she would 'be back like Independence Day.' She had voluntarily abandoned her appeals.",
+      "Wuornos's life story—severe childhood abuse, abandonment, prostitution, and violence—was depicted in the 2003 film 'Monster,' for which Charlize Theron won the Academy Award for Best Actress."
+    ],
+    "timeline": [
+      {
+        "date": "1991-01-09",
+        "event": "Wuornos arrested."
+      },
+      {
+        "date": "1992-01-27",
+        "event": "Convicted of first murder; eventually convicted of six."
+      },
+      {
+        "date": "2002-10-09",
+        "event": "Executed by lethal injection."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gilberto-valle-cannibal-cop",
+    "name": "Gilberto Valle (Cannibal Cop)",
+    "type": "Criminal Conspiracy",
+    "status": "Solved",
+    "year": 2013,
+    "date": "March 12, 2013",
+    "state": "New York",
+    "city": "New York City",
+    "age": 28,
+    "gender": "Male",
+    "summary": "NYPD officer Gilberto Valle was convicted of conspiracy to kidnap women he planned to torture, cook, and eat. His conviction was overturned on appeal—the court ruled his plans were fantasy, not intent.",
+    "lastSeen": "October 2012, New York City",
+    "tags": [
+      "conspiracy",
+      "New York",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Gilberto Valle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gilberto_Valle"
+      },
+      {
+        "title": "Cannibal Cop case - New York Times",
+        "url": "https://www.nytimes.com/2014/06/30/nyregion/gilberto-valle-cannibal-cop.html"
+      },
+      {
+        "title": "Valle acquittal - CNN",
+        "url": "https://www.cnn.com/2014/06/30/justice/cannibal-cop-conviction-overturned/index.html"
+      }
+    ],
+    "narrative": [
+      "Gilberto Valle, 28, an NYPD officer, was arrested in October 2012 after his wife discovered disturbing internet chats on his computer. Valle had been discussing kidnapping, cooking, and eating women with co-conspirators online.",
+      "Valle had used NYPD databases to research potential victims—real women he knew personally. His online conversations included detailed plans about how to abduct and prepare them.",
+      "A jury convicted Valle of conspiracy to kidnap in March 2013. However, in June 2014, a federal judge overturned the conviction, ruling that Valle's communications were 'fantasy role play' and that there was no evidence of an actual plan.",
+      "The case raised profound questions about the line between dark fantasy and criminal intent in the age of the internet. Valle later wrote a cookbook and appeared on reality television."
+    ],
+    "timeline": [
+      {
+        "date": "2012-10-25",
+        "event": "Valle arrested."
+      },
+      {
+        "date": "2013-03-12",
+        "event": "Convicted of conspiracy."
+      },
+      {
+        "date": "2014-06-30",
+        "event": "Conviction overturned by judge."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "diane-downs-1983",
+    "name": "Diane Downs Children",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1983,
+    "date": "May 19, 1983",
+    "state": "Oregon",
+    "city": "Springfield",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Diane Downs shot her three children in her car near Springfield, Oregon, killing one. She claimed a bushy-haired stranger carjacked them. She was convicted of murder and attempted murder.",
+    "lastSeen": "May 19, 1983, Old Mohawk Road, near Springfield, Oregon",
+    "tags": [
+      "homicide",
+      "children",
+      "Oregon",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Diane Downs - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Diane_Downs"
+      },
+      {
+        "title": "Downs case - Eugene Register-Guard",
+        "url": "https://www.registerguard.com/diane-downs/"
+      },
+      {
+        "title": "Small Sacrifices - Ann Rule",
+        "url": "https://annrule.com/small-sacrifices/"
+      }
+    ],
+    "narrative": [
+      "On May 19, 1983, Diane Downs drove to a hospital near Springfield, Oregon with her three children—Christie (8), Cheryl (7), and Danny (3)—all suffering from gunshot wounds. She had a minor wound to her arm.",
+      "Downs told police a 'bushy-haired stranger' had flagged down her car and shot the children during a carjacking attempt. Cheryl died; Danny was left paralyzed; Christie survived.",
+      "Investigators noted Downs showed little emotion about her children's injuries and seemed more concerned about her appearance. Her motive was linked to a romantic relationship with a man who didn't want children.",
+      "Christie, despite a stroke that affected her speech, testified against her mother. Downs was convicted of murder, attempted murder, and assault in 1984 and sentenced to life plus 50 years. The case was the subject of Ann Rule's book 'Small Sacrifices.'"
+    ],
+    "timeline": [
+      {
+        "date": "1983-05-19",
+        "event": "Downs shoots her three children; Cheryl dies."
+      },
+      {
+        "date": "1984-06-17",
+        "event": "Downs convicted; sentenced to life plus 50 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jean-benet-ramsey-dna-2024",
+    "name": "JonBenét Ramsey (DNA testing)",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2024,
+    "date": "2024",
+    "state": "Colorado",
+    "city": "Boulder",
+    "age": 6,
+    "gender": "Female",
+    "summary": "In 2024, Colorado authorities approved advanced DNA testing in the JonBenét Ramsey case using new forensic technology. The testing of touch DNA evidence could potentially identify the unknown male profile.",
+    "lastSeen": "December 25-26, 1996, Ramsey home, Boulder, Colorado",
+    "tags": [
+      "homicide",
+      "child",
+      "Colorado",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "JonBenét Ramsey DNA testing - Denver Post",
+        "url": "https://www.denverpost.com/tag/jonbenet-ramsey/"
+      },
+      {
+        "title": "New DNA testing - CBS News",
+        "url": "https://www.cbsnews.com/news/jonbenet-ramsey-dna-testing/"
+      },
+      {
+        "title": "Boulder DA statement - Daily Camera",
+        "url": "https://www.dailycamera.com/news/jonbenet-ramsey/"
+      }
+    ],
+    "narrative": [
+      "The murder of six-year-old JonBenét Ramsey on December 25-26, 1996, remains one of America's most famous unsolved cases. In 2024, Colorado authorities approved the use of advanced DNA testing technologies.",
+      "An unknown male DNA profile was found on JonBenét's clothing. Previous technology was insufficient to generate a full profile for comparison. New techniques, including genealogical DNA analysis, offer hope.",
+      "The testing is being conducted by a specialized lab using methods that have solved numerous cold cases in recent years, including the Golden State Killer case.",
+      "JonBenét's father John Ramsey has been a persistent advocate for DNA testing, believing it will definitively identify the killer and clear his family of suspicion."
+    ],
+    "timeline": [
+      {
+        "date": "1996-12-26",
+        "event": "JonBenét found murdered."
+      },
+      {
+        "date": "2024-01-01",
+        "event": "Advanced DNA testing approved."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "marc-fogel-russia-2022",
+    "name": "Marc Fogel",
+    "type": "Wrongful Detention",
+    "status": "Unsolved",
+    "year": 2022,
+    "date": "August 14, 2021",
+    "state": "Russia",
+    "city": "Moscow",
+    "country": "Russia",
+    "age": 61,
+    "gender": "Male",
+    "summary": "American teacher Marc Fogel was sentenced to 14 years in a Russian penal colony for carrying medical marijuana. Unlike Brittney Griner, he was not classified as 'wrongfully detained,' sparking controversy.",
+    "lastSeen": "August 14, 2021 - present, Russian penal colony",
+    "tags": [
+      "wrongful detention",
+      "Russia",
+      "2020s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Marc Fogel case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Marc_Fogel"
+      },
+      {
+        "title": "Fogel detention - Washington Post",
+        "url": "https://www.washingtonpost.com/world/marc-fogel-russia/"
+      },
+      {
+        "title": "Fogel family plea - CNN",
+        "url": "https://www.cnn.com/2023/marc-fogel-russia-teacher/index.html"
+      }
+    ],
+    "narrative": [
+      "Marc Fogel, 61, an American teacher at the Anglo-American School of Moscow, was arrested at a Russian airport on August 14, 2021 for carrying 17 grams of medical marijuana prescribed for chronic pain.",
+      "Fogel was convicted and sentenced to 14 years in a Russian penal colony—far exceeding the typical sentence for the amount involved. The harsh sentence was widely seen as politically motivated.",
+      "Unlike Brittney Griner, who was detained under similar circumstances, Fogel was not classified as 'wrongfully detained' by the State Department, which would have elevated his case. His family and supporters have lobbied extensively for reclassification.",
+      "Fogel was not included in the Griner prisoner exchange or subsequent exchanges. His case highlights the arbitrary nature of which detained Americans receive government advocacy."
+    ],
+    "timeline": [
+      {
+        "date": "2021-08-14",
+        "event": "Fogel arrested at Moscow airport."
+      },
+      {
+        "date": "2022-06-17",
+        "event": "Sentenced to 14 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "evan-gershkovich-2023",
+    "name": "Evan Gershkovich",
+    "type": "Wrongful Detention",
+    "status": "Solved",
+    "year": 2024,
+    "date": "March 29, 2023",
+    "state": "Russia",
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "age": 31,
+    "gender": "Male",
+    "summary": "Wall Street Journal reporter Evan Gershkovich was arrested in Russia on espionage charges. He was freed in a historic prisoner exchange in July 2024 after 16 months in detention.",
+    "lastSeen": "March 29, 2023 - July 25, 2024, Russian detention",
+    "tags": [
+      "wrongful detention",
+      "Russia",
+      "2020s",
+      "journalism",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Evan Gershkovich - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Evan_Gershkovich"
+      },
+      {
+        "title": "Gershkovich release - Wall Street Journal",
+        "url": "https://www.wsj.com/world/russia/evan-gershkovich/"
+      },
+      {
+        "title": "Prisoner exchange - CNN",
+        "url": "https://www.cnn.com/2024/07/25/politics/evan-gershkovich-prisoner-exchange/index.html"
+      }
+    ],
+    "narrative": [
+      "On March 29, 2023, Wall Street Journal reporter Evan Gershkovich, 31, was arrested by Russia's FSB in Yekaterinburg while on a reporting trip. He was charged with espionage—the first American journalist detained on spy charges in Russia since the Cold War.",
+      "Gershkovich, a U.S. citizen born to Soviet-era Jewish immigrants, denied the charges. The Wall Street Journal and the U.S. government declared the charges baseless.",
+      "He was held in Moscow's Lefortovo Prison for 16 months. In July 2024, he was convicted in a closed trial and sentenced to 16 years.",
+      "On July 25, 2024, Gershkovich was freed as part of a historic multi-country prisoner exchange involving 24 prisoners across seven countries—the largest East-West exchange since the Cold War."
+    ],
+    "timeline": [
+      {
+        "date": "2023-03-29",
+        "event": "Gershkovich arrested in Yekaterinburg."
+      },
+      {
+        "date": "2024-07-25",
+        "event": "Freed in historic prisoner exchange."
+      }
+    ],
+    "enriched": true
   }
 ]
