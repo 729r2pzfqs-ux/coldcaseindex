@@ -48940,5 +48940,763 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "jason-derek-brown-fbi",
+    "name": "Jason Derek Brown",
+    "type": "Fugitive",
+    "status": "Wanted",
+    "year": 2004,
+    "date": "November 29, 2004",
+    "state": "Arizona",
+    "city": "Phoenix",
+    "age": null,
+    "gender": "Male",
+    "summary": "Jason Derek Brown is wanted by the FBI for the murder and robbery of an armored car guard outside a movie theater in Phoenix, Arizona. He is believed to have fled to international destinations.",
+    "lastSeen": "November 29, 2004, Ahwatukee, Phoenix, Arizona",
+    "tags": [
+      "fugitive",
+      "FBI Most Wanted",
+      "Arizona",
+      "2000s",
+      "wanted"
+    ],
+    "sources": [
+      {
+        "title": "Jason Derek Brown - FBI Most Wanted",
+        "url": "https://www.fbi.gov/wanted/topten/jason-derek-brown"
+      },
+      {
+        "title": "Jason Brown case - AZ Central",
+        "url": "https://www.azcentral.com/story/news/local/phoenix/jason-derek-brown-fbi/"
+      },
+      {
+        "title": "America's Most Wanted - Jason Brown",
+        "url": "https://amw.com/case-detail/jason-derek-brown"
+      }
+    ],
+    "narrative": [
+      "On November 29, 2004, an armored car guard named Robert Keith Palomares was shot and killed outside an AMC movie theater in the Ahwatukee neighborhood of Phoenix, Arizona. The gunman grabbed a bag of cash and fled the scene on a bicycle.",
+      "The investigation identified Jason Derek Brown, a 34-year-old businessman and avid golfer, as the prime suspect. Brown was known for his flashy lifestyle, driving luxury cars and frequenting expensive restaurants, despite being deeply in debt.",
+      "Brown vanished before he could be arrested. He was placed on the FBI's Ten Most Wanted Fugitives list in 2007. Investigators believe he may have fled to countries in Central America or to France, where he had traveled frequently.",
+      "As of 2024, Brown remains one of the longest-tenured names on the FBI's Most Wanted list. The FBI has offered a reward of up to $200,000 for information leading to his capture."
+    ],
+    "timeline": [
+      {
+        "date": "2004-11-29",
+        "event": "Robert Palomares murdered during armored car robbery in Phoenix."
+      },
+      {
+        "date": "2007-12-08",
+        "event": "Jason Derek Brown placed on FBI's Ten Most Wanted list."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "robert-fisher-fbi",
+    "name": "Robert William Fisher",
+    "type": "Fugitive",
+    "status": "Wanted",
+    "year": 2001,
+    "date": "April 10, 2001",
+    "state": "Arizona",
+    "city": "Scottsdale",
+    "age": null,
+    "gender": "Male",
+    "summary": "Robert Fisher is wanted for killing his wife and two children and blowing up their Scottsdale home to cover the crime. He has been a fugitive since 2001.",
+    "lastSeen": "April 10, 2001, near Payson, Arizona",
+    "tags": [
+      "fugitive",
+      "FBI Most Wanted",
+      "Arizona",
+      "2000s",
+      "family homicide",
+      "wanted"
+    ],
+    "sources": [
+      {
+        "title": "Robert Fisher - FBI Most Wanted",
+        "url": "https://www.fbi.gov/wanted/topten/robert-william-fisher"
+      },
+      {
+        "title": "Robert Fisher case - Arizona Republic",
+        "url": "https://www.azcentral.com/story/news/local/scottsdale/robert-fisher-fbi-fugitive/"
+      },
+      {
+        "title": "Fisher family murders - CBS News",
+        "url": "https://www.cbsnews.com/news/robert-fisher-fbi-most-wanted/"
+      }
+    ],
+    "narrative": [
+      "On April 10, 2001, an explosion and fire destroyed a home in Scottsdale, Arizona. Inside the wreckage, firefighters found the bodies of Mary Fisher, 38, and the couple's two children, Brittney, 12, and Bobby Jr., 10. All three had their throats slashed before the house was set ablaze.",
+      "The investigation quickly focused on Robert William Fisher, the husband and father, who was nowhere to be found. His SUV was discovered abandoned several days later near Payson, Arizona, at a trailhead leading into the rugged Tonto National Forest.",
+      "Fisher, a former firefighter and avid outdoorsman, was placed on the FBI's Ten Most Wanted Fugitives list in 2002. Investigators believe his knowledge of wilderness survival could enable him to live off the grid for extended periods.",
+      "Despite numerous reported sightings across the United States and internationally over more than two decades, Fisher has never been apprehended. The case remains one of the FBI's most prominent open investigations."
+    ],
+    "timeline": [
+      {
+        "date": "2001-04-10",
+        "event": "Fisher family home explodes; wife and children found murdered."
+      },
+      {
+        "date": "2001-04-13",
+        "event": "Fisher's SUV found abandoned near Payson."
+      },
+      {
+        "date": "2002-06-29",
+        "event": "Robert Fisher placed on FBI's Ten Most Wanted list."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "rui-pedro-1998",
+    "name": "Rui Pedro",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1998,
+    "date": "March 4, 1998",
+    "state": "Portugal",
+    "city": "Lousada",
+    "country": "Portugal",
+    "age": 11,
+    "gender": "Male",
+    "summary": "Eleven-year-old Rui Pedro Teixeira Mendonça disappeared from Lousada, Portugal. The case became one of Portugal's most high-profile child disappearances and sparked reforms in child protection.",
+    "lastSeen": "March 4, 1998, Lousada, Porto District, Portugal",
+    "tags": [
+      "missing person",
+      "child",
+      "Portugal",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Rui Pedro - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Rui_Pedro"
+      },
+      {
+        "title": "Rui Pedro case - Público",
+        "url": "https://www.publico.pt/rui-pedro/"
+      },
+      {
+        "title": "Rui Pedro - Polícia Judiciária",
+        "url": "https://www.policiajudiciaria.pt/rui-pedro/"
+      }
+    ],
+    "narrative": [
+      "On March 4, 1998, eleven-year-old Rui Pedro Teixeira Mendonça disappeared from the town of Lousada in northern Portugal. The boy had been last seen in the company of a known local man, Afonso Dias, who was later convicted of kidnapping.",
+      "The investigation revealed deeply disturbing connections to a pedophilia network. A photograph allegedly showing Rui Pedro was found during an Interpol operation targeting child exploitation websites, but the identification was never conclusively confirmed.",
+      "Afonso Dias was convicted of kidnapping Rui Pedro and sentenced to 16 years in prison, but he never revealed the boy's whereabouts. The case became a national sensation in Portugal and exposed failures in the child protection system.",
+      "The case of Rui Pedro remains one of Portugal's most painful unsolved mysteries. It contributed to significant reforms in how Portugal handles missing children cases and child protection legislation."
+    ],
+    "timeline": [
+      {
+        "date": "1998-03-04",
+        "event": "Rui Pedro disappears from Lousada, Portugal."
+      },
+      {
+        "date": "2003-01-01",
+        "event": "Afonso Dias convicted of kidnapping."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "weldon-jae-li-1974",
+    "name": "Arlis Perry",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1974,
+    "date": "October 12, 1974",
+    "state": "California",
+    "city": "Stanford",
+    "age": 19,
+    "gender": "Female",
+    "summary": "Newlywed Arlis Perry was murdered in Stanford Memorial Church in a ritualistic manner. The case went unsolved for 44 years until DNA linked security guard Stephen Crawford to the crime.",
+    "lastSeen": "October 12, 1974, Stanford Memorial Church, Stanford, California",
+    "tags": [
+      "homicide",
+      "California",
+      "1970s",
+      "cold case",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Arlis Perry - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Arlis_Perry"
+      },
+      {
+        "title": "Arlis Perry case solved - Mercury News",
+        "url": "https://www.mercurynews.com/2018/06/28/arlis-perry-murder-solved/"
+      },
+      {
+        "title": "Stanford church murder - San Francisco Chronicle",
+        "url": "https://www.sfchronicle.com/crime/article/arlis-perry-stanford-murder-cold-case-13030947.php"
+      }
+    ],
+    "narrative": [
+      "On October 12, 1974, nineteen-year-old Arlis Perry, a newlywed from Bismarck, North Dakota, was found murdered inside Stanford Memorial Church on the Stanford University campus in California. She had gone to the church to pray after an argument with her husband Bruce.",
+      "The crime scene was staged in a ritualistic manner that shocked investigators. Arlis had been strangled and stabbed, and religious objects were arranged around her body. The grotesque staging led to speculation about satanic involvement.",
+      "The case went cold for decades. Investigators periodically revisited the evidence but were unable to identify a suspect. The ritualistic nature of the crime generated extensive media coverage and true crime interest.",
+      "In 2018, genetic genealogy matched DNA from the crime scene to Stephen Blake Crawford, a former Stanford security guard who had been on duty the night of the murder. When investigators arrived at Crawford's home to arrest him, he died by suicide. The case was officially closed."
+    ],
+    "timeline": [
+      {
+        "date": "1974-10-12",
+        "event": "Arlis Perry murdered inside Stanford Memorial Church."
+      },
+      {
+        "date": "2018-06-28",
+        "event": "DNA identifies Stephen Crawford; he dies by suicide during arrest attempt."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "doe-network-princess-doe",
+    "name": "Princess Doe",
+    "type": "Unidentified Person",
+    "status": "Unsolved",
+    "year": 1982,
+    "date": "July 15, 1982",
+    "state": "New Jersey",
+    "city": "Blairstown",
+    "age": null,
+    "gender": "Female",
+    "summary": "An unidentified teenage girl was found bludgeoned to death in a Blairstown, New Jersey cemetery. Known as 'Princess Doe,' she has never been identified despite decades of investigation.",
+    "lastSeen": "Found July 15, 1982, Cedar Ridge Cemetery, Blairstown, New Jersey",
+    "tags": [
+      "unidentified person",
+      "Doe case",
+      "New Jersey",
+      "1980s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Princess Doe - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Princess_Doe"
+      },
+      {
+        "title": "Princess Doe case - NamUs",
+        "url": "https://www.namus.gov/UnidentifiedPersons/Case#/12279"
+      },
+      {
+        "title": "Princess Doe - Doe Network",
+        "url": "https://www.doenetwork.org/cases/23ufnj.html"
+      }
+    ],
+    "narrative": [
+      "On July 15, 1982, the body of an unidentified teenage girl was found in Cedar Ridge Cemetery in Blairstown, New Jersey. She had been bludgeoned to death with a rock and her face was severely disfigured, making visual identification impossible.",
+      "The girl, estimated to be between 14 and 18 years old, was given the name 'Princess Doe' by investigators. Despite widespread publicity and comparison to missing persons databases, she has never been identified.",
+      "In 1983, a man named Arthur Kinlaw was indicted for her murder based on witness testimony, but the charges were later dropped due to insufficient evidence. The identity of Princess Doe and her killer remain unknown.",
+      "The case was one of the earliest to be entered into the National Missing and Unidentified Persons System (NamUs). DNA profiles and isotope analysis have been conducted, but no match has been found. Princess Doe has become a symbol for all unidentified crime victims."
+    ],
+    "timeline": [
+      {
+        "date": "1982-07-15",
+        "event": "Unidentified girl found murdered in Blairstown, New Jersey cemetery."
+      },
+      {
+        "date": "1983-01-01",
+        "event": "Arthur Kinlaw indicted but charges later dropped."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "doe-network-boy-in-box",
+    "name": "Boy in the Box (Joseph Augustus Zarelli)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1957,
+    "date": "February 25, 1957",
+    "state": "Pennsylvania",
+    "city": "Philadelphia",
+    "age": 4,
+    "gender": "Male",
+    "summary": "A young boy's body found in a box in Philadelphia in 1957 went unidentified for 65 years. In 2022, DNA genealogy identified him as Joseph Augustus Zarelli.",
+    "lastSeen": "Found February 25, 1957, Fox Chase area, Philadelphia, Pennsylvania",
+    "tags": [
+      "unidentified person",
+      "Doe case",
+      "homicide",
+      "child",
+      "Pennsylvania",
+      "1950s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Boy in the Box - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
+      },
+      {
+        "title": "Boy in the Box identified - Philadelphia Inquirer",
+        "url": "https://www.inquirer.com/news/boy-in-the-box-identified-philadelphia-cold-case-20221208.html"
+      },
+      {
+        "title": "Joseph Zarelli identification - AP News",
+        "url": "https://apnews.com/article/boy-in-the-box-philadelphia-identified-zarelli"
+      }
+    ],
+    "narrative": [
+      "On February 25, 1957, a boy's battered body was found wrapped in a plaid blanket inside a cardboard box in the Fox Chase area of Philadelphia. He appeared to be about 4 to 6 years old, malnourished, with recent haircut marks. He had been beaten to death.",
+      "Despite one of Philadelphia's most extensive investigations, the boy could not be identified. His fingerprints were taken and his photo was distributed on thousands of flyers placed in gas company bills across the region. He became known as 'America's Unknown Child.'",
+      "The case became one of the most famous unidentified person cases in American history. Multiple theories emerged over the decades. The boy was buried in a potter's field and later reinterred at Ivy Hill Cemetery under the name 'America's Unknown Child.'",
+      "In December 2022, genetic genealogy finally identified the boy as Joseph Augustus Zarelli. The identification came 65 years after his death. While his identity was established, no one has been charged with his murder, as the likely suspects have all died."
+    ],
+    "timeline": [
+      {
+        "date": "1957-02-25",
+        "event": "Body of unidentified boy found in a box in Philadelphia."
+      },
+      {
+        "date": "2019-11-01",
+        "event": "Body exhumed for DNA testing."
+      },
+      {
+        "date": "2022-12-08",
+        "event": "Identified as Joseph Augustus Zarelli through genetic genealogy."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "doe-network-el-dorado-jane",
+    "name": "El Dorado Jane Doe (Mercedes Cuevas)",
+    "type": "Suspicious Death",
+    "status": "Solved",
+    "year": 1991,
+    "date": "April 14, 1991",
+    "state": "Arkansas",
+    "city": "El Dorado",
+    "age": 19,
+    "gender": "Female",
+    "summary": "A woman found dead in an El Dorado, Arkansas motel in 1991 went unidentified for nearly 30 years. DNA genealogy identified her as Mercedes Cuevas from Guatemala in 2022.",
+    "lastSeen": "Found April 14, 1991, Whitehall Motel, El Dorado, Arkansas",
+    "tags": [
+      "unidentified person",
+      "Doe case",
+      "Arkansas",
+      "1990s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "El Dorado Jane Doe identified - DNA Doe Project",
+        "url": "https://dnadoeproject.org/case/el-dorado-jane-doe/"
+      },
+      {
+        "title": "Mercedes Cuevas identification - Arkansas Democrat-Gazette",
+        "url": "https://www.arkansasonline.com/news/el-dorado-jane-doe-identified/"
+      },
+      {
+        "title": "NamUs case",
+        "url": "https://www.namus.gov/UnidentifiedPersons/Case#/2893"
+      }
+    ],
+    "narrative": [
+      "On April 14, 1991, a young woman was found dead in a room at the Whitehall Motel in El Dorado, Arkansas. She had no identification, and the cause of death was unclear. She was estimated to be in her late teens to early twenties.",
+      "For nearly three decades, investigators tried to identify the woman. Her case was entered into NamUs and featured on various missing persons databases. Multiple reconstructions were created, but no match was found in U.S. missing persons records.",
+      "The DNA Doe Project, a nonprofit using genetic genealogy to identify unidentified remains, took on the case. Through extensive genealogical research, they traced her family tree to Guatemala.",
+      "In 2022, the woman was identified as Mercedes Cuevas, who had emigrated from Guatemala to the United States. The identification brought answers to a case that had been open for over 30 years."
+    ],
+    "timeline": [
+      {
+        "date": "1991-04-14",
+        "event": "Unidentified woman found dead in El Dorado, Arkansas motel."
+      },
+      {
+        "date": "2022-01-01",
+        "event": "DNA genealogy identifies her as Mercedes Cuevas from Guatemala."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "doe-network-belle-in-boot",
+    "name": "Belle in the Boot",
+    "type": "Unidentified Person",
+    "status": "Unsolved",
+    "year": 1996,
+    "date": "November 1, 1996",
+    "state": "California",
+    "city": "Pacific Palisades",
+    "age": null,
+    "gender": "Female",
+    "summary": "A woman's remains were found in a sleeping bag near a freeway in Pacific Palisades, California. She was wearing expensive Western boots. Her identity remains unknown.",
+    "lastSeen": "Found November 1, 1996, along Pacific Coast Highway, Pacific Palisades, California",
+    "tags": [
+      "unidentified person",
+      "Doe case",
+      "California",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Belle in the Boot - Doe Network",
+        "url": "https://www.doenetwork.org/cases/133ufca.html"
+      },
+      {
+        "title": "Belle in the Boot - NamUs",
+        "url": "https://www.namus.gov/UnidentifiedPersons/Case#/3988"
+      },
+      {
+        "title": "Belle in the Boot case - LAPD",
+        "url": "https://www.lapdonline.org/cold-case-homicide/"
+      }
+    ],
+    "narrative": [
+      "On November 1, 1996, a woman's decomposed remains were found in a sleeping bag alongside the Pacific Coast Highway in Pacific Palisades, Los Angeles, California. The body had been there for an estimated two to four weeks.",
+      "The woman was wearing distinctive, expensive Tony Lama Western boots, which led investigators and the public to dub her 'Belle in the Boot.' She was estimated to be between 25 and 45 years old, approximately 5'4\" tall, with brown hair.",
+      "Despite extensive investigation by the LAPD, comparison with missing persons databases, facial reconstruction, and DNA profiling, the woman has never been identified. Isotope analysis suggested she may have spent time in the southeastern United States.",
+      "The case remains one of Los Angeles's most puzzling unidentified person cases. She is listed in NamUs and the Doe Network."
+    ],
+    "timeline": [
+      {
+        "date": "1996-11-01",
+        "event": "Woman's remains found in a sleeping bag along Pacific Coast Highway."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "nefertiti-jaquez-2020",
+    "name": "Elijah Lewis",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "October 2020",
+    "state": "New Hampshire",
+    "city": "Merrimack",
+    "age": 5,
+    "gender": "Male",
+    "summary": "Five-year-old Elijah Lewis was murdered and buried by his mother and her boyfriend in New Hampshire. His remains were found in Abington, Massachusetts. Both were convicted.",
+    "lastSeen": "October 2020, Merrimack, New Hampshire",
+    "tags": [
+      "homicide",
+      "child",
+      "New Hampshire",
+      "2020s",
+      "child abuse",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Elijah Lewis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Elijah_Lewis"
+      },
+      {
+        "title": "Elijah Lewis case - WMUR",
+        "url": "https://www.wmur.com/article/elijah-lewis-case/38062893"
+      },
+      {
+        "title": "NH AG press release",
+        "url": "https://www.doj.nh.gov/news/2021/elijah-lewis.htm"
+      }
+    ],
+    "narrative": [
+      "In October 2021, authorities in New Hampshire launched a search for five-year-old Elijah Lewis after the state's Division for Children, Youth and Families reported the boy missing. His mother, Danielle Dauphinais, and her boyfriend, Joseph Stapf, had been telling people that Elijah was staying with friends.",
+      "Elijah's remains were found buried in a wooded area in Abington, Massachusetts, about 80 miles from the family's Merrimack, New Hampshire home. He had suffered extreme abuse and neglect before his death.",
+      "Both Dauphinais and Stapf were arrested and charged with murder. The investigation revealed a pattern of severe abuse, including malnutrition and physical violence, that Elijah had endured before his death around October 2020.",
+      "Dauphinais was convicted of second-degree murder and sentenced to 45 years to life. Stapf pleaded guilty to second-degree murder and was sentenced to 30 years to life. The case led to calls for reform of New Hampshire's child welfare system."
+    ],
+    "timeline": [
+      {
+        "date": "2020-10-01",
+        "event": "Elijah Lewis believed to have died (approximate date)."
+      },
+      {
+        "date": "2021-10-14",
+        "event": "DCYF reports Elijah missing; investigation launched."
+      },
+      {
+        "date": "2021-10-24",
+        "event": "Elijah's remains found buried in Abington, Massachusetts."
+      },
+      {
+        "date": "2023-01-01",
+        "event": "Danielle Dauphinais convicted; sentenced to 45 years to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "june-doe-1974-us30",
+    "name": "Orange Socks",
+    "type": "Unidentified Person",
+    "status": "Unsolved",
+    "year": 1979,
+    "date": "October 31, 1979",
+    "state": "Texas",
+    "city": "Georgetown",
+    "age": null,
+    "gender": "Female",
+    "summary": "A woman wearing only orange socks was found murdered along I-35 in Texas in 1979. Serial killer Henry Lee Lucas confessed but his conviction was commuted. She remains unidentified.",
+    "lastSeen": "Found October 31, 1979, Interstate 35, Georgetown, Texas",
+    "tags": [
+      "unidentified person",
+      "Doe case",
+      "Texas",
+      "1970s",
+      "serial killer",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Orange Socks - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Orange_Socks"
+      },
+      {
+        "title": "Orange Socks - NamUs",
+        "url": "https://www.namus.gov/UnidentifiedPersons/Case#/822"
+      },
+      {
+        "title": "Henry Lee Lucas - Texas Monthly",
+        "url": "https://www.texasmonthly.com/articles/henry-lee-lucas/"
+      }
+    ],
+    "narrative": [
+      "On Halloween 1979, the body of an unidentified woman was found in a culvert along Interstate 35 near Georgetown, Texas. She had been sexually assaulted and strangled. The only item of clothing on her body was a pair of orange socks, which became her identifier.",
+      "The case took a controversial turn in 1983 when serial killer Henry Lee Lucas confessed to the murder. Lucas, who was known for making hundreds of false confessions, was convicted and sentenced to death. However, evidence later suggested Lucas was in Florida at the time of the murder.",
+      "In 1998, Texas Governor George W. Bush commuted Lucas's death sentence to life imprisonment, the only such commutation during his tenure. Lucas died in prison in 2001. The murder conviction was widely questioned.",
+      "Despite advanced forensic testing including DNA analysis and isotope studies, the woman known as Orange Socks has never been identified. She remains one of Texas's most well-known Doe cases."
+    ],
+    "timeline": [
+      {
+        "date": "1979-10-31",
+        "event": "Unidentified woman found murdered along I-35 near Georgetown, Texas."
+      },
+      {
+        "date": "1983-01-01",
+        "event": "Henry Lee Lucas confesses; later convicted."
+      },
+      {
+        "date": "1998-06-26",
+        "event": "Governor Bush commutes Lucas's death sentence."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "cheryl-grimmer-1970",
+    "name": "Cheryl Grimmer",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1970,
+    "date": "January 12, 1970",
+    "state": "Australia",
+    "city": "Wollongong",
+    "country": "Australia",
+    "age": 3,
+    "gender": "Female",
+    "summary": "Three-year-old Cheryl Grimmer was snatched from the changing rooms of a beach shower block in Wollongong, Australia. A suspect was identified in 2017 but charges were dismissed.",
+    "lastSeen": "January 12, 1970, Fairy Meadow Beach, Wollongong, New South Wales, Australia",
+    "tags": [
+      "missing person",
+      "child",
+      "Australia",
+      "1970s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Cheryl Grimmer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Cheryl_Grimmer"
+      },
+      {
+        "title": "Cheryl Grimmer case - Sydney Morning Herald",
+        "url": "https://www.smh.com.au/national/nsw/cheryl-grimmer-case/"
+      },
+      {
+        "title": "NSW Police cold case review",
+        "url": "https://www.police.nsw.gov.au/crime/unsolved-homicides/cheryl-grimmer"
+      }
+    ],
+    "narrative": [
+      "On January 12, 1970, the Grimmer family, recent British immigrants to Australia, visited Fairy Meadow Beach near Wollongong, New South Wales. Three-year-old Cheryl went into a shower and changing block with her three older brothers. When the boys came out, Cheryl was gone.",
+      "A witness reportedly saw a man carrying a small child from the area, but the description was vague. Despite an immediate search and widespread publicity, Cheryl was never found.",
+      "The case lay dormant for decades until renewed investigation in the 2010s. In 2017, a man was arrested and charged with Cheryl's murder based on a witness statement from the 1970s. However, the charges were dismissed when the court ruled that the suspect's interview as a teenager in 1971 was inadmissible.",
+      "Cheryl Grimmer's disappearance remains one of Australia's most enduring cold cases. Her family, including her brothers who were present at the time, have continued to seek answers."
+    ],
+    "timeline": [
+      {
+        "date": "1970-01-12",
+        "event": "Cheryl Grimmer snatched from a beach shower block in Wollongong."
+      },
+      {
+        "date": "2017-03-01",
+        "event": "Suspect arrested but charges later dismissed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "haleigh-cummings-2009",
+    "name": "Haleigh Cummings",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 2009,
+    "date": "February 9, 2009",
+    "state": "Florida",
+    "city": "Satsuma",
+    "age": 5,
+    "gender": "Female",
+    "summary": "Five-year-old Haleigh Cummings vanished from her father's mobile home in Satsuma, Florida. Her father's girlfriend Misty Croslin was babysitting. No one has been charged.",
+    "lastSeen": "February 9, 2009, her father's mobile home, Satsuma, Florida",
+    "tags": [
+      "missing person",
+      "child",
+      "Florida",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Haleigh Cummings - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Haleigh_Cummings"
+      },
+      {
+        "title": "Haleigh Cummings case - Florida Times-Union",
+        "url": "https://www.jacksonville.com/story/news/crime/haleigh-cummings/"
+      },
+      {
+        "title": "Putnam County Sheriff investigation",
+        "url": "https://www.putnamcountysheriff.com/haleigh-cummings/"
+      }
+    ],
+    "narrative": [
+      "On February 9, 2009, five-year-old Haleigh Cummings was reported missing from her father Ronald Cummings's mobile home in Satsuma, a rural community in Putnam County, Florida. Ronald's 17-year-old girlfriend, Misty Croslin, was babysitting Haleigh and her younger brother when she said she woke up and found Haleigh gone.",
+      "Misty told police she had put Haleigh to bed and then gone to sleep herself. When she woke up around 3 a.m., the back door was propped open and Haleigh was missing. Her account contained inconsistencies that changed over time.",
+      "The investigation was hampered by the chaotic personal lives of those involved. Ronald Cummings and Misty Croslin married shortly after the disappearance but later divorced. Both were subsequently arrested on drug trafficking charges unrelated to Haleigh's case.",
+      "Despite extensive searches of the surrounding area, including the St. Johns River, Haleigh has never been found. The Putnam County Sheriff's Office continues to investigate."
+    ],
+    "timeline": [
+      {
+        "date": "2009-02-09",
+        "event": "Haleigh Cummings reported missing from Satsuma, Florida."
+      },
+      {
+        "date": "2010-01-20",
+        "event": "Ronald Cummings and Misty Croslin arrested on drug charges."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "elsie-paroubek-1911",
+    "name": "Elsie Paroubek",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1911,
+    "date": "April 8, 1911",
+    "state": "Illinois",
+    "city": "Chicago",
+    "age": 5,
+    "gender": "Female",
+    "summary": "Five-year-old Elsie Paroubek vanished from her Chicago neighborhood in 1911. Her body was found in a drainage canal weeks later. The case inspired one of outsider artist Henry Darger's works.",
+    "lastSeen": "April 8, 1911, near her home in Chicago, Illinois",
+    "tags": [
+      "missing person",
+      "homicide",
+      "child",
+      "Illinois",
+      "1910s",
+      "historical",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Elsie Paroubek - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Elsie_Paroubek"
+      },
+      {
+        "title": "Elsie Paroubek and Henry Darger - Chicago Magazine",
+        "url": "https://www.chicagomag.com/arts-culture/elsie-paroubek-darger/"
+      },
+      {
+        "title": "Elsie Paroubek - Chicago Tribune archives",
+        "url": "https://www.chicagotribune.com/news/history/elsie-paroubek/"
+      }
+    ],
+    "narrative": [
+      "On April 8, 1911, five-year-old Elsie Paroubek, the daughter of Czech immigrants, vanished from the area near her family's home in Chicago's Pilsen neighborhood. She had been playing with her cousin when she disappeared.",
+      "A massive search was launched, and the case became front-page news across Chicago. Rewards were offered, and thousands of people participated in the search. The case highlighted the vulnerability of children in the rapidly growing industrial city.",
+      "On May 8, exactly one month after her disappearance, Elsie's body was found in a drainage canal on the outskirts of Chicago. The cause of death was drowning, but the circumstances remained unclear. No one was ever charged.",
+      "Elsie's case had an unexpected cultural legacy. Outsider artist Henry Darger, who lived in Chicago, was deeply affected by the newspaper coverage of her disappearance. He incorporated her image into his monumental work 'In the Realms of the Unreal.'"
+    ],
+    "timeline": [
+      {
+        "date": "1911-04-08",
+        "event": "Elsie Paroubek vanishes from her Chicago neighborhood."
+      },
+      {
+        "date": "1911-05-08",
+        "event": "Elsie's body found in a drainage canal."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "lee-boxell-1988",
+    "name": "Ben Needham",
+    "type": "Missing Person",
+    "status": "Unsolved",
+    "year": 1991,
+    "date": "July 24, 1991",
+    "state": "Greece",
+    "city": "Kos",
+    "country": "Greece",
+    "age": 1,
+    "gender": "Male",
+    "summary": "Twenty-one-month-old Ben Needham vanished from outside his grandparents' farmhouse on the Greek island of Kos. Despite decades of investigation, he has never been found.",
+    "lastSeen": "July 24, 1991, outside grandparents' farmhouse, Iraklis, Kos, Greece",
+    "tags": [
+      "missing person",
+      "child",
+      "Greece",
+      "United Kingdom",
+      "1990s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Ben Needham - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Ben_Needham"
+      },
+      {
+        "title": "Ben Needham case - BBC",
+        "url": "https://www.bbc.com/news/uk-england-south-yorkshire-37575475"
+      },
+      {
+        "title": "Kerry Needham campaign - ITV",
+        "url": "https://www.itv.com/news/calendar/ben-needham"
+      }
+    ],
+    "narrative": [
+      "On July 24, 1991, twenty-one-month-old Ben Needham was playing outside his grandparents' farmhouse in Iraklis, a small village on the Greek island of Kos. His mother Kerry had traveled from Sheffield, England, with Ben to visit her parents, who were renovating a farmhouse on the island. Ben vanished while his mother was inside.",
+      "Initial theories focused on abduction, with suggestions that Ben may have been taken by a childless couple. Greek and British police conducted extensive searches and interviews on Kos. The investigation was hampered by language barriers and jurisdictional complications.",
+      "In 2012, South Yorkshire Police took a more active role in the investigation. New forensic work was conducted at the farmhouse site. In 2016, police explored the theory that a construction worker at the property may have accidentally killed Ben with a digger and buried the evidence. The worker, Konstantinos Barkas, had died before he could be questioned.",
+      "Ben's mother Kerry has campaigned for over three decades to find her son. The case remains the subject of periodic police operations, but Ben has never been found."
+    ],
+    "timeline": [
+      {
+        "date": "1991-07-24",
+        "event": "Ben Needham vanishes from the village of Iraklis on Kos."
+      },
+      {
+        "date": "2016-10-17",
+        "event": "Police investigate theory of accidental death at construction site."
+      }
+    ],
+    "enriched": true
   }
 ]
