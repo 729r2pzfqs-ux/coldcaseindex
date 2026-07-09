@@ -21094,5 +21094,281 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "anthony-big-jook-mims-2024",
+  "name": "Anthony \"Big Jook\" Mims",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 2024,
+  "date": "January 13, 2024",
+  "state": "Tennessee",
+  "city": "Memphis",
+  "age": 47,
+  "gender": "Male",
+  "summary": "Anthony \"Big Jook\" Mims, a 47-year-old music executive and the older brother of Memphis rapper Yo Gotti, was fatally shot on January 13, 2024, outside Perignon's Restaurant and Event Center on Winchester Road in Memphis, where he was attending a repass after a relative's funeral. A second man was wounded and survived. Witnesses said the shooters fled in a white Ford Explorer; Memphis police have identified no suspects and made no arrests.",
+  "lastSeen": "January 13, 2024, outside Perignon's Restaurant and Event Center, 6385 Winchester Road, Memphis, Tennessee",
+  "tags": [
+   "tennessee",
+   "memphis",
+   "shooting",
+   "music industry",
+   "ambush",
+   "yo gotti",
+   "cmg",
+   "drive-by"
+  ],
+  "sources": [
+   {
+    "title": "A year after Big Jook was killed in Memphis, where does the investigation stand? (Yahoo News / Commercial Appeal)",
+    "url": "https://www.yahoo.com/news/big-jook-killed-memphis-where-110255912.html"
+   },
+   {
+    "title": "New details emerge on death of famed rapper Yo Gotti's brother Big Jook (Action News 5)",
+    "url": "https://www.actionnews5.com/2024/01/14/new-details-emerge-death-famed-rapper-yo-gottis-brother-big-jook/"
+   },
+   {
+    "title": "Five months after Big Jook was killed in Memphis, where does investigation stand? (Yahoo News / Commercial Appeal)",
+    "url": "https://www.yahoo.com/news/five-months-big-jook-killed-160325815.html"
+   }
+  ],
+  "narrative": [
+   "Anthony Mims, known throughout the Memphis music scene as \"Big Jook,\" was a 47-year-old music executive and the older brother of rapper and record label founder Yo Gotti. Mims held an active role with Collective Music Group (CMG), the label his brother founded, and was a familiar presence at industry events, video shoots, and label functions. On the afternoon of Saturday, January 13, 2024, Mims was attending a repass — a gathering of family and friends held after a funeral — for a relative, Eric Bovan, at Perignon's Restaurant and Event Center in the 6300 block of Winchester Road in the Hickory Hill area of Memphis.",
+   "At approximately 4:15 p.m., a Memphis police officer in the area heard multiple gunshots and found two men suffering from gunshot wounds outside the restaurant. Both were taken to a hospital, where Mims was pronounced dead; the second victim survived and was listed in stable condition. A witness at the scene told officers that suspects in a white SUV were responsible for the shooting, and police later said surveillance video showed the suspects fleeing in a white Ford Explorer with black wheels and dark tinted windows. Investigators with the Shelby County Sheriff's Office and Memphis police described the shooting as targeted, according to local news reports.",
+   "Despite the release of surveillance images of the suspect vehicle, the investigation produced no publicly identified suspects. In June 2024, five months after the killing, the Memphis Police Department told reporters, \"There are no new updates at this time.\" At the one-year mark in January 2025, police again said no updates were available, and no arrests had been made. Yo Gotti did not publicly comment on his brother's death, and CMG declined media inquiries.",
+   "Mims's name surfaced prominently eight months after his death, during the September 2024 trial of Justin Johnson for the November 2021 murder of Memphis rapper Young Dolph, a longtime rival of Yo Gotti and CMG. Prosecutors alleged at trial that Mims had offered a $100,000 payment for the killing of Young Dolph, portraying the hit as retaliation for diss tracks aimed at Mims and the label. Mims was deceased by the time these allegations were presented in court and was never charged or tried in connection with the Dolph case; the allegations were never tested against him in any proceeding. Johnson was convicted of first-degree murder and related charges and sentenced to life in prison, while a separate defendant accused of organizing the Dolph killing was later acquitted by a jury.",
+   "Investigators have not publicly stated any motive for Mims's killing, and no connection between his death and the Young Dolph case has been established by authorities. The homicide remains unsolved. Memphis police have asked anyone with information to contact Crime Stoppers at 901-528-CASH or submit tips through crimestopmem.org."
+  ],
+  "timeline": [
+   {
+    "date": "November 17, 2021",
+    "event": "Memphis rapper Young Dolph is shot and killed; prosecutors would later allege at a 2024 trial that Anthony \"Big Jook\" Mims offered $100,000 for the killing, an allegation Mims never faced in court."
+   },
+   {
+    "date": "January 13, 2024",
+    "event": "At about 4:15 p.m., Mims is shot multiple times outside Perignon's Restaurant and Event Center, 6385 Winchester Road, Memphis, while attending a repass following a relative's funeral; a second man is wounded and survives."
+   },
+   {
+    "date": "January 13, 2024",
+    "event": "Mims is pronounced dead at a hospital; a witness tells police that suspects in a white SUV carried out the shooting."
+   },
+   {
+    "date": "January 14, 2024",
+    "event": "Memphis police confirm the deceased victim as 47-year-old Anthony Mims and say surveillance video shows suspects fleeing in a white Ford Explorer with black wheels and dark tinted windows."
+   },
+   {
+    "date": "June 2024",
+    "event": "Five months after the shooting, the Memphis Police Department states, \"There are no new updates at this time,\" with no suspects identified."
+   },
+   {
+    "date": "September 2024",
+    "event": "At the trial of Justin Johnson for Young Dolph's murder, prosecutors allege Mims put out a $100,000 hit on Dolph; Johnson is convicted and sentenced to life in prison."
+   },
+   {
+    "date": "January 2025",
+    "event": "One year after the killing, Memphis police say no updates are available; no suspects have been identified and no arrests made."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "dau-mabil-2024",
+  "name": "Dau Mabil",
+  "type": "Suspicious Death",
+  "status": "Unsolved",
+  "year": 2024,
+  "date": "March 25, 2024",
+  "state": "Mississippi",
+  "city": "Jackson",
+  "age": 33,
+  "gender": "Male",
+  "summary": "Dau Mabil, a 33-year-old Sudanese refugee and one of the 'Lost Boys' resettled in Jackson, Mississippi, vanished during a midday walk near his Belhaven-area home on March 25, 2024. Fishermen found his body on April 13, 2024, in the Pearl River in Lawrence County, roughly 60 miles downstream. Two autopsies ruled the cause of death drowning with the manner undetermined, but his brother and civil rights groups continue to allege foul play and seek a federal review.",
+  "lastSeen": "Last seen around 12:15 p.m. on March 25, 2024, on surveillance video near Jefferson Street in Jackson; body found April 13, 2024, in the Pearl River, Lawrence County, Mississippi",
+  "tags": [
+   "mississippi",
+   "pearl river",
+   "suspicious death",
+   "drowning",
+   "sudanese refugee",
+   "missing person",
+   "undetermined manner",
+   "jackson"
+  ],
+  "sources": [
+   {
+    "title": "NBC News – Family of missing Mississippi man found dead suspects foul play in his disappearance",
+    "url": "https://www.nbcnews.com/news/us-news/family-missing-mississippi-man-found-dead-seek-answers-disappearance-d-rcna148482"
+   },
+   {
+    "title": "Mississippi Public Broadcasting (AP) – A man escaped Sudan's bloody civil war. His mysterious death in Mississippi has sparked suspicion",
+    "url": "https://www.mpbonline.org/blogs/news/a-man-escaped-sudans-bloody-civil-war-his-mysterious-death-in-mississippi-has-sparked-suspicion/"
+   },
+   {
+    "title": "WLBT – Body found in Pearl River confirmed to be missing Belhaven man",
+    "url": "https://www.wlbt.com/2024/04/18/judge-orders-autopsy-body-found-pearl-river-believed-be-missing-belhaven-man/"
+   },
+   {
+    "title": "WLBT – Capitol Police: Dau Mabil disappearance and death not on rumored video",
+    "url": "https://www.wlbt.com/2024/06/01/capitol-police-dau-mabil-disappearance-death-not-rumored-video/"
+   },
+   {
+    "title": "WLBT – A second autopsy, the same finding: Dau Mabil's cause of death is drowning",
+    "url": "https://www.wlbt.com/2025/02/13/second-autopsy-same-finding-dau-mabils-cause-death-is-drowning/"
+   },
+   {
+    "title": "NAACP – Justice for Dau Mabil",
+    "url": "https://naacp.org/actions/justice-dau-mabil"
+   }
+  ],
+  "narrative": [
+   "Dau Mabil escaped Sudan's civil war as a child and came to Jackson, Mississippi, in 2000 as one of the 'Lost Boys' of Sudan, part of a group of about 50 boys resettled with the help of Catholic Charities, St. Andrew's Episcopal Church and Millsaps College. By 2024 the 33-year-old was living in Jackson's Belhaven Heights neighborhood with his wife, Karissa Bowley, working as a restaurant manager and planning to return to school for a computer science degree. On March 25, 2024, around midday, Mabil texted his wife that he was going for a walk along his usual route toward downtown and left home without his phone. Surveillance video captured him near Jefferson Street, between Fortification and High streets, at about 12:15 p.m., wearing an orange shirt, yellow hoodie and blue Adidas joggers. He was never seen alive again.",
+   "His disappearance in broad daylight, along a trail connecting the Mississippi Civil Rights Museum with other city landmarks, prompted community searches and national attention. The Mississippi Capitol Police, which patrols the district where he vanished, led the investigation. On April 13, 2024, fishermen spotted a body in the Pearl River in Lawrence County, roughly 60 miles south of Jackson; officials confirmed days later that the remains were Mabil's. Lawrence County Sheriff Ryan Everett said early on that there was no evidence of foul play, a conclusion Mabil's brother, Bul Mabil, rejected.",
+   "The death set off a legal dispute within the family. On April 18, 2024, Hinds County Chancery Judge Dewayne Thomas issued a restraining order preventing release of the body until an independent autopsy could be performed, after Bul Mabil sought to block any cremation. In May 2024 the judge ruled that Bowley, as surviving spouse, was next of kin with authority over the remains, dismissing Bul Mabil as a plaintiff for lack of standing, while Bowley agreed that an independent autopsy could proceed at the brother's direction and expense. The state medical examiner's autopsy, released in June 2024, found the cause of death was drowning with the manner undetermined and identified no external trauma or injury that could account for the death.",
+   "Rumors that a video showed Mabil being abducted circulated widely. Capitol Police Chief Bo Luckey called the claim 'absolutely false and inaccurate,' saying the footage had been sent to the FBI for enhancement and that analysts found nothing suspicious in it. According to Mississippi Today, Capitol Police closed their investigation in 2024 having found no evidence of homicide. The NAACP and U.S. Rep. Bennie Thompson nonetheless called for a federal Justice Department review, with the NAACP arguing the state's preliminary no-foul-play conclusion should not be accepted and family members saying Capitol Police had not been 'fair and forthcoming.'",
+   "An independent autopsy commissioned by Bul Mabil, performed by pathologist Dr. Daniel Schultz and released in February 2025, reached the same conclusion: drowning, manner undetermined. Schultz wrote that homicide was 'excluded from reasonable consideration' given the absence of significant internal or external trauma, leaving accident or suicide as reasonable possibilities, and found the abduction claim unsupported. Dau Mabil was buried in February 2025, nearly a year after he vanished. His brother has said he intends to hire a private investigator and another forensic pathologist, and questions about how Mabil ended up in the Pearl River remain unresolved."
+  ],
+  "timeline": [
+   {
+    "date": "2000",
+    "event": "Dau Mabil arrives in Jackson, Mississippi, as one of the 'Lost Boys' of Sudan resettled with help from Catholic Charities, St. Andrew's Episcopal Church and Millsaps College."
+   },
+   {
+    "date": "March 25, 2024",
+    "event": "Around noon, Mabil texts his wife that he is going for a walk and leaves home without his phone; surveillance video captures him near Jefferson Street in Jackson at about 12:15 p.m. He does not return."
+   },
+   {
+    "date": "March 26, 2024",
+    "event": "His brother, Bul Mabil, arrives from Houston as family and community members begin searching; Mississippi Capitol Police lead the investigation."
+   },
+   {
+    "date": "April 13, 2024",
+    "event": "Fishermen find a body in the Pearl River in Lawrence County, about 60 miles south of Jackson."
+   },
+   {
+    "date": "April 18, 2024",
+    "event": "Officials confirm the body is Dau Mabil; Judge Dewayne Thomas issues a restraining order preventing release of the remains until an independent autopsy can be conducted."
+   },
+   {
+    "date": "May 1-2, 2024",
+    "event": "The judge rules that wife Karissa Bowley is next of kin with authority over the remains and dismisses Bul Mabil as a plaintiff; Bowley agrees an independent autopsy may proceed at the brother's expense."
+   },
+   {
+    "date": "May 31, 2024",
+    "event": "Capitol Police Chief Bo Luckey says an FBI analysis found nothing suspicious in a rumored 'abduction' video and calls homicide speculation unfounded."
+   },
+   {
+    "date": "June 2024",
+    "event": "The state medical examiner's autopsy is released: cause of death is drowning, manner undetermined, with no signs of trauma; Capitol Police later close their investigation."
+   },
+   {
+    "date": "July 2, 2024",
+    "event": "Bul Mabil returns to court with an emergency petition to compel the start of the independent autopsy."
+   },
+   {
+    "date": "February 13, 2025",
+    "event": "The independent autopsy by Dr. Daniel Schultz is released, again finding drowning with manner undetermined and excluding homicide from reasonable consideration; Mabil is buried nearly a year after his disappearance."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "sebastian-rogers-2024",
+  "name": "Sebastian Rogers",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2024,
+  "date": "February 25, 2024",
+  "state": "Tennessee",
+  "city": "Hendersonville",
+  "age": 15,
+  "gender": "Male",
+  "summary": "Sebastian Wayne Drake Rogers, a 15-year-old boy with autism, vanished overnight from his family's home on Stafford Court in Hendersonville, Tennessee, between the night of February 25 and the morning of February 26, 2024. He left behind his shoes, phone, medication, and other belongings, and despite one of the largest search efforts in Middle Tennessee history and an FBI reward of up to $50,000, he has never been found. The case remains active and unsolved.",
+  "lastSeen": "Night of February 25, 2024, at his home on Stafford Court in Hendersonville, Sumner County, Tennessee; discovered missing the following morning",
+  "tags": [
+   "tennessee",
+   "missing person",
+   "missing child",
+   "autism",
+   "amber alert",
+   "fbi reward",
+   "sumner county",
+   "unsolved"
+  ],
+  "sources": [
+   {
+    "title": "WSMV: Two years since Sebastian Rogers disappeared - Sheriff shares truths as investigation continues",
+    "url": "https://www.wsmv.com/2026/02/26/two-years-since-sebastian-rogers-disappeared-sheriff-shares-truths-investigation-continues-into-missing-teens-active-ongoing-case/"
+   },
+   {
+    "title": "TBI Newsroom: AMBER Alert status - Sebastian Rogers",
+    "url": "https://tbinewsroom.com/2024/03/15/amber-alert-sebastian-rogers/"
+   },
+   {
+    "title": "The Charley Project: Sebastian Wayne Drake Rogers",
+    "url": "https://charleyproject.org/case/sebastian-wayne-drake-rogers"
+   },
+   {
+    "title": "NewsChannel 5: Sebastian Rogers' parents thank FBI for $50K reward to find their son",
+    "url": "https://www.newschannel5.com/news/sebastian-rogers-parents-thank-fbi-for-50k-reward-to-find-their-son"
+   },
+   {
+    "title": "FBI: Searching for Sebastian Rogers",
+    "url": "https://www.fbi.gov/news/stories/searching-for-sebastian-rogers"
+   },
+   {
+    "title": "WSMV: Amber Alert issued for missing Sumner County teen with autism",
+    "url": "https://www.wsmv.com/2024/02/27/amber-alert-issued-missing-sumner-county-teen-with-autism/"
+   },
+   {
+    "title": "NBC News Dateline: Sebastian Rogers missing from Hendersonville, Tennessee, since February 2024",
+    "url": "https://www.nbcnews.com/dateline/missing-in-america/sebastian-rogers-tennessee-missing-person-rcna199526"
+   }
+  ],
+  "narrative": [
+   "Sebastian Wayne Drake Rogers, born December 7, 2008, was 15 years old when he disappeared from his family's home on Stafford Court in Hendersonville, Sumner County, Tennessee. Sebastian is autistic and, according to authorities, has medical conditions that could impair his ability to return home safely without assistance; he did not have his required medication with him. On February 25, 2024, he spent the day with his mother, Katie Proudfoot, before returning home for the evening. His mother, the only other person in the house that night — his stepfather, Chris Proudfoot, was reportedly traveling for work — said she heard a loud bang or thump from Sebastian's bedroom at about 10 p.m. and that he answered when she called out to check on him. The next morning, February 26, he was gone from his room and was reported missing.",
+   "The circumstances immediately troubled investigators and the public alike. Sebastian left behind his shoes, cell phone, money, food, medication, and his Nintendo Switch; according to his mother, the only item missing from the home was a small yellow flashlight. The Tennessee Bureau of Investigation issued an Endangered Child Alert on the morning of February 26, 2024, and upgraded it to a statewide AMBER Alert on the afternoon of February 27 based on additional investigative information developed during the search.",
+   "The search that followed was one of the largest in Middle Tennessee history. Roughly 2,000 volunteers and personnel, coordinated with a search app, combed a four-and-a-half-mile radius around the home — an area equivalent to about 44,000 acres — in the first week. Efforts included ground teams, aerial surveillance with thermal imaging, dive teams searching waterways (Sebastian was reportedly drawn to water), and cave exploration; a landfill was also searched without producing evidence or leads, according to officials. The FBI and Secret Service assisted the Sumner County Sheriff's Office and TBI. Despite hundreds of tips, authorities have reported no confirmed sightings of Sebastian since the night he vanished.",
+   "In August 2024, roughly six months into the investigation, the FBI announced a reward of up to $50,000 for information leading to Sebastian's whereabouts or to the arrest and conviction of anyone responsible for his disappearance. His parents publicly thanked the FBI and appealed for tips. The case also drew intense social media attention and speculation; investigators have said there is no credible evidence of foul play and no evidence implicating Sebastian's mother, stepfather, or biological father, Seth Rogers, all of whom officials said have cooperated fully. Authorities have also said no one has been ruled out. A celebrity bounty hunter, Duane 'Dog' Chapman, separately conducted his own search efforts and raised private reward money, according to news reports.",
+   "At the two-year mark in February 2026, Sumner County Sheriff Eric Craddock stated that the case 'has never been closed or suspended' and remains active and ongoing, with detectives following all credible leads in coordination with the TBI and FBI. Sebastian, who would now be 17, is described as 5 feet 5 inches tall and about 120 pounds, with brown or blond hair, brown or hazel eyes, and square black-framed glasses; he was last known to be wearing a black sweatshirt and black sweatpants. Tips can be submitted to the TBI at 1-800-TBI-FIND, the Sumner County Sheriff's Office, or tips.fbi.gov."
+  ],
+  "timeline": [
+   {
+    "date": "February 25, 2024",
+    "event": "Sebastian spends the day with his mother and returns home; around 10 p.m. she hears a loud noise from his bedroom, and he responds when she checks on him. This is the last confirmed contact with him."
+   },
+   {
+    "date": "February 26, 2024",
+    "event": "Sebastian is discovered missing from his bedroom in the morning and reported missing; the TBI issues an Endangered Child Alert as multiple agencies begin searching."
+   },
+   {
+    "date": "February 27, 2024",
+    "event": "The TBI upgrades the alert to a statewide AMBER Alert based on additional investigative information developed during the search."
+   },
+   {
+    "date": "Late February - March 2024",
+    "event": "About 2,000 searchers cover a 4.5-mile radius (roughly 44,000 acres) around the home; efforts include thermal-imaging aircraft, dive teams, and cave searches, with FBI and Secret Service assistance. No confirmed trace of Sebastian is found."
+   },
+   {
+    "date": "Spring 2024",
+    "event": "Officials search a landfill in connection with the case and report that no evidence or leads were found."
+   },
+   {
+    "date": "August 2024",
+    "event": "The FBI announces a reward of up to $50,000 for information leading to Sebastian's whereabouts or the arrest and conviction of anyone responsible; his parents publicly thank the FBI and appeal for tips."
+   },
+   {
+    "date": "February 25, 2025",
+    "event": "One year after the disappearance, the AMBER Alert remains active; the TBI reports more than 240 tips submitted and no confirmed sightings."
+   },
+   {
+    "date": "September 2025",
+    "event": "The FBI renews its public call for tips in Sebastian's disappearance."
+   },
+   {
+    "date": "February 2026",
+    "event": "Two years on, Sumner County Sheriff Eric Craddock says the case has never been closed or suspended and remains active and ongoing, worked in coordination with the TBI and FBI."
+   }
+  ],
+  "enriched": true
  }
 ]
