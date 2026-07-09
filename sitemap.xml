@@ -43,6 +43,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/argentina/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/arizona/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -61,6 +67,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/australia/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/bavaria/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -74,6 +86,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/states/california/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/states/canada/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,6 +139,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/germany/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/states/greece/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/hawaii/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -163,6 +193,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/italy/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/kansas/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -194,6 +230,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/states/maine/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/states/malaysia/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -433,6 +475,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/states/united-kingdom/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/states/utah/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -553,6 +601,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/alissa-turney-2001/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/alonzo-brooks-2004/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -661,7 +715,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/aniah-blanchard-2019-b/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/ann-gotlib-1983/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/ann-marie-burr-1961/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -848,6 +914,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/betty-broderick/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/betty-jones-1990/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1375,6 +1447,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/danielle-van-dam-2002/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/danny-casolaro/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1507,6 +1585,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/deorr-kunz-2015/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/deorr-kunz-jr-2015/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1520,6 +1604,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/diane-augat-1998/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/diane-schuler-2009/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1609,6 +1699,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/dorothy-jane-scott-1980/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/dorothy-kilgallen/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -1640,6 +1736,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/dyatlov-pass-1959/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/dylan-redwine-2012/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1748,6 +1850,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/eric-garner/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/erica-parsons-2011/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -1904,6 +2012,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/gainesville-ripper/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/gannon-stauch-2020/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2095,6 +2209,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/holly-bartlett-2009/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/holly-bobo/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2102,6 +2222,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/holly-bobo-2011/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/holly-branagan-1979/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2365,6 +2491,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/jessica-johnson-1993/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/jessica-lunsford/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2557,6 +2689,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/kara-robinson-2002/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/karen-mitchell-1997/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/karen-silkwood/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2702,6 +2846,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/kitty-genovese/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/korrina-malinoski-2014/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2881,6 +3031,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/lena-chapin-2006/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/leopold-loeb/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2941,6 +3097,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/lisa-irwin-2011-b/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/lisa-staes-1976/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -2960,6 +3122,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/lisk-murders-1996/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/lisk-sisters-1997/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3103,6 +3271,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/mark-hacking-2004/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/mark-himebaugh/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3128,6 +3302,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/marvin-alvin-smith-1997/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/mary-agnes-moroney-1930/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3170,6 +3350,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/mary-silvani-1982/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/matthew-chase-2013/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3397,6 +3583,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/natalee-holloway-recent/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/natalie-wood-1981/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3440,6 +3632,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/nique-leili-2011/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/niqui-mccown-2001/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3512,6 +3710,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/paige-renkoski/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/pamela-butler-2009/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -3781,6 +3985,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/robert-pickton-victims/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/robert-wone/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3943,6 +4153,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/shannan-gilbert-2010/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/shannon-melendi-1994/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -3992,6 +4208,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/shooting-of-nipsey-hussle/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/sierah-joughin-2016/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -4471,6 +4693,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://coldcaseindex.com/cases/tyler-davis-2019/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://coldcaseindex.com/cases/valentine-sally-1982/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -4484,6 +4712,12 @@
   </url>
   <url>
     <loc>https://coldcaseindex.com/cases/valerie-percy/</loc>
+    <lastmod>2026-07-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://coldcaseindex.com/cases/vanessa-guillen-2020/</loc>
     <lastmod>2026-07-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
