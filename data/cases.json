@@ -55617,5 +55617,2911 @@
       }
     ],
     "enriched": true
+  },
+  {
+    "id": "murdaugh-boat-crash-2019",
+    "name": "Mallory Beach",
+    "type": "Vehicular Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "February 24, 2019",
+    "state": "South Carolina",
+    "city": "Beaufort",
+    "age": 19,
+    "gender": "Female",
+    "summary": "Mallory Beach was killed when Paul Murdaugh crashed a boat while drunk in Beaufort County, South Carolina. Paul was charged with BUI resulting in death but was murdered before trial.",
+    "lastSeen": "February 24, 2019, Archer's Creek, Beaufort County, South Carolina",
+    "tags": [
+      "vehicular homicide",
+      "South Carolina",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Mallory Beach death - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murdaugh_murders#Boat_crash"
+      },
+      {
+        "title": "Beach family lawsuit - Island Packet",
+        "url": "https://www.islandpacket.com/news/local/crime/murdaugh-boat-crash/"
+      }
+    ],
+    "narrative": [
+      "On February 24, 2019, Paul Murdaugh, 19, crashed a boat into a bridge piling in Archer's Creek near Parris Island, South Carolina. Six passengers were thrown into the dark, cold water. Mallory Beach, 19, was killed—her body found seven days later.",
+      "Paul was severely intoxicated at the time and had been operating the boat recklessly at high speed. Witnesses said he was belligerent and aggressive before the crash.",
+      "The Murdaugh family's legal influence in the Lowcountry allegedly led to preferential treatment during the investigation. A Highway Patrol officer attempted to obtain blood from a different passenger instead of Paul.",
+      "Paul was charged with boating under the influence resulting in death and great bodily injury, but was murdered alongside his mother Maggie on June 7, 2021, before his trial could take place."
+    ],
+    "timeline": [
+      {
+        "date": "2019-02-24",
+        "event": "Boat crash kills Mallory Beach."
+      },
+      {
+        "date": "2021-06-07",
+        "event": "Paul Murdaugh murdered before his trial."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "somerton-man-identity-2022",
+    "name": "Somerton Man (identified)",
+    "type": "Unidentified Person",
+    "status": "Solved",
+    "year": 2022,
+    "date": "July 26, 2022",
+    "state": "Australia",
+    "city": "Adelaide",
+    "country": "Australia",
+    "age": 43,
+    "gender": "Male",
+    "summary": "The Somerton Man, found dead on an Australian beach in 1948, was identified in 2022 through DNA analysis as Carl Webb, an electrical engineer from Melbourne.",
+    "lastSeen": "December 1, 1948, Somerton Park beach, Adelaide, South Australia",
+    "tags": [
+      "unidentified person",
+      "Australia",
+      "1940s",
+      "DNA",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Tamam Shud case identification - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tamam_Shud_case"
+      },
+      {
+        "title": "Somerton Man identified - ABC Australia",
+        "url": "https://www.abc.net.au/news/2022-07-26/somerton-man-identified-carl-webb/"
+      }
+    ],
+    "narrative": [
+      "The Somerton Man was found dead on Somerton Park beach in Adelaide, South Australia on December 1, 1948. His identity remained one of the world's greatest mysteries for over 70 years.",
+      "In 2022, Professor Derek Abbott of the University of Adelaide announced that DNA analysis had identified the man as Carl 'Charles' Webb, born in 1905 in Melbourne, Victoria. Webb was an electrical engineer who had been married.",
+      "The identification was achieved through genealogical DNA research using hair samples taken from the man's death mask. Webb's DNA matched descendants of his family.",
+      "While Webb's identity was finally established, the cause and manner of his death remain debated—whether it was suicide, poisoning, or natural causes has never been definitively determined."
+    ],
+    "timeline": [
+      {
+        "date": "1948-12-01",
+        "event": "Unknown man found dead on Somerton Park beach."
+      },
+      {
+        "date": "2022-07-26",
+        "event": "Identified as Carl Webb through DNA analysis."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "dena-dean-2001-uk",
+    "name": "Dena Dean",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2001,
+    "date": "February 5, 2001",
+    "state": "United Kingdom",
+    "city": "Tamworth",
+    "country": "United Kingdom",
+    "age": 15,
+    "gender": "Female",
+    "summary": "Fifteen-year-old Dena Dean was found stabbed to death in a park in Tamworth, England on her way to school. Despite extensive investigation, her killer has never been identified.",
+    "lastSeen": "February 5, 2001, Wigginton Park, Tamworth, Staffordshire, England",
+    "tags": [
+      "homicide",
+      "child",
+      "United Kingdom",
+      "2000s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Dena Dean - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Dena_Dean"
+      },
+      {
+        "title": "Dean case - Staffordshire Police",
+        "url": "https://www.staffordshire.police.uk/cold-cases/dena-dean/"
+      }
+    ],
+    "narrative": [
+      "On February 5, 2001, fifteen-year-old Dena Dean was found stabbed in Wigginton Park in Tamworth, Staffordshire, England. She had been walking through the park on her way to school.",
+      "Dena had been stabbed multiple times. Despite hundreds of witnesses being in the area at the time, no one reported seeing the attack.",
+      "Staffordshire Police launched a massive investigation, interviewing thousands of people and conducting extensive forensic analysis. DNA evidence was recovered but has not led to a match.",
+      "The case remains open. Police have issued periodic appeals for information and conducted cold case reviews. No suspect has ever been publicly identified."
+    ],
+    "timeline": [
+      {
+        "date": "2001-02-05",
+        "event": "Dena Dean found stabbed in Wigginton Park."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "terri-bevers-midlothian",
+    "name": "Camp Gladiator Slaying (detail)",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2016,
+    "date": "April 18, 2016",
+    "state": "Texas",
+    "city": "Midlothian",
+    "age": 45,
+    "gender": "Female",
+    "summary": "The distinctive gait of the tactical-gear-clad suspect in the Missy Bevers murder has been extensively analyzed. The suspect's identity remains unknown despite clear surveillance footage.",
+    "lastSeen": "April 18, 2016, Creekside Church, Midlothian, Texas",
+    "tags": [
+      "homicide",
+      "Texas",
+      "2010s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Bevers case analysis - Fort Worth Star-Telegram",
+        "url": "https://www.star-telegram.com/news/local/community/midlothian/missy-bevers/"
+      },
+      {
+        "title": "Gait analysis - Midlothian PD",
+        "url": "https://www.midlothian.tx.us/CivicAlerts.aspx?AID=bevers-suspect"
+      }
+    ],
+    "narrative": [
+      "The suspect in the Missy Bevers murder was captured on church surveillance video walking through the building wearing full SWAT-style gear including a helmet with face shield. The footage shows the suspect's distinctive gait.",
+      "Gait analysis experts have studied the footage extensively. Some have suggested the suspect may have a physical condition affecting their walk, or may be deliberately disguising their movement.",
+      "The suspect's build and movement patterns have led to debate about whether the killer is male or female. The tactical gear effectively concealed all identifying features.",
+      "Midlothian police have investigated numerous persons of interest but have been unable to identify the suspect despite the unusually clear surveillance footage."
+    ],
+    "timeline": [
+      {
+        "date": "2016-04-18",
+        "event": "Suspect captured on surveillance video before Bevers murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "tupac-murder-keffe-d-2023",
+    "name": "Tupac Shakur (arrest)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "September 29, 2023",
+    "state": "Nevada",
+    "city": "Las Vegas",
+    "age": null,
+    "gender": "Male",
+    "summary": "In 2023, Duane 'Keffe D' Davis was arrested and charged with the 1996 murder of Tupac Shakur in Las Vegas. He had implicated himself in interviews and a memoir.",
+    "lastSeen": "September 7, 1996, Las Vegas Boulevard, Las Vegas, Nevada",
+    "tags": [
+      "homicide",
+      "Nevada",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Arrest in Tupac murder - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Tupac_Shakur"
+      },
+      {
+        "title": "Keffe D indictment - Las Vegas Review-Journal",
+        "url": "https://www.reviewjournal.com/crime/tupac-shakur-murder-keffe-d-arrest/"
+      },
+      {
+        "title": "Davis arrest - CNN",
+        "url": "https://www.cnn.com/2023/09/29/entertainment/tupac-shakur-arrest/index.html"
+      }
+    ],
+    "narrative": [
+      "On September 29, 2023, Duane Keith 'Keffe D' Davis was arrested and indicted for the September 7, 1996 murder of rapper Tupac Shakur in Las Vegas. Davis was charged with murder with a deadly weapon with a gang enhancement.",
+      "Davis had been in the white Cadillac from which the fatal shots were fired. He had admitted his involvement in multiple interviews, a BET documentary, and his 2019 memoir, believing he was protected by immunity from a 2009 federal proffer agreement.",
+      "The grand jury indictment alleged that Davis orchestrated the attack in retaliation for an assault on his nephew Orlando Anderson at the MGM Grand hotel earlier that evening. Anderson, the suspected shooter, was killed in 1998.",
+      "Davis pleaded not guilty. His trial is expected in 2025. He faces life in prison if convicted. The case is notable as one of the longest gaps between a murder and an arrest in a high-profile case."
+    ],
+    "timeline": [
+      {
+        "date": "1996-09-07",
+        "event": "Tupac Shakur shot in Las Vegas."
+      },
+      {
+        "date": "1996-09-13",
+        "event": "Tupac dies from wounds."
+      },
+      {
+        "date": "2023-09-29",
+        "event": "Duane 'Keffe D' Davis arrested for the murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sarah-boone-suitcase-2020",
+    "name": "Jorge Torres Jr.",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "February 23, 2020",
+    "state": "Florida",
+    "city": "Winter Park",
+    "age": 42,
+    "gender": "Male",
+    "summary": "Jorge Torres Jr. was found dead inside a suitcase in Winter Park, Florida. His girlfriend Sarah Boone claimed he died during a hide-and-seek game. She filmed him begging to be let out.",
+    "lastSeen": "February 23, 2020, their apartment in Winter Park, Florida",
+    "tags": [
+      "homicide",
+      "Florida",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Sarah Boone case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Jorge_Torres_Jr."
+      },
+      {
+        "title": "Boone trial - Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/crime/sarah-boone/"
+      },
+      {
+        "title": "Suitcase death - CNN",
+        "url": "https://www.cnn.com/2024/sarah-boone-suitcase-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On February 23, 2020, Sarah Boone called 911 to report that her boyfriend Jorge Torres Jr., 42, was dead inside a suitcase in their Winter Park, Florida apartment. She claimed they had been playing hide-and-seek while drinking and she had fallen asleep.",
+      "Police found videos on Boone's phone that told a different story. In the recordings, Torres can be heard begging to be let out, saying he couldn't breathe. Boone is heard laughing and taunting him.",
+      "The medical examiner determined Torres died of suffocation. His death was ruled a homicide.",
+      "Boone was charged with second-degree murder. The case was delayed extensively as she cycled through multiple attorneys. She was convicted in 2024 and sentenced to life in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2020-02-23",
+        "event": "Jorge Torres Jr. found dead in a suitcase."
+      },
+      {
+        "date": "2024-10-01",
+        "event": "Sarah Boone convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "carlee-russell-hoax-2023",
+    "name": "Carlee Russell Hoax",
+    "type": "Hoax",
+    "status": "Solved",
+    "year": 2023,
+    "date": "July 13, 2023",
+    "state": "Alabama",
+    "city": "Hoover",
+    "age": 25,
+    "gender": "Female",
+    "summary": "Carlee Russell faked her own kidnapping in Hoover, Alabama, sparking a massive search. She returned home two days later. She had researched Amber Alerts and kidnapping beforehand.",
+    "lastSeen": "July 13, 2023, Interstate 459, Hoover, Alabama",
+    "tags": [
+      "hoax",
+      "Alabama",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Carlee Russell case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Carlee_Russell"
+      },
+      {
+        "title": "Russell hoax - AL.com",
+        "url": "https://www.al.com/news/birmingham/carlee-russell/"
+      },
+      {
+        "title": "Russell charges - CNN",
+        "url": "https://www.cnn.com/2023/07/21/us/carlee-russell-hoover-alabama/index.html"
+      }
+    ],
+    "narrative": [
+      "On July 13, 2023, Carlee Russell, 25, called 911 reporting she had spotted a toddler walking alone on Interstate 459 in Hoover, Alabama. She then disappeared, triggering a massive search operation.",
+      "Russell returned to her family's home two days later with a story about being kidnapped by a man and a woman who held her captive. She described being bound and escaping.",
+      "Investigation quickly revealed the story was fabricated. Russell's phone showed she had searched for Amber Alerts, how to take money from a register without being caught, and one-way bus tickets in the days before her disappearance. No toddler was ever on the highway.",
+      "Russell was charged with filing a false police report and falsely reporting an incident. She pleaded guilty and was sentenced to a year of community service and ordered to reimburse search costs."
+    ],
+    "timeline": [
+      {
+        "date": "2023-07-13",
+        "event": "Russell disappears; massive search launched."
+      },
+      {
+        "date": "2023-07-15",
+        "event": "Russell returns home; story begins to unravel."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "chad-isaak-2019",
+    "name": "RJR Maintenance Murders",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "April 1, 2019",
+    "state": "North Dakota",
+    "city": "Mandan",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Four people were murdered at RJR Maintenance in Mandan, North Dakota. Chiropractor Chad Isaak, a tenant of the property management company, was convicted after his car was caught on surveillance.",
+    "lastSeen": "April 1, 2019, RJR Maintenance & Management, Mandan, North Dakota",
+    "tags": [
+      "homicide",
+      "North Dakota",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Mandan murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Mandan_murders"
+      },
+      {
+        "title": "Isaak conviction - Bismarck Tribune",
+        "url": "https://bismarcktribune.com/news/local/crime-and-courts/chad-isaak/"
+      },
+      {
+        "title": "Mandan quadruple homicide - AP",
+        "url": "https://apnews.com/article/mandan-north-dakota-murders-chad-isaak"
+      }
+    ],
+    "narrative": [
+      "On April 1, 2019, four people were found shot and stabbed at RJR Maintenance & Management in Mandan, North Dakota. The victims were property manager Robert Fakler (52), and employees Adam Fuehrer (42), Bill Cobb (50), and Lois Cobb (45).",
+      "Surveillance cameras in the area captured a distinctive pickup truck and SUV near the business at the time of the murders. The vehicles were traced to Chad Isaak, 44, a chiropractor from Washburn, North Dakota.",
+      "Isaak was a tenant of the property management company. He had disputes with management about property maintenance issues. Bloody clothing and a knife matching the crime were found in his home.",
+      "Isaak was convicted of four counts of murder in 2021 and sentenced to four consecutive life sentences without parole. His motive was never fully established beyond the landlord-tenant dispute."
+    ],
+    "timeline": [
+      {
+        "date": "2019-04-01",
+        "event": "Four murdered at RJR Maintenance in Mandan."
+      },
+      {
+        "date": "2021-08-19",
+        "event": "Chad Isaak convicted; sentenced to four life terms."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "check-fraud-killer-2019",
+    "name": "Ahmaud Arbery (Glynn County detail)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "February 23, 2020",
+    "state": "Georgia",
+    "city": "Satilla Shores",
+    "age": 25,
+    "gender": "Male",
+    "summary": "The original Glynn County DA Jackie Johnson was indicted for showing favoritism to the McMichaels due to Greg McMichael's work in her office. She was convicted of violating her oath.",
+    "lastSeen": "February 23, 2020, Satilla Shores, Glynn County, Georgia",
+    "tags": [
+      "homicide",
+      "Georgia",
+      "2020s",
+      "prosecutorial misconduct",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Jackie Johnson indictment - AP",
+        "url": "https://apnews.com/article/ahmaud-arbery-jackie-johnson-indicted"
+      },
+      {
+        "title": "Johnson conviction - Atlanta Journal-Constitution",
+        "url": "https://www.ajc.com/news/jackie-johnson-arbery-conviction/"
+      }
+    ],
+    "narrative": [
+      "Jackie Johnson was the Glynn County District Attorney when Ahmaud Arbery was killed in February 2020. Gregory McMichael, one of the killers, was a retired investigator in her office.",
+      "Johnson recused herself from the case after it was assigned to her office but was accused of directing police not to arrest the McMichaels. The case sat dormant for over two months with no arrests.",
+      "In 2021, Johnson was indicted on charges of violating her oath of office and obstructing police. She allegedly showed preferential treatment to the McMichaels and directed officers not to make arrests.",
+      "Johnson was convicted of violating her oath of office in 2022 and sentenced to 12 months of probation and community service. The conviction was a rare instance of a prosecutor being held accountable for failing to pursue charges."
+    ],
+    "timeline": [
+      {
+        "date": "2020-02-23",
+        "event": "Ahmaud Arbery killed; no arrests made."
+      },
+      {
+        "date": "2021-09-02",
+        "event": "DA Jackie Johnson indicted."
+      },
+      {
+        "date": "2022-07-01",
+        "event": "Johnson convicted of oath violation."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "tylee-ryan-timeline-2019",
+    "name": "Lori Vallow Pre-Murder Timeline",
+    "type": "Conspiracy",
+    "status": "Solved",
+    "year": 2019,
+    "date": "July 11, 2019",
+    "state": "Arizona",
+    "city": "Chandler",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Before murdering her children, Lori Vallow's fourth husband Charles was shot by her brother Alex Cox, who claimed self-defense. Alex later died mysteriously. The deaths were connected to the cult beliefs.",
+    "lastSeen": "July 11, 2019, Charles Vallow's home in Chandler, Arizona",
+    "tags": [
+      "homicide",
+      "conspiracy",
+      "Arizona",
+      "2010s",
+      "cult",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Lori Vallow Daybell timeline - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lori_Vallow_Daybell"
+      },
+      {
+        "title": "Charles Vallow death - AZ Central",
+        "url": "https://www.azcentral.com/story/news/local/chandler/lori-vallow/"
+      },
+      {
+        "title": "Alex Cox death - East Idaho News",
+        "url": "https://www.eastidahonews.com/alex-cox-death/"
+      }
+    ],
+    "narrative": [
+      "On July 11, 2019, Lori Vallow's brother Alex Cox shot and killed Lori's estranged husband Charles Vallow in Chandler, Arizona. Alex claimed self-defense and was initially not charged.",
+      "Charles had filed for divorce from Lori, telling police she believed she was a translated being and had become dangerous. He had changed his life insurance beneficiary from Lori to his sister.",
+      "On December 12, 2019, Alex Cox was found dead in his Gilbert, Arizona bathroom. His death was initially attributed to natural causes but was later determined to involve fentanyl.",
+      "Investigators eventually connected these deaths to the broader pattern of killings orchestrated by Lori Vallow and Chad Daybell. Lori was charged with conspiracy to commit murder in Charles's death."
+    ],
+    "timeline": [
+      {
+        "date": "2019-07-11",
+        "event": "Alex Cox kills Charles Vallow in Chandler, AZ."
+      },
+      {
+        "date": "2019-12-12",
+        "event": "Alex Cox found dead."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "bryan-kohberger-trial-2025",
+    "name": "Bryan Kohberger Trial",
+    "type": "Homicide",
+    "status": "Pending Trial",
+    "year": 2025,
+    "date": "August 2025",
+    "state": "Idaho",
+    "city": "Boise",
+    "age": 30,
+    "gender": "Male",
+    "summary": "Bryan Kohberger's trial for the four Idaho student murders was moved to Boise due to publicity concerns. His defense planned an alibi claiming he was driving alone at the time of the murders.",
+    "lastSeen": "Trial venue: Ada County Courthouse, Boise, Idaho",
+    "tags": [
+      "homicide",
+      "Idaho",
+      "2020s",
+      "pending trial"
+    ],
+    "sources": [
+      {
+        "title": "Kohberger trial venue change - Moscow-Pullman Daily News",
+        "url": "https://dnews.com/kohberger-venue-change/"
+      },
+      {
+        "title": "Kohberger defense strategy - NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/bryan-kohberger-alibi-defense/"
+      }
+    ],
+    "narrative": [
+      "Bryan Kohberger's murder trial was moved from Moscow to Boise, Idaho due to extensive media coverage that made finding impartial jurors in the small college town impossible.",
+      "Kohberger's defense team has indicated they will present an alibi defense, claiming he was out driving alone at the time of the murders—a habit he engaged in regularly. They have challenged the DNA evidence and cell phone tracking methods used.",
+      "The prosecution's case relies heavily on genetic genealogy DNA from a knife sheath left at the scene, cell phone location data, and surveillance footage of Kohberger's white Hyundai Elantra.",
+      "The trial is one of the most anticipated criminal proceedings in 2025, with intense public interest and extensive pretrial litigation over evidence admissibility."
+    ],
+    "timeline": [
+      {
+        "date": "2022-11-13",
+        "event": "Four students murdered in Moscow, Idaho."
+      },
+      {
+        "date": "2022-12-30",
+        "event": "Kohberger arrested in Pennsylvania."
+      },
+      {
+        "date": "2025-08-01",
+        "event": "Trial expected to begin in Boise."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "karen-read-murder-trial-2024",
+    "name": "Karen Read Trial",
+    "type": "Homicide",
+    "status": "Pending",
+    "year": 2024,
+    "date": "January 29, 2022",
+    "state": "Massachusetts",
+    "city": "Canton",
+    "age": null,
+    "gender": "Female",
+    "summary": "Karen Read was charged with killing her boyfriend John O'Keefe by hitting him with her car in Canton, Massachusetts. Her first trial ended in a mistrial. Defense claims a cover-up.",
+    "lastSeen": "January 29, 2022, 34 Fairview Road, Canton, Massachusetts",
+    "tags": [
+      "homicide",
+      "Massachusetts",
+      "2020s",
+      "pending"
+    ],
+    "sources": [
+      {
+        "title": "Karen Read case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_John_O%27Keefe_(police_officer)"
+      },
+      {
+        "title": "Read trial - Boston Globe",
+        "url": "https://www.bostonglobe.com/metro/karen-read/"
+      },
+      {
+        "title": "Read mistrial - CNN",
+        "url": "https://www.cnn.com/2024/07/01/us/karen-read-trial-mistrial/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 29, 2022, Boston police officer John O'Keefe was found dead outside a home in Canton, Massachusetts after a night of drinking. His girlfriend Karen Read was charged with second-degree murder, alleging she struck him with her SUV.",
+      "Read's defense team mounted an aggressive counter-narrative, alleging that O'Keefe was killed inside the Canton home during an altercation with the homeowner, and that a police cover-up followed because multiple witnesses were law enforcement.",
+      "The defense pointed to DNA evidence of a dog attack, the homeowner's Google search for 'how long to die in cold,' and alleged witness intimidation. The case polarized the community with 'Free Karen Read' signs appearing everywhere.",
+      "Read's first trial ended in a mistrial in July 2024 after the jury was unable to reach a unanimous verdict. A retrial was scheduled."
+    ],
+    "timeline": [
+      {
+        "date": "2022-01-29",
+        "event": "John O'Keefe found dead outside Canton home."
+      },
+      {
+        "date": "2024-07-01",
+        "event": "First trial ends in mistrial."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gilgo-beach-rex-heuermann-2023",
+    "name": "Rex Heuermann",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2023,
+    "date": "July 14, 2023",
+    "state": "New York",
+    "city": "Massapequa Park",
+    "age": 59,
+    "gender": "Male",
+    "summary": "Architect Rex Heuermann was arrested in July 2023 for the Gilgo Beach serial killings. DNA from pizza crusts and digital evidence linked him to victims dating back to the late 1990s.",
+    "lastSeen": "July 14, 2023, Massapequa Park, Long Island, New York",
+    "tags": [
+      "serial killer",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Rex Heuermann - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rex_Heuermann"
+      },
+      {
+        "title": "Heuermann arrest - Newsday",
+        "url": "https://www.newsday.com/long-island/gilgo-beach-murders-rex-heuermann/"
+      },
+      {
+        "title": "Gilgo Beach arrest - CNN",
+        "url": "https://www.cnn.com/2023/07/14/us/gilgo-beach-murders-arrest/index.html"
+      }
+    ],
+    "narrative": [
+      "On July 14, 2023, Rex Heuermann, a 59-year-old architect from Massapequa Park, Long Island, was arrested and charged with the murders of three women whose remains were found near Gilgo Beach in 2010. He was later charged with additional murders.",
+      "Heuermann had hidden in plain sight for over a decade. He commuted to Manhattan for work, lived with his wife and children in a suburban home, and appeared to be an ordinary professional.",
+      "The breakthrough came from DNA evidence obtained from pizza crusts discarded by Heuermann, matched against DNA found on a burlap sack containing one victim. Digital forensics revealed burner phones used to contact victims.",
+      "Heuermann was initially charged with four murders: Melissa Barthelemy, Megan Waterman, Amber Costello, and Maureen Brainard-Barnes. Additional charges followed for Jessica Taylor and Sandra Costilla."
+    ],
+    "timeline": [
+      {
+        "date": "2023-07-14",
+        "event": "Rex Heuermann arrested for Gilgo Beach murders."
+      },
+      {
+        "date": "2024-01-16",
+        "event": "Charged with additional murders."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alex-jones-infowars-sandy-hook",
+    "name": "Sandy Hook Defamation Cases",
+    "type": "Defamation",
+    "status": "Solved",
+    "year": 2022,
+    "date": "October 12, 2022",
+    "state": "Connecticut",
+    "city": "Waterbury",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Alex Jones was found liable for defaming Sandy Hook families by calling the massacre a hoax. Combined judgments exceeded $1.4 billion. The cases established precedent for conspiracy theory accountability.",
+    "lastSeen": "October 12, 2022, Waterbury Superior Court, Connecticut",
+    "tags": [
+      "defamation",
+      "Connecticut",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Alex Jones Sandy Hook lawsuits - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories"
+      },
+      {
+        "title": "Jones verdict - New York Times",
+        "url": "https://www.nytimes.com/2022/10/12/us/alex-jones-sandy-hook-trial.html"
+      },
+      {
+        "title": "Jones damages - CNN",
+        "url": "https://www.cnn.com/2022/10/12/us/alex-jones-sandy-hook-damages/index.html"
+      }
+    ],
+    "narrative": [
+      "Alex Jones, host of InfoWars, spent years claiming that the 2012 Sandy Hook Elementary School shooting was a 'false flag' operation with 'crisis actors.' His followers harassed and threatened grieving families.",
+      "Multiple families filed defamation lawsuits against Jones. In August 2022, a Texas jury awarded $49 million to the parents of one victim. In October 2022, a Connecticut jury awarded $965 million to multiple families.",
+      "Combined with a separate $473 million award from a Connecticut judge for attorneys' fees, total judgments against Jones exceeded $1.4 billion—among the largest defamation awards in U.S. history.",
+      "Jones filed for personal and corporate bankruptcy. InfoWars was eventually sold. The cases established important precedent regarding accountability for conspiracy theories that target real victims."
+    ],
+    "timeline": [
+      {
+        "date": "2022-08-05",
+        "event": "Texas jury awards $49 million to Sandy Hook family."
+      },
+      {
+        "date": "2022-10-12",
+        "event": "Connecticut jury awards $965 million to families."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "daniel-penny-nyc-2023",
+    "name": "Jordan Neely",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2023,
+    "date": "May 1, 2023",
+    "state": "New York",
+    "city": "New York City",
+    "age": 30,
+    "gender": "Male",
+    "summary": "Jordan Neely, a homeless man experiencing a mental health crisis on a subway, was placed in a fatal chokehold by Daniel Penny. The case sparked debate about mental health, homelessness, and self-defense.",
+    "lastSeen": "May 1, 2023, F train, Broadway-Lafayette station, Manhattan, New York City",
+    "tags": [
+      "homicide",
+      "New York",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Jordan Neely - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Jordan_Neely"
+      },
+      {
+        "title": "Penny trial - New York Times",
+        "url": "https://www.nytimes.com/news-event/daniel-penny-trial"
+      },
+      {
+        "title": "Neely death - CNN",
+        "url": "https://www.cnn.com/2023/05/03/us/jordan-neely-nyc-subway-chokehold/index.html"
+      }
+    ],
+    "narrative": [
+      "On May 1, 2023, Jordan Neely, 30, a homeless man known for his Michael Jackson impersonations, boarded an F train in Manhattan and began yelling that he was hungry and tired and didn't care if he went to prison. Witnesses said he threw his jacket on the floor.",
+      "Daniel Penny, 24, a Marine veteran, placed Neely in a chokehold from behind. Other passengers helped restrain Neely. Penny held the chokehold for approximately six minutes. Neely was pronounced dead at the hospital.",
+      "Penny was charged with second-degree manslaughter and criminally negligent homicide. The case became highly politicized, with some calling Penny a hero and others calling it unjustified killing.",
+      "In December 2024, Penny was acquitted of all charges by a jury that found he acted reasonably given the circumstances. The verdict further polarized public opinion."
+    ],
+    "timeline": [
+      {
+        "date": "2023-05-01",
+        "event": "Jordan Neely killed in chokehold on subway."
+      },
+      {
+        "date": "2024-12-09",
+        "event": "Daniel Penny acquitted."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "idaho-cult-murders-overview",
+    "name": "Daybell-Vallow Death Toll",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 2019,
+    "date": "2019-2020",
+    "state": "Idaho",
+    "city": "Multiple",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "The Daybell-Vallow case involved five deaths connected to apocalyptic religious beliefs: Tammy Daybell, JJ Vallow, Tylee Ryan, Charles Vallow, and Alex Cox. Chad and Lori received death and life sentences.",
+    "lastSeen": "Various locations in Idaho, Arizona",
+    "tags": [
+      "serial murder",
+      "Idaho",
+      "Arizona",
+      "2010s",
+      "cult",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Daybell-Vallow murders - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chad_Daybell"
+      },
+      {
+        "title": "Complete timeline - East Idaho News",
+        "url": "https://www.eastidahonews.com/daybell-vallow-complete-timeline/"
+      },
+      {
+        "title": "Final sentences - CNN",
+        "url": "https://www.cnn.com/2024/06/01/us/chad-daybell-sentence/index.html"
+      }
+    ],
+    "narrative": [
+      "The Daybell-Vallow case involved five deaths connected to extreme apocalyptic beliefs held by Chad Daybell and Lori Vallow. They believed certain people around them had become 'dark' or 'zombies' who needed to be eliminated.",
+      "Charles Vallow was shot by Lori's brother Alex Cox in July 2019. Tylee Ryan and JJ Vallow were murdered in September 2019. Tammy Daybell was killed in October 2019. Alex Cox died in December 2019.",
+      "Chad Daybell was convicted of three murders (Tammy, Tylee, and JJ) and sentenced to death in June 2024. Lori Vallow was convicted of the same three murders and sentenced to life without parole in 2023.",
+      "The case exposed a subculture of extreme religious preparedness beliefs and raised questions about how fringe ideologies can lead to violence."
+    ],
+    "timeline": [
+      {
+        "date": "2019-07-11",
+        "event": "Charles Vallow killed."
+      },
+      {
+        "date": "2019-09-23",
+        "event": "Tylee and JJ murdered."
+      },
+      {
+        "date": "2019-10-19",
+        "event": "Tammy Daybell murdered."
+      },
+      {
+        "date": "2024-06-01",
+        "event": "Chad Daybell sentenced to death."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alex-murdaugh-financial-crimes",
+    "name": "Murdaugh Financial Crimes",
+    "type": "Fraud",
+    "status": "Solved",
+    "year": 2023,
+    "date": "November 28, 2023",
+    "state": "South Carolina",
+    "city": "Hampton",
+    "age": 55,
+    "gender": "Male",
+    "summary": "Beyond the murders, Alex Murdaugh stole over $8.7 million from clients, including vulnerable accident victims and the family of his dead housekeeper. He received an additional 27-year sentence for financial crimes.",
+    "lastSeen": "Various dates, Hampton County, South Carolina",
+    "tags": [
+      "fraud",
+      "South Carolina",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murdaugh financial crimes - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murdaugh_murders#Financial_crimes"
+      },
+      {
+        "title": "Murdaugh fraud sentencing - Post and Courier",
+        "url": "https://www.postandcourier.com/murdaugh/financial-crimes/"
+      },
+      {
+        "title": "Victims impact - CNN",
+        "url": "https://www.cnn.com/2023/11/28/us/alex-murdaugh-financial-crimes-sentencing/index.html"
+      }
+    ],
+    "narrative": [
+      "Alex Murdaugh's financial crimes extended far beyond the Gloria Satterfield insurance fraud. He stole from at least 18 victims over more than a decade, targeting vulnerable clients of his law firm.",
+      "Victims included the family of a deaf quadriplegic man, families who had lost loved ones in accidents, and former domestic workers. Murdaugh used a fictitious entity called 'Forge' to intercept settlement checks.",
+      "In total, Murdaugh admitted to stealing approximately $8.7 million. He had used the money to fund an opioid addiction and maintain his lifestyle.",
+      "In November 2023, Murdaugh pleaded guilty to 22 counts of state financial crimes and was sentenced to 27 years—running consecutive to his two life sentences for murder."
+    ],
+    "timeline": [
+      {
+        "date": "2023-11-28",
+        "event": "Murdaugh sentenced to 27 years for financial crimes."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "nancy-brophy-2018",
+    "name": "Daniel Brophy",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "June 2, 2018",
+    "state": "Oregon",
+    "city": "Portland",
+    "age": 63,
+    "gender": "Male",
+    "summary": "Chef Daniel Brophy was murdered at the Oregon Culinary Institute. His wife Nancy, a romance novelist who wrote an essay called 'How to Murder Your Husband,' was convicted of his murder.",
+    "lastSeen": "June 2, 2018, Oregon Culinary Institute, Portland, Oregon",
+    "tags": [
+      "homicide",
+      "Oregon",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Nancy Brophy case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nancy_Brophy"
+      },
+      {
+        "title": "Brophy trial - Oregonian",
+        "url": "https://www.oregonlive.com/crime/nancy-brophy/"
+      },
+      {
+        "title": "How to Murder Your Husband - CNN",
+        "url": "https://www.cnn.com/2022/04/04/us/nancy-brophy-murder-husband-essay/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 2, 2018, chef and instructor Daniel Brophy was found shot dead in the kitchen of the Oregon Culinary Institute in Portland where he taught early morning classes.",
+      "Investigation revealed that his wife Nancy Crampton Brophy, a self-published romance novelist, had purchased a gun and a ghost gun kit in the months before the murder. Surveillance footage placed her near the culinary school at the time of the killing.",
+      "Nancy had written a blog post in 2011 titled 'How to Murder Your Husband,' in which she discussed various methods and motives for spousal murder. The essay was admitted as evidence at trial.",
+      "Nancy Brophy was convicted of murder in 2022 and sentenced to life with the possibility of parole after 25 years. Her motive appeared to be financial—Daniel had a $1.4 million life insurance policy."
+    ],
+    "timeline": [
+      {
+        "date": "2018-06-02",
+        "event": "Daniel Brophy found shot at Oregon Culinary Institute."
+      },
+      {
+        "date": "2022-05-25",
+        "event": "Nancy Brophy convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alec-baldwin-rust-2021",
+    "name": "Halyna Hutchins",
+    "type": "Accidental Shooting",
+    "status": "Solved",
+    "year": 2021,
+    "date": "October 21, 2021",
+    "state": "New Mexico",
+    "city": "Santa Fe",
+    "age": 42,
+    "gender": "Female",
+    "summary": "Cinematographer Halyna Hutchins was shot and killed by a prop gun fired by Alec Baldwin on the set of 'Rust.' Armorer Hannah Gutierrez-Reed was convicted of involuntary manslaughter.",
+    "lastSeen": "October 21, 2021, Bonanza Creek Ranch, Santa Fe, New Mexico",
+    "tags": [
+      "accidental shooting",
+      "New Mexico",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Rust shooting - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rust_shooting_incident"
+      },
+      {
+        "title": "Baldwin case - Santa Fe New Mexican",
+        "url": "https://www.santafenewmexican.com/news/local_news/rust-shooting/"
+      },
+      {
+        "title": "Gutierrez-Reed conviction - CNN",
+        "url": "https://www.cnn.com/2024/03/06/entertainment/hannah-gutierrez-reed-verdict/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 21, 2021, during a rehearsal for the film 'Rust' at Bonanza Creek Ranch near Santa Fe, New Mexico, actor Alec Baldwin discharged a prop gun that was loaded with a live round. The bullet struck cinematographer Halyna Hutchins, 42, killing her, and injured director Joel Souza.",
+      "The investigation focused on how a live round ended up in a gun on a film set. Armorer Hannah Gutierrez-Reed was responsible for firearms safety on set. Multiple crew members had previously raised safety concerns.",
+      "Gutierrez-Reed was convicted of involuntary manslaughter in March 2024 and sentenced to 18 months in prison. She was found to have been negligent in her duties as armorer.",
+      "Charges against Baldwin were initially filed, then dropped, then refiled. His trial in July 2024 was dismissed with prejudice after the judge found prosecutors had withheld evidence from the defense."
+    ],
+    "timeline": [
+      {
+        "date": "2021-10-21",
+        "event": "Halyna Hutchins shot on Rust film set."
+      },
+      {
+        "date": "2024-03-06",
+        "event": "Armorer Gutierrez-Reed convicted."
+      },
+      {
+        "date": "2024-07-12",
+        "event": "Baldwin case dismissed with prejudice."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "fotis-dulos-death-2020",
+    "name": "Fotis Dulos (death)",
+    "type": "Suicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "January 30, 2020",
+    "state": "Connecticut",
+    "city": "Farmington",
+    "age": 52,
+    "gender": "Male",
+    "summary": "Fotis Dulos, charged with the murder of his wife Jennifer, attempted suicide by carbon monoxide poisoning in his garage while awaiting trial. He died two days later without ever standing trial.",
+    "lastSeen": "January 28, 2020, his home in Farmington, Connecticut",
+    "tags": [
+      "suicide",
+      "Connecticut",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Fotis Dulos - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Jennifer_Dulos"
+      },
+      {
+        "title": "Fotis Dulos death - Hartford Courant",
+        "url": "https://www.courant.com/news/connecticut/fotis-dulos-death/"
+      }
+    ],
+    "narrative": [
+      "On January 28, 2020, Fotis Dulos was found in his running car in the garage of his Farmington, Connecticut home with the garage door closed. He was in cardiac arrest from carbon monoxide poisoning.",
+      "He was rushed to the hospital and placed on life support but never regained consciousness. He was pronounced dead on January 30, 2020—just hours before a court hearing where prosecutors planned to increase his bond.",
+      "Fotis had been charged with murder, kidnapping, and other charges in the May 2019 disappearance and presumed death of his estranged wife Jennifer Dulos. He had maintained his innocence.",
+      "His death meant he never stood trial. The case against his co-conspirators continued, with Michelle Troconis eventually convicted of conspiracy to commit murder in 2024."
+    ],
+    "timeline": [
+      {
+        "date": "2020-01-28",
+        "event": "Fotis Dulos found in carbon monoxide-filled garage."
+      },
+      {
+        "date": "2020-01-30",
+        "event": "Fotis pronounced dead."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "nikki-kuhnhausen-2019",
+    "name": "Nikki Kuhnhausen",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2019,
+    "date": "June 6, 2019",
+    "state": "Washington",
+    "city": "Vancouver",
+    "age": 17,
+    "gender": "Female",
+    "summary": "Seventeen-year-old transgender girl Nikki Kuhnhausen was murdered by David Bogdanov after he discovered she was transgender. Her body was found months later. Bogdanov was convicted.",
+    "lastSeen": "June 6, 2019, Vancouver, Clark County, Washington",
+    "tags": [
+      "homicide",
+      "Washington",
+      "2010s",
+      "hate crime",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Nikki Kuhnhausen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Nikki_Kuhnhausen"
+      },
+      {
+        "title": "Kuhnhausen case - The Columbian",
+        "url": "https://www.columbian.com/news/nikki-kuhnhausen/"
+      },
+      {
+        "title": "Bogdanov conviction - KOIN",
+        "url": "https://www.koin.com/news/nikki-kuhnhausen-bogdanov-verdict/"
+      }
+    ],
+    "narrative": [
+      "On June 6, 2019, seventeen-year-old Nikki Kuhnhausen, a transgender girl, disappeared from Vancouver, Washington. She was last seen getting into a car with a man identified through social media as David Bogdanov.",
+      "Bogdanov initially denied knowing Nikki but cell phone records placed them together. He later admitted they had a sexual encounter and he killed her after discovering she was transgender.",
+      "Nikki's remains were found in a wooded area of Clark County in December 2019, six months after her disappearance. She had been strangled.",
+      "Bogdanov was convicted of second-degree murder in 2021 and sentenced to nearly 20 years in prison. Prosecutors were unable to charge it as a hate crime under Washington state law at the time."
+    ],
+    "timeline": [
+      {
+        "date": "2019-06-06",
+        "event": "Nikki Kuhnhausen disappears."
+      },
+      {
+        "date": "2019-12-07",
+        "event": "Her remains found."
+      },
+      {
+        "date": "2021-07-29",
+        "event": "Bogdanov convicted; sentenced to ~20 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "connor-betts-dayton-2019",
+    "name": "Dayton Shooting",
+    "type": "Mass Shooting",
+    "status": "Solved",
+    "year": 2019,
+    "date": "August 4, 2019",
+    "state": "Ohio",
+    "city": "Dayton",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Connor Betts opened fire in the Oregon District of Dayton, Ohio, killing nine people including his sister. Police shot him dead within 32 seconds of the first shots.",
+    "lastSeen": "August 4, 2019, Oregon District, Dayton, Ohio",
+    "tags": [
+      "mass shooting",
+      "Ohio",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "2019 Dayton shooting - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/2019_Dayton_shooting"
+      },
+      {
+        "title": "Dayton shooting - Dayton Daily News",
+        "url": "https://www.daytondailynews.com/news/dayton-shooting/"
+      },
+      {
+        "title": "Betts investigation - CNN",
+        "url": "https://www.cnn.com/2019/08/05/us/dayton-ohio-shooting/index.html"
+      }
+    ],
+    "narrative": [
+      "On August 4, 2019, at 1:05 a.m., 24-year-old Connor Betts opened fire with an AR-15 style pistol in the Oregon District entertainment area of Dayton, Ohio. In just 32 seconds, he killed nine people and wounded 17 others.",
+      "Among the dead was Betts's own sister, Megan Betts, 22. It remains unclear whether she was specifically targeted or killed in the indiscriminate shooting.",
+      "Police officers who were already stationed in the area responded immediately, shooting and killing Betts within 32 seconds. Investigators noted he carried 100-round drum magazines and could have killed far more.",
+      "Investigation revealed Betts had a history of violent ideation, including a 'hit list' and 'rape list' he created in high school. No clear political motive was established."
+    ],
+    "timeline": [
+      {
+        "date": "2019-08-04",
+        "event": "Connor Betts kills 9 in Oregon District; shot dead by police in 32 seconds."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "maleah-davis-cps-failures",
+    "name": "Maleah Davis (CPS failure)",
+    "type": "Child Welfare Failure",
+    "status": "Solved",
+    "year": 2019,
+    "date": "2019",
+    "state": "Texas",
+    "city": "Houston",
+    "age": 4,
+    "gender": "Female",
+    "summary": "Before her murder, Maleah Davis had been removed from her home by CPS after a skull fracture but was returned. The case exposed systemic failures in the Texas child welfare system.",
+    "lastSeen": "2019, Houston, Texas",
+    "tags": [
+      "child welfare failure",
+      "Texas",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "CPS failures - Houston Chronicle",
+        "url": "https://www.houstonchronicle.com/news/houston-texas/maleah-davis-cps/"
+      },
+      {
+        "title": "Texas child welfare reform - Texas Tribune",
+        "url": "https://www.texastribune.org/2019/maleah-davis-cps/"
+      }
+    ],
+    "narrative": [
+      "Before her murder in 2019, four-year-old Maleah Davis had been under the supervision of Texas Child Protective Services. In 2018, she was hospitalized with a severe skull fracture and brain bleed while in the care of her mother's boyfriend Derion Vence.",
+      "CPS removed Maleah and her siblings from the home. However, after a few months, the children were returned to the home with Vence still present, despite the unexplained injury.",
+      "After Maleah's murder, investigations revealed that CPS caseworkers had failed to follow up adequately and had accepted implausible explanations for her earlier injuries.",
+      "The case led to calls for reform of the Texas child welfare system, including demands for smaller caseloads, better training, and more aggressive intervention in cases of suspected abuse."
+    ],
+    "timeline": [
+      {
+        "date": "2018-08-01",
+        "event": "Maleah hospitalized with skull fracture; removed from home."
+      },
+      {
+        "date": "2019-02-01",
+        "event": "Maleah returned to home; Vence still present."
+      },
+      {
+        "date": "2019-04-30",
+        "event": "Maleah murdered by Vence."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "joel-guy-jr-2016",
+    "name": "Joel & Lisa Guy Sr.",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2016,
+    "date": "November 26, 2016",
+    "state": "Tennessee",
+    "city": "Knoxville",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Joel Guy Jr. murdered his parents over Thanksgiving weekend and dismembered them, dissolving body parts in acid. He was motivated by wanting to keep receiving financial support from them.",
+    "lastSeen": "November 26, 2016, their home in West Knox County, Tennessee",
+    "tags": [
+      "homicide",
+      "Tennessee",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Joel Guy Jr. - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Joel_Guy_Jr."
+      },
+      {
+        "title": "Guy trial - Knoxville News Sentinel",
+        "url": "https://www.knoxnews.com/story/news/crime/joel-guy-jr/"
+      },
+      {
+        "title": "Guy conviction - WBIR",
+        "url": "https://www.wbir.com/article/news/crime/joel-guy-jr-verdict/"
+      }
+    ],
+    "narrative": [
+      "Over Thanksgiving weekend 2016, Joel Guy Jr., 28, murdered both of his parents, Joel Sr. and Lisa Guy, at their home in West Knox County, Tennessee. His parents had planned to cut him off financially.",
+      "Guy stabbed both parents to death, then spent days dismembering their bodies. He placed body parts in containers of corrosive chemicals in an attempt to dissolve the remains. He also tried to destroy evidence by removing sections of carpet.",
+      "When police conducted a welfare check days later after concerned coworkers reported Lisa missing, they found the gruesome scene. Investigators also found Guy's handwritten notes detailing his murder plan, including 'get kill suit' and 'clean up mess.'",
+      "Joel Guy Jr. was convicted of two counts of first-degree murder and two counts of abuse of a corpse in 2020. He was sentenced to two consecutive life terms without parole."
+    ],
+    "timeline": [
+      {
+        "date": "2016-11-26",
+        "event": "Joel and Lisa Guy murdered by their son over Thanksgiving."
+      },
+      {
+        "date": "2020-10-02",
+        "event": "Joel Guy Jr. convicted; sentenced to two consecutive life terms."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "mark-redwine-2017",
+    "name": "Dylan Redwine (Mark Redwine trial)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2012,
+    "date": "November 19, 2012",
+    "state": "Colorado",
+    "city": "Durango",
+    "age": 13,
+    "gender": "Male",
+    "summary": "Thirteen-year-old Dylan Redwine was murdered during a court-ordered visit with his father Mark near Durango, Colorado. Mark was convicted in 2021 after Dylan's remains were found.",
+    "lastSeen": "November 19, 2012, Mark Redwine's home near Durango, Colorado",
+    "tags": [
+      "homicide",
+      "child",
+      "Colorado",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Dylan Redwine case - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Death_of_Dylan_Redwine"
+      },
+      {
+        "title": "Mark Redwine trial - Durango Herald",
+        "url": "https://www.durangoherald.com/dylan-redwine/"
+      },
+      {
+        "title": "Redwine conviction - CNN",
+        "url": "https://www.cnn.com/2021/07/16/us/mark-redwine-guilty-dylan-redwine/index.html"
+      }
+    ],
+    "narrative": [
+      "On November 19, 2012, thirteen-year-old Dylan Redwine disappeared during a court-ordered Thanksgiving visit with his father Mark near Durango, Colorado. Mark claimed Dylan was gone when he returned from errands.",
+      "Dylan's remains were found in 2013 and 2015 in two locations in the mountains near Durango—his skull about 10 miles from where other bones were found.",
+      "The motive was believed to involve photographs. Dylan had found embarrassing personal photos of his father before the visit and may have confronted him about them.",
+      "Mark Redwine was charged with murder in 2017 and convicted of second-degree murder and child abuse in 2021. He was sentenced to 48 years in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2012-11-19",
+        "event": "Dylan Redwine disappears during visit with father."
+      },
+      {
+        "date": "2021-07-16",
+        "event": "Mark Redwine convicted; sentenced to 48 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "letecia-stauch-2020",
+    "name": "Gannon Stauch (Letecia trial)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "January 27, 2020",
+    "state": "Colorado",
+    "city": "Colorado Springs",
+    "age": 11,
+    "gender": "Male",
+    "summary": "Letecia Stauch murdered her 11-year-old stepson Gannon in Colorado Springs and transported his body to Florida. She was found guilty but not guilty by reason of insanity and committed to a state institution.",
+    "lastSeen": "January 27, 2020, their home in Colorado Springs, Colorado",
+    "tags": [
+      "homicide",
+      "child",
+      "Colorado",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Gannon Stauch - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Gannon_Stauch"
+      },
+      {
+        "title": "Stauch trial - KRDO",
+        "url": "https://krdo.com/news/gannon-stauch/"
+      },
+      {
+        "title": "Stauch verdict - CNN",
+        "url": "https://www.cnn.com/2023/05/08/us/letecia-stauch-verdict/index.html"
+      }
+    ],
+    "narrative": [
+      "On January 27, 2020, eleven-year-old Gannon Stauch disappeared from his home in the Lorson Ranch neighborhood of Colorado Springs. His stepmother Letecia reported him as a runaway.",
+      "Evidence quickly pointed to Letecia. Surveillance footage, blood evidence in the home, and her suspicious behavior contradicted her claims. Gannon's father Al was deployed with the military at the time.",
+      "Gannon's remains were found in a suitcase under a bridge in Pace, Florida in March 2020. Letecia had driven across the country disposing of evidence.",
+      "Letecia Stauch was found not guilty by reason of insanity in 2023. The court determined she suffered from a mental illness that prevented her from understanding the nature of her actions. She was committed to a state psychiatric institution."
+    ],
+    "timeline": [
+      {
+        "date": "2020-01-27",
+        "event": "Gannon Stauch disappears."
+      },
+      {
+        "date": "2020-03-18",
+        "event": "His remains found in Florida."
+      },
+      {
+        "date": "2023-05-08",
+        "event": "Letecia found not guilty by reason of insanity."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alex-cox-death-2019",
+    "name": "Alex Cox",
+    "type": "Suspicious Death",
+    "status": "Solved",
+    "year": 2019,
+    "date": "December 12, 2019",
+    "state": "Arizona",
+    "city": "Gilbert",
+    "age": 51,
+    "gender": "Male",
+    "summary": "Alex Cox, brother of Lori Vallow, died suddenly weeks after killing Charles Vallow. His death was linked to the Daybell-Vallow conspiracy but officially attributed to blood clots and possible fentanyl.",
+    "lastSeen": "December 12, 2019, his home in Gilbert, Arizona",
+    "tags": [
+      "suspicious death",
+      "Arizona",
+      "2010s",
+      "cult",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Alex Cox death - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lori_Vallow_Daybell#Death_of_Alex_Cox"
+      },
+      {
+        "title": "Cox autopsy - AZ Central",
+        "url": "https://www.azcentral.com/story/news/local/alex-cox-death/"
+      }
+    ],
+    "narrative": [
+      "Alex Cox, Lori Vallow's brother, was found dead in his Gilbert, Arizona bathroom on December 12, 2019. He was 51 years old.",
+      "Cox had been central to the Daybell-Vallow conspiracy. He shot and killed Charles Vallow on July 11, 2019, claiming self-defense. He is also believed to have been directly involved in the murders of Tylee Ryan and JJ Vallow.",
+      "The medical examiner determined Cox died from bilateral pulmonary thromboemboli (blood clots in the lungs). Fentanyl was detected in his system at a level below what would typically be lethal.",
+      "Whether Cox's death was natural, an overdose, or murder by his co-conspirators remains unclear. His death occurred at a convenient time—just as investigators were beginning to ask questions about the missing children."
+    ],
+    "timeline": [
+      {
+        "date": "2019-07-11",
+        "event": "Cox kills Charles Vallow."
+      },
+      {
+        "date": "2019-12-12",
+        "event": "Cox found dead in his bathroom."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "suzanne-morphew-barry-2021",
+    "name": "Suzanne Morphew (Barry trial)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2020,
+    "date": "May 10, 2020",
+    "state": "Colorado",
+    "city": "Salida",
+    "age": 49,
+    "gender": "Female",
+    "summary": "Barry Morphew was initially charged with the murder of his wife Suzanne, but charges were dropped in 2022 due to lost evidence. Suzanne's remains were found in 2023 and new charges were filed.",
+    "lastSeen": "May 10, 2020, their home near Salida, Chaffee County, Colorado",
+    "tags": [
+      "homicide",
+      "Colorado",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Suzanne Morphew - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Suzanne_Morphew"
+      },
+      {
+        "title": "Morphew case update - Denver Post",
+        "url": "https://www.denverpost.com/tag/suzanne-morphew/"
+      },
+      {
+        "title": "Barry Morphew charges - CNN",
+        "url": "https://www.cnn.com/2022/04/19/us/suzanne-morphew-barry-charges-dropped/index.html"
+      }
+    ],
+    "narrative": [
+      "On Mother's Day 2020, Suzanne Morphew, 49, vanished from her home near Salida, Colorado. Her husband Barry said he was away on a work trip. Suzanne's bicycle was found near the home.",
+      "Barry Morphew was arrested and charged with first-degree murder in May 2021. However, in April 2022, prosecutors unexpectedly dropped all charges citing discovery violations and lost evidence.",
+      "In September 2023, Suzanne's remains were found in a remote area of Chaffee County. Barry was charged again with first-degree murder based on new evidence, including DNA and physical evidence from the remains site.",
+      "Barry Morphew pleaded guilty to lesser charges in 2024 to avoid a potential death sentence."
+    ],
+    "timeline": [
+      {
+        "date": "2020-05-10",
+        "event": "Suzanne Morphew disappears."
+      },
+      {
+        "date": "2022-04-19",
+        "event": "Charges against Barry dropped."
+      },
+      {
+        "date": "2023-09-22",
+        "event": "Suzanne's remains found; Barry recharged."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "stephen-smith-2015",
+    "name": "Stephen Smith",
+    "type": "Homicide",
+    "status": "Unsolved",
+    "year": 2015,
+    "date": "July 8, 2015",
+    "state": "South Carolina",
+    "city": "Hampton",
+    "age": 19,
+    "gender": "Male",
+    "summary": "Nineteen-year-old Stephen Smith was found dead on a rural Hampton County road. His death was ruled a hit-and-run but showed no vehicle evidence. Multiple witnesses named a Murdaugh connection.",
+    "lastSeen": "July 8, 2015, Sandy Run Road, Hampton County, South Carolina",
+    "tags": [
+      "homicide",
+      "South Carolina",
+      "2010s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Death of Stephen Smith - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murdaugh_murders#Death_of_Stephen_Smith"
+      },
+      {
+        "title": "Smith case - FITSNews",
+        "url": "https://www.fitsnews.com/stephen-smith/"
+      },
+      {
+        "title": "SLED investigation - Post and Courier",
+        "url": "https://www.postandcourier.com/murdaugh/stephen-smith/"
+      }
+    ],
+    "narrative": [
+      "On July 8, 2015, nineteen-year-old nursing student Stephen Smith was found dead in the middle of Sandy Run Road in rural Hampton County, South Carolina. He was a gay young man in a small, conservative community.",
+      "The initial investigation classified his death as a hit-and-run, but the pathologist noted that his injuries were inconsistent with a vehicle strike—there was no vehicle debris, no road rash, and his shoes were still on.",
+      "During the investigation, multiple witnesses mentioned the name 'Murdaugh' in connection with Stephen's death. Some said Buster Murdaugh, Paul's older brother, had a relationship with Stephen.",
+      "In 2022, after the Murdaugh murder case brought new scrutiny, SLED opened a homicide investigation into Stephen's death. His body was exhumed and his death was reclassified as homicide by blunt force trauma. No arrests have been made."
+    ],
+    "timeline": [
+      {
+        "date": "2015-07-08",
+        "event": "Stephen Smith found dead on Sandy Run Road."
+      },
+      {
+        "date": "2022-06-01",
+        "event": "SLED opens homicide investigation."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "brian-laundrie-notebook-2021",
+    "name": "Brian Laundrie (confession)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2021,
+    "date": "October 20, 2021",
+    "state": "Florida",
+    "city": "North Port",
+    "age": 23,
+    "gender": "Male",
+    "summary": "Brian Laundrie's remains were found in Carlton Reserve, Florida with a notebook confession. He admitted to killing Gabby Petito and wrote that he thought he was 'ending her life mercifully.'",
+    "lastSeen": "October 20, 2021, Carlton Reserve, North Port, Florida",
+    "tags": [
+      "homicide",
+      "Florida",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Brian Laundrie notebook - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito"
+      },
+      {
+        "title": "Notebook contents - Fox News",
+        "url": "https://www.foxnews.com/us/brian-laundrie-notebook-gabby-petito"
+      },
+      {
+        "title": "FBI statement - CNN",
+        "url": "https://www.cnn.com/2022/01/21/us/brian-laundrie-notebook-confession/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 20, 2021, Brian Laundrie's skeletal remains were found in Myakkahatchee Creek Environmental Park, adjacent to Carlton Reserve in North Port, Florida. He had been dead for approximately five weeks.",
+      "The FBI recovered a dry bag containing a notebook in which Laundrie confessed to killing Gabby Petito. He wrote that he 'ended her life' and claimed he did so because he thought she was in pain after she fell and hit her head on a rock.",
+      "Laundrie's cause of death was determined to be a self-inflicted gunshot wound to the head. The FBI officially closed the case on January 21, 2022.",
+      "The notebook also contained complaints about a fight at a restaurant, morning routines, and expressions of love for his family. It did not express remorse for Gabby's death."
+    ],
+    "timeline": [
+      {
+        "date": "2021-10-20",
+        "event": "Laundrie's remains and notebook found in Florida park."
+      },
+      {
+        "date": "2022-01-21",
+        "event": "FBI closes case; notebook contents revealed."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "gabby-petito-moab-incident",
+    "name": "Moab Incident (Petito-Laundrie)",
+    "type": "Domestic Violence",
+    "status": "Solved",
+    "year": 2021,
+    "date": "August 12, 2021",
+    "state": "Utah",
+    "city": "Moab",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Moab police responded to a domestic violence call involving Gabby Petito and Brian Laundrie but separated them for the night rather than making an arrest. An independent review found failures.",
+    "lastSeen": "August 12, 2021, Moonflower Community Co-op, Moab, Utah",
+    "tags": [
+      "domestic violence",
+      "Utah",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Moab police incident - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Gabby_Petito#Moab_incident"
+      },
+      {
+        "title": "Moab police review - Moab Times-Independent",
+        "url": "https://www.moabtimes.com/gabby-petito-moab-police/"
+      },
+      {
+        "title": "Body cam footage - CNN",
+        "url": "https://www.cnn.com/2021/09/16/us/gabby-petito-brian-laundrie-moab-police/index.html"
+      }
+    ],
+    "narrative": [
+      "On August 12, 2021, a witness called 911 reporting that a man was 'slapping a girl' near the Moonflower Community Co-op in Moab, Utah. Police pulled over Gabby Petito and Brian Laundrie's van.",
+      "Body camera footage showed a crying, distraught Gabby with scratches on her face and arm. Officers classified the incident as a mental health crisis rather than domestic violence, and identified Gabby as the aggressor based on her admission that she had hit Laundrie.",
+      "Officers separated the couple for the night rather than making any arrest, contrary to Utah's mandatory domestic violence response protocol.",
+      "An independent investigation in 2022 concluded that the officers made 'several unintentional mistakes' and cited them for failing to issue a DV citation. The officers were not fired. Gabby was murdered approximately two weeks later."
+    ],
+    "timeline": [
+      {
+        "date": "2021-08-12",
+        "event": "Moab police respond to DV call; couple separated."
+      },
+      {
+        "date": "2021-08-27",
+        "event": "Gabby Petito murdered (approximately)."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "letby-uk-baby-murders-2023",
+    "name": "Lucy Letby Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 2023,
+    "date": "August 18, 2023",
+    "state": "United Kingdom",
+    "city": "Chester",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Neonatal nurse Lucy Letby was convicted of murdering seven babies and attempting to murder six others at the Countess of Chester Hospital. She was sentenced to whole-life imprisonment.",
+    "lastSeen": "2015-2016, Countess of Chester Hospital, Chester, England",
+    "tags": [
+      "serial murder",
+      "United Kingdom",
+      "2020s",
+      "healthcare",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Lucy Letby - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lucy_Letby"
+      },
+      {
+        "title": "Letby trial - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-merseyside-lucy-letby"
+      },
+      {
+        "title": "Letby conviction - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/lucy-letby"
+      }
+    ],
+    "narrative": [
+      "Lucy Letby, a neonatal nurse at the Countess of Chester Hospital in Chester, England, was convicted in August 2023 of murdering seven babies and attempting to murder six others between June 2015 and June 2016.",
+      "Letby killed the babies through various methods including injecting air into their bloodstreams, overfeeding them milk through feeding tubes, and poisoning them with insulin. The attacks occurred during her night shifts.",
+      "Colleagues raised concerns about the unusual spike in baby deaths when Letby was on duty, but hospital management initially ignored the pattern and even wrote Letby a letter of apology for being removed from the unit.",
+      "Letby was sentenced to a whole-life order—meaning she will never be released. The case prompted a public inquiry into why hospital executives failed to act on staff concerns."
+    ],
+    "timeline": [
+      {
+        "date": "2015-06-01",
+        "event": "First known victim (Baby A)."
+      },
+      {
+        "date": "2023-08-18",
+        "event": "Letby convicted of seven murders; sentenced to whole life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "russell-williams-2010",
+    "name": "Russell Williams Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 2010,
+    "date": "February 7, 2010",
+    "state": "Canada",
+    "city": "Tweed",
+    "country": "Canada",
+    "age": null,
+    "gender": "Female",
+    "summary": "Colonel Russell Williams, commander of Canada's largest airbase, was convicted of murdering two women after years of escalating crimes. His interrogation by Detective Sergeant Jim Smyth is studied worldwide.",
+    "lastSeen": "Various dates, Tweed/Belleville, Ontario, Canada",
+    "tags": [
+      "serial murder",
+      "Canada",
+      "2010s",
+      "military",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Russell Williams - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Russell_Williams_(criminal)"
+      },
+      {
+        "title": "Williams case - Toronto Star",
+        "url": "https://www.thestar.com/news/crime/russell-williams/"
+      },
+      {
+        "title": "Williams interrogation - CBC",
+        "url": "https://www.cbc.ca/news/canada/russell-williams-interrogation/"
+      }
+    ],
+    "narrative": [
+      "Colonel Russell Williams was the commanding officer of CFB Trenton, Canada's largest airbase. He was secretly a serial criminal who escalated from break-ins and lingerie theft to sexual assault and murder.",
+      "Williams murdered Corporal Marie-France Comeau, 37, in November 2009, and Jessica Lloyd, 27, in January 2010. He also sexually assaulted two other women during home invasions.",
+      "Williams was identified through tire tracks near Jessica Lloyd's home that matched his SUV. In a legendary interrogation by Detective Sergeant Jim Smyth, Williams broke down and confessed within hours, providing detailed accounts and evidence.",
+      "Williams was sentenced to two life terms with no parole eligibility for 25 years. He was stripped of his military rank and his medals were burned."
+    ],
+    "timeline": [
+      {
+        "date": "2009-11-25",
+        "event": "Corporal Marie-France Comeau murdered."
+      },
+      {
+        "date": "2010-01-29",
+        "event": "Jessica Lloyd abducted and murdered."
+      },
+      {
+        "date": "2010-02-07",
+        "event": "Williams confesses during interrogation."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "pickton-farm-trials-2007",
+    "name": "Robert Pickton (conviction)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2007,
+    "date": "December 9, 2007",
+    "state": "Canada",
+    "city": "Port Coquitlam",
+    "country": "Canada",
+    "age": null,
+    "gender": "Female",
+    "summary": "Pig farmer Robert Pickton was convicted of six counts of second-degree murder at his Port Coquitlam farm. He was linked to 49 missing women. He was killed in prison in 2024.",
+    "lastSeen": "Various dates, Pickton pig farm, Port Coquitlam, British Columbia, Canada",
+    "tags": [
+      "serial killer",
+      "Canada",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Robert Pickton - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Robert_Pickton"
+      },
+      {
+        "title": "Pickton trial - Vancouver Sun",
+        "url": "https://www.vancouversun.com/news/robert-pickton/"
+      },
+      {
+        "title": "Pickton death - CBC",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/robert-pickton-death/"
+      }
+    ],
+    "narrative": [
+      "Robert Pickton operated a pig farm in Port Coquitlam, British Columbia from which women—mostly sex workers and drug users from Vancouver's Downtown Eastside—began disappearing in the late 1990s.",
+      "Police investigated the farm in 2002 and found DNA evidence of numerous women in various locations on the property. The remains or DNA of 33 women were eventually identified.",
+      "Pickton was convicted of six counts of second-degree murder in 2007 and sentenced to life with no parole for 25 years. Charges for an additional 20 murders were stayed to avoid a costly second trial.",
+      "Pickton was killed in prison on May 31, 2024. The case exposed systemic failures by police who had received tips about Pickton for years but failed to act, partly because the victims were marginalized women."
+    ],
+    "timeline": [
+      {
+        "date": "2002-02-05",
+        "event": "Police begin searching Pickton farm."
+      },
+      {
+        "date": "2007-12-09",
+        "event": "Pickton convicted of six murders; sentenced to life."
+      },
+      {
+        "date": "2024-05-31",
+        "event": "Pickton killed in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "peter-nygard-2020",
+    "name": "Peter Nygard Victims",
+    "type": "Sexual Assault",
+    "status": "Solved",
+    "year": 2020,
+    "date": "December 14, 2020",
+    "state": "Canada",
+    "city": "Winnipeg",
+    "country": "Canada",
+    "age": null,
+    "gender": "Female",
+    "summary": "Fashion mogul Peter Nygard was arrested for racketeering and sex trafficking charges involving dozens of women. He was convicted in Canadian courts of sexual assault.",
+    "lastSeen": "December 14, 2020, Winnipeg, Manitoba, Canada",
+    "tags": [
+      "sexual assault",
+      "trafficking",
+      "Canada",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Peter Nygard - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Nygard"
+      },
+      {
+        "title": "Nygard conviction - CBC",
+        "url": "https://www.cbc.ca/news/canada/manitoba/peter-nygard-trial/"
+      },
+      {
+        "title": "Nygard trafficking - New York Times",
+        "url": "https://www.nytimes.com/2020/12/15/world/canada/peter-nygard-arrested.html"
+      }
+    ],
+    "narrative": [
+      "Peter Nygard, a Finnish-Canadian fashion mogul worth hundreds of millions, was arrested in Winnipeg, Manitoba on December 14, 2020 on federal charges in the United States, including racketeering and sex trafficking.",
+      "Allegations spanned decades. Nygard was accused of using his wealth and fashion empire to lure young women—some underage—to his properties in the Bahamas and elsewhere, where they were drugged and sexually assaulted.",
+      "Nygard faced charges in both the U.S. and Canada. In his Canadian trial in 2024, he was convicted of four counts of sexual assault. Additional trials are pending.",
+      "The case was often compared to Jeffrey Epstein's, with Nygard similarly using wealth, power, and a network of employees to facilitate the abuse of vulnerable women over many years."
+    ],
+    "timeline": [
+      {
+        "date": "2020-12-14",
+        "event": "Nygard arrested in Winnipeg."
+      },
+      {
+        "date": "2024-11-01",
+        "event": "Convicted of sexual assault in Canadian court."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "derrick-todd-lee-2003",
+    "name": "Derrick Todd Lee Victims",
+    "type": "Serial Killer Victims",
+    "status": "Solved",
+    "year": 2003,
+    "date": "May 27, 2003",
+    "state": "Louisiana",
+    "city": "Baton Rouge",
+    "age": null,
+    "gender": "Female",
+    "summary": "Derrick Todd Lee was the Baton Rouge serial killer who murdered at least seven women between 1992 and 2003. DNA evidence finally linked the crimes and led to his arrest.",
+    "lastSeen": "Various dates, Baton Rouge area, Louisiana",
+    "tags": [
+      "serial killer",
+      "Louisiana",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Derrick Todd Lee - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Derrick_Todd_Lee"
+      },
+      {
+        "title": "Baton Rouge serial killer - The Advocate",
+        "url": "https://www.theadvocate.com/baton_rouge/news/crime/derrick-todd-lee/"
+      },
+      {
+        "title": "Lee execution - CNN",
+        "url": "https://www.cnn.com/2003/LAW/05/27/baton.rouge.killings/index.html"
+      }
+    ],
+    "narrative": [
+      "Derrick Todd Lee terrorized the Baton Rouge, Louisiana area from 1992 to 2003, murdering at least seven women. His victims ranged in age from 21 to 44 and were attacked in their homes.",
+      "For years, the FBI profiled the killer as a white male. This misdirection allowed Lee, a Black man, to operate undetected even as DNA linked multiple cases to the same perpetrator.",
+      "Lee was identified in May 2003 when his DNA, collected as part of a dragnet of local men, matched evidence from multiple crime scenes. He was arrested in Atlanta after fleeing.",
+      "Lee was convicted of two murders and sentenced to death. He died on death row in January 2016 from heart disease. His case highlighted how racial profiling assumptions in criminal profiling can hinder investigations."
+    ],
+    "timeline": [
+      {
+        "date": "2003-05-27",
+        "event": "Derrick Todd Lee identified and arrested."
+      },
+      {
+        "date": "2004-10-12",
+        "event": "Convicted and sentenced to death."
+      },
+      {
+        "date": "2016-01-21",
+        "event": "Lee dies on death row."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "vaneta-hoyt-1994",
+    "name": "Waneta Hoyt Children",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 1994,
+    "date": "March 23, 1994",
+    "state": "New York",
+    "city": "Owego",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Waneta Hoyt murdered her five children between 1965 and 1971, presenting each death as SIDS. Her case was cited in medical literature supporting SIDS research before the truth emerged.",
+    "lastSeen": "1965-1971, Owego, Tioga County, New York",
+    "tags": [
+      "serial murder",
+      "children",
+      "New York",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Waneta Hoyt - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Waneta_Hoyt"
+      },
+      {
+        "title": "Hoyt case - Court TV",
+        "url": "https://www.courttv.com/true-crime/waneta-hoyt/"
+      },
+      {
+        "title": "SIDS research impact - New York Times",
+        "url": "https://www.nytimes.com/1995/04/22/nyregion/hoyt-conviction.html"
+      }
+    ],
+    "narrative": [
+      "Between 1965 and 1971, Waneta Hoyt of Owego, New York lost all five of her children—Erik, James, Julie, Molly, and Noah—to what was diagnosed as Sudden Infant Death Syndrome (SIDS). Each child died between the ages of 48 days and 28 months.",
+      "A prominent pediatrician published Hoyt's cases in medical literature as evidence supporting theories about SIDS and genetic vulnerability. The cases were influential in shaping medical understanding of infant death for decades.",
+      "In 1994, a prosecutor reopened the cases. Under interrogation, Hoyt confessed to smothering all five children, saying she killed them because she couldn't tolerate their crying. She later recanted.",
+      "Hoyt was convicted of five counts of second-degree murder in 1995 and sentenced to 75 years to life. She died in prison in 1998. The case led to reforms in how infant deaths are investigated and how SIDS is diagnosed."
+    ],
+    "timeline": [
+      {
+        "date": "1965-01-26",
+        "event": "First child Erik dies."
+      },
+      {
+        "date": "1971-07-28",
+        "event": "Fifth child Noah dies."
+      },
+      {
+        "date": "1994-03-23",
+        "event": "Hoyt arrested after confessing."
+      },
+      {
+        "date": "1995-04-21",
+        "event": "Convicted of five murders."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "yingying-zhang-2017",
+    "name": "Yingying Zhang",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2017,
+    "date": "June 9, 2017",
+    "state": "Illinois",
+    "city": "Champaign",
+    "age": 26,
+    "gender": "Female",
+    "summary": "Chinese scholar Yingying Zhang was kidnapped and murdered by University of Illinois PhD student Brendt Christensen. Despite his conviction, he never revealed where he hid her remains.",
+    "lastSeen": "June 9, 2017, near campus, University of Illinois, Champaign, Illinois",
+    "tags": [
+      "homicide",
+      "Illinois",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Kidnapping and murder of Yingying Zhang - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Kidnapping_and_murder_of_Yingying_Zhang"
+      },
+      {
+        "title": "Zhang case - Champaign News-Gazette",
+        "url": "https://www.news-gazette.com/news/yingying-zhang/"
+      },
+      {
+        "title": "Christensen trial - CNN",
+        "url": "https://www.cnn.com/2019/06/12/us/yingying-zhang-trial/index.html"
+      }
+    ],
+    "narrative": [
+      "On June 9, 2017, Yingying Zhang, a 26-year-old visiting scholar from China studying at the University of Illinois, was abducted. Surveillance cameras captured her getting into a black Saturn Astra driven by Brendt Christensen, a physics PhD student.",
+      "Christensen was identified through license plate tracking. While under FBI surveillance, he was recorded bragging about the murder at a vigil for Yingying, telling a woman he had killed at least 13 people (a claim investigators could not verify).",
+      "Christensen admitted to beating, raping, and decapitating Zhang. He was convicted of kidnapping resulting in death in 2019. The jury could not unanimously agree on the death penalty, so he was sentenced to life without parole.",
+      "Despite intensive searches, Zhang's remains have never been found. Christensen refused to disclose their location as part of any deal, devastating her family who traveled from China seeking answers."
+    ],
+    "timeline": [
+      {
+        "date": "2017-06-09",
+        "event": "Yingying Zhang kidnapped by Christensen."
+      },
+      {
+        "date": "2019-07-18",
+        "event": "Christensen sentenced to life without parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "luka-magnotta-2012",
+    "name": "Jun Lin",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2012,
+    "date": "May 24, 2012",
+    "state": "Canada",
+    "city": "Montreal",
+    "country": "Canada",
+    "age": 33,
+    "gender": "Male",
+    "summary": "Luka Magnotta murdered Chinese international student Jun Lin in Montreal, dismembered him, and mailed body parts to political offices. He fled internationally before being caught in Berlin.",
+    "lastSeen": "May 24, 2012, Montreal, Quebec, Canada",
+    "tags": [
+      "homicide",
+      "Canada",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Luka Magnotta - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Luka_Magnotta"
+      },
+      {
+        "title": "Magnotta case - Montreal Gazette",
+        "url": "https://montrealgazette.com/news/magnotta/"
+      },
+      {
+        "title": "Don't F**k with Cats - Netflix",
+        "url": "https://www.netflix.com/title/81031373"
+      }
+    ],
+    "narrative": [
+      "On May 24, 2012, Luka Magnotta murdered Jun Lin, a 33-year-old Chinese international student, in his Montreal apartment. Magnotta filmed the murder, dismemberment, and acts of necrophilia, then posted the video online.",
+      "Magnotta mailed body parts to the offices of political parties and elementary schools in Ottawa and Vancouver. A torso was found in a suitcase behind Magnotta's apartment building.",
+      "Magnotta fled to France and then Germany, where he was arrested at an internet café in Berlin on June 4, 2012, while reading news articles about himself.",
+      "Magnotta was convicted of first-degree murder in 2014 and sentenced to life with no parole eligibility for 25 years. The case was the subject of the Netflix documentary 'Don't F**k with Cats,' which traced how internet sleuths identified Magnotta before the murder through animal cruelty videos."
+    ],
+    "timeline": [
+      {
+        "date": "2012-05-24",
+        "event": "Magnotta murders Jun Lin in Montreal."
+      },
+      {
+        "date": "2012-06-04",
+        "event": "Magnotta arrested in Berlin, Germany."
+      },
+      {
+        "date": "2014-12-23",
+        "event": "Convicted of first-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "hans-reiser-murder-2006",
+    "name": "Nina Reiser (Hans trial)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2006,
+    "date": "September 3, 2006",
+    "state": "California",
+    "city": "Oakland",
+    "age": 31,
+    "gender": "Female",
+    "summary": "Linux programmer Hans Reiser murdered his wife Nina during a custody dispute. He led police to her body in the Oakland hills after being convicted, in exchange for a second-degree murder plea.",
+    "lastSeen": "September 3, 2006, Oakland, California",
+    "tags": [
+      "homicide",
+      "California",
+      "2000s",
+      "tech",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Hans Reiser - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hans_Reiser"
+      },
+      {
+        "title": "Reiser trial - San Francisco Chronicle",
+        "url": "https://www.sfgate.com/crime/hans-reiser/"
+      },
+      {
+        "title": "Body found - CNN",
+        "url": "https://www.cnn.com/2008/CRIME/07/07/reiser.body/index.html"
+      }
+    ],
+    "narrative": [
+      "Nina Reiser, 31, disappeared on September 3, 2006 after dropping her children off at her estranged husband Hans Reiser's home in Oakland, California. Hans was a prominent Linux programmer who created the ReiserFS file system.",
+      "Hans's suspicious behavior included removing the passenger seat of his car, scrubbing the interior with water, and flooding his car to destroy forensic evidence. Despite no body, he was charged with murder.",
+      "In a highly unusual trial, Hans represented by the famed attorney William DuBois, testified in his own defense for nearly two weeks. His rambling testimony alienated jurors who convicted him of first-degree murder.",
+      "After conviction, Hans negotiated to reveal Nina's body in the Oakland hills in exchange for a plea to second-degree murder. He was sentenced to 15 years to life."
+    ],
+    "timeline": [
+      {
+        "date": "2006-09-03",
+        "event": "Nina Reiser disappears."
+      },
+      {
+        "date": "2008-04-28",
+        "event": "Hans convicted of first-degree murder."
+      },
+      {
+        "date": "2008-07-07",
+        "event": "Hans leads police to body; plea to second-degree murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "stephen-port-uk-2015",
+    "name": "Stephen Port Victims",
+    "type": "Serial Murder",
+    "status": "Solved",
+    "year": 2016,
+    "date": "November 23, 2016",
+    "state": "United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Male",
+    "summary": "Serial killer Stephen Port drugged and raped young men using GHB, killing four in Barking, East London. Police initially failed to link the deaths despite bodies being found in similar locations.",
+    "lastSeen": "2014-2015, Barking, East London, England",
+    "tags": [
+      "serial murder",
+      "United Kingdom",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Stephen Port - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Stephen_Port"
+      },
+      {
+        "title": "Port trial - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-london-stephen-port"
+      },
+      {
+        "title": "Police failings inquest - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/stephen-port"
+      }
+    ],
+    "narrative": [
+      "Stephen Port, a chef from Barking, East London, murdered four young men between June 2014 and September 2015 by administering lethal doses of the drug GHB. He met his victims through dating apps.",
+      "The four victims—Anthony Walgate (23), Gabriel Kovari (22), Daniel Whitworth (21), and Jack Taylor (25)—were all found dead in or near a churchyard in Barking, near Port's flat.",
+      "Despite the similarities in location and circumstances, police initially treated each death as non-suspicious, attributing them to drug overdoses. This failure was later condemned as reflecting institutional homophobia.",
+      "Port was convicted of four murders, four rapes, and multiple sexual assaults in 2016 and sentenced to a whole-life order. A subsequent inquest found that police failures contributed to the deaths of at least three victims."
+    ],
+    "timeline": [
+      {
+        "date": "2014-06-19",
+        "event": "First victim Anthony Walgate killed."
+      },
+      {
+        "date": "2015-09-13",
+        "event": "Fourth victim Jack Taylor killed."
+      },
+      {
+        "date": "2016-11-23",
+        "event": "Port convicted; sentenced to whole life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "peter-sutcliffe-yorkshire-2020",
+    "name": "Yorkshire Ripper (death)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 2020,
+    "date": "November 13, 2020",
+    "state": "United Kingdom",
+    "city": "Durham",
+    "country": "United Kingdom",
+    "age": 74,
+    "gender": "Male",
+    "summary": "Peter Sutcliffe, the Yorkshire Ripper who murdered 13 women in northern England, died of COVID-19 in prison in November 2020 after refusing treatment. He had served 39 years.",
+    "lastSeen": "November 13, 2020, HMP Frankland, Durham, England",
+    "tags": [
+      "serial killer",
+      "United Kingdom",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Peter Sutcliffe death - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe"
+      },
+      {
+        "title": "Sutcliffe dies - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-54919510"
+      },
+      {
+        "title": "Ripper legacy - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/peter-sutcliffe"
+      }
+    ],
+    "narrative": [
+      "Peter Sutcliffe, known as the Yorkshire Ripper, murdered 13 women and attempted to murder seven others across northern England between 1975 and 1980. His victims included sex workers and women walking alone at night.",
+      "Sutcliffe was caught in January 1981 when police found him with a sex worker in Sheffield. He was convicted of 13 murders and sentenced to 20 concurrent life sentences. He was given a whole-life tariff in 2010.",
+      "The investigation was one of the largest and most criticized in British police history. Mistakes included ignoring a key tip and being misled by hoax letters and tape recordings from 'Wearside Jack.'",
+      "Sutcliffe died on November 13, 2020 at HMP Frankland, Durham, from COVID-19. He had tested positive and refused treatment. His death came 39 years into his imprisonment."
+    ],
+    "timeline": [
+      {
+        "date": "1981-01-02",
+        "event": "Peter Sutcliffe arrested."
+      },
+      {
+        "date": "1981-05-22",
+        "event": "Convicted of 13 murders."
+      },
+      {
+        "date": "2020-11-13",
+        "event": "Sutcliffe dies of COVID-19 in prison."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sarah-everard-wayne-couzens",
+    "name": "Sarah Everard (Wayne Couzens)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2021,
+    "date": "March 3, 2021",
+    "state": "United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "age": 33,
+    "gender": "Female",
+    "summary": "Metropolitan Police officer Wayne Couzens kidnapped, raped, and murdered Sarah Everard while she walked home in London. He used his police credentials to make a false arrest. Sentenced to whole life.",
+    "lastSeen": "March 3, 2021, Clapham, South London, England",
+    "tags": [
+      "homicide",
+      "United Kingdom",
+      "2020s",
+      "law enforcement",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Sarah Everard - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Sarah_Everard"
+      },
+      {
+        "title": "Couzens sentencing - BBC",
+        "url": "https://www.bbc.com/news/uk-58756106"
+      },
+      {
+        "title": "Everard vigil - The Guardian",
+        "url": "https://www.theguardian.com/uk-news/sarah-everard"
+      }
+    ],
+    "narrative": [
+      "On the evening of March 3, 2021, Sarah Everard, 33, was walking home from a friend's house in Clapham, South London. She was kidnapped by Wayne Couzens, a serving Metropolitan Police officer, who used his warrant card to conduct a fake arrest under COVID lockdown regulations.",
+      "Couzens drove Sarah to Kent where he raped and strangled her. He burned her body and placed the remains in a pond in an area of woodland.",
+      "CCTV footage and automatic number plate recognition tracked Couzens's hire car. He was arrested on March 9 and Sarah's remains were found the following day.",
+      "Couzens was convicted and sentenced to a whole-life order in September 2021—only the rare fourth whole-life sentence given to a police officer. The case sparked massive protests about women's safety and police accountability."
+    ],
+    "timeline": [
+      {
+        "date": "2021-03-03",
+        "event": "Sarah Everard kidnapped by Wayne Couzens."
+      },
+      {
+        "date": "2021-03-10",
+        "event": "Sarah's remains found in Kent."
+      },
+      {
+        "date": "2021-09-30",
+        "event": "Couzens sentenced to whole life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "grace-millane-2018-nz",
+    "name": "Grace Millane",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "December 1, 2018",
+    "state": "New Zealand",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "age": 22,
+    "gender": "Female",
+    "summary": "British backpacker Grace Millane was murdered in Auckland, New Zealand by a man she met on Tinder. Her killer was convicted of murder and sentenced to life with a minimum of 17 years.",
+    "lastSeen": "December 1, 2018, CityLife Hotel, Auckland, New Zealand",
+    "tags": [
+      "homicide",
+      "New Zealand",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Grace Millane - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Grace_Millane"
+      },
+      {
+        "title": "Millane case - NZ Herald",
+        "url": "https://www.nzherald.co.nz/nz/grace-millane/"
+      },
+      {
+        "title": "Trial verdict - BBC News",
+        "url": "https://www.bbc.com/news/world-asia-50529055"
+      }
+    ],
+    "narrative": [
+      "On December 1, 2018, twenty-two-year-old British backpacker Grace Millane went on a Tinder date in Auckland, New Zealand—her birthday. She never returned to her hostel.",
+      "Her date, a 27-year-old New Zealand man (whose name is suppressed under NZ law), took her to his apartment at the CityLife Hotel. He killed her during the night, stuffed her body in a suitcase, and buried it in a forested area outside Auckland.",
+      "The killer was identified through CCTV footage showing him with Grace and purchasing a suitcase. He claimed Grace died accidentally during consensual rough sex.",
+      "He was convicted of murder in November 2019 and sentenced to life imprisonment with a minimum period of 17 years. The case prompted discussions about safety in online dating and the 'rough sex defense.'"
+    ],
+    "timeline": [
+      {
+        "date": "2018-12-01",
+        "event": "Grace Millane murdered in Auckland."
+      },
+      {
+        "date": "2019-11-22",
+        "event": "Killer convicted of murder."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "ivan-milat-backpacker-1996",
+    "name": "Ivan Milat (Backpacker Murders)",
+    "type": "Serial Killer",
+    "status": "Solved",
+    "year": 1996,
+    "date": "July 27, 1996",
+    "state": "Australia",
+    "city": "Belanglo State Forest",
+    "country": "Australia",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Ivan Milat was convicted of murdering seven backpackers whose bodies were found in Belanglo State Forest, NSW, Australia. He tortured and killed hitchhikers between 1989 and 1992.",
+    "lastSeen": "1989-1992, Belanglo State Forest, New South Wales, Australia",
+    "tags": [
+      "serial killer",
+      "Australia",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Ivan Milat - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ivan_Milat"
+      },
+      {
+        "title": "Belanglo murders - ABC Australia",
+        "url": "https://www.abc.net.au/news/ivan-milat/"
+      },
+      {
+        "title": "Milat death - Sydney Morning Herald",
+        "url": "https://www.smh.com.au/national/ivan-milat/"
+      }
+    ],
+    "narrative": [
+      "Between 1989 and 1992, Ivan Milat abducted and murdered seven young backpackers in the Belanglo State Forest southwest of Sydney, Australia. His victims were from Australia, Britain, and Germany.",
+      "The bodies were discovered in September 1992 when two orienteers found skeletal remains. Over the following months, six more bodies were found in the forest, all showing signs of stabbing, shooting, or blunt force trauma.",
+      "Milat was arrested in 1994 after a surviving victim from an earlier attack identified him. A massive search of his property revealed weapons and belongings of the victims.",
+      "Milat was convicted of seven murders in 1996 and sentenced to seven consecutive life sentences without parole. He maintained his innocence until his death from cancer in 2019."
+    ],
+    "timeline": [
+      {
+        "date": "1992-09-19",
+        "event": "First bodies found in Belanglo State Forest."
+      },
+      {
+        "date": "1994-05-22",
+        "event": "Ivan Milat arrested."
+      },
+      {
+        "date": "1996-07-27",
+        "event": "Convicted of seven murders; life without parole."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "cleo-smith-rescue-2021",
+    "name": "Cleo Smith (rescue)",
+    "type": "Abduction",
+    "status": "Solved",
+    "year": 2021,
+    "date": "October 16, 2021",
+    "state": "Australia",
+    "city": "Carnarvon",
+    "country": "Australia",
+    "age": 4,
+    "gender": "Female",
+    "summary": "Four-year-old Cleo Smith was taken from her family's tent at a campsite in Western Australia. After 18 days, police rescued her from a locked house in Carnarvon. Terence Kelly was convicted.",
+    "lastSeen": "October 16, 2021, Blowholes campsite, Macleod, Western Australia",
+    "tags": [
+      "abduction",
+      "child",
+      "Australia",
+      "2020s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Disappearance of Cleo Smith - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Disappearance_of_Cleo_Smith"
+      },
+      {
+        "title": "Cleo Smith rescue - ABC News Australia",
+        "url": "https://www.abc.net.au/news/cleo-smith/"
+      },
+      {
+        "title": "Terence Kelly sentenced - WAtoday",
+        "url": "https://www.watoday.com.au/national/western-australia/cleo-smith-terence-kelly/"
+      }
+    ],
+    "narrative": [
+      "On October 16, 2021, four-year-old Cleo Smith was taken from her family's tent at the Blowholes campsite near Carnarvon in Western Australia's remote north coast.",
+      "A massive police investigation, with a $1 million reward offered, dominated Australian news for 18 days. Investigators tracked purchase data and CCTV to identify suspect Terence Darrell Kelly.",
+      "On November 3, 2021, police broke into a locked house in Carnarvon and found Cleo alive and playing with toys in a bedroom. A detective asked 'What's your name?' and she answered 'My name is Cleo.'",
+      "Kelly, a 36-year-old local man with no prior connection to the family, pleaded guilty to forcibly taking a child and was sentenced to 13 years and 6 months in prison."
+    ],
+    "timeline": [
+      {
+        "date": "2021-10-16",
+        "event": "Cleo Smith taken from family tent."
+      },
+      {
+        "date": "2021-11-03",
+        "event": "Cleo found alive; Terence Kelly arrested."
+      },
+      {
+        "date": "2022-12-15",
+        "event": "Kelly sentenced to 13.5 years."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "april-jones-wales-2012",
+    "name": "April Jones",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2012,
+    "date": "October 1, 2012",
+    "state": "United Kingdom",
+    "city": "Machynlleth",
+    "country": "United Kingdom",
+    "age": 5,
+    "gender": "Female",
+    "summary": "Five-year-old April Jones was abducted and murdered in Machynlleth, Wales by Mark Bridger. Only small bone fragments were ever recovered. Bridger was sentenced to whole life.",
+    "lastSeen": "October 1, 2012, Bryn-y-Gog estate, Machynlleth, Powys, Wales",
+    "tags": [
+      "homicide",
+      "child",
+      "United Kingdom",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of April Jones - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_April_Jones"
+      },
+      {
+        "title": "Bridger trial - BBC Wales",
+        "url": "https://www.bbc.com/news/uk-wales-april-jones"
+      },
+      {
+        "title": "Bridger sentenced - The Guardian",
+        "url": "https://www.theguardian.com/uk/2013/may/30/april-jones-mark-bridger-whole-life"
+      }
+    ],
+    "narrative": [
+      "On October 1, 2012, five-year-old April Jones was abducted while playing near her home on the Bryn-y-Gog estate in Machynlleth, mid-Wales. A friend saw her getting into a vehicle.",
+      "Mark Bridger, a local man who lived alone, was arrested the following day. Investigators found traces of April's blood and bone fragments in his cottage and fireplace, along with evidence that he had searched for child sexual abuse material.",
+      "Only tiny bone fragments positively identified as April's were ever recovered. Prosecutors believed Bridger dismembered and burned her body. He claimed he accidentally hit her with his car and could not remember what happened next.",
+      "Bridger was convicted of murder, child abduction, and perverting the course of justice. He was sentenced to a whole-life order."
+    ],
+    "timeline": [
+      {
+        "date": "2012-10-01",
+        "event": "April Jones abducted from outside her home."
+      },
+      {
+        "date": "2013-05-30",
+        "event": "Mark Bridger convicted; sentenced to whole life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jennifer-laude-2014",
+    "name": "Jennifer Laude",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2014,
+    "date": "October 11, 2014",
+    "state": "Philippines",
+    "city": "Olongapo",
+    "country": "Philippines",
+    "age": 26,
+    "gender": "Female",
+    "summary": "Transgender Filipina Jennifer Laude was murdered by U.S. Marine Joseph Scott Pemberton in a motel in Olongapo. The case strained U.S.-Philippine relations and sparked debate about the Visiting Forces Agreement.",
+    "lastSeen": "October 11, 2014, Celzone Lodge, Olongapo City, Philippines",
+    "tags": [
+      "homicide",
+      "Philippines",
+      "2010s",
+      "military",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Killing of Jennifer Laude - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Jennifer_Laude"
+      },
+      {
+        "title": "Laude case - Philippine Star",
+        "url": "https://www.philstar.com/nation/jennifer-laude/"
+      },
+      {
+        "title": "Pemberton conviction - CNN",
+        "url": "https://www.cnn.com/2015/12/01/asia/philippines-us-marine-transgender-killing/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 11, 2014, Jennifer Laude, a 26-year-old transgender Filipina woman, was found dead in a motel bathroom in Olongapo City, Philippines. She had been drowned in a toilet.",
+      "U.S. Marine Private First Class Joseph Scott Pemberton was identified as the last person with Jennifer. He told investigators he discovered she was transgender during an intimate encounter and 'felt repulsed.'",
+      "The case ignited protests about the Visiting Forces Agreement between the U.S. and the Philippines. Pemberton was convicted of homicide (not murder) by a Philippine court and sentenced to 6-12 years.",
+      "In 2020, Philippine President Duterte controversially granted Pemberton an absolute pardon after he had served nearly six years. The decision was condemned by LGBTQ+ advocates and Filipino nationalists."
+    ],
+    "timeline": [
+      {
+        "date": "2014-10-11",
+        "event": "Jennifer Laude murdered in Olongapo motel."
+      },
+      {
+        "date": "2015-12-01",
+        "event": "Pemberton convicted of homicide."
+      },
+      {
+        "date": "2020-09-07",
+        "event": "Pemberton pardoned by President Duterte."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "daniel-morcombe-qld-2011",
+    "name": "Daniel Morcombe (solved)",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2003,
+    "date": "December 7, 2003",
+    "state": "Australia",
+    "city": "Sunshine Coast",
+    "country": "Australia",
+    "age": 13,
+    "gender": "Male",
+    "summary": "Thirteen-year-old Daniel Morcombe was abducted while waiting for a bus on Queensland's Sunshine Coast. His killer Brett Peter Cowan was caught through an elaborate undercover operation in 2011.",
+    "lastSeen": "December 7, 2003, Kiel Mountain Road underpass, Woombye, Queensland, Australia",
+    "tags": [
+      "homicide",
+      "child",
+      "Australia",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Daniel Morcombe - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Daniel_Morcombe"
+      },
+      {
+        "title": "Morcombe case - Courier-Mail",
+        "url": "https://www.couriermail.com.au/news/daniel-morcombe/"
+      },
+      {
+        "title": "Cowan conviction - ABC",
+        "url": "https://www.abc.net.au/news/daniel-morcombe-cowan-trial/"
+      }
+    ],
+    "narrative": [
+      "On December 7, 2003, thirteen-year-old Daniel Morcombe was waiting for a bus on the Kiel Mountain Road overpass on the Sunshine Coast, Queensland, Australia. He was abducted by Brett Peter Cowan, a convicted child sex offender.",
+      "The case became one of Australia's most prominent missing child cases. Daniel's parents Bruce and Denise became tireless campaigners for child safety.",
+      "In 2011, Cowan was caught through an elaborate undercover police operation called 'Operation Vista.' Officers posing as criminals infiltrated Cowan's life and obtained his confession along with information about Daniel's remains.",
+      "Cowan was convicted of murder, indecent treatment of a child, and interfering with a corpse in 2014. He was sentenced to life with a minimum of 20 years. The case led to the Daniel Morcombe Foundation, Australia's largest child safety organization."
+    ],
+    "timeline": [
+      {
+        "date": "2003-12-07",
+        "event": "Daniel Morcombe abducted from bus stop."
+      },
+      {
+        "date": "2011-08-13",
+        "event": "Cowan confesses in undercover operation."
+      },
+      {
+        "date": "2014-03-13",
+        "event": "Cowan convicted; sentenced to life."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "otto-warmbier-2017",
+    "name": "Otto Warmbier",
+    "type": "Suspicious Death",
+    "status": "Unsolved",
+    "year": 2017,
+    "date": "June 19, 2017",
+    "state": "Ohio",
+    "city": "Cincinnati",
+    "age": 22,
+    "gender": "Male",
+    "summary": "American student Otto Warmbier was detained in North Korea for 17 months and returned to the U.S. in a vegetative state. He died days later. North Korea claimed he contracted botulism.",
+    "lastSeen": "June 19, 2017, University of Cincinnati Medical Center, Ohio",
+    "tags": [
+      "suspicious death",
+      "Ohio",
+      "international",
+      "2010s",
+      "unsolved"
+    ],
+    "sources": [
+      {
+        "title": "Otto Warmbier - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Otto_Warmbier"
+      },
+      {
+        "title": "Warmbier case - Washington Post",
+        "url": "https://www.washingtonpost.com/world/otto-warmbier/"
+      },
+      {
+        "title": "Warmbier death - CNN",
+        "url": "https://www.cnn.com/2017/06/19/politics/otto-warmbier-dies/index.html"
+      }
+    ],
+    "narrative": [
+      "Otto Warmbier, a 22-year-old University of Virginia student, was detained in North Korea in January 2016 during a tourist visit. He was sentenced to 15 years hard labor for allegedly stealing a propaganda poster from his hotel.",
+      "In June 2017, North Korea released Warmbier in a state of unresponsive wakefulness. He had been in this condition for over a year, unknown to the outside world. North Korea claimed he contracted botulism and fell into a coma after taking a sleeping pill.",
+      "Warmbier died on June 19, 2017, six days after returning to the United States. Doctors found no evidence of botulism. The exact cause of his brain injury remains unknown—possibilities include torture, poisoning, or an attempted suicide.",
+      "A U.S. federal judge ruled North Korea liable for Warmbier's torture and death in 2018, awarding his family over $500 million in damages. The full circumstances of what happened to Otto in custody may never be known."
+    ],
+    "timeline": [
+      {
+        "date": "2016-01-02",
+        "event": "Warmbier detained in North Korea."
+      },
+      {
+        "date": "2017-06-13",
+        "event": "Released in vegetative state."
+      },
+      {
+        "date": "2017-06-19",
+        "event": "Otto Warmbier dies."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "jamal-khashoggi-2018",
+    "name": "Jamal Khashoggi",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 2018,
+    "date": "October 2, 2018",
+    "state": "Turkey",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "age": 59,
+    "gender": "Male",
+    "summary": "Saudi journalist Jamal Khashoggi was murdered and dismembered inside the Saudi consulate in Istanbul by a team of Saudi agents. The killing was linked to Crown Prince Mohammed bin Salman.",
+    "lastSeen": "October 2, 2018, Saudi consulate, Istanbul, Turkey",
+    "tags": [
+      "homicide",
+      "Turkey",
+      "international",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Assassination of Jamal Khashoggi - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi"
+      },
+      {
+        "title": "Khashoggi murder - Washington Post",
+        "url": "https://www.washingtonpost.com/world/jamal-khashoggi/"
+      },
+      {
+        "title": "CIA assessment - CNN",
+        "url": "https://www.cnn.com/2018/11/16/middleeast/khashoggi-saudi-arabia/index.html"
+      }
+    ],
+    "narrative": [
+      "On October 2, 2018, Saudi journalist and Washington Post columnist Jamal Khashoggi entered the Saudi consulate in Istanbul, Turkey to obtain papers for his upcoming marriage. He never came out.",
+      "Turkish intelligence determined that a 15-member team of Saudi agents, including a forensic doctor with a bone saw, had been dispatched to Istanbul. They killed Khashoggi within minutes of his entering the consulate and dismembered his body.",
+      "The CIA concluded with high confidence that Saudi Crown Prince Mohammed bin Salman (MBS) ordered the assassination. Saudi Arabia initially denied knowledge, then claimed it was a rogue operation, then admitted the killing.",
+      "Eight Saudi nationals were convicted in a Saudi court (five sentenced to death, later commuted to 20 years). The case was widely seen as a politically motivated assassination meant to silence a prominent critic of the Saudi regime."
+    ],
+    "timeline": [
+      {
+        "date": "2018-10-02",
+        "event": "Khashoggi murdered inside Saudi consulate."
+      },
+      {
+        "date": "2018-11-16",
+        "event": "CIA concludes MBS ordered assassination."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "alexander-litvinenko-2006",
+    "name": "Alexander Litvinenko",
+    "type": "Assassination",
+    "status": "Solved",
+    "year": 2006,
+    "date": "November 23, 2006",
+    "state": "United Kingdom",
+    "city": "London",
+    "country": "United Kingdom",
+    "age": 43,
+    "gender": "Male",
+    "summary": "Former Russian spy Alexander Litvinenko was poisoned with polonium-210 in London. A British inquiry concluded Russian President Putin probably approved the operation. Two suspects were identified.",
+    "lastSeen": "November 23, 2006, University College Hospital, London, England",
+    "tags": [
+      "assassination",
+      "United Kingdom",
+      "2000s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Poisoning of Alexander Litvinenko - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Alexander_Litvinenko"
+      },
+      {
+        "title": "Litvinenko inquiry - The Guardian",
+        "url": "https://www.theguardian.com/world/alexander-litvinenko"
+      },
+      {
+        "title": "Public inquiry findings - BBC",
+        "url": "https://www.bbc.com/news/uk-35370819"
+      }
+    ],
+    "narrative": [
+      "On November 1, 2006, former Russian FSB officer Alexander Litvinenko, who had defected to the UK and become a vocal critic of Putin, met two Russian contacts at the Millennium Hotel in London. He became violently ill that evening.",
+      "Litvinenko was poisoned with polonium-210, an extremely rare radioactive substance. It took doctors nearly three weeks to identify the poison. Litvinenko died on November 23 in University College Hospital.",
+      "On his deathbed, Litvinenko accused Vladimir Putin of ordering his murder. Investigations identified Andrei Lugovoy and Dmitri Kovtun, both former Russian intelligence officers, as the assassins.",
+      "A 2016 British public inquiry concluded that the operation was 'probably approved' by Putin and FSB director Nikolai Patrushev. Russia refused to extradite Lugovoy and Kovtun, both of whom deny involvement."
+    ],
+    "timeline": [
+      {
+        "date": "2006-11-01",
+        "event": "Litvinenko poisoned with polonium-210."
+      },
+      {
+        "date": "2006-11-23",
+        "event": "Litvinenko dies."
+      },
+      {
+        "date": "2016-01-21",
+        "event": "Inquiry concludes Putin probably approved assassination."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "sergei-skripal-2018",
+    "name": "Sergei & Yulia Skripal Poisoning",
+    "type": "Assassination Attempt",
+    "status": "Solved",
+    "year": 2018,
+    "date": "March 4, 2018",
+    "state": "United Kingdom",
+    "city": "Salisbury",
+    "country": "United Kingdom",
+    "age": null,
+    "gender": "Mixed",
+    "summary": "Former Russian double agent Sergei Skripal and his daughter Yulia were poisoned with Novichok nerve agent in Salisbury, England. Both survived. Russian GRU officers were identified as suspects.",
+    "lastSeen": "March 4, 2018, bench near The Maltings, Salisbury, Wiltshire, England",
+    "tags": [
+      "assassination attempt",
+      "United Kingdom",
+      "2010s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Poisoning of Sergei and Yulia Skripal - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal"
+      },
+      {
+        "title": "Skripal case - BBC",
+        "url": "https://www.bbc.com/news/uk-43315636"
+      },
+      {
+        "title": "GRU suspects identified - Bellingcat",
+        "url": "https://www.bellingcat.com/news/uk-and-europe/skripal-suspects/"
+      }
+    ],
+    "narrative": [
+      "On March 4, 2018, former Russian military intelligence officer Sergei Skripal, 66, and his daughter Yulia, 33, were found unconscious on a bench in Salisbury, England. They had been poisoned with Novichok, a military-grade nerve agent.",
+      "The nerve agent had been applied to the front door handle of Sergei's home. A police officer, Detective Sergeant Nick Bailey, was also contaminated and hospitalized. All three survived.",
+      "In June 2018, two unrelated individuals found a discarded perfume bottle containing Novichok. Dawn Sturgess died after spraying herself with it, thinking it was perfume. Her partner Charlie Rowley survived.",
+      "British authorities identified two GRU officers—'Alexander Petrov' and 'Ruslan Boshirov' (aliases)—through CCTV and travel records. Investigative journalists later identified them as Colonel Anatoliy Chepiga and Dr. Alexander Mishkin. Russia denied involvement."
+    ],
+    "timeline": [
+      {
+        "date": "2018-03-04",
+        "event": "Skripals poisoned with Novichok in Salisbury."
+      },
+      {
+        "date": "2018-06-30",
+        "event": "Dawn Sturgess dies from same Novichok batch."
+      },
+      {
+        "date": "2018-09-05",
+        "event": "Two GRU suspects identified by UK."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "junko-furuta-1988",
+    "name": "Junko Furuta",
+    "type": "Homicide",
+    "status": "Solved",
+    "year": 1989,
+    "date": "January 4, 1989",
+    "state": "Japan",
+    "city": "Tokyo",
+    "country": "Japan",
+    "age": 17,
+    "gender": "Female",
+    "summary": "Seventeen-year-old Junko Furuta was kidnapped and tortured for 44 days by four teenage boys in Tokyo. The extreme nature of the case shocked Japan. All perpetrators received sentences many considered too lenient.",
+    "lastSeen": "November 25, 1988 - January 4, 1989, Adachi, Tokyo, Japan",
+    "tags": [
+      "homicide",
+      "Japan",
+      "1980s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Murder of Junko Furuta - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Murder_of_Junko_Furuta"
+      },
+      {
+        "title": "Furuta case - Japan Times",
+        "url": "https://www.japantimes.co.jp/news/junko-furuta/"
+      }
+    ],
+    "narrative": [
+      "On November 25, 1988, seventeen-year-old Junko Furuta was kidnapped by four boys, aged 16-18, in Misato, Saitama Prefecture, Japan. She was held captive in one of the boys' homes in the Ayase district of Adachi, Tokyo for 44 days.",
+      "During her captivity, Junko was subjected to extreme and prolonged torture by the four main perpetrators and numerous accomplices. The parents of the homeowner were aware she was there but were intimidated into silence by their son's yakuza connections.",
+      "Junko died on January 4, 1989 from her injuries. Her body was placed in a 55-gallon drum filled with concrete and dumped in a vacant lot in Koto City, Tokyo.",
+      "Because the perpetrators were minors at the time of the crime, they received sentences ranging from 5 to 20 years under Japan's juvenile law. The perceived leniency of the sentences outraged the Japanese public and prompted calls for reform."
+    ],
+    "timeline": [
+      {
+        "date": "1988-11-25",
+        "event": "Junko Furuta kidnapped."
+      },
+      {
+        "date": "1989-01-04",
+        "event": "Junko dies from injuries."
+      },
+      {
+        "date": "1989-03-29",
+        "event": "Body discovered; four arrested."
+      }
+    ],
+    "enriched": true
+  },
+  {
+    "id": "natascha-kampusch-1998",
+    "name": "Natascha Kampusch",
+    "type": "Abduction",
+    "status": "Solved",
+    "year": 1998,
+    "date": "March 2, 1998",
+    "state": "Austria",
+    "city": "Vienna",
+    "country": "Austria",
+    "age": 10,
+    "gender": "Female",
+    "summary": "Ten-year-old Natascha Kampusch was kidnapped on her way to school in Vienna and held captive by Wolfgang Priklopil for over eight years in a basement dungeon. She escaped in 2006.",
+    "lastSeen": "March 2, 1998 - August 23, 2006, Strasshof an der Nordbahn, Austria",
+    "tags": [
+      "abduction",
+      "child",
+      "Austria",
+      "1990s",
+      "solved"
+    ],
+    "sources": [
+      {
+        "title": "Natascha Kampusch - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Natascha_Kampusch"
+      },
+      {
+        "title": "Kampusch escape - BBC",
+        "url": "https://www.bbc.com/news/world-europe-natascha-kampusch"
+      },
+      {
+        "title": "Kampusch memoir - The Guardian",
+        "url": "https://www.theguardian.com/world/natascha-kampusch"
+      }
+    ],
+    "narrative": [
+      "On March 2, 1998, ten-year-old Natascha Kampusch was abducted on her way to school in Vienna, Austria. Her kidnapper, Wolfgang Přiklopil, imprisoned her in a purpose-built dungeon beneath his house in Strasshof an der Nordbahn.",
+      "For over eight years, Natascha was held in a 54-square-foot cell. As she grew older, Přiklopil allowed her more freedom within the house during the day but continued to abuse her.",
+      "On August 23, 2006, while Přiklopil was distracted by a phone call as Natascha cleaned his car in the garden, she ran away and alerted a neighbor. She was 18 years old.",
+      "Přiklopil fled when he realized Natascha had escaped and killed himself by jumping in front of a train that same evening. Natascha has since become an author and media personality, though she has expressed complicated feelings about her captor."
+    ],
+    "timeline": [
+      {
+        "date": "1998-03-02",
+        "event": "Natascha Kampusch kidnapped at age 10."
+      },
+      {
+        "date": "2006-08-23",
+        "event": "Natascha escapes after 8.5 years; Přiklopil dies by suicide."
+      }
+    ],
+    "enriched": true
   }
 ]
