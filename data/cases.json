@@ -26330,5 +26330,83 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "villisca-axe-murders",
+  "name": "Villisca Axe Murders",
+  "type": "Multiple Homicide",
+  "status": "Unsolved",
+  "year": 1912,
+  "date": "June 10, 1912",
+  "state": "Iowa",
+  "city": "Villisca",
+  "age": null,
+  "gender": "Multiple",
+  "summary": "During the night of June 9-10, 1912, eight people, including six children, were bludgeoned to death with an axe inside the Josiah Moore family home in Villisca, Iowa. The victims were the six members of the Moore family and two young neighbor girls staying overnight. Despite decades of investigation and two trials, the case has never been solved.",
+  "lastSeen": "Attending the Children's Day program at the Presbyterian church in Villisca, Iowa, on the evening of June 9, 1912",
+  "tags": [
+   "Multiple Homicide",
+   "Unsolved",
+   "Cold Case",
+   "Historic",
+   "Axe Murder",
+   "Iowa",
+   "1912"
+  ],
+  "sources": [
+   {
+    "title": "Villisca axe murders - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Villisca_axe_murders"
+   },
+   {
+    "title": "Villisca, Iowa and the Axe-Murder Man - Legends of America",
+    "url": "https://www.legendsofamerica.com/ia-villisca/"
+   },
+   {
+    "title": "1912 Axe Murders in Villisca Remain Unsolved - Iowa Legislature",
+    "url": "https://www.legis.iowa.gov/docs/publications/TB/663533.pdf"
+   },
+   {
+    "title": "The Villisca Axe Murders - Iowa Cold Cases",
+    "url": "https://iowacoldcases.org/case-summaries/villisca-axe-murders/"
+   }
+  ],
+  "narrative": [
+   "On the evening of June 9, 1912, the family of Josiah B. Moore attended a Children's Day program at the Presbyterian church in the small farming town of Villisca, Iowa. When the program ended, Moore's daughter Katherine brought two friends, sisters Lena and Ina Stillinger, home to spend the night. The group arrived at the Moore residence between roughly 9:45 and 10:00 p.m. Sometime after they went to bed, an intruder moved through the darkened house and killed everyone inside with an axe belonging to Josiah Moore.",
+   "The eight victims were Josiah Moore (43), his wife Sarah (39), their children Herman (11), Mary Katherine (10), Arthur Boyd (7) and Paul Vernon (5), and the two Stillinger sisters, Lena (11) and Ina (8). Every victim had suffered severe head wounds and had been struck while apparently asleep. The bodies were discovered the next morning, June 10, by a concerned neighbor, Mary Peckham, after she noticed the family had not begun their usual chores. Investigators found the window shades drawn, mirrors covered, and a slab of bacon and a bloodstained axe left in the downstairs bedroom.",
+   "The crime scene was compromised almost immediately as curious townspeople streamed through the house before authorities secured it, destroying potential evidence. Over the following years a long list of suspects was pursued. Traveling minister George Kelly was arrested and tried twice: his first trial ended in a hung jury and his second in acquittal. Other names raised over the decades included businessman Frank Jones, a man named William Mansfield, and suspected serial killer Henry Lee Moore. In 2017 authors Bill James and Rachel McCarthy James argued in their book 'The Man from the Train' that a transient serial killer they identified as Paul Mueller was responsible for Villisca and a string of similar axe murders.",
+   "No one was ever convicted, and the Villisca axe murders remain one of the most infamous unsolved crimes in American history. The Moore house still stands and has been restored to its 1912 appearance; it is now operated as the Villisca Axe Murder House, open for tours and overnight stays. More than a century later, the identity of the killer and the motive for the massacre are still unknown."
+  ],
+  "timeline": [
+   {
+    "date": "June 9, 1912",
+    "event": "The Moore family and the Stillinger sisters attend the Children's Day program at the Presbyterian church, returning home around 9:45-10:00 p.m."
+   },
+   {
+    "date": "Night of June 9-10, 1912",
+    "event": "An intruder kills all eight people in the house with an axe while they sleep."
+   },
+   {
+    "date": "June 10, 1912",
+    "event": "Neighbor Mary Peckham discovers the bodies; a coroner's inquest is held later that day."
+   },
+   {
+    "date": "1917",
+    "event": "Reverend George Kelly is arrested and tried; his first trial ends in a hung jury."
+   },
+   {
+    "date": "1917",
+    "event": "Kelly is tried a second time and acquitted; the case goes unsolved."
+   },
+   {
+    "date": "1994-1998",
+    "event": "The Moore house is restored to its 1912 condition and later added to the National Register of Historic Places."
+   },
+   {
+    "date": "2017",
+    "event": "Authors Bill James and Rachel McCarthy James publish a serial-killer theory naming 'Paul Mueller' as the likely killer."
+   }
+  ],
+  "enriched": true
  }
 ]
