@@ -1,7 +1,7 @@
 {
   "name": "Cold Case Index - US Cold Case & Historic Crime Database",
   "short_name": "ColdCaseIndex",
-  "description": "Database of 365 US cold cases and historic crimes",
+  "description": "Database of 371 US cold cases and historic crimes",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f172a",

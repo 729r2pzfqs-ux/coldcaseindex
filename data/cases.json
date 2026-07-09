@@ -24973,5 +24973,467 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "frankford-slasher",
+  "name": "The Frankford Slasher",
+  "type": "Multiple Homicide",
+  "status": "Unsolved",
+  "year": 1985,
+  "date": "1985 – 1990",
+  "state": "Pennsylvania",
+  "city": "Philadelphia",
+  "age": null,
+  "gender": "Female",
+  "summary": "The 'Frankford Slasher' is the name given to an unidentified serial killer who stabbed to death at least eight or nine women in and around the Frankford neighborhood of Philadelphia between 1985 and 1990. One man, Leonard Christopher, was convicted of a single killing, but the wider series remains unsolved.",
+  "lastSeen": "Victims were last seen frequenting bars along Frankford Avenue in the Frankford section of Northeast Philadelphia between 1985 and 1990.",
+  "tags": [
+   "serial killer",
+   "unsolved",
+   "cold case",
+   "unidentified killer",
+   "Philadelphia",
+   "stabbing"
+  ],
+  "sources": [
+   {
+    "title": "Frankford Slasher - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Frankford_Slasher"
+   },
+   {
+    "title": "'Frankford Slasher' Case Still Haunts Philadelphia, Remains Unsolved - NBC Philadelphia",
+    "url": "https://www.nbcphiladelphia.com/news/local/frankford-slasher-case-still-haunts-philadelphia-remains-unsolved/5065/"
+   },
+   {
+    "title": "'Frankford Slasher' Case Still Haunts Philadelphia, Remains Unsolved - NBC New York",
+    "url": "https://www.nbcnewyork.com/news/local/frankford-slasher-case-still-haunts-philadelphia-remains-unsolved/48206/"
+   },
+   {
+    "title": "A look at eight of Philadelphia's most notorious murder cases - PhillyVoice",
+    "url": "https://www.phillyvoice.com/a-look-at-eight-of-philadelphias-most-notorious-murder-cases/"
+   }
+  ],
+  "narrative": [
+   "Between 1985 and 1990, a string of brutal killings in the Frankford section of Northeast Philadelphia gave rise to the media nickname 'Frankford Slasher.' At least eight women, and by some counts nine, were sexually assaulted and stabbed to death, many of their bodies left in and around the blocks of Frankford Avenue between Wakeling and Bridge streets, near the elevated train line.",
+   "The victims shared a set of vulnerabilities that made them easy targets. They were described as women living on the margins of society: several were White, local to the area, and struggled with mental illness or drug and alcohol dependency. Many were last seen at bars along Frankford Avenue before being found stabbed, and the repeated pattern of the attacks convinced police and the public that a single killer was at work.",
+   "In 1990, following the murder of victim Carol Dowd, police arrested Leonard Christopher, a Black man who worked in the neighborhood. Christopher was convicted of first-degree murder in Dowd's death and sentenced to life in prison. The conviction, however, has long been regarded as controversial: no murder weapon, motive, or physical evidence such as blood was tied to him, and he did not fit witness descriptions of the suspect, whom several people described as a middle-aged white man.",
+   "Crucially, some killings attributed to the Slasher fit the same pattern even while Christopher was already in custody, undermining the theory that he alone was responsible. Witnesses had described a middle-aged white man, said to frequent the neighborhood's bars, who vanished after being questioned. Christopher maintained his innocence and later died of cancer while still imprisoned.",
+   "The broader series of Frankford killings has never been solved. Philadelphia investigators have periodically revisited the case, including re-examining surviving physical evidence with DNA techniques that were unavailable at the time of the original investigations. To date, no one has been identified as the Frankford Slasher, and most of the murders remain officially open."
+  ],
+  "timeline": [
+   {
+    "date": "August 1985",
+    "event": "The first killing later attributed to the Frankford Slasher occurs in Northeast Philadelphia."
+   },
+   {
+    "date": "1986–1988",
+    "event": "Additional women are found stabbed to death near Frankford Avenue, and the media dubs the unknown killer the 'Frankford Slasher.'"
+   },
+   {
+    "date": "January 1989",
+    "event": "The series of killings continues, deepening fear in the Frankford neighborhood."
+   },
+   {
+    "date": "1990",
+    "event": "Carol Dowd is murdered; Leonard Christopher is arrested and charged in her death."
+   },
+   {
+    "date": "September 1990",
+    "event": "A final victim in the series is killed."
+   },
+   {
+    "date": "December 1990",
+    "event": "Leonard Christopher is convicted of Carol Dowd's murder and sentenced to life in prison."
+   },
+   {
+    "date": "Present day",
+    "event": "The wider Frankford Slasher case remains unsolved, with DNA evidence periodically re-examined."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "hall-mills-murders-1922",
+  "name": "Hall–Mills Murders",
+  "type": "Multiple Homicide",
+  "status": "No Conviction",
+  "year": 1922,
+  "date": "September 16, 1922",
+  "state": "New Jersey",
+  "city": "New Brunswick",
+  "age": null,
+  "gender": "Multiple",
+  "summary": "Episcopal priest Edward Wheeler Hall and choir singer Eleanor Mills, who were having an affair, were found shot to death in a field near New Brunswick, New Jersey, in September 1922. A sensational 1926 trial ended in acquittals, and the double murder remains officially unsolved.",
+  "lastSeen": "Last seen alive the night of September 14, 1922; bodies discovered September 16, 1922, off De Russey's Lane near New Brunswick, New Jersey",
+  "tags": [
+   "cold case",
+   "double homicide",
+   "1920s",
+   "New Jersey",
+   "unsolved",
+   "media circus",
+   "clergy"
+  ],
+  "sources": [
+   {
+    "title": "Hall–Mills murder case - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hall%E2%80%93Mills_murder_case"
+   },
+   {
+    "title": "Hall-Mills murder case | Law | Research Starters | EBSCO",
+    "url": "https://www.ebsco.com/research-starters/law/hall-mills-murder-case"
+   },
+   {
+    "title": "All About the 1922 Hall-Mills Murders in New Brunswick, NJ",
+    "url": "https://wobm.com/hall-mills-murder-case-new-jersey/"
+   },
+   {
+    "title": "Hall-Mills Murder Case Collection - New Brunswick Free Public Library",
+    "url": "https://www.nbfpl.org/local-history/hall-mills-murder-radio-broadcast"
+   }
+  ],
+  "narrative": [
+   "On the morning of September 16, 1922, the bodies of the Reverend Edward Wheeler Hall, rector of the Church of St. John the Evangelist in New Brunswick, New Jersey, and Eleanor Reinhardt Mills, a married member of his church choir, were discovered lying side by side beneath a crabapple tree off De Russey's Lane, a lovers' lane in Franklin Township near the New Brunswick line. Both had been shot with a .32-caliber pistol—Hall once in the head, and Mills three times. Her throat had also been cut. Torn-up love letters the couple had exchanged were scattered between the bodies, which had been carefully arranged.",
+   "The pair had been carrying on a well-known affair. Hall, 41, was married to Frances Noel Stevens Hall, a wealthy older woman from the prominent Carpender-Stevens family; Mills, 34, was married to James Mills, the church sexton. The lurid combination of sex, religion, and social prominence turned the case into one of the earliest American media sensations, drawing enormous nationwide newspaper coverage and huge crowds of curiosity seekers to the crime scene.",
+   "The initial 1922 investigation, hampered by jurisdictional confusion between Middlesex and Somerset counties and by mishandling of the scene, produced no indictments. Renewed press attention in the New York Daily Mirror four years later prompted Governor A. Harry Moore to order a new inquiry. In 1926, Frances Hall and her brothers Henry and William Stevens—along with cousin Henry Carpender, who was tried separately—were charged with the murders. A key witness, Jane Gibson, dubbed the 'Pig Woman' by the press, testified from a hospital bed that she had witnessed the killings, but her credibility was heavily challenged.",
+   "The trial opened in November 1926 at the Somerset County Courthouse in Somerville and became known as a 'trial of the century.' On December 3, 1926, the jury acquitted Frances Hall and her brothers. No one was ever convicted of the murders, and the killings of Edward Hall and Eleanor Mills remain officially unsolved more than a century later. The case is still studied for its role in the history of tabloid journalism and the American 'media circus.'"
+  ],
+  "timeline": [
+   {
+    "date": "September 14, 1922",
+    "event": "Edward Hall and Eleanor Mills are believed to have been shot and killed on the night they went missing."
+   },
+   {
+    "date": "September 16, 1922",
+    "event": "Their bodies are found arranged beneath a crabapple tree off De Russey's Lane near New Brunswick, with torn love letters between them."
+   },
+   {
+    "date": "1922",
+    "event": "The initial investigation, plagued by jurisdictional disputes and a compromised crime scene, yields no indictments."
+   },
+   {
+    "date": "July 1926",
+    "event": "After renewed newspaper coverage, Governor A. Harry Moore orders a new investigation; Frances Hall and her brothers are charged."
+   },
+   {
+    "date": "November 1926",
+    "event": "The murder trial opens at the Somerset County Courthouse in Somerville, New Jersey, amid intense national press attention."
+   },
+   {
+    "date": "December 3, 1926",
+    "event": "Frances Hall and her brothers Henry and William Stevens are acquitted; the murders remain unsolved."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "lauria-bible-ashley-freeman-1999",
+  "name": "Lauria Bible and Ashley Freeman",
+  "type": "Homicide",
+  "status": "Partially Solved",
+  "year": 1999,
+  "date": "December 30, 1999",
+  "state": "Oklahoma",
+  "city": "Welch",
+  "age": null,
+  "gender": "Multiple",
+  "summary": "Best friends Lauria Bible and Ashley Freeman, both 16, disappeared from the Freeman family home near Welch, Oklahoma, on the night Ashley's parents were shot dead and the house was set on fire. Two now-deceased suspects were implicated, and a third man, Ronnie Busick, pleaded guilty in 2020 to being an accessory, but the girls' remains have never been found.",
+  "lastSeen": "December 29-30, 1999, at the Freeman family home near Welch, Oklahoma",
+  "tags": [
+   "missing teens",
+   "Oklahoma",
+   "double murder",
+   "arson",
+   "partially solved",
+   "cold case",
+   "abduction"
+  ],
+  "sources": [
+   {
+    "title": "Murders of Lauria Bible and Ashley Freeman - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murders_of_Lauria_Bible_and_Ashley_Freeman"
+   },
+   {
+    "title": "26 years later, Oklahoma cold case investigation continues for missing Welch teens - KTUL",
+    "url": "https://ktul.com/news/local/26-years-later-oklahoma-cold-case-investigation-continues-for-missing-welch-teens"
+   },
+   {
+    "title": "Ronnie Busick Sentenced to 10 Years as Lauria Bible's Mother Calls Him 'Evil Man' - Inside Edition",
+    "url": "https://www.insideedition.com/missing-welch-girls-ronnie-busick-sentenced-to-10-years-as-lauria-bibles-mother-calls-him-evil-man"
+   },
+   {
+    "title": "25 Years Later: The 1999 disappearance of Lauria Bible and Ashley Freeman - News On 6",
+    "url": "https://www.newson6.com/story/67731da48a4b0cd5008f7dd9/25-years-later:-the-1999-disappearance-of-lauria-bible-and-ashley-freeman"
+   },
+   {
+    "title": "Freeman Murders | Cold Cases | Craig County Sheriff's Office",
+    "url": "https://craigcountyso.com/cold-cases-freeman-murders"
+   }
+  ],
+  "narrative": [
+   "On the night of December 29, 1999, 16-year-old Lauria Bible stayed over at the rural home of her best friend, 16-year-old Ashley Freeman, near Welch in Craig County, Oklahoma. The visit was in part a celebration of Ashley's birthday, which fell on December 29. Sometime overnight, catastrophe struck the household.",
+   "Early on the morning of December 30, 1999, firefighters responded to a blaze at the Freeman mobile home. After extinguishing the fire, investigators found the body of Ashley's mother, Kathy Freeman, who had been shot in the head. The following day, the body of Ashley's father, Danny Freeman, was discovered in the debris; he too had been fatally shot. Lauria Bible and Ashley Freeman were nowhere to be found. Investigators concluded the girls had been abducted from the scene, and the case became one of Oklahoma's most notorious mysteries.",
+   "The investigation stretched on for years amid competing theories and false leads. Eventually, attention focused on three men associated with the local drug world. According to court filings, Warren Phillip 'Phil' Welch II and David Pennington were implicated in kidnapping and killing the girls; both men died before they could be charged, Welch in 2007 and Pennington in 2015. A third man, Ronnie Dean Busick, was arrested in April 2018 and charged in connection with the murders and abductions.",
+   "In July 2020, Ronnie Busick pleaded guilty to being an accessory to first-degree murder. He was sentenced to 15 years, with 10 years to serve and the remainder suspended, and he was released in 2023 after receiving credit for time served and good behavior. Statements associated with the case indicated the girls had been held, abused, and killed, with their bodies disposed of in a remote location, but no confession produced their remains.",
+   "Despite the guilty plea and the identification of the men believed responsible, Lauria Bible and Ashley Freeman have never been recovered. Lauria's mother, Lorene Bible, spent decades searching and pressing investigators, becoming a well-known advocate in the case. Authorities continue to seek the girls' remains and any additional information, and while the murders are considered largely accounted for, the case is not fully closed."
+  ],
+  "timeline": [
+   {
+    "date": "December 29, 1999",
+    "event": "Lauria Bible stays overnight at the Freeman home near Welch, Oklahoma, on Ashley Freeman's 16th birthday."
+   },
+   {
+    "date": "December 30, 1999",
+    "event": "Firefighters find the Freeman home ablaze; Kathy Freeman is found shot dead, and Danny Freeman's body is discovered the next day. Both girls are missing."
+   },
+   {
+    "date": "2007 / 2015",
+    "event": "Suspects Warren 'Phil' Welch II (2007) and David Pennington (2015) die before being charged."
+   },
+   {
+    "date": "April 2018",
+    "event": "Ronnie Dean Busick is arrested and charged in connection with the murders and the girls' abductions."
+   },
+   {
+    "date": "July 2020",
+    "event": "Busick pleads guilty to accessory to first-degree murder and is sentenced to 10 years to serve."
+   },
+   {
+    "date": "2023",
+    "event": "Busick is released from prison; the girls' remains have still never been found."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "relisha-rudd-2014",
+  "name": "Relisha Rudd",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2014,
+  "date": "March 1, 2014",
+  "state": "District of Columbia",
+  "city": "Washington",
+  "age": 8,
+  "gender": "Female",
+  "summary": "Eight-year-old Relisha Rudd, who lived with her family at a Washington, D.C. homeless shelter, disappeared in early 2014 after being taken by a shelter janitor, Kahlil Tatum. Tatum killed his wife and then himself before searchers could find the girl, whose body has never been recovered.",
+  "lastSeen": "March 1, 2014, entering a Days Inn in Washington, D.C., with Kahlil Tatum",
+  "tags": [
+   "missing child",
+   "Washington DC",
+   "homeless shelter",
+   "presumed homicide",
+   "cold case",
+   "unsolved"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Relisha Rudd - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Relisha_Rudd"
+   },
+   {
+    "title": "Renewed call for information in 2014 disappearance of 8-year-old Relisha Rudd - NBC News",
+    "url": "https://www.nbcnews.com/dateline/renewed-call-information-2014-washington-d-c-disappearance-8-year-n1297102"
+   },
+   {
+    "title": "Relisha Rudd disappearance: DC marks 10 years since girl vanished from shelter - FOX 5 DC",
+    "url": "https://www.fox5dc.com/news/relisha-rudd-disappearance-dc-marks-10-years-since-girl-vanished-from-city-homeless-shelter"
+   },
+   {
+    "title": "Where is Relisha Rudd? A look back on Relisha Rudd Remembrance Day - NBC4 Washington",
+    "url": "https://www.nbcwashington.com/news/local/where-is-relisha-rudd-a-look-back-on-relisha-rudd-remembrance-day/3662072/"
+   }
+  ],
+  "narrative": [
+   "Relisha Tenau Rudd was an eight-year-old girl living with her mother, Shamika Young, and younger siblings at the D.C. General Family Shelter, a large homeless shelter in Washington, D.C. At the shelter she came into contact with Kahlil Malik Tatum, a 51-year-old janitor employed by the facility's contractor. Tatum, who had a lengthy criminal record, cultivated a relationship with the family, buying the children gifts and presenting himself as a trusted figure.",
+   "In late February and early March 2014, Tatum removed Relisha from the shelter. He was captured on surveillance footage at a Days Inn hotel in Washington with the girl on March 1, 2014, which became the last confirmed sighting of Relisha. Critically, her prolonged absence went unreported for weeks; school officials had been given a doctor's note supposedly excusing her absences, and it was not until mid-March that authorities realized she was missing and that the note was fraudulent.",
+   "As the investigation unfolded, the case turned tragic. On March 20, 2014, Tatum's wife, Andrea Tatum, was found shot to death in a motel in Oxon Hill, Prince George's County, Maryland. A massive manhunt for Kahlil Tatum followed. On March 31, 2014, his body was discovered in a shed at Kenilworth Park and Aquatic Gardens in Washington; he had died of a self-inflicted gunshot wound from the same weapon used to kill his wife.",
+   "Police had earlier documented Tatum purchasing a shovel, lime, and large trash bags, and investigators came to believe he had killed Relisha. Extensive searches of parks and other locations, however, failed to recover her remains. With Tatum dead, the one person who could explain what happened to the girl was gone, and the case stalled.",
+   "Relisha Rudd's disappearance prompted widespread scrutiny of conditions at the D.C. General shelter and of the systems meant to protect vulnerable children. In the years since, advocates in Washington have marked a 'Relisha Rudd Remembrance Day,' and police have periodically renewed appeals for information. Although authorities believe she is dead, her body has never been found and the case is officially unsolved, leaving her fate formally unresolved."
+  ],
+  "timeline": [
+   {
+    "date": "February 26, 2014",
+    "event": "Relisha is last seen by relatives; she was in the care of shelter janitor Kahlil Tatum."
+   },
+   {
+    "date": "March 1, 2014",
+    "event": "Surveillance video captures Relisha entering a Days Inn in Washington, D.C., with Tatum, the last confirmed sighting."
+   },
+   {
+    "date": "March 19, 2014",
+    "event": "Relisha is reported missing after school officials and police determine a doctor's note excusing her absence was fraudulent."
+   },
+   {
+    "date": "March 20, 2014",
+    "event": "Tatum's wife, Andrea Tatum, is found shot dead at a motel in Oxon Hill, Maryland."
+   },
+   {
+    "date": "March 31, 2014",
+    "event": "Kahlil Tatum is found dead of a self-inflicted gunshot wound in Kenilworth Park in Washington, D.C."
+   },
+   {
+    "date": "2024",
+    "event": "Ten years after her disappearance, Relisha remains missing and the case is unsolved; her remains have never been recovered."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "west-mesa-murders-2009",
+  "name": "The West Mesa Murders (West Mesa Bone Collector)",
+  "type": "Unidentified Remains",
+  "status": "Unsolved",
+  "year": 2009,
+  "date": "February 2, 2009 (remains discovered)",
+  "state": "New Mexico",
+  "city": "Albuquerque",
+  "age": null,
+  "gender": "Female",
+  "summary": "In February 2009, the buried remains of 11 women and one unborn child were discovered on Albuquerque's West Mesa, victims of an unidentified killer nicknamed the 'West Mesa Bone Collector.' The women, mostly connected to sex work and drug use, disappeared between 2001 and 2005; the case remains unsolved.",
+  "lastSeen": "The victims were reported missing between roughly 2001 and 2005 in Albuquerque; their remains were found buried on the West Mesa in February 2009.",
+  "tags": [
+   "unidentified killer",
+   "unsolved",
+   "cold case",
+   "serial killer",
+   "buried remains",
+   "New Mexico"
+  ],
+  "sources": [
+   {
+    "title": "West Mesa murders - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/West_Mesa_murders"
+   },
+   {
+    "title": "West Mesa Homicide Investigation - City of Albuquerque Police Department",
+    "url": "https://www.cabq.gov/police/contact-the-police/west-mesa-homicide-investigation"
+   },
+   {
+    "title": "The Murders Of The West Mesa Bone Collector And The Chilling Evidence Left Behind - All That's Interesting",
+    "url": "https://allthatsinteresting.com/west-mesa-murders"
+   },
+   {
+    "title": "Will the West Mesa Serial Killer Ever Be Identified? - A&E Real Crime",
+    "url": "https://www.aetv.com/articles/west-mesa-serial-killer-search"
+   }
+  ],
+  "narrative": [
+   "On February 2, 2009, a woman walking her dog on Albuquerque's undeveloped West Mesa discovered a human bone protruding from an earthen trail. The find triggered one of the largest crime-scene excavations in New Mexico history. Over the following weeks, investigators unearthed the skeletal remains of 11 women, along with those of an unborn child carried by one of the victims, all buried in makeshift graves in an arroyo on the city's far west side.",
+   "The victims had gone missing between roughly 2001 and 2005 and ranged in age from about 15 to 32. Most were Hispanic, and the majority were connected to sex work and struggled with drug addiction, factors that police believe made their disappearances less likely to be aggressively investigated at the time. Among the identified victims was Michelle Valdez, who had been pregnant; the remains of her fetus were recovered alongside her.",
+   "The unknown perpetrator earned the nickname the 'West Mesa Bone Collector.' Because the burials were estimated to have occurred years before the discovery, and because so much time had passed, investigators faced a difficult task in reconstructing the timeline and gathering physical evidence from the weathered desert site.",
+   "Detectives have named several persons of interest over the years but never charged anyone. One was Lorenzo Montoya, who lived near the burial ground and had a history of violence against sex workers; he was killed in December 2006 before the remains were found. Another was Joseph Blea, a convicted serial rapist with ties to the era and area; though he was imprisoned on unrelated charges, no evidence has publicly linked him conclusively to the West Mesa graves.",
+   "The case remains open and unsolved. Albuquerque police have kept a reward on offer for information, and concern persists that the killer may be responsible for additional victims, as a number of other women with similar backgrounds remain missing from the same period. In 2020, a memorial park honoring the victims opened at the site where their remains were found."
+  ],
+  "timeline": [
+   {
+    "date": "2001–2005",
+    "event": "Eleven women disappear from Albuquerque; most are connected to sex work and drug use."
+   },
+   {
+    "date": "December 2006",
+    "event": "Person of interest Lorenzo Montoya is killed after murdering a sex worker, before the remains are discovered."
+   },
+   {
+    "date": "February 2, 2009",
+    "event": "A dog walker finds a human bone on the West Mesa, launching a major excavation."
+   },
+   {
+    "date": "February–March 2009",
+    "event": "The remains of 11 women and one unborn child are recovered from the burial site."
+   },
+   {
+    "date": "2010",
+    "event": "Authorities offer a reward of up to $100,000 for information."
+   },
+   {
+    "date": "June 2020",
+    "event": "A memorial park honoring the victims opens at the West Mesa burial site."
+   },
+   {
+    "date": "Present day",
+    "event": "The case remains unsolved with no one charged."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "zebb-quinn-2000",
+  "name": "Zebb Wayne Quinn",
+  "type": "Homicide",
+  "status": "Conviction",
+  "year": 2000,
+  "date": "January 2, 2000",
+  "state": "North Carolina",
+  "city": "Asheville",
+  "age": 18,
+  "gender": "Male",
+  "summary": "Zebb Wayne Quinn, an 18-year-old Walmart employee, disappeared in Asheville, North Carolina, on January 2, 2000, after leaving work with a coworker to look at a car. His body has never been found; in 2022 that coworker, Robert Jason Owens, pleaded guilty to accessory after the fact to first-degree murder.",
+  "lastSeen": "January 2, 2000, near a gas station after leaving his Walmart shift in Asheville, North Carolina",
+  "tags": [
+   "homicide",
+   "north carolina",
+   "asheville",
+   "missing person",
+   "conviction",
+   "cold case",
+   "2000"
+  ],
+  "sources": [
+   {
+    "title": "Murder of Zebb Quinn - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Zebb_Quinn"
+   },
+   {
+    "title": "20 years after the disappearance of Zebb Quinn, still very few answers – WLOS",
+    "url": "https://wlos.com/news/local/20-years-after-the-disappearance-of-zebb-quinn-still-very-few-answers"
+   },
+   {
+    "title": "Zebb Wayne Quinn – The Doe Network (4536DMNC)",
+    "url": "https://www.doenetwork.org/cases/4536dmnc.html"
+   },
+   {
+    "title": "Zebb Quinn – The Disappeared Blog",
+    "url": "https://disappearedblog.com/zebb-quinn/"
+   }
+  ],
+  "narrative": [
+   "Zebb Wayne Quinn was an 18-year-old from Asheville, North Carolina, working in the electronics department of a local Walmart. On the night of January 2, 2000, Quinn finished his shift around 9:00 p.m. and had arranged to travel to Leicester with a coworker, Robert Jason Owens, to look at a car Quinn was interested in buying. The two met in the Walmart parking lot and drove separately.",
+   "Surveillance footage captured the pair at a nearby gas station around 9:15 p.m. buying sodas. According to Owens, after leaving the station Quinn flashed his headlights to signal him to pull over, saying he had received a page and needed to return the call. Owens said that after using a payphone Quinn returned appearing frantic, told him their plans were off, and sped away, rear-ending Owens's truck in the process. That was the last confirmed sighting of Zebb Quinn.",
+   "Days later, Quinn's car was found abandoned in a restaurant parking lot under bizarre circumstances: its headlights had been left on, a live puppy had been left inside, and a drawing of a pair of lips and an exclamation point had been scrawled in pink lipstick on the rear window. Around the same time, a caller impersonating Quinn phoned his workplace to say he would not be coming in, deepening the mystery. The strange details generated intense interest but few answers for years.",
+   "The case broke open only after Owens drew law-enforcement attention in a separate matter: in 2015 he pleaded guilty to murdering and dismembering a pregnant neighbor and her husband, Cristie and J.T. Codd. On July 10, 2017, Owens was indicted for the first-degree murder of Zebb Quinn. On July 25, 2022, he pleaded guilty to the lesser charge of accessory after the fact to first-degree murder. Through his attorneys, Owens claimed his uncle, Walter \"Gene\" Owens, who had died in 2017, was the one who killed Quinn.",
+   "Owens received a sentence of roughly 12 to 16 years for the accessory charge, to run concurrently with the life sentence he was already serving for the Codd killings. Zebb Quinn's remains have never been recovered, and the person Owens accused of the actual killing, his uncle Walter \"Gene\" Owens, was never charged and had already died in 2017. As a result, while the case finally produced a conviction after more than two decades, many of the exact circumstances of Quinn's death remain unresolved, and prosecutors and Quinn's family were left without a full accounting of what happened or the recovery of his body. The bizarre details surrounding the disappearance, from the lipstick-marked car to the puppy left inside it, have never been fully explained, and Quinn's mother continued to seek answers throughout the long investigation."
+  ],
+  "timeline": [
+   {
+    "date": "January 2, 2000",
+    "event": "Zebb Quinn, 18, finishes his Walmart shift around 9:00 p.m. and leaves with coworker Robert Jason Owens to look at a car."
+   },
+   {
+    "date": "January 2, 2000",
+    "event": "The two are seen at a gas station about 9:15 p.m.; Owens later says Quinn got a page, became frantic, and sped off — the last confirmed sighting."
+   },
+   {
+    "date": "January 2000",
+    "event": "Quinn's car is found abandoned with its headlights on, a live puppy inside, and lipstick markings on the rear window."
+   },
+   {
+    "date": "2015",
+    "event": "Owens pleads guilty to the unrelated murders of Cristie and J.T. Codd, drawing renewed scrutiny to the Quinn case."
+   },
+   {
+    "date": "July 10, 2017",
+    "event": "Owens is indicted for the first-degree murder of Zebb Quinn."
+   },
+   {
+    "date": "July 25, 2022",
+    "event": "Owens pleads guilty to accessory after the fact to first-degree murder, accusing his late uncle of the killing."
+   },
+   {
+    "date": "Present",
+    "event": "Quinn's remains have never been found; the exact circumstances of his death remain unresolved."
+   }
+  ],
+  "enriched": true
  }
 ]
