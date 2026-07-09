@@ -20400,5 +20400,385 @@
    }
   ],
   "enriched": true
+ },
+ {
+  "id": "emily-pike-2025",
+  "name": "Emily Pike",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 2025,
+  "date": "January 27, 2025 (last seen); remains found February 14, 2025",
+  "state": "Arizona",
+  "city": "Mesa",
+  "age": 14,
+  "gender": "Female",
+  "summary": "Emily Pike, a 14-year-old member of the San Carlos Apache Tribe, disappeared from a Mesa, Arizona group home on January 27, 2025. Her dismembered remains were found in trash bags off US Highway 60 near Globe on February 14, 2025, and an autopsy attributed her death to homicidal violence with blunt head trauma. The case remains unsolved with no arrests, and it prompted Arizona to enact 'Emily's Law' creating the Turquoise Alert system for missing Indigenous and endangered persons.",
+  "lastSeen": "Last seen leaving her group home on foot near Mesa Drive and McKellips Road in Mesa, Arizona, around 7:45 p.m. on January 27, 2025; remains found off US 60 near Globe, Arizona on February 14, 2025",
+  "tags": [
+   "arizona",
+   "homicide",
+   "mmip",
+   "indigenous",
+   "san carlos apache",
+   "teenager",
+   "group home",
+   "turquoise alert"
+  ],
+  "sources": [
+   {
+    "title": "Emily Pike's murder still unsolved one year later — Arizona's Family (AZFamily)",
+    "url": "https://www.azfamily.com/2026/02/15/emily-pikes-murder-still-unsolved-one-year-later/"
+   },
+   {
+    "title": "Disappearance and killing of Emily Pike — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_and_killing_of_Emily_Pike"
+   },
+   {
+    "title": "Gov. Katie Hobbs signs Turquoise Alert System into law — AZ Luminaria",
+    "url": "https://azluminaria.org/2025/05/13/gov-katie-hobbs-signs-turquoise-alert-system-into-law/"
+   },
+   {
+    "title": "EMILY PIKE — Seeking Information — FBI",
+    "url": "https://www.fbi.gov/wanted/seeking-info/emily-pike"
+   },
+   {
+    "title": "Arizona Crime Uncovered: Who killed Emily Pike? — ABC15 Arizona",
+    "url": "https://www.abc15.com/news/state/arizona-crime-uncovered/az-crime-uncovered-who-killed-emily-pike"
+   }
+  ],
+  "narrative": [
+   "Emily Pike was a 14-year-old member of the San Carlos Apache Tribe who grew up on the San Carlos Apache Indian Reservation in eastern Arizona. Described by relatives as a girl who loved art and hoped to attend college, she had been placed in a Mesa group home for girls in September 2023. According to her family, the placement followed her report of a sexual assault on the reservation, a case in which no arrest was ever made. Records and news reports show she had run away from the group home several times before, and family members said she was unhappy there.",
+   "On the evening of January 27, 2025, at about 7:45 p.m., Emily left the group home on foot near Mesa Drive and McKellips Road, wearing a pink and gray shirt. Mesa police handled her disappearance as a runaway juvenile case, and no Amber Alert was issued because the circumstances did not meet the criteria for one. Her mother, Steff Dosela, has said she was not notified of her daughter's disappearance until roughly a week after Emily went missing.",
+   "On February 14, 2025, human remains were discovered in contractor-style trash bags off US Highway 60 outside Globe, in Gila County, roughly 100 miles from Mesa and not far from the San Carlos Apache Reservation. On February 27, 2025, the Gila County Sheriff's Office announced the remains had been identified as Emily Pike. Her body had been dismembered, and her arms and hands were never recovered. An autopsy attributed her death to homicidal violence with blunt head trauma. The Gila County Sheriff's Office is leading the homicide investigation with assistance from the FBI, the San Carlos Apache Tribe, and Mesa police. The FBI and the tribe have offered a combined reward of $75,000 for information leading to those responsible. According to Emily's mother, investigators had questioned potential suspects, but no suspects have been publicly identified and no arrests have been made.",
+   "Emily's death drew national attention to the crisis of missing and murdered Indigenous people and prompted policy changes in Arizona. On May 13, 2025, Governor Katie Hobbs signed House Bill 2281, known as 'Emily's Law,' creating the Turquoise Alert system, a statewide notification system managed by the Arizona Department of Public Safety for missing people, including tribal members, who disappear under suspicious or dangerous circumstances. The case also prompted scrutiny of Arizona's group home licensing and notification policies, and state officials reviewed the Mesa facility where Emily had lived.",
+   "As of February 2026, one year after her remains were found, the case remained unsolved. The Gila County Sheriff's Office said the investigation was still active but that it could not release details because of the sensitive nature of its leads and evidence. Community members maintain a memorial at Mesa Drive and McKellips Road, and Emily's family has continued to call for justice and for accountability in how her disappearance was handled."
+  ],
+  "timeline": [
+   {
+    "date": "September 2023",
+    "event": "Emily Pike is placed in a group home for girls in Mesa, Arizona; family members say the placement followed her report of a sexual assault that never resulted in an arrest."
+   },
+   {
+    "date": "2023–2024",
+    "event": "Emily runs away from the group home multiple times and is reported missing on each occasion; reports indicate she told others she was unhappy at the home."
+   },
+   {
+    "date": "January 27, 2025",
+    "event": "Around 7:45 p.m., Emily leaves the group home on foot near Mesa Drive and McKellips Road wearing a pink and gray shirt; she is reported to Mesa police as a runaway. No Amber Alert is issued."
+   },
+   {
+    "date": "Early February 2025",
+    "event": "Emily's mother, Steff Dosela, says she was not informed of her daughter's disappearance until about a week after Emily went missing."
+   },
+   {
+    "date": "February 14, 2025",
+    "event": "Human remains are found in trash bags off US Highway 60 near Globe in Gila County, Arizona."
+   },
+   {
+    "date": "February 27, 2025",
+    "event": "The Gila County Sheriff's Office announces the remains have been identified as Emily Pike and opens a homicide investigation; an autopsy attributes her death to homicidal violence with blunt head trauma. Her arms and hands were not recovered."
+   },
+   {
+    "date": "March 2025",
+    "event": "Vigils and memorials are held in Mesa, Globe, and on the San Carlos Apache Reservation; the case draws national attention to missing and murdered Indigenous people."
+   },
+   {
+    "date": "Spring 2025",
+    "event": "The FBI and the San Carlos Apache Tribe offer a combined $75,000 reward for information leading to an arrest; the FBI posts a seeking-information notice."
+   },
+   {
+    "date": "May 13, 2025",
+    "event": "Governor Katie Hobbs signs House Bill 2281, 'Emily's Law,' creating the Turquoise Alert system for missing endangered persons, including tribal members; a ceremonial signing with tribal leaders follows on May 21."
+   },
+   {
+    "date": "February 2026",
+    "event": "One year after Emily's remains were found, the case remains unsolved with no arrests; the Gila County Sheriff's Office says the investigation is active, and community members gather at her Mesa memorial."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "jamison-family-2009",
+  "name": "Jamison Family",
+  "type": "Suspicious Death",
+  "status": "Unsolved",
+  "year": 2009,
+  "date": "October 8, 2009",
+  "state": "Oklahoma",
+  "city": "Eufaula",
+  "age": null,
+  "gender": "Multiple",
+  "summary": "Bobby Jamison, 44, his wife Sherilynn, 40, and their six-year-old daughter Madyson vanished on October 8, 2009, after traveling from their Eufaula home to look at rural land near Red Oak, Oklahoma. Their pickup truck was found abandoned in remote Latimer County with their phones, IDs, about $32,000 in cash, and their starving dog inside. Skeletal remains found by hunters in November 2013, less than three miles from the truck, were identified as the family in July 2014, but the cause of death could not be determined and the case remains unsolved.",
+  "lastSeen": "Last seen October 8, 2009, near Red Oak/Panola Mountain, Latimer County, Oklahoma; skeletal remains found November 16, 2013, less than three miles from their abandoned truck",
+  "tags": [
+   "oklahoma",
+   "family",
+   "missing persons",
+   "skeletal remains",
+   "undetermined cause",
+   "rural",
+   "child victim",
+   "unsolved"
+  ],
+  "sources": [
+   {
+    "title": "Jamison family deaths - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jamison_family_deaths"
+   },
+   {
+    "title": "Sherilynn Jamison - Oklahoma Cold Cases",
+    "url": "https://oklahomacoldcases.org/sherilynn-jamison/"
+   },
+   {
+    "title": "The Jamison Family - The Disappeared Blog",
+    "url": "https://disappearedblog.com/the-jamison-family/"
+   },
+   {
+    "title": "Missing Family Mystery Expands Thanks to Video and Anonymous Tipster - OKC Fox (KOKH)",
+    "url": "https://okcfox.com/archive/missing-family-mystery-expands-thanks-to-video-and-anonymous-tipster"
+   }
+  ],
+  "narrative": [
+   "On October 8, 2009, Bobby Dale Jamison, 44, his wife Sherilynn, 40, and their six-year-old daughter Madyson left their home near Eufaula, Oklahoma, to look at a roughly 40-acre plot of rural land they were considering buying near Red Oak, about 30 miles away in the Sans Bois Mountains of Latimer County. Security camera footage from their property that day showed Bobby and Sherilynn making repeated trips between the house and their pickup truck; investigators and media accounts have described their movements as unusual or 'trancelike,' though what, if anything, that signified has never been established. The family was never seen alive again.",
+   "About a week later, the Jamisons' locked pickup truck was found abandoned at a remote site on Panola Mountain, south of Kinta in Latimer County. Inside were the family's wallets and identification, their cell phones, a GPS unit, clothing, approximately $32,000 in cash reportedly found in a bank envelope under the driver's seat, and the family's dog, Maisie, severely malnourished but alive. A photograph of Madyson, apparently taken on the mountain the day the family disappeared, was recovered from a cell phone in the truck. Extensive searches of the rugged terrain in 2009, involving law enforcement, volunteers, and search dogs, found no trace of the family. According to media reports, a brown briefcase Bobby was said to carry and a handgun belonging to Sherilynn were not located.",
+   "The case drew national attention in part because of the unusual circumstances investigators described. Media accounts and people close to the family reported that the Jamisons had experienced financial and health problems, that Bobby was involved in a legal dispute with his father, and that family members had spoken of feeling spiritually troubled, including claims that their house was haunted. Investigators reportedly examined a range of theories over the years, including foul play, drug involvement, murder-suicide, exposure after becoming lost, and a voluntary disappearance. A friend of the family also told reporters that an anonymous caller claimed a white-supremacist group had discussed the family, a tip that was publicized but never substantiated. None of these theories has been confirmed, and no suspect has ever been publicly identified or charged.",
+   "On November 16, 2013, more than four years after the disappearance, two hunters found the skeletal remains of two adults and a child in the Smokestack Hollow area of Panola Mountain, less than three miles from where the truck had been abandoned. On July 3, 2014, the Oklahoma medical examiner's office confirmed through anthropological and forensic testing that the remains were those of Bobby, Sherilynn, and Madyson Jamison. Because the remains were incomplete, heavily decomposed, and damaged by animals, the medical examiner could not determine a cause of death for any of the three, and each was officially listed as unknown.",
+   "The deaths of the Jamison family remain unsolved. The Latimer County Sheriff's Office has said the case is open and active, and it has been featured on programs including Investigation Discovery's 'Disappeared,' but as of the most recent public reporting, how and why the family died has never been explained."
+  ],
+  "timeline": [
+   {
+    "date": "October 8, 2009",
+    "event": "Bobby, Sherilynn, and Madyson Jamison leave their Eufaula-area home to view land near Red Oak, Oklahoma; home security footage records the couple loading their truck. They are never seen alive again."
+   },
+   {
+    "date": "Mid-October 2009",
+    "event": "The family's locked pickup truck is found abandoned at a remote site on Panola Mountain south of Kinta, Latimer County, containing their IDs, phones, a GPS unit, about $32,000 in cash, and their malnourished dog."
+   },
+   {
+    "date": "October–November 2009",
+    "event": "Large-scale searches of the surrounding mountains by law enforcement, trackers, and volunteers find no trace of the family."
+   },
+   {
+    "date": "2009–2013",
+    "event": "Investigators examine multiple theories, including foul play, drug involvement, murder-suicide, exposure, and voluntary disappearance; no suspect is identified."
+   },
+   {
+    "date": "November 16, 2013",
+    "event": "Two hunters discover the skeletal remains of two adults and one child in the Smokestack Hollow area of Panola Mountain, less than three miles from where the truck was found."
+   },
+   {
+    "date": "July 3, 2014",
+    "event": "The Oklahoma medical examiner's office confirms the remains are those of Bobby, Sherilynn, and Madyson Jamison; the cause of death for each is listed as unknown due to the condition of the remains."
+   },
+   {
+    "date": "2014–present",
+    "event": "The case remains open and unsolved with the Latimer County Sheriff's Office; no cause of death has been determined and no charges have been filed."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "oklahoma-girl-scout-murders-1977",
+  "name": "Oklahoma Girl Scout Murders (Lori Farmer, Michele Guse, Doris Milner)",
+  "type": "Multiple Homicide",
+  "status": "No Conviction",
+  "year": 1977,
+  "date": "June 13, 1977",
+  "state": "Oklahoma",
+  "city": "Locust Grove",
+  "age": null,
+  "gender": "Female",
+  "summary": "Three Girl Scouts — Lori Lee Farmer, 8, Michele Heather Guse, 9, and Doris Denise Milner, 10 — were sexually assaulted and murdered during the first night of summer camp at Camp Scott near Locust Grove, Oklahoma, on June 13, 1977. Local jail escapee Gene Leroy Hart was arrested and tried for the killings but was acquitted by a jury in March 1979; he died in prison months later. In 2022 the Mayes County sheriff announced that new DNA testing strongly suggested Hart's involvement, but the degraded samples could not produce a definitive profile and no one has ever been convicted.",
+  "lastSeen": "Bodies found about 6 a.m. on June 13, 1977, on a trail roughly 150 yards from their tent at Camp Scott, Mayes County, Oklahoma",
+  "tags": [
+   "oklahoma",
+   "multiple homicide",
+   "child victims",
+   "girl scouts",
+   "camp scott",
+   "dna testing",
+   "acquittal",
+   "1970s"
+  ],
+  "sources": [
+   {
+    "title": "Oklahoma Girl Scout murders — Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Oklahoma_Girl_Scout_murders"
+   },
+   {
+    "title": "Have 'The Oklahoma Girl Scout Murders' Ever Been Solved? — Newsweek",
+    "url": "https://www.newsweek.com/oklahoma-girl-scout-murders-solved-gene-leroy-hart-hulu-1709663"
+   },
+   {
+    "title": "Girl Scout Murders: DNA Closes The Case 45 Years Later — News9.com",
+    "url": "https://www.news9.com/story/6279dba06e504b0726fcb888/girl-scout-murders:-dna-closes-the-case-45-years-later-"
+   },
+   {
+    "title": "A Timeline of the Oklahoma Girl Scout Murders — The Cold Cases",
+    "url": "https://www.thecoldcases.com/p/a-timeline-of-the-oklahoma-girl-scout"
+   },
+   {
+    "title": "The Girl Scout Murders — Oklahoma Cold Cases",
+    "url": "https://oklahomacoldcases.org/the-girl-scout-murders/"
+   }
+  ],
+  "narrative": [
+   "On June 12, 1977, girls arrived at Camp Scott, a Girl Scout camp near Locust Grove in Mayes County, Oklahoma, for the first session of the summer. Lori Lee Farmer, 8, Michele Heather Guse, 9, and Doris Denise Milner, 10, all from the Broken Arrow area, shared a tent in the camp's Kiowa unit, the unit farthest from the counselors' tent and partially screened from view by the shower building. Sometime during the night of June 12-13, an intruder entered the tent. Around 6 a.m. on June 13, a counselor walking to the showers discovered the girls' bodies on a trail about 150 yards from their tent. All three had been sexually assaulted; two died of blunt-force trauma and one was strangled. Physical evidence included a red flashlight bearing a smudged fingerprint and a bloody size 9.5 shoe print. During the later civil trial, it emerged that roughly two months before the murders a counselor had found her belongings ransacked and a handwritten note declaring, 'We are on a mission to kill three girls in tent one'; camp staff had reportedly dismissed it as a prank.",
+   "The killings prompted one of the largest manhunts in Oklahoma history. Investigators quickly focused on Gene Leroy Hart, a Cherokee Nation citizen and convicted rapist who had escaped from the Mayes County Jail in 1973 and was believed to be hiding in the rugged terrain around the camp. Hart was captured on April 6, 1978, at a cabin in Cherokee County after nearly ten months on the run. He stood trial in March 1979 in Pryor, where the prosecution's case rested largely on circumstantial and hair evidence. The jury unanimously found Hart not guilty. Returned to prison to serve time on his earlier convictions, Hart died of a heart attack at the Oklahoma State Penitentiary on June 4, 1979, at age 35.",
+   "Camp Scott closed after the murders and never reopened. Two of the victims' families sued the Magic Empire Council of Girl Scouts and its insurer for $5 million, alleging negligence, citing the threatening note and the isolated placement of the girls' tent. In 1985, jurors voted 9-3 in favor of the Girl Scout council.",
+   "Forensic re-examination continued for decades. Testing reported in 1989 found that three of five DNA probes were consistent with Hart's profile, a result prosecutors said applied to roughly 1 in 7,700 Native American men. Testing of a pillowcase in 2008 was inconclusive because the samples were too deteriorated. In 2017, Mayes County Sheriff Mike Reed raised about $30,000 in donations for new testing by the Oklahoma State Bureau of Investigation. In 2022, at the families' request, Reed announced that the results, known since 2019, strongly suggested Hart's involvement, saying he was personally convinced of Hart's guilt; because of degradation, the evidence still fell short of a complete, definitive DNA profile.",
+   "Because Hart was acquitted and no one else has ever been charged, the case officially remains without a conviction. Following the U.S. Supreme Court's McGirt decision on tribal jurisdiction, the Cherokee Nation has also reviewed the case. Victims' relatives, including Lori Farmer's mother Sheri Farmer, said the 2022 announcement brought a measure of peace after 45 years."
+  ],
+  "timeline": [
+   {
+    "date": "April 1977",
+    "event": "A Camp Scott counselor reportedly finds her belongings ransacked and a note stating 'We are on a mission to kill three girls in tent one'; it is treated as a prank."
+   },
+   {
+    "date": "June 12, 1977",
+    "event": "Summer camp session opens at Camp Scott; Lori Farmer, Michele Guse, and Doris Milner share a tent in the Kiowa unit."
+   },
+   {
+    "date": "June 13, 1977",
+    "event": "About 6 a.m., a counselor discovers the three girls' bodies on a trail roughly 150 yards from their tent; the camp is evacuated and a massive manhunt begins."
+   },
+   {
+    "date": "June-July 1977",
+    "event": "Gene Leroy Hart, a 1973 Mayes County Jail escapee with prior rape and kidnapping convictions, is named the prime suspect."
+   },
+   {
+    "date": "April 6, 1978",
+    "event": "Hart is captured in Cherokee County after nearly ten months on the run."
+   },
+   {
+    "date": "March 1979",
+    "event": "Hart is tried in Pryor, Oklahoma; the jury unanimously acquits him after less than five hours of deliberation."
+   },
+   {
+    "date": "June 4, 1979",
+    "event": "Hart dies of a heart attack at the Oklahoma State Penitentiary, age 35, while serving sentences on earlier convictions."
+   },
+   {
+    "date": "1985",
+    "event": "Jurors vote 9-3 in favor of the Magic Empire Girl Scout Council in the victims' families' $5 million negligence suit; Camp Scott never reopens."
+   },
+   {
+    "date": "1989",
+    "event": "Early DNA testing finds three of five probes consistent with Hart's profile, reported as matching about 1 in 7,700 Native American men."
+   },
+   {
+    "date": "2008",
+    "event": "DNA testing on a pillowcase is inconclusive because the samples are too deteriorated."
+   },
+   {
+    "date": "2017",
+    "event": "Mayes County Sheriff Mike Reed raises about $30,000 in donations for new DNA testing by the OSBI."
+   },
+   {
+    "date": "May 2022",
+    "event": "Reed announces that DNA results known since 2019 strongly suggest Hart's involvement, though degraded samples prevent a definitive full profile; the case officially remains without a conviction."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "tabitha-tuders-2003",
+  "name": "Tabitha Tuders",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2003,
+  "date": "April 29, 2003",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "age": 13,
+  "gender": "Female",
+  "summary": "Tabitha Danielle Tuders, 13, vanished on the morning of April 29, 2003, while walking roughly one block from her East Nashville home to her school bus stop at 14th and Boscobel Streets. She never boarded the bus, and investigators came to believe she was abducted; the FBI lists her case as a kidnapping and offers a reward of up to $50,000. Despite thousands of tips, reported sightings, and property searches, her whereabouts remain unknown and no one has been charged.",
+  "lastSeen": "Morning of April 29, 2003, walking toward her bus stop near 14th Street and Boscobel Street in East Nashville, Tennessee",
+  "tags": [
+   "tennessee",
+   "nashville",
+   "missing child",
+   "suspected abduction",
+   "fbi kidnapping listing",
+   "east nashville",
+   "unsolved",
+   "reward offered"
+  ],
+  "sources": [
+   {
+    "title": "Disappearance of Tabitha Tuders - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Tabitha_Tuders"
+   },
+   {
+    "title": "Tabitha Danielle Tuders - The Charley Project",
+    "url": "https://charleyproject.org/case/tabitha-danielle-tuders"
+   },
+   {
+    "title": "Tabitha Danielle Tuders - FBI Kidnapped/Missing Persons",
+    "url": "https://www.fbi.gov/wanted/kidnap/tabitha-danielle-tuders"
+   },
+   {
+    "title": "Missing Person / NamUs #MP2026",
+    "url": "https://namus.nij.ojp.gov/case/MP2026"
+   },
+   {
+    "title": "Missing Person Tabitha Tuders - Metropolitan Nashville Police Department",
+    "url": "https://www.nashville.gov/departments/police/get-involved/missing-persons/tabitha-tuders"
+   },
+   {
+    "title": "Authorities reissue plea for information about Nashville girl who went missing on her way to school 23 years ago - WSMV",
+    "url": "https://www.wsmv.com/2026/04/30/authorities-reissue-plea-information-about-nashville-girl-who-went-missing-her-way-school-23-years-ago/"
+   },
+   {
+    "title": "20 years after Tabitha Tuders disappeared, the search for clues continues - NewsChannel 5 Nashville",
+    "url": "https://www.newschannel5.com/news/20-years-after-tabitha-tuders-disappeared-the-search-for-clues-continues"
+   }
+  ],
+  "narrative": [
+   "Tabitha Danielle Tuders, born February 15, 1990, was the youngest of three children of Bo and Debra Tuders and lived on Lillian Street in East Nashville, Tennessee. On the morning of Tuesday, April 29, 2003, her father saw her at home around 7:00 a.m. before leaving for work. At about 7:50 a.m., the 13-year-old set out on her usual one-block walk to the school bus stop at 14th and Boscobel Streets, headed for Bailey Middle School. Neighbors saw her walking her familiar route, but she never boarded the bus and never arrived at school. Because attendance calls did not reach her working parents until that evening, she was not reported missing until around 6:00 p.m.",
+   "Police initially considered the possibility that Tabitha had run away, but investigators and her family came to reject that theory: she was a good student with strong attendance, was active in her church, was looking forward to a family vacation, and left behind her belongings, including about twenty dollars in cash. A neighborhood boy later told police he had seen Tabitha near a red car that circled back toward her, and said she got into the front passenger seat; he described the driver as a Black man in his thirties or forties wearing a baseball cap. Witness descriptions of the vehicle varied over the years, with accounts mentioning a red or green car, possibly a Volkswagen Beetle or Ford Mustang. Scent-tracking dogs followed Tabitha's trail along a route consistent with the witness account, ending in an alley her friends said she would not have entered alone.",
+   "The Metropolitan Nashville Police Department led an extensive search supported by dogs, aviation units, and neighborhood volunteers, and the FBI joined the investigation, ultimately listing Tabitha on its kidnapped and missing persons page with a reward of up to $50,000. According to the Charley Project, detectives looked at several people over the years, including a former boyfriend of Tabitha's sister who drove a red car, but no one was ever charged, and a man arrested months later for allegedly trying to lure another girl was investigated and cleared. Police also noted that several registered sex offenders lived within a mile of the Tuders home in 2003, though none was linked to the case.",
+   "Tips have continued for more than two decades, all without confirmed results. In October 2003, a trucker and a hotel clerk in Linton, Indiana, separately reported seeing a frightened-looking girl resembling Tabitha, but the sightings were never verified. A 2015 anonymous tip claiming she was in Nebraska proved unfounded, and in 2020 investigators searched a six-acre rural property in Bon Aqua, Tennessee, without finding evidence connected to her.",
+   "The case remains open with the Metro Nashville Police Department's Cold Case Unit, and Tabitha remains listed in NamUs (case MP2026). Her family has held vigils on the anniversary of her disappearance, and her father told NewsChannel 5 in 2023, 'If there's somebody out there that knows what happened, it's been 20 years. Please let someone know.' On the 23rd anniversary in April 2026, authorities renewed their public plea for information, with the FBI continuing to offer up to $50,000 for information leading to her recovery and the prosecution of those responsible."
+  ],
+  "timeline": [
+   {
+    "date": "February 15, 1990",
+    "event": "Tabitha Danielle Tuders is born in Nashville, Tennessee."
+   },
+   {
+    "date": "April 29, 2003, ~7:00 a.m.",
+    "event": "Her father sees her at their Lillian Street home in East Nashville before leaving; around 7:50 a.m. she leaves to walk one block to her bus stop at 14th and Boscobel Streets."
+   },
+   {
+    "date": "April 29, 2003, ~6:00 p.m.",
+    "event": "After she fails to return home from school, her parents report her missing to Metro Nashville police."
+   },
+   {
+    "date": "Spring 2003",
+    "event": "Extensive searches with tracking dogs, aviation support, and volunteers; a young witness reports seeing Tabitha get into a red car driven by an unidentified man, and scent dogs trace her route to an alley."
+   },
+   {
+    "date": "October 2003",
+    "event": "A trucker and a hotel clerk in Linton, Indiana, separately report seeing a girl resembling Tabitha who appeared anxious; the sightings are never confirmed."
+   },
+   {
+    "date": "2015",
+    "event": "An anonymous tip claims Tabitha is in Nebraska; investigators determine the lead is unfounded."
+   },
+   {
+    "date": "2020",
+    "event": "Investigators search a six-acre rural property in Bon Aqua, Tennessee, based on a tip; no evidence connected to Tabitha is found."
+   },
+   {
+    "date": "April 29, 2023",
+    "event": "On the 20th anniversary, Metro Nashville's Cold Case Unit says tips continue to come in and her family renews public appeals for information."
+   },
+   {
+    "date": "April 29, 2026",
+    "event": "On the 23rd anniversary, authorities reissue a plea for information; the FBI continues to offer a reward of up to $50,000 in the still-unsolved case."
+   }
+  ],
+  "enriched": true
  }
 ]
