@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,10 +7,10 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
 <meta name="google-site-verification" content="PnQaWQNHws_WTbo90jGB6meg8bYUQTFNwPb3DeO4XjM">
-<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>
+<script>try{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>
 
 <title>ColdCaseIndex — Cold Case & Historic Crime Database</title>
-<meta name="description" content="A searchable database of 1001 documented cold cases and historic crimes in America. Homicides, missing persons, unidentified victims, and landmark criminal cases across all 50 states and DC, from the 1890s to the 2020s.">
+<meta name="description" content="A searchable database of documented cold cases and historic crimes. Homicides, missing persons, unidentified victims, and landmark criminal cases across all 50 US states, DC, and internationally, from the 1880s to the 2020s.">
 <link rel="canonical" href="https://coldcaseindex.com/">
 <link rel="alternate" hreflang="en" href="https://coldcaseindex.com/">
 <link rel="alternate" hreflang="x-default" href="https://coldcaseindex.com/">
@@ -19,13 +19,13 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://coldcaseindex.com/">
 <meta property="og:title" content="ColdCaseIndex — Cold Case &amp; Historic Crime Database">
-<meta property="og:description" content="A searchable database of documented cold cases and historic crimes in America, across all 50 states and DC.">
+<meta property="og:description" content="A searchable database of documented cold cases and historic crimes — across all 50 US states, DC, and international regions.">
 <meta property="og:image" content="https://coldcaseindex.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="ColdCaseIndex — Cold Case &amp; Historic Crime Database">
-<meta name="twitter:description" content="A searchable database of documented cold cases and historic crimes in America, across all 50 states and DC.">
+<meta name="twitter:description" content="A searchable database of documented cold cases and historic crimes — across all 50 US states, DC, and international regions.">
 <meta name="twitter:image" content="https://coldcaseindex.com/og-image.png">
 
 <script type="application/ld+json">
@@ -36,7 +36,7 @@
   "name": "ColdCaseIndex",
   "alternateName": "Cold Case Index",
   "url": "https://coldcaseindex.com/",
-  "description": "A searchable database of documented cold cases and historic crimes in America — homicides, missing persons, and unidentified victims across all 50 states and DC.",
+  "description": "A searchable database of documented cold cases and historic crimes — homicides, missing persons, and unidentified victims across all 50 US states, DC, and international regions.",
   "inLanguage": "en-US",
   "publisher": { "@id": "https://coldcaseindex.com/#organization" }
 }
@@ -67,7 +67,7 @@
 <link rel="stylesheet" href="./base.css">
 
 <!-- Favicon -->
-<meta name="theme-color" content="#6366f1">
+<meta name="theme-color" content="#d97706">
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -300,15 +300,15 @@
   top: calc(100% + 8px);
   left: 0;
   right: 0;
-  background-color: #1e293b;
-  border: 1px solid #334155;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
   border-radius: 12px;
   max-height: 400px;
   overflow-y: auto;
   overflow-x: hidden;
   z-index: 9999;
   display: none;
-  box-shadow: 0 12px 40px rgba(0,0,0,0.95);
+  box-shadow: var(--shadow-lg, 0 12px 40px rgba(0,0,0,0.4));
   opacity: 1 !important;
 }
 .search-results.active { display: block; }
@@ -318,15 +318,15 @@
   gap: 12px;
   padding: 12px 16px;
   cursor: pointer;
-  border-bottom: 1px solid #334155;
+  border-bottom: 1px solid var(--color-border);
   transition: background-color 0.15s;
-  background-color: #1e293b;
+  background-color: var(--color-surface);
   text-decoration: none;
   color: inherit;
 }
 .search-result-item:last-child { border-bottom: none; }
-.search-result-item:hover { background-color: #0f172a; }
-.search-no-results { padding: 16px; text-align: center; color: var(--color-text-muted); background-color: #1e293b; }
+.search-result-item:hover { background-color: var(--color-surface-2); }
+.search-no-results { padding: 16px; text-align: center; color: var(--color-text-muted); background-color: var(--color-surface); }
 .search-result-icon {
   width: 32px;
   height: 32px;
@@ -565,14 +565,30 @@
   color: var(--color-text-muted);
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  padding: var(--space-3) var(--space-4);
+  padding: 0;
   text-align: left;
-  cursor: pointer;
   user-select: none;
-  transition: color var(--transition-interactive);
   white-space: nowrap;
 }
-.state-table th:hover { color: var(--color-text); }
+.sort-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  font: inherit;
+  font-size: var(--text-xs);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: inherit;
+  padding: var(--space-3) var(--space-4);
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  background: none;
+  border: none;
+  transition: color var(--transition-interactive);
+}
+.sort-btn:hover { color: var(--color-text); }
 .state-table th.sorted { color: var(--color-primary); }
 .state-table th .sort-icon {
   display: inline-block;
@@ -581,6 +597,8 @@
   transition: opacity var(--transition-interactive);
 }
 .state-table th.sorted .sort-icon { opacity: 1; }
+.state-table tbody tr { cursor: pointer; transition: background var(--transition-interactive); }
+.state-table tbody tr:focus-within { outline: 2px solid var(--color-primary); outline-offset: -2px; }
 .state-table td {
   font-size: var(--text-sm);
   padding: var(--space-3) var(--space-4);
@@ -773,7 +791,7 @@ body::after {
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 <header class="site-header">
   <div class="header-inner">
-    <a href="#" class="header-logo" aria-label="ColdCaseIndex home">
+    <a href="./" class="header-logo" aria-label="ColdCaseIndex home">
       <!-- SVG Logo: file/folder + magnifying glass -->
       <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <rect x="3" y="6" width="18" height="22" rx="2" stroke="currentColor" stroke-width="1.5"/>
@@ -821,7 +839,7 @@ body::after {
     </div>
     <div class="hero-stats fade-in">
       <div class="hero-stat">
-        <span class="hero-stat-value" id="heroStatCases">1001</span>
+        <span class="hero-stat-value" id="heroStatCases">911</span>
         <span class="hero-stat-label">Featured Cases</span>
       </div>
       <div class="hero-stat">
@@ -833,7 +851,7 @@ body::after {
         <span class="hero-stat-label">Est. Total Unsolved</span>
       </div>
       <div class="hero-stat">
-        <span class="hero-stat-value">1890s–2020s</span>
+        <span class="hero-stat-value">1880s–2020s</span>
         <span class="hero-stat-label">Time Span</span>
       </div>
     </div>
@@ -932,10 +950,10 @@ body::after {
 <a href="./cases/suzanne-degnan/" class="case-card" aria-label="View details for Suzanne Degnan"><div class="case-card-header"><span class="badge badge-conviction">Conviction</span><span class="case-card-year">1946</span></div><h3 class="case-card-name">Suzanne Degnan</h3><p class="case-card-summary">Six-year-old Suzanne Degnan was abducted from her bedroom in Chicago and dismembered. William Heirens, known as the &#x27;Lipstick Killer&#x27; for writing on walls with lipstick, was convicted in 1946 and spent 65 years in prison. He consistently maintained innocence until his death in 2012, and many experts questioned the evidence.</p><div class="case-card-tags"><span class="case-tag">Illinois</span><span class="case-tag">Homicide</span><span class="case-tag">Age 6</span></div></a>
 <a href="./cases/the-texarkana-moonlight/" class="case-card" aria-label="View details for Texarkana Moonlight Murders"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1946</span></div><h3 class="case-card-name">Texarkana Moonlight Murders</h3><p class="case-card-summary">The Phantom Killer committed five known murders and two attacks in the Texarkana area across the Texas-Arkansas border in 1946. The victims were typically couples in cars on lover&#x27;s lanes. Despite a massive manhunt, the killer was never identified. The case inspired multiple films including &#x27;The Town That Dreaded Sundown.&#x27;</p><div class="case-card-tags"><span class="case-tag">Texas</span><span class="case-tag">Serial Killer Victims</span></div></a>
 <a href="./cases/black-dahlia/" class="case-card" aria-label="View details for Elizabeth Short (The Black Dahlia)"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1947</span></div><h3 class="case-card-name">Elizabeth Short (The Black Dahlia)</h3><p class="case-card-summary">The mutilated body of 22-year-old Elizabeth Short was found in a vacant lot in Los Angeles. Her body had been severed at the waist, drained of blood, and posed. The case became one of the most famous unsolved murders in American history, generating hundreds of confessions but no confirmed suspect.</p><div class="case-card-tags"><span class="case-tag">California</span><span class="case-tag">Homicide</span><span class="case-tag">Age 22</span></div></a>
-<a href="./cases/dorothy-forstein/" class="case-card" aria-label="View details for Dorothy Forstein"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1950</span></div><h3 class="case-card-name">Dorothy Forstein</h3><p class="case-card-summary">Dorothy Forstein, wife of Philadelphia magistrate Jules Forstein, disappeared from her home in the middle of the night. Her children slept through the abduction. She had survived a vicious attack in her home years earlier. Despite investigation, she was never found and the case remains one of Philadelphia&#x27;s most mysterious disappearances.</p><div class="case-card-tags"><span class="case-tag">Pennsylvania</span><span class="case-tag">Missing Person</span><span class="case-tag">Age 34</span></div></a>
 <a href="./cases/beverly-potts/" class="case-card" aria-label="View details for Beverly Potts"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1951</span></div><h3 class="case-card-name">Beverly Potts</h3><p class="case-card-summary">Ten-year-old Beverly Potts disappeared from a Cleveland park while attending a neighborhood show. Despite one of the largest manhunts in Cleveland history, she was never found. The case remained one of Cleveland&#x27;s most haunting cold cases for over 70 years.</p><div class="case-card-tags"><span class="case-tag">Ohio</span><span class="case-tag">Missing Person</span><span class="case-tag">Age 10</span></div></a>
 <a href="./cases/bonnie-heady/" class="case-card" aria-label="View details for Bobby Greenlease"><div class="case-card-header"><span class="badge badge-conviction">Conviction</span><span class="case-card-year">1953</span></div><h3 class="case-card-name">Bobby Greenlease</h3><p class="case-card-summary">Six-year-old Bobby Greenlease was kidnapped from his school and killed by Carl Austin Hall and Bonnie Brown Heady in Kansas City. A ransom of $600,000 was paid — the largest at that time. Hall and Heady were arrested, tried, and executed in less than three months. Half the ransom was never recovered.</p><div class="case-card-tags"><span class="case-tag">Missouri</span><span class="case-tag">Homicide</span><span class="case-tag">Age 6</span></div></a>
-<a href="./cases/evelyn-hartley/" class="case-card" aria-label="View details for Evelyn Hartley"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1953</span></div><h3 class="case-card-name">Evelyn Hartley</h3><p class="case-card-summary">Fifteen-year-old Evelyn Hartley disappeared while babysitting in La Crosse, Wisconsin. Blood and her shoe were found at the scene. Despite a massive investigation, she was never found. Her case remains one of Wisconsin&#x27;s oldest open missing persons cases.</p><div class="case-card-tags"><span class="case-tag">Wisconsin</span><span class="case-tag">Missing Person</span><span class="case-tag">Age 15</span></div></a>
+<a href="./cases/frank-olson/" class="case-card" aria-label="View details for Frank Olson"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1953</span></div><h3 class="case-card-name">Frank Olson</h3><p class="case-card-summary">CIA scientist Frank Olson died after falling from a New York hotel window. It was ruled a suicide but his family believed he was killed because he wanted to leave the agency&#x27;s secret mind control program MKUltra. His body was exhumed in 1994 and a second autopsy suggested possible homicide.</p><div class="case-card-tags"><span class="case-tag">New York</span><span class="case-tag">Suspicious Death</span><span class="case-tag">Age 43</span></div></a>
+<a href="./cases/janet-christman/" class="case-card" aria-label="View details for Janet Christman"><div class="case-card-header"><span class="badge badge-unsolved">Unsolved</span><span class="case-card-year">1950</span></div><h3 class="case-card-name">Janet Christman</h3><p class="case-card-summary">Thirteen-year-old Janet Christman was babysitting when she was raped and strangled in Columbia, Missouri. Her body was found by the parents when they returned home. Despite the fact that a partial fingerprint was recovered, the case was never solved. It is Missouri&#x27;s oldest open murder case.</p><div class="case-card-tags"><span class="case-tag">Missouri</span><span class="case-tag">Homicide</span><span class="case-tag">Age 13</span></div></a>
 <!-- HOME_CARDS:END --></div>
     <div class="no-results" id="noResults" style="display: none;">
       <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
@@ -975,10 +993,10 @@ body::after {
       <table class="state-table" id="stateTable">
         <thead>
           <tr>
-            <th data-sort="rank" class="sorted" style="width: 60px;">Rank <span class="sort-icon">▲</span></th>
-            <th data-sort="state">State <span class="sort-icon">▲</span></th>
-            <th data-sort="count" style="text-align: right;">Unsolved Homicides <span class="sort-icon">▲</span></th>
-            <th data-sort="count" style="min-width: 200px;">Proportion <span class="sort-icon">▲</span></th>
+            <th data-sort="rank" class="sorted" aria-sort="ascending" style="width: 60px;" scope="col"><button class="sort-btn">Rank <span class="sort-icon" aria-hidden="true">▲</span></button></th>
+            <th data-sort="state" aria-sort="none" scope="col"><button class="sort-btn">State <span class="sort-icon" aria-hidden="true">▲</span></button></th>
+            <th data-sort="count" aria-sort="none" style="text-align: right;" scope="col"><button class="sort-btn">Unsolved Homicides <span class="sort-icon" aria-hidden="true">▲</span></button></th>
+            <th data-sort="count" aria-sort="none" style="min-width: 200px;" scope="col"><button class="sort-btn">Proportion <span class="sort-icon" aria-hidden="true">▲</span></button></th>
           </tr>
         </thead>
         <tbody id="stateTableBody"></tbody>
@@ -1016,7 +1034,7 @@ body::after {
         </svg>
         <span>ColdCaseIndex</span>
       </div>
-      <p class="footer-text">A searchable database of cold cases and historic crimes in America. Bringing data-driven attention to unsolved cases and honoring victims through accessible information.</p>
+      <p class="footer-text">A searchable database of documented cold cases and historic crimes. Bringing data-driven attention to unsolved cases and honoring victims through accessible information.</p>
     </div>
     <div class="footer-links">
       <div class="footer-link-group">
@@ -1043,7 +1061,7 @@ body::after {
 
 <script>
 // ═══════════════════════════════════════════════════
-// ColdCaseIndex — Application Logic (501 Cases)
+// ColdCaseIndex — Application Logic
 // ═══════════════════════════════════════════════════
 
 // ── State ──
@@ -1127,8 +1145,8 @@ async function loadCases() {
   const root = document.documentElement;
   const sunIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
   const moonIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
-  let theme = 'dark';
-  try { theme = localStorage.getItem('cci-theme') || 'dark'; } catch (e) {}
+  let theme = window.matchMedia('(prefers-color-scheme:dark)').matches ? 'dark' : 'light';
+  try { theme = localStorage.getItem('cci-theme') || theme; } catch (e) {}
   function applyTheme(t) {
     root.setAttribute('data-theme', t);
     if (toggle) {
@@ -1188,9 +1206,9 @@ function populateFilters() {
 function getStatusBadge(status) {
   if (!status) return '<span class="badge badge-unsolved">Unsolved</span>';
   const s = status.toLowerCase();
-  if (s.includes('conviction') && !s.includes('no conviction')) return `<span class="badge badge-conviction">${status}</span>`;
+  if ((s.includes('conviction') && !s.includes('no conviction')) || s === 'solved' || s === 'identified') return `<span class="badge badge-conviction">${status}</span>`;
   if (s.includes('arrest')) return `<span class="badge badge-arrest">${status}</span>`;
-  if (s.includes('partially')) return `<span class="badge badge-arrest">${status}</span>`;
+  if (s.includes('partially')) return `<span class="badge badge-partial">${status}</span>`;
   return `<span class="badge badge-unsolved">${status}</span>`;
 }
 
@@ -1306,10 +1324,11 @@ function renderStateTable() {
     return sortAsc ? valA - valB : valB - valA;
   });
 
+  const stateUrl = s => `./states/${s.state.toLowerCase().replace(/ /g,'-')}/`;
   tbody.innerHTML = data.map((s, i) => `
-    <tr onclick="window.location='./states/#${s.state.toLowerCase().replace(/ /g,'-')}'" style="cursor:pointer;">
+    <tr>
       <td class="rank">${i + 1}</td>
-      <td style="font-weight: 500;">${s.state}</td>
+      <td style="font-weight: 500;"><a href="${stateUrl(s)}" style="color:inherit;text-decoration:none;display:block;">${s.state}</a></td>
       <td style="text-align: right; font-weight: 600;">${s.count.toLocaleString()}</td>
       <td class="bar-cell">
         <div class="bar" style="width: ${(s.count / maxCount * 100).toFixed(1)}%;"></div>
@@ -1329,9 +1348,11 @@ document.querySelectorAll('.state-table th[data-sort]').forEach(th => {
     }
     document.querySelectorAll('.state-table th').forEach(h => {
       h.classList.remove('sorted');
+      h.setAttribute('aria-sort', 'none');
       h.querySelector('.sort-icon').textContent = '▲';
     });
     this.classList.add('sorted');
+    this.setAttribute('aria-sort', sortAsc ? 'ascending' : 'descending');
     this.querySelector('.sort-icon').textContent = sortAsc ? '▲' : '▼';
     renderStateTable();
   });

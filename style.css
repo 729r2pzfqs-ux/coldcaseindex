@@ -62,7 +62,7 @@
   /* Text */
   --color-text:           #e0ddd5;
   --color-text-muted:     #8a877f;
-  --color-text-faint:     #55534e;
+  --color-text-faint:     #6b6966;
   --color-text-inverse:   #0d0d0f;
 
   /* Primary Accent — Cold amber/gold */
@@ -71,11 +71,11 @@
   --color-primary-active:   #a88a3a;
   --color-primary-highlight: #2a2620;
 
-  /* Error / Unsolved — Desaturated red */
-  --color-error:            #8b3a3a;
-  --color-error-hover:      #a34a4a;
-  --color-error-active:     #6e2e2e;
-  --color-error-highlight:  #2a1e1e;
+  /* Error / Unsolved — accessible red on dark bg */
+  --color-error:            #e07070;
+  --color-error-hover:      #e88888;
+  --color-error-active:     #c85858;
+  --color-error-highlight:  #2a1a1a;
 
   /* Success — Muted green */
   --color-success:          #4a7a3a;
@@ -108,7 +108,7 @@
 
   --color-text:           #1a1815;
   --color-text-muted:     #5a5850;
-  --color-text-faint:     #8a877f;
+  --color-text-faint:     #6a6762;
   --color-text-inverse:   #f5f3ee;
 
   --color-primary:          #8a7030;
@@ -149,7 +149,7 @@
     --color-border:           #a8a59d;
     --color-text:           #1a1815;
     --color-text-muted:     #5a5850;
-    --color-text-faint:     #8a877f;
+    --color-text-faint:     #6a6762;
     --color-text-inverse:   #f5f3ee;
     --color-primary:          #8a7030;
     --color-primary-hover:    #6a5520;

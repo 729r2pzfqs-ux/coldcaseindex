@@ -1,28 +1,28 @@
 # ColdCaseIndex (coldcaseindex.com)
 
 ## About
-ColdCaseIndex is a searchable database of 450 documented cold cases and historic
-crimes in the United States — unsolved homicides, missing persons, unidentified
-victims, serial-killer cases, and landmark solved crimes of historical
-significance. Coverage spans all 50 states and the District of Columbia, from
-the 1890s to the 2020s.
+ColdCaseIndex is a searchable database of 911 documented cold cases and historic
+crimes — unsolved homicides, missing persons, unidentified victims, serial-killer
+cases, and landmark solved crimes of historical significance. Coverage spans all
+50 US states, the District of Columbia, and international regions, from the 1880s
+to the 2020s.
 
 Each case entry includes: victim/case name, case type, investigation status
-(Unsolved, Arrest Made, Conviction, Partially Solved, No Conviction), date,
-city and state, victim age and gender, a factual summary, and last-known
-information where available.
+(Unsolved, Arrest Made, Conviction, Partially Solved, No Conviction, Solved,
+Identified), date, city and state or region, victim age and gender, a factual
+summary, and last-known information where available.
 
 ## Data
 - Machine-readable case data: https://coldcaseindex.com/data/cases.json
   (JSON array; one object per case with id, name, type, status, year, date,
-  state, city, age, gender, summary, lastSeen, tags)
+  state, city, age, gender, summary, lastSeen, tags, country)
 - Sources include the Murder Accountability Project, FBI UCR data, NamUs,
   court records, law-enforcement releases, and established news reporting.
 
 ## URLs
 - Homepage (search + filters): https://coldcaseindex.com/
 - Individual case pages: https://coldcaseindex.com/cases/{case-id}/
-- Cases by state directory: https://coldcaseindex.com/states/
+- Cases by state/region directory: https://coldcaseindex.com/states/
 - Per-state pages: https://coldcaseindex.com/states/{state-name}/
 - About & methodology: https://coldcaseindex.com/about/
 - Privacy policy: https://coldcaseindex.com/privacy/

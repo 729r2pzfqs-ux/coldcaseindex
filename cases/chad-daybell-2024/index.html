@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
-<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>
+<script>try{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>
 
 <title>Chad Daybell — ColdCaseIndex</title>
 <meta name="description" content="Chad Daybell was convicted of murdering his first wife Tammy, his new wife Lori Vallow&#x27;s two… Homicide cold case in Boise, Idaho (2024). Status: Solved.">
@@ -55,7 +55,7 @@
     "name": "ColdCaseIndex",
     "url": "https://coldcaseindex.com"
   },
-  "dateModified": "2026-07-09",
+  "dateModified": "2026-07-16",
   "author": {
     "@type": "Organization",
     "name": "ColdCaseIndex",
@@ -81,10 +81,7 @@
       "addressLocality": "Boise"
     }
   },
-  "datePublished": "2024-05-30",
-  "sameAs": [
-    "https://en.wikipedia.org/wiki/Chad_Daybell"
-  ],
+  "datePublished": "2026-07-16",
   "citation": [
     {
       "@type": "CreativeWork",
@@ -700,7 +697,7 @@ body::after {
       <!-- Case Header -->
       <div class="case-page-header fade-in">
         <div class="case-page-meta-row">
-          <span class="badge badge-unsolved">Solved</span>
+          <span class="badge badge-conviction">Solved</span>
           <span class="case-year-label">May 30, 2024</span>
           <span class="case-type-label">Homicide</span>
         </div>
@@ -711,7 +708,7 @@ body::after {
       <div class="case-details-grid fade-in">
         <div class="case-detail-item">
           <span class="case-detail-label">Status</span>
-          <span class="case-detail-value"><span class="badge badge-unsolved" style="font-size:11px;">Solved</span></span>
+          <span class="case-detail-value"><span class="badge badge-conviction" style="font-size:11px;">Solved</span></span>
         </div>
         <div class="case-detail-item">
           <span class="case-detail-label">Type</span>
@@ -852,20 +849,20 @@ body::after {
                 <div class="related-case-name">Idaho Student Murders</div>
                 <div class="related-case-meta">Moscow</div>
               </a>
-              <a href="../../cases/idaho-student-murders-2022/" class="related-case-card">
+              <a href="../../cases/kaylee-goncalves/" class="related-case-card">
                 <div class="related-case-header">
-                  <span class="badge badge-unsolved" style="font-size:10px;">Solved</span>
+                  <span class="badge badge-conviction" style="font-size:10px;">Conviction</span>
                   <span class="case-card-year">2022</span>
                 </div>
-                <div class="related-case-name">Idaho Student Murders</div>
+                <div class="related-case-name">Kaylee Goncalves</div>
                 <div class="related-case-meta">Moscow</div>
               </a>
-              <a href="../../cases/bryan-kohberger-2022/" class="related-case-card">
+              <a href="../../cases/madison-mogen/" class="related-case-card">
                 <div class="related-case-header">
-                  <span class="badge badge-unsolved" style="font-size:10px;">Solved</span>
+                  <span class="badge badge-conviction" style="font-size:10px;">Conviction</span>
                   <span class="case-card-year">2022</span>
                 </div>
-                <div class="related-case-name">Idaho Student Murders</div>
+                <div class="related-case-name">Madison Mogen</div>
                 <div class="related-case-meta">Moscow</div>
               </a>
         </div>
@@ -919,8 +916,8 @@ body::after {
   const root = document.documentElement;
   const sunIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
   const moonIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
-  let theme = 'dark';
-  try { theme = localStorage.getItem('cci-theme') || 'dark'; } catch (e) {}
+  let theme = window.matchMedia('(prefers-color-scheme:dark)').matches ? 'dark' : 'light';
+  try { theme = localStorage.getItem('cci-theme') || theme; } catch (e) {}
   function apply(t) {
     root.setAttribute('data-theme', t);
     if (toggle) {

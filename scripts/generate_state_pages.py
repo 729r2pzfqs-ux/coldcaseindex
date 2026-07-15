@@ -19,7 +19,7 @@ BASE_URL = 'https://coldcaseindex.com'
 
 GA_SNIPPET = '''<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
-<script>try{document.documentElement.setAttribute('data-theme',localStorage.getItem('cci-theme')||'dark')}catch(e){}</script>'''
+<script>try{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>'''
 
 FONTS = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,6 +38,8 @@ def status_badge_class(status):
         return 'badge-unsolved'
     s = status.lower()
     if 'conviction' in s and 'no conviction' not in s:
+        return 'badge-conviction'
+    if s in ('solved', 'identified'):
         return 'badge-conviction'
     if 'arrest' in s:
         return 'badge-arrest'
@@ -148,8 +150,8 @@ THEME_JS = '''// Theme toggle (persisted via localStorage)
   const root = document.documentElement;
   const sunIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
   const moonIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
-  let theme = 'dark';
-  try { theme = localStorage.getItem('cci-theme') || 'dark'; } catch (e) {}
+  let theme = localStorage.getItem('cci-theme') || (window.matchMedia('(prefers-color-scheme:dark)').matches ? 'dark' : 'light');
+  try { theme = localStorage.getItem('cci-theme') || theme; } catch (e) {}
   function apply(t) {
     root.setAttribute('data-theme', t);
     if (toggle) {
@@ -208,7 +210,7 @@ def build_footer():
         {FOOTER_SVG}
         <span>ColdCaseIndex</span>
       </div>
-      <p class="footer-text">A searchable database of unsolved crimes in America. Bringing data-driven attention to cold cases and honoring victims through accessible information.</p>
+      <p class="footer-text">A searchable database of documented cold cases and historic crimes. Bringing data-driven attention to unsolved cases and honoring victims through accessible information.</p>
     </div>
     <div class="footer-links">
       <div class="footer-link-group">
@@ -261,10 +263,22 @@ def case_card(c):
       </a>'''
 
 
+US_STATES_AND_DC = {
+    'Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut',
+    'Delaware','District of Columbia','Florida','Georgia','Hawaii','Idaho','Illinois',
+    'Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine','Maryland','Massachusetts',
+    'Michigan','Minnesota','Mississippi','Missouri','Montana','Nebraska','Nevada',
+    'New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota',
+    'Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South Carolina','South Dakota',
+    'Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming',
+}
+
 def generate_state_page(state, cases, all_state_slugs):
     slug = slugify(state)
     url = f'{BASE_URL}/states/{slug}/'
     n = len(cases)
+    # Thin international pages: noindex if 1-2 cases and not a US state/DC
+    is_thin_intl = n <= 2 and state not in US_STATES_AND_DC
     types = Counter(c.get('type', 'Unknown') for c in cases)
     statuses = Counter(c.get('status', 'Unsolved') for c in cases)
     unsolved = statuses.get('Unsolved', 0)
@@ -313,13 +327,14 @@ def generate_state_page(state, cases, all_state_slugs):
     next_state, next_slug = all_state_slugs[(idx + 1) % len(all_state_slugs)]
 
     return f'''<!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
-<title>Cold Cases in {state} — {n} Documented Cases | ColdCaseIndex</title>
+<title>Cold Cases in {state} — {n} Documented Case{'s' if n != 1 else ''} | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
+{'<meta name="robots" content="noindex,follow">' if is_thin_intl else ''}
 <link rel="canonical" href="{url}">
 <link rel="alternate" hreflang="en" href="{url}">
 <link rel="alternate" hreflang="x-default" href="{url}">
@@ -328,6 +343,13 @@ def generate_state_page(state, cases, all_state_slugs):
 <meta property="og:type" content="website">
 <meta property="og:url" content="{url}">
 <meta property="og:site_name" content="ColdCaseIndex">
+<meta property="og:image" content="https://coldcaseindex.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Cold Cases in {state} — ColdCaseIndex">
+<meta name="twitter:description" content="{esc(description)}">
+<meta name="twitter:image" content="https://coldcaseindex.com/og-image.png">
 
 {FONTS}
 
@@ -486,8 +508,8 @@ def generate_states_index(by_state):
       </div>
     </div>''')
 
-    description = (f'Browse {total} documented cold cases by US state and the District of Columbia. '
-                   'Unsolved homicides, missing persons, and unidentified victims with per-state statistics.')
+    description = (f'Browse {total} documented cold cases by US state, DC, and international regions. '
+                   'Unsolved homicides, missing persons, and unidentified victims with per-region statistics.')
 
     breadcrumb_ld = {
         "@context": "https://schema.org",
@@ -526,12 +548,12 @@ document.getElementById('stateSearch').addEventListener('input', function() {
 });'''
 
     return f'''<!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
-<title>Cold Cases by State — All 50 States and DC | ColdCaseIndex</title>
+<title>Cold Cases by State and Region | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">
 <link rel="alternate" hreflang="en" href="{url}">
@@ -574,7 +596,7 @@ document.getElementById('stateSearch').addEventListener('input', function() {
   <div class="section-inner">
     <div class="section-label fade-in">State Directory</div>
     <h1 class="section-heading fade-in">Cases by State</h1>
-    <p class="section-subtext fade-in" style="margin-bottom:var(--space-6)">Browse {total} documented cold cases from all 50 states and the District of Columbia. Each state page lists every documented case with statistics on type, status, and time period.</p>
+    <p class="section-subtext fade-in" style="margin-bottom:var(--space-6)">Browse {total} documented cold cases from all 50 US states, the District of Columbia, and international regions. Each page lists every documented case with statistics on type, status, and time period.</p>
 
     <input type="text" class="states-search fade-in" id="stateSearch" placeholder="Search states..." aria-label="Search states">
 
