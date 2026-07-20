@@ -277,8 +277,8 @@ def generate_state_page(state, cases, all_state_slugs):
     slug = slugify(state)
     url = f'{BASE_URL}/states/{slug}/'
     n = len(cases)
-    # Thin international pages: noindex if 1-2 cases and not a US state/DC
-    is_thin_intl = n <= 2 and state not in US_STATES_AND_DC
+    # Thin international pages: noindex only if single-case and not a US state/DC
+    is_thin_intl = n == 1 and state not in US_STATES_AND_DC
     types = Counter(c.get('type', 'Unknown') for c in cases)
     statuses = Counter(c.get('status', 'Unsolved') for c in cases)
     unsolved = statuses.get('Unsolved', 0)
@@ -298,8 +298,7 @@ def generate_state_page(state, cases, all_state_slugs):
         for s in sorted(statuses, key=lambda s: -statuses[s]))
 
     description = (f'{n} documented cold case{"s" if n != 1 else ""} in {state}: unsolved homicides, '
-                   f'missing persons, and unidentified victims spanning {year_range}. '
-                   f'Case details, status, and how to submit tips.')
+                   f'missing persons, and unidentified victims spanning {year_range}.')
 
     breadcrumb_ld = {
         "@context": "https://schema.org",
@@ -326,6 +325,47 @@ def generate_state_page(state, cases, all_state_slugs):
     prev_state, prev_slug = all_state_slugs[idx - 1]
     next_state, next_slug = all_state_slugs[(idx + 1) % len(all_state_slugs)]
 
+    # FAQPage schema
+    oldest = cases_sorted[-1] if cases_sorted else None
+    oldest_name = oldest.get('name', '') if oldest else ''
+    oldest_year = oldest.get('year', '') if oldest else ''
+    type_list = ', '.join(
+        f'{types[t]} {t}{"s" if types[t] != 1 and not t.endswith("s") else ""}'
+        for t in sorted(types, key=lambda t: -types[t])
+    )
+    faq_ld = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": f"How many unsolved cold cases are in {state}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": f"ColdCaseIndex documents {unsolved} unsolved cold case{'s' if unsolved != 1 else ''} in {state} out of {n} total documented case{'s' if n != 1 else ''}."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": f"What is the oldest documented cold case in {state}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": (f"The oldest documented cold case in {state} on ColdCaseIndex is {oldest_name} from {oldest_year}."
+                             if oldest_name and oldest_year else
+                             f"ColdCaseIndex documents cold cases in {state} spanning {year_range}.")
+                }
+            },
+            {
+                "@type": "Question",
+                "name": f"What types of cold cases are documented in {state}?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": f"The {n} documented cold case{'s' if n != 1 else ''} in {state} include: {type_list}."
+                }
+            }
+        ]
+    }
+
     return f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -344,18 +384,21 @@ def generate_state_page(state, cases, all_state_slugs):
 <meta property="og:url" content="{url}">
 <meta property="og:site_name" content="ColdCaseIndex">
 <meta property="og:image" content="https://coldcaseindex.com/og-image.png">
+<meta property="og:image:alt" content="Cold Cases in {state} — ColdCaseIndex">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Cold Cases in {state} — ColdCaseIndex">
 <meta name="twitter:description" content="{esc(description)}">
 <meta name="twitter:image" content="https://coldcaseindex.com/og-image.png">
+<meta name="twitter:image:alt" content="Cold Cases in {state} — ColdCaseIndex">
 
 {FONTS}
 
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.json">
 
 <link rel="stylesheet" href="../../base.css">
 <link rel="stylesheet" href="../../style.css">
@@ -365,6 +408,9 @@ def generate_state_page(state, cases, all_state_slugs):
 </script>
 <script type="application/ld+json">
 {json.dumps(collection_ld, indent=1)}
+</script>
+<script type="application/ld+json">
+{json.dumps(faq_ld, indent=1)}
 </script>
 
 <style>
