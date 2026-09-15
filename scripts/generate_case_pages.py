@@ -27,7 +27,8 @@ SITE_NAME = 'ColdCaseIndex'
 TAGLINE = 'Cold Case & Historic Crime Database'
 GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
               '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
-              'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
+              'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>'
+              '<script src="https://analytics.ahrefs.com/analytics.js" data-key="rHBSdf2qb23/3ZsFUBTcuQ" async></script>')
 
 
 def slugify(text):
