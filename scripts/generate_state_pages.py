@@ -21,6 +21,10 @@ GA_SNIPPET = '''<script async src="https://www.googletagmanager.com/gtag/js?id=G
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>
 <script>try{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>'''
 
+ADSENSE_CLIENT = 'ca-pub-5861928596436289'
+ADSENSE_SNIPPET = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+                   f'?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>')
+
 FONTS = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">'''
@@ -372,6 +376,7 @@ def generate_state_page(state, cases, all_state_slugs):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
+{ADSENSE_SNIPPET}
 <title>Cold Cases in {state} — {n} Documented Case{'s' if n != 1 else ''} | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 {'<meta name="robots" content="noindex,follow">' if is_thin_intl else ''}
@@ -599,6 +604,7 @@ document.getElementById('stateSearch').addEventListener('input', function() {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
+{ADSENSE_SNIPPET}
 <title>Cold Cases by State and Region | ColdCaseIndex</title>
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{url}">

@@ -29,6 +29,9 @@ GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-
               '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
               'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>'
               '<script src="https://analytics.ahrefs.com/analytics.js" data-key="rHBSdf2qb23/3ZsFUBTcuQ" async></script>')
+ADSENSE_CLIENT = 'ca-pub-5861928596436289'
+ADSENSE_SNIPPET = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+                   f'?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>')
 
 
 def slugify(text):
@@ -523,6 +526,7 @@ def generate_case_page(case, related_cases, today_iso):
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {GA_SNIPPET}
+{ADSENSE_SNIPPET}
 <script>try{{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}}catch(e){{}}</script>
 
 <title>{e(page_title)}</title>
