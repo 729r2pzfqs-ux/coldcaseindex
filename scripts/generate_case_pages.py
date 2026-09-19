@@ -642,7 +642,7 @@ def generate_case_page(case, related_cases, today_iso):
       </div>
 
       <!-- Details Grid -->
-      <div class="case-details-grid fade-in">
+      <div id="data-table-zone" class="case-details-grid fade-in">
         <div class="case-detail-item">
           <span class="case-detail-label">Status</span>
           <span class="case-detail-value"><span class="badge {badge_class}" style="font-size:11px;">{e(badge_label)}</span></span>

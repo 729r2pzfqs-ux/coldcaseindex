@@ -445,7 +445,7 @@ def generate_state_page(state, cases, all_state_slugs):
       <h1 class="section-heading fade-in">Cold Cases in {state}</h1>
       <p class="section-subtext fade-in">ColdCaseIndex documents {n} cold case{'s' if n != 1 else ''} in {state}, spanning {year_range}. {unsolved} of these case{'s' if unsolved != 1 else ''} remain{'s' if unsolved == 1 else ''} fully unsolved. Each case page includes documented details, status, and information on how to submit a tip.</p>
 
-      <div class="state-stats-row fade-in">
+      <div id="data-table-zone" class="state-stats-row fade-in">
         <div class="state-stat">
           <span class="state-stat-value">{n}</span>
           <span class="state-stat-label">Documented Cases</span>
