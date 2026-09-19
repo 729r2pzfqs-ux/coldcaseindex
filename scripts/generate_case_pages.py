@@ -25,13 +25,21 @@ BASE_URL = 'https://coldcaseindex.com'
 OG_IMAGE = f'{BASE_URL}/og-image.png'
 SITE_NAME = 'ColdCaseIndex'
 TAGLINE = 'Cold Case & Historic Crime Database'
-GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
-              '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
-              'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>'
-              '<script src="https://analytics.ahrefs.com/analytics.js" data-key="rHBSdf2qb23/3ZsFUBTcuQ" async></script>')
 ADSENSE_CLIENT = 'ca-pub-5861928596436289'
+
+# Head script order is load-bearing — see scripts/fix_consent_mode.py.
+# 1. Consent Mode v2 defaults (also defines dataLayer/gtag), 2. AdSense, which
+# carries Google's Privacy & Messaging CMP, 3. the gtag loader and config.
+CONSENT_SNIPPET = ('<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+                   "gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied',"
+                   "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500});</script>")
 ADSENSE_SNIPPET = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
                    f'?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>')
+GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
+              '<script>gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
+AHREFS_SNIPPET = ('<script src="https://analytics.ahrefs.com/analytics.js" '
+                  'data-key="rHBSdf2qb23/3ZsFUBTcuQ" async></script>')
+HEAD_SCRIPTS = CONSENT_SNIPPET + ADSENSE_SNIPPET + GA_SNIPPET + AHREFS_SNIPPET
 
 
 def slugify(text):
@@ -525,8 +533,7 @@ def generate_case_page(case, related_cases, today_iso):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-{GA_SNIPPET}
-{ADSENSE_SNIPPET}
+{HEAD_SCRIPTS}
 <script>try{{var _t=localStorage.getItem('cci-theme');if(_t)document.documentElement.setAttribute('data-theme',_t)}}catch(e){{}}</script>
 
 <title>{e(page_title)}</title>
