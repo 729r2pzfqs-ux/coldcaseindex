@@ -28,11 +28,17 @@ TAGLINE = 'Cold Case & Historic Crime Database'
 ADSENSE_CLIENT = 'ca-pub-5861928596436289'
 
 # Head script order is load-bearing — see scripts/fix_consent_mode.py.
-# 1. Consent Mode v2 defaults (also defines dataLayer/gtag), 2. AdSense, which
-# carries Google's Privacy & Messaging CMP, 3. the gtag loader and config.
+# 1. Consent Mode v2 defaults (also defines dataLayer/gtag): denied for the
+# EEA/UK/CH region list, then an unscoped granted call as the rest-of-world
+# fallback. 2. AdSense, which carries Google's Privacy & Messaging CMP,
+# 3. the gtag loader and config.
 CONSENT_SNIPPET = ('<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
                    "gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied',"
-                   "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500});</script>")
+                   "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500,"
+                   "'region':['BE','BG','CZ','DK','DE','EE','IE','EL','ES','FR','HR','IT','CY','LV','LT','LU',"
+                   "'HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','CH','IS','LI','NO']});"
+                   "gtag('consent','default',{'analytics_storage':'granted','ad_storage':'granted',"
+                   "'ad_user_data':'granted','ad_personalization':'granted'});</script>")
 ADSENSE_SNIPPET = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
                    f'?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>')
 GA_SNIPPET = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'

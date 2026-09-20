@@ -4,9 +4,13 @@ ColdCaseIndex — Consent Mode v2 head-script ordering
 
 Three things have to happen in this order, in every page's <head>:
 
-  1. gtag('consent','default', …all denied…, wait_for_update:500)
-     Declares the consent state before any Google tag reads it. This also
-     defines window.dataLayer and the gtag() shim, so it must come first.
+  1. Two gtag('consent','default', …) calls. The first denies everything for
+     the EEA/UK/CH region list and sets wait_for_update:500; the second carries
+     no region and grants everything, so it is the fallback for the rest of the
+     world. Region-scoped defaults win over the unscoped one, so the order of
+     the two calls does not matter to gtag — but the pair must come before any
+     Google tag reads the state. It also defines window.dataLayer and the
+     gtag() shim, so it must come first.
   2. The AdSense tag. Google's Privacy & Messaging CMP (googlefc, formerly
      Funding Choices) is delivered through it, so it has to be in flight
      before gtag if its consent update is to land inside the 500ms window.
@@ -36,7 +40,11 @@ ADSENSE_CLIENT = 'ca-pub-5861928596436289'
 CONSENT = (
     '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
     "gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied',"
-    "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500});</script>"
+    "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500,"
+    "'region':['BE','BG','CZ','DK','DE','EE','IE','EL','ES','FR','HR','IT','CY','LV','LT','LU',"
+    "'HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','CH','IS','LI','NO']});"
+    "gtag('consent','default',{'analytics_storage':'granted','ad_storage':'granted',"
+    "'ad_user_data':'granted','ad_personalization':'granted'});</script>"
 )
 ADSENSE = (
     '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
