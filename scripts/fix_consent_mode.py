@@ -41,7 +41,7 @@ CONSENT = (
     '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
     "gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied',"
     "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500,"
-    "'region':['BE','BG','CZ','DK','DE','EE','IE','EL','ES','FR','HR','IT','CY','LV','LT','LU',"
+    "'region':['BE','BG','CZ','DK','DE','EE','IE','GR','ES','FR','HR','IT','CY','LV','LT','LU',"
     "'HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','CH','IS','LI','NO']});"
     "gtag('consent','default',{'analytics_storage':'granted','ad_storage':'granted',"
     "'ad_user_data':'granted','ad_personalization':'granted'});</script>"
