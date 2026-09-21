@@ -60,3 +60,7 @@ table { border-collapse: collapse; width: 100%; }
 /* ── AdSense: keep Auto Ads out of data tables ── */
 #data-table-zone .google-auto-placed,
 #data-table-zone ins.adsbygoogle { display: none !important; }
+
+/* ── AdSense: keep Auto Ads out of case cards (state pages, homepage) ── */
+.case-card .google-auto-placed,
+.case-card ins.adsbygoogle { display: none !important; }
