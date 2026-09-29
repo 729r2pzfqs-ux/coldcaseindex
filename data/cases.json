@@ -42373,47 +42373,6 @@
   "enriched": true
  },
  {
-  "id": "deysi-garcia-2010",
-  "name": "Deysi Garcia",
-  "type": "Missing Person",
-  "status": "Unsolved",
-  "year": 2010,
-  "date": "October 20, 2010",
-  "state": "California",
-  "city": "San Francisco",
-  "age": 28,
-  "gender": "Female",
-  "summary": "Deysi Garcia, a 28-year-old Honduran immigrant, vanished from San Francisco's Mission District. She was last seen leaving her workplace. Despite community efforts, she has never been found.",
-  "lastSeen": "October 20, 2010, Mission District, San Francisco, California",
-  "tags": [
-   "San Francisco",
-   "immigrant",
-   "2010s"
-  ],
-  "sources": [],
-  "narrative": [
-   "On October 20, 2010, 28-year-old Deysi Garcia left her workplace in San Francisco's Mission District and vanished. She was a Honduran immigrant who worked in the food service industry and lived in the city. She had spoken to family members that day and gave no indication of plans to leave or any concerns for her safety.",
-   "When Deysi failed to return home, her family and community raised the alarm. The Mission District, a vibrant and densely populated neighborhood, was canvassed by police and volunteers. Flyers were distributed in both English and Spanish throughout the area. Her case gained attention from immigrant advocacy groups who highlighted the vulnerability of undocumented workers.",
-   "Investigators explored theories including foul play, voluntary disappearance, and the possibility that immigration concerns might have prevented witnesses from coming forward. Deysi's bank accounts showed no activity after her disappearance, and her phone went silent.",
-   "Deysi Garcia's case is representative of the many missing person cases involving immigrants in large American cities, where language barriers, immigration status fears, and limited family connections can make investigations more difficult. Her case remains open with the San Francisco Police Department."
-  ],
-  "timeline": [
-   {
-    "date": "2010-10-20",
-    "event": "Deysi Garcia is last seen leaving her workplace in the Mission District."
-   },
-   {
-    "date": "2010-10-21",
-    "event": "She is reported missing by family members."
-   },
-   {
-    "date": "2010-10-25",
-    "event": "Community distributes flyers; SFPD investigates."
-   }
-  ],
-  "enriched": true
- },
- {
   "id": "emma-fillipoff-2012",
   "name": "Emma Fillipoff",
   "type": "Missing Person",
@@ -47449,7 +47408,7 @@
   "enriched": true
  },
  {
-  "id": "debra-jan-baker-1986",
+  "id": "debra-baker-1988",
   "name": "Debra Jan Masters Baker",
   "type": "Homicide",
   "status": "Conviction",
@@ -48601,8 +48560,8 @@
   "country": "United Kingdom",
   "age": 33,
   "gender": "Female",
-  "summary": "Sarah Everard, 33, was kidnapped, raped and murdered by serving Metropolitan Police officer Wayne Couzens while walking home in south London on March 3, 2021. Couzens pleaded guilty and on September 30, 2021 received a whole-life sentence.",
-  "lastSeen": "March 3, 2021, Clapham Common, London",
+  "summary": "Sarah Everard, 33, was kidnapped while walking home in Clapham, south London, on March 3, 2021, by serving Metropolitan Police officer Wayne Couzens, who used his warrant card and handcuffs to detain her. He raped and murdered her. Couzens pleaded guilty and on September 30, 2021 received a whole-life order, upheld on appeal in 2022.",
+  "lastSeen": "March 3, 2021, about 9:30 p.m., Poynders Road, Clapham, south London",
   "tags": [
    "abduction",
    "London",
@@ -48611,7 +48570,19 @@
   ],
   "sources": [
    {
-    "title": "Murder of Sarah Everard - Wikipedia",
+    "title": "City A.M. - Sarah Everard: Wayne Couzens sentenced to whole life in prison",
+    "url": "https://www.cityam.com/sarah-everard-wayne-couzens-given-whole-life-sentence/"
+   },
+   {
+    "title": "The Irish Times - Ex-police officer who killed Sarah Everard loses challenge to whole-life sentence",
+    "url": "https://www.irishtimes.com/world/uk/2022/07/29/ex-police-officer-who-killed-sarah-everard-loses-challenge-to-whole-life-sentence/"
+   },
+   {
+    "title": "The Angiolini Inquiry - Part 1 Report",
+    "url": "https://www.angiolini.independent-inquiry.uk/reports/"
+   },
+   {
+    "title": "Wikipedia - Murder of Sarah Everard",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Sarah_Everard"
    },
    {
@@ -48620,27 +48591,52 @@
    }
   ],
   "narrative": [
-   "On the evening of March 3, 2021, 33-year-old Sarah Everard left a friend's house in Clapham, south London, to walk home to Brixton Hill, a journey of about 50 minutes. She was seen on CCTV walking along the A205 Poynders Road near Clapham Common at approximately 9:30 p.m. She never arrived home.",
-   "Sarah's boyfriend reported her missing the following day when she failed to arrive at work. A major investigation was launched, and CCTV footage revealed that Sarah had been stopped near Clapham Common by a man who had used his Metropolitan Police warrant card and handcuffs to carry out a fake arrest, claiming she had violated COVID-19 lockdown restrictions.",
-   "The man was identified as Wayne Couzens, a serving Metropolitan Police diplomatic protection officer. He had hired a rental car for the abduction. Phone and CCTV evidence traced Couzens' movements as he drove Sarah to Kent, where he raped and strangled her. He burned her body in a refrigerator in an area of woodland near Ashford, Kent, where her remains were discovered on March 10.",
-   "Couzens was arrested on March 9 and charged with kidnap and murder. He pleaded guilty to both charges and on September 30, 2021, was sentenced to a whole-life order, meaning he will never be released from prison. The case provoked widespread outrage, vigils, and protests across the UK, sparking a national conversation about women's safety and leading to significant scrutiny of the Metropolitan Police's vetting procedures and culture."
+   "Sarah Everard, a 33-year-old marketing executive, was walking home from a friend's house near Clapham Common to her home in Brixton Hill on the evening of March 3, 2021, during England's third COVID-19 lockdown, according to Wikipedia and City A.M. She was last recorded on CCTV on Poynders Road at about 9:28 p.m.",
+   "Minutes later, Wayne Couzens, then 48 and a serving Metropolitan Police constable attached to the Parliamentary and Diplomatic Protection Command, showed her his warrant card, handcuffed her and put her into a hired car, according to Wikipedia. The Irish Times, reporting on the later appeal, said he used his warrant card and handcuffs to carry out a false arrest under lockdown rules. He drove her to Kent, where he raped and murdered her.",
+   "Couzens was arrested at his home in Deal, Kent, on March 9, 2021. Human remains were found in woodland near Ashford, Kent, on March 10 and were identified as Everard's through dental records on March 12, the day Couzens was charged with kidnapping and murder, according to Wikipedia. The cause of death was given as compression of the neck. He pleaded guilty to kidnap and rape on June 8, 2021, and to murder on July 9, 2021.",
+   "On September 30, 2021, Lord Justice Fulford sentenced Couzens to life imprisonment with a whole-life order, meaning he will never be eligible for release. City A.M. reported that the judge found no evidence of genuine contrition. According to the Irish Times, it was the first whole-life sentence imposed for the single murder of an adult not connected to terrorism. On July 29, 2022, the Court of Appeal, led by Lord Chief Justice Lord Burnett, refused to reduce the sentence. Wikipedia reports that in 2023 Couzens also pleaded guilty to three counts of indecent exposure committed in 2020 and 2021.",
+   "The case led to vigils and protests about violence against women and to scrutiny of policing. The Angiolini Inquiry, set up to examine how Couzens was able to serve as an officer, published its Part 1 report on February 29, 2024, with 16 recommendations on police recruitment, vetting and the handling of indecent exposure reports, according to the inquiry's website. Wikipedia notes that the Metropolitan Police's handling of a March 13, 2021 vigil on Clapham Common was later found by the High Court to have been unlawful."
   ],
   "timeline": [
    {
     "date": "2021-03-03",
-    "event": "Sarah Everard disappears while walking home in Clapham, south London."
+    "event": "Sarah Everard is abducted by Wayne Couzens on Poynders Road, Clapham, while walking home."
    },
    {
     "date": "2021-03-09",
-    "event": "Wayne Couzens, a serving police officer, is arrested."
+    "event": "Couzens is arrested in Deal, Kent."
    },
    {
     "date": "2021-03-10",
-    "event": "Sarah's remains found in woodland near Ashford, Kent."
+    "event": "Human remains are found in woodland near Ashford, Kent."
+   },
+   {
+    "date": "2021-03-12",
+    "event": "The remains are identified as Everard's; Couzens is charged with kidnapping and murder."
+   },
+   {
+    "date": "2021-03-13",
+    "event": "A vigil is held on Clapham Common; police arrest several attendees."
+   },
+   {
+    "date": "2021-06-08",
+    "event": "Couzens pleads guilty to kidnap and rape."
+   },
+   {
+    "date": "2021-07-09",
+    "event": "Couzens pleads guilty to murder."
    },
    {
     "date": "2021-09-30",
-    "event": "Couzens sentenced to whole-life imprisonment."
+    "event": "Lord Justice Fulford sentences Couzens to a whole-life order."
+   },
+   {
+    "date": "2022-07-29",
+    "event": "The Court of Appeal refuses Couzens's challenge to the whole-life order."
+   },
+   {
+    "date": "2024-02-29",
+    "event": "The Angiolini Inquiry publishes its Part 1 report."
    }
   ],
   "enriched": true
@@ -57865,7 +57861,7 @@
   "city": "Moline",
   "age": 11,
   "gender": "Female",
-  "summary": "Eleven-year-old Trudy Appleby vanished from Moline, Illinois on August 21, 1996; her body has never been found. In August 2025 a Henry County grand jury indicted Jamison Fisher, a long-named person of interest, on first-degree murder and concealment of a homicidal death. He is presumed innocent and the case is pending.",
+  "summary": "Eleven-year-old Trudy Appleby disappeared from Moline, Illinois on August 21, 1996, after being seen getting into an older gray vehicle with a man; her body has never been found. Jamison Fisher was indicted in Henry County in August 2025 on first-degree murder charges. In September 2026 he chose a bench trial; he is presumed innocent.",
   "lastSeen": "August 21, 1996, near her home in Moline, Illinois",
   "tags": [
    "child",
@@ -57877,24 +57873,65 @@
     "url": "https://www.kwqc.com/2025/08/14/man-indicted-appleby-disappearance/"
    },
    {
+    "title": "KWQC - Trudy Appleby case: How a 30-year Quad Cities mystery led to a murder indictment",
+    "url": "https://www.kwqc.com/2026/08/20/trudy-appleby-case-how-30-year-quad-cities-mystery-led-murder-indictment/"
+   },
+   {
+    "title": "KWQC - Judge rules on key witnesses in Appleby murder trial",
+    "url": "https://www.kwqc.com/2026/07/29/man-accused-murdering-trudy-appleby-court-wednesday/"
+   },
+   {
+    "title": "KWQC - Man charged in Trudy Appleby death wants bench trial",
+    "url": "https://www.kwqc.com/2026/09/29/man-charged-trudy-appleby-death-wants-bench-trial/"
+   },
+   {
     "title": "Wikipedia - Disappearance of Trudy Appleby",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Trudy_Appleby"
    }
   ],
   "narrative": [
-   "On August 21, 1996, eleven-year-old Trudy Appleby was last seen in the morning outside her home in Moline, Illinois, getting into a vehicle driven by a man. She had reportedly wanted to go swimming that day.",
-   "Trudy never came home. Despite extensive searches of the river and surrounding areas, no trace of her was found.",
-   "In 2017, Moline police publicly identified William \"Ed\" Smith, who had died in 2014, as a suspect. In 2020 they named two more persons of interest, David Whipple (who died in 2022) and Jamison Fisher. In August 2025 Fisher was indicted on first-degree murder charges; he has not been convicted.",
-   "Trudy's remains have never been found. Prosecutors allege she was strangled in Henry County; the murder case against Jamison Fisher is pending."
+   "Trudy Appleby was 11 when she disappeared from Moline, Illinois, on August 21, 1996. According to KWQC, she had asked her father, Dennis Appleby, if she could go swimming that day and he said no, but police believe she made other plans. She was seen getting into an older-model gray vehicle with a man, and she has not been seen since. Her body has never been found.",
+   "The case went unsolved for decades. In August 2017 Moline police named William \"Ed\" Smith as a person of interest, saying he had access to a vehicle matching the one described by witnesses and that the vehicle was scrapped soon after the disappearance, KWQC reported. Smith had died in December 2014. In October 2017 police excavated an old home site on Campbell's Island after a tip but recovered nothing, and in January 2019 Moline police seized a boat thought to be linked to the case, which the FBI examined at its Springfield laboratory.",
+   "In August 2020 police named two more persons of interest, David Whipple and Jamison Fisher. Whipple later died. Neither Smith nor Whipple was ever charged.",
+   "On August 14, 2025, a Henry County grand jury indicted Fisher, then 50, on three counts of first-degree murder and one count of concealment of a homicidal death, KWQC reported. According to the Henry County State's Attorney, prosecutors allege he strangled the girl in Henry County; KWQC reported that prosecutors say the motive was a drug debt owed by her father. Kidnapping could not be charged because the statute of limitations had run out. At the time of the indictment he was being held on a probation violation.",
+   "Pretrial proceedings continued through 2026. On July 29, 2026, the judge ruled that most of the prosecution's key witnesses could testify, with limits on some and four barred entirely, KWQC reported. At a hearing in late September 2026, Fisher waived his right to a jury trial and chose to have Judge Norma Kauzlarich decide the case; the judge suggested a trial in late February or early March 2027. A hearing on a prosecution motion to hold him in contempt was set for November 18, 2026. Fisher has not been convicted and is presumed innocent."
   ],
   "timeline": [
    {
     "date": "1996-08-21",
-    "event": "Trudy Appleby vanishes in Moline, Illinois."
+    "event": "Trudy Appleby, 11, is seen getting into an older gray vehicle with a man in Moline and disappears."
+   },
+   {
+    "date": "2017-08",
+    "event": "Moline police name William \"Ed\" Smith, who died in 2014, as a person of interest."
+   },
+   {
+    "date": "2017-10",
+    "event": "Police excavate an old home site on Campbell's Island after a tip; nothing is found."
+   },
+   {
+    "date": "2019-01",
+    "event": "Moline police seize a boat believed to be connected to the case; the FBI examines it."
+   },
+   {
+    "date": "2020-08",
+    "event": "Police name David Whipple and Jamison Fisher as persons of interest."
    },
    {
     "date": "2025-08-14",
-    "event": "Henry County grand jury indicts Jamison Fisher on three counts of first-degree murder and one count of concealment of a homicidal death."
+    "event": "A Henry County grand jury indicts Fisher on three counts of first-degree murder and one count of concealment of a homicidal death."
+   },
+   {
+    "date": "2026-07-29",
+    "event": "The judge rules that most key prosecution witnesses may testify at trial."
+   },
+   {
+    "date": "2026-09",
+    "event": "Fisher waives a jury trial and opts for a bench trial; a trial in early 2027 is discussed."
+   },
+   {
+    "date": "2026-11-18",
+    "event": "Scheduled hearing on a prosecution motion to hold Fisher in contempt."
    }
   ],
   "enriched": true
@@ -58797,7 +58834,7 @@
   "enriched": true
  },
  {
-  "id": "dena-dean-2001-uk",
+  "id": "dena-dean-1998",
   "name": "Dena Ann Dean",
   "type": "Homicide",
   "status": "Unsolved",
@@ -62660,7 +62697,7 @@
   "id": "tsutomu-miyazaki-japan-1989",
   "name": "Tsutomu Miyazaki Victims",
   "type": "Serial Killer Victims",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 1988,
   "date": "August 22, 1988 – June 6, 1989",
   "state": "Japan",
@@ -62668,36 +62705,73 @@
   "country": "Japan",
   "age": null,
   "gender": "Female",
-  "summary": "Tsutomu Miyazaki, the 'Otaku Killer,' murdered four young girls in the Tokyo/Saitama area. He kept body parts as trophies and sent taunting letters to families. He was executed in 2008.",
-  "lastSeen": "1988-1989, Saitama Prefecture, Japan",
+  "summary": "Between August 1988 and June 1989, four girls aged 4 to 7 were abducted and killed in Tokyo and neighbouring Saitama Prefecture. Tsutomu Miyazaki was arrested in July 1989, sentenced to death by the Tokyo District Court in 1997 and, after the Supreme Court upheld the sentence in 2006, hanged at the Tokyo Detention House on June 17, 2008.",
+  "lastSeen": "1988-1989, Saitama Prefecture and Tokyo, Japan",
   "tags": [
    "serial killer",
    "1980s"
   ],
   "sources": [
    {
-    "title": "Tsutomu Miyazaki - Wikipedia",
+    "title": "Japan Today - Serial child killer Tsutomu Miyazaki, 2 others executed",
+    "url": "https://japantoday.com/category/crime/serial-child-killer-tsutomu-miyazaki-executed"
+   },
+   {
+    "title": "Anime News Network - 'Otaku' Murderer Tsutomu Miyazaki Executed on Tuesday",
+    "url": "https://www.animenewsnetwork.com/news/2008-06-17/otaku-murderer-tsutomu-miyazaki-executed-on-tuesday"
+   },
+   {
+    "title": "ABC News (Australia) - Japan confirms execution of cannibal killer",
+    "url": "https://www.abc.net.au/news/2008-06-18/japan-confirms-execution-of-cannibal-killer/2475810"
+   },
+   {
+    "title": "Wikipedia - Tsutomu Miyazaki",
     "url": "https://en.wikipedia.org/wiki/Tsutomu_Miyazaki"
    }
   ],
   "narrative": [
-   "Between August 1988 and June 1989, Tsutomu Miyazaki kidnapped and murdered four girls aged 4 to 7 in the Saitama Prefecture and Tokyo areas of Japan.",
-   "Miyazaki committed acts of necrophilia, mutilated the bodies, and kept body parts as trophies. He sent taunting postcards to the families of victims, including bone fragments of one girl sent to her family.",
-   "He was caught on July 23, 1989 while attempting to photograph a young girl. Police found over 5,000 videotapes in his home, many containing anime and horror films, leading to the derogatory label 'Otaku Killer.'",
-   "Miyazaki was convicted of four murders and sentenced to death. He was executed by hanging on June 17, 2008. The case created lasting stigma against otaku culture in Japan."
+   "Four young girls were abducted and killed in Tokyo and neighbouring Saitama Prefecture between August 1988 and June 1989. According to Anime News Network and Wikipedia, they were Mari Konno, 4, taken on August 22, 1988; Masami Yoshizawa, 7, taken on October 3, 1988; Erika Namba, 4, taken on December 12, 1988; and Ayako Nomoto, 5, taken on June 6, 1989.",
+   "Tsutomu Miyazaki, then in his twenties, was arrested on July 23, 1989 after he was caught trying to take obscene photographs of a young girl, Anime News Network reported. Police later found more than 5,700 videotapes in his home, including violent and pornographic material as well as anime. Media coverage labelled him the 'Otaku Murderer', and Anime News Network notes that the case helped both popularise and stigmatise the word otaku in Japan.",
+   "According to the court findings summarised by Japan Today, Miyazaki abducted and killed the girls to satisfy his sexual desires and his wish to own video footage of corpses, and he mutilated the bodies. He sent letters to families claiming responsibility for the killings and delivered remains to one family. Throughout the proceedings he did not express remorse to the victims' families, and he attributed the crimes to a 'rat man', ABC News (Australia) reported.",
+   "His trial, which began in 1990 according to Anime News Network, lasted years, in part because of disputes over his mental state; court-appointed psychiatrists reached differing diagnoses. The Tokyo District Court sentenced him to death on April 14, 1997, according to Wikipedia. The Tokyo High Court upheld the sentence in 2001, and on January 17, 2006 the Supreme Court rejected his final appeal, ruling that although he had an extreme character disorder he was fully responsible at the time of the crimes, Japan Today reported.",
+   "Miyazaki, 45, was hanged at the Tokyo Detention House on June 17, 2008, one of three prisoners executed that day on orders signed by Justice Minister Kunio Hatoyama, according to Japan Today and ABC News. Japan Today reported that the execution came about two years and four months after the Supreme Court finalised his sentence, ending court proceedings that had lasted around 16 years."
   ],
   "timeline": [
    {
+    "date": "1988-08-22",
+    "event": "Mari Konno, 4, is abducted."
+   },
+   {
+    "date": "1988-10-03",
+    "event": "Masami Yoshizawa, 7, is abducted."
+   },
+   {
+    "date": "1988-12-12",
+    "event": "Erika Namba, 4, is abducted."
+   },
+   {
+    "date": "1989-06-06",
+    "event": "Ayako Nomoto, 5, is abducted."
+   },
+   {
     "date": "1989-07-23",
-    "event": "Miyazaki arrested."
+    "event": "Tsutomu Miyazaki is arrested after trying to take obscene photographs of a young girl."
    },
    {
     "date": "1997-04-14",
-    "event": "Convicted and sentenced to death."
+    "event": "The Tokyo District Court sentences Miyazaki to death."
+   },
+   {
+    "date": "2001",
+    "event": "The Tokyo High Court upholds the death sentence."
+   },
+   {
+    "date": "2006-01-17",
+    "event": "The Supreme Court of Japan rejects his final appeal."
    },
    {
     "date": "2008-06-17",
-    "event": "Executed."
+    "event": "Miyazaki is hanged at the Tokyo Detention House."
    }
   ],
   "enriched": true
