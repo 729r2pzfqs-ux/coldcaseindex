@@ -22667,8 +22667,8 @@
     "url": "https://www.cbsnews.com/news/bryan-kohberger-sentence-idaho-murders/"
    },
    {
-    "title": "University of Idaho murders - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/University_of_Idaho_murders"
+    "title": "PBS News (Associated Press) - The key evidence that linked Bryan Kohberger to the murders of 4 Idaho students",
+    "url": "https://www.pbs.org/newshour/nation/the-key-evidence-that-linked-bryan-kohberger-to-the-murders-of-4-idaho-students"
    }
   ],
   "narrative": [
@@ -22764,12 +22764,16 @@
     "url": "https://www.nbcnews.com/news/us-news/brian-walshe-sentenced-murdering-wife-dismembering-body-rcna249870"
    },
    {
+    "title": "CNN - Brian Walshe found guilty of first-degree murder in the killing of his wife",
+    "url": "https://www.cnn.com/2025/12/15/us/trial-brian-walshe-veridct-ana"
+   },
+   {
     "title": "Durango Herald (Associated Press) - Brian Walshe is sentenced to life in prison for the murder of his wife, whose body was never found",
     "url": "https://www.durangoherald.com/articles/associated-press/brian-walshe-is-sentenced-to-life-in-prison-for-the-murder-of-his-wife-whose-body-was-never-found/"
    },
    {
-    "title": "WBUR - Brian Walshe is sentenced to life in prison for the murder of his wife",
-    "url": "https://www.wbur.org/news/2025/12/18/brian-walshe-sentenced-life-in-prison-murder"
+    "title": "Boston.com - Brian Walshe changes plea to guilty on 2 charges",
+    "url": "https://www.boston.com/news/crime/2025/11/18/brian-walshe-changes-plea-to-guilty-on-2-charges/"
    }
   ],
   "narrative": [
@@ -34469,6 +34473,14 @@
     "url": "https://spectrumlocalnews.com/tx/austin/news/2019/08/07/victim-identified-in-williamson-county--orange-socks--case"
    },
    {
+    "title": "Houston Chronicle (Associated Press) - Identity of 'Orange Socks' remains a mystery",
+    "url": "http://www.chron.com/news/houston-texas/article/Identity-of-Orange-Socks-remains-a-mystery-1972763.php"
+   },
+   {
+    "title": "FOX 7 Austin - Investigation continues into 'Orange Socks' cold case",
+    "url": "https://www.fox7austin.com/news/investigation-continues-into-orange-socks-cold-case"
+   },
+   {
     "title": "Wikipedia - Murder of Debra Jackson (Orange Socks)",
     "url": "https://en.wikipedia.org/wiki/Orange_Socks"
    }
@@ -34539,8 +34551,20 @@
     "url": "https://www.tmj4.com/news/local-news/woman-found-guilty-of-racine-county-homicide-23-years-later"
    },
    {
-    "title": "AOL/People - She Was a 'Jane Doe' for 20 Years. Then Police Learned Someone She'd Trusted Did the Unthinkable",
-    "url": "https://www.aol.com/she-jane-doe-20-years-170000452.html"
+    "title": "Chicago Sun-Times / AP - Illinois nurse charged with beating, killing woman in 1999",
+    "url": "https://chicago.suntimes.com/crime/2019/11/8/20955625/illinois-nurse-linda-la-roche-beating-killing-peggy-lynn-johnson-jane-doe"
+   },
+   {
+    "title": "Oxygen - Linda LaRoche Guilty In Peggy Lynn Johnson-Schroeder Murder",
+    "url": "https://www.oxygen.com/crime-news/linda-laroche-guilty-in-peggy-lynn-johnson-schroeder-murder"
+   },
+   {
+    "title": "FOX6 Milwaukee - Racine County cold case; Linda La Roche sentenced to life in prison",
+    "url": "https://www.fox6now.com/news/racine-county-cold-case-linda-la-roche-sentenced-monday"
+   },
+   {
+    "title": "CBS 58 - Linda LaRoche gets life for 1999 murder of Peggy Johnson in Racine County",
+    "url": "https://www.cbs58.com/news/linda-laroche-gets-life-for-1999-murder-of-peggy-johnson-in-racine-county"
    }
   ],
   "narrative": [
@@ -37887,6 +37911,22 @@
     "url": "https://www.nbcnews.com/news/us-news/boy-box-americas-unknown-child-identified-65-years-rcna56266"
    },
    {
+    "title": "CBS News Philadelphia - Police reveal identity of 'The Boy in the Box': Joseph Augustus Zarelli",
+    "url": "https://www.cbsnews.com/philadelphia/news/joseph-augustus-zarelli-the-boy-in-the-box-identification-police/"
+   },
+   {
+    "title": "PhillyVoice - Philly's cold-case homicide victim, the 'Boy in the Box,' identified as Joseph Augustus Zarelli, police say",
+    "url": "https://www.phillyvoice.com/boy-in-box-philadelphia-joseph-augustus-zarelli-homicide-victim-identfiied/"
+   },
+   {
+    "title": "NBC10 Philadelphia - After 65 Years, Philadelphia Police Identify 'Boy in the Box'",
+    "url": "https://www.nbcphiladelphia.com/investigators/after-65-years-philadelphia-police-identify-the-boy-in-the-box/3445387/"
+   },
+   {
+    "title": "The Philadelphia Inquirer - Joseph Augustus Zarelli, 'the Boy in the Box,' gets a new headstone with his name",
+    "url": "https://www.inquirer.com/news/philadelphia/boy-in-the-box-joseph-zarelli-headstone-20230113.html"
+   },
+   {
     "title": "Wikipedia - Killing of Joseph Augustus Zarelli",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Joseph_Augustus_Zarelli"
    }
@@ -41065,56 +41105,6 @@
   "enriched": true
  },
  {
-  "id": "michael-anthony-hughes-1986",
-  "name": "Michael Anthony Hughes",
-  "type": "Homicide",
-  "status": "Unsolved",
-  "year": 1986,
-  "date": "January 5, 1986",
-  "state": "California",
-  "city": "Long Beach",
-  "age": 17,
-  "gender": "Male",
-  "summary": "Seventeen-year-old Michael Anthony Hughes was found murdered in Long Beach, California. The case has been linked to the Freeway Killer Randy Kraft, but Hughes was never officially added to Kraft's victim list. The case remains open.",
-  "lastSeen": "January 5, 1986, Long Beach, California",
-  "tags": [
-   "teenager",
-   "serial killer possible",
-   "1980s"
-  ],
-  "sources": [
-   {
-    "title": "Randy Kraft - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Randy_Kraft"
-   },
-   {
-    "title": "Freeway Killer victims - LA Times",
-    "url": "https://www.latimes.com/archives/"
-   }
-  ],
-  "narrative": [
-   "On January 5, 1986, the body of 17-year-old Michael Anthony Hughes was discovered in Long Beach, California. He had been strangled and showed signs of sexual assault. The circumstances of his death bore similarities to victims attributed to Randy Kraft, the convicted serial killer known as the 'Freeway Killer' who murdered at least 16 young men in Southern California between 1971 and 1983.",
-   "Hughes was a local teenager who had last been seen in the Long Beach area. The investigation revealed few leads. While Kraft was already in custody by 1986, his cryptic scorecard of victims—a list of 61 coded entries found in his car at the time of arrest—contained entries that investigators could not match to known victims. Some researchers have speculated that Hughes may have been killed by a Kraft associate or copycat.",
-   "The Long Beach Police Department investigated the case but was unable to identify a suspect. The case has been periodically reviewed as part of broader cold case initiatives but remains unsolved.",
-   "Michael Anthony Hughes' murder is one of many unsolved killings of young men in Southern California during the 1970s and 1980s, a period when multiple serial killers—including Kraft, William Bonin, and Patrick Kearney—were active in the region."
-  ],
-  "timeline": [
-   {
-    "date": "1986-01-05",
-    "event": "Michael Anthony Hughes is found murdered in Long Beach, California."
-   },
-   {
-    "date": "1986-01-06",
-    "event": "Long Beach police begin investigation."
-   },
-   {
-    "date": "1986-02-01",
-    "event": "Possible connections to Freeway Killer investigated but not confirmed."
-   }
-  ],
-  "enriched": true
- },
- {
   "id": "sherri-rasmussen-1986",
   "name": "Sherri Rasmussen",
   "type": "Homicide",
@@ -41433,78 +41423,6 @@
    {
     "date": "1999-12-08",
     "event": "Raleigh police begin formal missing person investigation."
-   }
-  ],
-  "enriched": true
- },
- {
-  "id": "mary-jane-barker-1957",
-  "name": "Mary Jane Barker",
-  "type": "Missing Person",
-  "status": "Solved",
-  "year": 1957,
-  "date": "February 25, 1957",
-  "state": "New Jersey",
-  "city": "Bellmawr",
-  "age": 4,
-  "gender": "Female",
-  "summary": "Four-year-old Mary Jane Barker vanished while playing near her home in Bellmawr, New Jersey, on February 25, 1957, along with a neighbor's puppy. After a search involving more than 1,000 people, she was found dead on March 3 in a closet of a vacant house nearby. The coroner ruled her death accidental, caused by starvation and exposure.",
-  "lastSeen": "February 25, 1957, playing in a yard near her home in Bellmawr, New Jersey",
-  "tags": [
-   "Wisconsin",
-   "child",
-   "1950s"
-  ],
-  "sources": [
-   {
-    "title": "Wikipedia - Death of Mary Jane Barker",
-    "url": "https://en.wikipedia.org/wiki/Death_of_Mary_Jane_Barker"
-   },
-   {
-    "title": "The Daily Iowan (AP), February 28, 1957 - front-page report on the search for Mary Jane Barker (PDF)",
-    "url": "http://dailyiowan.lib.uiowa.edu/DI/1957/di1957-02-28.pdf"
-   },
-   {
-    "title": "Find a Grave - Mary Jane Barker (1953-1957)",
-    "url": "https://www.findagrave.com/memorial/169997080/mary-jane-barker"
-   },
-   {
-    "title": "Vocal Media - The Box In The Box",
-    "url": "https://vocal.media/criminal/the-box-in-the-box"
-   },
-   {
-    "title": "Wikipedia - search results for \"Mary Jane Barker\" (Bellmawr, New Jersey 1957)",
-    "url": "https://en.wikipedia.org/w/index.php?search=%22Mary+Jane+Barker%22"
-   }
-  ],
-  "narrative": [
-   "Mary Jane Barker, the youngest of three children of Frank and Mary Barker, disappeared on the morning of Monday, February 25, 1957, while playing in a yard near her family's home in Bellmawr, a borough in Camden County, New Jersey. A cocker spaniel puppy belonging to a neighboring playmate went missing at the same time. An Associated Press report published in The Daily Iowan on February 28 said that the child was believed to have been kidnapped and that her parents had made a public appeal for her safe return, asking that she be left at any church.",
-   "According to the Wikipedia account of the case, which is based on newspaper coverage from the period, police were notified a few hours after she was last seen, and the search grew from a couple of hundred volunteers on the first night to more than 1,000 people. The press described it as the largest search South Jersey had seen. The same account states that the FBI joined the investigation, that a ransom demand of $500 was received by telephone, and that at least one man was questioned by police. No one was charged with any offense in connection with the case.",
-   "On Sunday, March 3, 1957, the neighbor's daughter and her mother went into a newly built, unoccupied house next door to the playmate's home. When a bedroom closet was opened, the puppy ran out alive, and Mary Jane's body was found inside, still dressed in the clothes she had been wearing when she vanished. According to the Wikipedia summary of contemporary reports, the house had been searched more than once during the week, but that closet had not been opened.",
-   "The discovery initially raised questions. The local police chief was reported as saying he suspected the child had been placed in the closet only recently, in part because of the condition of the dog. The autopsy, however, found no signs of violence or sexual assault and no evidence that she had eaten anything after the morning she disappeared. The Camden County coroner ruled the death accidental, attributing it to starvation and exposure, and investigators concluded that she had died about three days after becoming trapped. The closet door was not locked, but its inside latch was reported to be difficult for a small child to operate. The puppy was put down so that veterinarians could examine it as part of the inquiry.",
-   "In the days that followed, Bellmawr's mayor ordered that closet doors in new and rebuilt homes be fitted with hardware that opens easily from both sides, according to the same account. Mary Jane was buried at New Saint Mary's Cemetery in Bellmawr, according to her Find a Grave memorial. The publicity surrounding the search has also been linked to another Philadelphia-area case: accounts of the \"Boy in the Box\" investigation say that a man who had come across that child's body contacted police after hearing news coverage of the Barker case.",
-   "Because the official finding was accidental death, this case is not an unsolved crime. It is sometimes confused with unrelated missing-child cases, and no source supports the claim that she disappeared in Wisconsin."
-  ],
-  "timeline": [
-   {
-    "date": "1957-02-25",
-    "event": "Mary Jane Barker disappears while playing near her home in Bellmawr, New Jersey; a neighbor's puppy vanishes at the same time."
-   },
-   {
-    "date": "1957-02-27",
-    "event": "Her parents publicly appeal for her safe return as hundreds of volunteers and police search the Bellmawr area."
-   },
-   {
-    "date": "1957-03-03",
-    "event": "A playmate and the playmate's mother find Mary Jane's body in a bedroom closet of a vacant house next door; the puppy is alive."
-   },
-   {
-    "date": "1957-03-04",
-    "event": "An autopsy finds no signs of violence; the coroner rules the death accidental, from starvation and exposure."
-   },
-   {
-    "date": "1957-03-07",
-    "event": "Bellmawr's mayor orders closet doors in new and rebuilt homes to be fitted with knobs that open from both sides; a memorial service is held."
    }
   ],
   "enriched": true
@@ -46615,6 +46533,22 @@
    {
     "title": "Gypsy Rose Blanchard case - BuzzFeed News",
     "url": "https://www.buzzfeednews.com/article/michelledean/dee-dee-wanted-her-daughter-to-be-sick-gypsy-wanted-her-mom"
+   },
+   {
+    "title": "ABC News - Gypsy Rose Blanchard released from prison after serving time for mom's murder",
+    "url": "https://abcnews.go.com/US/gypsy-rose-blanchard-released-prison-after-serving-time/story?id=105925237"
+   },
+   {
+    "title": "ABC News - How a young woman forced to use a wheelchair ended up in prison for her mother's murder",
+    "url": "https://abcnews.go.com/US/young-wheelchair-bound-woman-treated-illnesses-ended-prison/story?id=52138979"
+   },
+   {
+    "title": "BBC News - Gypsy Rose Blanchard released early from US prison",
+    "url": "https://www.bbc.com/news/world-us-canada-67833339"
+   },
+   {
+    "title": "KY3 - Greene County judge deciding motion in Nicholas Godejohn's attempt for new trial",
+    "url": "https://www.ky3.com/2022/08/09/greene-county-judge-deciding-nicholas-godejohns-murder-conviction-appeal/"
    }
   ],
   "narrative": [
@@ -58143,6 +58077,22 @@
    {
     "title": "Rust shooting trial - Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Rust_(film)#Trial"
+   },
+   {
+    "title": "NBC News - 'Rust' movie armorer Hannah Gutierrez-Reed sentenced to 18 months",
+    "url": "https://www.nbcnews.com/news/us-news/hannah-gutierrez-reed-rust-armorer-sentencing-rcna147795"
+   },
+   {
+    "title": "Variety - Alec Baldwin Manslaughter Case Is Over, as 'Rust' Prosecutor Drops Appeal",
+    "url": "https://variety.com/2024/film/news/alec-baldwin-manslaughter-appeal-dropped-1236258765/"
+   },
+   {
+    "title": "Variety - Alec Baldwin to Face Civil Trial Over Alleged Negligence in 'Rust' Shooting",
+    "url": "https://variety.com/2026/film/news/alec-baldwin-rust-shooting-civil-trial-negligence-1236724621/"
+   },
+   {
+    "title": "The Hollywood Reporter - Halyna Hutchins' Family Settles Wrongful Death Suit Over 'Rust' Shooting",
+    "url": "https://www.hollywoodreporter.com/news/general-news/halyna-hutchins-family-settles-wrongful-death-suit-over-rust-shooting-1235233791/"
    },
    {
     "title": "Wikipedia - Rust shooting incident",
