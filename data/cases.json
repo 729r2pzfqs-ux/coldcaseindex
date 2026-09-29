@@ -38556,11 +38556,11 @@
   "year": 1969,
   "date": "November 28, 1969",
   "state": "Pennsylvania",
-  "city": "State College",
+  "city": "University Park",
   "age": 22,
   "gender": "Female",
-  "summary": "Graduate student Betsy Aardsma was stabbed to death in the stacks of Penn State's Pattee Library on the day after Thanksgiving 1969. Despite a massive investigation, her killer was never identified.",
-  "lastSeen": "November 28, 1969, Pattee Library, Penn State University",
+  "summary": "Betsy Aardsma, a 22-year-old Penn State English graduate student, was stabbed once in the chest in the stacks of the Pattee Library on November 28, 1969, the day after Thanksgiving. No one has ever been charged. Pennsylvania State Police say the case remains open and that no person of interest has been labeled a suspect.",
+  "lastSeen": "November 28, 1969, about 4:30 p.m., Level 2 core stacks of Pattee Library, Penn State University Park campus",
   "tags": [
    "university",
    "student",
@@ -38569,36 +38569,57 @@
   ],
   "sources": [
    {
-    "title": "Murder of Betsy Aardsma - Wikipedia",
+    "title": "NBC News - Unsolved murder of Penn State student Betsy Aardsma haunts community 52 years after she was stabbed in library stacks",
+    "url": "https://www.nbcnews.com/dateline/cold-case-spotlight/unsolved-murder-penn-state-student-betsy-aardsma-haunts-community-52-n1284867"
+   },
+   {
+    "title": "Oxygen - Mystery Still Surrounds Murder Of Penn State Graduate Student Found Dead In The School's Library",
+    "url": "https://www.oxygen.com/crime-news/betsy-aardsma-murder-mystery-still-surrounds-death-of-penn-state-student"
+   },
+   {
+    "title": "Crime Magazine - Cold Case: The Murder of Betsy Aardsma at Penn State",
+    "url": "http://www.crimemagazine.com/cold-case-murder-betsy-aardsma-penn-state"
+   },
+   {
+    "title": "Wikipedia - Murder of Betsy Aardsma",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Betsy_Aardsma"
    }
   ],
   "narrative": [
-   "On Friday, November 28, 1969—the day after Thanksgiving—22-year-old Betsy Ruth Aardsma, a first-year English graduate student at Penn State University, entered the Pattee Library's core stacks area on the ground floor around 4:45 p.m. to conduct research. Minutes later, she collapsed between rows of bookshelves. Two male students nearby heard a brief commotion and a man's voice say something like 'somebody better help that girl,' but assumed she had fainted.",
-   "When help arrived, no wound was immediately visible. It was only at the hospital that doctors discovered a single, precise stab wound to the left breast that had pierced her pulmonary artery. The killer had used a thin blade, possibly a hunting or paring knife, and the wound was so small it was initially hidden by Betsy's red dress. She was pronounced dead at Centre Community Hospital.",
-   "The investigation revealed that despite being in a busy university library, almost no one noticed anything unusual. A man was seen running from the stacks, and two students reported a brief encounter with a nervous individual near the crime scene, but descriptions were vague and inconsistent. The library's layout—a maze of dimly lit shelving rows with limited sightlines—provided ideal cover for the attack.",
-   "Penn State Police and the Pennsylvania State Police investigated extensively, interviewing hundreds of people and examining Betsy's personal life for potential motives. She was by all accounts a well-liked, studious young woman with no known enemies. Investigators later focused on a suspect named Richard Haefner, a Penn State graduate student who had known Aardsma and had a history of sexual offenses, but he was never charged before his death in 2002. The case remains officially open and unsolved."
+   "Elizabeth Ruth \"Betsy\" Aardsma was born on July 11, 1947, in Holland, Michigan. After studying at Hope College and graduating from the University of Michigan, she enrolled as a graduate student in English at Penn State in October 1969. She spent Thanksgiving with her boyfriend in Hershey, Pennsylvania, and returned to campus early to work on a research paper, NBC News reported.",
+   "On the afternoon of Friday, November 28, 1969, she went to the Pattee Library with her roommate. According to Wikipedia's detailed account, she went into the dimly lit Level 2 core stacks at about 4:30 p.m. Between roughly 4:45 and 4:55 p.m. she was stabbed once in the left side of the chest while standing between two rows of shelves. Witnesses heard books falling, and a man who told two students that the girl needed help then left the library; he was never identified despite police appeals.",
+   "Because the wound bled mostly internally and she wore a red dress, those who found her first believed she had fainted. She was taken to the campus health center, where she was pronounced dead at 5:19 p.m., according to NBC News, and staff then discovered the stab wound. Oxygen reported that by the time police understood it was a homicide, the area had not been preserved: books had been reshelved and the floor mopped.",
+   "The Pennsylvania State Police took over the investigation, interviewing many witnesses. A composite sketch of a man seen running from the stacks did not produce an arrest. Retired trooper Mike Simmers told Dateline that investigators had considered a couple of possible suspects but never had enough evidence for an arrest.",
+   "Journalist David DeKok, in his book on the case, argued that Richard Haefner, a fellow graduate student who had briefly dated Aardsma, was responsible. Haefner was never charged in her death, maintained his innocence and died in 2002. A former state police sergeant who led the early investigation told a newspaper that Haefner was never regarded as a suspect, and a state police trooper told Oxygen in 2021 that the case remains active and open, with several persons of interest over the years but none labeled a suspect."
   ],
   "timeline": [
    {
-    "date": "1969-11-28",
-    "event": "Betsy Aardsma is stabbed to death in the stacks of Penn State's Pattee Library."
+    "date": "1947-07-11",
+    "event": "Elizabeth Ruth Aardsma is born in Holland, Michigan."
+   },
+   {
+    "date": "1969-10",
+    "event": "Aardsma begins graduate studies in English at Penn State."
+   },
+   {
+    "date": "1969-11-27",
+    "event": "After Thanksgiving in Hershey, she returns to campus to work on a paper."
    },
    {
     "date": "1969-11-28",
-    "event": "She is pronounced dead at Centre Community Hospital; a single stab wound is discovered."
+    "event": "She enters the Pattee Library core stacks around 4:30 p.m. and is stabbed between about 4:45 and 4:55 p.m."
    },
    {
-    "date": "1969-12-01",
-    "event": "Massive investigation begins; hundreds of students and staff are interviewed."
+    "date": "1969-11-28",
+    "event": "She is pronounced dead at the campus health center at 5:19 p.m.; the stab wound is found there."
    },
    {
-    "date": "2002-01-01",
-    "event": "Primary suspect Richard Haefner dies without being charged."
+    "date": "2002",
+    "event": "Richard Haefner, whom an author later named as the likely killer, dies without ever being charged."
    },
    {
-    "date": "2019-11-28",
-    "event": "The 50th anniversary passes with the case still unsolved."
+    "date": "2021-11",
+    "event": "On the 52nd anniversary, Pennsylvania State Police say the case remains active and open."
    }
   ],
   "enriched": true
@@ -38614,8 +38635,8 @@
   "city": "Washington",
   "age": 43,
   "gender": "Female",
-  "summary": "Mary Pinchot Meyer, a Washington socialite and former mistress of President John F. Kennedy, was shot to death while walking along the C&O Canal towpath in Georgetown. Raymond Crump Jr. was acquitted, and the case has never been solved.",
-  "lastSeen": "October 12, 1964, C&O Canal towpath, Georgetown, Washington D.C.",
+  "summary": "Artist Mary Pinchot Meyer, 43, was shot twice and killed while walking on the C&O Canal towpath in Georgetown, Washington, D.C., on October 12, 1964. Raymond Crump Jr. was arrested nearby and charged, but a jury acquitted him in July 1965. No weapon was recovered and no one else has been charged; the killing remains officially unsolved.",
+  "lastSeen": "October 12, 1964, C&O Canal towpath, Georgetown, Washington, D.C.",
   "tags": [
    "Washington D.C.",
    "JFK",
@@ -38625,32 +38646,61 @@
   ],
   "sources": [
    {
-    "title": "Mary Pinchot Meyer - Wikipedia",
+    "title": "Smithsonian Magazine - 44 Years Later, a Washington, D.C. Death Unresolved",
+    "url": "https://www.smithsonianmag.com/history/44-years-later-a-washington-dc-death-unresolved-93263961/"
+   },
+   {
+    "title": "The Daily Beast - The JFK Mistress Mary Pinchot Meyer Was Gunned Down in Cold Blood. Why?",
+    "url": "https://www.thedailybeast.com/the-jfk-mistress-mary-pinchot-meyer-was-gunned-down-in-cold-blood-why/"
+   },
+   {
+    "title": "City Journal - Two Washington Women",
+    "url": "https://www.city-journal.org/article/two-washington-women"
+   },
+   {
+    "title": "CrimeReads - The Last Painting of Mary Pinchot Meyer",
+    "url": "https://crimereads.com/the-last-painting-of-mary-pinchot-meyer/"
+   },
+   {
+    "title": "Wikipedia - Mary Pinchot Meyer",
     "url": "https://en.wikipedia.org/wiki/Mary_Pinchot_Meyer"
+   },
+   {
+    "title": "Wikipedia - Dovey Johnson Roundtree",
+    "url": "https://en.wikipedia.org/wiki/Dovey_Johnson_Roundtree"
    }
   ],
   "narrative": [
-   "On October 12, 1964, Mary Pinchot Meyer, a 43-year-old painter, socialite, and ex-wife of CIA officer Cord Meyer, was shot twice—once in the head and once in the back—while walking along the Chesapeake & Ohio Canal towpath in Georgetown, Washington, D.C. A mechanic working nearby heard screams and gunshots and saw a man standing over a woman's body. He called police, and within minutes, Raymond Crump Jr., a 25-year-old local laborer, was found nearby, wet and disheveled.",
-   "Crump was charged with the murder, but at trial in July 1965, his attorney Dovey Johnson Roundtree systematically dismantled the prosecution's case. No murder weapon was ever found, the eyewitness's identification was shaky, and Crump did not match the physical description given by other witnesses. The jury acquitted him after deliberating for less than twelve hours.",
-   "The case took on deeper significance when it emerged that Meyer had been having an affair with President Kennedy in the two years before his assassination. Her diary, which reportedly described their relationship and her experiments with psychedelic drugs, was sought by CIA counterintelligence chief James Jesus Angleton, who was found at her art studio attempting to retrieve it the night of her death. CIA involvement in the case—or at least intense interest—fueled decades of conspiracy theories.",
-   "Despite numerous investigations, books, and documentaries, no one has ever been definitively identified as Mary Meyer's killer. Some researchers believe it was a random attack, while others point to possible connections to the CIA, the Kennedy assassination, or the Cold War intelligence community. The case remains one of Washington's most intriguing unsolved murders."
+   "Mary Pinchot Meyer, born October 14, 1920, was a painter living in Washington, D.C. According to Wikipedia and the Daily Beast, she was the former wife of CIA official Cord Meyer and is reported to have had a relationship with President John F. Kennedy during the last years of his life.",
+   "On October 12, 1964, two days before her 44th birthday, Meyer was shot and killed while walking on the Chesapeake and Ohio Canal towpath in Georgetown. Smithsonian magazine, in a 2008 account by Lance Morrow, placed the shooting at about 12:30 p.m. and reported that men working on a car nearby heard a shot, a cry for help and a second shot, then called police. According to the Daily Beast, one of them, mechanic Henry Wiggins, said he saw a Black man in a tan jacket and dark cap standing over the body. Meyer had been shot once in the head and once in the upper body.",
+   "Police arrested Raymond Crump Jr. in the woods near the river shortly afterward. Smithsonian reported that his clothes were wet and his hand was cut, that a jacket and cap were recovered from the river, and that his fishing rod was later found at his home. He was charged with murder. No gun was ever found, and the Daily Beast reported that no physical evidence tied Crump to the killing.",
+   "Crump was defended by civil rights lawyer Dovey Johnson Roundtree, who, according to her Wikipedia biography, took the case for a one-dollar fee. Her defense stressed that Crump was considerably shorter and lighter than the man the eyewitness had described. The trial was heard in July 1965 before Judge Howard Corcoran, and the jury found Crump not guilty. Sources differ on the exact verdict date, giving July 29 or July 31, 1965. City Journal notes the acquittal was based on insufficient evidence.",
+   "After Meyer's death, her sister Tony Bradlee and brother-in-law Ben Bradlee of the Washington Post looked for her diary, and accounts cited by Wikipedia and the Daily Beast say CIA counterintelligence chief James Angleton was also involved in retrieving it; the diary was later reported destroyed. The case has attracted extensive speculation because of Meyer's connections, but no one other than Crump was ever charged. The Daily Beast and other accounts describe the killing as officially unsolved."
   ],
   "timeline": [
    {
-    "date": "1964-10-12",
-    "event": "Mary Pinchot Meyer is shot twice and killed on the C&O Canal towpath in Georgetown."
+    "date": "1920-10-14",
+    "event": "Mary Pinchot is born."
+   },
+   {
+    "date": "1964-10",
+    "event": "Relatives search for Meyer's diary; accounts say CIA official James Angleton was involved in retrieving it."
    },
    {
     "date": "1964-10-12",
-    "event": "Raymond Crump Jr. is arrested near the scene."
+    "event": "Meyer is shot twice and killed on the C&O Canal towpath in Georgetown shortly after midday."
    },
    {
-    "date": "1964-10-13",
-    "event": "CIA's James Angleton attempts to retrieve Meyer's diary from her studio."
+    "date": "1964-10-12",
+    "event": "Raymond Crump Jr. is arrested near the scene and later charged with murder."
    },
    {
-    "date": "1965-07-29",
-    "event": "Crump is acquitted; no one else is ever charged."
+    "date": "1965-07",
+    "event": "Crump is tried before Judge Howard Corcoran, defended by Dovey Johnson Roundtree."
+   },
+   {
+    "date": "1965-07",
+    "event": "The jury acquits Crump (sources give July 29 or July 31, 1965); no one else is charged."
    }
   ],
   "enriched": true
@@ -40263,13 +40313,13 @@
   "status": "Unsolved",
   "year": 1995,
   "date": "February 1, 1995",
-  "state": "Wales",
-  "city": "Cardiff",
+  "state": "London",
+  "city": "London",
   "age": 27,
   "gender": "Male",
   "country": "United Kingdom",
-  "summary": "Manic Street Preachers guitarist and lyricist Richey Edwards disappeared on the day he was due to fly to the US for a promotional tour. His car was found abandoned near the Severn Bridge. He was declared presumed dead in 2008.",
-  "lastSeen": "February 1, 1995, Embassy Hotel, London, England",
+  "summary": "Manic Street Preachers lyricist and guitarist Richey Edwards, 27, left the Embassy Hotel in London on February 1, 1995, the day he was due to fly to the US. His car was later found at a service station by the Severn crossing. No trace of him has been found, and he was declared presumed dead in November 2008.",
+  "lastSeen": "February 1, 1995, Embassy Hotel, Bayswater Road, London, England",
   "tags": [
    "international",
    "musician",
@@ -40278,32 +40328,65 @@
   ],
   "sources": [
    {
-    "title": "Richey Edwards - Wikipedia",
+    "title": "NME - Manic Street Preachers' Richey Edwards officially dead",
+    "url": "https://www.nme.com/news/music/manic-street-preachers-157-1335633"
+   },
+   {
+    "title": "NME - Richey Edwards' family find 'vital new evidence' in the case of missing Manic",
+    "url": "https://www.nme.com/news/music/richey-edwards-family-find-vital-new-evidence-case-missing-manic-2239001"
+   },
+   {
+    "title": "Penguin - The day Richey Edwards disappeared (Withdrawn Traces excerpt)",
+    "url": "https://www.penguin.co.uk/discover/articles/withdrawn-traces-richey-edwards-day-of-disappearance"
+   },
+   {
+    "title": "Nation.Cymru - Statement released in case of missing Welsh rock star Richey Edwards",
+    "url": "https://nation.cymru/culture/statement-released-in-case-of-missing-welsh-rock-star-richey-edwards/"
+   },
+   {
+    "title": "Wikipedia - Richey Edwards",
     "url": "https://en.wikipedia.org/wiki/Richey_Edwards"
    }
   ],
   "narrative": [
-   "On February 1, 1995, Richard James 'Richey' Edwards, the 27-year-old rhythm guitarist, lyricist, and cultural icon of the Welsh rock band Manic Street Preachers, checked out of the Embassy Hotel in London where he had been staying. He was due to fly to the United States that day with bandmate James Dean Bradfield for a promotional tour. Instead of going to the airport, Edwards withdrew £200 from his bank account and drove his silver Vauxhall Cavalier away. He was never seen again.",
-   "Over the following two weeks, Edwards' car was spotted by toll booth cameras crossing the Severn Bridge—which connects England and Wales—multiple times. On February 14, his car was found abandoned at the Aust motorway services, near the bridge. The Severn Estuary below the bridge is notorious for its strong currents and has been the site of numerous suicides. However, no body was ever recovered, and Edwards' passport was missing from his flat.",
-   "Edwards had a well-documented history of depression, self-harm, anorexia, and alcohol abuse. He had been hospitalized in a psychiatric facility in 1994 and was known to have struggled profoundly with mental health issues. These factors led many to conclude he had likely taken his own life. However, others—including his family—held out hope that he may have simply walked away from fame and started a new life, pointing to the missing passport and reported sightings in locations ranging from Goa to the Canary Islands.",
-   "Richey Edwards was officially declared 'presumed dead' by his family in November 2008. The Manic Street Preachers continued as a three-piece, and in 2009 released 'Journal for Plague Lovers,' an album set to lyrics Edwards had left behind. His disappearance remains one of the most poignant mysteries in British music history."
+   "Richard James Edwards, known as Richey, was the lyricist and rhythm guitarist of the Welsh rock band Manic Street Preachers. He was 27 when he went missing on February 1, 1995, the day he and singer James Dean Bradfield were due to fly to the United States for a promotional trip, according to NME.",
+   "Edwards had been staying at the Embassy Hotel in Bayswater, London, in room 561. A police statement quoted in an excerpt from the 2019 book Withdrawn Traces, published by Penguin, says he was seen leaving the hotel at 7 a.m. that morning. A January 2026 appeal by the charity Missing Persons Support and his sister notes that the precise time he left the hotel has never been settled.",
+   "His silver Vauxhall Cavalier was later found at the service station on the English side of the old Severn crossing, known as Aust or Severn View services. According to the Penguin excerpt and Wikipedia, the car was first noticed around February 14 and was reported abandoned on February 17, 1995. Because the services sit beside the Severn Bridge, it has been widely assumed that he may have taken his own life there, but no body has ever been recovered and there is no proof of how or whether he died. Unconfirmed sightings were reported in the years that followed, NME has noted.",
+   "Edwards had spoken publicly about depression, and he spent time in hospital in 1994, according to Wikipedia. In 2018 his family said they had learned that the time recorded on a Severn Bridge toll receipt linked to the case had been read on the wrong clock, placing the crossing in the early hours rather than the afternoon; NME reported his sister's view that this changed the accepted timeline.",
+   "His parents, who had earlier declined to do so, obtained a court order in 2008 that changed his legal status to presumed dead. NME reported on November 24, 2008 that the family's lawyer said the step was about settling his affairs and did not mean the family accepted he had died. The 2026 anniversary appeal asked anyone with information to contact the Metropolitan Police, and he remains missing."
   ],
   "timeline": [
    {
+    "date": "1994",
+    "event": "Edwards spends time in hospital for his mental health, according to Wikipedia."
+   },
+   {
     "date": "1995-02-01",
-    "event": "Richey Edwards checks out of his London hotel and disappears."
+    "event": "Edwards leaves the Embassy Hotel in Bayswater, London, on the day he is due to fly to the United States."
    },
    {
     "date": "1995-02-14",
-    "event": "His car is found abandoned at motorway services near the Severn Bridge."
+    "event": "His Vauxhall Cavalier is noticed at the service station by the Severn crossing."
    },
    {
-    "date": "1995-02-15",
-    "event": "Police search the Severn Estuary; no body is found."
+    "date": "1995-02-17",
+    "event": "The car is reported abandoned; no trace of Edwards is found in searches of the area."
    },
    {
-    "date": "2008-11-23",
-    "event": "Edwards is declared 'presumed dead' by his family."
+    "date": "2008-11-24",
+    "event": "Reports confirm that his parents have obtained a court order declaring him presumed dead."
+   },
+   {
+    "date": "2009-05",
+    "event": "Manic Street Preachers release Journal for Plague Lovers, set to lyrics he left behind."
+   },
+   {
+    "date": "2018-02",
+    "event": "His family says the time on a Severn Bridge toll receipt was misread, altering the accepted timeline."
+   },
+   {
+    "date": "2026-01-31",
+    "event": "Missing Persons Support and his sister issue an anniversary appeal for information."
    }
   ],
   "enriched": true
@@ -42079,47 +42162,6 @@
    {
     "date": "2017-05-05",
     "event": "Patch reports that Pasco County cold-case detectives are seeking new leads and that a reward is offered."
-   }
-  ],
-  "enriched": true
- },
- {
-  "id": "springfield-doe-1976",
-  "name": "Springfield Jane Doe",
-  "type": "Unidentified Person",
-  "status": "Unsolved",
-  "year": 1976,
-  "date": "February 7, 1976",
-  "state": "Pennsylvania",
-  "city": "Springfield Township",
-  "age": null,
-  "gender": "Female",
-  "summary": "The nude body of a young woman was found wrapped in a shower curtain in a ditch in Springfield Township, Pennsylvania. Despite distinctive physical features and evidence of pregnancy, she has never been identified.",
-  "lastSeen": "Unknown",
-  "tags": [
-   "unidentified remains",
-   "Doe case",
-   "1970s"
-  ],
-  "sources": [],
-  "narrative": [
-   "On February 7, 1976, the nude body of a young woman was found in a ditch along a rural road in Springfield Township, Mercer County, Pennsylvania. She was wrapped in a floral shower curtain and had been dead for several days. The woman appeared to be between 17 and 25 years old, approximately 5'2\" tall, and had been approximately six months pregnant at the time of her death.",
-   "Autopsy determined she had been strangled. She had brown hair and brown eyes, and her teeth showed some dental work. Despite extensive efforts to identify her through dental records, fingerprints, and public appeals, no match was ever found. The case was featured in local and regional media, but no one came forward to identify her.",
-   "Over the decades, investigators have pursued numerous leads and compared her description to missing persons reports from across the country. Forensic artist reconstructions were created and widely distributed. DNA was eventually extracted from the remains and submitted to genealogy databases.",
-   "The Springfield Jane Doe case remains one of Pennsylvania's oldest unidentified person cases. Her killer has never been identified, and the mystery of who she was—and who killed her and her unborn child—continues to haunt investigators."
-  ],
-  "timeline": [
-   {
-    "date": "1976-02-07",
-    "event": "Body of unidentified woman found in a ditch in Springfield Township, Pennsylvania."
-   },
-   {
-    "date": "1976-02-08",
-    "event": "Autopsy determines cause of death as strangulation; she was six months pregnant."
-   },
-   {
-    "date": "1976-03-01",
-    "event": "Extensive but unsuccessful efforts to identify her begin."
    }
   ],
   "enriched": true
@@ -45948,8 +45990,8 @@
   "age": 22,
   "gender": "Female",
   "country": "Canada",
-  "summary": "Twenty-two-year-old Beverly Lynn Smith was shot in the back of the head in the kitchen of her home in Raglan, north of Oshawa, Ontario, on December 9, 1974, while her infant daughter was in the next room. A neighbour, Alan Smith (no relation), was charged in 2008 and again in 2009, but the first charge was dropped and he was acquitted in July 2014. No one has been convicted and the case remains unsolved.",
-  "lastSeen": "December 9, 1974, at her home in Raglan, north of Oshawa, Ontario, Canada",
+  "summary": "Beverly Lynn Smith, 22, was killed by a single gunshot to the head in the kitchen of her home in Raglan, north of Oshawa, Ontario, on December 9, 1974, while her 10-month-old daughter slept nearby. A former neighbour was charged twice, but the first charge was withdrawn and he was acquitted in 2014 after a judge excluded his Mr. Big confession. The case remains unsolved.",
+  "lastSeen": "December 9, 1974, about 7 p.m., at her home in Raglan, north of Oshawa, Ontario, Canada",
   "tags": [
    "international",
    "farmhouse",
@@ -45957,52 +45999,69 @@
   ],
   "sources": [
    {
+    "title": "CBC News - Neighbour charged in 33-year-old homicide case",
+    "url": "https://www.cbc.ca/news/canada/toronto/neighbour-charged-in-33-year-old-homicide-case-1.700208"
+   },
+   {
+    "title": "CBC News - Murder charge withdrawn in decades-old Ontario case",
+    "url": "https://www.cbc.ca/news/canada/toronto/murder-charge-withdrawn-in-decades-old-ontario-case-1.700207"
+   },
+   {
+    "title": "CBC News - Police re-arrest man in 35-year-old homicide",
+    "url": "https://www.cbc.ca/news/canada/toronto/police-re-arrest-man-in-35-year-old-homicide-1.849498"
+   },
+   {
+    "title": "The Globe and Mail - Man charged for second time in 1974 Ontario slaying",
+    "url": "https://www.theglobeandmail.com/news/national/man-charged-for-second-time-in-1974-ontario-slaying/article4295283/"
+   },
+   {
+    "title": "CBC News - Alan Dale Smith acquitted in 1974 killing of Beverly Smith",
+    "url": "https://www.cbc.ca/news/canada/toronto/alan-dale-smith-acquitted-in-1974-killing-of-beverly-smith-1.2720607"
+   },
+   {
+    "title": "ComingSoon - The Unsolved Murder Of Beverly Lynn Smith: Where Is Alan Dale Smith now?",
+    "url": "https://www.comingsoon.net/true-crime/news/1486188-the-unsolved-murder-of-beverly-lynn-smith-where-is-alan-dale-smith-now"
+   },
+   {
+    "title": "ComingSoon - How to Watch The Unsolved Murder of Beverly Lynn Smith on Prime Video",
+    "url": "https://www.comingsoon.net/tv/news/1256121-how-to-watch-the-unsolved-murder-of-beverly-lynn-smith-on-prime-video"
+   },
+   {
     "title": "Wikipedia - List of unsolved murders in Canada (cites Toronto Star)",
     "url": "https://en.wikipedia.org/wiki/List_of_unsolved_murders_in_Canada"
-   },
-   {
-    "title": "Google News feed - Yahoo News Canada / Decider / OregonLive, May 2022",
-    "url": "https://news.google.com/rss/search?q=%22Beverly+Lynn+Smith%22&hl=en-US&gl=US&ceid=US:en"
-   },
-   {
-    "title": "Google News feed - DurhamRegion.com (Mar 18, 2008; Jun 11 and Jul 29, 2014), Globe and Mail / Global News (Dec 11, 2009)",
-    "url": "https://news.google.com/rss/search?q=%22Beverly+Smith%22+Raglan+1974+%22Alan+Smith%22&hl=en-CA&gl=CA&ceid=CA:en"
    }
   ],
   "narrative": [
-   "On the evening of December 9, 1974, 22-year-old Beverly Lynn Smith was at the home she shared with her husband Doug and their 10-month-old daughter in Raglan, a hamlet north of Oshawa, Ontario. Doug was away from the house and, when Beverly did not answer his phone calls, asked a neighbour to check on her. The neighbour's wife found Beverly dead in the kitchen, killed by a .22-calibre bullet to the back of the head; the couple's infant daughter was unharmed in the next room.",
-   "There were no signs of forced entry, and nothing appeared to have been stolen. Beverly's purse and valuables were untouched. The scene suggested she had opened the door to someone she knew. A neighbor reported hearing what might have been a gunshot but did not investigate.",
-   "The Durham Regional Police investigation was extensive but hampered by limited forensic technology of the era. Over the decades, the case was reviewed multiple times. In 2022, the case was the subject of the Amazon Prime Video documentary series 'The Unsolved Murder of Beverly Lynn Smith,' which brought renewed attention to the investigation and to the failed prosecution.",
-   "A neighbour, Alan Smith (no relation), was charged with the murder in March 2008, but the charge was dropped; he was charged again in December 2009 after an undercover police operation and was acquitted in July 2014. No one has been convicted of Beverly's murder. Her case remains one of Ontario's most enduring cold cases, and her family continues to seek answers nearly fifty years later."
+   "Beverly Lynn Smith, 22, lived with her husband, Douglas, and their 10-month-old daughter, Rebecca, in a small brick house in Raglan, a community north of Oshawa, Ontario. According to CBC News and The Globe and Mail, Douglas last saw her at about 7 p.m. on December 9, 1974, holding their daughter as he left for his shift at the General Motors plant.",
+   "Later that evening she was found dead in the kitchen from a single gunshot wound to the head; Rebecca was found asleep in her crib. The Globe and Mail reported that another neighbour found the body. According to the 2022 Prime Video documentary series about the case, as summarized by ComingSoon, Douglas had asked neighbours to check on her after she did not answer his calls, no weapon was found, and nothing appeared to have been taken.",
+   "The killing was the first homicide investigation for the Durham Regional Police, which had been created earlier in 1974. Police said the file had never been shelved. In March 2008, Durham police charged Alan Dale Smith, a former neighbour who was not related to the victim, with second-degree murder. The Crown withdrew that charge about five months later, telling the court there was no reasonable prospect of conviction.",
+   "Police then ran a so-called Mr. Big undercover operation, in which officers posed as members of a criminal organization and befriended Alan Smith. In December 2009 he was arrested again and charged with first-degree murder. He was held in custody while the case proceeded.",
+   "At trial, the judge found that his confessions were the product of coercion and excluded them. With that evidence gone, the Crown concluded there was no reasonable prospect of conviction, and on July 28, 2014, Alan Smith was acquitted, CBC News reported. No one else has been charged, and Beverly Lynn Smith's death remains Durham Region's oldest unsolved homicide."
   ],
   "timeline": [
    {
-    "date": "1974-10-14",
-    "event": "Beverly Lynn Smith is found shot to death in her farmhouse kitchen."
+    "date": "1974-12-09",
+    "event": "Beverly Lynn Smith is last seen by her husband at about 7 p.m. and is later found shot dead in her kitchen in Raglan."
    },
    {
-    "date": "1974-10-15",
-    "event": "OPP begins investigation; no signs of forced entry or robbery."
+    "date": "2008-03-18",
+    "event": "Durham Regional Police charge former neighbour Alan Dale Smith with second-degree murder."
    },
    {
-    "date": "2008-03-17",
-    "event": "Neighbour Alan Smith (no relation) is arrested and charged with second-degree murder; the charge is later dropped."
+    "date": "2008-08",
+    "event": "The Crown withdraws the charge, citing no reasonable prospect of conviction."
    },
    {
-    "date": "2009-12",
-    "event": "Alan Smith is charged a second time, with first-degree murder, following an undercover police sting."
+    "date": "2009-12-10",
+    "event": "After a Mr. Big undercover operation, Alan Smith is arrested again and charged with first-degree murder."
    },
    {
-    "date": "2014-07",
-    "event": "An Ontario Superior Court judge acquits Alan Smith; the murder remains unsolved."
-   },
-   {
-    "date": "2020-01-01",
-    "event": "CBC documentary series brings renewed attention to the case."
+    "date": "2014-07-28",
+    "event": "Alan Smith is acquitted after the judge excludes his confessions as coerced."
    },
    {
     "date": "2022-05-06",
-    "event": "Amazon Prime Video releases the documentary series 'The Unsolved Murder of Beverly Lynn Smith'."
+    "event": "The Prime Video docuseries 'The Unsolved Murder of Beverly Lynn Smith' is released."
    }
   ],
   "enriched": true
@@ -46404,8 +46463,8 @@
   "city": "Montgomery",
   "age": 17,
   "gender": "Female",
-  "summary": "Seventeen-year-old Brianna Maitland disappeared after her shift at the Black Lantern Inn in Montgomery, Vermont. Her car was found backed into an abandoned farmhouse. Despite tips suggesting foul play related to drugs, she was never found.",
-  "lastSeen": "March 19, 2004, Montgomery, Vermont",
+  "summary": "Brianna Maitland, 17, disappeared after leaving her shift at the Black Lantern Inn in Montgomery, Vermont, late on March 19, 2004. The Oldsmobile she was driving was found the next day backed into an abandoned farmhouse about a mile away. Vermont State Police believe she may have been a victim of foul play; she has not been found and no one has been charged.",
+  "lastSeen": "March 19, 2004, about 11:20 p.m., leaving the Black Lantern Inn, Montgomery, Vermont",
   "tags": [
    "teenager",
    "waitress",
@@ -46414,28 +46473,65 @@
   ],
   "sources": [
    {
-    "title": "Disappearance of Brianna Maitland - Wikipedia",
+    "title": "Vermont State Police - Unsolved Missing Persons: Brianna Maitland",
+    "url": "https://vsp.vermont.gov/unsolved/missing/a/maitland"
+   },
+   {
+    "title": "Vermont State Police News Releases - Vermont State Police collaborates with DNA experts",
+    "url": "http://vtstatepolice.blogspot.com/2020/09/vermont-state-police-collaborates-with.html"
+   },
+   {
+    "title": "VTDigger - 20 years after Brianna Maitland's disappearance, investigators hope reward money will bring new clues",
+    "url": "https://vtdigger.org/2024/03/19/20-years-after-brianna-maitlands-disappearance-investigators-hope-reward-money-will-bring-new-clues/"
+   },
+   {
+    "title": "Vermont Public - Vermont State Police offers $40K reward to help find Brianna Maitland",
+    "url": "https://www.vermontpublic.org/local-news/2024-03-19/vsp-offers-40k-reward-to-help-find-brianna-maitland-20-years-after-disappearance"
+   },
+   {
+    "title": "Wikipedia - Disappearance of Brianna Maitland",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Brianna_Maitland"
    }
   ],
   "narrative": [
-   "On the evening of March 19, 2004, 17-year-old Brianna Maitland finished her shift as a waitress at the Black Lantern Inn, a restaurant and inn in the small rural town of Montgomery, Vermont, near the Canadian border. She left the inn around 11:30 p.m. to drive to a friend's house where she had been staying. She never arrived.",
-   "The next day, Brianna's 1985 Oldsmobile was found backed into the side of an abandoned farmhouse on Route 118, about a mile from the Black Lantern Inn. The car's rear end had crashed through the building's wall. Inside the car, some of Brianna's personal items were found. Outside the car, investigators found what appeared to be signs of a confrontation—disturbed ground and items scattered near the vehicle.",
-   "The investigation by the Vermont State Police explored multiple theories. Brianna had reportedly been involved in a physical altercation with another young woman shortly before her disappearance, and some tips suggested her vanishing was connected to drug activity in the area near the Canadian border. Multiple persons of interest were identified but no charges were filed.",
-   "Brianna Maitland's case has drawn parallels to the disappearance of Maura Murray, another young woman who vanished in rural New England the same year. While there is no evidence connecting the cases, they have been jointly discussed in true crime media. The Vermont State Police continues to investigate and periodically releases updates asking for the public's help."
+   "Brianna Maitland was 17 and working at the Black Lantern Inn, a restaurant and inn in Montgomery, Vermont, in March 2004. According to Wikipedia's account of the case, she had moved out of her parents' home and was staying with a friend in Sheldon, about 20 miles to the west. On March 19, 2004, she clocked out of work at about 11:20 p.m. and left in the car she was driving, a 1985 Oldsmobile 88. She never reached home.",
+   "Vermont State Police say the car was found the next day backed into an abandoned building about one mile from the restaurant, on Route 118. VTDigger reports that police did not initially treat the car as suspicious and it was towed from the scene. Because Maitland no longer lived with her parents, she was not reported missing for four days, according to Vermont Public; Wikipedia states that her paychecks were found inside the car.",
+   "State police at first considered that she might have run away but now say she may have been the victim of foul play. Wikipedia reports that about three weeks before she vanished she had been assaulted at a party by a former friend, and that investigators later pursued tips pointing to drug activity in the region, including an April 2004 search of a house in Berkshire that produced no trace of her. In 2012 investigators examined and then ruled out a possible link to serial killer Israel Keyes, VTDigger reports. No one has been charged in her disappearance.",
+   "In September 2020, Vermont State Police announced a partnership with the forensic laboratory Othram to analyze DNA evidence from the case. In 2022 police said they had identified the source of DNA recovered from an item near the car; according to Vermont Public, that result allowed investigators to rule out a long-standing lead but did not produce a suspect.",
+   "On the 20th anniversary in March 2024, the FBI's Albany field office and Vermont State Police announced a reward of up to $40,000 for information leading to her recovery. State police leaders described the case as unsolved rather than cold. As of 2025 coverage, Brianna Maitland had not been found."
   ],
   "timeline": [
    {
     "date": "2004-03-19",
-    "event": "Brianna Maitland finishes her shift at the Black Lantern Inn."
+    "event": "Brianna Maitland leaves the Black Lantern Inn in Montgomery at about 11:20 p.m. after her shift."
    },
    {
     "date": "2004-03-20",
-    "event": "Her car is found crashed into an abandoned farmhouse on Route 118."
+    "event": "The car she was driving is found backed into an abandoned farmhouse on Route 118, about a mile from the inn, and is towed."
    },
    {
-    "date": "2004-03-21",
-    "event": "Vermont State Police launch full investigation."
+    "date": "2004-03-23",
+    "event": "Maitland is reported missing."
+   },
+   {
+    "date": "2004-04-15",
+    "event": "Police search a house in Berkshire, Vermont, after a tip; no sign of Maitland is found."
+   },
+   {
+    "date": "2012",
+    "event": "Investigators examine and rule out a possible connection to serial killer Israel Keyes."
+   },
+   {
+    "date": "2020-09-29",
+    "event": "Vermont State Police announce a DNA-testing partnership with Othram."
+   },
+   {
+    "date": "2022-03",
+    "event": "Police announce they have identified the source of DNA found near the car; it does not lead to a suspect."
+   },
+   {
+    "date": "2024-03-19",
+    "event": "FBI Albany and Vermont State Police announce a $40,000 reward on the 20th anniversary."
    }
   ],
   "enriched": true
@@ -49685,16 +49781,16 @@
   "id": "scott-johnson-1988",
   "name": "Scott Johnson",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 1988,
-  "date": "December 8, 1988",
+  "date": "December 10, 1988",
   "state": "Australia",
   "city": "Sydney",
   "country": "Australia",
   "age": 27,
   "gender": "Male",
-  "summary": "American mathematician Scott Johnson was found dead at the base of cliffs in Manly, Sydney. Initially ruled a suicide, his death was reclassified as a gay hate crime. Scott White pleaded guilty to manslaughter in 2023.",
-  "lastSeen": "December 8, 1988, North Head cliffs, Manly, Sydney",
+  "summary": "American mathematician Scott Johnson, 27, was found dead below the North Head cliffs at Manly, Sydney, on December 10, 1988. First ruled a suicide, his death was found by a 2017 inquest to have resulted from a gay-hate attack. Scott White pleaded guilty to manslaughter in February 2023 and was sentenced to nine years in prison.",
+  "lastSeen": "December 1988, North Head clifftop near Manly, Sydney; body found December 10, 1988, at Blue Fish Point",
   "tags": [
    "1980s",
    "hate crime",
@@ -49702,32 +49798,69 @@
   ],
   "sources": [
    {
-    "title": "Death of Scott Johnson - Wikipedia",
+    "title": "ABC News (Australia) - Scott White sentenced over 1988 manslaughter of Scott Johnson",
+    "url": "https://www.abc.net.au/news/2023-06-08/scott-white-sentenced-manslaughter-scott-johnson/102454438"
+   },
+   {
+    "title": "CBS News - Australian Scott White gets 9 years in prison for punching gay American off Sydney cliff in 1988",
+    "url": "https://www.cbsnews.com/news/scott-white-9-years-prison-punching-scott-johnson-gay-american-sydney-cliff-1988/"
+   },
+   {
+    "title": "Star Observer - Scott White declines parole offer for alleged gay hate crime death",
+    "url": "https://www.starobserver.com.au/news/scott-white-declines-parole-offer-for-alleged-gay-hate-crime-death/241703"
+   },
+   {
+    "title": "Wikipedia - Death of Scott Johnson",
     "url": "https://en.wikipedia.org/wiki/Death_of_Scott_Johnson"
    }
   ],
   "narrative": [
-   "On December 10, 1988, the body of twenty-seven-year-old Scott Johnson, an American doctoral student in mathematics at the Australian National University, was found at the base of the North Head cliffs near Manly in Sydney's northern beaches. His clothes were neatly folded at the top of the cliff.",
-   "Police initially ruled Scott's death a suicide, but his brother Steve Johnson, a technology entrepreneur in the United States, refused to accept this finding. Steve spent decades and millions of dollars investigating his brother's death, eventually proving it was one of many gay hate crimes committed at Sydney's cliff areas in the 1980s and 1990s.",
-   "The cliffs at North Head and other sites around Sydney were known gathering places for gay men, and during the late 1980s, gangs of youths targeted gay men at these locations, bashing and sometimes pushing victims off cliffs. A 2017 inquest found that Scott was a victim of a gay hate crime.",
-   "In 2020, Scott Phillip White, who had been a teenager at the time of the killing, was arrested and charged with murder after a $1 million reward offered by Steve Johnson led to new information. White pleaded guilty to murder in January 2022 and was sentenced to 12 years and 7 months, but that conviction was overturned on appeal; in February 2023 he pleaded guilty to manslaughter and in June 2023 was sentenced to nine years in prison."
+   "Scott Russell Johnson, a 27-year-old American who had moved to Australia to study for a PhD in mathematics at the Australian National University, was found dead on the rocks at the base of the cliffs at North Head, near Manly in Sydney, on December 10, 1988, according to CBS News and Wikipedia. The clifftop area was known at the time as a meeting place for gay men.",
+   "A 1989 coronial inquest ruled his death a suicide. His brother, Steve Johnson, rejected that finding and campaigned for decades for a fresh investigation. A second inquest in 2012 returned an open finding, and in 2017 a third inquest concluded that Johnson had died after being attacked by one or more people who perceived him to be gay, CBS News reported. In 2020 Steve Johnson matched a police reward of 1 million Australian dollars for information.",
+   "Following a covert police operation, Scott White was arrested in May 2020, according to the Star Observer and Wikipedia. In January 2022 he unexpectedly pleaded guilty to murder and later tried to withdraw the plea; the judge refused and sentenced him to 12 years and 7 months. The New South Wales Court of Criminal Appeal overturned that conviction, finding the wrong legal test had been applied to his attempt to withdraw the plea.",
+   "In February 2023 White pleaded guilty to manslaughter, accepting that he punched Johnson near the cliff edge. On June 8, 2023, Justice Robert Beech-Jones sentenced him to nine years with a non-parole period of six years, ABC News reported. The judge called earlier suggestions of suicide absurd, but said he could not be satisfied beyond reasonable doubt that the killing was a gay hate crime.",
+   "White became eligible for parole on May 11, 2026. According to the Star Observer, he withdrew his parole application and chose to remain in custody to take part in a reintegration program. The case contributed to wider scrutiny in New South Wales of historical violence against gay men in Sydney during the 1980s."
   ],
   "timeline": [
    {
-    "date": "1988-12-08",
-    "event": "Scott Johnson found dead at the base of North Head cliffs."
+    "date": "1988-12-10",
+    "event": "Scott Johnson's body is found at the base of the North Head cliffs near Manly, Sydney."
    },
    {
-    "date": "2017-11-30",
-    "event": "Inquest finds Scott's death was a gay hate crime."
+    "date": "1989",
+    "event": "A coronial inquest rules the death a suicide."
+   },
+   {
+    "date": "2012",
+    "event": "A second inquest returns an open finding."
+   },
+   {
+    "date": "2017",
+    "event": "A third inquest finds Johnson died in an attack by people who perceived him to be gay."
    },
    {
     "date": "2020-05-12",
-    "event": "Scott Phillip White arrested and charged."
+    "event": "Scott White is arrested and charged with murder."
+   },
+   {
+    "date": "2022-01",
+    "event": "White pleads guilty to murder and is later sentenced to 12 years and 7 months."
+   },
+   {
+    "date": "2022-11",
+    "event": "The Court of Criminal Appeal quashes the murder conviction."
+   },
+   {
+    "date": "2023-02-23",
+    "event": "White pleads guilty to manslaughter."
    },
    {
     "date": "2023-06-08",
-    "event": "White, having pleaded guilty to manslaughter in February 2023, is sentenced to nine years."
+    "event": "White is sentenced to nine years with a six-year non-parole period."
+   },
+   {
+    "date": "2026-05",
+    "event": "Eligible for parole from May 11, White withdraws his parole application and remains in custody."
    }
   ],
   "enriched": true
@@ -51585,8 +51718,8 @@
   "city": "Brunswick",
   "age": 25,
   "gender": "Male",
-  "summary": "Ahmaud Arbery was chased and shot dead while jogging in Brunswick, Georgia by three white men. The case sparked national outrage over racial violence. All three were convicted of murder.",
-  "lastSeen": "February 23, 2020, Satilla Shores neighborhood, Brunswick, Georgia",
+  "summary": "Ahmaud Arbery, 25, was chased by three men in pickup trucks and fatally shot in the Satilla Shores neighborhood near Brunswick, Georgia, on February 23, 2020. Travis McMichael, Gregory McMichael and William \"Roddie\" Bryan were convicted of murder in state court in 2021 and of federal hate crimes in 2022; an appeals court upheld the federal convictions in 2025.",
+  "lastSeen": "February 23, 2020, Satilla Shores neighborhood, Glynn County, near Brunswick, Georgia",
   "tags": [
    "2020s",
    "racial violence",
@@ -51594,36 +51727,77 @@
   ],
   "sources": [
    {
-    "title": "Murder of Ahmaud Arbery - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Murder_of_Ahmaud_Arbery"
+    "title": "NPR - Father and son sentenced to life for a hate crime in Ahmaud Arbery's death",
+    "url": "https://www.npr.org/2022/08/08/1116261783/mcmichael-bryan-sentencing-ahmaud-arbery"
+   },
+   {
+    "title": "CBS News - Appeals court upholds hate crime convictions of Ahmaud Arbery's killers",
+    "url": "https://www.cbsnews.com/news/ahmaud-arbery-killers-appeals-court-upholds-hate-crime-convictions/"
+   },
+   {
+    "title": "Courthouse News Service - 11th Circuit upholds hate crime convictions for Ahmaud Arbery's murderers",
+    "url": "https://www.courthousenews.com/11th-circuit-upholds-hate-crime-convictions-for-ahmaud-arberys-murderers/"
    },
    {
     "title": "The Current (GA) - Former DA Jackie Johnson cleared of wrongdoing in Arbery murder investigation",
     "url": "https://thecurrentga.org/2025/02/05/former-da-jackie-johnson-cleared-of-wrongdoing-in-arbery-murder-investigation/"
+   },
+   {
+    "title": "Wikipedia - Murder of Ahmaud Arbery",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Ahmaud_Arbery"
    }
   ],
   "narrative": [
-   "On February 23, 2020, twenty-five-year-old Ahmaud Marquez Arbery was jogging through the Satilla Shores neighborhood near Brunswick, Georgia, when he was pursued by three white men in pickup trucks. Gregory McMichael, his son Travis McMichael, and their neighbor William 'Roddie' Bryan Jr. chased Arbery for several minutes before Travis McMichael fatally shot him with a shotgun.",
-   "The McMichaels claimed they suspected Arbery of committing burglaries in the neighborhood and were attempting a citizen's arrest. Bryan filmed the confrontation on his cellphone. Despite the video evidence, no arrests were made for over two months, as local prosecutors initially declined to press charges.",
-   "The cellphone video was leaked in May 2020, sparking national outrage and protests. The Georgia Bureau of Investigation took over the case, and all three men were arrested and charged with murder. The case became part of a broader national reckoning about racial violence and the criminal justice system.",
-   "In November 2021, all three defendants were found guilty of murder in state court. Travis McMichael and his father received life sentences without parole; Bryan received life with the possibility of parole. All three were subsequently convicted of federal hate crimes in February 2022."
+   "Ahmaud Arbery, a 25-year-old Black man, was shot and killed on the afternoon of February 23, 2020, in Satilla Shores, a neighborhood in unincorporated Glynn County just outside Brunswick, Georgia. According to CBS News, Gregory McMichael and his son Travis McMichael saw Arbery running through the neighborhood, armed themselves and followed him in a pickup truck. A neighbor, William \"Roddie\" Bryan, joined the pursuit in his own vehicle and recorded cellphone video that shows Travis McMichael shooting Arbery at close range.",
+   "No one was arrested for more than two months. Wikipedia's account of the case states that Bryan's video was released publicly on May 5, 2020, and that the Georgia Bureau of Investigation took over the case on May 7, arresting both McMichaels that day. Bryan was arrested on May 21, 2020.",
+   "On November 24, 2021, a Glynn County jury found all three men guilty of murder. Travis McMichael was convicted of malice murder and felony murder; Gregory McMichael and Bryan were convicted of felony murder and related counts. On January 7, 2022, the McMichaels were sentenced to life without the possibility of parole, and Bryan to life with the possibility of parole after 30 years.",
+   "In a separate federal prosecution, a jury on February 22, 2022, convicted the three men of interference with Arbery's civil rights, a federal hate crime, and attempted kidnapping; the McMichaels were also convicted on firearms counts. On August 8, 2022, U.S. District Judge Lisa Godbey Wood sentenced Travis McMichael to life plus 10 years, Gregory McMichael to life plus seven years, and Bryan to 35 years, NPR reported. On November 14, 2025, a panel of the 11th U.S. Circuit Court of Appeals upheld the federal convictions, finding ample evidence of racial animus, according to Courthouse News Service.",
+   "The handling of the early investigation also led to charges against former Brunswick Judicial Circuit District Attorney Jackie Johnson, who was accused of violating her oath of office and obstructing police. According to The Current, in February 2025 Judge John Turner dismissed the obstruction charge for insufficient evidence and threw out the oath charge because the wrong oath had been attached to the indictment. Georgia repealed and replaced its citizen's arrest law in May 2021."
   ],
   "timeline": [
    {
     "date": "2020-02-23",
-    "event": "Ahmaud Arbery shot and killed while jogging in Brunswick, Georgia."
+    "event": "Ahmaud Arbery is pursued and shot dead in Satilla Shores, Glynn County."
    },
    {
     "date": "2020-05-05",
-    "event": "Cellphone video leaked; national outrage follows."
+    "event": "Cellphone video of the shooting is released publicly."
    },
    {
     "date": "2020-05-07",
-    "event": "All three suspects arrested after GBI takes over investigation."
+    "event": "The GBI takes over the case and arrests Travis and Gregory McMichael."
+   },
+   {
+    "date": "2020-05-21",
+    "event": "William \"Roddie\" Bryan is arrested."
+   },
+   {
+    "date": "2021-05",
+    "event": "Georgia repeals and replaces its citizen's arrest law."
    },
    {
     "date": "2021-11-24",
-    "event": "All three convicted of murder."
+    "event": "Jury convicts all three men of murder in state court."
+   },
+   {
+    "date": "2022-01-07",
+    "event": "State sentences: life without parole for both McMichaels; life with parole eligibility after 30 years for Bryan."
+   },
+   {
+    "date": "2022-02-22",
+    "event": "Federal jury convicts all three of hate crime and attempted kidnapping charges."
+   },
+   {
+    "date": "2022-08-08",
+    "event": "Federal sentences imposed: life plus 10 years, life plus 7 years, and 35 years."
+   },
+   {
+    "date": "2025-02-05",
+    "event": "Charges against former DA Jackie Johnson are dismissed."
+   },
+   {
+    "date": "2025-11-14",
+    "event": "11th Circuit Court of Appeals upholds the federal convictions."
    }
   ],
   "enriched": true
@@ -52348,36 +52522,82 @@
   "country": "Australia",
   "age": 3,
   "gender": "Female",
-  "summary": "Three-year-old Cheryl Grimmer was taken from outside the shower block at Fairy Meadow Beach, Wollongong, on January 12, 1970. A man was charged in 2017, but prosecutors dropped the case in 2019 after his 1971 confession, made as a teenager, was ruled inadmissible. In 2025 the case was included in a NSW parliamentary inquiry and in 2026 the DPP announced a review.",
-  "lastSeen": "January 12, 1970, Fairy Meadow Beach, Wollongong, New South Wales, Australia",
+  "summary": "Three-year-old Cheryl Grimmer disappeared from outside a shower block at Fairy Meadow Beach, Wollongong, on January 12, 1970, and has never been found. A man charged with her murder in 2017 was never tried: the prosecution was discontinued in 2019 after his 1971 police interview was ruled inadmissible. In September 2026 the NSW DPP upheld that decision.",
+  "lastSeen": "January 12, 1970, shower block at Fairy Meadow Beach, Wollongong, New South Wales, Australia",
   "tags": [
    "child",
    "1970s"
   ],
   "sources": [
    {
-    "title": "Disappearance of Cheryl Grimmer - Wikipedia",
+    "title": "ABC News - Cheryl Grimmer confession read in NSW Parliament under privilege",
+    "url": "https://www.abc.net.au/news/2025-10-23/cheryl-grimmer-confession-read-in-nsw-parliament/105923732"
+   },
+   {
+    "title": "ABC News - Cheryl Grimmer's family offered chance to reopen case",
+    "url": "https://www.abc.net.au/news/2026-02-23/dpp-offers-to-review-cheryl-grimmer-case/106375252"
+   },
+   {
+    "title": "ABC News - Cheryl Grimmer's family devastated after DPP upholds decision",
+    "url": "https://www.abc.net.au/news/2026-09-17/cheryl-grimmer-family-devastated-dpp-review-upholds-decision/107162248"
+   },
+   {
+    "title": "ABC News - Cheryl Grimmer's family gives premier deadline to review dropped case",
+    "url": "https://www.abc.net.au/news/2026-09-24/grimmer-family-challenge-dpp-decision/107189234"
+   },
+   {
+    "title": "Wikipedia - Disappearance of Cheryl Grimmer",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Cheryl_Grimmer"
    }
   ],
   "narrative": [
-   "On January 12, 1970, the Grimmer family, recent British immigrants to Australia, visited Fairy Meadow Beach near Wollongong, New South Wales. Three-year-old Cheryl went into a shower and changing block with her three older brothers. When the boys came out, Cheryl was gone.",
-   "A witness reportedly saw a man carrying a small child from the area, but the description was vague. Despite an immediate search and widespread publicity, Cheryl was never found.",
-   "The case lay dormant for decades until renewed investigation in the 2010s. In 2017, a man was arrested and charged with Cheryl's murder based on a witness statement from the 1970s. However, the charges were dismissed when the court ruled that the suspect's interview as a teenager in 1971 was inadmissible.",
-   "Cheryl Grimmer's disappearance remains one of Australia's most enduring cold cases. Her family, including her brothers who were present at the time, have continued to seek answers."
+   "Cheryl Gene Grimmer was born in Bristol, England, in October 1966, and emigrated to Australia with her family in 1968, according to Wikipedia. The family was living at the Fairy Meadow migrant hostel near Wollongong, New South Wales, when Cheryl, then three, vanished from outside a shower block at Fairy Meadow Beach on January 12, 1970, as reported by ABC News. Her remains have never been found.",
+   "Wikipedia records that the early investigation considered drowning, misadventure and abduction, that a ransom demand received in the following days proved to be a hoax, and that a reward was offered. No one was charged at the time.",
+   "In 1971, a 17-year-old made a detailed statement to police admitting that he had taken and killed Cheryl, according to ABC News. Police at the time did not consider the account reliable enough to proceed, Wikipedia notes, and the statement was not acted on for decades. After the case was reopened, detectives charged a man in 2017 with her abduction and murder; he was arrested in Victoria and extradited to New South Wales, according to Wikipedia. He has only been identified publicly by the pseudonym \"Mercury\" because he was a minor at the time of the alleged offence, and he pleaded not guilty.",
+   "The case never reached trial. In 2019 Justice Robert Hulme of the NSW Supreme Court excluded the 1971 interview because it did not meet the legal safeguards required for admissions made by a child, including the presence of a supporting adult, ABC News reported. Without that evidence the Crown discontinued the prosecution. The man has not been convicted of any offence connected to Cheryl's disappearance.",
+   "On October 23, 2025, NSW upper house member Jeremy Buckingham read the 1971 statement aloud in parliament under parliamentary privilege, ABC News reported, and he secured a parliamentary inquiry into long-running unsolved murders and missing persons cases that includes Cheryl's. In February 2026 Director of Public Prosecutions Sally Dowling offered the family a review of the 2019 decision under the victims' right of review policy. The family lodged 54 submissions, but in a determination dated September 16, 2026 Dowling upheld the decision, concluding a challenge to the exclusion of the interview had no reasonable prospect of success, according to ABC News.",
+   "The family, led by Cheryl's brother Ricki Nash, criticised the brief response and on September 22, 2026 wrote to NSW Premier Chris Minns and Attorney-General Michael Daley seeking an independent audit, ABC News reported. ABC News also reported that a $1 million reward remains available and that police were separately assessing information the family says is new."
   ],
   "timeline": [
    {
+    "date": "1966-10-30",
+    "event": "Cheryl Gene Grimmer is born in Bristol, England (Wikipedia)."
+   },
+   {
+    "date": "1968",
+    "event": "The Grimmer family emigrates to Australia."
+   },
+   {
     "date": "1970-01-12",
-    "event": "Cheryl Grimmer snatched from a beach shower block in Wollongong."
+    "event": "Cheryl, aged three, disappears from outside a shower block at Fairy Meadow Beach, Wollongong."
    },
    {
-    "date": "2017-03-01",
-    "event": "Suspect arrested but charges later dismissed."
+    "date": "1971",
+    "event": "A 17-year-old makes a statement to police admitting to the abduction and killing; he is not charged."
    },
    {
-    "date": "2026-02-01",
-    "event": "NSW Director of Public Prosecutions announces a special review of the case, following a 2025 parliamentary inquiry."
+    "date": "2017",
+    "event": "After the case is reopened, a man is arrested in Victoria and charged with Cheryl's abduction and murder; he pleads not guilty."
+   },
+   {
+    "date": "2019-02",
+    "event": "The NSW Supreme Court rules the 1971 interview inadmissible and the prosecution is discontinued."
+   },
+   {
+    "date": "2025-10-23",
+    "event": "MP Jeremy Buckingham reads the 1971 statement in the NSW Legislative Council under parliamentary privilege."
+   },
+   {
+    "date": "2026-02-23",
+    "event": "NSW DPP Sally Dowling offers the family a review of the decision to discontinue the prosecution."
+   },
+   {
+    "date": "2026-09-16",
+    "event": "The DPP upholds the 2019 decision to discontinue the case."
+   },
+   {
+    "date": "2026-09-22",
+    "event": "The family writes to the NSW Premier and Attorney-General seeking an independent audit."
    }
   ],
   "enriched": true
@@ -54737,27 +54957,73 @@
   "city": "Mobile",
   "age": 19,
   "gender": "Female",
-  "summary": "Nineteen-year-old Brittney Wood vanished while on her way to meet her uncle in Mobile, Alabama. The investigation uncovered a massive family sexual abuse ring. Brittney has never been found.",
-  "lastSeen": "May 30, 2012, Mobile, Alabama",
+  "summary": "Brittney Nicole Wood, 19, was last seen on May 30, 2012, leaving west Mobile, Alabama, with her uncle Donnie Holland, who was found shot in his SUV two days later in a death ruled a suicide. The inquiry that followed led to charges against 11 relatives and family friends in a child sex abuse case. She has never been found and no one has been charged in her disappearance.",
+  "lastSeen": "May 30, 2012, leaving west Mobile, Alabama, with her uncle Donnie Holland, reportedly bound for his property near the Styx River in Baldwin County",
   "tags": [
    "2010s",
    "child abuse"
   ],
-  "sources": [],
+  "sources": [
+   {
+    "title": "CBS News (AP) - Brittney Wood Case: Missing Alabama teen investigation uncovers alleged child sex ring",
+    "url": "https://www.cbsnews.com/news/brittney-wood-missing-alabama-teen-probe-uncovers-alleged-child-sex-ring/"
+   },
+   {
+    "title": "Fox News (AP) - Teen's mysterious disappearance helps reveal alleged family sex ring on Alabama coast",
+    "url": "https://www.foxnews.com/us/teens-mysterious-disappearance-helps-reveal-alleged-family-sex-ring-on-alabama-coast"
+   },
+   {
+    "title": "NCMEC - Have you seen this child? Brittney Nicole Wood",
+    "url": "https://www.missingkids.org/poster/ncmc/1199371/1"
+   },
+   {
+    "title": "Fox 10 - No new clues in disappearance of 19-year-old Brittney Wood 12 years ago",
+    "url": "https://www.fox10tv.com/2024/05/30/no-new-clues-disappearance-19-year-old-brittney-wood-12-years-ago/"
+   },
+   {
+    "title": "Newsweek - The Real-Life Story Behind 'Monster in the Shadows'",
+    "url": "https://www.newsweek.com/monster-shadows-brittney-wood-disappearance-1622866"
+   },
+   {
+    "title": "ABC 33/40 (AP) - Alabama teen's disappearance helps unravel large-scale, incestuous sex ring",
+    "url": "https://abc3340.com/archive/alabama-teens-disappearance-helps-unravel-large-scale-incestuous-sex-ring"
+   }
+  ],
   "narrative": [
-   "On May 30, 2012, nineteen-year-old Brittney Wood disappeared in Mobile, Alabama, after leaving her mother's home to meet her uncle, Donnie Holland. Holland was found dead the same day from an apparent self-inflicted gunshot wound.",
-   "The investigation into Brittney's disappearance uncovered a massive child sexual abuse ring within her own extended family. Multiple family members were charged with sexual abuse of children within the family, including abuse of Brittney from a young age.",
-   "Investigators believe that Brittney may have been killed because she was prepared to testify against family members in the abuse cases. Donnie Holland is the primary suspect in her disappearance, but his death prevented any confession or prosecution.",
-   "Despite extensive searches, including draining ponds and searching wooded areas, Brittney Wood has never been found. More than a dozen of her family members have been convicted of sexual abuse charges."
+   "Brittney Nicole Wood was 19 and a young mother living in west Mobile, Alabama, in 2012. According to the Associated Press, she was last seen on the night of May 30, 2012, when she left west Mobile with her uncle, Donald Paul 'Donnie' Holland, heading across Mobile Bay into Baldwin County. Newsweek reports that cell phone records placed her last known location at Holland's property near the Styx River. The National Center for Missing and Exploited Children lists her as missing since May 31, 2012, with foul play suspected.",
+   "On June 1, 2012, Holland was found in his SUV on an isolated dirt road with a gunshot wound to the back of his head, the AP reported. His death was ruled a suicide, although authorities told the AP the location of the wound was unusual for a self-inflicted injury. He had been scheduled to be questioned about child sexual abuse allegations. Mobile police have said they believe Holland was involved in Brittney's disappearance, according to Fox 10; he died without being charged.",
+   "The investigation into her disappearance exposed extensive sexual abuse of children within her extended family. The AP reported that eight adult relatives and three family friends were charged with dozens of felonies in Mobile and Baldwin counties. Two uncles, Dustin Kent and Scott Wood, were arrested within weeks and later pleaded guilty to rape and sodomy, and a family friend was convicted in October 2014. Newsweek reports that Holland's widow, Wendy Holland, was sentenced to 219 years. Prosecutors told the AP that Brittney could have been an important witness. None of these cases produced information about where she is.",
+   "Searches have continued. Fox 10 reports that a property in Grand Bay was searched in 2020 without result, and a billboard seeking tips was put up in Mobile in 2022, a decade after she vanished.",
+   "As of 2025 coverage, Brittney Wood had not been found, no one had been charged in connection with her disappearance, and the Mobile Police Department was still asking for information."
   ],
   "timeline": [
    {
     "date": "2012-05-30",
-    "event": "Brittney Wood disappears; uncle Donnie Holland found dead."
+    "event": "Brittney Wood is last seen leaving west Mobile with her uncle Donnie Holland."
    },
    {
     "date": "2012-06-01",
-    "event": "Investigation uncovers family sexual abuse ring."
+    "event": "Holland is found in his SUV on a dirt road with a gunshot wound to the head; his death is ruled a suicide."
+   },
+   {
+    "date": "2012-06",
+    "event": "Two uncles, Dustin Kent and Scott Wood, are arrested on sexual abuse charges; both later plead guilty."
+   },
+   {
+    "date": "2014-10",
+    "event": "A family friend is convicted in the related abuse case; in total 11 relatives and friends are charged."
+   },
+   {
+    "date": "2020",
+    "event": "Investigators search a property in Grand Bay; nothing is found."
+   },
+   {
+    "date": "2022",
+    "event": "A billboard seeking information is placed in Mobile on the 10th anniversary."
+   },
+   {
+    "date": "2024-05-30",
+    "event": "On the 12th anniversary, local media report no new clues; the case remains unsolved."
    }
   ],
   "enriched": true
@@ -54841,43 +55107,84 @@
   "id": "girly-chew-hossencofft-1999",
   "name": "Girly Chew Hossencofft",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 1999,
   "date": "September 9, 1999",
   "state": "New Mexico",
   "city": "Albuquerque",
   "age": 36,
   "gender": "Female",
-  "summary": "Girly Chew Hossencofft disappeared from Albuquerque in 1999 during a divorce from her husband Diazien, who claimed to be a government scientist with alien DNA. He pleaded guilty to her murder in 2002; her body has never been found.",
-  "lastSeen": "September 9, 1999, her apartment in Albuquerque, New Mexico",
+  "summary": "Girly Chew Hossencofft, a 36-year-old Malaysian-born bank teller, vanished in Albuquerque on September 9, 1999, while divorcing her husband Diazien Hossencofft. He pleaded guilty to her murder in January 2002, and his girlfriend Linda Henning was convicted of felony murder, kidnapping and related charges in October 2002. Her body has never been found.",
+  "lastSeen": "September 9, 1999, Albuquerque, New Mexico",
   "tags": [
    "1990s",
    "bizarre"
   ],
   "sources": [
    {
-    "title": "Murder of Girly Chew Hossencofft - Wikipedia",
+    "title": "Oxygen - The Disappearance of Girly Chew Hossencofft",
+    "url": "https://www.oxygen.com/crime-time/the-disappearance-of-girly-chew-hossencofft-a-con-man-a-fashion-designer-ufos-and-a-ninja"
+   },
+   {
+    "title": "September Sacrifice (AP) - Court upholds woman's conviction for murder of Girly Chew Hossencofft",
+    "url": "https://www.septembersacrifice.com/court-upholds-womans-conviction-for-murder-of-girly-chew-hossencofft/"
+   },
+   {
+    "title": "Murderpedia - Linda Henning",
+    "url": "https://murderpedia.org/female.H/h/henning-linda.htm"
+   },
+   {
+    "title": "Notorious USA - Hunting the killer story: Girly Chew",
+    "url": "https://www.notorioususa.com/crimefiles/girlychew"
+   },
+   {
+    "title": "Wikipedia - Murder of Girly Chew Hossencofft",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Girly_Chew_Hossencofft"
    }
   ],
   "narrative": [
-   "On September 9, 1999, thirty-six-year-old Girly Chew Hossencofft, a Malaysian-born woman, disappeared from her apartment in Albuquerque, New Mexico. She was in the process of divorcing her husband, Diazien Hossencofft, who claimed to be a government scientist with extraterrestrial DNA.",
-   "Blood evidence was found in Girly's apartment, but her body was never recovered. The investigation revealed that Diazien had enlisted his girlfriend, Linda Henning, to help murder Girly. Diazien had been telling followers he was a genius scientist conducting alien research.",
-   "Diazien Hossencofft pleaded guilty to the murder in January 2002, avoiding the death penalty, and was sentenced to life in prison plus 61 years. Linda Henning was convicted of first-degree murder, kidnapping and related charges in October 2002 and sentenced to 73 years.",
-   "The case was notable for its bizarre cast of characters, including followers who believed Diazien's claims about alien DNA and government conspiracies."
+   "Girly Chew was born in Penang, Malaysia, in August 1963, according to Wikipedia. Oxygen reports that she met Diazien Hossencofft while visiting the United States, married him in the early 1990s, and later worked as a teller at a Bank of America branch in Albuquerque. Oxygen describes the marriage as abusive and reports that Hossencofft, whose real name was Armand Chavez, had presented himself variously as a doctor, a former CIA operative and an alien.",
+   "Girly filed for divorce in early 1999 and reported threats from her husband afterward, according to Oxygen, which also reports that she told the FBI to look at him if anything happened to her. On September 9, 1999, she disappeared after leaving work; her supervisor reported her missing the next day when she did not come in. Investigators found traces of blood and bleach-stained carpet in her apartment, and a tarp bearing her blood, clothing and hair was later found well south of Albuquerque, according to Oxygen and Murderpedia's compilation of Associated Press and Court TV coverage. Her body has never been recovered.",
+   "Diazien Hossencofft pleaded guilty to her murder in January 2002. Wikipedia and Murderpedia report that he was sentenced to life in prison plus 61 years and has been held in Wyoming. According to Notorious USA, he later sought to have his sentence vacated, arguing that his plea was improperly obtained.",
+   "His girlfriend, Linda Henning, was tried separately. On October 25, 2002, a jury found her guilty of first-degree felony murder, kidnapping, conspiracy to commit kidnapping, tampering with evidence and perjury, according to Oxygen and Murderpedia. Murderpedia reports that Hossencofft testified at her trial and claimed he had planted evidence against her. She was sentenced in April 2003; the Associated Press reported the sentence as life plus 43 and a half years, while Oxygen and Wikipedia describe it as about 73 years.",
+   "On April 25, 2006, the New Mexico Supreme Court unanimously reversed Henning's four perjury convictions, finding she had not been given adequate notice of those charges, but upheld her convictions for felony murder, kidnapping, conspiracy to kidnap and tampering with evidence, according to an Associated Press report reproduced by September Sacrifice and Murderpedia."
   ],
   "timeline": [
    {
-    "date": "1999-09-09",
-    "event": "Girly Chew Hossencofft disappears from Albuquerque."
+    "date": "1963-08-27",
+    "event": "Girly Chew is born in Penang, Malaysia, according to Wikipedia."
    },
    {
-    "date": "2002-09-01",
-    "event": "Diazien Hossencofft convicted; sentenced to life."
+    "date": "1999",
+    "event": "She files for divorce from Diazien Hossencofft."
+   },
+   {
+    "date": "1999-09-09",
+    "event": "She disappears in Albuquerque after leaving work."
+   },
+   {
+    "date": "1999-09-10",
+    "event": "Her supervisor reports her missing when she does not arrive at the bank."
+   },
+   {
+    "date": "2002-01",
+    "event": "Diazien Hossencofft pleads guilty to her murder and is sentenced to life in prison plus additional years."
    },
    {
     "date": "2002-10-25",
-    "event": "Linda Henning convicted of first-degree murder; later sentenced to 73 years."
+    "event": "A jury convicts Linda Henning of felony murder, kidnapping, conspiracy, tampering with evidence and perjury."
+   },
+   {
+    "date": "2003-04-18",
+    "event": "Henning is sentenced."
+   },
+   {
+    "date": "2006-04-25",
+    "event": "The New Mexico Supreme Court reverses Henning's perjury convictions and affirms her other convictions."
+   },
+   {
+    "date": "2020-01",
+    "event": "Hossencofft's lawyers seek to have his sentence vacated, according to Notorious USA."
    }
   ],
   "enriched": true
@@ -56976,100 +57283,163 @@
   "id": "maleah-davis-2019",
   "name": "Maleah Davis",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2019,
   "date": "April 30, 2019",
   "state": "Texas",
   "city": "Houston",
   "age": 4,
   "gender": "Female",
-  "summary": "Four-year-old Maleah Davis was reported missing in Houston in May 2019 by her mother's ex-fiance Derion Vence, who claimed she was abducted during a carjacking. Her remains were found in Arkansas on May 31, 2019, and her death was ruled a homicide. Vence pleaded guilty in 2021 to injury to a child and tampering with a corpse and was sentenced to 40 years; he was not convicted of murder.",
-  "lastSeen": "April 30, 2019, Houston, Texas",
+  "summary": "Four-year-old Maleah Davis was reported missing in Houston on May 4, 2019, by her mother's former fiance, Derion Vence, who said she was taken by men who attacked him on a roadside. Her remains were found in Hempstead County, Arkansas, on May 31, and her death was ruled homicidal violence. In 2021 Vence pleaded guilty to injury to a child and tampering with a corpse and received 40 years; he was not charged with murder.",
+  "lastSeen": "April 30, 2019, Houston, Texas (last seen on surveillance video)",
   "tags": [
    "child",
    "2010s"
   ],
   "sources": [
    {
-    "title": "FOX 26 Houston - Maleah Davis case: Derion Vence pleads guilty, sentenced to 40 years",
+    "title": "FOX 26 Houston - Derion Vence pleads guilty, sentenced to 40 years in Maleah Davis case",
     "url": "https://www.fox26houston.com/news/derion-vence-pleads-guilty-sentenced-to-40-years-in-maleah-davis-case"
    },
    {
-    "title": "KPRC Click2Houston - Derion Vence pleads guilty, sentenced to 40 years",
+    "title": "KPRC 2 Click2Houston - Derion Vence pleads guilty, sentenced to 40 years in prison",
     "url": "https://www.click2houston.com/news/local/2021/05/27/maleah-davis-update-derion-vence-pleads-guilty-sentenced-to-40-years-in-prison-officials-say/"
+   },
+   {
+    "title": "NBC News - Remains found in Arkansas amid search for missing Texas girl Maleah Davis",
+    "url": "https://www.nbcnews.com/news/us-news/authorities-searching-missing-4-year-old-maleah-davis-arkansas-n1012621"
+   },
+   {
+    "title": "ABC13 Houston - Video shows Derion Vence without girl, 2 days after she was last seen",
+    "url": "https://abc13.com/derion-vence-maleah-davis-body-found-quanell-x-update-on/5332708/"
+   },
+   {
+    "title": "ABC11 - Derion Vence denies killing Maleah Davis in jailhouse interview",
+    "url": "https://abc11.com/maleah-davis-body-found-quanell-x-update-on-derion-vence/5330947/"
    }
   ],
   "narrative": [
-   "On May 4, 2019, Derion Vence reported that four-year-old Maleah Davis, his girlfriend's daughter, had been kidnapped during a carjacking on a Houston highway. His account was immediately suspicious to investigators.",
-   "Surveillance footage contradicted Vence's timeline. Community activist Quanell X, who initially supported Vence, later reported that Vence had confessed that Maleah was dead and had indicated where her body could be found.",
-   "On May 31, Maleah's remains were found in a garbage bag alongside a highway in Hope, Arkansas—along a route Vence had traveled. She had suffered blunt force trauma to the head.",
-   "Vence pleaded guilty on May 27, 2021 to injury to a child and tampering with a corpse and was sentenced to 40 years in prison. The case highlighted failures in the child protective services system, as Maleah had previously been removed from and returned to the home."
+   "Maleah Davis, 4, was reported missing in Houston on May 4, 2019, and an Amber Alert was issued the next day, according to FOX 26 Houston. She had been in the care of Derion Vence, who had been engaged to her mother, Brittany Bowens, while Bowens was out of state, KPRC 2 (Click2Houston) reported.",
+   "Vence told police that on May 4, near Greens Road and Highway 59, three men in a pickup truck attacked him while Maleah and his young son were in his car, that he lost consciousness, and that when he came to he had his son but not Maleah, FOX 26 reported. According to KPRC 2, surveillance video did not support this account: it showed Vence leaving his apartment with only his son and carrying a full garbage bag in a laundry basket. ABC13 reported that Maleah was last seen on surveillance video on April 30, and that video from May 2 showed Vence leaving the apartment with the boys but without her. ABC13 also reported that Child Protective Services had removed Maleah from the home the year before she disappeared.",
+   "Vence was arrested on May 11, 2019, and charged with tampering with evidence, namely a human corpse, NBC News reported. Community activist Quanell X later told reporters that Vence had told him where the body had been left, near Hope, Arkansas, according to NBC News and ABC11. Vence, in a jailhouse interview reported by ABC11, denied killing her.",
+   "On May 31, 2019, a black trash bag containing a child's remains was found along a road in Hempstead County, Arkansas, according to NBC News, which cited Hempstead County Sheriff James Singleton. ABC13 reported that the remains were confirmed as Maleah's on June 3, and FOX 26 reported that the Harris County Institute of Forensic Sciences ruled that she died of homicidal violence.",
+   "On May 27, 2021, Vence pleaded guilty to intentional injury to a child and tampering with a corpse, according to FOX 26 and KPRC 2. He was sentenced to 40 years in prison on the injury count and 20 years on the tampering count, to be served at the same time. He was not charged with or convicted of murder."
   ],
   "timeline": [
    {
     "date": "2019-04-30",
-    "event": "Maleah Davis last seen alive (approximate)."
+    "event": "Maleah Davis is last seen on surveillance video."
+   },
+   {
+    "date": "2019-05-02",
+    "event": "Surveillance video shows Derion Vence leaving the apartment with two boys but not Maleah, according to ABC13."
    },
    {
     "date": "2019-05-04",
-    "event": "Vence reports fake kidnapping."
+    "event": "Vence reports Maleah missing, saying she was taken after he was attacked on a roadside."
+   },
+   {
+    "date": "2019-05-05",
+    "event": "An Amber Alert is issued."
+   },
+   {
+    "date": "2019-05-11",
+    "event": "Vence is arrested and charged with tampering with evidence, namely a human corpse."
    },
    {
     "date": "2019-05-31",
-    "event": "Maleah's remains found in Arkansas."
+    "event": "A child's remains are found in a trash bag along a road in Hempstead County, Arkansas."
+   },
+   {
+    "date": "2019-06-03",
+    "event": "Forensic officials confirm the remains are Maleah's."
    },
    {
     "date": "2021-05-27",
-    "event": "Vence pleads guilty to injury to a child and tampering with a corpse; sentenced to 40 years."
+    "event": "Vence pleads guilty to injury to a child and tampering with a corpse and is sentenced to 40 years in prison."
    }
   ],
   "enriched": true
  },
  {
   "id": "tyler-hadley-2011",
-  "name": "Tyler Hadley Victims",
+  "name": "Blake and Mary Jo Hadley",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2011,
   "date": "July 16, 2011",
   "state": "Florida",
   "city": "Port St. Lucie",
   "age": null,
   "gender": "Multiple",
-  "summary": "Seventeen-year-old Tyler Hadley bludgeoned his parents to death with a hammer, hid their bodies in a bedroom, and then hosted a house party. He was sentenced to life.",
-  "lastSeen": "July 16, 2011, Port St. Lucie, Florida",
+  "summary": "Blake Hadley, 54, and Mary Jo Hadley, 47, were beaten to death with a hammer in their Port St. Lucie, Florida, home on July 16, 2011. Their 17-year-old son, Tyler Hadley, held a party at the house that night and was arrested the next morning. He pleaded no contest to two counts of first-degree murder in 2014 and was resentenced to life in prison in December 2018.",
+  "lastSeen": "July 16, 2011, the family home in Port St. Lucie, Florida",
   "tags": [
    "2010s",
    "parricide"
   ],
   "sources": [
    {
-    "title": "Tyler Hadley case - Wikipedia",
+    "title": "Fox News - Florida teen allegedly kills parents with hammer, then hosts party",
+    "url": "https://www.foxnews.com/us/florida-teen-allegedly-kills-parents-with-hammer-then-hosts-party"
+   },
+   {
+    "title": "CBS Miami - Man who threw party after killing parents changes plea to no contest",
+    "url": "https://www.cbsnews.com/miami/news/man-who-threw-party-after-killing-parents-changes-plea-to-no-contest/"
+   },
+   {
+    "title": "CBS12 - Sentence for Tyler Hadley overturned in hammer killings of parents",
+    "url": "https://cbs12.com/news/local/sentence-for-tyler-hadley-overturned-in-hammer-killings-of-parents"
+   },
+   {
+    "title": "CW34 - Man who threw house party after killing parents re-sentenced",
+    "url": "https://cw34.com/news/local/sentencing-day-for-man-who-threw-house-party-after-killing-parents"
+   },
+   {
+    "title": "CBS12 - Judge upholds Hadley's life prison sentence",
+    "url": "https://cbs12.com/news/local/judge-upholds-hadleys-life-prison-sentence"
+   },
+   {
+    "title": "Wikipedia - Murders of Blake and Mary-Jo Hadley",
+    "url": "https://en.wikipedia.org/wiki/Murders_of_Blake_and_Mary-Jo_Hadley"
+   },
+   {
+    "title": "Wikipedia - Tyler Hadley",
     "url": "https://en.wikipedia.org/wiki/Tyler_Hadley"
    }
   ],
   "narrative": [
-   "On July 16, 2011, seventeen-year-old Tyler Hadley bludgeoned both of his parents, Blake and Mary Jo Hadley, to death with a claw hammer in their Port St. Lucie, Florida home. He then spent three hours cleaning up the scene and barricading the master bedroom where he placed their bodies.",
-   "That same evening, Tyler hosted a large house party at the home with dozens of teenage guests. He posted about the party on social media and appeared to be in a normal mood, drinking and socializing while his parents' bodies lay in the next room.",
-   "A friend whom Tyler had confessed to during the party called police the following morning. Officers found the parents' bodies under towels and debris in the master bedroom.",
-   "Tyler Hadley pleaded no contest to two counts of first-degree murder and in 2014 was sentenced to two life sentences without parole. After an appeal based on Miller v. Alabama he was resentenced in December 2018 to life with a review after 25 years."
+   "Blake Hadley, 54, who worked for a local electric utility, and Mary Jo Hadley, 47, an elementary school teacher, were killed in their home in Port St. Lucie, Florida, on July 16, 2011, according to Fox News. Their son Tyler Hadley, then 17, struck them repeatedly with a hammer; later reports cited more than 70 blows.",
+   "That evening Tyler Hadley hosted a party at the house; according to Wikipedia, about 60 people attended, and a friend who went into the master bedroom during the party saw the bodies. According to Fox News, police answered a noise complaint at about 1:30 a.m., then returned at around 4:24 a.m. after receiving a tip about a possible killing. Officers found the couple's bodies in the locked master bedroom, covered with household items, and arrested Tyler Hadley at the house. A police spokesperson said he had given no explanation for the killings. He was initially charged with second-degree murder and prosecuted as an adult.",
+   "On February 19, 2014, shortly before he was to stand trial, Hadley changed his plea to no contest on two counts of first-degree murder, CBS Miami reported. Later in 2014 he was sentenced to two consecutive life terms without parole.",
+   "In April 2016, Florida's Fourth District Court of Appeal overturned the life-without-parole sentences, finding that the trial judge had not considered the correct alternative to a life sentence, in light of the 2012 U.S. Supreme Court ruling that barred mandatory life terms for juveniles convicted of murder, CBS12 reported. At the time Hadley was held at Okeechobee Correctional Institution.",
+   "At a resentencing in St. Lucie County, the defense asked for the minimum 40-year term. On December 20, 2018, the judge again imposed life sentences, as prosecutors had requested, according to CW34 and CBS12. Wikipedia describes the new sentence as life imprisonment with a review after 25 years, as provided for juvenile offenders under Florida law; CBS12 described the life terms as upheld.",
+   "After the 2018 hearing, CBS12 reported, Hadley was returned to state prison in Okeechobee, and his lawyers had 30 days to file an appeal. A relative of the couple told the station that the family had suffered lasting grief, that Mary Jo Hadley's father had since died, and that not a day passed without them thinking of Blake and Mary Jo."
   ],
   "timeline": [
    {
     "date": "2011-07-16",
-    "event": "Tyler Hadley murders his parents and hosts a party."
+    "event": "Blake and Mary Jo Hadley are killed at their home; their son hosts a party there that night."
    },
    {
     "date": "2011-07-17",
-    "event": "Friend calls police; bodies discovered."
+    "event": "Police find the bodies in the master bedroom and arrest Tyler Hadley, 17."
    },
    {
-    "date": "2014-03-13",
-    "event": "Hadley sentenced to two consecutive life terms."
+    "date": "2014",
+    "event": "Hadley is sentenced to two consecutive life terms without parole."
+   },
+   {
+    "date": "2014-02-19",
+    "event": "Hadley pleads no contest to two counts of first-degree murder."
+   },
+   {
+    "date": "2016-04",
+    "event": "Florida's Fourth District Court of Appeal overturns the sentences and orders resentencing."
    },
    {
     "date": "2018-12-20",
-    "event": "Hadley resentenced to life in prison with a sentence review after 25 years."
+    "event": "At resentencing, a St. Lucie County judge again imposes life sentences."
    }
   ],
   "enriched": true
@@ -57669,40 +58039,82 @@
   "status": "Unsolved",
   "year": 2022,
   "date": "October 29, 2022",
-  "state": "North Carolina",
-  "city": "Charlotte",
+  "state": "Mexico",
+  "city": "San José del Cabo",
   "age": 25,
   "gender": "Female",
-  "summary": "Twenty-five-year-old Shanquella Robinson died on a group trip to Cabo San Lucas, Mexico. Video showed her being beaten by a friend. Her death was ruled homicide but no extradition has occurred.",
-  "lastSeen": "October 29, 2022, a vacation rental in San José del Cabo, Mexico",
+  "summary": "Shanquella Robinson, 25, of Charlotte, North Carolina, died on October 29, 2022, at a rental villa in San José del Cabo, Mexico, during a trip with six companions. A video showed her being struck by a travel companion. Mexican authorities called the death violent and sought an arrest warrant, but U.S. prosecutors declined to file charges in 2023. No one has been criminally charged; a civil suit continues.",
+  "lastSeen": "October 29, 2022, a rental villa in San José del Cabo, Baja California Sur, Mexico",
   "tags": [
+   "North Carolina",
    "international",
    "2020s"
   ],
   "sources": [
+   {
+    "title": "WBTV - Judge denies motion to dismiss Shanquella Robinson wrongful death lawsuit",
+    "url": "https://www.wbtv.com/2026/06/05/judge-denies-motion-dismiss-shanquella-robinson-wrongful-death-lawsuit-court-docs-say/"
+   },
+   {
+    "title": "WBTV - Appeal filed in Shanquella Robinson wrongful death lawsuit",
+    "url": "https://www.wbtv.com/2026/07/18/appeal-filed-shanquella-robinson-wrongful-death-lawsuit/"
+   },
+   {
+    "title": "TravelNoire - Shanquella Robinson case update: U.S. prosecutors will not bring charges",
+    "url": "https://travelnoire.com/shanquella-robinson-case-update"
+   },
    {
     "title": "Wikipedia - Killing of Shanquella Robinson",
     "url": "https://en.wikipedia.org/wiki/Killing_of_Shanquella_Robinson"
    }
   ],
   "narrative": [
-   "On October 29, 2022, twenty-five-year-old Shanquella Robinson of Charlotte, North Carolina died while on a vacation trip with friends in San José del Cabo, Mexico. Her companions initially told her mother she had died of alcohol poisoning.",
-   "Video emerged showing Shanquella being brutally beaten by one of her friends in the vacation rental. The Mexican autopsy determined her cause of death was severe spinal cord injury and atlas luxation—consistent with a violent beating.",
-   "Mexican authorities issued an arrest warrant for one of Shanquella's travel companions, but as of 2024, no extradition has been carried out by the United States.",
-   "The case highlighted jurisdictional complications in international homicide cases and raised questions about accountability when Americans are killed abroad by other Americans."
+   "Shanquella Robinson, a 25-year-old from Charlotte, North Carolina, travelled to the Los Cabos area of Mexico in late October 2022 with six acquaintances. She died on October 29, 2022, at a rental villa in San José del Cabo, according to Wikipedia and WBTV.",
+   "Her family was initially told that she had died of alcohol poisoning. A Mexican death certificate, however, listed a severe spinal cord injury and atlas luxation as the cause of death, TravelNoire reported. A video that circulated online in November 2022 showed Robinson being struck repeatedly by a female member of the group in the villa.",
+   "An autopsy performed in Charlotte on November 17, 2022, listed the cause of death as undetermined but found a forehead hematoma consistent with blunt force trauma, along with brain injury, according to WBTV. In late November 2022, Baja California Sur prosecutors said the death was not accidental and that an arrest warrant had been issued for one of her travel companions, described as the direct aggressor, according to Wikipedia. The FBI's Charlotte field office opened its own investigation.",
+   "On April 13, 2023, federal prosecutors told the family that the available evidence did not support a federal prosecution, TravelNoire reported. The United States has not extradited anyone to Mexico, and as of 2026 no one has been criminally charged in either country in connection with her death, WBTV reported.",
+   "In October 2024 her mother, Salamondra Robinson, filed a wrongful death lawsuit against members of the travel group, and later also against federal agencies. According to WBTV, the claims against the FBI and State Department were dismissed in February 2026 and the case continued in Mecklenburg County Superior Court. On June 1, 2026, a judge denied one defendant's motion to dismiss, and that defendant appealed to the North Carolina Court of Appeals on June 30, 2026. The allegations in the lawsuit have not been proven in court."
   ],
   "timeline": [
    {
+    "date": "2022-10-28",
+    "event": "Robinson and six companions arrive in the Los Cabos area of Mexico."
+   },
+   {
     "date": "2022-10-29",
-    "event": "Shanquella Robinson dies in Cabo San Lucas."
+    "event": "Shanquella Robinson dies at a rental villa in San José del Cabo."
    },
    {
-    "date": "2022-11-16",
-    "event": "Beating video surfaces; Mexican authorities investigate."
+    "date": "2022-11-17",
+    "event": "A Charlotte autopsy lists the cause of death as undetermined, noting blunt-force injury to the forehead."
    },
    {
-    "date": "2023-04-12",
-    "event": "U.S. federal prosecutors announce they will not file charges, citing insufficient evidence; a Mexican arrest warrant remains outstanding."
+    "date": "2022-11-18",
+    "event": "The FBI's Charlotte field office opens an investigation."
+   },
+   {
+    "date": "2022-11-23",
+    "event": "Mexican prosecutors say an arrest warrant has been issued for a travel companion."
+   },
+   {
+    "date": "2023-04-13",
+    "event": "U.S. federal prosecutors announce they will not bring charges."
+   },
+   {
+    "date": "2024-10",
+    "event": "Robinson's mother files a wrongful death lawsuit."
+   },
+   {
+    "date": "2026-02",
+    "event": "Claims against the FBI and State Department are dismissed; the suit continues against individuals in state court."
+   },
+   {
+    "date": "2026-06-01",
+    "event": "A Mecklenburg County judge denies a defendant's motion to dismiss."
+   },
+   {
+    "date": "2026-06-30",
+    "event": "That defendant appeals to the North Carolina Court of Appeals."
    }
   ],
   "enriched": true
@@ -58993,44 +59405,81 @@
   "id": "peter-sutcliffe-yorkshire-2020",
   "name": "Yorkshire Ripper (death)",
   "type": "Serial Killer Victims",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2020,
   "date": "November 13, 2020",
   "state": "United Kingdom",
   "city": "Durham",
   "country": "United Kingdom",
-  "age": 74,
-  "gender": "Male",
-  "summary": "Peter Sutcliffe, the Yorkshire Ripper who murdered 13 women in northern England, died of COVID-19 in prison in November 2020 after refusing treatment. He had served 39 years.",
-  "lastSeen": "November 13, 2020, HMP Frankland, Durham, England",
+  "age": null,
+  "gender": "Female",
+  "summary": "Peter Sutcliffe, convicted in May 1981 of murdering 13 women and attempting to murder seven more in Yorkshire and north-west England between 1975 and 1980, died on November 13, 2020 at University Hospital of North Durham after contracting Covid-19. He had been serving a whole life order.",
+  "lastSeen": "November 13, 2020, University Hospital of North Durham, Durham, England",
   "tags": [
    "serial killer",
    "2020s"
   ],
   "sources": [
    {
-    "title": "Peter Sutcliffe death - Wikipedia",
+    "title": "The National Archives (Find Case Law) - R v Coonan (formerly Sutcliffe) [2010] EWHC 1741 (QB)",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewhc/qb/2010/1741"
+   },
+   {
+    "title": "CBS News - 'Yorkshire Ripper' serial killer Peter Sutcliffe dies after COVID-19 diagnosis",
+    "url": "https://www.cbsnews.com/news/peter-sutcliffe-yorkshire-ripper-dead-at-74/"
+   },
+   {
+    "title": "Radio News Hub - Yorkshire Ripper Peter Sutcliffe dies in hospital aged 74",
+    "url": "https://www.radionewshub.com/articles/news-updates/Yorkshire-Ripper-Peter-Sutcliffe-dies-in-hospital-aged-74"
+   },
+   {
+    "title": "Police Professional - 'Wearside Jack' dies aged 63",
+    "url": "https://policeprofessional.com/news/wearside-jack-dies-aged-63/"
+   },
+   {
+    "title": "Wikipedia - Peter Sutcliffe",
     "url": "https://en.wikipedia.org/wiki/Peter_Sutcliffe"
    }
   ],
   "narrative": [
-   "Peter Sutcliffe, known as the Yorkshire Ripper, murdered 13 women and attempted to murder seven others across northern England between 1975 and 1980. His victims included sex workers and women walking alone at night.",
-   "Sutcliffe was caught in January 1981 when police found him with a sex worker in Sheffield. He was convicted of 13 murders and sentenced to 20 concurrent life sentences. He was given a whole-life tariff in 2010.",
-   "The investigation was one of the largest and most criticized in British police history. Mistakes included ignoring a key tip and being misled by hoax letters and tape recordings from 'Wearside Jack.'",
-   "Sutcliffe died on November 13, 2020 at HMP Frankland, Durham, from COVID-19. He had tested positive and refused treatment. His death came 39 years into his imprisonment."
+   "Peter Sutcliffe, who became known as the Yorkshire Ripper, attacked women across West Yorkshire and north-west England in the second half of the 1970s. According to CBS News, he killed 13 women and tried to kill seven others between 1975 and 1980. The first murder for which he was convicted was that of Wilma McCann in October 1975, according to Radio News Hub's report of his death.",
+   "Police arrested Sutcliffe in Sheffield on January 2, 1981, after officers found him in a car with a woman, CBS News reported. He confessed to police but at trial at the Central Criminal Court in London he denied murder. On May 22, 1981 he was convicted of 13 murders and seven attempted murders and received 20 concurrent life sentences, with a recommendation that he serve at least 30 years.",
+   "The investigation drew heavy criticism. CBS News described a manhunt of around 2.5 million police hours in which evidence pointing to Sutcliffe was missed. Detectives were also misled by letters and an audio tape sent in 1978 and 1979 by a hoaxer claiming to be the killer, which steered the inquiry toward north-east England, according to Police Professional. The hoaxer, John Humble, was traced by DNA decades later and jailed for eight years in 2006 for perverting the course of justice.",
+   "Sutcliffe spent many years at Broadmoor secure hospital before being returned to prison in 2016, when he was sent to HMP Frankland in County Durham. On July 16, 2010, Mr Justice Mitting in the High Court ruled that he should never be released, imposing a whole life order; the published judgment records the conviction date and the court's view that the seriousness of the offences was exceptionally high. The Court of Appeal later rejected his challenge to that order.",
+   "In autumn 2020 Sutcliffe contracted Covid-19 and was moved from Frankland to University Hospital of North Durham, where he died on November 13, 2020, aged 74, according to Radio News Hub and CBS News. Press reports at the time said he had declined treatment and had underlying conditions including heart trouble and diabetes. In a statement quoted by Radio News Hub, the Prison Service confirmed that the prisoner, who had changed his surname to Coonan, had died in hospital and that the Prisons and Probation Ombudsman had been informed."
   ],
   "timeline": [
    {
+    "date": "1975-10-30",
+    "event": "Wilma McCann is killed in Leeds, the first murder for which Sutcliffe was later convicted."
+   },
+   {
+    "date": "1978",
+    "event": "Hoax letters and, in 1979, an audio tape from a man claiming to be the killer divert the police inquiry toward north-east England."
+   },
+   {
     "date": "1981-01-02",
-    "event": "Peter Sutcliffe arrested."
+    "event": "Sutcliffe is arrested in Sheffield."
    },
    {
     "date": "1981-05-22",
-    "event": "Convicted of 13 murders."
+    "event": "He is convicted at the Central Criminal Court of 13 murders and seven attempted murders and given 20 concurrent life sentences."
+   },
+   {
+    "date": "2006",
+    "event": "Hoaxer John Humble is jailed for eight years for perverting the course of justice."
+   },
+   {
+    "date": "2010-07-16",
+    "event": "The High Court imposes a whole life order on Sutcliffe."
+   },
+   {
+    "date": "2016",
+    "event": "Sutcliffe is moved from Broadmoor Hospital to HMP Frankland."
    },
    {
     "date": "2020-11-13",
-    "event": "Sutcliffe dies of COVID-19 in prison."
+    "event": "Sutcliffe dies of Covid-19 at University Hospital of North Durham, aged 74."
    }
   ],
   "enriched": true
@@ -59636,20 +60085,28 @@
   "country": "United Kingdom",
   "age": null,
   "gender": "Multiple",
-  "summary": "Former Russian double agent Sergei Skripal and his daughter Yulia were poisoned with Novichok nerve agent in Salisbury, England, and both survived; Dawn Sturgess died in July 2018 after handling the discarded agent. UK prosecutors authorised charges against three alleged Russian GRU officers, who remain in Russia and have not been tried. A public inquiry reported in December 2025 that the attack was authorised by President Vladimir Putin; Russia denies involvement.",
-  "lastSeen": "March 4, 2018, bench near The Maltings, Salisbury, Wiltshire, England",
+  "summary": "Former Russian intelligence officer Sergei Skripal and his daughter Yulia were poisoned with the nerve agent Novichok in Salisbury, England, on March 4, 2018, and survived. Dawn Sturgess, 44, died that July after exposure to the discarded agent. UK prosecutors have authorised charges against three alleged GRU officers, who remain in Russia. A 2025 public inquiry found the attack was authorised by President Putin; Russia denies involvement.",
+  "lastSeen": "March 4, 2018, found on a bench outside The Maltings shopping centre, Salisbury, Wiltshire, England",
   "tags": [
    "assassination attempt",
    "2010s"
   ],
   "sources": [
    {
-    "title": "Poisoning of Sergei and Yulia Skripal - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal"
+    "title": "Counter Terrorism Policing - Charges authorised against third suspect in Salisbury investigation",
+    "url": "https://www.counterterrorism.police.uk/news/charges-authorised-against-third-suspect-in-salisbury-investigation/"
    },
    {
-    "title": "Skripal case - BBC",
-    "url": "https://www.bbc.com/news/uk-43315636"
+    "title": "Al Jazeera - Russia's Putin found 'morally responsible' for nerve agent death in UK",
+    "url": "https://www.aljazeera.com/news/2025/12/4/russias-putin-found-morally-responsible-for-nerve-agent-death-in-uk"
+   },
+   {
+    "title": "NBC News - Putin authorized 2018 Novichok poisoning of ex-Russian spy Sergei Skripal, UK inquiry finds",
+    "url": "https://www.nbcnews.com/world/united-kingdom/putin-novichok-poisoning-ex-russian-spy-sergei-skripal-uk-rcna247375"
+   },
+   {
+    "title": "Wikipedia - Poisoning of Sergei and Yulia Skripal",
+    "url": "https://en.wikipedia.org/wiki/Poisoning_of_Sergei_and_Yulia_Skripal"
    },
    {
     "title": "Wikipedia - Dawn Sturgess (2018 Amesbury poisonings / inquiry)",
@@ -59657,31 +60114,48 @@
    }
   ],
   "narrative": [
-   "On March 4, 2018, former Russian military intelligence officer Sergei Skripal, 66, and his daughter Yulia, 33, were found unconscious on a bench in Salisbury, England. They had been poisoned with Novichok, a military-grade nerve agent.",
-   "The nerve agent had been applied to the front door handle of Sergei's home. A police officer, Detective Sergeant Nick Bailey, was also contaminated and hospitalized. All three survived.",
-   "In June 2018, two unrelated individuals found a discarded perfume bottle containing Novichok. Dawn Sturgess died after spraying herself with it, thinking it was perfume. Her partner Charlie Rowley survived.",
-   "British authorities identified two GRU officers—'Alexander Petrov' and 'Ruslan Boshirov' (aliases)—through CCTV and travel records. Investigative journalists later identified them as Colonel Anatoliy Chepiga and Dr. Alexander Mishkin. Russia denied involvement."
+   "On the afternoon of March 4, 2018, Sergei Skripal, a former officer of Russian military intelligence who had been jailed in Russia for spying for Britain and released to the UK in a 2010 prisoner exchange, and his daughter Yulia were found unconscious on a bench outside The Maltings shopping centre in Salisbury, England, according to Wikipedia and Al Jazeera. On March 12 the British government identified the poison as Novichok, a military-grade nerve agent, and the Organisation for the Prohibition of Chemical Weapons later confirmed the finding.",
+   "Both survived. Detective Sergeant Nick Bailey of Wiltshire Police, who became ill after visiting Skripal's home, was discharged from hospital on March 22, Yulia Skripal on April 9, and Sergei Skripal on May 18, 2018, according to Wikipedia. The UK and allied countries expelled more than 150 Russian diplomats in a coordinated response.",
+   "On June 30, 2018, Charlie Rowley found a discarded perfume bottle containing Novichok and gave it to his partner, Dawn Sturgess, 44, of Amesbury. She died on July 8, 2018; Rowley survived after treatment. According to Counter Terrorism Policing, the charges brought in the case also cover Sturgess's death and Rowley's poisoning.",
+   "In September 2018 British authorities named two suspects travelling as Alexander Petrov and Ruslan Boshirov, alleged to be GRU officers, and charges were authorised against them. On September 21, 2021, Counter Terrorism Policing announced that charges had also been authorised against a third man, travelling as Sergey Fedotov and identified by police as Denis Sergeev. The charges include conspiracy to murder Sergei Skripal, attempted murder of Sergei and Yulia Skripal and Nick Bailey, and possession and use of a chemical weapon. Arrest warrants are in place for all three, who are believed to be in Russia; none has been tried, and all are presumed innocent.",
+   "A statutory public inquiry into Dawn Sturgess's death, chaired by former judge Lord Hughes, published its report on December 4, 2025. According to Al Jazeera and NBC News, it concluded that President Vladimir Putin authorised the operation against Skripal, that those responsible bear moral responsibility for Sturgess's death, and that deploying the nerve agent in a busy city was astonishingly reckless. The UK government responded by sanctioning the GRU in its entirety. The Kremlin continues to deny involvement."
   ],
   "timeline": [
    {
     "date": "2018-03-04",
-    "event": "Skripals poisoned with Novichok in Salisbury."
+    "event": "Sergei and Yulia Skripal are found unconscious on a bench in Salisbury."
+   },
+   {
+    "date": "2018-03-12",
+    "event": "The UK government identifies the agent as Novichok."
+   },
+   {
+    "date": "2018-04-09",
+    "event": "Yulia Skripal is discharged from hospital."
+   },
+   {
+    "date": "2018-05-18",
+    "event": "Sergei Skripal is discharged from hospital."
+   },
+   {
+    "date": "2018-06-30",
+    "event": "Dawn Sturgess and Charlie Rowley are exposed to Novichok from a discarded perfume bottle in Amesbury."
    },
    {
     "date": "2018-07-08",
-    "event": "Dawn Sturgess dies, eight days after being poisoned on June 30 by Novichok from a discarded perfume bottle."
+    "event": "Dawn Sturgess dies."
    },
    {
     "date": "2018-09-05",
-    "event": "Two GRU suspects identified by UK."
+    "event": "UK authorities name two suspects, Alexander Petrov and Ruslan Boshirov, as alleged GRU officers."
    },
    {
     "date": "2021-09-21",
-    "event": "UK prosecutors authorise charges against a third suspect, Denis Sergeev; all three suspects remain in Russia."
+    "event": "Charges are authorised against a third suspect, Sergey Fedotov (identified by police as Denis Sergeev)."
    },
    {
     "date": "2025-12-04",
-    "event": "The Dawn Sturgess Inquiry publishes its final report, concluding that the Salisbury attack was authorised by President Putin."
+    "event": "The Dawn Sturgess Inquiry reports that President Putin authorised the operation; the UK sanctions the GRU."
    }
   ],
   "enriched": true
@@ -59807,38 +60281,75 @@
   "id": "peter-joan-porco-2004",
   "name": "Peter & Joan Porco",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2004,
   "date": "November 15, 2004",
   "state": "New York",
   "city": "Delmar",
   "age": null,
   "gender": "Multiple",
-  "summary": "Chris Porco attacked his parents with an axe while they slept in Delmar, New York. His father died; his mother survived but lost an eye. Joan initially identified Chris by nodding, then denied it.",
-  "lastSeen": "November 15, 2004, their home in Delmar, New York",
+  "summary": "Peter Porco, 52, was killed and his wife Joan was gravely injured in an axe attack at their home in Delmar, New York, early on November 15, 2004. Their son Christopher Porco was convicted in 2006 of second-degree murder and attempted murder and sentenced to 50 years to life. He maintains his innocence, and a 2023 motion to vacate the conviction is pending.",
+  "lastSeen": "November 15, 2004, the family home in Delmar (Town of Bethlehem), New York",
   "tags": [
    "2000s"
   ],
   "sources": [
    {
-    "title": "Christopher Porco - Wikipedia",
+    "title": "Campus Times (University of Rochester) - Chris Porco: A tale of gruesome uncertainty",
+    "url": "https://www.campustimes.org/2011/11/17/chris-porco-a-tale-of-gruesome-uncertainty/"
+   },
+   {
+    "title": "CBS6 Albany - Christopher Porco's bid to overturn conviction in the hands of Schenectady prosecutor",
+    "url": "https://cbs6albany.com/news/local/christopher-porcos-bid-to-overturn-conviction-in-the-hands-of-schenectady-prosecutor-albany-kindlon-bethlehem-axe-murder"
+   },
+   {
+    "title": "Barket Epstein - Barket Epstein Files Motion to Vacate Conviction of Christopher Porco",
+    "url": "https://www.barketepstein.com/blog/2023/january/barket-epstein-files-motion-to-vacate-conviction/"
+   },
+   {
+    "title": "Wikipedia - Murder of Peter Porco",
     "url": "https://en.wikipedia.org/wiki/Christopher_Porco"
    }
   ],
   "narrative": [
-   "On November 15, 2004, Peter Porco was attacked with a fireman's axe while sleeping in his Delmar, New York home. His wife Joan was also struck but survived. In a bizarre detail, Peter apparently got up after the attack and went about his morning routine—making his lunch, getting the newspaper—before collapsing and dying.",
-   "When a paramedic asked Joan Porco if her son Christopher did this, she nodded yes. But after recovering, Joan denied Chris was responsible and became his staunchest defender.",
-   "Evidence showed Chris had driven from his college at the University of Rochester, used a stolen key, and attacked his parents over disputes about money and forged loans. Toll records placed his car on the route.",
-   "Chris Porco was convicted of second-degree murder and attempted murder in 2006 and sentenced to 50 years to life. Joan Porco testified in his defense."
+   "In the early hours of November 15, 2004, Peter Porco, 52, a law clerk for a New York appellate court, and his wife Joan, 54, a speech therapist, were attacked with an axe as they slept in their home in Delmar, a suburb of Albany in the Town of Bethlehem, according to the University of Rochester's Campus Times and Wikipedia. Peter Porco died of his injuries. Joan Porco survived but lost an eye and suffered severe head injuries.",
+   "According to Wikipedia, a Bethlehem police detective testified that while Joan Porco was being treated at the scene she nodded when asked whether her son Christopher, then a 21-year-old student at the University of Rochester, had attacked her, and shook her head when asked about her older son. After recovering, she said she had no memory of the attack, and she has consistently maintained that Christopher is innocent, as noted in a 2023 statement released by his current lawyers.",
+   "Christopher Porco was indicted in November 2005. Because of pretrial publicity the trial was moved to Goshen, Orange County, where it began in late June 2006, the Campus Times reported. Prosecutors relied on circumstantial evidence, including toll records and campus security video that they said tracked his Jeep between Rochester and Delmar that night, according to Wikipedia. On August 10, 2006 the jury convicted him of second-degree murder and attempted murder, and in December 2006 he was sentenced to 50 years to life.",
+   "His appeals were unsuccessful. In 2011 the New York Court of Appeals upheld the conviction, rejecting a challenge to the admission of his mother's nod and describing the evidence as overwhelming, according to the Campus Times. Wikipedia records that the U.S. Supreme Court declined to hear the case.",
+   "On January 12, 2023, the law firm Barket Epstein filed a motion under New York's CPL 440.10 to vacate the conviction, alleging ineffective assistance of trial counsel, suppression of evidence and other due-process violations, and requesting a hearing and DNA testing, according to the firm. CBS6 Albany reported in 2025 that the Schenectady County District Attorney's office had taken over the state's response because of a conflict of interest in the Albany County office, whose district attorney is the son of Porco's trial lawyer. No ruling on the motion had been reported in the sources reviewed. According to CBS6, Porco would be eligible for parole in 2052."
   ],
   "timeline": [
    {
     "date": "2004-11-15",
-    "event": "Peter Porco murdered; Joan severely injured."
+    "event": "Peter and Joan Porco are attacked with an axe in their Delmar home; Peter dies and Joan is critically injured."
+   },
+   {
+    "date": "2005-11",
+    "event": "Christopher Porco is indicted."
+   },
+   {
+    "date": "2006-06",
+    "event": "Trial begins in Goshen, Orange County, after a change of venue."
    },
    {
     "date": "2006-08-10",
-    "event": "Chris Porco convicted of second-degree murder and attempted murder; on December 12, 2006 he was sentenced to 50 years to life."
+    "event": "Jury convicts Christopher Porco of second-degree murder and attempted murder."
+   },
+   {
+    "date": "2006-12-12",
+    "event": "He is sentenced to 50 years to life."
+   },
+   {
+    "date": "2011",
+    "event": "New York Court of Appeals upholds the conviction."
+   },
+   {
+    "date": "2023-01-12",
+    "event": "Defense files a CPL 440.10 motion to vacate the conviction."
+   },
+   {
+    "date": "2025",
+    "event": "Schenectady County DA's office takes over the response to the motion because of an Albany County conflict of interest."
    }
   ],
   "enriched": true
@@ -61702,48 +62213,6 @@
   "enriched": true
  },
  {
-  "id": "nicola-bulley-2023",
-  "name": "Nicola Bulley",
-  "type": "Suspicious Death",
-  "status": "Solved",
-  "year": 2023,
-  "date": "January 27, 2023",
-  "state": "United Kingdom",
-  "city": "St Michael's on Wyre",
-  "country": "United Kingdom",
-  "age": 45,
-  "gender": "Female",
-  "summary": "Nicola Bulley vanished while walking her dog by the River Wyre in Lancashire, England. Her body was found in the river three weeks later. The case drew massive attention and amateur sleuthing.",
-  "lastSeen": "January 27, 2023, River Wyre, St Michael's on Wyre, Lancashire, England",
-  "tags": [
-   "accidental death",
-   "2020s"
-  ],
-  "sources": [
-   {
-    "title": "Disappearance of Nicola Bulley - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Disappearance_of_Nicola_Bulley"
-   }
-  ],
-  "narrative": [
-   "On January 27, 2023, Nicola Bulley, 45, a mortgage adviser and mother of two, vanished while walking her dog along the River Wyre in St Michael's on Wyre, Lancashire. Her phone was found on a bench, still connected to a work call.",
-   "The case generated enormous media coverage and attracted 'armchair detectives' who traveled to the area, filmed residents, and promoted conspiracy theories about her disappearance.",
-   "Lancashire Police controversially disclosed that Bulley had struggled with alcohol and the menopause, drawing criticism. The Information Commissioner took no enforcement action and the IOPC found no misconduct, but a November 2023 College of Policing review criticised the disclosure and the force's media handling.",
-   "Nicola's body was found in the River Wyre on February 19, about a mile from where she disappeared. The coroner ruled her death was accidental—she had fallen into the river. The case prompted debate about social media speculation and police transparency."
-  ],
-  "timeline": [
-   {
-    "date": "2023-01-27",
-    "event": "Nicola Bulley vanishes by River Wyre."
-   },
-   {
-    "date": "2023-02-19",
-    "event": "Her body found in the river; ruled accidental."
-   }
-  ],
-  "enriched": true
- },
- {
   "id": "soham-murders-2002",
   "name": "Holly Wells & Jessica Chapman",
   "type": "Homicide",
@@ -62861,7 +63330,7 @@
   "id": "brianna-ghey-2023",
   "name": "Brianna Ghey",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2023,
   "date": "February 11, 2023",
   "state": "United Kingdom",
@@ -62869,32 +63338,69 @@
   "country": "United Kingdom",
   "age": 16,
   "gender": "Female",
-  "summary": "Sixteen-year-old transgender girl Brianna Ghey was murdered in a park in Warrington by two 15-year-olds. The killers had planned the attack for weeks. Both received life sentences.",
-  "lastSeen": "February 11, 2023, Culcheth Linear Park, Warrington, Cheshire, England",
+  "summary": "Brianna Ghey, a 16-year-old transgender girl, was stabbed to death in Culcheth Linear Park near Warrington, England, on February 11, 2023. Two 15-year-olds, Scarlett Jenkinson and Eddie Ratcliffe, were convicted of murder in December 2023 and given life detention with minimum terms of 22 and 20 years. Ratcliffe's sentence appeal was refused in 2024.",
+  "lastSeen": "February 11, 2023, Culcheth Linear Park, Culcheth, near Warrington, Cheshire, England",
   "tags": [
    "child",
    "2020s"
   ],
   "sources": [
    {
-    "title": "Murder of Brianna Ghey - Wikipedia",
+    "title": "National Archives Find Case Law - Eddie Ratcliffe v R [2024] EWCA Crim 1498",
+    "url": "https://caselaw.nationalarchives.gov.uk/ewca/crim/2024/1498"
+   },
+   {
+    "title": "NBC News - Two 16-year-olds sentenced for 'sadistic' murder of transgender teen in England",
+    "url": "https://www.nbcnews.com/nbc-out/out-news/two-16-year-olds-sentenced-sadistic-murder-transgender-teen-england-rcna137076"
+   },
+   {
+    "title": "CBS News - 16-year-old killers of U.K. transgender teen Brianna Ghey sentenced",
+    "url": "https://www.cbsnews.com/news/brianna-ghey-transgender-teen-convicted-killers-named-in-court-uk/"
+   },
+   {
+    "title": "Wikipedia - Murder of Brianna Ghey",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Brianna_Ghey"
    }
   ],
   "narrative": [
-   "On February 11, 2023, Brianna Ghey, a 16-year-old transgender girl, was stabbed 28 times in Culcheth Linear Park in Warrington, Cheshire. She died at the scene.",
-   "Her killers, Scarlett Jenkinson and Eddie Ratcliffe, both 15, had planned the attack for weeks. Messages between them showed they had discussed methods of killing and had targeted Brianna.",
-   "Jenkinson, who had an obsession with torture and serial killers, lured Brianna to the park where Ratcliffe stabbed her. They tried to cover their tracks by wiping their phones.",
-   "Both were convicted of murder on December 20, 2023, and sentenced on February 2, 2024. Jenkinson received a minimum term of 22 years and Ratcliffe 20 years. Brianna's mother Esther campaigned for stricter controls on children's social media access."
+   "Brianna Ghey was a 16-year-old transgender girl from the Warrington area of Cheshire, England. According to the Court of Appeal's 2024 judgment, on the afternoon of February 11, 2023, she met two 15-year-old schoolmates, Scarlett Jenkinson and Eddie Ratcliffe, in the village of Culcheth, and the three walked together into Linear Park. There she was stabbed 28 times to the head, neck, chest and back with a hunting knife that Ratcliffe had bought weeks earlier, and she died of her injuries.",
+   "Both teenagers were arrested the following day and charged with murder, according to Wikipedia's summary of police statements. Their trial at Manchester Crown Court began in late November 2023; each blamed the other. On December 20, 2023, the jury convicted both of murder.",
+   "At sentencing on February 2, 2024, Mrs Justice Amanda Yip described the killing as brutal, planned and sadistic in nature, and found that hostility to Brianna because of her transgender identity was a secondary motivation, as reported by NBC News and CBS News. Prosecutors had relied on handwritten plans and phone messages showing weeks of premeditation. The judge lifted the reporting restrictions that had protected the defendants' identities during the trial, citing the strong public interest in the case.",
+   "Both were sentenced to detention at His Majesty's pleasure, the life sentence for murderers under 18, with a minimum term of 22 years for Jenkinson and 20 years for Ratcliffe. The judge treated Jenkinson as the leading figure in the plan. On December 5, 2024, the Court of Appeal, led by the Lady Chief Justice, refused Ratcliffe permission to appeal, finding his minimum term neither manifestly excessive nor wrong in principle.",
+   "Brianna's mother, Esther Ghey, has since campaigned on children's access to smartphones and social media and for mindfulness teaching in schools, according to Wikipedia."
   ],
   "timeline": [
    {
+    "date": "2023-01-01",
+    "event": "Ratcliffe buys the hunting knife later used in the attack, according to the Court of Appeal."
+   },
+   {
     "date": "2023-02-11",
-    "event": "Brianna Ghey murdered."
+    "event": "Brianna Ghey is stabbed to death in Culcheth Linear Park near Warrington."
+   },
+   {
+    "date": "2023-02-12",
+    "event": "Scarlett Jenkinson and Eddie Ratcliffe, both 15, are arrested."
+   },
+   {
+    "date": "2023-02-15",
+    "event": "Both are charged with murder."
+   },
+   {
+    "date": "2023-11-27",
+    "event": "Trial begins at Manchester Crown Court."
+   },
+   {
+    "date": "2023-12-20",
+    "event": "The jury convicts both defendants of murder."
    },
    {
     "date": "2024-02-02",
-    "event": "Jenkinson and Ratcliffe convicted; sentenced to life."
+    "event": "Both are sentenced to detention at His Majesty's pleasure, with minimum terms of 22 years (Jenkinson) and 20 years (Ratcliffe); the judge allows them to be named."
+   },
+   {
+    "date": "2024-12-05",
+    "event": "The Court of Appeal refuses Ratcliffe permission to appeal his sentence."
    }
   ],
   "enriched": true
