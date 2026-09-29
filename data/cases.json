@@ -51571,7 +51571,7 @@
    "Marilyn Renee Nicole \"Niqui\" McCown, 28, was a mother who worked at a prison in the Richmond, Indiana area and was engaged to Bobby Webster, with a wedding planned for August 18, 2001, according to NBC News Dateline. On Sunday, July 22, 2001, she was doing laundry at a laundromat in Richmond.",
    "Richmond police detective Mike Wright told Dateline that investigators found store video showing McCown at a Village Pantry near the laundromat at 3:19 p.m. that day, getting change and leaving. It is the last confirmed sighting of her. According to the Crime Junkie podcast's case summary, her family reported her missing to Richmond police the next morning.",
    "In November 2001, about four months later, the black GMC Jimmy she had been driving, which belonged to her fiance, was found near the Meadows of Catalpa apartment complex in Dayton, Ohio, roughly an hour from Richmond, Dateline reported. Detective Wright said there was no sign of a struggle in the vehicle, though some parts, possibly including the battery, were missing.",
-   "Police have interviewed dozens of friends, relatives and co-workers. According to Dateline, Wright said that her fiance and her former partner are not considered persons of interest; her fiance died in 2021. Wright told Dateline that a former co-worker, Tommy Swint, remains a person of interest. Swint was indicted in 2010 for an unrelated 1991 killing in Dayton and died by suicide when officers tried to arrest him in Alabama, so he was never tried. He has never been charged in connection with McCown's disappearance.",
+   "Police have interviewed dozens of friends, relatives and co-workers. According to Dateline, Wright said that her fiance and her former partner are not considered persons of interest; her fiance died in 2021. A person of interest was identified but never charged.",
    "The case remains open with the Richmond Police Department. In 2024 Dateline reported that detectives had searched wooded areas around Richmond and obtained a computer for forensic review. In 2026 Wright told Kicks 96 News that detectives were working with an Indiana State Police cold case investigator to re-examine evidence, including items recovered from the vehicle, for possible new DNA or fingerprint testing. Her family marked the 25th anniversary of her disappearance with a vigil in Richmond on July 22, 2026, according to Western Wayne News."
   ],
   "timeline": [
@@ -51590,10 +51590,6 @@
    {
     "date": "2001-11",
     "event": "The GMC Jimmy she was driving is found near the Meadows of Catalpa apartments in Dayton, Ohio."
-   },
-   {
-    "date": "2010",
-    "event": "Tommy Swint, whom police call a person of interest, is indicted in an unrelated 1991 Dayton killing and dies by suicide during an arrest attempt."
    },
    {
     "date": "2024",
@@ -52222,13 +52218,13 @@
   "type": "Homicide",
   "status": "Conviction",
   "year": 2012,
-  "date": "November 19, 2012",
+  "date": "November 18, 2012",
   "state": "Colorado",
-  "city": "Bayfield",
+  "city": "Vallecito",
   "age": 13,
   "gender": "Male",
-  "summary": "Thirteen-year-old Dylan Redwine disappeared during a court-ordered visit with his father Mark in Bayfield, Colorado. Mark Redwine was convicted of his murder in 2021.",
-  "lastSeen": "November 19, 2012, his father's home near Bayfield, Colorado",
+  "summary": "Thirteen-year-old Dylan Redwine was last seen on November 18, 2012, during a court-ordered visit to his father's home near Vallecito Reservoir in southwest Colorado. His remains were found in 2013 and 2015. His father, Mark Redwine, was convicted in July 2021 of second-degree murder and child abuse resulting in death and was sentenced to 48 years in prison.",
+  "lastSeen": "November 18, 2012, at his father's home near Vallecito Reservoir, northeast of Durango, Colorado",
   "tags": [
    "child",
    "2010s",
@@ -52236,32 +52232,73 @@
   ],
   "sources": [
    {
-    "title": "Mark Redwine trial - Durango Herald",
-    "url": "https://www.durangoherald.com/articles/mark-redwine-guilty/"
+    "title": "Colorado Sun - Mark Redwine sentenced to 48 years in prison for killing his son",
+    "url": "https://coloradosun.com/2021/10/08/mark-redwine-sentenced-colorado/"
+   },
+   {
+    "title": "Colorado Sun - Mark Redwine guilty of murder in death of his 13-year-old son",
+    "url": "https://coloradosun.com/2021/07/16/mark-redwine-guilty-murder/"
+   },
+   {
+    "title": "KRDO - Mark Redwine appeals guilty verdict in murder of 13-year-old son",
+    "url": "https://krdo.com/news/2021/11/23/mark-redwine-appeals-guilty-verdict-in-murder-of-13-year-old-son/"
+   },
+   {
+    "title": "KDVR - Mark Redwine files for appeal in murder of son, Dylan",
+    "url": "https://kdvr.com/news/local/mark-redwine-murder-appeal-dylan/"
+   },
+   {
+    "title": "Durango Herald - Mark Redwine guilty of killing his son",
+    "url": "https://www.durangoherald.com/articles/gallery/mark-redwine-guilty-of-killing-his-son/"
+   },
+   {
+    "title": "Colorado Court of Appeals - People v. Redwine, 22CA0596 (April 9, 2026)",
+    "url": "https://cases.justia.com/colorado/court-of-appeals/2026-22ca0596.pdf"
    }
   ],
   "narrative": [
-   "On November 19, 2012, thirteen-year-old Dylan Redwine traveled from his mother's home in Colorado Springs to his father Mark Redwine's home near Bayfield, Colorado, for a court-ordered Thanksgiving visit. Dylan and his father had a strained relationship. Mark reported Dylan missing the following day.",
-   "Despite extensive searches of the rugged terrain around Bayfield, Dylan was not found. In June 2013, hikers discovered some of Dylan's remains in a remote area about 10 miles from Mark's home. Additional remains, including Dylan's skull, were found in 2015.",
-   "The investigation focused on Mark Redwine, who had been the last person to see Dylan alive. Evidence revealed that Dylan had found disturbing photographs on his father's computer and had confronted him about them, providing a possible motive.",
-   "Mark Redwine was arrested in 2017 and charged with second-degree murder and child abuse. He was convicted in 2021 and sentenced to 48 years in prison."
+   "Dylan Redwine, 13, traveled from his mother's home in Colorado Springs to stay with his father, Mark Redwine, for a court-ordered visit over the Thanksgiving holiday in November 2012. His father lived near Vallecito Reservoir, northeast of Durango in La Plata County. According to the Colorado Sun, Dylan was last seen on the night of November 18, 2012, and his father reported him missing the next day.",
+   "Searches of the area did not find him. Some of Dylan's remains were found in 2013 a few miles from his father's home, and hikers found his skull in 2015, according to the Colorado Sun. KRDO reported that the remains were found in woods near Mark Redwine's home.",
+   "Mark Redwine was indicted in 2017 and arrested in Bellingham, Washington. At trial, prosecutors said Dylan had found embarrassing photographs of his father and that the killing followed a confrontation over them, the Colorado Sun reported. Prosecutors also presented a forensic anthropologist's testimony about a fracture and marks on Dylan's skull, and traces of Dylan's blood found in the living room of the home.",
+   "In July 2021, after less than a day of deliberation, a La Plata County jury found Mark Redwine guilty of second-degree murder and child abuse resulting in death. On October 8, 2021, he was sentenced to 48 years in prison. In a statement before sentencing he maintained that he was innocent.",
+   "Redwine filed a notice of appeal in November 2021, KRDO and KDVR reported. In April 2026 the Colorado Court of Appeals affirmed a related restitution order in his case; that opinion describes him as having been found guilty of second-degree murder and child abuse resulting in death."
   ],
   "timeline": [
    {
+    "date": "2012-11-18",
+    "event": "Dylan Redwine, 13, is last seen at his father's home near Vallecito Reservoir during a court-ordered visit."
+   },
+   {
     "date": "2012-11-19",
-    "event": "Dylan Redwine arrives at his father's home; disappears overnight."
+    "event": "Mark Redwine reports his son missing."
    },
    {
-    "date": "2013-06-25",
-    "event": "Some of Dylan's remains found in a remote area."
+    "date": "2013",
+    "event": "Some of Dylan's remains are found a few miles from his father's home."
    },
    {
-    "date": "2017-07-22",
-    "event": "Mark Redwine arrested and charged with murder."
+    "date": "2015",
+    "event": "Hikers find Dylan's skull."
    },
    {
-    "date": "2021-07-16",
-    "event": "Mark Redwine convicted; sentenced to 48 years."
+    "date": "2017",
+    "event": "Mark Redwine is indicted and arrested in Bellingham, Washington."
+   },
+   {
+    "date": "2021-07",
+    "event": "A jury convicts Mark Redwine of second-degree murder and child abuse resulting in death."
+   },
+   {
+    "date": "2021-10-08",
+    "event": "Mark Redwine is sentenced to 48 years in prison."
+   },
+   {
+    "date": "2021-11-23",
+    "event": "Mark Redwine files a notice of appeal."
+   },
+   {
+    "date": "2026-04-09",
+    "event": "The Colorado Court of Appeals affirms a restitution order in the case."
    }
   ],
   "enriched": true
