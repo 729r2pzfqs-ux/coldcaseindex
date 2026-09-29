@@ -38910,8 +38910,8 @@
   "city": "Jamaica, Queens",
   "age": 37,
   "gender": "Male",
-  "summary": "Jason Mizell, known as Jam Master Jay of Run-DMC, was shot in the head at his recording studio in Queens on October 30, 2002. Ronald Washington and Karl Jordan Jr. were indicted in 2020 and found guilty by a federal jury in February 2024, but in December 2025 the trial judge overturned Jordan's conviction for insufficient evidence while upholding Washington's. A third defendant, Jay Bryant, pleaded guilty to a firearm-related murder charge in April 2026.",
-  "lastSeen": "October 30, 2002, 24/7 Recording Studio, Jamaica, Queens, New York",
+  "summary": "Jason Mizell, the Run-DMC DJ known as Jam Master Jay, was shot dead in his recording studio in Jamaica, Queens, on October 30, 2002. A federal jury convicted Ronald Washington and Karl Jordan Jr. in February 2024, but in December 2025 the judge acquitted Jordan, a ruling prosecutors have appealed. A third man, Jay Bryant, pleaded guilty in April 2026 to a firearm-related murder charge.",
+  "lastSeen": "October 30, 2002, recording studio on Merrick Boulevard, Jamaica, Queens, New York",
   "tags": [
    "hip-hop",
    "Run-DMC",
@@ -38919,44 +38919,77 @@
   ],
   "sources": [
    {
-    "title": "Murder of Jam Master Jay - Wikipedia",
+    "title": "Wikipedia - Murder of Jam Master Jay",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Jam_Master_Jay"
    },
    {
-    "title": "NBC News - Judge overturns murder conviction in the killing of rap legend Jam Master Jay",
+    "title": "NBC New York - Longtime friend and godson convicted in murder of Run DMC's Jam Master Jay",
+    "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/jam-master-jay-verdict-murder-trial-manhattan/5174779/"
+   },
+   {
+    "title": "NBC News - Judge overturns man's murder conviction in killing of rap legend Jam Master Jay",
     "url": "https://www.nbcnews.com/news/us-news/judge-overturns-mans-murder-conviction-killing-rap-legend-jam-master-j-rcna250155"
+   },
+   {
+    "title": "NBC News - Man pleads guilty 25 years after Jam Master Jay's murder",
+    "url": "https://www.nbcnews.com/news/us-news/man-pleads-guilty-jam-master-jay-killing-jay-bryant-rcna342268"
+   },
+   {
+    "title": "Courthouse News - One of three men charged in Jam Master Jay shooting pleads guilty to murder",
+    "url": "https://www.courthousenews.com/one-of-three-men-charged-in-jam-master-jay-shooting-pleads-guilty-to-murder/"
+   },
+   {
+    "title": "Complex - Jam Master Jay Case: Karl Jordan Jr. Faces Appeals Court Over Bail",
+    "url": "https://www.complex.com/music/a/shawn-setaro/jam-master-jay-case-karl-jordan-jr-appeals-court-bail"
    }
   ],
   "narrative": [
-   "On the evening of October 30, 2002, Jason William Mizell, known worldwide as Jam Master Jay—the DJ and co-founding member of the pioneering hip-hop group Run-DMC—was shot once in the head at his 24/7 Recording Studio on Merrick Boulevard in the Jamaica neighborhood of Queens, New York. He was 37 years old. A friend in the studio, Uriel Rincon, was also shot in the leg. Despite the shooting occurring in a room with several people present, witnesses were initially uncooperative with investigators.",
-   "The murder sent shockwaves through the music industry. Run-DMC had been one of the most influential groups in hip-hop history, helping bring the genre into mainstream culture with songs like 'Walk This Way' and 'It's Tricky.' Mizell was widely regarded as a beloved figure in Queens and the hip-hop community, making the murder particularly shocking. The case quickly went cold as the 'no snitching' code prevalent in the neighborhood stifled witness cooperation.",
-   "For 18 years, the case remained one of New York City's most high-profile unsolved murders. The breakthrough came in August 2020, when federal prosecutors indicted Ronald Washington and Karl Jordan Jr. The charges alleged that the murder was connected to a failed drug deal involving kilogram quantities of cocaine. Mizell had allegedly agreed to distribute cocaine but then cut Jordan out of the deal, leading to the deadly confrontation.",
-   "Ronald Washington and Karl Jordan Jr. both pleaded not guilty and were convicted by a federal jury in Brooklyn on February 27, 2024. On December 19, 2025, U.S. District Judge LaShann DeArcy Hall overturned Jordan's conviction, finding the evidence of a drug-related motive insufficient, and upheld Washington's conviction. Washington's conviction, and a later guilty plea by a third defendant, brought a measure of resolution to one of hip-hop's most notorious cold cases, though many in the community expressed surprise at the alleged drug-dealing motive, which contrasted with Jam Master Jay's public image as a mentor and community figure."
+   "Jason Mizell, born on January 21, 1965, was the DJ of the hip-hop group Run-DMC and performed as Jam Master Jay. On the evening of October 30, 2002, he was shot and killed at the age of 37 inside a recording studio on Merrick Boulevard in Jamaica, Queens, according to Wikipedia. The case went unsolved for nearly two decades.",
+   "In August 2020, federal prosecutors in Brooklyn indicted Ronald Washington, a longtime friend of Mizell, and Karl Jordan Jr., Mizell's godson, according to Wikipedia. A third man, Jay Bryant, was charged in May 2023. At trial, prosecutors alleged that the killing grew out of a failed cocaine deal: according to NBC New York, they said the defendants had wanted to obtain and resell about 10 kilograms of cocaine through Mizell, but a Baltimore dealer refused to work with Washington. Prosecutors alleged that Jordan fired the shots and that Washington blocked the door and ordered a man in the studio to the floor at gunpoint.",
+   "On February 27, 2024, after a trial that began in late January, a federal jury convicted Washington and Jordan of murder while engaged in a narcotics trafficking conspiracy and firearm-related murder, NBC New York reported.",
+   "On December 19, 2025, U.S. District Judge LaShann DeArcy Hall set aside Jordan's conviction and entered a judgment of acquittal, finding that prosecutors had not proved he was motivated by the drug deal as the charges required, according to NBC News. She denied Washington's motions for acquittal or a new trial, leaving his conviction in place. According to Courthouse News and Complex, the government has appealed Jordan's acquittal to the Second Circuit, and as of September 2026 that appeal and a related dispute over his bail were pending. Jordan is therefore not convicted of the murder. Wikipedia reports that he also faces separate drug charges.",
+   "On April 27, 2026, Bryant pleaded guilty in federal court in Brooklyn to a firearm-related murder charge, admitting that he helped let the attackers into the studio and knew a gun would be used, according to NBC News and Courthouse News. Courthouse News reported that he faces 15 to 20 years in prison; Complex reported in September 2026 that no sentencing date had yet been set. No sentencing of Washington had been reported in the sources reviewed."
   ],
   "timeline": [
    {
+    "date": "1965-01-21",
+    "event": "Jason Mizell is born."
+   },
+   {
     "date": "2002-10-30",
-    "event": "Jam Master Jay is shot and killed at his recording studio in Jamaica, Queens."
+    "event": "Mizell is shot and killed in a recording studio in Jamaica, Queens."
    },
    {
-    "date": "2002-11-01",
-    "event": "Police investigation begins but witnesses are uncooperative."
+    "date": "2020-08",
+    "event": "Ronald Washington and Karl Jordan Jr. are indicted in federal court in Brooklyn."
    },
    {
-    "date": "2020-08-17",
-    "event": "Ronald Washington and Karl Jordan Jr. are indicted for the murder."
+    "date": "2023-05-30",
+    "event": "Jay Bryant is charged as a third defendant."
    },
    {
-    "date": "2024-02-05",
-    "event": "Karl Jordan Jr. is convicted of murder in federal court."
+    "date": "2024-01-29",
+    "event": "The trial of Washington and Jordan opens."
+   },
+   {
+    "date": "2024-02-27",
+    "event": "A jury convicts Washington and Jordan of murder while engaged in narcotics trafficking and firearm-related murder."
    },
    {
     "date": "2025-12-19",
-    "event": "U.S. District Judge LaShann DeArcy Hall overturns Karl Jordan Jr.'s conviction for insufficient evidence of motive and upholds Ronald Washington's conviction."
+    "event": "Judge LaShann DeArcy Hall acquits Jordan and upholds Washington's conviction."
+   },
+   {
+    "date": "2026-01",
+    "event": "Federal prosecutors appeal Jordan's acquittal to the Second Circuit."
    },
    {
     "date": "2026-04-27",
-    "event": "Third defendant Jay Bryant pleads guilty in Brooklyn federal court to a firearm-related murder charge in Mizell's killing."
+    "event": "Jay Bryant pleads guilty to a firearm-related murder charge."
+   },
+   {
+    "date": "2026-09-01",
+    "event": "A Second Circuit panel hears arguments on the government's challenge to Jordan's bail; the appeal of his acquittal remains pending."
    }
   ],
   "enriched": true
@@ -42278,8 +42311,8 @@
   "city": "East Meadow",
   "age": 2,
   "gender": "Male",
-  "summary": "Two-year-old Steven Damman was taken from his stroller outside a Long Island bakery on Halloween 1955. His mother had left him briefly with his baby sister. Despite FBI involvement and national attention, Steven was never found.",
-  "lastSeen": "October 31, 1955, East Meadow, Long Island, New York",
+  "summary": "Two-year-old Steven Damman disappeared on October 31, 1955, after his mother left him and his baby sister in a stroller outside a store in East Meadow, Long Island. The stroller was found nearby with only his sister inside. Despite a search by about 2,000 people, he was never found. A Michigan man who believed he was Steven was ruled out by DNA in 2009.",
+  "lastSeen": "October 31, 1955, outside a bakery in East Meadow, Long Island, New York",
   "tags": [
    "Long Island",
    "child",
@@ -42288,28 +42321,53 @@
   ],
   "sources": [
    {
-    "title": "Disappearance of Steven Damman - Wikipedia",
+    "title": "HeraldNet (Associated Press) - Michigan man claims to be N.Y. boy who vanished in 1955",
+    "url": "https://www.heraldnet.com/2009/06/16/michigan-man-claims-to-be-n-y-boy-who-vanished-in-1955/"
+   },
+   {
+    "title": "ABC News - FBI: Michigan man isn't toddler who vanished in 1955",
+    "url": "https://abcnews.com/US/story?id=7869083&page=1"
+   },
+   {
+    "title": "NCMEC - Have you seen this child? Steven Damman",
+    "url": "https://www.missingkids.org/poster/NCMC/1149544/1"
+   },
+   {
+    "title": "Morbidology - The Disappearance of Steven Damman",
+    "url": "https://morbidology.com/the-disappearance-of-steven-damman/"
+   },
+   {
+    "title": "Wikipedia - Disappearance of Steven Damman",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Steven_Damman"
    }
   ],
   "narrative": [
-   "On the afternoon of October 31, 1955—Halloween—Marilyn Damman left her two-year-old son Steven and seven-month-old daughter Pamela in a stroller outside a bakery on Hempstead Turnpike in East Meadow, Long Island, New York while she went inside to make a purchase. When she returned minutes later, Steven was gone. Pamela was still in the stroller, unharmed.",
-   "The abduction made national headlines and prompted an intensive search. The FBI joined the investigation due to the possibility of kidnapping. Hundreds of tips poured in, and sightings were reported across the country, but none led to Steven. The case became one of the most publicized child abductions of the 1950s.",
-   "In 2009, the FBI examined the case again after John Barnes of Kalkaska, Michigan came forward believing he might be Steven Damman. DNA testing, however, conclusively ruled him out. The investigation continued to pursue other leads without success.",
-   "Steven Damman's disappearance occurred during an era of relative innocence when leaving children unattended briefly was common. The case helped change attitudes about child safety and contributed to growing awareness of the danger of child abduction. Marilyn Damman spent the rest of her life hoping for Steven's return and died in 2019 without ever learning his fate."
+   "On the afternoon of October 31, 1955, Marilyn Damman left her two children, two-year-old Steven and seven-month-old Pamela, in a stroller outside a bakery in East Meadow, on Long Island, while she went inside for about ten minutes, according to an Associated Press report carried by HeraldNet in 2009. When she came out, the stroller was gone. It was found around the corner with Pamela unharmed inside, but Steven was missing. Morbidology, citing contemporary newspaper coverage, puts the time at about 2:45 p.m.",
+   "More than 2,000 people searched for Steven for about 28 hours before Nassau County police called off the organized search and turned the case over to detectives, the AP reported. His parents, Jerry and Marilyn Damman, appealed publicly for his return and asked that he be given medicine for his anemia. The National Center for Missing and Exploited Children lists him as last seen outside a store, wearing dungarees, a blue shirt, a red sweater and brown shoes, with a small scar on his chin and a mole on the back of his right calf.",
+   "In November 1955 the family received three ransom letters demanding increasing sums of $3,000, $10,000 and $14,000. According to Wikipedia and the Charley Project summary cited there, the letters were traced to a Queens College student who had no connection to the disappearance. Authorities have treated the case as a kidnapping by a stranger.",
+   "In 2009 John Barnes, a Michigan man then 54, came forward saying he believed he was Steven, citing a scar and a mole that matched the boy's description and a sense that he did not belong in the family that raised him. After early tests did not rule him out, the FBI laboratory compared his DNA with that of Steven's sister, Pamela Horne. On June 18, 2009, the FBI announced that the two did not share the same mother, ruling Barnes out, ABC News reported.",
+   "Steven Damman has never been found. His case remains open with the Nassau County Police Department, and NCMEC continues to circulate an age-progressed image of how he might look as an adult. Nassau County police said in 2009 that leaving children outside a shop in this way was probably not unusual at the time."
   ],
   "timeline": [
    {
     "date": "1955-10-31",
-    "event": "Steven Damman is taken from a stroller outside a bakery in East Meadow, Long Island."
+    "event": "Steven Damman disappears from a stroller left outside a bakery in East Meadow; the stroller is found nearby with his sister inside."
    },
    {
-    "date": "1955-11-01",
-    "event": "FBI joins the investigation; national search begins."
+    "date": "1955-11",
+    "event": "After a search by more than 2,000 people lasting about 28 hours, police turn the case over to detectives."
+   },
+   {
+    "date": "1955-11",
+    "event": "The family receives three ransom letters, later traced to a Queens College student with no link to the case."
+   },
+   {
+    "date": "2009-06",
+    "event": "Michigan man John Barnes publicly says he believes he is Steven Damman; DNA testing is arranged through the FBI."
    },
    {
     "date": "2009-06-18",
-    "event": "FBI DNA testing rules out Michigan man John Barnes as Steven Damman."
+    "event": "The FBI announces that DNA tests show Barnes and Steven's sister do not share a mother, ruling him out."
    }
   ],
   "enriched": true
@@ -42959,8 +43017,8 @@
   "city": "Knoxville",
   "age": 31,
   "gender": "Male",
-  "summary": "Canadian construction worker Blair Adams was found murdered in a Knoxville, Tennessee parking lot after a bizarre cross-country flight from his home in Surrey, British Columbia. His erratic behavior before death and the strange circumstances remain unexplained.",
-  "lastSeen": "July 11, 1996, Knoxville, Tennessee",
+  "summary": "Robert Dennis Blair Adams, a 31-year-old construction foreman from Surrey, British Columbia, was found beaten to death on July 11, 1996, in the lot of an unfinished motel off Interstate 40 in east Knox County, Tennessee. He had left Canada abruptly, telling people he feared for his life. Thousands of dollars in cash and gold were left with his body, and the killing remains unsolved.",
+  "lastSeen": "July 10, 1996, about 7:37 p.m., leaving the Fairfield Inn on Cracker Barrel Lane near the Strawberry Plains Pike exit of I-40, Knox County, Tennessee",
   "tags": [
    "Canada",
    "international",
@@ -42969,36 +43027,61 @@
   ],
   "sources": [
    {
-    "title": "Murder of Blair Adams - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Murder_of_Blair_Adams"
+    "title": "Knox County Sheriff's Office - Cold Case Homicide: Robert Dennis Blair Adams",
+    "url": "https://knoxsheriff.org/cold-case-homicide-robert-dennis-blair-adams/"
    },
    {
-    "title": "Blair Adams - Unsolved Mysteries",
+    "title": "Unsolved Mysteries - Blair Adams",
     "url": "https://unsolved.com/gallery/blair-adams/"
+   },
+   {
+    "title": "WATE (via Yahoo News) - Canadian man's death in Knox County remains unsolved after nearly 3 decades",
+    "url": "https://www.yahoo.com/news/canadian-man-death-knox-county-175456851.html"
+   },
+   {
+    "title": "Wikipedia - Murder of Blair Adams",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Blair_Adams"
    }
   ],
   "narrative": [
-   "In early July 1996, 31-year-old Blair Adams, a construction worker living in Surrey, British Columbia, began behaving erratically. He quit his job, withdrew his life savings of $6,000 Canadian dollars, and told friends and family he believed someone was trying to kill him, though he could not or would not identify who. He attempted to cross into the United States at the border but was turned back because of his agitated state.",
-   "Adams then flew from Vancouver to Frankfurt, Germany, but immediately turned around and flew back. He crossed the US border at a different checkpoint, bought a round-trip ticket from Seattle to Washington, D.C., then rented a car in D.C. and drove south. His rental car broke down in Knoxville, Tennessee. He was seen at various locations in Knoxville, including a gas station and a hotel where he appeared confused and frightened.",
-   "On July 11, 1996, Adams's body was found in the parking lot of a Knoxville construction site. He had been struck by a violent blow that ruptured his stomach and had a head wound; he died of sepsis from the abdominal injury. His pants were pulled down, and money and valuables were scattered around his body. Despite having been carrying thousands of dollars in multiple currencies, gold, and platinum, nothing appeared to have been stolen.",
-   "The Knox County Sheriff's Office investigated extensively but could find no connection between Adams and anyone in Tennessee. No DNA or fingerprints at the scene matched anyone in databases. The bizarre journey—from Canada to Germany and back, then across the United States—combined with his paranoid behavior and the seemingly motiveless murder, make this one of the most perplexing unsolved cases in American true crime. The case has been featured on Unsolved Mysteries and remains open."
+   "Robert Dennis Blair Adams, known as Blair, was a construction foreman in Surrey, British Columbia. According to Unsolved Mysteries, his mother said that in the summer of 1996 he became anxious and moody and would not tell her what was wrong. On Friday, July 5, 1996, he withdrew his savings and emptied his safe deposit box of cash, jewelry, gold and platinum.",
+   "Over the next several days his movements became erratic. Unsolved Mysteries reported that he was refused entry to the United States at the border, quit his job, bought a round-trip ticket to Frankfurt, Germany, and told a friend he feared someone was trying to kill him. Instead of flying to Germany, he turned in the ticket, rented a car and crossed into the United States. From Seattle he flew to Washington, D.C., arriving on July 10, where he rented a car and drove about 500 miles to the Knoxville area, the Knox County Sheriff's Office said.",
+   "That afternoon he locked himself out of the rental car, or had the wrong key, at a BP station on Strawberry Plains Pike. A tow-truck driver arranged to hold the car until the rental company could supply a key and dropped him at a nearby Fairfield Inn. Hotel staff described him as nervous and watchful. He paid for a room but, according to the sheriff's office, is not believed to have entered it; Unsolved Mysteries put the last sighting at 7:37 p.m.",
+   "Construction workers found his body the next morning, July 11, in the parking lot of a motel under construction on Crosswood Boulevard, about half a mile away. WATE, citing Associated Press reporting, said his pants had been removed and thousands of dollars in Canadian, German and US money lay around him, along with a fanny pack containing gold, coins and jewelry. An autopsy found he died of septic shock after a beating in which a blow ruptured his stomach. Injuries suggested a sexual assault, and the only notable physical evidence was a long strand of hair found in his hand.",
+   "Because his money and valuables were left behind, the sheriff's office has said robbery did not appear to be the motive, and Adams knew no one in the area. Investigators told Unsolved Mysteries they believed the threat he feared may have been imagined. The case remains open with the Knox County Sheriff's Office Cold Case Unit."
   ],
   "timeline": [
    {
+    "date": "1964-12-28",
+    "event": "Robert Dennis Blair Adams is born in Surrey, British Columbia."
+   },
+   {
     "date": "1996-07-05",
-    "event": "Blair Adams begins acting erratically; quits job and withdraws savings."
+    "event": "Adams withdraws his savings and empties his safe deposit box."
    },
    {
     "date": "1996-07-07",
-    "event": "Adams flies to Germany and immediately returns."
+    "event": "He tries to enter the United States and is refused entry."
+   },
+   {
+    "date": "1996-07-08",
+    "event": "He quits his job and buys a round-trip ticket to Frankfurt, Germany, which he does not use."
    },
    {
     "date": "1996-07-09",
-    "event": "Adams enters the US and drives from Washington D.C. toward Tennessee."
+    "event": "He turns in the ticket, rents a car and crosses into the United States, reaching Seattle."
+   },
+   {
+    "date": "1996-07-10",
+    "event": "He flies to Washington, D.C., drives to Knox County, is locked out of his rental car and checks into a Fairfield Inn; last seen at 7:37 p.m."
    },
    {
     "date": "1996-07-11",
-    "event": "Adams is found murdered in a Knoxville parking lot."
+    "event": "Construction workers find his body in the lot of an unfinished motel on Crosswood Boulevard."
+   },
+   {
+    "date": "1997-04-18",
+    "event": "The case is featured on Unsolved Mysteries."
    }
   ],
   "enriched": true
@@ -46428,8 +46511,8 @@
   "city": "Huntington Beach",
   "age": 12,
   "gender": "Female",
-  "summary": "Twelve-year-old Robin Samsoe was abducted while riding her bicycle to dance class in Huntington Beach. Her case led to the identification and conviction of serial killer Rodney Alcala, known as 'The Dating Game Killer,' who is believed to have murdered at least seven women and girls.",
-  "lastSeen": "June 20, 1979, Huntington Beach, California",
+  "summary": "Twelve-year-old Robin Samsoe disappeared on June 20, 1979, while riding a bicycle to ballet class in Huntington Beach, California; her remains were found 12 days later in the San Gabriel Mountains. Rodney Alcala, known as the \"Dating Game Killer,\" was convicted of her murder three times, in 1980, 1986 and 2010, and was sentenced to death in 2010. He died on death row in 2021.",
+  "lastSeen": "June 20, 1979, riding a bicycle toward ballet class, Huntington Beach, California",
   "tags": [
    "child",
    "serial killer",
@@ -46438,36 +46521,81 @@
   ],
   "sources": [
    {
-    "title": "Rodney Alcala - Wikipedia",
+    "title": "CBS News - \"Dating Show\" Bachelor Rodney Alcala Sentenced to Death, Will He Slip Away Again?",
+    "url": "https://www.cbsnews.com/news/dating-show-bachelor-rodney-alcala-sentenced-to-death-will-he-slip-away-again/"
+   },
+   {
+    "title": "Deseret News - California jury recommends death penalty for serial killer",
+    "url": "https://www.deseret.com/2010/3/10/20101189/california-jury-recommends-death-penalty-for-serial-killer/"
+   },
+   {
+    "title": "Behind the Badge - Retired HB detective recalls case that shook Huntington Beach",
+    "url": "https://behindthebadge.com/retired-hb-detective-recalls-case-shook-huntington-beach/"
+   },
+   {
+    "title": "KSAT (AP) - Imprisoned 'Dating Game Killer' Alcala dies in California",
+    "url": "https://www.ksat.com/news/national/2021/07/24/imprisoned-dating-game-killer-alcala-dies-in-california/"
+   },
+   {
+    "title": "Wikipedia - Murder of Robin Samsoe",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Robin_Samsoe"
+   },
+   {
+    "title": "Wikipedia - Rodney Alcala",
     "url": "https://en.wikipedia.org/wiki/Rodney_Alcala"
    }
   ],
   "narrative": [
-   "On June 20, 1979, twelve-year-old Robin Christine Samsoe was riding her bicycle from the beach to a ballet class in Huntington Beach, California. She never arrived. Earlier that day, a man had been taking photographs of Robin and her friend on the beach; the friend later identified him as Rodney Alcala.",
-   "Robin's body was found twelve days later in the foothills of the Angeles National Forest. She had been sexually assaulted and murdered. A pair of earrings found in Alcala's storage locker were identified by Robin's mother as belonging to her daughter, helping to link Alcala to the crime.",
-   "Rodney Alcala was a convicted sex offender who had appeared as a contestant on the television show 'The Dating Game' in 1978, earning him the nickname 'The Dating Game Killer.' He was a photographer who used his camera as a lure for potential victims. Alcala was tried three times for Robin's murder—his first two convictions were overturned on appeal—before being finally convicted in 2010.",
-   "During the 2010 trial, prosecutors also charged Alcala with four additional murders in Los Angeles County from the 1970s. He was convicted of all five counts and sentenced to death. DNA evidence later linked him to two additional murders in New York in the 1970s, for which he pleaded guilty. Investigators believe Alcala may have murdered dozens more, based on hundreds of unidentified photographs of women and children found in his possession. Alcala died on death row in 2021."
+   "Robin Christine Samsoe, 12, lived in Huntington Beach, California, and studied ballet. On June 20, 1979, she and a friend were at the beach when a man approached them and asked to take their photographs, according to Wikipedia's account of the case and the police publication Behind the Badge. Later that afternoon Robin borrowed a friend's yellow bicycle to ride to her ballet class and never arrived.",
+   "Twelve days later, on July 2, 1979, her remains were found in the foothills of the San Gabriel Mountains in the Angeles National Forest, about 50 miles north of Huntington Beach, CBS News and Wikipedia reported. Detectives circulated a sketch of the photographer based on the girls' descriptions, and Rodney Alcala's parole officer recognized him. Alcala was arrested on July 24, 1979.",
+   "Alcala was convicted of Robin's murder and sentenced to death in 1980. The California Supreme Court reversed that verdict in 1984 because jurors had heard evidence of his prior sex crimes against children. He was convicted and sentenced to death again in 1986, but a federal district court granted habeas relief in 2001, and the Ninth Circuit Court of Appeals upheld that ruling in 2003, according to CBS News and Wikipedia.",
+   "For a third trial, prosecutors joined the Samsoe charge with the murders of four women in the Los Angeles area between 1977 and 1979: Jill Barcomb, 18, Georgia Wixted, 27, Charlotte Lamb, 32, and Jill Parenteau, 21, with DNA evidence used in at least one of those cases. Evidence included a pair of gold ball earrings found in Alcala's storage locker that Robin's mother testified belonged to her daughter, KSAT reported. Huntington Beach detective Steve Mack, who took over the case in 2003, helped build the retrial, according to Behind the Badge. Alcala represented himself. On February 25, 2010, a jury convicted him on all counts, and on March 9, 2010, after deliberating about an hour, the jury returned a death verdict.",
+   "In December 2012 Alcala pleaded guilty in New York to the murders of Cornelia Crilley in 1971 and Ellen Hover in 1977 and was sentenced to 25 years to life in January 2013. He died of natural causes at a hospital in California's San Joaquin Valley on July 24, 2021, at age 77, while still on death row, according to the Associated Press as published by KSAT. California had a moratorium on executions at the time."
   ],
   "timeline": [
    {
     "date": "1979-06-20",
-    "event": "Robin Samsoe is abducted while riding her bicycle in Huntington Beach."
+    "event": "Robin Samsoe disappears while riding a bicycle to ballet class after she and a friend were approached by a man with a camera."
    },
    {
     "date": "1979-07-02",
-    "event": "Robin's body is found in the Angeles National Forest foothills."
+    "event": "Her remains are found in the San Gabriel Mountains foothills in the Angeles National Forest."
    },
    {
-    "date": "1980-06-20",
-    "event": "Rodney Alcala is first convicted; conviction later overturned."
+    "date": "1979-07-24",
+    "event": "Rodney Alcala is arrested."
    },
    {
-    "date": "2010-03-30",
-    "event": "Alcala convicted a third time and sentenced to death for five murders."
+    "date": "1980",
+    "event": "Alcala is convicted and sentenced to death."
+   },
+   {
+    "date": "1984",
+    "event": "California Supreme Court reverses the conviction."
+   },
+   {
+    "date": "1986",
+    "event": "Alcala is convicted and sentenced to death a second time."
+   },
+   {
+    "date": "2001",
+    "event": "Federal district court grants habeas relief; the Ninth Circuit upholds this in 2003."
+   },
+   {
+    "date": "2010-02-25",
+    "event": "Jury convicts Alcala of the Samsoe murder and four other murders."
+   },
+   {
+    "date": "2010-03-09",
+    "event": "Jury returns a death verdict."
+   },
+   {
+    "date": "2013-01-07",
+    "event": "Alcala is sentenced in New York for two murders to which he pleaded guilty in December 2012."
    },
    {
     "date": "2021-07-24",
-    "event": "Rodney Alcala dies on death row."
+    "event": "Alcala dies of natural causes while on death row."
    }
   ],
   "enriched": true
@@ -47215,8 +47343,8 @@
   "city": "Clarksburg",
   "age": null,
   "gender": "Multiple",
-  "summary": "Two-year-old Sarah and three-year-old Jacob Hoggle were last seen with their mother, Catherine Hoggle, in Montgomery County, Maryland, in September 2014 and have never been found. Murder charges against Catherine Hoggle, who was repeatedly found incompetent to stand trial, were dismissed in 2022. After her release from a psychiatric hospital in July 2025 she was reindicted on two counts of first-degree murder; she has since been found competent, intends to plead not criminally responsible, and her trial is scheduled for October 2027.",
-  "lastSeen": "September 8, 2014, Clarksburg, Maryland",
+  "summary": "Sarah Hoggle, 3, and her brother Jacob, 2, of Clarksburg, Maryland, were last seen with their mother, Catherine Hoggle, in September 2014 and have never been found. Murder charges filed in 2017 were dismissed in 2022 after she was repeatedly found incompetent. She was reindicted on two counts of first-degree murder in 2025; her trial is set for October 2027, and she has not been convicted.",
+  "lastSeen": "September 2014, with their mother, Clarksburg, Maryland",
   "tags": [
    "children",
    "mental illness",
@@ -47224,48 +47352,77 @@
   ],
   "sources": [
    {
-    "title": "WTOP - Catherine Hoggle, reindicted with murder of her 2 kids, deemed flight risk during first court appearance",
+    "title": "Montgomery County Police - Concern for Missing Children and their Mother (Sept. 9, 2014)",
+    "url": "https://www2.montgomerycountymd.gov/mcgportalapps/Press_Detail_Pol.aspx?Item_ID=29432"
+   },
+   {
+    "title": "Montgomery County Police - Hoggle Children Missing Persons Case (Sept. 22, 2014)",
+    "url": "https://www2.montgomerycountymd.gov/mcgportalapps/Press_Detail_Pol.aspx?Item_ID=29449"
+   },
+   {
+    "title": "WJLA - Montgomery Co. mom indicted for 2 missing kids' murders",
+    "url": "https://wjla.com/news/local/catherine-hoggle-indicted-murder-missing-children-montgomery-county-sarah-hoggle-3-jacob-hoggle-2-september-7-2014-first-degree-murder-grand-jury-states-attorney-john-mccarthy-paranoid-schizophrenia-psychiatric-facility-release"
+   },
+   {
+    "title": "WTOP - Catherine Hoggle, reindicted with murder of her 2 kids, deemed flight risk",
     "url": "https://wtop.com/maryland/2025/08/catherine-hoggle-reindicted-with-murder-of-her-2-kids-deemed-flight-risk-during-first-court-appearance/"
    },
    {
     "title": "CBS News Baltimore - Mental evaluation ordered for Catherine Hoggle",
     "url": "https://www.cbsnews.com/baltimore/news/maryland-judge-orders-mental-evaluation-for-catherine-hoggle/"
+   },
+   {
+    "title": "CBS News Baltimore - Maryland woman accused of killing children has murder trial delayed until 2027",
+    "url": "https://www.cbsnews.com/baltimore/news/maryland-hoggle-accused-killing-children-murder-trial-delayed-until-2027/"
+   },
+   {
+    "title": "The MoCo Show - Catherine Hoggle Murder Trial Delayed Until 2027",
+    "url": "https://mocoshow.com/2026/09/23/catherine-hoggle-murder-trial-delayed-until-2027/"
    }
   ],
   "narrative": [
-   "On September 8, 2014, three-year-old Jacob and two-year-old Sarah Hoggle were last seen with their mother, Catherine Hoggle, in the Clarksburg area of Montgomery County, Maryland. Their father, Troy Turner, became alarmed when Catherine returned home without the children and gave inconsistent accounts of their whereabouts.",
-   "Catherine initially told Troy she had left the children with a friend, but the friend said she had not seen them. Police were called, and Catherine was taken into custody. She made various conflicting statements about where the children were, at times saying they were with other people and at other times claiming not to remember.",
-   "Catherine Hoggle was diagnosed with paranoid schizophrenia and was repeatedly found incompetent to stand trial. For years, the legal proceedings were delayed as courts grappled with her mental state. She was held at a state psychiatric facility while attempts were made to restore her competency. Maryland law at the time limited how long an incompetent defendant could be held, creating a possibility she could go free without ever revealing the children's location.",
-   "Extensive searches of areas where Catherine was known to have been—including parks, wooded areas, and bodies of water in Montgomery County—yielded no results. The children's bodies have never been found. In 2020, Maryland passed legislation (dubbed 'Jacob and Sarah's Law') extending the period an incompetent defendant can be held in serious cases. Catherine Hoggle remained in psychiatric custody until July 2025; the original murder charges were dismissed in 2022, and she was reindicted on two counts of first-degree murder in August 2025. The fate of Sarah and Jacob Hoggle remains unknown."
+   "Sarah Hoggle, 3, and Jacob Hoggle, 2, lived in Clarksburg, Maryland, with their mother, Catherine Hoggle, and their father, Troy Turner. According to a Montgomery County Police release of September 9, 2014, Turner called police on the evening of September 8, 2014, after Catherine Hoggle, then 27, left a restaurant near the Germantown Transit Center without telling him. Police said she had given conflicting accounts of leaving the children at a daycare, and that she had been diagnosed with paranoid schizophrenia.",
+   "A later police release said the children were last seen with their mother on September 8, 2014; subsequent news coverage, including WJLA, gives the date as September 7. Police located and arrested Catherine Hoggle on September 12, 2014, without the children, and she refused to say where they were, according to the department. She was charged with offenses including neglect and obstruction, and a grand jury indicted her for murder in 2017, according to CBS News and the MoCo Show.",
+   "Hoggle was repeatedly found incompetent to stand trial and held at the Clifton T. Perkins Hospital Center. According to WTOP, the murder indictment was dismissed in 2022 because of those incompetency findings. The children's bodies have never been found.",
+   "After Hoggle was released from the psychiatric hospital on July 9, 2025, a Montgomery County grand jury indicted her on July 31, 2025, on two counts of first-degree murder, according to WJLA, and she was arrested on August 1. At an August 5 hearing, a judge denied bond, finding her a flight risk and a danger to the community, WTOP reported. Prosecutors cited statements she allegedly made during therapy; these allegations have not been tested at trial.",
+   "A judge found Hoggle competent to stand trial in 2025. In August 2026 her defense sought to enter a plea of not criminally responsible, Maryland's insanity defense, and the court ordered a mental evaluation, according to CBS News. On September 23, 2026, the trial, originally set for October 2026, was rescheduled for October 4 to November 5, 2027, according to the MoCo Show and CBS News. Hoggle has not been convicted and is presumed innocent."
   ],
   "timeline": [
    {
     "date": "2014-09-08",
-    "event": "Sarah and Jacob Hoggle are last seen with their mother Catherine."
+    "event": "Troy Turner reports Catherine Hoggle missing; police say Sarah and Jacob were last seen with her (later reports give September 7)."
    },
    {
-    "date": "2014-09-08",
-    "event": "Catherine returns home without the children; gives conflicting accounts."
+    "date": "2014-09-12",
+    "event": "Montgomery County Police locate and arrest Catherine Hoggle; the children are not with her."
    },
    {
-    "date": "2014-09-09",
-    "event": "Police begin searching; Catherine is taken into custody."
-   },
-   {
-    "date": "2020-01-01",
-    "event": "Maryland passes 'Jacob and Sarah's Law' to extend custody limits."
+    "date": "2017",
+    "event": "Hoggle is indicted for murder."
    },
    {
     "date": "2022",
-    "event": "A judge dismisses the murder charges against Catherine Hoggle because she has repeatedly been found incompetent to stand trial."
+    "event": "The murder indictment is dismissed after Hoggle is repeatedly found incompetent to stand trial."
    },
    {
-    "date": "2025-08-01",
-    "event": "Following her July 2025 release from a psychiatric hospital, Catherine Hoggle is reindicted on two counts of first-degree murder and arrested; bond is denied on August 5."
+    "date": "2025-07-09",
+    "event": "Hoggle is released from the Clifton T. Perkins Hospital Center."
+   },
+   {
+    "date": "2025-07-31",
+    "event": "A grand jury indicts Hoggle on two counts of first-degree murder; she is arrested August 1."
+   },
+   {
+    "date": "2025-08-05",
+    "event": "A judge denies bond."
+   },
+   {
+    "date": "2026-08",
+    "event": "The court orders a mental evaluation after the defense seeks a not criminally responsible plea."
    },
    {
     "date": "2026-09-23",
-    "event": "After Hoggle gives notice of a 'not criminally responsible' plea, the court postpones her murder trial to October 2027."
+    "event": "The trial is rescheduled to October 4 - November 5, 2027."
    }
   ],
   "enriched": true
@@ -48840,36 +48997,77 @@
   "country": "United Kingdom",
   "age": 52,
   "gender": "Female",
-  "summary": "Antiques dealer Trevaline Evans vanished from her shop in Llangollen, Wales, leaving a 'Back in 2 minutes' sign on the door. She was never seen again.",
-  "lastSeen": "June 16, 1990, her antiques shop on Castle Street, Llangollen, Wales",
+  "summary": "Antiques dealer Trevaline Evans, 52, left her shop on Church Street in Llangollen, north Wales, on June 16, 1990, with a note on the door saying she would be back in two minutes. Her handbag stayed in the shop and her car nearby. She was last confirmed seen near her home that afternoon and has never been found; no one has been charged.",
+  "lastSeen": "June 16, 1990, about 2:30 p.m., near her home on Market Street, Llangollen, Denbighshire, Wales",
   "tags": [
    "Wales",
    "1990s"
   ],
   "sources": [
    {
-    "title": "Disappearance of Trevaline Evans - Wikipedia",
+    "title": "BBC News - Plea over 20-year mystery of missing Trevaline Evans",
+    "url": "https://www.bbc.com/news/10317563"
+   },
+   {
+    "title": "Denbighshire Free Press - 31 years on - what happened to antiques dealer Trevaline Evans?",
+    "url": "https://www.denbighshirefreepress.co.uk/news/20142169.happened-llangollen-antiques-dealer-trevaline-evans/"
+   },
+   {
+    "title": "Daily Mirror - Chilling message posted on bench linked to missing antiques dealer",
+    "url": "https://www.mirror.co.uk/news/uk-news/chilling-message-posted-bench-linked-26870910"
+   },
+   {
+    "title": "Hue and Cry - The Disappearance of Trevaline Evans",
+    "url": "https://thehueandcry.com/trevaline-evans"
+   },
+   {
+    "title": "Wikipedia - Disappearance of Trevaline Evans",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Trevaline_Evans"
    }
   ],
   "narrative": [
-   "On June 16, 1990, Trevaline Evans, a 52-year-old antiques dealer, was working at her shop on Castle Street in Llangollen, a town in Denbighshire, north-east Wales. At some point during the afternoon, she placed a handwritten sign on the shop door reading 'Back in 2 minutes' and left. She was never seen again.",
-   "When Trevaline failed to return, her husband Richard reported her missing. Her car was found parked near the shop, and she had left her handbag and personal belongings inside. The shop's accounts and paperwork were in order, and there was no indication she had planned to leave.",
-   "The investigation revealed that Trevaline had received a phone call at the shop shortly before her disappearance, which may have prompted her to leave. She had also recently placed an advertisement seeking to buy Victorian jewelry, which investigators speculated may have led her to meet someone. Some theories suggested she encountered someone in connection with her antiques business.",
-   "Despite extensive investigation by North Wales Police, including searches of local waterways and countryside, Trevaline Evans has never been found. The case has been periodically reviewed, and in 2020 police issued renewed appeals for information on the 30th anniversary of her disappearance. The 'Back in 2 minutes' sign has become one of the most haunting details of any missing person case."
+   "Trevaline Evans, a 52-year-old grandmother, ran Attic Antiques on Church Street in Llangollen, Denbighshire. On Saturday, June 16, 1990, she opened the shop as usual at 9:30 a.m. According to the Hue and Cry case summary, about 25 people called or visited during the morning and she appeared relaxed, with plans to go out that evening.",
+   "At about 12:40 p.m. she left the shop and put a note on the door saying she would be back in two minutes, the Denbighshire Free Press reported. At around 1 p.m. she was seen buying an apple and a banana and crossing Castle Street. The last confirmed sighting was near her home on Market Street at about 2:30 p.m.; two later reports of a woman resembling her were never confirmed. The BBC reported that her handbag was left inside the shop and her car was still parked about 200 yards away.",
+   "North Wales Police mounted a large inquiry. According to the BBC, officers took more than 330 statements, checked 1,500 names and logged and eliminated 685 cars. The Mirror reported that no money was ever taken from her bank account. Sightings reported in Australia, London and France were followed up, and searches were carried out along the canal and in woodland at World's End, the Free Press reported, without result.",
+   "The case was reopened in January 2001 in the hope that new forensic methods might help. Later that year her husband, Richard Evans, then 72, was arrested and questioned and was released without charge, according to the BBC. He died years later without ever being charged. Her brother, Len Davies, has said he believes she was abducted. North Wales Police has said the investigation has never been closed.",
+   "In 2019, acting on claims by two brothers that they had filmed remains beneath the floor of Rhuddlan Golf Club, near the family's holiday bungalow, police dug up part of the club but found nothing, the Mirror reported. Anonymous plaques referring to the golf club later appeared on benches in 2021 and 2022; no link to her disappearance has been established. Channel 4 revisited the case in a 2023 documentary series, and the Free Press reported in 2024 that another television crew had filmed in the town. Trevaline Evans has never been found, and no one has been charged in connection with her disappearance."
   ],
   "timeline": [
    {
     "date": "1990-06-16",
-    "event": "Trevaline Evans leaves her shop with a 'Back in 2 minutes' sign and vanishes."
+    "event": "Trevaline Evans opens Attic Antiques on Church Street at 9:30 a.m."
    },
    {
     "date": "1990-06-16",
-    "event": "Her car, handbag, and belongings found at the shop."
+    "event": "At about 12:40 p.m. she leaves a note saying she will be back in two minutes; around 1 p.m. she buys fruit and is seen crossing Castle Street."
    },
    {
-    "date": "2020-06-16",
-    "event": "Police issue renewed appeal on the 30th anniversary."
+    "date": "1990-06-16",
+    "event": "Last confirmed sighting near her home on Market Street at about 2:30 p.m."
+   },
+   {
+    "date": "2001-01",
+    "event": "North Wales Police reopen the case to apply new forensic techniques."
+   },
+   {
+    "date": "2001",
+    "event": "Her husband, Richard Evans, is arrested and questioned, then released without charge."
+   },
+   {
+    "date": "2010-06-16",
+    "event": "On the 20th anniversary her brother calls for a fresh investigation; police say the case has never been closed."
+   },
+   {
+    "date": "2019",
+    "event": "Police excavate part of Rhuddlan Golf Club after a tip from two brothers; nothing is found."
+   },
+   {
+    "date": "2022-05",
+    "event": "A second anonymous plaque about her appears on a bench; its origin is unknown."
+   },
+   {
+    "date": "2023",
+    "event": "The case is re-examined in a Channel 4 documentary series."
    }
   ],
   "enriched": true
@@ -51328,8 +51526,8 @@
   "city": "Richmond",
   "age": 28,
   "gender": "Female",
-  "summary": "Marilyn \"Niqui\" McCown, 28, disappeared on July 22, 2001 in Richmond, Indiana, after doing laundry and stopping at a convenience store, three weeks before her wedding. Her SUV was found in November 2001 at an apartment complex in Dayton, Ohio. She has never been found and no one has been charged.",
-  "lastSeen": "July 22, 2001, leaving a Village Pantry convenience store in Richmond, Indiana",
+  "summary": "Marilyn \"Niqui\" McCown, 28, disappeared on July 22, 2001 in Richmond, Indiana, while doing laundry, less than a month before her planned wedding. She was last recorded on video at a nearby Village Pantry store. The SUV she was driving was found in November 2001 at an apartment complex in Dayton, Ohio. She has never been found and no one has been charged.",
+  "lastSeen": "July 22, 2001, about 3:19 p.m., Village Pantry convenience store near a laundromat in Richmond, Indiana",
   "tags": [
    "Ohio",
    "2000s"
@@ -51338,26 +51536,59 @@
    {
     "title": "NBC News Dateline - Family still fighting for answers 23 years after Indiana woman Niqui McCown disappeared",
     "url": "https://www.nbcnews.com/dateline/cold-case-spotlight/family-still-fighting-answers-23-years-indiana-woman-niqui-mccown-disa-rcna163973"
+   },
+   {
+    "title": "Western Wayne News - 25 years searching for Niqui",
+    "url": "https://westernwaynenews.com/25-years-searching-for-niqui/"
+   },
+   {
+    "title": "Kicks 96 News - Investigators to take renewed look at Niqui McCown case",
+    "url": "https://kicks96.com/local-news/922287"
+   },
+   {
+    "title": "Crime Junkie - Missing: Marilyn \"Niqui\" McCown",
+    "url": "https://crimejunkiepodcast.com/missing-marilyn-niqui-mccown/"
    }
   ],
   "narrative": [
-   "On July 22, 2001, twenty-eight-year-old Marilyn \"Niqui\" McCown was last seen leaving a Village Pantry convenience store in Richmond, Indiana, after doing laundry at a nearby laundromat. Her GMC Jimmy was found in November 2001 near the Meadows of Catalpa apartment complex in Dayton, Ohio.",
-   "The investigation focused on several persons of interest, including men Niqui had been dating. Despite the efforts of the Dayton Police Department and the FBI, no arrests have been made.",
-   "Niqui's family has remained active in keeping her case in the public eye, and the case has been featured on multiple true crime programs.",
-   "The case remains one of Dayton's most prominent unsolved disappearances."
+   "Marilyn Renee Nicole \"Niqui\" McCown, 28, was a mother who worked at a prison in the Richmond, Indiana area and was engaged to Bobby Webster, with a wedding planned for August 18, 2001, according to NBC News Dateline. On Sunday, July 22, 2001, she was doing laundry at a laundromat in Richmond.",
+   "Richmond police detective Mike Wright told Dateline that investigators found store video showing McCown at a Village Pantry near the laundromat at 3:19 p.m. that day, getting change and leaving. It is the last confirmed sighting of her. According to the Crime Junkie podcast's case summary, her family reported her missing to Richmond police the next morning.",
+   "In November 2001, about four months later, the black GMC Jimmy she had been driving, which belonged to her fiance, was found near the Meadows of Catalpa apartment complex in Dayton, Ohio, roughly an hour from Richmond, Dateline reported. Detective Wright said there was no sign of a struggle in the vehicle, though some parts, possibly including the battery, were missing.",
+   "Police have interviewed dozens of friends, relatives and co-workers. According to Dateline, Wright said that her fiance and her former partner are not considered persons of interest; her fiance died in 2021. Wright told Dateline that a former co-worker, Tommy Swint, remains a person of interest. Swint was indicted in 2010 for an unrelated 1991 killing in Dayton and died by suicide when officers tried to arrest him in Alabama, so he was never tried. He has never been charged in connection with McCown's disappearance.",
+   "The case remains open with the Richmond Police Department. In 2024 Dateline reported that detectives had searched wooded areas around Richmond and obtained a computer for forensic review. In 2026 Wright told Kicks 96 News that detectives were working with an Indiana State Police cold case investigator to re-examine evidence, including items recovered from the vehicle, for possible new DNA or fingerprint testing. Her family marked the 25th anniversary of her disappearance with a vigil in Richmond on July 22, 2026, according to Western Wayne News."
   ],
   "timeline": [
    {
-    "date": "2001-07-15",
-    "event": "Niqui McCown disappears after leaving work in Dayton."
+    "date": "2001-07-22",
+    "event": "Niqui McCown is recorded on video at a Village Pantry store in Richmond at 3:19 p.m.; it is the last confirmed sighting."
    },
    {
-    "date": "2001-07-16",
-    "event": "Her car found abandoned at a nearby apartment complex."
+    "date": "2001-07-23",
+    "event": "Her family reports her missing to Richmond police."
    },
    {
-    "date": "2001-11-03",
-    "event": "McCown's SUV found at the Meadows of Catalpa apartment complex in Dayton, Ohio."
+    "date": "2001-08-18",
+    "event": "The date set for her wedding passes."
+   },
+   {
+    "date": "2001-11",
+    "event": "The GMC Jimmy she was driving is found near the Meadows of Catalpa apartments in Dayton, Ohio."
+   },
+   {
+    "date": "2010",
+    "event": "Tommy Swint, whom police call a person of interest, is indicted in an unrelated 1991 Dayton killing and dies by suicide during an arrest attempt."
+   },
+   {
+    "date": "2024",
+    "event": "Dateline reports new searches of wooded areas and forensic review of evidence by Richmond police."
+   },
+   {
+    "date": "2026",
+    "event": "Richmond police and an Indiana State Police cold case investigator begin re-examining evidence for new forensic testing."
+   },
+   {
+    "date": "2026-07-22",
+    "event": "Family holds a vigil in Richmond on the 25th anniversary."
    }
   ],
   "enriched": true
@@ -55070,7 +55301,7 @@
    "On June 1, 2012, Holland was found in his SUV on an isolated dirt road with a gunshot wound to the back of his head, the AP reported. His death was ruled a suicide, although authorities told the AP the location of the wound was unusual for a self-inflicted injury. He had been scheduled to be questioned about child sexual abuse allegations. Mobile police have said they believe Holland was involved in Brittney's disappearance, according to Fox 10; he died without being charged.",
    "The investigation into her disappearance exposed extensive sexual abuse of children within her extended family. The AP reported that eight adult relatives and three family friends were charged with dozens of felonies in Mobile and Baldwin counties. Two uncles, Dustin Kent and Scott Wood, were arrested within weeks and later pleaded guilty to rape and sodomy, and a family friend was convicted in October 2014. Newsweek reports that Holland's widow, Wendy Holland, was sentenced to 219 years. Prosecutors told the AP that Brittney could have been an important witness. None of these cases produced information about where she is.",
    "Searches have continued. Fox 10 reports that a property in Grand Bay was searched in 2020 without result, and a billboard seeking tips was put up in Mobile in 2022, a decade after she vanished.",
-   "As of 2025 coverage, Brittney Wood had not been found, no one had been charged in connection with her disappearance, and the Mobile Police Department was still asking for information."
+   "As of 2025 coverage, Brittney Wood had not been found, no one had been charged in connection with her disappearance, and the Mobile Police Department was still asking for information. Newsweek quoted Baldwin County Sheriff Huey Mack as saying in 2021 that closure would come only when those responsible were indicted and her body was located."
   ],
   "timeline": [
    {
@@ -57366,28 +57597,73 @@
   "country": "Germany",
   "age": 13,
   "gender": "Male",
-  "summary": "Thirteen-year-old Tristan Brübach was brutally murdered in an underground pedestrian passage in Frankfurt, Germany. The case remains one of Germany's most notorious unsolved child murders.",
-  "lastSeen": "March 26, 1998, Liederbach pedestrian tunnel, Frankfurt, Germany",
+  "summary": "Thirteen-year-old Tristan Brübach was killed on the afternoon of March 26, 1998 in a pedestrian tunnel along the Liederbach stream near Frankfurt-Höchst railway station, where children found his body. Despite one of Germany's largest fingerprint screenings, the killer has not been identified, and police offer a reward of up to 20,000 euros.",
+  "lastSeen": "March 26, 1998, near Frankfurt-Höchst railway station, Frankfurt am Main, Germany",
   "tags": [
    "child",
    "1990s"
   ],
   "sources": [
    {
+    "title": "Polizei Hessen - Cold Case: Mordfall an dem 13-jährigen Tristan Brübach",
+    "url": "https://www.polizei.hessen.de/ungeklaerte-mordfaelle/cold-case-mordfall-an-dem-13-jaehrigen-tristan-bruebach"
+   },
+   {
+    "title": "BKA - Fahndung nach Personen: BRÜBACH, Tristan (Sachverhalt)",
+    "url": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Br%C3%BCbach_Tristan/Sachverhalt_Br%C3%BCbach_Tristan.html"
+   },
+   {
+    "title": "BKA - Mord an Tristan Brübach: Fingerabdruckmaßnahme",
+    "url": "https://www.bka.de/DE/IhreSicherheit/Fahndungen/Personen/UnbekanntePersonen/Br%C3%BCbach_Tristan/bruebachFingerabdruckma%C3%9Fnahme.html"
+   },
+   {
+    "title": "t-online Frankfurt - Frankfurt 1998: Mord an 13-jährigem Tristan Brübach bis heute ungeklärt",
+    "url": "https://frankfurt.t-online.de/region/frankfurt-am-main/id_100487360/frankfurt-1998-mord-an-13-jaehrigem-tristan-bruebach-bis-heute-ungeklaert.html"
+   },
+   {
+    "title": "t-online Frankfurt - Cold Case Tristan Brübach: Polizei äußert sich zu Ermittlungen",
+    "url": "https://frankfurt.t-online.de/region/frankfurt-am-main/id_100150104/cold-case-tristan-bruebach-in-frankfurt-polizei-aeussert-sich-zu-ermittlungen.html"
+   },
+   {
     "title": "Wikipedia (de) - Mordfall Tristan",
     "url": "https://de.wikipedia.org/wiki/Mordfall_Tristan"
    }
   ],
   "narrative": [
-   "On March 26, 1998, thirteen-year-old Tristan Brübach was found murdered in a pedestrian underpass beneath a railway line in the Liederbach area of Frankfurt am Main, Germany. He had been brutally beaten and mutilated.",
-   "Tristan was last seen alive at about 3:20 p.m. sitting on a bench in a small park near Frankfurt-Höchst station; his body was found shortly after 5 p.m. in the nearby Liederbach tunnel. Despite people in the area, the perpetrator was never identified.",
-   "The investigation was one of the largest in Hessen police history. DNA evidence was collected from the scene, and thousands of individuals were tested over the years. Several suspects were investigated but cleared.",
-   "The case remains unsolved and is regularly featured in German true crime media. Frankfurt police continue to pursue leads and have periodically made public appeals for information."
+   "Tristan Brübach, 13, was killed on Thursday, March 26, 1998, in Frankfurt am Main. According to the Hessen police cold-case page and the Federal Criminal Police Office (BKA), the attack took place at around 4 p.m. in a tunnel beside the Liederbach stream near Frankfurt-Höchst railway station, a passage local people used as a shortcut. Children found his body there.",
+   "The BKA states that he suffered severe stab and cut wounds, and that a deep cut to the neck was the cause of death; the body was further mutilated inside the tunnel after death. Police say they have no firm indication of the motive and do not know whether the killer waited at the scene, lured the boy there or followed him. German Wikipedia records that he was last seen alive at about 3:20 p.m. in a small park near the station.",
+   "Witnesses described a man seen near the scene, and police released a composite sketch. According to the BKA, he was about 175 cm tall, aged 20 to 30 at the time, thin and pale, with long, greasy dark-blond hair worn in a ponytail and a scar on the upper lip, possibly from a cleft lip. His backpack was found about a year later in woodland near Niedernhausen, some distance from Frankfurt, t-online reported; the BKA has published photos of it and of items including a road map of Germany printed in Czech.",
+   "Beginning on May 10, 2002, police asked men aged 18 to 49 who had lived in the Frankfurt districts of Höchst, Unterliederbach, Sossenheim, Nied, Sindlingen and Zeilsheim at the time to give fingerprints for comparison with a print recovered in the case. The BKA describes the scale as unprecedented and reports very high participation, but no match was found. Investigators have said the killer may since have moved away.",
+   "In 2016 the Hessian State Criminal Police said the late Manfred Seel, suspected of killing several women, might be linked to the case; according to t-online and German Wikipedia, no concrete suspicion resulted and police later said he had been ruled out. As of late 2025, t-online reported that the Frankfurt police cold-case unit was still checking incoming tips, of which there have been more than 23,000, but that no promising leads had emerged recently. A reward of up to 20,000 euros remains on offer, and the case is unsolved."
   ],
   "timeline": [
    {
+    "date": "1984-10-03",
+    "event": "Tristan Brübach is born, according to German Wikipedia."
+   },
+   {
     "date": "1998-03-26",
-    "event": "Tristan Brübach found murdered in a Frankfurt pedestrian tunnel."
+    "event": "Tristan is killed at around 4 p.m. in the Liederbach tunnel near Frankfurt-Höchst station; children find his body."
+   },
+   {
+    "date": "1999-03",
+    "event": "His backpack is found in woodland near Niedernhausen."
+   },
+   {
+    "date": "2002-05-10",
+    "event": "Police begin a voluntary fingerprint screening of men from six western Frankfurt districts."
+   },
+   {
+    "date": "2008-04-02",
+    "event": "The case is featured on the ZDF programme Aktenzeichen XY ... ungelöst, according to German Wikipedia."
+   },
+   {
+    "date": "2016-05",
+    "event": "State investigators say the late Manfred Seel may be connected; he is later ruled out."
+   },
+   {
+    "date": "2025-12",
+    "event": "Frankfurt police say tips are still being checked but no promising leads have come in recently."
    }
   ],
   "enriched": true
@@ -58667,33 +58943,75 @@
   "id": "chad-isaak-2019",
   "name": "RJR Maintenance Murders",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2019,
   "date": "April 1, 2019",
   "state": "North Dakota",
   "city": "Mandan",
   "age": null,
   "gender": "Multiple",
-  "summary": "Four people were murdered at RJR Maintenance in Mandan, North Dakota. Chiropractor Chad Isaak, a tenant of the property management company, was convicted after his car was caught on surveillance.",
-  "lastSeen": "April 1, 2019, RJR Maintenance & Management, Mandan, North Dakota",
+  "summary": "Four employees of RJR Maintenance and Management in Mandan, North Dakota, were shot and stabbed to death on April 1, 2019. Washburn chiropractor Chad Isaak, whose mobile home sat on a property RJR managed, was convicted of four murders in August 2021 and sentenced to four consecutive life terms. He died in prison in July 2022; his conviction stands.",
+  "lastSeen": "April 1, 2019, RJR Maintenance and Management, Mandan, North Dakota",
   "tags": [
    "2010s"
   ],
-  "sources": [],
+  "sources": [
+   {
+    "title": "Forum News Service / InForum - North Dakota man sentenced to life in prison in Mandan quadruple murder",
+    "url": "https://www.inforum.com/news/north-dakota/north-dakota-man-sentenced-to-life-in-prison-in-mandan-quadruple-murder"
+   },
+   {
+    "title": "KFYR - Chad Isaak sentenced to life in prison without parole for RJR murders",
+    "url": "https://www.kfyrtv.com/2021/12/28/chad-isaak-sentenced-life-prison-without-parole-rjr-murders/"
+   },
+   {
+    "title": "Dakota News Now - Convicted murderer Chad Isaak died in custody by suicide",
+    "url": "https://www.dakotanewsnow.com/2022/08/01/convicted-murderer-chad-isaak-died-custody-by-self-harm/"
+   },
+   {
+    "title": "KFYR - Prison guard on duty at time of Chad Isaak's death has been fired",
+    "url": "https://www.kfyrtv.com/2022/09/23/prison-guard-duty-time-chad-isaaks-death-has-been-fired/"
+   },
+   {
+    "title": "Valley News Live - Case closed in Chad Isaak case, Justices favor victim's rights",
+    "url": "https://www.valleynewslive.com/2023/03/16/case-closed-chad-isaak-case-justices-favor-victims-rights/"
+   }
+  ],
   "narrative": [
-   "On April 1, 2019, four people were found shot and stabbed at RJR Maintenance & Management in Mandan, North Dakota. The victims were property manager Robert Fakler (52), and employees Adam Fuehrer (42), Bill Cobb (50), and Lois Cobb (45).",
-   "Surveillance cameras in the area captured a distinctive pickup truck and SUV near the business at the time of the murders. The vehicles were traced to Chad Isaak, 44, a chiropractor from Washburn, North Dakota.",
-   "Isaak was a tenant of the property management company. He had disputes with management about property maintenance issues. Bloody clothing and a knife matching the crime were found in his home.",
-   "Isaak was convicted of four counts of murder in 2021 and sentenced to four consecutive life sentences without parole. His motive was never fully established beyond the landlord-tenant dispute."
+   "On April 1, 2019, four people were killed at the offices of RJR Maintenance and Management, a property management company in Mandan, North Dakota. The victims were co-owner Robert Fakler, 52, Adam Fuehrer, 42, and married couple William 'Bill' Cobb, 50, and Lois Cobb, 45, according to Forum News Service. Three of them were shot, and together the four had more than 100 stab wounds, KFYR reported.",
+   "Chad Isaak, a chiropractor from Washburn, North Dakota, was charged with the killings. Forum News Service reported that Isaak's mobile home was on a property managed by RJR. At trial, prosecutors presented surveillance video from RJR and nearby businesses that they said showed he had planned the attack at least a week in advance, along with DNA and fiber evidence and items found at his home, including spent ammunition, a knife and gun parts that smelled of bleach. Prosecutors also said he left the scene in an RJR pickup. According to KFYR, no clear motive was presented at trial, although prosecutors pointed to his past as a Navy medic as relevant to his ability to carry out the attack.",
+   "On August 20, 2021, a jury found Isaak guilty of four counts of murder, along with burglary and offenses related to the RJR vehicle. On December 28, 2021, South Central District Judge David Reich sentenced him to four consecutive terms of life without the possibility of parole, calling the killings senseless and noting that Isaak had shown no remorse. Isaak told the court he was not a murderer.",
+   "Isaak appealed to the North Dakota Supreme Court. On July 31, 2022, before the appeal was decided, he was found dead in his cell at the North Dakota State Penitentiary; prison officials said his death was self-inflicted. A sergeant on duty was later fired after an internal review found he had not carried out required checks, KFYR reported.",
+   "On March 16, 2023, the North Dakota Supreme Court dismissed the appeal as moot and declined to vacate the conviction, reasoning that the statutory rights of a deceased defendant could not override the constitutional rights of the living victims' families, according to Valley News Live. Isaak's convictions therefore remain in place."
   ],
   "timeline": [
    {
     "date": "2019-04-01",
-    "event": "Four murdered at RJR Maintenance in Mandan."
+    "event": "Robert Fakler, Adam Fuehrer, William Cobb and Lois Cobb are killed at RJR Maintenance and Management in Mandan."
    },
    {
-    "date": "2021-08-19",
-    "event": "Chad Isaak convicted; sentenced to four life terms."
+    "date": "2021-08-20",
+    "event": "A jury convicts Chad Isaak of four counts of murder, burglary and vehicle-related offenses."
+   },
+   {
+    "date": "2021-12-28",
+    "event": "Judge David Reich sentences Isaak to four consecutive life terms without parole."
+   },
+   {
+    "date": "2022-06-30",
+    "event": "Isaak appeals his convictions to the North Dakota Supreme Court."
+   },
+   {
+    "date": "2022-07-31",
+    "event": "Isaak dies by suicide at the North Dakota State Penitentiary while his appeal is pending."
+   },
+   {
+    "date": "2022-09-23",
+    "event": "A prison sergeant on duty at the time is reported fired after an internal investigation."
+   },
+   {
+    "date": "2023-03-16",
+    "event": "The North Dakota Supreme Court dismisses the appeal as moot and leaves the convictions in place."
    }
   ],
   "enriched": true
@@ -58794,14 +59112,14 @@
   "id": "nikki-kuhnhausen-2019",
   "name": "Nikki Kuhnhausen",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2019,
   "date": "June 6, 2019",
   "state": "Washington",
   "city": "Vancouver",
   "age": 17,
   "gender": "Female",
-  "summary": "Seventeen-year-old transgender girl Nikki Kuhnhausen was killed in June 2019 by David Bogdanov after he learned she was transgender. Her remains were found on Larch Mountain in Clark County six months later. Bogdanov was convicted in 2021 of second-degree murder and malicious harassment, a hate crime.",
+  "summary": "Nikki Kuhnhausen, a 17-year-old transgender girl from Vancouver, Washington, went missing on June 6, 2019 after spending time with David Bogdanov. Her remains were found on Larch Mountain in Clark County in December 2019. In August 2021 a jury convicted Bogdanov of second-degree murder and malicious harassment, Washington's hate-crime offense; he was sentenced to nearly 20 years.",
   "lastSeen": "June 6, 2019, Vancouver, Clark County, Washington",
   "tags": [
    "2010s",
@@ -58809,28 +59127,58 @@
   ],
   "sources": [
    {
-    "title": "KATU - Man sentenced for the murder of transgender teen",
+    "title": "KATU - Man sentenced to more than 20 years in prison for the murder of transgender teen",
     "url": "https://katu.com/news/local/man-sentenced-to-more-than-20-years-in-prison-for-the-murder-of-transgender-teen"
+   },
+   {
+    "title": "CBS News - Man convicted in transgender teen's murder sentenced",
+    "url": "https://www.cbsnews.com/news/nikki-kuhnhausen-murder-transgender-teen-david-bogdanov-sentenced/"
+   },
+   {
+    "title": "CBS News - Nikki Kuhnhausen death: Transgender teen's murder launches nationwide movement",
+    "url": "https://www.cbsnews.com/news/nikki-kuhnhausen-david-bogdanov-transgender-teens-murder-new-law/"
+   },
+   {
+    "title": "Washington Courts - State v. Bogdanov, No. 102307-3, Petition for Review",
+    "url": "https://www.courts.wa.gov/content/petitions/102307-3%20Petition%20for%20Review.pdf"
    }
   ],
   "narrative": [
-   "On June 6, 2019, seventeen-year-old Nikki Kuhnhausen, a transgender girl, disappeared from Vancouver, Washington. She was last seen getting into a car with a man identified through social media as David Bogdanov.",
-   "Bogdanov initially denied knowing Nikki but cell phone records placed them together. He later admitted they had a sexual encounter and he killed her after discovering she was transgender.",
-   "Nikki's remains were found in a wooded area of Clark County in December 2019, six months after her disappearance. She had been strangled.",
-   "Bogdanov was convicted on August 27, 2021 of second-degree murder and malicious harassment, Washington's hate-crime offense, and was sentenced on September 9, 2021 to about 20 years in prison."
+   "Nikki Kuhnhausen was a 17-year-old transgender girl from Vancouver, Washington, who went missing on June 6, 2019, according to CBS News. A petition later filed on behalf of the man convicted of her killing states that she had been with David Bogdanov and others from the evening of June 5 into the early hours of the following morning.",
+   "On December 7, 2019, her remains were found in woods near Larch Mountain in northeast Clark County, CBS News reported. Bogdanov was arrested on December 17, 2019. According to CBS News, investigators determined that she had been strangled with a phone charging cord.",
+   "At trial in Clark County Superior Court, Bogdanov claimed that he acted in self-defense after learning during a sexual encounter that Kuhnhausen was transgender and that she then attacked him, according to KATU. Prosecutors argued that the evidence contradicted his account. On August 27, 2021 the jury found him guilty of second-degree murder and malicious harassment, the offense Washington uses to prosecute hate crimes, KATU reported.",
+   "On September 9, 2021, Judge David Gregerson sentenced Bogdanov to nearly 20 years in prison, the top of the range, KATU and CBS News reported. The judge noted the age difference between them, that Bogdanov had supplied alcohol to a minor, and the way her remains were disposed of, according to the reports.",
+   "Bogdanov appealed. Division II of the Washington Court of Appeals affirmed the conviction in a published opinion issued on July 25, 2023, according to a petition for review later filed with the Washington Supreme Court on his behalf. The sources reviewed did not report the outcome of that petition.",
+   "The case prompted Washington to pass a law named for her, Nikki's Law, which bars defendants in violent crime cases from using a victim's sexual orientation or gender identity as a defense, the so-called panic defense, according to CBS News."
   ],
   "timeline": [
    {
     "date": "2019-06-06",
-    "event": "Nikki Kuhnhausen disappears."
+    "event": "Nikki Kuhnhausen, 17, goes missing in Vancouver, Washington."
    },
    {
     "date": "2019-12-07",
-    "event": "Her remains found."
+    "event": "Her remains are found near Larch Mountain in northeast Clark County."
+   },
+   {
+    "date": "2019-12-17",
+    "event": "David Bogdanov is arrested."
    },
    {
     "date": "2021-08-27",
-    "event": "Bogdanov convicted of second-degree murder and malicious harassment; sentenced to about 20 years on September 9, 2021."
+    "event": "Jury convicts Bogdanov of second-degree murder and malicious harassment."
+   },
+   {
+    "date": "2021-09-09",
+    "event": "Bogdanov is sentenced to nearly 20 years in prison."
+   },
+   {
+    "date": "2023-07-25",
+    "event": "Washington Court of Appeals, Division II, affirms the conviction."
+   },
+   {
+    "date": "2023-08-24",
+    "event": "Bogdanov petitions the Washington Supreme Court for review."
    }
   ],
   "enriched": true
@@ -59332,11 +59680,11 @@
   "year": 1994,
   "date": "March 23, 1994",
   "state": "New York",
-  "city": "Owego",
+  "city": "Newark Valley",
   "age": null,
   "gender": "Multiple",
-  "summary": "Waneta Hoyt murdered her five children between 1965 and 1971, presenting each death as SIDS. Her case was cited in medical literature supporting SIDS research before the truth emerged.",
-  "lastSeen": "1965-1971, Owego, Tioga County, New York",
+  "summary": "Five infants and toddlers born to Waneta and Tim Hoyt of Newark Valley, New York, died suddenly between 1965 and 1971, and their deaths were attributed to SIDS. In March 1994 Waneta Hoyt confessed to smothering them, then recanted. A Tioga County jury convicted her of five murders in 1995; she died in prison in 1998 with her appeal pending, which under New York law abated the conviction.",
+  "lastSeen": "1965-1971, Newark Valley, Tioga County, New York",
   "tags": [
    "serial murder",
    "children",
@@ -59344,32 +59692,77 @@
   ],
   "sources": [
    {
-    "title": "Waneta Hoyt - Wikipedia",
+    "title": "Los Angeles Times - Column One: A Mother Who Lost Five Babies (May 22, 1994)",
+    "url": "https://www.latimes.com/archives/la-xpm-1994-05-22-mn-60929-story.html"
+   },
+   {
+    "title": "Encyclopedia.com - Waneta Hoyt Trial: 1995",
+    "url": "https://www.encyclopedia.com/law/law-magazines/waneta-hoyt-trial-1995"
+   },
+   {
+    "title": "Radford University Department of Psychology - Waneta Ethel Hoyt case timeline (PDF)",
+    "url": "https://maamodt.asp.radford.edu/Psyc%20405/serial%20killers/Hoyt,%20Waneta.pdf"
+   },
+   {
+    "title": "Wikipedia - Waneta Hoyt",
     "url": "https://en.wikipedia.org/wiki/Waneta_Hoyt"
    }
   ],
   "narrative": [
-   "Between 1965 and 1971, Waneta Hoyt of Owego, New York lost all five of her children—Erik, James, Julie, Molly, and Noah—to what was diagnosed as Sudden Infant Death Syndrome (SIDS). Each child died between the ages of 48 days and 28 months.",
-   "A prominent pediatrician published Hoyt's cases in medical literature as evidence supporting theories about SIDS and genetic vulnerability. The cases were influential in shaping medical understanding of infant death for decades.",
-   "In 1994, a prosecutor reopened the cases. Under interrogation, Hoyt confessed to smothering all five children, saying she killed them because she couldn't tolerate their crying. She later recanted.",
-   "Hoyt was convicted of five counts of second-degree murder in 1995 and sentenced to 75 years to life. She died in prison in 1998. The case led to reforms in how infant deaths are investigated and how SIDS is diagnosed."
+   "Waneta and Tim Hoyt lived in Newark Valley, a small village in Tioga County, New York. Between 1965 and 1971 all five of their biological children died suddenly: Eric in January 1965 at about three months old, Julie in September 1968 at about six weeks, James later that same month at two years old, Molly in June 1970 and Noah in July 1971, each at about two and a half months, according to Wikipedia and a case timeline compiled at Radford University. The deaths were attributed to sudden infant death syndrome. The couple later adopted a son.",
+   "Molly and Noah had been studied at Upstate Medical Center in Syracuse by Dr. Alfred Steinschneider, who in 1972 published a paper in the journal Pediatrics, without naming the family, suggesting that prolonged pauses in breathing might link SIDS deaths within a family. The Los Angeles Times reported in 1994 that the article was widely cited as evidence that SIDS could run in families, while some physicians had long suspected smothering.",
+   "In 1985, forensic pathologist Dr. Linda Norton told a prosecutor from a neighboring county, William Fitzpatrick, that the case described in the paper might involve a serial killer. After Fitzpatrick became a district attorney in 1992, he located the family and had forensic pathologist Michael Baden review the deaths; Baden concluded they were homicides, according to Wikipedia.",
+   "In March 1994 Hoyt was questioned by New York State Police investigators and, after about two hours, gave a statement admitting that she had suffocated each child, the Los Angeles Times reported. She was charged on March 23, 1994. Through her court-appointed lawyers she soon recanted, saying she would have admitted anything to end the questioning.",
+   "Her trial took place in Tioga County Court in Owego before Judge Vincent Sgueglia from March 30 to April 21, 1995, according to the Encyclopedia.com account of the trial. The jury found her guilty of five counts of second-degree murder, and on September 11, 1995, she was sentenced to 75 years to life, 15 years for each death. Hoyt died of pancreatic cancer in August 1998 while held at Bedford Hills Correctional Facility. Because her appeal had not been decided, her conviction was abated under New York law, according to Wikipedia."
   ],
   "timeline": [
    {
     "date": "1965-01-26",
-    "event": "First child Erik dies."
+    "event": "Eric Hoyt dies at about three months old."
+   },
+   {
+    "date": "1968-09-05",
+    "event": "Julie Hoyt dies at about six weeks old."
+   },
+   {
+    "date": "1968-09-26",
+    "event": "James Hoyt dies at two years old."
+   },
+   {
+    "date": "1970-06-05",
+    "event": "Molly Hoyt dies soon after discharge from Upstate Medical Center."
    },
    {
     "date": "1971-07-28",
-    "event": "Fifth child Noah dies."
+    "event": "Noah Hoyt dies soon after discharge from Upstate Medical Center."
+   },
+   {
+    "date": "1972",
+    "event": "Dr. Alfred Steinschneider's paper linking apnea and SIDS, based partly on Molly and Noah, appears in Pediatrics."
+   },
+   {
+    "date": "1985",
+    "event": "Dr. Linda Norton raises the possibility of homicide with prosecutor William Fitzpatrick."
    },
    {
     "date": "1994-03-23",
-    "event": "Hoyt arrested after confessing."
+    "event": "After questioning by state police, Waneta Hoyt is charged with murder; she later recants her statement."
+   },
+   {
+    "date": "1995-03-30",
+    "event": "Trial opens in Tioga County Court in Owego."
    },
    {
     "date": "1995-04-21",
-    "event": "Convicted of five murders."
+    "event": "Jury convicts Hoyt of five counts of second-degree murder."
+   },
+   {
+    "date": "1995-09-11",
+    "event": "Hoyt is sentenced to 75 years to life."
+   },
+   {
+    "date": "1998-08",
+    "event": "Hoyt dies of pancreatic cancer in prison with her appeal pending; the conviction abates."
    }
   ],
   "enriched": true
@@ -63572,10 +63965,10 @@
   ],
   "narrative": [
    "Brianna Ghey was a 16-year-old transgender girl from the Warrington area of Cheshire, England. According to the Court of Appeal's 2024 judgment, on the afternoon of February 11, 2023, she met two 15-year-old schoolmates, Scarlett Jenkinson and Eddie Ratcliffe, in the village of Culcheth, and the three walked together into Linear Park. There she was stabbed 28 times to the head, neck, chest and back with a hunting knife that Ratcliffe had bought weeks earlier, and she died of her injuries.",
-   "Both teenagers were arrested the following day and charged with murder, according to Wikipedia's summary of police statements. Their trial at Manchester Crown Court began in late November 2023; each blamed the other. On December 20, 2023, the jury convicted both of murder.",
-   "At sentencing on February 2, 2024, Mrs Justice Amanda Yip described the killing as brutal, planned and sadistic in nature, and found that hostility to Brianna because of her transgender identity was a secondary motivation, as reported by NBC News and CBS News. Prosecutors had relied on handwritten plans and phone messages showing weeks of premeditation. The judge lifted the reporting restrictions that had protected the defendants' identities during the trial, citing the strong public interest in the case.",
-   "Both were sentenced to detention at His Majesty's pleasure, the life sentence for murderers under 18, with a minimum term of 22 years for Jenkinson and 20 years for Ratcliffe. The judge treated Jenkinson as the leading figure in the plan. On December 5, 2024, the Court of Appeal, led by the Lady Chief Justice, refused Ratcliffe permission to appeal, finding his minimum term neither manifestly excessive nor wrong in principle.",
-   "Brianna's mother, Esther Ghey, has since campaigned on children's access to smartphones and social media and for mindfulness teaching in schools, according to Wikipedia."
+   "Both teenagers were arrested the following day and charged with murder, according to Wikipedia's summary of police statements. Their trial at Manchester Crown Court began in late November 2023. On December 20, 2023, the jury convicted both of murder.",
+   "At sentencing on February 2, 2024, Mrs Justice Amanda Yip described the killing as brutal, planned and sadistic in nature, and found that hostility to Brianna because of her transgender identity was a secondary motivation, as reported by NBC News and CBS News. Prosecutors had relied on handwritten plans and phone messages showing weeks of premeditation; according to NBC News, the pair had also discussed killing other people and shared an interest in violence, torture and serial killers. The judge lifted the reporting restrictions that had protected the defendants' identities during the trial, citing the strong public interest in the case.",
+   "Both were sentenced to detention at His Majesty's pleasure, the life sentence for murderers under 18, with a minimum term of 22 years for Jenkinson and 20 years for Ratcliffe. The judge treated Jenkinson as the leading figure in the plan. On December 5, 2024, the Court of Appeal, led by the Lady Chief Justice, refused Ratcliffe permission to appeal, finding his minimum term neither manifestly excessive nor wrong in principle. CBS News reported that neither had previously come to police attention and that both would move to adult prisons on turning 18.",
+   "Brianna's mother, Esther Ghey, has since campaigned for a ban on smartphones for children under 16 and for mindfulness teaching in schools, according to Wikipedia, which reports that her petition had passed 90,000 signatures by February 2024."
   ],
   "timeline": [
    {
