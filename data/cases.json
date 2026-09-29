@@ -39535,8 +39535,8 @@
   "age": null,
   "gender": "Female",
   "country": "United Kingdom",
-  "summary": "Three young women were strangled after leaving the Barrowland Ballroom in Glasgow between 1968 and 1969. The suspect, nicknamed 'Bible John' for quoting scripture, was never identified despite being Scotland's most famous serial murder case.",
-  "lastSeen": "Various dates 1968-1969, Barrowland Ballroom, Glasgow",
+  "summary": "Patricia Docker, 25, Jemima MacDonald, 31, and Helen Puttock, 29, were each strangled after nights out at Glasgow's Barrowland Ballroom between February 1968 and October 1969. The killer, dubbed 'Bible John' after the man who quoted scripture in a taxi with Puttock, has never been identified. Police Scotland says the murders remain unresolved and subject to review.",
+  "lastSeen": "Various dates 1968-1969, after dances at the Barrowland Ballroom, Glasgow",
   "tags": [
    "serial killer",
    "international",
@@ -39544,32 +39544,61 @@
   ],
   "sources": [
    {
-    "title": "Bible John - Wikipedia",
+    "title": "STV News - Claims made in BBC Bible John podcast investigated by police",
+    "url": "https://news.stv.tv/west-central/claims-made-in-bbc-bible-john-podcast-investigated-by-police"
+   },
+   {
+    "title": "Yahoo News (The Telegraph) - 'Bible John' serial killer podcast claims lead to Police Scotland investigation",
+    "url": "https://news.yahoo.com/bible-john-serial-killer-podcast-190915659.html"
+   },
+   {
+    "title": "Berkshire Live - Wokingham husband of murdered woman casts doubt over unearthed painting of serial killer Bible John",
+    "url": "https://www.getreading.co.uk/news/reading-berkshire-news/wokingham-husband-murdered-woman-casts-21077204"
+   },
+   {
+    "title": "Wikipedia - Bible John",
     "url": "https://en.wikipedia.org/wiki/Bible_John"
    }
   ],
   "narrative": [
-   "Between February 1968 and October 1969, three young women were murdered in Glasgow, Scotland after attending Thursday night dances at the Barrowland Ballroom on Gallowgate. Patricia Docker (25) was found strangled on February 23, 1968. Jemima McDonald (32) was found in a derelict building on August 16, 1969. Helen Puttock (29) was found strangled in her own backyard on October 31, 1969. All three women were menstruating at the time of their deaths, a detail that would prove significant.",
-   "The crucial witness was Jean Langford, Helen Puttock's sister, who had shared a taxi with Helen and the suspect after the dance on the night Helen was killed. Jean described a tall, slim, well-dressed man with reddish-brown hair who quoted extensively from the Bible and expressed strong views about adultery and promiscuity. He gave his name as 'John.' This description earned him the nickname 'Bible John' in the press.",
-   "The Glasgow police investigation was one of the largest in Scottish history. Over 50,000 statements were taken, thousands of men were interviewed, and Jean Williams worked with police on numerous identification attempts. A detailed composite sketch was circulated widely. Despite the extensive effort, Bible John was never identified.",
-   "In the 1990s and 2000s, police reinvestigated using DNA technology and briefly focused on John Irvine McInnes, a distant relative of one of the victims who had committed suicide in 1980. His body was exhumed in 1996 for DNA comparison; the initial results were inconclusive, and later testing excluded McInnes as the source of the crime-scene DNA. The investigation was scaled back but has never been officially closed. Bible John remains Scotland's most notorious unidentified serial killer."
+   "Between February 1968 and October 1969, three women were murdered in Glasgow after spending the evening at the Barrowland Ballroom, a dance hall in the city's East End. According to reporting by The Telegraph (via Yahoo News) and STV, Patricia Docker was 25, Jemima MacDonald was 31 and Helen Puttock was 29. Police said the cases shared several features: each woman had been at the Barrowland, was strangled, and had her handbag taken.",
+   "Patricia Docker, an auxiliary nurse and mother of one, was found in a lane in the Battlefield area of the city's south side on February 23, 1968, having been killed the previous night, according to Wikipedia's account. Jemima MacDonald, a mother of three, left the Barrowland with a man shortly after midnight on August 17, 1969; her sister found her body in a derelict tenement on MacKeith Street the following Monday. Police circulated a composite image of the man she had been seen with, the first time such a drawing was published in a Scottish murder inquiry.",
+   "Helen Puttock was found on October 31, 1969, behind her home on Earl Street in Scotstoun. She and her sister, Jean Langford, had spent the previous evening at the Barrowland with two men who both called themselves John. One of them shared a taxi with the sisters, and Langford later told police he quoted from the Bible and spoke disapprovingly of adultery. Her description of him led the press to call the killer 'Bible John.' More than 100 detectives worked on the case and tens of thousands of statements were taken, but no one was charged.",
+   "In 1996, during a review of the case, the body of John Irvine McInnes, who had died in 1980, was exhumed so his DNA could be compared with evidence from Helen Puttock's clothing. STV reported that the result was inconclusive and that McInnes was formally cleared; Wikipedia reports that improved testing later ruled out a match. The convicted killer Peter Tobin was also examined by police and eliminated.",
+   "In October 2023, Police Scotland said it was assessing claims made in the BBC podcast 'Bible John: Creation of the Serial Killer,' including allegations about how the original inquiry was handled. A police spokesman said the murders of Helen Puttock, Jemima MacDonald and Patricia Docker remain unresolved and that any new information would be investigated. Some, including Puttock's husband, have questioned whether all three women were killed by the same man."
   ],
   "timeline": [
    {
     "date": "1968-02-22",
-    "event": "Patricia Docker is found strangled after attending the Barrowland Ballroom."
+    "event": "Patricia Docker, 25, spends the evening dancing and is killed that night."
    },
    {
-    "date": "1969-08-16",
-    "event": "Jemima McDonald is found murdered in a derelict building."
+    "date": "1968-02-23",
+    "event": "Docker's body is found in a lane in the Battlefield district of Glasgow."
+   },
+   {
+    "date": "1969-08-17",
+    "event": "Jemima MacDonald, 31, leaves the Barrowland with a man shortly after midnight and is killed."
+   },
+   {
+    "date": "1969-08-18",
+    "event": "MacDonald's sister finds her body in a derelict building on MacKeith Street."
    },
    {
     "date": "1969-10-31",
-    "event": "Helen Puttock is murdered; her sister Jean provides a detailed description of the suspect."
+    "event": "Helen Puttock, 29, is found dead behind her home in Scotstoun after a night at the Barrowland with her sister."
    },
    {
-    "date": "1996-01-01",
-    "event": "Suspect John McInnes is exhumed for DNA testing; results are inconclusive."
+    "date": "1996",
+    "event": "John Irvine McInnes, who died in 1980, is exhumed for DNA comparison; the result is inconclusive and he is formally cleared."
+   },
+   {
+    "date": "2021-07",
+    "event": "Helen Puttock's husband publicly questions the basis of the Bible John portrait."
+   },
+   {
+    "date": "2023-10-11",
+    "event": "Police Scotland says it is assessing claims made in a BBC podcast about the original investigation."
    }
   ],
   "enriched": true
@@ -40825,57 +40854,6 @@
    {
     "date": "2025-11",
     "event": "Local media mark the eighteenth anniversary; he is still missing."
-   }
-  ],
-  "enriched": true
- },
- {
-  "id": "glen-bessie-hyde-1928",
-  "name": "Glen & Bessie Hyde",
-  "type": "Missing Person",
-  "status": "Unsolved",
-  "year": 1928,
-  "date": "November 18, 1928",
-  "state": "Arizona",
-  "city": "Grand Canyon",
-  "age": null,
-  "gender": "Multiple",
-  "summary": "Newlyweds Glen and Bessie Hyde disappeared while attempting to run the Colorado River through the Grand Canyon on a homemade scow. Their boat was found intact but the couple was never seen again.",
-  "lastSeen": "November 18, 1928, Colorado River, Grand Canyon, Arizona",
-  "tags": [
-   "Grand Canyon",
-   "Colorado River",
-   "adventure",
-   "1920s"
-  ],
-  "sources": [
-   {
-    "title": "Glen and Bessie Hyde - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Glen_and_Bessie_Hyde"
-   }
-  ],
-  "narrative": [
-   "In October 1928, Glen Rollin Hyde (29) and his bride Bessie Louise Hyde (22) set out to run the Colorado River through the Grand Canyon on a homemade wooden scow—a flat-bottomed boat. If successful, Bessie would have been the first woman known to complete the journey. The couple had already navigated portions of the Snake and Salmon Rivers in Idaho and were experienced, if unconventional, river runners.",
-   "The Hydes launched from Green River, Utah on October 20 and made good progress through Glen Canyon and Marble Canyon. On November 15, they encountered Emery Kolb, the famous Grand Canyon photographer and river runner, at the South Rim. Kolb offered them life jackets, which Glen declined. He photographed the couple, and these are the last known images of them. They were last seen heading downstream on November 18.",
-   "When the Hydes failed to arrive at Needles, California as scheduled, Glen's father Rollin Hyde organized a search. On December 19, their scow was found drifting intact in calm water near Mile 237 of the Colorado River. The boat was upright, their belongings were aboard, and there was no sign of damage or capsize. Bessie's diary, containing entries up to November 30, was found, along with a camera with exposed film. But Glen and Bessie were gone.",
-   "The mystery of what happened to the Hydes has never been solved. Theories include drowning in rapids (though the boat showed no signs of capsizing), murder (possibly a domestic dispute), or an encounter with unknown persons. In 1971, a woman named Georgie White, a well-known river guide, was rumored to be Bessie Hyde living under a false identity, but this was never confirmed. No remains of either Glen or Bessie have ever been found."
-  ],
-  "timeline": [
-   {
-    "date": "1928-10-20",
-    "event": "Glen and Bessie Hyde launch their scow from Green River, Utah."
-   },
-   {
-    "date": "1928-11-15",
-    "event": "The couple is photographed by Emery Kolb at the Grand Canyon South Rim."
-   },
-   {
-    "date": "1928-11-18",
-    "event": "The Hydes are last seen heading downriver; they disappear."
-   },
-   {
-    "date": "1928-12-19",
-    "event": "Their intact, undamaged boat is found drifting with their belongings aboard."
    }
   ],
   "enriched": true
@@ -42827,8 +42805,8 @@
   "city": "Oroville",
   "age": null,
   "gender": "Male",
-  "summary": "Five young men from the Yuba City area disappeared after attending a basketball game in Chico in February 1978. Their car was found abandoned on a remote mountain road in Plumas National Forest. That June, Ted Weiher was found dead in a Forest Service trailer about 19 miles from the car and the remains of three others were found in the surrounding forest; Gary Mathias was never found.",
-  "lastSeen": "February 24, 1978, Oroville, California",
+  "summary": "Five men from the Yuba City area vanished after attending a college basketball game in Chico, California, on February 24, 1978. Their car was found days later on a remote road in Plumas National Forest. In June 1978 four of them were found dead of exposure or starvation, one in a Forest Service trailer; Gary Mathias has never been found.",
+  "lastSeen": "February 24, 1978, shortly before 10 p.m., Behr's Market, Chico, California",
   "tags": [
    "missing person",
    "mountains",
@@ -42836,36 +42814,53 @@
   ],
   "sources": [
    {
-    "title": "Yuba County Five - Wikipedia",
+    "title": "Wikipedia - Yuba County Five",
     "url": "https://en.wikipedia.org/wiki/Yuba_County_Five"
+   },
+   {
+    "title": "Dyatlov Pass - Yuba County Five",
+    "url": "https://dyatlovpass.com/yuba-county-five"
+   },
+   {
+    "title": "All That's Interesting - Inside The Baffling Mystery Of The Yuba County Five",
+    "url": "https://allthatsinteresting.com/yuba-county-five"
+   },
+   {
+    "title": "98.3 The Snake - Unsolved: Four Of 5 Friends' Bodies Found On CA Mountain In 1978",
+    "url": "https://983thesnake.com/unsolved-four-of-5-friends-bodies-found-on-ca-mountain-in-1978/"
    }
   ],
   "narrative": [
-   "On the evening of February 24, 1978, five young men from Yuba City, California—Jack Madruga (30), Bill Sterling (29), Ted Weiher (32), Jack Huett (24), and Gary Mathias (25)—drove together to watch a college basketball game at California State University, Chico. They were all described as intellectually disabled or living with mental health conditions, and they were close friends who played on a Special Olympics basketball team. They were in good spirits and planned to return home that night.",
-   "The men never returned. Their Mercury Montego was found days later, abandoned on a remote dirt road near Oroville, approximately 70 miles from the basketball game—in the opposite direction from their home in Yuba City. The car was in working condition with gas in the tank, parked on a snowy mountain road at an elevation of approximately 4,000 feet. There was no logical reason for the men to have driven to this remote location.",
-   "The search for the five men was hampered by heavy snow. In June 1978, as the snow melted, the bodies of Ted Weiher, Jack Madruga, Bill Sterling, and Jack Huett were found. Madruga and Sterling were found about 11 miles from the car, apparently having died of hypothermia. Weiher was found inside a Forest Service trailer about 19 miles from the car, and Huett's remains were found about two miles from the trailer, along with evidence that someone had survived in the trailer for an extended period—up to 13 weeks. The trailer contained canned food, matches, and heavy clothing, but the food was barely touched. Weiher had been wrapped in bedsheets and had lost significant weight.",
-   "Gary Mathias, the fifth man—and the only one with outdoor survival experience as an Army veteran—was never found. His shoes were discovered in the trailer, but no other trace of him has surfaced. The central mystery remains: why did the men drive to this remote location, and why didn't they use the ample supplies in the trailer to survive? The case has been called 'America's Dyatlov Pass' for its parallels to the Russian mystery."
+   "On the evening of February 24, 1978, five men from the Yuba City area of California drove to Chico to watch a UC Davis basketball game at Chico State. According to Wikipedia and All That's Interesting, the group was Gary Mathias, 25, Bill Sterling, 29, Jack Huett, 24, Ted Weiher, 32, and Jack Madruga, 30. Wikipedia reports they were last confirmed seen buying snacks and drinks at Behr's Market in downtown Chico shortly before it closed at 10 p.m. They did not return home.",
+   "Madruga's 1969 Mercury Montego was found on February 28, 1978, on a remote mountain road in Plumas National Forest, far from their route home, according to Wikipedia and Dyatlov Pass research site accounts of contemporary coverage; one account gives the date as February 27. All That's Interesting reports that the car was stuck in snow, still had fuel and was missing its keys.",
+   "On June 4, 1978, motorcyclists came upon a U.S. Forest Service trailer about 19 to 20 miles from the car and found Weiher's body inside. According to Wikipedia, his condition suggested he had survived for weeks, possibly around three months, even though the trailer held stored food, fuel and warm clothing that had not been used. Mathias's sneakers were found in the trailer.",
+   "The following day, the remains of Madruga and Sterling were found about 11 miles from the car, and on June 7 Huett's remains were found roughly two miles from the trailer, according to Wikipedia. Officials found no signs of foul play, and the four deaths were attributed to hypothermia, exposure or starvation, according to Wikipedia and the Dyatlov Pass account. The search for Mathias was called off later in June 1978.",
+   "Gary Mathias has never been found. He is listed as a missing person in national databases. Investigators never established why the men drove into the mountains, and a California Department of Justice special agent was quoted by All That's Interesting describing the many leads that went nowhere. The Yuba County Sheriff's Department continues to take information on the case, according to a 2024 report by 98.3 The Snake."
   ],
   "timeline": [
    {
     "date": "1978-02-24",
-    "event": "Five men attend a basketball game in Chico; they never return home."
+    "event": "The five men attend a basketball game in Chico and are last seen at Behr's Market before 10 p.m."
    },
    {
     "date": "1978-02-28",
-    "event": "Their car is found on a remote mountain road near Oroville."
+    "event": "Madruga's car is found abandoned on a mountain road in Plumas National Forest (one account says February 27)."
+   },
+   {
+    "date": "1978-06",
+    "event": "The search for Gary Mathias is called off; he has never been found."
    },
    {
     "date": "1978-06-04",
-    "event": "Bodies of Madruga and Sterling are found near the car."
+    "event": "Motorcyclists find Ted Weiher's body in a Forest Service trailer about 19 to 20 miles from the car."
    },
    {
-    "date": "1978-06-08",
-    "event": "Weiher and Huett are found dead at a Forest Service trailer 20 miles away."
+    "date": "1978-06-05",
+    "event": "Remains of Jack Madruga and Bill Sterling are found about 11 miles from the car."
    },
    {
-    "date": "1978-07-01",
-    "event": "Extensive search fails to locate Gary Mathias."
+    "date": "1978-06-07",
+    "event": "Jack Huett's remains are found about two miles from the trailer."
    }
   ],
   "enriched": true
@@ -46161,8 +46156,8 @@
   "city": "Bridgeport",
   "age": 10,
   "gender": "Female",
-  "summary": "Ten-year-old Bianca Lebron was last seen on November 7, 2001, getting into a brown or tan van outside Elias Howe Elementary School in Bridgeport, Connecticut, after telling friends the driver was her uncle. Despite an extensive investigation, and a new age-progression image released by police in March 2026, Bianca has never been found.",
-  "lastSeen": "November 7, 2001, Bridgeport, Connecticut",
+  "summary": "Bianca Elaine Lebron, 10, was last seen at about 8:30 a.m. on November 7, 2001, getting into a two-toned brown van outside the Elias Howe School in Bridgeport, Connecticut, after telling classmates her uncle was taking her to the mall. Her family says she had no uncle. She has never been found; in March 2026 police released a new age progression and said they have persons of interest.",
+  "lastSeen": "November 7, 2001, about 8:30 a.m., outside the former Elias Howe School on Clinton Avenue, Bridgeport, Connecticut",
   "tags": [
    "child",
    "abduction",
@@ -46170,8 +46165,24 @@
   ],
   "sources": [
    {
+    "title": "NCMEC - Released Today: New age progression of Bianca Lebron",
+    "url": "https://www.missingkids.org/blog/2026/released-today-new-age-progression-of-bianca-lebron"
+   },
+   {
+    "title": "Connecticut Public - New composite photo revealed in Bridgeport child's cold case",
+    "url": "https://www.ctpublic.org/news/2026-03-18/new-composite-photo-revealed-in-bridgeport-childs-cold-case"
+   },
+   {
+    "title": "NBC Connecticut - Bridgeport Police release new age-progression photo in 2001 missing person case",
+    "url": "https://www.nbcconnecticut.com/news/local/bridgeport-police-release-age-progression-photo-in-2001-missing-person-case/3715273/"
+   },
+   {
     "title": "NBC Connecticut - Monday Marks 15 Years Since 10-Year-Old Bridgeport Girl Disappeared",
     "url": "https://www.nbcconnecticut.com/news/local/monday-marks-15-years-since-10-year-old-bridgeport-girl-disappeared-bianca-lebron/2049480/"
+   },
+   {
+    "title": "Connecticut Post - Bianca Lebron disappearance case still open in Bridgeport after 20 years",
+    "url": "https://www.ctpost.com/news/article/Bianca-Lebron-disappearance-case-still-open-in-16596628.php"
    },
    {
     "title": "Google News feed - NCMEC / WTNH / NBC Connecticut / CTPost, Mar 18, 2026",
@@ -46179,27 +46190,36 @@
    }
   ],
   "narrative": [
-   "On November 7, 2001, ten-year-old Bianca Lebron was standing with friends outside Elias Howe Elementary School in Bridgeport, Connecticut, when she got into a brown or tan van driven by a man she said was her uncle. Her friends watched Bianca enter the vehicle, which then drove away. She never arrived home and has not been seen since.",
-   "The Bridgeport Police Department and FBI launched an immediate investigation. The brown or tan van was a primary focus, with authorities searching for the vehicle and its driver throughout the region. Investigators interviewed sex offenders and canvassed the area surrounding the school.",
-   "Bianca's case received significant attention from both local and national media. The National Center for Missing & Exploited Children created age-progression images showing what Bianca might look like as she grew older. The case was featured on America's Most Wanted and generated thousands of tips.",
-   "Despite the eyewitness accounts, the van and its driver have not been publicly identified, and no suspect has been charged. Bianca Lebron's disappearance remains one of Connecticut's most prominent unsolved missing child cases."
+   "Bianca Elaine Lebron was a 10-year-old fifth-grader at the Elias Howe School on Clinton Avenue in Bridgeport's West End. On the morning of November 7, 2001, shortly before classes began, she told her teacher she needed to speak with her uncle, according to the National Center for Missing & Exploited Children (NCMEC). She told classmates her uncle was taking her to a mall and invited them along; they said no.",
+   "At about 8:30 a.m., she was seen getting into a two-toned brown van with tinted windows. NCMEC describes the driver as a man with dark hair and a beard. The Connecticut Post, citing her NamUs entry, reported that the van was an older model with sanded patches and chrome trim along the sides. Her family has said she did not have an uncle.",
+   "Her parents did not realize anything was wrong until that evening, when they learned she had never been in school, and they reported her missing. The case prompted a national search and has been featured in many television programs. A reward of $62,000 has been offered for information, NBC Connecticut reported.",
+   "In March 2026, Bridgeport police released a new age progression, made by NCMEC, showing how Bianca might look at 34. At a press conference across from the former school, lead investigator Detective Laura Azevedo-Rasuk said there were persons of interest and a strong lead about who was driving the van, and Connecticut Public reported she mentioned a 2025 excavation at a home in the city. Detective Jeffrey Holtz said Bianca may have been the victim of a homicide but could also still be alive.",
+   "No one has been charged in connection with her disappearance. Bianca is Hispanic, with brown hair and hazel eyes, and has a birthmark on her forehead. Anyone with information is asked to contact the Bridgeport Police Department or the FBI."
   ],
   "timeline": [
    {
     "date": "2001-11-07",
-    "event": "Bianca Lebron is seen getting into a white van near her school."
+    "event": "Bianca Lebron is last seen at about 8:30 a.m. getting into a brown van outside the Elias Howe School."
    },
    {
     "date": "2001-11-07",
-    "event": "She is reported missing; Bridgeport police and FBI investigate."
+    "event": "Her parents learn that evening she never attended school and report her missing."
    },
    {
-    "date": "2001-11-15",
-    "event": "Case featured on America's Most Wanted."
+    "date": "2016-11-07",
+    "event": "On the 15th anniversary, police and family renew appeals; a $62,000 reward remains on offer."
+   },
+   {
+    "date": "2021-11",
+    "event": "On the 20th anniversary, investigators say they have no new information to share."
+   },
+   {
+    "date": "2025",
+    "event": "Police excavate a home in Bridgeport as part of the investigation, according to the lead detective."
    },
    {
     "date": "2026-03-18",
-    "event": "Bridgeport police and NCMEC release a new age-progression image of Bianca as her mother renews her plea for information."
+    "event": "Bridgeport police and NCMEC release a new age progression; detectives say they have persons of interest."
    }
   ],
   "enriched": true
@@ -47050,7 +47070,7 @@
   "age": null,
   "gender": "Female",
   "country": "United Kingdom",
-  "summary": "Six women, all sex workers, were found murdered in or near the Thames in west London between 1964 and 1965. The killer, dubbed 'Jack the Stripper' by the media, was never identified despite a massive police investigation led by Detective Chief Superintendent John du Rose.",
+  "summary": "Between February 1964 and February 1965, the bodies of six women who worked as prostitutes were found undressed in or near the River Thames in west London, in what became known as the Hammersmith nude murders. The press called the unknown killer 'Jack the Stripper'. Despite a large Scotland Yard inquiry led by Detective Chief Superintendent John du Rose, no one was ever charged.",
   "lastSeen": "Various locations in west London, 1964-1965",
   "tags": [
    "serial killer",
@@ -47060,40 +47080,53 @@
   ],
   "sources": [
    {
-    "title": "Jack the Stripper - Wikipedia",
+    "title": "Wikipedia - Hammersmith nude murders",
     "url": "https://en.wikipedia.org/wiki/Jack_the_Stripper"
+   },
+   {
+    "title": "Crime and Investigation - 'Jack the Stripper' and the Hammersmith murders",
+    "url": "https://www.crimeandinvestigation.co.uk/article/jack-the-stripper-and-the-hammersmith-murders"
+   },
+   {
+    "title": "Chiswick Herald - The serial killer that visited Chiswick",
+    "url": "https://chiswickherald.co.uk/the-serial-killer-that-visited-chiswick-p1233-95.htm"
    }
   ],
   "narrative": [
-   "Between February 1964 and February 1965, six women were found dead in or near the River Thames in the Hammersmith and surrounding areas of west London. All were sex workers, and all had been asphyxiated—several showed evidence of having teeth forcibly removed. The victims were Hannah Tailford, Irene Lockwood, Helen Barthelemy, Mary Fleming, Margaret McGowan, and Bridie O'Hara. Their nude or partially clothed bodies were found at various locations along the river.",
-   "The murders became known as the 'Hammersmith nude murders' and the killer was dubbed 'Jack the Stripper' by the press, drawing a deliberate parallel to Jack the Ripper. Detective Chief Superintendent John du Rose of Scotland Yard was assigned to lead the investigation—one of the largest police operations in London at that time.",
-   "A key forensic lead was microscopic paint particles found on several of the victims' bodies, suggesting they had been stored in or near an industrial paint spraying facility before being dumped. Du Rose's investigation narrowed the search to premises near the Heron Trading Estate in Acton, where a transformer provided warm air that could explain the bodies' condition. The investigation identified a number of suspects in the area.",
-   "Du Rose later stated publicly that the killer was among his final shortlist of suspects, and that the man had committed suicide before he could be arrested. However, he never publicly named the individual, and his claim has been disputed by other investigators. Several suspects have been proposed over the decades, including a security guard, a boxer, and a disgraced Metropolitan Police officer. The case remains officially unsolved, and the identity of Jack the Stripper has never been conclusively established."
+   "The Hammersmith nude murders were a series of six killings of women in west London in 1964 and 1965, according to Wikipedia. The victims, who worked as prostitutes, were found undressed, and the press gave the unidentified killer the name Jack the Stripper. Wikipedia and the Chiswick Herald list the six generally accepted victims as Hannah Tailford, Irene Lockwood, Helen Barthelemy, Mary Fleming, Frances Brown and Bridget O'Hara. Most were in their twenties or about 30; published ages vary slightly between sources.",
+   "Hannah Tailford's body was found on the Thames foreshore near Hammersmith Bridge on February 2, 1964, and Irene Lockwood's on the shore at Duke's Meadows, Chiswick, on April 8, 1964, according to Wikipedia and the Chiswick Herald. Helen Barthelemy was found in an alley in Brentford on April 24, 1964, and Mary Fleming in Berrymede Road, Chiswick, on July 14, 1964. Frances Brown, who also used the name Margaret McGowan according to Crime and Investigation, was found in a car park off Hornton Street, Kensington, on November 25, 1964. Bridget O'Hara was found on the Heron Trading Estate in Acton on February 16, 1965.",
+   "Most of the women had been strangled, according to the Chiswick Herald and Crime and Investigation. Crime and Investigation reports that investigators found tiny flecks of paint on several of the later victims and that the condition of Bridget O'Hara's body suggested it had been kept somewhere warm before it was left on the estate. Wikipedia notes that two earlier deaths, those of Elizabeth Figg in 1959 and Gwynneth Rees in 1963, are sometimes linked to the series, but they are not counted among the confirmed six.",
+   "Detective Chief Superintendent John du Rose of Scotland Yard led the investigation, which Wikipedia and the Chiswick Herald say involved interviewing roughly 7,000 people. Crime and Investigation reports that the paint evidence led detectives to the Heron Trading Estate and that du Rose publicly suggested his list of suspects had been narrowed down. After the O'Hara killing the murders stopped.",
+   "No one was ever charged. According to Wikipedia, du Rose later said he believed the killer was a security guard who had worked on the estate and who, according to Crime and Investigation, took his own life before he could be questioned; that man was never charged or tried, and other writers have put forward different theories. Wikipedia reports that much of the forensic evidence has since been lost or destroyed, and the case remains officially unsolved."
   ],
   "timeline": [
    {
     "date": "1964-02-02",
-    "event": "Hannah Tailford's body is found in the Thames near Hammersmith."
+    "event": "Hannah Tailford's body is found on the Thames foreshore near Hammersmith Bridge."
+   },
+   {
+    "date": "1964-04-08",
+    "event": "Irene Lockwood's body is found on the riverbank at Duke's Meadows, Chiswick."
    },
    {
     "date": "1964-04-24",
-    "event": "Helen Barthelemy found with paint particles on her body."
+    "event": "Helen Barthelemy's body is found in an alley in Brentford."
    },
    {
     "date": "1964-07-14",
-    "event": "Mary Fleming found; investigation intensifies."
+    "event": "Mary Fleming's body is found in Berrymede Road, Chiswick."
    },
    {
     "date": "1964-11-25",
-    "event": "Margaret McGowan found; media dubs killer 'Jack the Stripper.'"
+    "event": "Frances Brown's body is found in a car park off Hornton Street, Kensington."
+   },
+   {
+    "date": "1965",
+    "event": "The investigation led by John du Rose winds down without any charges being brought."
    },
    {
     "date": "1965-02-16",
-    "event": "Bridie O'Hara found; last confirmed victim."
-   },
-   {
-    "date": "1965-07-01",
-    "event": "DCS du Rose claims prime suspect committed suicide."
+    "event": "Bridget O'Hara's body is found on the Heron Trading Estate, Acton; the series ends."
    }
   ],
   "enriched": true
@@ -49208,37 +49241,70 @@
   "status": "Unsolved",
   "year": 1985,
   "date": "July 30, 1985",
-  "state": "Canada",
+  "state": "Ontario",
   "city": "Toronto",
   "country": "Canada",
   "age": 8,
   "gender": "Female",
-  "summary": "Eight-year-old Nicole Morin disappeared from the hallway of her Toronto apartment building while on her way to the swimming pool. She has never been found.",
-  "lastSeen": "July 30, 1985, West Mall, Etobicoke, Toronto, Ontario",
+  "summary": "Eight-year-old Nicole Louise Morin left her family's apartment at 627 The West Mall in Etobicoke, Toronto, at about 11 a.m. on July 30, 1985 to meet a friend for a swim, and never arrived. Despite one of the largest searches in Toronto police history she has not been found. In July 2025 police offered a $50,000 reward for information on her whereabouts.",
+  "lastSeen": "July 30, 1985, about 11 a.m., leaving her family's 20th-floor apartment at 627 The West Mall, Etobicoke, Toronto, Ontario",
   "tags": [
    "child",
    "1980s"
   ],
   "sources": [
    {
-    "title": "Disappearance of Nicole Morin - Wikipedia",
+    "title": "CP24 - Toronto Police announce $50K reward for location of Toronto girl who disappeared 40 years ago",
+    "url": "https://www.cp24.com/local/toronto/2025/07/30/toronto-police-to-announce-reward-in-1985-disappearance-of-eight-year-old-nicole-morin/"
+   },
+   {
+    "title": "CBC News - Toronto police offer $50K reward for info in disappearance of 8-year-old in 1985",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-missing-eight-nicole-morin-50k-reward-1.7597403"
+   },
+   {
+    "title": "Please Bring Me Home - Nicole Morin",
+    "url": "https://pleasebringmehome.com/canada/nicole-morin/"
+   },
+   {
+    "title": "Missing People Canada - Cold case: Nicole Morin, 8, last seen July 30, 1985",
+    "url": "https://missingpeople.ca/cold-case-missing-girl-from-toronto-ontario-nicole-morin-8-last-seen-july-30-1985/"
+   },
+   {
+    "title": "Wikipedia - Disappearance of Nicole Morin",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_Nicole_Morin"
    }
   ],
   "narrative": [
-   "On July 30, 1985, eight-year-old Nicole Louise Morin left her family's 20th-floor penthouse apartment at 627 The West Mall in Etobicoke, Toronto, at about 11 a.m. She was heading down to the lobby to meet a friend and walk to the building's outdoor swimming pool. She never arrived.",
-   "Nicole was last seen by her mother as she left the apartment at approximately 10:15 a.m. She was wearing her bathing suit under her clothes and carrying a white towel. Surveillance in the building was minimal, and no witnesses saw Nicole after she left the apartment.",
-   "The Toronto Police Service launched an extensive investigation, canvassing the building's residents and searching the building and surrounding area. The case generated thousands of tips over the years, but none led to Nicole's recovery.",
-   "The case remains one of Toronto's most baffling missing child cases. How Nicole vanished from a busy apartment building in broad daylight has never been explained. Her case has been periodically reviewed by Toronto Police with modern investigative techniques, and age-progressed images have been released to keep the public aware."
+   "Nicole Louise Morin, born April 1, 1977, lived with her family in a 20th-floor penthouse apartment at 627 The West Mall in Etobicoke, in the west end of Toronto, according to Please Bring Me Home and Wikipedia. On the morning of July 30, 1985, the eight-year-old had arranged to meet a friend in the lobby and go swimming in the building complex's pool.",
+   "According to Toronto police, as reported by CP24 and CBC News, she said goodbye to her mother and left the apartment at around 11 a.m. She never reached the lobby. Please Bring Me Home records that her friend buzzed the apartment about fifteen minutes later asking where she was, and that her mother, who ran a home daycare, initially assumed Nicole had gone on to the pool or was playing elsewhere in the complex. Police were called that afternoon. She was wearing a peach one-piece bathing suit, a green hairband and red canvas shoes and carried a plastic bag with a towel, blanket and clothes.",
+   "Toronto police formed a 20-member task force, which Wikipedia says remained active for nine months, and carried out what police have described as one of the most extensive searches in the force's history. No physical evidence explaining her disappearance has been found. A detective sergeant told CBC News in 2025 that after she entered the elevator it was as if she had simply vanished.",
+   "Over the years police and missing-children organizations have released age-progressed images and video re-enactments to keep the case in the public eye, according to Please Bring Me Home. Wikipedia notes that a $100,000 police reward for her safe return was offered in the years after she vanished.",
+   "On July 30, 2025, the 40th anniversary of her disappearance, Toronto police announced a reward of up to $50,000, valid for one year, for information leading to her location, and released a new age-progressed image showing how she might look at 48, CP24 and CBC News reported. A childhood friend who lived in the same building appealed at the news conference for anyone who suspects they may be Nicole to come forward. No arrest has been made and the case remains open with the Toronto Police Service."
   ],
   "timeline": [
    {
-    "date": "1985-07-30",
-    "event": "Nicole Morin leaves her apartment to go swimming and vanishes."
+    "date": "1977-04-01",
+    "event": "Nicole Louise Morin is born."
+   },
+   {
+    "date": "1985",
+    "event": "Toronto police form a 20-member task force; the search becomes one of the largest in the force's history."
    },
    {
     "date": "1985-07-30",
-    "event": "Extensive search of the apartment building and area finds no trace."
+    "event": "About 11 a.m.: Nicole leaves her family's apartment at 627 The West Mall to meet a friend for a swim and is not seen again; police are called that afternoon."
+   },
+   {
+    "date": "2015-07-29",
+    "event": "Toronto police and family renew their appeal on the 30th anniversary (CBC)."
+   },
+   {
+    "date": "2019",
+    "event": "A cadaver-dog search in an Etobicoke park turns up nothing linked to Nicole (Missing People Canada)."
+   },
+   {
+    "date": "2025-07-30",
+    "event": "On the 40th anniversary, Toronto police announce a $50,000 reward, valid for one year, and release a new age-progressed image."
    }
   ],
   "enriched": true
@@ -49247,7 +49313,7 @@
   "id": "cecilia-zhang-2003",
   "name": "Cecilia Zhang",
   "type": "Abduction",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2003,
   "date": "October 20, 2003",
   "state": "Canada",
@@ -49255,8 +49321,8 @@
   "country": "Canada",
   "age": 9,
   "gender": "Female",
-  "summary": "Nine-year-old Cecilia Zhang was kidnapped from her bedroom in Toronto. Her body was found five months later. Min Chen pleaded guilty to second-degree murder.",
-  "lastSeen": "October 20, 2003, her family home in North York, Toronto",
+  "summary": "Nine-year-old Cecilia Zhang was taken from her family's Toronto home overnight on October 19-20, 2003, and her remains were found near the Credit River in Mississauga on March 27, 2004. Min Chen, a visa student who planned to demand ransom, pleaded guilty to second-degree murder in May 2006 and received life with no parole eligibility for 15 years.",
+  "lastSeen": "Night of October 19-20, 2003, her family home in North York, Toronto",
   "tags": [
    "homicide",
    "child",
@@ -49264,32 +49330,49 @@
   ],
   "sources": [
    {
-    "title": "Murder of Cecilia Zhang - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Murder_of_Cecilia_Zhang"
+    "title": "CBC News - Student pleads guilty to killing 9-year-old Cecilia Zhang",
+    "url": "https://www.cbc.ca/news/canada/student-pleads-guilty-to-killing-9-year-old-cecilia-zhang-1.592686"
    },
    {
-    "title": "Cecilia Zhang case - CBC News",
-    "url": "https://www.cbc.ca/news/canada/toronto/cecilia-zhang-case-1.526734"
+    "title": "CBC News - Cecilia's killer gets 15 years without parole",
+    "url": "https://www.cbc.ca/news/canada/cecilia-s-killer-gets-15-years-without-parole-1.598104"
+   },
+   {
+    "title": "The Globe and Mail - Guilty plea in Cecilia Zhang murder",
+    "url": "https://www.theglobeandmail.com/news/national/guilty-plea-in-cecilia-zhang-murder/article1098883/"
+   },
+   {
+    "title": "Wikipedia - Murder of Cecilia Zhang",
+    "url": "https://en.wikipedia.org/wiki/Murder_of_Cecilia_Zhang"
    }
   ],
   "narrative": [
-   "On October 19, 2003, nine-year-old Cecilia Zhang was kidnapped from her bedroom in her family's home in North York, a district of Toronto. Her parents discovered her missing in the morning when they found her bedroom window open and a cut screen. Cecilia's shoes and jacket were still in the house.",
-   "A massive search was launched, and the case received extensive media coverage. The Zhang family offered a reward and made emotional public appeals for their daughter's return. Police investigated hundreds of tips but initially made no arrests.",
-   "On March 27, 2004, five months after her abduction, Cecilia's body was found in a wooded area near the Credit River in Mississauga. She had died from asphyxiation. DNA evidence and forensic analysis led investigators to Min Chen, a family acquaintance who had known the Zhangs through the Chinese-Canadian community.",
-   "Chen was arrested in 2004 and pleaded guilty to second-degree murder in 2006. He was sentenced to life in prison with no possibility of parole for 15 years. The case led to increased discussion about child safety and home security in Toronto."
+   "Cecilia Zhang, a nine-year-old Grade 4 student, lived with her parents, Raymond Zhang and Sherry Xu, in the North York area of Toronto. According to Wikipedia, she was taken from the house in the early hours of October 20, 2003. Her disappearance drew national attention, and her parents made public appeals for her return and, according to CBC News, mortgaged their home so they would be able to pay a ransom. No ransom demand was ever made. Toronto's Chinese community raised a reward, and the case was featured on America's Most Wanted.",
+   "On March 27, 2004, three days before she would have turned 10, her remains were found in a wooded area near the Credit River in Mississauga, CBC News reported.",
+   "In July 2004, police arrested Min Chen, a 21-year-old student from Shanghai who had come to Canada on a student visa in 2001, at his home in Scarborough and charged him with first-degree murder. According to CBC, police said Chen knew a woman who had boarded at the Zhang home between September 2002 and March 2003 and had visited the house at least four times. That woman was initially arrested but was later cleared and was not charged.",
+   "On May 9, 2006, the day his first-degree murder trial was due to begin in Brampton, Chen pleaded guilty to second-degree murder. The agreed statement of facts, as reported by CBC News and The Globe and Mail, said he had planned to kidnap Cecilia and demand money to pay for a marriage of convenience so he could remain in Canada. When he approached her during the night, he feared she would scream, covered her head with a towel and pressed on her face as he carried her to a car. She was not breathing when he later checked on her, and he left her body in the Mississauga ravine. Chen's lawyer said he pleaded guilty partly to spare her parents a trial.",
+   "Second-degree murder carries a mandatory life sentence in Canada. In May 2006, Justice Bruce Durno set Chen's parole ineligibility at 15 years; the Crown had sought 17 to 20 years and the defence 12. The judge noted that Chen had planned to keep the girl in his car trunk while awaiting a ransom. CBC reported that Chen would likely be deported to China upon eventual release."
   ],
   "timeline": [
    {
-    "date": "2003-10-19",
-    "event": "Cecilia Zhang kidnapped from her bedroom in North York, Toronto."
+    "date": "2003-10-20",
+    "event": "Cecilia Zhang is taken from her family's home in North York, Toronto, in the early morning hours."
    },
    {
     "date": "2004-03-27",
-    "event": "Cecilia's body found in a wooded area near the Credit River in Mississauga."
+    "event": "Her remains are found near the Credit River in Mississauga."
+   },
+   {
+    "date": "2004-07",
+    "event": "Min Chen, a Chinese visa student, is arrested at his Scarborough home and charged with first-degree murder."
+   },
+   {
+    "date": "2006-05",
+    "event": "Chen is sentenced to life in prison with no parole eligibility for 15 years."
    },
    {
     "date": "2006-05-09",
-    "event": "Min Chen pleads guilty to second-degree murder; sentenced to life with no parole for 15 years."
+    "event": "Chen pleads guilty to second-degree murder in Brampton; the agreed facts describe a ransom plot."
    }
   ],
   "enriched": true
@@ -50229,8 +50312,8 @@
   "city": "Elizabeth City",
   "age": 19,
   "gender": "Female",
-  "summary": "Ella Maud \"Nell\" Cropsey, 19, disappeared from her family's riverside home in Elizabeth City, North Carolina, in November 1901, and her body was recovered from the Pasquotank River 37 days later. Her suitor Jim Wilcox was convicted of second-degree murder and sentenced to 30 years, but was pardoned in 1920 and maintained his innocence. Many still regard her death as unresolved.",
-  "lastSeen": "November 20, 1901, her family home, Elizabeth City, North Carolina",
+  "summary": "Nineteen-year-old Ella Maud 'Nell' Cropsey disappeared from her family's home beside the Pasquotank River in Elizabeth City, North Carolina, in November 1901; her body was found in the river on December 27. Her former suitor Jim Wilcox was convicted of second-degree murder in 1903 and later pardoned by Governor Thomas Bickett.",
+  "lastSeen": "Late evening of November 20, 1901, on the porch of her family home, Elizabeth City, North Carolina",
   "tags": [
    "1900s",
    "historical",
@@ -50238,20 +50321,24 @@
   ],
   "sources": [
    {
-    "title": "NC Department of Natural and Cultural Resources - The Mystery of Beautiful Nell Cropsey",
+    "title": "NC Dept. of Natural and Cultural Resources - The Mystery of Beautiful Nell Cropsey",
     "url": "https://www.dncr.nc.gov/blog/2016/11/21/mystery-beautiful-nell-cropsey"
    },
    {
-    "title": "DigitalNC - Nell Cropsey Case Discussed in Latest Museum of the Albemarle Materials",
+    "title": "DigitalNC - Nell Cropsey case discussed in latest Museum of the Albemarle materials",
     "url": "https://www.digitalnc.org/blog/nell-cropsey-case-discussed-in-latest-museum-of-the-albemarle-materials/"
    },
    {
-    "title": "Find a Grave - Ella Maud \"Nell\" Cropsey (1882-1901)",
-    "url": "https://www.findagrave.com/memorial/40129598/ella_maud-cropsey"
+    "title": "Coastal Review - Nell Cropsey murder focus of next History for Lunch",
+    "url": "https://coastalreview.org/2021/10/nell-cropsey-murder-focus-of-next-history-for-lunch/"
    },
    {
-    "title": "North Carolina Ghosts - The Ghost of Nell Cropsey",
-    "url": "https://northcarolinaghosts.com/coast/the-ghost-of-nell-cropsey/"
+    "title": "CourtListener - State v. Wilcox, 132 N.C. 1120 (1903)",
+    "url": "https://www.courtlistener.com/opinion/3914864/state-v-wilcox/"
+   },
+   {
+    "title": "American Hauntings - Dead Women Do Tell Tales (Nell Cropsey)",
+    "url": "https://www.americanhauntingsink.com/nell-cropsey"
    },
    {
     "title": "Strange Company - Somebody Else's Sin? The Mystery of Nell Cropsey",
@@ -50259,44 +50346,45 @@
    }
   ],
   "narrative": [
-   "Ella Maud Cropsey, known as Nell, was born in New York in July 1882, according to her Find a Grave memorial. The North Carolina Department of Natural and Cultural Resources (DNCR) reports that her family moved from New Jersey to Elizabeth City, North Carolina, in 1898, settling in a house near the Pasquotank River waterfront.",
-   "On the night of November 20, 1901, Nell was last seen on the porch of the family home after an argument with Jim Wilcox, who had courted her for about three years, according to DigitalNC and other accounts; the DNCR blog gives the date as November 21. Wilcox said he had left her on the porch after she ended their relationship. Her body was found in the Pasquotank River 37 days later, on December 27, 1901, according to DigitalNC and North Carolina Ghosts. A coroner's jury attributed her death to a blow to the left temple and drowning, according to a 2020 account on the Strange Company blog that cites contemporary newspapers, though medical witnesses disagreed about which caused her death.",
-   "Wilcox was charged with murder. He was first tried in Pasquotank County in 1902, found guilty and sentenced to death, according to the Strange Company account. The DNCR blog notes that disruptions by spectators during that trial led to a new trial being ordered in a different county, and North Carolina Ghosts reports that the North Carolina Supreme Court set aside the first verdict. At the second trial, held in 1903, Wilcox was convicted of second-degree murder and sentenced to 30 years in prison, according to DigitalNC and North Carolina Ghosts. He did not testify at either trial and maintained that he was innocent.",
-   "Governor Thomas Bickett pardoned Wilcox. The DNCR blog gives the year as 1920, and the Strange Company account dates the pardon to December 20, 1920; some other sources, including DigitalNC, give 1918. According to the DNCR, Wilcox died by suicide about fourteen years after his release, and the Strange Company account places his death in December 1934.",
-   "The case was built largely on circumstantial evidence, the DNCR notes, and it has remained a subject of debate in North Carolina for more than a century, including in Bland Simpson's book The Mystery of Beautiful Nell Cropsey. Nell Cropsey is buried in New Utrecht Cemetery in Brooklyn, New York, according to Find a Grave."
+   "Ella Maud 'Nell' Cropsey lived with her family close to the Pasquotank River in Elizabeth City, North Carolina. According to the North Carolina Supreme Court's 1903 opinion in State v. Wilcox, her father W. H. Cropsey had moved the family to the town in 1898, and she was 19 at the time of her death. That same year she met James 'Jim' Wilcox, who courted her for about three years, according to material published by DigitalNC and the Museum of the Albemarle.",
+   "On the night of November 20, 1901, Nell walked Wilcox out of the family home at around 11:10 p.m. and was not seen again, according to the DigitalNC summary. Coastal Review reports that she ended the relationship during that conversation on the porch and that Wilcox said he left her there. Some accounts, including a 2016 blog post by the North Carolina Department of Natural and Cultural Resources, give the date of her disappearance as November 21.",
+   "Her body was found on the surface of the Pasquotank River near her home on December 27, 1901, about 37 days after she vanished. According to Coastal Review, the autopsy found a bruise on her left temple and reported that her lungs contained no water. Accounts of the coroner's findings cite both a blow to the head and drowning, and the medical experts did not agree on which caused her death.",
+   "Wilcox was charged with murder. At the March 1902 term of court in Pasquotank County he was found guilty of first-degree murder and sentenced to death. The North Carolina Supreme Court ordered a new trial after disruptive demonstrations in and around the courtroom during the defense's closing argument. The case was moved to Perquimans County, and at the 1903 retrial in Hertford Wilcox was convicted of second-degree murder and sentenced to 30 years in prison, according to Coastal Review and other accounts.",
+   "Earlier petitions for clemency were denied. Governor Thomas Bickett eventually pardoned Wilcox after receiving a letter from him in which he maintained his innocence. Sources disagree on the year of the pardon: DigitalNC and some other accounts give 1918, while the Department of Natural and Cultural Resources and other accounts give December 1920. Wilcox returned to Elizabeth City and died by suicide in 1934.",
+   "The case remains a well-known piece of northeastern North Carolina history. Writers and researchers have proposed several explanations for Nell Cropsey's death, and at least one author has argued that Wilcox was wrongly convicted, according to the Museum of the Albemarle materials described by DigitalNC."
   ],
   "timeline": [
    {
-    "date": "1882-07",
-    "event": "Ella Maud \"Nell\" Cropsey is born in New York."
-   },
-   {
-    "date": "1898",
-    "event": "The Cropsey family moves to Elizabeth City, North Carolina."
+    "date": "1898-06",
+    "event": "Nell Cropsey meets Jim Wilcox, the year her family settles in Elizabeth City."
    },
    {
     "date": "1901-11-20",
-    "event": "Nell Cropsey is last seen at her family home after an argument with Jim Wilcox."
+    "event": "Nell Cropsey is last seen late at night after walking Wilcox out of her family home."
    },
    {
     "date": "1901-12-27",
-    "event": "Her body is recovered from the Pasquotank River."
+    "event": "Her body is found in the Pasquotank River near the family home; Wilcox is charged with murder."
    },
    {
     "date": "1902-03",
-    "event": "Wilcox is tried in Pasquotank County, found guilty of murder and sentenced to death; a new trial is later ordered."
+    "event": "In Pasquotank County, Wilcox is convicted of first-degree murder and sentenced to death."
+   },
+   {
+    "date": "1902-09-30",
+    "event": "The North Carolina Supreme Court orders a new trial because of courtroom demonstrations."
    },
    {
     "date": "1903",
-    "event": "At a retrial in another county, Wilcox is convicted of second-degree murder and sentenced to 30 years."
+    "event": "At a retrial in Perquimans County, Wilcox is convicted of second-degree murder and sentenced to 30 years."
    },
    {
     "date": "1920-12-20",
     "event": "Governor Thomas Bickett pardons Wilcox (some sources give 1918)."
    },
    {
-    "date": "1934-12",
-    "event": "Wilcox dies by suicide, still maintaining his innocence."
+    "date": "1934",
+    "event": "Jim Wilcox dies by suicide in Elizabeth City."
    }
   ],
   "enriched": true
@@ -51813,19 +51901,15 @@
   "city": "Woodland Park",
   "age": 29,
   "gender": "Female",
-  "summary": "Kelsey Berreth, a 29-year-old pilot and mother, was killed in her Woodland Park, Colorado, home on Thanksgiving Day 2018. Her fiance Patrick Frazee was convicted of first-degree murder in November 2019 and sentenced to life without parole plus 156 years. Her body has never been found; the conviction was upheld on appeal in December 2022.",
-  "lastSeen": "November 22, 2018, on surveillance video at a Safeway store in Woodland Park, Colorado",
+  "summary": "Kelsey Berreth, a 29-year-old flight instructor, was killed on Thanksgiving Day 2018 at her townhome in Woodland Park, Colorado. Her fiance Patrick Frazee was convicted of first-degree murder in November 2019 and sentenced to life without parole plus 156 years. Her remains were never recovered.",
+  "lastSeen": "November 22, 2018, at a Safeway store in Woodland Park, Colorado",
   "tags": [
    "2010s",
    "domestic violence"
   ],
   "sources": [
    {
-    "title": "CBS Colorado - Patrick Frazee Sentenced To Life Plus 156 Years For Murder Of Kelsey Berreth",
-    "url": "https://www.cbsnews.com/colorado/news/patrick-frazee-kelsey-berreth-teller-county-sentence/"
-   },
-   {
-    "title": "CBS News 48 Hours - Patrick Frazee sentenced: Colorado mom Kelsey Berreth gets justice",
+    "title": "CBS News - Patrick Frazee sentenced: Colorado mom Kelsey Berreth gets justice a year after Thanksgiving Day killing",
     "url": "https://www.cbsnews.com/news/patrick-frazee-sentenced-colorado-mom-kelsey-berreth-gets-justice-a-year-after-thanksgiving-day-killing/"
    },
    {
@@ -51833,12 +51917,12 @@
     "url": "https://www.denver7.com/news/kelsey-berreth-case/jury-finds-patrick-frazee-guilty-of-murdering-fiancee-kelsey-berreth-last-thanksgiving"
    },
    {
-    "title": "Denver7 - Krystal Kenney sentenced to 3 years in prison in connection to the Kelsey Berreth case",
-    "url": "https://www.denver7.com/news/kelsey-berreth-case/krystal-kenney-sentenced-to-3-years-in-prison-in-connection-to-the-kelsey-berreth-case"
+    "title": "CBS Colorado - Krystal Lee Kenney resentenced to 18 months",
+    "url": "https://www.cbsnews.com/colorado/news/krystal-lee-kenney-sentence-murder-kelsey-berreth-patrick-frazee/"
    },
    {
-    "title": "ABC News - Sentence vacated for ex-girlfriend who helped clean Kelsey Berreth murder scene",
-    "url": "https://abcnews.com/US/sentence-vacated-girlfriend-helped-clean-kelsey-berreth-murder/story?id=75995732"
+    "title": "KRDO - Appellate court rejects Patrick Frazee's appeal of murder conviction",
+    "url": "https://krdo.com/news/2023/01/03/appellate-court-rejects-patrick-frazees-appeal-to-guilty-murder-conviction/"
    },
    {
     "title": "KOAA - Patrick Frazee's murder conviction appeal denied in appellate courts",
@@ -51846,44 +51930,36 @@
    }
   ],
   "narrative": [
-   "Kelsey Berreth, 29, was a pilot who had grown up in Moses Lake, Washington, and lived in a townhome in Woodland Park, Colorado, with her one-year-old daughter, Kaylee. According to CBS News, surveillance video captured her shopping at the Woodland Park Safeway on Thanksgiving Day, November 22, 2018, the last time she was seen in public.",
-   "Her mother, Cheryl Berreth, reported her missing in early December 2018 after days without contact, CBS News reported. Woodland Park police initially treated the case as a missing-person investigation. Police said Kelsey's phone had registered a location near Gooding, Idaho, on November 25, about 800 miles from her home. Investigators later found traces of blood in her townhome that DNA testing matched to her.",
-   "On December 21, 2018, police arrested her fiance, Patrick Frazee, at his ranch and charged him with first-degree murder. Krystal Lee Kenney, an Idaho nurse who had a long relationship with Frazee, pleaded guilty to tampering with physical evidence and agreed to testify. According to reporting by ABC News and CBS News, she told investigators that Frazee had asked her several times to kill Berreth, that he beat Berreth to death with a baseball bat on Thanksgiving while their daughter was in another room, and that she later cleaned the townhome and helped him burn the body and evidence at his ranch.",
-   "A Teller County jury in Cripple Creek convicted Frazee on November 18, 2019, of first-degree murder, three counts of solicitation to commit first-degree murder and tampering with a deceased human body. Denver7 reported that Judge Scott Sells imposed the mandatory life sentence without parole plus 156 years in consecutive terms. Berreth's remains have not been recovered.",
-   "Kenney was sentenced in January 2020 to three years in prison. In February 2021 the Colorado Court of Appeals vacated that sentence because she had not been properly advised of her right to a jury finding on aggravating factors, and she was later resentenced to 18 months. Frazee's own appeal, which challenged juror conduct and other trial issues, was rejected by the Colorado Court of Appeals on December 29, 2022, in an unpublished decision, according to KOAA."
+   "Kelsey Berreth, 29, was a flight instructor at Doss Aviation who lived in Woodland Park, Colorado, according to CBS News. She was engaged to Patrick Frazee, and the couple had a daughter who was 13 months old in November 2018, Denver7 reported. Berreth was last seen at a Safeway store in Woodland Park on Thanksgiving Day, November 22, 2018.",
+   "Her mother, Cheryl Berreth, reported her missing on December 2, 2018, after being unable to reach her since Thanksgiving morning, according to Denver7. CBS News reported that prosecutors said text messages sent from Kelsey's phone after her death were sent by Frazee. Frazee was arrested on December 21, 2018, and charged with first-degree murder.",
+   "At trial, prosecutors said Frazee beat Berreth to death with a baseball bat at her townhome on Thanksgiving, then placed her body in a tote, stored it at a ranch and later burned it, Denver7 reported. Her body was never recovered; investigators found only a small tooth fragment with female DNA in the burn area. Frazee's former girlfriend, Krystal Lee Kenney, testified for the prosecution. She said Frazee had asked her three times to kill Berreth, and that after the killing she travelled to Colorado, cleaned the townhome and took part in burning the remains.",
+   "On November 18, 2019, a Teller County jury convicted Frazee of first-degree murder, three counts of solicitation to commit first-degree murder and tampering with a deceased human body, according to Denver7. He was sentenced to life in prison without parole plus 156 years. On December 29, 2022, the Colorado Court of Appeals affirmed the conviction in an unpublished decision, according to KRDO and KOAA. His appeal had challenged the handling of three jurors, expert testimony and some of the evidence.",
+   "Kenney pleaded guilty to tampering with evidence and was sentenced in January 2020 to three years in prison, according to CBS Colorado. The Colorado Court of Appeals later ruled that the sentence exceeded the presumptive maximum, and on March 23, 2021, she was resentenced to 18 months, the maximum allowed."
   ],
   "timeline": [
    {
     "date": "2018-11-22",
-    "event": "Kelsey Berreth is recorded on Safeway surveillance video in Woodland Park; prosecutors say she was killed at home later that day."
+    "event": "Kelsey Berreth is last seen at a Woodland Park Safeway on Thanksgiving Day; prosecutors later said she was killed that day in her townhome."
    },
    {
-    "date": "2018-11-25",
-    "event": "Her phone registers a location near Gooding, Idaho, according to police."
-   },
-   {
-    "date": "2018-12",
-    "event": "Her mother reports her missing; police open a missing-person investigation."
+    "date": "2018-12-02",
+    "event": "Her mother, Cheryl Berreth, reports her missing."
    },
    {
     "date": "2018-12-21",
-    "event": "Patrick Frazee is arrested at his ranch and charged with first-degree murder."
-   },
-   {
-    "date": "2019-02",
-    "event": "Krystal Lee Kenney pleads guilty to tampering with physical evidence under a plea agreement."
+    "event": "Patrick Frazee is arrested and charged with first-degree murder."
    },
    {
     "date": "2019-11-18",
     "event": "A Teller County jury convicts Frazee on all counts; he is sentenced to life without parole plus 156 years."
    },
    {
-    "date": "2020-01-28",
-    "event": "Kenney is sentenced to three years in prison plus one year of parole."
+    "date": "2020-01",
+    "event": "Krystal Lee Kenney is sentenced to three years for evidence tampering."
    },
    {
-    "date": "2021-02-18",
-    "event": "The Colorado Court of Appeals vacates Kenney's sentence and orders resentencing; she later receives 18 months."
+    "date": "2021-03-23",
+    "event": "After an appeals ruling vacates her sentence, Kenney is resentenced to 18 months."
    },
    {
     "date": "2022-12-29",
@@ -55276,15 +55352,15 @@
   "id": "sherin-mathews-2017",
   "name": "Sherin Mathews",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2017,
   "date": "October 7, 2017",
   "state": "Texas",
   "city": "Richardson",
   "age": 3,
   "gender": "Female",
-  "summary": "Three-year-old adopted Indian girl Sherin Mathews was reported missing in Richardson, Texas. Her adoptive father Wesley Mathews later admitted to killing her. He was sentenced to life.",
-  "lastSeen": "October 7, 2017, family home in Richardson, Texas",
+  "summary": "Three-year-old Sherin Mathews, adopted from India in 2016, was reported missing from her Richardson, Texas, home on October 7, 2017; her body was found in a nearby culvert two weeks later. Her adoptive father, Wesley Mathews, pleaded guilty to injury to a child and was sentenced by a jury to life in prison in June 2019. Charges against her adoptive mother were dismissed.",
+  "lastSeen": "Early hours of October 7, 2017, at the family home in Richardson, Texas",
   "tags": [
    "child",
    "2010s",
@@ -55292,28 +55368,65 @@
   ],
   "sources": [
    {
-    "title": "Wesley Mathews conviction - NBC DFW",
-    "url": "https://www.nbcdfw.com/news/local/wesley-mathews-guilty-sherin-mathews/"
+    "title": "CBS News Texas - Richardson police: 'Justice has been served' in death of 3-year-old Sherin Mathews",
+    "url": "https://www.cbsnews.com/texas/news/richardson-police-justice-served-death-sherin-mathews/"
+   },
+   {
+    "title": "NBC DFW - Wesley Mathews sentenced to life for daughter's death",
+    "url": "https://www.nbcdfw.com/news/local/wesley-mathews-faces-cross-examination-jury-to-decide-sentence/137922/"
+   },
+   {
+    "title": "American Kahani - Texas court upholds Wesley Mathews' conviction and life sentence",
+    "url": "https://americankahani.com/community/justice-for-sherin-texas-court-upholds-wesley-mathews-murder-conviction-and-life-sentence/"
+   },
+   {
+    "title": "Wikipedia - Death of Sherin Mathews",
+    "url": "https://en.wikipedia.org/wiki/Death_of_Sherin_Mathews"
    }
   ],
   "narrative": [
-   "On October 7, 2017, Wesley Mathews reported his three-year-old adopted daughter Sherin missing from their home in Richardson, Texas. He initially claimed he had sent her outside at 3 a.m. as punishment for not drinking her milk, and that she had disappeared.",
-   "Sherin had been adopted from India in 2016. She had developmental disabilities and was small for her age. The circumstances of the report immediately raised suspicions.",
-   "Sherin's body was found in a culvert near the family home on October 22. Wesley Mathews eventually changed his story, admitting that he had force-fed Sherin milk and she had choked and died. He said he disposed of her body in a panic.",
-   "Wesley Mathews was convicted of injury to a child and sentenced to life in prison. His wife Sini Mathews was initially charged with child abandonment but the charges were dropped. The case raised questions about the oversight of international adoptions and the treatment of adopted children with disabilities."
+   "Sherin Mathews was born in Bihar, India, in 2014 and was adopted in 2016 by Wesley and Sini Mathews of Richardson, Texas, according to Wikipedia. Early on October 7, 2017, Wesley Mathews reported her missing to police at about 8 a.m.",
+   "He initially told police that he had made the three-year-old stand outside near an alley at around 3 a.m. as punishment for not drinking her milk, and that she was gone when he checked about 15 minutes later, according to Wikipedia and American Kahani. A search followed, and on October 22, 2017, her body was found in a culvert near the family's home. Wesley Mathews then gave a different account, saying she had choked while he was making her drink milk, and that he had put her body in a bag and left it in the culvert.",
+   "According to Wikipedia, the Dallas County medical examiner ruled the death a homicide caused by homicidal violence and found injuries in various stages of healing, including broken bones. NBC DFW reported that decomposition prevented a more specific cause of death from being determined. Wesley Mathews was charged with capital murder. Sini Mathews was arrested in November 2017 on a child abandonment charge; that charge was dismissed in March 2019, according to Wikipedia and NBC DFW.",
+   "At his June 2019 trial in Dallas County, Wesley Mathews pleaded guilty to the lesser offense of injury to a child, while maintaining that the death was an accident. On June 26, 2019, after deliberating for about three hours, a jury sentenced him to life in prison, CBS News Texas reported; he becomes eligible for parole after 30 years. A motion for a new trial was denied in September 2019.",
+   "Mathews appealed, arguing among other things that evidence was wrongly admitted and that the life sentence was unconstitutional. According to American Kahani, a Texas appellate court upheld the conviction and sentence in January 2021."
   ],
   "timeline": [
    {
+    "date": "2016-07",
+    "event": "Sherin is adopted from India by Wesley and Sini Mathews of Richardson, Texas."
+   },
+   {
     "date": "2017-10-07",
-    "event": "Sherin Mathews reported missing in Richardson, Texas."
+    "event": "Wesley Mathews reports Sherin missing, saying she disappeared after being made to stand outside at about 3 a.m."
    },
    {
     "date": "2017-10-22",
-    "event": "Sherin's body found in a culvert."
+    "event": "Sherin's body is found in a culvert near the family home."
+   },
+   {
+    "date": "2017-11-16",
+    "event": "Sini Mathews is arrested on a child abandonment charge."
+   },
+   {
+    "date": "2018-01",
+    "event": "The medical examiner rules the death a homicide."
+   },
+   {
+    "date": "2019-03-01",
+    "event": "The charge against Sini Mathews is dismissed."
    },
    {
     "date": "2019-06-26",
-    "event": "Wesley Mathews convicted; sentenced to life."
+    "event": "After Wesley Mathews pleads guilty to injury to a child, a jury sentences him to life in prison."
+   },
+   {
+    "date": "2019-09-05",
+    "event": "A motion for a new trial is denied."
+   },
+   {
+    "date": "2021-01",
+    "event": "A Texas appellate court upholds the conviction and life sentence."
    }
   ],
   "enriched": true
@@ -58465,38 +58578,87 @@
   "id": "jorge-torres-jr-2020",
   "name": "Jorge Torres Jr.",
   "type": "Homicide",
-  "status": "Solved",
+  "status": "Conviction",
   "year": 2020,
   "date": "February 23, 2020",
   "state": "Florida",
   "city": "Winter Park",
   "age": 42,
   "gender": "Male",
-  "summary": "Jorge Torres Jr. was found dead inside a suitcase in Winter Park, Florida. His girlfriend Sarah Boone claimed he died during a hide-and-seek game. She filmed him begging to be let out.",
-  "lastSeen": "February 23, 2020, their apartment in Winter Park, Florida",
+  "summary": "Jorge Torres Jr., 42, died of asphyxiation after being zipped into a suitcase at the Winter Park, Florida, home he shared with his girlfriend Sarah Boone in February 2020. Videos on her phone showed him pleading to be let out. Boone was convicted of second-degree murder in October 2024 and sentenced to life in prison.",
+  "lastSeen": "Night of February 23, 2020, at his home near Winter Park, Florida",
   "tags": [
    "2020s"
   ],
   "sources": [
+   {
+    "title": "FOX 35 Orlando - Sarah Boone sentenced in boyfriend's suitcase death",
+    "url": "https://www.fox35orlando.com/news/sarah-boone-sentencing-jorge-torres-murder"
+   },
+   {
+    "title": "FOX 35 Orlando - Sarah Boone transferred to Florida prison to serve life sentence",
+    "url": "https://www.fox35orlando.com/news/sarah-boone-transferred-florida-prison-serve-life-sentence-boyfriends-suitcase-murder"
+   },
+   {
+    "title": "News 6 ClickOrlando - Timeline: Where things stand for Sarah Boone",
+    "url": "https://www.clickorlando.com/news/local/2024/10/21/timeline-where-things-stand-for-sarah-boone-florida-woman-accused-in-suitcase-murder/"
+   },
+   {
+    "title": "ABC7 Chicago - Suitcase murder trial: Sarah Boone sentenced to life in prison",
+    "url": "https://abc7chicago.com/post/suitcase-murder-trial-sarah-boone-sentenced-life-prison-zipping-boyfriend-jorge-torres-jr-he-died/15616845/"
+   },
+   {
+    "title": "Spectrum News 13 - Sarah Boone sentenced to life in suitcase murder case",
+    "url": "https://mynews13.com/fl/orlando/news/2024/12/02/sarah-boone-to-be-sentenced-monday-in-suitcase-murder-case"
+   },
+   {
+    "title": "FOX News - 'Suitcase killer' Sarah Boone sentenced to life in prison",
+    "url": "https://www.foxnews.com/us/florida-suitcase-killer-receives-sentence-suffocating-boyfriend-hide-seek-game"
+   },
    {
     "title": "Wikipedia - Murder of Jorge Torres",
     "url": "https://en.wikipedia.org/wiki/Murder_of_Jorge_Torres"
    }
   ],
   "narrative": [
-   "On February 23, 2020, Sarah Boone called 911 to report that her boyfriend Jorge Torres Jr., 42, was dead inside a suitcase in their Winter Park, Florida apartment. She claimed they had been playing hide-and-seek while drinking and she had fallen asleep.",
-   "Police found videos on Boone's phone that told a different story. In the recordings, Torres can be heard begging to be let out, saying he couldn't breathe. Boone is heard laughing and taunting him.",
-   "The medical examiner determined Torres died of suffocation. His death was ruled a homicide.",
-   "Boone was charged with second-degree murder. The case was delayed extensively as she cycled through multiple attorneys. She was convicted in 2024 and sentenced to life in prison."
+   "Jorge Torres Jr., 42, lived with his girlfriend Sarah Boone in a home near Aloma Avenue and Goldenrod Road in the Winter Park area of Orange County, Florida, according to FOX 35 Orlando. In February 2020, according to News 6 (ClickOrlando), the couple had been drinking and playing hide-and-seek when Torres got into a suitcase and Boone zipped it shut. She then went upstairs and slept, and he stayed trapped inside.",
+   "Boone called 911 the next day to report that Torres was dead, according to News 6. Orange County deputies arrested her on February 25, 2020, and she was charged with second-degree murder, FOX 35 reported. Investigators found videos on Boone's phone in which Torres could be heard pleading to be let out and saying he could not breathe while Boone laughed and taunted him, according to ABC News reports of the trial.",
+   "In May 2020, the medical examiner ruled that Torres died of asphyxiation and classified the death as a homicide, News 6 reported. The medical examiner also recorded a black eye, bruises and cuts consistent with blunt force trauma. According to FOX News, Boone also struck Torres with a baseball bat and left him in the suitcase overnight.",
+   "The case was delayed for years. Boone went through a series of attorneys, and in July 2024 she was ordered to represent herself before she hired another lawyer, according to News 6. FOX 35 reported that she turned down a plea offer of 15 years before trial. At trial before Orange County Circuit Judge Michael Kraynick, Boone testified that Torres had abused her and argued self-defense on the basis of battered spouse syndrome, according to ABC News.",
+   "In October 2024 a six-person jury convicted Boone of second-degree murder. Judge Kraynick denied her motion for a new trial and sentenced her to life in prison on December 2, 2024, according to FOX 35 and Spectrum News 13. She was transferred to the Florida Department of Corrections on December 30, 2024. According to Court TV, her appeal was still pending in 2026."
   ],
   "timeline": [
    {
     "date": "2020-02-23",
-    "event": "Jorge Torres Jr. found dead in a suitcase."
+    "event": "Torres is zipped into a suitcase during a game of hide-and-seek at the couple's home and left inside overnight."
    },
    {
-    "date": "2024-10-25",
-    "event": "Sarah Boone convicted of second-degree murder; sentenced to life in prison on December 2, 2024."
+    "date": "2020-02-24",
+    "event": "Sarah Boone calls 911 to report that Torres is dead."
+   },
+   {
+    "date": "2020-02-25",
+    "event": "Orange County deputies arrest Boone; she is charged with second-degree murder."
+   },
+   {
+    "date": "2020-05",
+    "event": "The medical examiner rules that Torres died of asphyxiation and classifies the death as a homicide."
+   },
+   {
+    "date": "2024-07",
+    "event": "After a series of attorneys withdraw, Boone is ordered to represent herself; she later hires new counsel."
+   },
+   {
+    "date": "2024-10",
+    "event": "A six-person jury convicts Boone of second-degree murder."
+   },
+   {
+    "date": "2024-12-02",
+    "event": "Judge Michael Kraynick sentences Boone to life in prison."
+   },
+   {
+    "date": "2024-12-30",
+    "event": "Boone is transferred to the Florida Department of Corrections."
    }
   ],
   "enriched": true
@@ -59359,44 +59521,89 @@
   "id": "stephen-port-uk-2015",
   "name": "Stephen Port Victims",
   "type": "Serial Killer Victims",
-  "status": "Solved",
-  "year": 2016,
-  "date": "November 23, 2016",
+  "status": "Conviction",
+  "year": 2014,
+  "date": "June 2014 to September 2015",
   "state": "United Kingdom",
   "city": "London",
   "country": "United Kingdom",
   "age": null,
   "gender": "Male",
-  "summary": "Serial killer Stephen Port drugged and raped young men using GHB, killing four in Barking, East London. Police initially failed to link the deaths despite bodies being found in similar locations.",
-  "lastSeen": "2014-2015, Barking, East London, England",
+  "summary": "Stephen Port killed four young men with overdoses of GHB at his flat in Barking, east London, between June 2014 and September 2015, after meeting them online. He was convicted of their murders and of rapes and other offences against further men in November 2016 and given a whole life order. Inquest juries in 2021 found police failings probably contributed to three of the deaths.",
+  "lastSeen": "June 2014 to September 2015, Barking, east London, England",
   "tags": [
    "serial murder",
    "2010s"
   ],
   "sources": [
    {
-    "title": "Stephen Port - Wikipedia",
+    "title": "Judiciary of England and Wales - R v Stephen Port: Sentencing remarks of Mr Justice Openshaw (25 November 2016)",
+    "url": "https://www.judiciary.uk/wp-content/uploads/2016/11/sentencing-remarks-r-v-stephen-port.pdf"
+   },
+   {
+    "title": "RTE - UK police failings led to further serial killer murders",
+    "url": "https://www.rte.ie/news/world/2021/1210/1266063-port-inquest/"
+   },
+   {
+    "title": "Attitude - Met Police failings 'probably' contributed to deaths of Stephen Port's last three victims, inquest jury rules",
+    "url": "https://www.attitude.co.uk/culture/film-tv/grindr-killer-met-police-failings-probably-contributed-to-deaths-of-stephen-ports-last-three-victims-inquest-jury-rules-304224/"
+   },
+   {
+    "title": "TheJournal.ie - Police mistakes 'probably' contributed to Stephen Port victims' deaths",
+    "url": "https://www.thejournal.ie/stephen-port-inquests-5626641-Dec2021/"
+   },
+   {
+    "title": "IOPC - Stephen Port murders - Metropolitan Police Service",
+    "url": "https://www.policeconduct.gov.uk/news/stephen-port-murders-metropolitan-police-service"
+   },
+   {
+    "title": "Wikipedia - Stephen Port",
     "url": "https://en.wikipedia.org/wiki/Stephen_Port"
    }
   ],
   "narrative": [
-   "Stephen Port, a chef from Barking, East London, murdered four young men between June 2014 and September 2015 by administering lethal doses of the drug GHB. He met his victims through dating apps.",
-   "The four victims—Anthony Walgate (23), Gabriel Kovari (22), Daniel Whitworth (21), and Jack Taylor (25)—were all found dead in or near a churchyard in Barking, near Port's flat.",
-   "Despite the similarities in location and circumstances, police initially treated each death as non-suspicious, attributing them to drug overdoses. This failure was later condemned as reflecting institutional homophobia.",
-   "Port was convicted of four murders, four rapes, and multiple sexual assaults in 2016 and sentenced to a whole-life order. A subsequent inquest found that police failures contributed to the deaths of at least three victims."
+   "Stephen Port, a chef from Barking in east London, killed four young men between June 2014 and September 2015 by giving them overdoses of the drug GHB. According to the sentencing remarks of Mr Justice Openshaw, Port's pattern was to drug young men without their knowledge so that he could sexually assault them while they were unconscious, and he met most of his victims through gay dating websites and apps.",
+   "Anthony Walgate, 23, a fashion student from Hull, went to Port's flat on the evening of June 17, 2014. According to the judge, Port left his body outside the building, called an ambulance claiming he had found a stranger collapsed, and planted a bottle of GHB on him. Port was later convicted of perverting the course of justice over his lies about this death and served a short prison sentence. Gabriel Kovari, 22, from Slovakia, moved into Port's flat in August 2014; his body was found on August 28, 2014, against the churchyard wall near the ruins of Barking Abbey.",
+   "Daniel Whitworth, a chef, visited Port on September 18, 2014, and his body was left in almost the same spot in the churchyard, with a forged suicide note that falsely blamed him for Kovari's death, according to the sentencing remarks. Jack Taylor, 25, a forklift driver from Dagenham, met Port at Barking station early on September 13, 2015, and his body was also left in the churchyard. Each death was initially treated as a self-administered overdose.",
+   "Port was arrested in October 2015 and charged with the four murders. On November 23, 2016, a jury at the Central Criminal Court (Old Bailey) convicted him of murdering all four men and of rapes, sexual assaults and drugging offences against other men. On November 25, 2016, he was sentenced to life imprisonment with a whole life order, meaning he will never be released.",
+   "Inquests into the four deaths concluded on December 10, 2021. The jury found that all four men had been unlawfully killed and that failings by the Metropolitan Police probably contributed to the deaths of Kovari, Whitworth and Taylor, according to Attitude and RTE. The jury pointed to basic checks not carried out, evidence not sent for forensic testing and a lack of professional curiosity. The coroner did not allow the jury to consider allegations that homophobia played a part. The police watchdog, the IOPC, which had found no misconduct case in its first investigation, reopened its inquiry in June 2022."
   ],
   "timeline": [
    {
-    "date": "2014-06-19",
-    "event": "First victim Anthony Walgate killed."
+    "date": "2014-06-17",
+    "event": "Anthony Walgate goes to Port's flat in Barking; his body is later left outside the building."
+   },
+   {
+    "date": "2014-08-28",
+    "event": "The body of Gabriel Kovari is found in the churchyard by the ruins of Barking Abbey."
+   },
+   {
+    "date": "2014-09",
+    "event": "Daniel Whitworth dies after visiting Port on September 18; his body is left in the same churchyard with a forged suicide note."
    },
    {
     "date": "2015-09-13",
-    "event": "Fourth victim Jack Taylor killed."
+    "event": "Jack Taylor meets Port at Barking station; his body is later found in the churchyard."
+   },
+   {
+    "date": "2015-10",
+    "event": "Port is arrested and charged with four murders; the Metropolitan Police refers itself to the police watchdog."
    },
    {
     "date": "2016-11-23",
-    "event": "Port convicted; sentenced to whole life."
+    "event": "Port is convicted at the Old Bailey of four murders and sexual offences against other men."
+   },
+   {
+    "date": "2016-11-25",
+    "event": "Port is sentenced to life imprisonment with a whole life order."
+   },
+   {
+    "date": "2021-12-10",
+    "event": "Inquest jury finds all four were unlawfully killed and that police failings probably contributed to three of the deaths."
+   },
+   {
+    "date": "2022-06",
+    "event": "The IOPC reopens its investigation into the police handling of the deaths."
    }
   ],
   "enriched": true
@@ -60288,68 +60495,72 @@
   "city": "Delmar",
   "age": null,
   "gender": "Multiple",
-  "summary": "Peter Porco, 52, was killed and his wife Joan was gravely injured in an axe attack at their home in Delmar, New York, early on November 15, 2004. Their son Christopher Porco was convicted in 2006 of second-degree murder and attempted murder and sentenced to 50 years to life. He maintains his innocence, and a 2023 motion to vacate the conviction is pending.",
-  "lastSeen": "November 15, 2004, the family home in Delmar (Town of Bethlehem), New York",
+  "summary": "Peter Porco, 52, was killed and his wife Joan was severely injured in an axe attack at their home in Delmar, New York, on November 15, 2004. Their son Christopher Porco was convicted in 2006 of second-degree murder and attempted murder and sentenced to 50 years to life. He maintains his innocence, and a motion to vacate the conviction filed in 2023 was still pending in 2025.",
+  "lastSeen": "Early morning of November 15, 2004, their home in Delmar, New York",
   "tags": [
    "2000s"
   ],
   "sources": [
    {
-    "title": "Campus Times (University of Rochester) - Chris Porco: A tale of gruesome uncertainty",
-    "url": "https://www.campustimes.org/2011/11/17/chris-porco-a-tale-of-gruesome-uncertainty/"
+    "title": "CBS News - The Porco murder: Did a college student take an ax to his parents?",
+    "url": "https://www.cbsnews.com/news/the-porco-murder-did-a-college-student-take-an-ax-to-his-parents/"
    },
    {
-    "title": "CBS6 Albany - Christopher Porco's bid to overturn conviction in the hands of Schenectady prosecutor",
+    "title": "CBS6 Albany (WRGB) - Christopher Porco's bid to overturn conviction in the hands of Schenectady prosecutor",
     "url": "https://cbs6albany.com/news/local/christopher-porcos-bid-to-overturn-conviction-in-the-hands-of-schenectady-prosecutor-albany-kindlon-bethlehem-axe-murder"
    },
    {
-    "title": "Barket Epstein - Barket Epstein Files Motion to Vacate Conviction of Christopher Porco",
+    "title": "Barket Epstein - Motion to vacate conviction of Christopher Porco filed",
     "url": "https://www.barketepstein.com/blog/2023/january/barket-epstein-files-motion-to-vacate-conviction/"
    },
    {
-    "title": "Wikipedia - Murder of Peter Porco",
+    "title": "Wikipedia - Christopher Porco",
     "url": "https://en.wikipedia.org/wiki/Christopher_Porco"
    }
   ],
   "narrative": [
-   "In the early hours of November 15, 2004, Peter Porco, 52, a law clerk for a New York appellate court, and his wife Joan, 54, a speech therapist, were attacked with an axe as they slept in their home in Delmar, a suburb of Albany in the Town of Bethlehem, according to the University of Rochester's Campus Times and Wikipedia. Peter Porco died of his injuries. Joan Porco survived but lost an eye and suffered severe head injuries.",
-   "According to Wikipedia, a Bethlehem police detective testified that while Joan Porco was being treated at the scene she nodded when asked whether her son Christopher, then a 21-year-old student at the University of Rochester, had attacked her, and shook her head when asked about her older son. After recovering, she said she had no memory of the attack, and she has consistently maintained that Christopher is innocent, as noted in a 2023 statement released by his current lawyers.",
-   "Christopher Porco was indicted in November 2005. Because of pretrial publicity the trial was moved to Goshen, Orange County, where it began in late June 2006, the Campus Times reported. Prosecutors relied on circumstantial evidence, including toll records and campus security video that they said tracked his Jeep between Rochester and Delmar that night, according to Wikipedia. On August 10, 2006 the jury convicted him of second-degree murder and attempted murder, and in December 2006 he was sentenced to 50 years to life.",
-   "His appeals were unsuccessful. In 2011 the New York Court of Appeals upheld the conviction, rejecting a challenge to the admission of his mother's nod and describing the evidence as overwhelming, according to the Campus Times. Wikipedia records that the U.S. Supreme Court declined to hear the case.",
-   "On January 12, 2023, the law firm Barket Epstein filed a motion under New York's CPL 440.10 to vacate the conviction, alleging ineffective assistance of trial counsel, suppression of evidence and other due-process violations, and requesting a hearing and DNA testing, according to the firm. CBS6 Albany reported in 2025 that the Schenectady County District Attorney's office had taken over the state's response because of a conflict of interest in the Albany County office, whose district attorney is the son of Porco's trial lawyer. No ruling on the motion had been reported in the sources reviewed. According to CBS6, Porco would be eligible for parole in 2052."
+   "Early on November 15, 2004, Peter and Joan Porco were attacked with an axe in their bedroom at their home in Delmar, in the town of Bethlehem near Albany, New York. According to Wikipedia's summary of the trial record, Peter Porco, 52, was struck repeatedly in the head. He lived for several hours afterward before dying of his injuries. Joan Porco survived but lost an eye and part of her skull and was left with serious facial injuries.",
+   "According to CBS News and trial accounts, Bethlehem police Detective Christopher Bowdish testified that he asked the gravely injured Joan whether a family member had done this. He said she nodded when asked about her younger son, Christopher, and shook her head when asked about her older son, Johnathan. After she came out of a medically induced coma, Joan said she had no memory of the attack. She has maintained that Christopher is innocent and has continued to support him.",
+   "Prosecutors built a circumstantial case. According to CBS News and Wikipedia, campus security video showed Christopher's yellow Jeep leaving the University of Rochester late on November 14 and returning the next morning. Toll records and toll-collector accounts placed a vehicle on the Thruway between Rochester and Albany overnight, and a neighbor testified that he saw a yellow Jeep in the Porco driveway. The home's telephone line had been cut. Prosecutors argued that money was the motive, pointing to loans that Christopher had obtained by forging his father's signature. CBS News noted that no forensic evidence tied him to the scene.",
+   "Because of pretrial publicity, the trial was moved to Orange County. On August 10, 2006, the jury found Christopher Porco guilty of second-degree murder and attempted second-degree murder. On December 12, 2006, he was sentenced to 25 years to life on each count, served consecutively, for a total of 50 years to life. The Appellate Division affirmed the conviction in 2010, the New York Court of Appeals affirmed it in 2011, and the U.S. Supreme Court declined to hear the case in 2012, according to Wikipedia.",
+   "On January 12, 2023, Porco's attorneys filed a motion to vacate the conviction under CPL 440.10, according to the law firm Barket Epstein. The motion alleges ineffective assistance of counsel, suppression of evidence and due process violations, and seeks DNA testing. CBS6 Albany reported in 2025 that the Schenectady County District Attorney's office had taken over the case because of a conflict of interest in the Albany County office, and that the motion was still pending before Judge William Little. No ruling had been found as of September 2026."
   ],
   "timeline": [
    {
+    "date": "2004-11-14",
+    "event": "Campus video shows Christopher Porco's Jeep leaving the University of Rochester late at night."
+   },
+   {
     "date": "2004-11-15",
-    "event": "Peter and Joan Porco are attacked with an axe in their Delmar home; Peter dies and Joan is critically injured."
-   },
-   {
-    "date": "2005-11",
-    "event": "Christopher Porco is indicted."
-   },
-   {
-    "date": "2006-06",
-    "event": "Trial begins in Goshen, Orange County, after a change of venue."
+    "event": "Peter and Joan Porco are attacked with an axe at home in Delmar; Peter dies of his injuries."
    },
    {
     "date": "2006-08-10",
-    "event": "Jury convicts Christopher Porco of second-degree murder and attempted murder."
+    "event": "An Orange County jury convicts him of second-degree murder and attempted second-degree murder."
    },
    {
     "date": "2006-12-12",
     "event": "He is sentenced to 50 years to life."
    },
    {
-    "date": "2011",
-    "event": "New York Court of Appeals upholds the conviction."
+    "date": "2010-03",
+    "event": "The Appellate Division, Third Department, affirms the conviction."
+   },
+   {
+    "date": "2011-10",
+    "event": "The New York Court of Appeals affirms the conviction."
+   },
+   {
+    "date": "2012-04",
+    "event": "The U.S. Supreme Court declines to hear the case."
    },
    {
     "date": "2023-01-12",
-    "event": "Defense files a CPL 440.10 motion to vacate the conviction."
+    "event": "Defense attorneys file a CPL 440.10 motion to vacate the conviction."
    },
    {
-    "date": "2025",
-    "event": "Schenectady County DA's office takes over the response to the motion because of an Albany County conflict of interest."
+    "date": "2025-02",
+    "event": "Because of a conflict of interest, the Schenectady County DA takes over the state's response to the motion."
    }
   ],
   "enriched": true
@@ -60842,8 +61053,8 @@
   "country": "South Africa",
   "age": 29,
   "gender": "Female",
-  "summary": "Model and law graduate Reeva Steenkamp, 29, was shot dead through a locked toilet door at Oscar Pistorius's Pretoria home on February 14, 2013. Pistorius said he mistook her for an intruder. First convicted of culpable homicide in 2014, he was found guilty of murder on appeal in 2015 and later sentenced to 13 years and five months. He was paroled on January 5, 2024.",
-  "lastSeen": "February 14, 2013, Pistorius home, Silver Woods estate, Pretoria, South Africa",
+  "summary": "Reeva Steenkamp, a 29-year-old model and law graduate, was shot dead through a locked toilet door at the Pretoria home of her boyfriend, Paralympic sprinter Oscar Pistorius, on February 14, 2013. He was first convicted of culpable homicide, but on appeal he was convicted of murder and his sentence was raised to 13 years and 5 months. He was paroled in January 2024.",
+  "lastSeen": "Early morning of February 14, 2013, at Oscar Pistorius's home in Pretoria, South Africa",
   "tags": [
    "2010s"
   ],
@@ -60857,8 +61068,16 @@
     "url": "https://www.france24.com/en/africa/20240105-former-paralympic-star-oscar-pistorius-released-from-s-african-jail-on-parole"
    },
    {
-    "title": "ABC News (Australia) - Oscar Pistorius granted parole after serving 10 years for the murder of Reeva Steenkamp",
-    "url": "https://www.abc.net.au/news/2023-11-24/oscar-pistorius-blade-runner-parole-steenkamp/103149332"
+    "title": "ABC News (Australia) - 'Blade Runner' Oscar Pistorius released from prison 11 years after murder",
+    "url": "https://www.abc.net.au/news/2024-01-05/blade-runner-pistorius-released-11-years-after-murder/103287112"
+   },
+   {
+    "title": "Africanews - Oscar Pistorius is freed on parole after serving 9 years in prison",
+    "url": "https://www.africanews.com/2024/01/05/south-african-athlete-oscar-pistorius-is-freed-on-parole-after-serving-9-years-in-prison/"
+   },
+   {
+    "title": "NBC News - Oscar Pistorius, disgraced Olympic sprinter, is released from South African prison",
+    "url": "https://www.nbcnews.com/news/world/oscar-pistorius-disgraced-olympic-sprinter-released-south-african-pris-rcna132351"
    },
    {
     "title": "Wikipedia - Trial of Oscar Pistorius",
@@ -60866,60 +61085,48 @@
    }
   ],
   "narrative": [
-   "In the early hours of February 14, 2013, Reeva Steenkamp, a 29-year-old model and law graduate, was shot and killed at the home of her boyfriend, Paralympic sprinter Oscar Pistorius, in the Silver Woods estate in Pretoria, South Africa. According to trial records summarised by Wikipedia and to CBS News, Pistorius fired four shots from a 9mm pistol through a locked toilet door, and three of them struck Steenkamp.",
-   "Pistorius was charged with murder on February 15, 2013, and released on bail later that month. He has consistently said that he believed an intruder was in the toilet cubicle and did not intend to kill Steenkamp. His trial opened in the High Court in Pretoria on March 3, 2014, before Judge Thokozile Masipa.",
-   "In September 2014 Judge Masipa found Pistorius not guilty of murder but guilty of culpable homicide, South Africa's equivalent of manslaughter, and in October 2014 sentenced him to five years in prison. He was moved to house arrest in October 2015 after serving part of that term, according to Wikipedia.",
-   "Prosecutors appealed. In December 2015 the Supreme Court of Appeal replaced the verdict with a murder conviction, according to France 24 and ABC News (Australia). He was sentenced to six years in July 2016. After a further prosecution appeal, the Supreme Court of Appeal in November 2017 called that term shockingly lenient and increased it to 13 years and five months. Wikipedia reports that the Constitutional Court dismissed his bid to appeal in 2018.",
-   "A parole board granted Pistorius parole in November 2023, and South Africa's Department of Correctional Services confirmed he was released on January 5, 2024. According to CBS News and France 24, he remains under supervision until his sentence expires in December 2029, with conditions that include restrictions on movement, a ban on alcohol, anger management and programmes on violence against women, and a prohibition on speaking to the media. Steenkamp's mother, June Steenkamp, said through a representative that she was not convinced he had been rehabilitated, ABC News reported."
+   "Reeva Steenkamp, 29, was a model and law graduate who had been in a relationship with South African Paralympic sprinter Oscar Pistorius for about three months, according to CBS News and Wikipedia. In the early hours of February 14, 2013, Pistorius fired four shots through the locked door of a toilet cubicle at his home in Pretoria and killed her, according to France 24 and ABC News (Australia).",
+   "Pistorius said he had mistaken Steenkamp for an intruder. Prosecutors argued that the couple had argued late that night and that he shot her knowingly, NBC News reported. The televised trial in Pretoria drew worldwide attention.",
+   "In September 2014 the trial judge acquitted Pistorius of murder and convicted him of culpable homicide. In October 2014 he was sentenced to five years in prison, according to France 24 and CBS News. He was later released to house arrest while the prosecution appealed. On December 3, 2015, the Supreme Court of Appeal overturned the culpable homicide verdict and convicted him of murder, according to Wikipedia and France 24.",
+   "In July 2016 the trial court sentenced him to six years for murder, although prosecutors had argued for at least 15. The state appealed again, and in November 2017 the Supreme Court of Appeal increased the sentence to 13 years and 5 months, France 24 reported. Wikipedia reports that the Constitutional Court declined to hear his appeal in 2018.",
+   "South Africa's Department of Correctional Services confirmed that Pistorius became a parolee on January 5, 2024, after nearly nine years in custody, according to CBS News and Africanews. He was released from the Atteridgeville Correctional Centre near Pretoria. His parole conditions include anger management and gender-based violence programs, and his parole runs until his sentence expires in December 2029. Reeva's mother, June Steenkamp, said in a statement that there could never be justice when a loved one does not come back."
   ],
   "timeline": [
    {
     "date": "2013-02-14",
-    "event": "Reeva Steenkamp is shot dead through a toilet door at Oscar Pistorius's home in Pretoria."
-   },
-   {
-    "date": "2013-02-15",
-    "event": "Pistorius is formally charged with murder."
-   },
-   {
-    "date": "2013-02-22",
-    "event": "Pistorius is granted bail."
-   },
-   {
-    "date": "2014-03-03",
-    "event": "The trial opens in the High Court in Pretoria."
+    "event": "Pistorius shoots Reeva Steenkamp through a locked toilet door at his Pretoria home."
    },
    {
     "date": "2014-09",
-    "event": "Judge Masipa acquits Pistorius of murder and convicts him of culpable homicide."
+    "event": "Pistorius is acquitted of murder and convicted of culpable homicide."
    },
    {
     "date": "2014-10-21",
     "event": "He is sentenced to five years in prison."
    },
    {
-    "date": "2015-10",
-    "event": "Pistorius is released to house arrest."
-   },
-   {
     "date": "2015-12-03",
-    "event": "The Supreme Court of Appeal substitutes a murder conviction."
+    "event": "The Supreme Court of Appeal replaces the verdict with a murder conviction."
    },
    {
     "date": "2016-07-06",
-    "event": "He is sentenced to six years for murder."
+    "event": "The trial court sentences him to six years for murder."
    },
    {
     "date": "2017-11",
-    "event": "The Supreme Court of Appeal increases the sentence to 13 years and five months."
+    "event": "The Supreme Court of Appeal increases the sentence to 13 years and 5 months."
    },
    {
-    "date": "2023-11-24",
-    "event": "A parole board grants Pistorius parole, effective January 5, 2024."
+    "date": "2023-11",
+    "event": "A parole board approves his release."
    },
    {
     "date": "2024-01-05",
-    "event": "Pistorius is released on parole; supervision continues until December 2029."
+    "event": "Pistorius is released on parole from Atteridgeville Correctional Centre."
+   },
+   {
+    "date": "2029-12",
+    "event": "His sentence and parole are due to expire."
    }
   ],
   "enriched": true
@@ -62078,7 +62285,7 @@
  },
  {
   "id": "casey-white-murder-conviction",
-  "name": "Casey White (murder conviction)",
+  "name": "Connie Ridgeway",
   "type": "Homicide",
   "status": "Unsolved",
   "year": 2015,
@@ -62087,15 +62294,31 @@
   "city": "Rogersville",
   "age": 59,
   "gender": "Female",
-  "summary": "Connie Ridgeway, 59, was found stabbed to death in her Lauderdale County, Alabama apartment in October 2015. Inmate Casey White confessed in 2020 and was charged with capital murder, but he later recanted and pleaded not guilty, and in 2023 prosecutors shelved the case shortly before trial without a conviction. White, who escaped from jail in 2022 with corrections officer Vicky White, is serving a 75-year sentence and a life sentence for unrelated crimes and the escape; Ridgeway's murder remains unsolved.",
-  "lastSeen": "2015, Lauderdale County, Alabama",
+  "summary": "Connie Ridgeway, 59, was found stabbed to death in her Rogersville, Alabama, apartment on October 23, 2015. Inmate Casey White was indicted for capital murder in 2020 after confessing, then recanted; in July 2023 prosecutors suspended the case before trial. No one has been convicted, and in March 2026 state investigators offered a reward for information.",
+  "lastSeen": "October 2015, her apartment at Meadowland Apartments, Rogersville, Lauderdale County, Alabama",
   "tags": [
    "2010s"
   ],
   "sources": [
    {
+    "title": "WAFF - Lauderdale Co. District Attorney suspends prosecution of Casey White in 2015 murder charge",
+    "url": "https://www.waff.com/2023/07/28/lauderdale-co-district-attorney-suspends-prosecution-casey-white-2015-murder-charge/"
+   },
+   {
+    "title": "WAFF - ALEA offers reward for information in 2015 Rogersville homicide",
+    "url": "https://www.waff.com/2026/03/08/alea-offers-reward-information-2015-rogersville-homicide/"
+   },
+   {
+    "title": "Newsweek - Connie Ridgeway: The 2015 Murder Casey White Confessed To",
+    "url": "https://www.newsweek.com/connie-ridgeway-casey-white-murder-confession-2015-vicky-white-1704141"
+   },
+   {
     "title": "Fox News - Original murder case dropped against inmate whose escape left jail guard accomplice dead",
     "url": "https://www.foxnews.com/us/original-murder-case-dropped-against-inmate-whose-escape-left-jail-guard-accomplice-dead"
+   },
+   {
+    "title": "WBRC - State will not seek death penalty for Casey White, trial postponed",
+    "url": "https://www.wbrc.com/2022/10/11/state-will-not-seek-death-penalty-casey-white-trial-postponed/"
    },
    {
     "title": "Wikipedia - Casey White prison escape",
@@ -62103,27 +62326,48 @@
    }
   ],
   "narrative": [
-   "Connie Ridgeway, 58, was found stabbed to death in her Lauderdale County, Alabama apartment on October 23, 2015. The case went cold for several years.",
-   "In 2020, while Casey White was serving a 75-year sentence for other crimes, he confessed to an inmate that he had killed Ridgeway as a murder-for-hire. He was charged with capital murder.",
-   "While awaiting trial for Ridgeway's murder, White engineered an escape from jail with the help of corrections officer Vicky White in April 2022. They were fugitives for 11 days before being caught in Indiana.",
-   "White later recanted the confession and pleaded not guilty. In 2023, shortly before the capital murder trial was due to start, prosecutors shelved the case, noting he is expected to die in prison on his other sentences; he has not been convicted of Ridgeway's murder, and her son has said he doubts the confession."
+   "Connie Ridgeway, 59, lived at the Meadowland Apartments on Prince Drive in Rogersville, in Lauderdale County, Alabama. According to Newsweek, on October 23, 2015, police went to her apartment for a welfare check requested by a neighbor and found her dead in her living room. Fox News, citing investigators, reported that she had been stabbed multiple times and struck with a hammer.",
+   "The case remained open for several years. According to Newsweek, Casey White, who was serving a 75-year sentence for a separate 2015 crime spree, told investigators in a 2020 prison interview that he had killed Ridgeway and that he had been paid to do it; the district attorney said White supplied details that matched unreleased evidence. A Lauderdale County grand jury indicted him in 2020 on two counts of capital murder. White later recanted and entered a plea of not guilty by reason of insanity, according to Wikipedia and other reports.",
+   "While awaiting trial in the Lauderdale County jail in Florence, White escaped on April 29, 2022, with the help of Lauderdale County corrections officer Vicky White. The pair were caught in Evansville, Indiana, on May 9, 2022, after a chase, and Vicky White died of a self-inflicted gunshot wound. In October 2022 the district attorney announced that the state would no longer seek the death penalty in the Ridgeway case. On May 5, 2023, Casey White pleaded guilty to first-degree escape and received a life sentence, and a felony murder charge tied to Vicky White's death was dropped.",
+   "On July 28, 2023, WAFF reported that the Lauderdale County district attorney had moved to suspend the capital murder prosecution, with leave to reinstate it later, about two weeks before trial. The state cited White's existing sentences, which leave him ineligible for parole until 2081, the resources a trial would require, and continuing inquiries into whether others were involved. Ridgeway's two adult children supported the decision. Her son told Fox News in 2024 that he did not believe the confession.",
+   "Casey White has not been convicted of Ridgeway's murder. In March 2026, the Alabama Law Enforcement Agency's State Bureau of Investigation announced a $5,000 reward for information that helps resolve the case, according to WAFF."
   ],
   "timeline": [
    {
     "date": "2015-10-23",
-    "event": "Connie Ridgeway murdered."
+    "event": "Connie Ridgeway is found stabbed to death in her Rogersville apartment after a welfare check."
    },
    {
-    "date": "2020-01-01",
-    "event": "Casey White confesses to murder."
+    "date": "2016-03",
+    "event": "Casey White is sentenced to 75 years for crimes in a separate 2015 spree."
    },
    {
-    "date": "2023-01-01",
-    "event": "White convicted of capital murder."
+    "date": "2020",
+    "event": "White confesses in a prison interview and is indicted on two counts of capital murder; he later recants and pleads not guilty by reason of insanity."
+   },
+   {
+    "date": "2022-04-29",
+    "event": "White escapes from the Lauderdale County jail with the help of corrections official Vicky White."
+   },
+   {
+    "date": "2022-05-09",
+    "event": "The pair are caught in Evansville, Indiana; Vicky White dies of a self-inflicted gunshot wound."
+   },
+   {
+    "date": "2022-10-11",
+    "event": "The district attorney says the state will not seek the death penalty in the Ridgeway case; the trial is postponed."
+   },
+   {
+    "date": "2023-05-05",
+    "event": "White pleads guilty to first-degree escape and is sentenced to life."
    },
    {
     "date": "2023-07-28",
-    "event": "Prosecutors drop the capital murder case against Casey White before trial; he is not convicted of Ridgeway's murder. (White had pleaded guilty to the escape on May 5, 2023, receiving a life sentence.)"
+    "event": "Prosecutors move to suspend the capital murder case against White, with leave to reinstate; no conviction."
+   },
+   {
+    "date": "2026-03-08",
+    "event": "ALEA's State Bureau of Investigation announces a $5,000 reward for information in Ridgeway's killing."
    }
   ],
   "enriched": true
@@ -62973,42 +63217,6 @@
    {
     "date": "2025-06-18",
     "event": "Jury at second trial acquits Karen Read of second-degree murder, manslaughter and leaving the scene; she is convicted only of operating under the influence and sentenced to one year of probation."
-   }
-  ],
-  "enriched": true
- },
- {
-  "id": "riley-strain-2024",
-  "name": "Riley Strain",
-  "type": "Suspicious Death",
-  "status": "Solved",
-  "year": 2024,
-  "date": "March 8, 2024",
-  "state": "Tennessee",
-  "city": "Nashville",
-  "age": 22,
-  "gender": "Male",
-  "summary": "University of Missouri senior Riley Strain disappeared on Nashville's Broadway after being kicked out of a bar. His body was found in the Cumberland River two weeks later. His death was ruled accidental drowning.",
-  "lastSeen": "March 8, 2024, Broadway, Nashville, Davidson County, Tennessee",
-  "tags": [
-   "accidental death",
-   "2020s"
-  ],
-  "sources": [],
-  "narrative": [
-   "On March 8, 2024, Riley Strain, a 22-year-old University of Missouri senior, disappeared during a night out on Broadway in Nashville, Tennessee. He was asked to leave Luke Bryan's bar after appearing intoxicated.",
-   "CCTV footage tracked Strain walking toward the Cumberland River. His bank card and phone were found near the riverbank.",
-   "After a two-week search that drew national attention, Strain's body was found in the Cumberland River on March 22, about eight miles downstream from where he was last seen.",
-   "The medical examiner ruled his death an accidental drowning with acute alcohol intoxication as a contributing factor. The case highlighted the dangers of Nashville's riverside bar district."
-  ],
-  "timeline": [
-   {
-    "date": "2024-03-08",
-    "event": "Riley Strain disappears on Nashville Broadway."
-   },
-   {
-    "date": "2024-03-22",
-    "event": "His body found in Cumberland River."
    }
   ],
   "enriched": true
@@ -63952,16 +64160,28 @@
   "city": "Memphis",
   "age": 29,
   "gender": "Male",
-  "summary": "Tyre Nichols, 29, died on January 10, 2023, three days after being beaten by Memphis police officers following a traffic stop. Former officers Desmond Mills Jr. and Emmitt Martin III pleaded guilty to federal and state charges. Tadarrius Bean, Demetrius Haley and Justin Smith were convicted on federal counts in October 2024, but a judge ordered a new federal trial for them in August 2025, and a state jury acquitted all three of all charges, including murder, in May 2025.",
-  "lastSeen": "January 7, 2023, Memphis, Shelby County, Tennessee",
+  "summary": "Tyre Nichols, 29, died on January 10, 2023, three days after he was beaten by Memphis police officers following a traffic stop; the medical examiner ruled his death a homicide. Former officers Desmond Mills Jr. and Emmitt Martin III pleaded guilty to federal charges. A state jury acquitted three other officers in May 2025, and their federal convictions were set aside when a new trial was ordered in August 2025.",
+  "lastSeen": "January 7, 2023, near East Raines Road and Ross Road, Memphis, Tennessee",
   "tags": [
    "police",
    "2020s"
   ],
   "sources": [
    {
-    "title": "Death of Tyre Nichols - Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Death_of_Tyre_Nichols"
+    "title": "PBS NewsHour - 3 former Memphis police officers acquitted in state trial over fatal beating of Tyre Nichols",
+    "url": "https://www.pbs.org/newshour/nation/3-former-memphis-police-officers-acquitted-in-state-trial-over-fatal-beating-of-tyre-nichols"
+   },
+   {
+    "title": "NPR - New trial ordered for 3 Memphis ex-officers in connection with death of Tyre Nichols",
+    "url": "https://www.npr.org/2025/08/29/nx-s1-5521857/trial-memphis-police-tyre-nichols"
+   },
+   {
+    "title": "Action News 5 - Prosecutors appeal new trial for ex-officers in Tyre Nichols case",
+    "url": "https://www.actionnews5.com/2025/09/23/prosecutors-appeal-new-trial-ex-officers-tyre-nichols-case/"
+   },
+   {
+    "title": "Action News 5 - Court dismisses appeals of ex-MPD officers in Tyre Nichols murder case",
+    "url": "https://www.actionnews5.com/2026/04/07/court-dismisses-appeals-ex-mpd-officers-tyre-nichols-murder-case/"
    },
    {
     "title": "Wikipedia - Killing of Tyre Nichols",
@@ -63973,31 +64193,60 @@
    }
   ],
   "narrative": [
-   "On January 7, 2023, Tyre Nichols, a 29-year-old Black man, was stopped by Memphis police during a traffic stop. Officers pulled him from his car and attempted to detain him. Nichols ran.",
-   "Body camera footage showed five officers—all Black members of the SCORPION unit—punching, kicking, and beating Nichols with a baton after catching him near his home. He called out for his mother.",
-   "Nichols died three days later from his injuries. The footage, released on January 27, triggered nationwide protests. The SCORPION unit was permanently disbanded.",
-   "Five officers were fired and charged in both state and federal court. Desmond Mills Jr. and Emmitt Martin III pleaded guilty. In October 2024 a federal jury convicted Demetrius Haley of civil rights, conspiracy and obstruction counts, and convicted Tadarrius Bean and Justin Smith only of obstruction through witness tampering, acquitting them of the civil rights charges. In May 2025 a state jury acquitted Bean, Haley and Smith of all charges, and in August 2025 a federal judge ordered a new trial for the three."
+   "Tyre Nichols, a 29-year-old Black man, was stopped by Memphis police officers on the evening of January 7, 2023, near East Raines Road and Ross Road in Memphis, Tennessee. According to PBS NewsHour, officers pulled him from his car and used pepper spray and a Taser; he ran, and officers caught up with him near his home, where five officers punched and kicked him and struck him with a baton while he called for his mother. He was taken to St. Francis Hospital and died on January 10, 2023. The Shelby County Medical Examiner found that he died of blunt force trauma to the head and ruled the death a homicide, according to Wikipedia.",
+   "The five officers, Tadarrius Bean, Demetrius Haley, Emmitt Martin III, Desmond Mills Jr. and Justin Smith, were members of the department's SCORPION unit. They were fired and, on January 26, 2023, charged in state court with second-degree murder, aggravated assault, aggravated kidnapping, official misconduct and official oppression. The SCORPION unit was disbanded two days later. In September 2023 a federal grand jury indicted the five on civil rights, conspiracy and obstruction charges.",
+   "Mills pleaded guilty to federal charges on November 2, 2023, and Martin on August 23, 2024; both agreed to cooperate with prosecutors and to plead guilty in state court, according to PBS NewsHour and other reports. Mills testified against his former colleagues at the state trial.",
+   "The other three went to trial. In October 2024 a federal jury convicted Haley on all four counts and convicted Bean and Smith only of obstruction of justice through witness tampering, acquitting them of the civil rights counts. On May 7, 2025, a Shelby County jury acquitted Bean, Haley and Smith of all state charges, including second-degree murder.",
+   "On August 28, 2025, U.S. District Judge Sheryl H. Lipman ordered a new federal trial for Bean, Haley and Smith, finding that comments by the original trial judge, Mark Norris, who had since recused himself, created an unacceptable risk of bias, NPR reported. Federal prosecutors appealed that order to the Sixth Circuit in September 2025, and in April 2026 the appeals court dismissed the defendants' cross-appeals for lack of jurisdiction while the government's appeal remained pending, according to Action News 5. Nichols's family has also filed a $550 million civil lawsuit against the City of Memphis and the officers."
   ],
   "timeline": [
    {
     "date": "2023-01-07",
-    "event": "Tyre Nichols beaten by police."
+    "event": "Nichols is stopped and beaten by Memphis police officers."
    },
    {
     "date": "2023-01-10",
-    "event": "Nichols dies from injuries."
+    "event": "Nichols dies at St. Francis Hospital."
+   },
+   {
+    "date": "2023-01-26",
+    "event": "Five former officers are charged with second-degree murder and other state charges."
+   },
+   {
+    "date": "2023-01-28",
+    "event": "Memphis police disband the SCORPION unit."
+   },
+   {
+    "date": "2023-04-19",
+    "event": "Nichols's family files a $550 million civil lawsuit."
+   },
+   {
+    "date": "2023-09",
+    "event": "Federal grand jury indicts the five former officers."
+   },
+   {
+    "date": "2023-11-02",
+    "event": "Desmond Mills Jr. pleads guilty to federal charges."
+   },
+   {
+    "date": "2024-08-23",
+    "event": "Emmitt Martin III pleads guilty to federal charges."
    },
    {
     "date": "2024-10-03",
-    "event": "Three officers convicted."
+    "event": "Federal jury convicts Haley on all counts and Bean and Smith of witness tampering only."
    },
    {
     "date": "2025-05-07",
-    "event": "State jury acquits Bean, Haley and Smith of all charges, including second-degree murder."
+    "event": "State jury acquits Bean, Haley and Smith of all charges."
    },
    {
     "date": "2025-08-28",
-    "event": "Federal judge Sheryl Lipman orders a new trial for Bean, Haley and Smith, citing concerns about possible bias by the original trial judge."
+    "event": "Judge Sheryl Lipman orders a new federal trial for Bean, Haley and Smith."
+   },
+   {
+    "date": "2026-04-07",
+    "event": "Sixth Circuit dismisses the defendants' cross-appeals; the government's appeal of the new-trial order continues."
    }
   ],
   "enriched": true
