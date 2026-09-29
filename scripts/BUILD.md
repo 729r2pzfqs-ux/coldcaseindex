@@ -13,7 +13,7 @@ python3 scripts/check.py     # QA: titles, descriptions, links, schema, sitemap,
 |---|---|
 | `data/cases.json` | Every case. Edit this to change case content. |
 | `data/us-homicide-stats.json` | State and yearly homicide clearance figures, with the source. |
-| `data/redirects.json` | Old case ids that now point at another case (merged duplicates) or were removed. |
+| `data/redirects.json` | Old case id to new case id (merged duplicates, renamed URLs), to a path such as `/types/` (entries removed as out of scope), or `null` (removed, no redirect). |
 | `data/build-state.json` | Content hash, first-published and last-modified date per page. Written by the build. |
 | `scripts/content/*.html` | Body of the about, privacy and 404 pages. |
 | `style.css`, `base.css`, `components.css` | Design tokens, reset, components. Concatenated into `site.css`. |

@@ -1,7 +1,7 @@
 {
   "name": "ColdCaseIndex: Cold Case and Unsolved Crime Database",
   "short_name": "ColdCaseIndex",
-  "description": "Database of 814 documented cold cases and historic crimes",
+  "description": "Database of 793 documented cold cases and historic crimes",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d0d0f",

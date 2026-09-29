@@ -1721,6 +1721,12 @@ def main():
         if not os.path.isdir(full) or d in live_cases:
             continue
         target = redirects.get(d)
+        if target and target.startswith('/'):
+            # removed from the index: send visitors to a browse page
+            with open(os.path.join(full, 'index.html'), 'w', encoding='utf-8') as f:
+                f.write(redirect_stub(f'{BASE_URL}{target}'))
+            stubs += 1
+            continue
         hops = 0
         while target and target not in live_cases and hops < 5:
             target, hops = redirects.get(target), hops + 1
