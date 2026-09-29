@@ -1,0 +1,72 @@
+<section class="section">
+  <div class="section-inner">
+    {{BREADCRUMB}}
+    <h1 class="section-heading">About ColdCaseIndex</h1>
+
+    <div class="about-stats-row">
+      <div class="about-stat"><span class="about-stat-value" id="aboutStatCases">{{CASES}}</span><span class="about-stat-label">Documented cases</span></div>
+      <div class="about-stat"><span class="about-stat-value">{{UNSOLVED}}</span><span class="about-stat-label">Recorded as unsolved</span></div>
+      <div class="about-stat"><span class="about-stat-value">{{REGIONS}}</span><span class="about-stat-label">US states, DC and countries</span></div>
+      <div class="about-stat"><span class="about-stat-value">{{YEARS}}</span><span class="about-stat-label">Years covered</span></div>
+    </div>
+
+    <div class="about-prose">
+
+      <h2>What this site is</h2>
+      <p>ColdCaseIndex is a structured index of cold cases and historically significant crimes. Every entry has a status, a location, a date, a short summary, a dated timeline and a list of the sources it was compiled from. You can browse the index <a href="../states/">by state or country</a>, <a href="../types/">by type</a> or <a href="../decades/">by decade</a>, or search it from the <a href="../">homepage</a>.</p>
+      <p>Most entries are unsolved. The index also keeps cases that were solved, sometimes decades later, because how they were resolved matters: a DNA identification, a confession, a conviction that was later overturned. The status label on every entry says which is which.</p>
+
+      <h2>What the statuses mean</h2>
+      <ul>
+        <li><span class="badge badge-unsolved">Unsolved</span> No one has been charged and the case remains open.</li>
+        <li><span class="badge badge-partial">Partially Solved</span> Part of the case has been resolved, for example one of several killings attributed, while other questions remain open.</li>
+        <li><span class="badge badge-partial">Identified</span> A previously unidentified victim now has a name. It does not mean anyone has been charged.</li>
+        <li><span class="badge badge-arrest">Arrest Made</span> and <span class="badge badge-arrest">Pending Trial</span> Someone has been charged. They are presumed innocent unless convicted.</li>
+        <li><span class="badge badge-arrest">Wanted</span> A named suspect has been charged and is a fugitive.</li>
+        <li><span class="badge badge-conviction">Conviction</span> At least one person was convicted in connection with the case.</li>
+        <li><span class="badge badge-conviction">Solved</span> The case was resolved without a conviction being the deciding fact, for example when DNA identified a perpetrator who had already died.</li>
+        <li><span class="badge badge-neutral">No Conviction</span> The case was tried or closed without a conviction for the death or disappearance: an acquittal, a defendant who died before trial, or a declined indictment.</li>
+        <li><span class="badge badge-neutral">Ruled Suicide</span> Authorities ruled the death a suicide and the ruling has been publicly questioned.</li>
+      </ul>
+
+      <h2>How entries are compiled</h2>
+      <p>Entries are compiled from public sources and written in our own words. In order of preference, those sources are:</p>
+      <ul>
+        <li>Law enforcement and court records: police and sheriff's office releases, FBI and Department of Justice pages, court opinions.</li>
+        <li>Case databases: <a href="https://namus.nij.ojp.gov/" target="_blank" rel="noopener noreferrer">NamUs</a>, the <a href="https://charleyproject.org/" target="_blank" rel="noopener noreferrer">Charley Project</a>, the <a href="https://www.doenetwork.org/" target="_blank" rel="noopener noreferrer">Doe Network</a>, the <a href="https://dnadoeproject.org/" target="_blank" rel="noopener noreferrer">DNA Doe Project</a> and the National Center for Missing &amp; Exploited Children.</li>
+        <li>Reporting from established news organisations.</li>
+        <li>Wikipedia, as a supplementary reference only.</li>
+      </ul>
+      <p>The sources for each entry are listed on its page. Where sources disagree on a date, an age or a detail, the entry uses the less precise value or says that accounts differ.</p>
+
+      <h2>Standards we hold to</h2>
+      <ul>
+        <li>People who have not been convicted are presumed innocent. Acquittals, dismissed charges, overturned convictions and deaths before trial are stated as such.</li>
+        <li>People who were questioned or named in the press but never charged are left unnamed unless an official source named them, and then only with attribution.</li>
+        <li>Deaths involving police are described using adjudicated facts and official findings.</li>
+        <li>No photographs of victims or suspects are published.</li>
+      </ul>
+
+      <h2>Review and corrections</h2>
+      <p>The full index was reviewed in September 2026. Every entry was checked against its sources, statuses were brought up to date, source links that no longer worked were replaced or removed, and entries that could not be verified were taken out. Each case page shows the date it was last updated.</p>
+      <p>Cases change. If an entry is inaccurate or out of date, or if you are a family member who wants an entry corrected or removed, email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
+
+      <h2>National statistics</h2>
+      <p>The homicide clearance figures on the <a href="../#statistics">homepage</a> and on state pages come from the Murder Accountability Project's analysis of FBI Uniform Crime Report data, as published by <a href="https://projectcoldcase.org/cold-case-homicide-stats/" target="_blank" rel="noopener noreferrer">Project: Cold Case</a>. They count {{US_UNSOLVED}} homicides that were not cleared between 1965 and 2024. A case is "cleared" when police make an arrest or close it by exceptional means, so clearance is not the same as conviction.</p>
+
+      <h2>If you have information about a case</h2>
+      <p>ColdCaseIndex does not collect or forward tips. Contact the police force responsible for the case, or:</p>
+      <ul>
+        <li>United States: <a href="https://tips.fbi.gov/" target="_blank" rel="noopener noreferrer">tips.fbi.gov</a> or 1-800-CALL-FBI (1-800-225-5324)</li>
+        <li>Missing children (US): National Center for Missing &amp; Exploited Children, 1-800-THE-LOST (1-800-843-5678)</li>
+        <li>United Kingdom: Crimestoppers, 0800 555 111</li>
+        <li>Canada: Crime Stoppers, 1-800-222-8477</li>
+        <li>Australia: Crime Stoppers, 1800 333 000</li>
+      </ul>
+
+      <h2>What is a cold case?</h2>
+      <p>A cold case is a criminal investigation that remains unsolved and is no longer being actively worked, usually because the leads have run out. Cold cases can be reopened when new evidence, a witness or new forensic methods appear. Forensic genetic genealogy has resolved cases that had been cold for decades.</p>
+
+    </div>
+  </div>
+</section>

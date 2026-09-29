@@ -2,33 +2,34 @@
 
 ## About
 ColdCaseIndex is a searchable database of 911 documented cold cases and historic
-crimes — unsolved homicides, missing persons, unidentified victims, serial-killer
-cases, and landmark solved crimes of historical significance. Coverage spans all
-50 US states, the District of Columbia, and international regions, from the 1880s
-to the 2020s.
+crimes: unsolved homicides, missing persons, unidentified victims, serial
+murders, and solved cases of historical significance. Coverage spans all 50 US
+states, the District of Columbia and other countries.
 
-Each case entry includes: victim/case name, case type, investigation status
-(Unsolved, Arrest Made, Conviction, Partially Solved, No Conviction, Solved,
-Identified), date, city and state or region, victim age and gender, a factual
-summary, and last-known information where available.
+Each entry has: name, case type, status (Unsolved, Partially Solved, Identified,
+Arrest Made, Pending Trial, Wanted, Conviction, Solved, No Conviction, Ruled
+Suicide), date, location, a summary, a dated timeline and its sources.
+People who have not been convicted are presumed innocent.
 
 ## Data
-- Machine-readable case data: https://coldcaseindex.com/data/cases.json
-  (JSON array; one object per case with id, name, type, status, year, date,
-  state, city, age, gender, summary, lastSeen, tags, country)
-- Sources include the Murder Accountability Project, FBI UCR data, NamUs,
-  court records, law-enforcement releases, and established news reporting.
+- Full dataset: https://coldcaseindex.com/data/cases.json
+  (JSON array; id, name, type, status, year, date, state, city, country, age,
+  gender, summary, lastSeen, tags, narrative, timeline, sources)
+- Compact index: https://coldcaseindex.com/data/cases-index.json
+- US homicide clearance statistics, 1965 to 2024, by state and year:
+  https://coldcaseindex.com/data/us-homicide-stats.json
+  (Murder Accountability Project analysis of FBI data, via Project: Cold Case)
 
 ## URLs
-- Homepage (search + filters): https://coldcaseindex.com/
-- Individual case pages: https://coldcaseindex.com/cases/{case-id}/
-- Cases by state/region directory: https://coldcaseindex.com/states/
-- Per-state pages: https://coldcaseindex.com/states/{state-name}/
-- About & methodology: https://coldcaseindex.com/about/
-- Privacy policy: https://coldcaseindex.com/privacy/
+- Homepage and search: https://coldcaseindex.com/
+- Case pages: https://coldcaseindex.com/cases/{case-id}/
+- By state or country: https://coldcaseindex.com/states/
+- By type: https://coldcaseindex.com/types/
+- By decade: https://coldcaseindex.com/decades/
+- About and methodology: https://coldcaseindex.com/about/
 - Sitemap: https://coldcaseindex.com/sitemap.xml
 
 ## Contact
-Corrections, updates, or removal requests: info@coldcaseindex.com
-If you have information about an unsolved case, contact local law enforcement
-or the FBI at 1-800-CALL-FBI (tips.fbi.gov).
+Corrections, updates or removal requests: info@coldcaseindex.com
+ColdCaseIndex does not collect tips. If you have information about a case,
+contact the responsible police force or the FBI at tips.fbi.gov.

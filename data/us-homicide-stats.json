@@ -1,0 +1,599 @@
+{
+ "source": {
+  "name": "Project: Cold Case \u2014 Cold Case Homicide Stats (Murder Accountability Project analysis of FBI Uniform Crime Report data)",
+  "url": "https://projectcoldcase.org/cold-case-homicide-stats/",
+  "retrieved": "2026-09-29",
+  "period": "1965-2024",
+  "note": "Clearance figures for Illinois and New York are estimates because those states report only partial clearance data."
+ },
+ "national": {
+  "period": "1965-2024",
+  "unsolved": 352390,
+  "since1980": {
+   "period": "1980-2024",
+   "homicides": 792291,
+   "clearancePct": 63,
+   "unsolved": 293724
+  }
+ },
+ "states": [
+  {
+   "state": "Alabama",
+   "homicides": 22077,
+   "clearancePct": 60,
+   "unsolved": 8896
+  },
+  {
+   "state": "Alaska",
+   "homicides": 2561,
+   "clearancePct": 77,
+   "unsolved": 578
+  },
+  {
+   "state": "Arizona",
+   "homicides": 18490,
+   "clearancePct": 64,
+   "unsolved": 6695
+  },
+  {
+   "state": "Arkansas",
+   "homicides": 11422,
+   "clearancePct": 75,
+   "unsolved": 2801
+  },
+  {
+   "state": "California",
+   "homicides": 139170,
+   "clearancePct": 62,
+   "unsolved": 53107
+  },
+  {
+   "state": "Colorado",
+   "homicides": 10911,
+   "clearancePct": 69,
+   "unsolved": 3335
+  },
+  {
+   "state": "Connecticut",
+   "homicides": 7323,
+   "clearancePct": 72,
+   "unsolved": 2082
+  },
+  {
+   "state": "Delaware",
+   "homicides": 2309,
+   "clearancePct": 71,
+   "unsolved": 668
+  },
+  {
+   "state": "District of Columbia",
+   "homicides": 14087,
+   "clearancePct": 61,
+   "unsolved": 5507
+  },
+  {
+   "state": "Florida",
+   "homicides": 60110,
+   "clearancePct": 65,
+   "unsolved": 20807
+  },
+  {
+   "state": "Georgia",
+   "homicides": 36791,
+   "clearancePct": 64,
+   "unsolved": 13171
+  },
+  {
+   "state": "Hawaii",
+   "homicides": 2206,
+   "clearancePct": 67,
+   "unsolved": 734
+  },
+  {
+   "state": "Idaho",
+   "homicides": 1967,
+   "clearancePct": 80,
+   "unsolved": 394
+  },
+  {
+   "state": "Illinois",
+   "homicides": 54880,
+   "clearancePct": 54,
+   "unsolved": 25328
+  },
+  {
+   "state": "Indiana",
+   "homicides": 19779,
+   "clearancePct": 57,
+   "unsolved": 8470
+  },
+  {
+   "state": "Iowa",
+   "homicides": 3274,
+   "clearancePct": 74,
+   "unsolved": 850
+  },
+  {
+   "state": "Kansas",
+   "homicides": 6276,
+   "clearancePct": 65,
+   "unsolved": 2191
+  },
+  {
+   "state": "Kentucky",
+   "homicides": 13878,
+   "clearancePct": 73,
+   "unsolved": 3752
+  },
+  {
+   "state": "Louisiana",
+   "homicides": 32202,
+   "clearancePct": 63,
+   "unsolved": 11775
+  },
+  {
+   "state": "Maine",
+   "homicides": 1465,
+   "clearancePct": 79,
+   "unsolved": 301
+  },
+  {
+   "state": "Maryland",
+   "homicides": 27090,
+   "clearancePct": 66,
+   "unsolved": 9235
+  },
+  {
+   "state": "Massachusetts",
+   "homicides": 10409,
+   "clearancePct": 61,
+   "unsolved": 4085
+  },
+  {
+   "state": "Michigan",
+   "homicides": 46010,
+   "clearancePct": 54,
+   "unsolved": 20989
+  },
+  {
+   "state": "Minnesota",
+   "homicides": 6789,
+   "clearancePct": 68,
+   "unsolved": 2143
+  },
+  {
+   "state": "Mississippi",
+   "homicides": 11126,
+   "clearancePct": 70,
+   "unsolved": 3373
+  },
+  {
+   "state": "Missouri",
+   "homicides": 26091,
+   "clearancePct": 71,
+   "unsolved": 7611
+  },
+  {
+   "state": "Montana",
+   "homicides": 1521,
+   "clearancePct": 67,
+   "unsolved": 501
+  },
+  {
+   "state": "Nebraska",
+   "homicides": 2993,
+   "clearancePct": 82,
+   "unsolved": 536
+  },
+  {
+   "state": "Nevada",
+   "homicides": 8267,
+   "clearancePct": 69,
+   "unsolved": 2572
+  },
+  {
+   "state": "New Hampshire",
+   "homicides": 1038,
+   "clearancePct": 67,
+   "unsolved": 338
+  },
+  {
+   "state": "New Jersey",
+   "homicides": 22604,
+   "clearancePct": 68,
+   "unsolved": 7192
+  },
+  {
+   "state": "New Mexico",
+   "homicides": 7627,
+   "clearancePct": 60,
+   "unsolved": 3063
+  },
+  {
+   "state": "New York",
+   "homicides": 81154,
+   "clearancePct": 65,
+   "unsolved": 28249
+  },
+  {
+   "state": "North Carolina",
+   "homicides": 33874,
+   "clearancePct": 79,
+   "unsolved": 6965
+  },
+  {
+   "state": "North Dakota",
+   "homicides": 631,
+   "clearancePct": 83,
+   "unsolved": 106
+  },
+  {
+   "state": "Ohio",
+   "homicides": 35885,
+   "clearancePct": 64,
+   "unsolved": 12877
+  },
+  {
+   "state": "Oklahoma",
+   "homicides": 13324,
+   "clearancePct": 78,
+   "unsolved": 2887
+  },
+  {
+   "state": "Oregon",
+   "homicides": 6567,
+   "clearancePct": 66,
+   "unsolved": 2240
+  },
+  {
+   "state": "Pennsylvania",
+   "homicides": 40589,
+   "clearancePct": 74,
+   "unsolved": 10559
+  },
+  {
+   "state": "Rhode Island",
+   "homicides": 1834,
+   "clearancePct": 63,
+   "unsolved": 671
+  },
+  {
+   "state": "South Carolina",
+   "homicides": 20328,
+   "clearancePct": 77,
+   "unsolved": 4639
+  },
+  {
+   "state": "South Dakota",
+   "homicides": 945,
+   "clearancePct": 72,
+   "unsolved": 267
+  },
+  {
+   "state": "Tennessee",
+   "homicides": 25461,
+   "clearancePct": 67,
+   "unsolved": 8277
+  },
+  {
+   "state": "Texas",
+   "homicides": 96067,
+   "clearancePct": 72,
+   "unsolved": 26570
+  },
+  {
+   "state": "Utah",
+   "homicides": 3135,
+   "clearancePct": 73,
+   "unsolved": 857
+  },
+  {
+   "state": "Vermont",
+   "homicides": 611,
+   "clearancePct": 63,
+   "unsolved": 225
+  },
+  {
+   "state": "Virginia",
+   "homicides": 25850,
+   "clearancePct": 75,
+   "unsolved": 6540
+  },
+  {
+   "state": "Washington",
+   "homicides": 12135,
+   "clearancePct": 70,
+   "unsolved": 3698
+  },
+  {
+   "state": "West Virginia",
+   "homicides": 5375,
+   "clearancePct": 77,
+   "unsolved": 1222
+  },
+  {
+   "state": "Wisconsin",
+   "homicides": 10152,
+   "clearancePct": 77,
+   "unsolved": 2303
+  },
+  {
+   "state": "Wyoming",
+   "homicides": 1047,
+   "clearancePct": 84,
+   "unsolved": 165
+  }
+ ],
+ "years": [
+  {
+   "year": 1980,
+   "homicides": 23040,
+   "clearancePct": 72,
+   "unsolved": 6451
+  },
+  {
+   "year": 1981,
+   "homicides": 22520,
+   "clearancePct": 72,
+   "unsolved": 6306
+  },
+  {
+   "year": 1982,
+   "homicides": 21010,
+   "clearancePct": 74,
+   "unsolved": 5463
+  },
+  {
+   "year": 1983,
+   "homicides": 19308,
+   "clearancePct": 76,
+   "unsolved": 4634
+  },
+  {
+   "year": 1984,
+   "homicides": 18692,
+   "clearancePct": 74,
+   "unsolved": 4860
+  },
+  {
+   "year": 1985,
+   "homicides": 18976,
+   "clearancePct": 72,
+   "unsolved": 5313
+  },
+  {
+   "year": 1986,
+   "homicides": 20613,
+   "clearancePct": 70,
+   "unsolved": 5313
+  },
+  {
+   "year": 1987,
+   "homicides": 20096,
+   "clearancePct": 70,
+   "unsolved": 6029
+  },
+  {
+   "year": 1988,
+   "homicides": 20675,
+   "clearancePct": 70,
+   "unsolved": 6203
+  },
+  {
+   "year": 1989,
+   "homicides": 21500,
+   "clearancePct": 68,
+   "unsolved": 6880
+  },
+  {
+   "year": 1990,
+   "homicides": 23438,
+   "clearancePct": 67,
+   "unsolved": 7735
+  },
+  {
+   "year": 1991,
+   "homicides": 24703,
+   "clearancePct": 65,
+   "unsolved": 8316
+  },
+  {
+   "year": 1992,
+   "homicides": 23760,
+   "clearancePct": 65,
+   "unsolved": 8316
+  },
+  {
+   "year": 1993,
+   "homicides": 24526,
+   "clearancePct": 66,
+   "unsolved": 8339
+  },
+  {
+   "year": 1994,
+   "homicides": 23326,
+   "clearancePct": 64,
+   "unsolved": 8397
+  },
+  {
+   "year": 1995,
+   "homicides": 21606,
+   "clearancePct": 65,
+   "unsolved": 7562
+  },
+  {
+   "year": 1996,
+   "homicides": 19645,
+   "clearancePct": 67,
+   "unsolved": 6483
+  },
+  {
+   "year": 1997,
+   "homicides": 18208,
+   "clearancePct": 66,
+   "unsolved": 6191
+  },
+  {
+   "year": 1998,
+   "homicides": 16974,
+   "clearancePct": 69,
+   "unsolved": 5262
+  },
+  {
+   "year": 1999,
+   "homicides": 15522,
+   "clearancePct": 69,
+   "unsolved": 4812
+  },
+  {
+   "year": 2000,
+   "homicides": 15586,
+   "clearancePct": 63,
+   "unsolved": 5767
+  },
+  {
+   "year": 2001,
+   "homicides": 16037,
+   "clearancePct": 62,
+   "unsolved": 6094
+  },
+  {
+   "year": 2002,
+   "homicides": 16229,
+   "clearancePct": 64,
+   "unsolved": 5842
+  },
+  {
+   "year": 2003,
+   "homicides": 16528,
+   "clearancePct": 62,
+   "unsolved": 6281
+  },
+  {
+   "year": 2004,
+   "homicides": 16148,
+   "clearancePct": 63,
+   "unsolved": 5975
+  },
+  {
+   "year": 2005,
+   "homicides": 16740,
+   "clearancePct": 62,
+   "unsolved": 6361
+  },
+  {
+   "year": 2006,
+   "homicides": 17030,
+   "clearancePct": 61,
+   "unsolved": 6642
+  },
+  {
+   "year": 2007,
+   "homicides": 16929,
+   "clearancePct": 61,
+   "unsolved": 6602
+  },
+  {
+   "year": 2008,
+   "homicides": 16272,
+   "clearancePct": 64,
+   "unsolved": 5858
+  },
+  {
+   "year": 2009,
+   "homicides": 15166,
+   "clearancePct": 59,
+   "unsolved": 6216
+  },
+  {
+   "year": 2010,
+   "homicides": 14577,
+   "clearancePct": 58,
+   "unsolved": 6158
+  },
+  {
+   "year": 2011,
+   "homicides": 14551,
+   "clearancePct": 58,
+   "unsolved": 6163
+  },
+  {
+   "year": 2012,
+   "homicides": 14822,
+   "clearancePct": 56,
+   "unsolved": 6456
+  },
+  {
+   "year": 2013,
+   "homicides": 14103,
+   "clearancePct": 61,
+   "unsolved": 5489
+  },
+  {
+   "year": 2014,
+   "homicides": 13923,
+   "clearancePct": 61,
+   "unsolved": 5413
+  },
+  {
+   "year": 2015,
+   "homicides": 15594,
+   "clearancePct": 59,
+   "unsolved": 6453
+  },
+  {
+   "year": 2016,
+   "homicides": 16891,
+   "clearancePct": 56,
+   "unsolved": 7509
+  },
+  {
+   "year": 2017,
+   "homicides": 17004,
+   "clearancePct": 58,
+   "unsolved": 7154
+  },
+  {
+   "year": 2018,
+   "homicides": 15877,
+   "clearancePct": 59,
+   "unsolved": 6537
+  },
+  {
+   "year": 2019,
+   "homicides": 15449,
+   "clearancePct": 58,
+   "unsolved": 6544
+  },
+  {
+   "year": 2020,
+   "homicides": 20221,
+   "clearancePct": 51,
+   "unsolved": 9847
+  },
+  {
+   "year": 2021,
+   "homicides": 14715,
+   "clearancePct": 51,
+   "unsolved": 7173
+  },
+  {
+   "year": 2022,
+   "homicides": 20419,
+   "clearancePct": 54,
+   "unsolved": 9458
+  },
+  {
+   "year": 2023,
+   "homicides": 18375,
+   "clearancePct": 58,
+   "unsolved": 7778
+  },
+  {
+   "year": 2024,
+   "homicides": 16135,
+   "clearancePct": 61,
+   "unsolved": 6280
+  }
+ ]
+}
