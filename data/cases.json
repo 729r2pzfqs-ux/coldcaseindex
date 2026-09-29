@@ -43613,13 +43613,13 @@
   "type": "Homicide",
   "status": "Unsolved",
   "year": 2004,
-  "date": "May 2004 (body found May 25, 2004)",
+  "date": "May 22, 2004 (body found May 24, 2004)",
   "state": "Colorado",
   "city": "Aurora",
   "age": 53,
   "gender": "Male",
-  "summary": "Aurora, Colorado engineer Oakey Kite was tortured and murdered in his home by someone posing as a prospective tenant. DNA from the scene has never been matched. The killer used a fake identity and may be a serial offender.",
-  "lastSeen": "May 22, 2004, Aurora, Colorado",
+  "summary": "Oakey Albert \"Al\" Kite Jr., a 53-year-old engineering consultant, was found bound and stabbed to death in the basement of his Aurora, Colorado townhome on May 24, 2004. Police say the killer was a man who had rented the basement days earlier under the false name \"Robert Cooper.\" DNA from the scene has not been matched and the case remains open.",
+  "lastSeen": "May 2004, his townhome at 2002 South Helena Street, Aurora, Colorado",
   "tags": [
    "torture",
    "identity theft",
@@ -43627,32 +43627,53 @@
   ],
   "sources": [
    {
+    "title": "Denver7 - DNA technique revealing face of Aurora man's killer 13 years later",
+    "url": "https://www.denver7.com/news/crime/dna-technique-could-reveal-face-of-aurora-mans-killer-13-years-later"
+   },
+   {
+    "title": "Oxygen - Paul Holes Investigates Colorado Murder Of Oakey 'Al' Kite",
+    "url": "https://www.oxygen.com/the-dna-of-murder-with-paul-holes/crime-news/paul-holes-investigates-colorado-murder-of-oakey-al"
+   },
+   {
+    "title": "Solve the Case - Oakey Albert Kite Jr. Unsolved Homicide Case",
+    "url": "https://www.solvethecase.org/case/2004-8/Oakley-Albert-Kite"
+   },
+   {
     "title": "Wikipedia - List of unsolved murders (2000-present), Oakey \"Al\" Kite entry",
     "url": "https://en.wikipedia.org/wiki/List_of_unsolved_murders_(2000%E2%80%93present)"
    }
   ],
   "narrative": [
-   "On May 22, 2004, friends discovered the body of Oakey 'Al' Kite, a 53-year-old engineer, in his Aurora, Colorado home. Kite had been bound and tortured before being killed. The scene was exceptionally brutal—investigators described it as one of the most disturbing crime scenes they had encountered.",
-   "The investigation revealed that Kite had been advertising a room for rent in his home. He had shown the room to a prospective tenant who used the name 'Robert Cooper' and presented a fake ID. This person is believed to be the killer. 'Cooper' had called Kite multiple times in the days before the murder, and investigators obtained DNA from items the suspect left at the scene.",
-   "The DNA profile did not match anyone in law enforcement databases, including CODIS. A composite sketch of 'Robert Cooper' was created from witnesses who had seen him, describing a man in his 30s or 40s with a medium build. The fake name and Social Security number he provided were untraceable.",
-   "The methodical nature of the crime—the use of a false identity to gain access, the preparation involved, and the extreme violence—led investigators to believe this may not have been the killer's first crime. Some researchers have speculated about possible connections to other unsolved crimes, but no links have been confirmed. The case remains one of Colorado's most baffling unsolved murders."
+   "Oakey Albert \"Al\" Kite Jr., 53, was an engineering consultant who lived alone in a townhome at 2002 South Helena Street in Aurora, Colorado, according to Solve the Case. In May 2004 he advertised for someone to rent his basement. A man calling himself Robert Cooper, who said he was moving from the East Coast for a technology job, met Kite on May 18, 2004, paid a deposit and part of the rent, and moved in, according to Solve the Case and Oxygen.",
+   "On May 24, 2004, co-workers became concerned when Kite did not come to work and called Aurora police, Denver7 reported. Officers found his body in the basement. He had been bound, tortured and killed with his own kitchen knives. Solve the Case, citing the case summary, places the attack on the evening of May 22. According to Denver7 and Oxygen, the killer cleaned the scene and left knives and other items he had handled in a sink filled with bleach.",
+   "After the killing, Kite's debit card was used at a nearby Wells Fargo ATM by a man wearing a mask and gloves who was driving Kite's pickup truck, Denver7 reported. Oxygen and Solve the Case report that about $1,000 was withdrawn. Investigators found that every detail \"Robert Cooper\" had given Kite was false, according to Solve the Case, which also reports that a prepaid phone he used had been bought weeks earlier. Witnesses described him as a white man with dark curly hair who used a cane.",
+   "A drop of blood from an unknown man was found on the basement stairs and entered into the FBI's CODIS database without a match, Oxygen reported. In December 2017 Aurora police released a composite image produced by Parabon NanoLabs through DNA phenotyping, estimating how the man might have looked at age 25, Denver7 reported; the analysis suggested brown eyes, brown hair and southeastern European ancestry. In 2019 retired investigator Paul Holes reviewed the case for the Oxygen series The DNA of Murder, and the DNA was submitted for genetic genealogy work with the FBI's help, according to Oxygen.",
+   "No one has been identified or charged. According to Solve the Case, the investigation remains open with the Aurora Police Department, and Denver7 reported that police continue to ask anyone with information to contact the detective assigned to the case."
   ],
   "timeline": [
    {
-    "date": "2004-05-15",
-    "event": "'Robert Cooper' contacts Oakey Kite about renting a room."
+    "date": "2004-05",
+    "event": "Kite advertises to rent out his basement."
+   },
+   {
+    "date": "2004-05-18",
+    "event": "A man calling himself Robert Cooper meets Kite, pays rent and moves in."
    },
    {
     "date": "2004-05-22",
-    "event": "Kite is found tortured and murdered in his Aurora home."
+    "event": "Kite is attacked and killed in his basement (per Solve the Case)."
    },
    {
-    "date": "2004-05-23",
-    "event": "Police identify 'Robert Cooper' as a fake identity; DNA collected."
+    "date": "2004-05-24",
+    "event": "Co-workers alert police after he misses work; officers find his body. His ATM card is found to have been used by a masked man driving his truck."
    },
    {
-    "date": "2004-06-01",
-    "event": "Composite sketch released; no match in DNA databases."
+    "date": "2017-12",
+    "event": "Aurora police release a DNA-phenotyping composite of the suspect produced by Parabon NanoLabs."
+   },
+   {
+    "date": "2019-11",
+    "event": "Paul Holes reviews the case for Oxygen's The DNA of Murder; the DNA is submitted for genetic genealogy with FBI assistance."
    }
   ],
   "enriched": true
@@ -45767,8 +45788,8 @@
   "city": "Wildwood",
   "age": 20,
   "gender": "Female",
-  "summary": "Susan Negersmith, a 20-year-old from Carmel, New York, was found dead in Wildwood, New Jersey, over Memorial Day weekend 1990. Her death was first ruled accidental and later reclassified as a homicide. In 2022 genetic genealogy led prosecutors to charge Jerry Rosado with sexual assault, not with her death; New Jersey courts, including the state Supreme Court in December 2023, ruled the charge was barred by the statute of limitations. No one has been charged with killing her and the case remains unsolved.",
-  "lastSeen": "May 26-27, 1990, in Wildwood, New Jersey, during Memorial Day weekend",
+  "summary": "Susan Negersmith, 20, of Carmel, New York, was found dead behind a Wildwood, New Jersey, restaurant on May 27, 1990. Her death was first ruled accidental and later reclassified as a homicide. A man charged in 2022 with sexually assaulting her was never tried: the New Jersey Supreme Court ruled in 2023 that the charge was time-barred. No one has been charged with her death.",
+  "lastSeen": "Evening of May 26, 1990, with friends in Wildwood, New Jersey, during Memorial Day weekend",
   "tags": [
    "reclassified death",
    "sexual assault",
@@ -45778,20 +45799,20 @@
   ],
   "sources": [
    {
-    "title": "Susan Negersmith case: Arrest made in 32-year-old rape, homicide - ABC7 New York",
-    "url": "https://abc7ny.com/susan-negersmith-murder-rape-cold-case-wildwood-new-jersey-jerry-rosado-arrest/11728204/"
-   },
-   {
-    "title": "Susan Negersmith case: Arrest made in connection with 32-year-old rape - 6abc Philadelphia",
-    "url": "https://6abc.com/susan-negersmith-murder-rape-cold-case-wildwood-new-jersey-jerry-rosado-arrest/11728109/"
-   },
-   {
-    "title": "Wildwood slaying once ruled an accident remains unsolved - Philadelphia Inquirer",
+    "title": "Philadelphia Inquirer - Wildwood slaying once ruled an accident remains unsolved (2015)",
     "url": "https://www.inquirer.com/philly/news/new_jersey/20150529_Wildwood_slaying_once_ruled_an_accident_remains_unsolved.html"
    },
    {
-    "title": "Jerry Rosado Charged With Sexually Assaulting Susan Negersmith - NBC10 Philadelphia",
+    "title": "6abc Philadelphia - Susan Negersmith case: Arrest made in connection with 32-year-old rape",
+    "url": "https://6abc.com/susan-negersmith-murder-rape-cold-case-wildwood-new-jersey-jerry-rosado-arrest/11728109/"
+   },
+   {
+    "title": "NBC10 Philadelphia - Arrest in rape of woman who was found dead in Wildwood 32 years ago",
     "url": "https://www.nbcphiladelphia.com/news/local/arrest-in-rape-of-woman-who-was-found-dead-in-wildwood-32-years-ago/3202415/"
+   },
+   {
+    "title": "Patch - Man accused of 1990 Jersey Shore rape can't be tried, court rules",
+    "url": "https://patch.com/new-jersey/oceancity/man-cant-be-tried-1990-sex-assault-woman-jersey-shore"
    },
    {
     "title": "Google News feed - New Jersey Monitor (Dec 13, 2023), Courier-Post (Mar 29 and Dec 16, 2023), NBC10 (Apr 8, 2022)",
@@ -45799,44 +45820,44 @@
    }
   ],
   "narrative": [
-   "Susan Negersmith was a 20-year-old woman from Carmel, New York, who had traveled to the Jersey Shore resort town of Wildwood to celebrate Memorial Day weekend in 1990. On May 27, 1990, her partially clothed body was discovered in a rear outdoor storage area behind a Wildwood restaurant. She had been out enjoying the holiday weekend and was found dead not long after, setting in motion a case whose official cause and manner of death would be disputed for years.",
-   "The initial investigation reached a conclusion that would later prove deeply controversial. Authorities ruled Susan's death accidental, attributing it to alcohol intoxication and exposure to the elements, despite an autopsy that documented numerous areas of trauma on her body, including bruising to her skull. Her family rejected the finding from the start, insisting that the injuries and circumstances pointed to a violent crime rather than a tragic accident, and they pressed for years to have the case reexamined.",
-   "Their persistence, combined with renewed scrutiny by the state's Division of Criminal Justice, eventually forced a reversal. The state brought in the prominent forensic pathologist Dr. Michael Baden to review the evidence, and he concluded that Susan had been raped and smothered. In July 1993 the state reversed the original accidental ruling, and by 1995 the county amended her death certificate to reflect that she had been the victim of a homicide. The case then became an active, if long-stalled, murder investigation.",
-   "For decades the killing went unsolved, even as investigators preserved a DNA profile developed from evidence on Susan's body and compared it fruitlessly against numerous persons of interest. The breakthrough came through forensic genetic genealogy. Beginning in 2018, the Cape May County Prosecutor's Office used genealogical analysis of the unknown DNA profile and identified Jerry Rosado, a man from Millville, New Jersey, as a match. In April 2022, nearly 32 years after Susan's death, Rosado was arrested and charged with second-degree sexual assault, though authorities emphasized he had not been charged in her death itself.",
-   "The apparent resolution did not hold. In March 2023 an appellate court ruled that the prosecution of Rosado could not proceed because the statute of limitations on the sexual-assault charge had long since expired, and in December 2023 the New Jersey Supreme Court agreed, ending the case against him. As a result, no one has ever been convicted in connection with Susan Negersmith's death. For the family that spent years fighting simply to have her death recognized as a homicide, the outcome was another bitter disappointment: the only charge ever filed in the case, a sexual-assault count, could not be tried, and no one has been charged with her death. Her case stands as a stark illustration of how an early, mistaken ruling and decades-old statutes of limitations can combine to foreclose prosecution, and the homicide of Susan Negersmith remains, more than three decades later, unsolved."
+   "Susan Negersmith, 20, from Carmel, New York, was in Wildwood, New Jersey, with friends over Memorial Day weekend in 1990. Early on May 27, 1990, her partially clothed body was found in an outdoor storage area behind Schellenger's, a seafood restaurant about two blocks from the boardwalk, according to the Philadelphia Inquirer and NBC10.",
+   "The first official finding was that her death was accidental, caused by alcohol intoxication and exposure. Her family disputed that conclusion. According to the Inquirer, forensic pathologist Dr. Michael Baden later reviewed the case and concluded that she had been raped and smothered; the state reversed the original autopsy finding in July 1993, and the county changed her death certificate to homicide in 1995. In 2015 the Cape May County Prosecutor's Office still listed the case as an active homicide investigation.",
+   "A DNA profile had been developed from evidence on her body. According to the Cape May County Prosecutor's Office, as reported by 6abc and NBC10, investigators used genetic genealogy analysis beginning in 2018 and identified Jerry Rosado, of Millville, New Jersey, as a possible match; a later DNA comparison was reported in 2021. On April 8, 2022, Rosado, then 62, was arrested and charged with second-degree sexual assault. Prosecutors stressed that he had not been charged in connection with her death.",
+   "Rosado's lawyers argued that the prosecution was barred by the five-year statute of limitations that applied to sexual assault in 1990. The trial court disagreed, but the Appellate Division reversed, finding that the limitation period had run out on May 27, 1995, according to Patch. On December 13, 2023, the New Jersey Supreme Court agreed, holding that later changes to the law removing the time limit could not revive a prosecution that had already expired. The charge could not proceed, and Rosado was never tried or convicted of any offense related to Susan Negersmith.",
+   "No one has been charged with causing her death, and the homicide remains unsolved. Her father, Kent Negersmith, and her sister, Emily, have spoken publicly over the years about the family's efforts to have her death recognized as a homicide and to see the case resolved, the Inquirer reported."
   ],
   "timeline": [
    {
-    "date": "1990",
-    "event": "Her death is initially ruled accidental, attributed to alcohol intoxication and exposure."
+    "date": "1990-05-26",
+    "event": "Susan Negersmith spends the evening with friends in Wildwood during Memorial Day weekend."
    },
    {
-    "date": "May 27, 1990",
-    "event": "Susan Negersmith's partially clothed body is found behind a Wildwood, New Jersey restaurant over Memorial Day weekend."
+    "date": "1990-05-27",
+    "event": "Her partially clothed body is found behind a Wildwood restaurant; her death is initially ruled accidental."
    },
    {
-    "date": "July 1993",
-    "event": "After review by forensic pathologist Dr. Michael Baden, the state reverses the ruling; he concludes she was raped and smothered."
+    "date": "1993-07",
+    "event": "After a review including forensic pathologist Dr. Michael Baden, the state reverses the accidental finding; Baden concludes she was raped and smothered."
    },
    {
     "date": "1995",
-    "event": "The county amends Susan's death certificate to classify her death as a homicide."
+    "event": "Cape May County amends her death certificate to list the death as a homicide."
    },
    {
     "date": "2018",
-    "event": "Forensic genetic genealogy analysis of the crime-scene DNA profile identifies Jerry Rosado as a match."
+    "event": "Investigators begin genetic genealogy analysis of the unknown DNA profile, which points to Jerry Rosado of Millville."
    },
    {
-    "date": "April 2022",
-    "event": "Rosado is arrested and charged with second-degree sexual assault, but not with Susan's death."
+    "date": "2022-04-08",
+    "event": "Rosado is arrested and charged with second-degree sexual assault; he is not charged in her death."
    },
    {
     "date": "2023",
-    "event": "An appellate court dismisses the charges on statute-of-limitations grounds; the homicide remains unsolved."
+    "event": "The Appellate Division rules that the five-year statute of limitations on the sexual assault charge expired in 1995."
    },
    {
-    "date": "December 2023",
-    "event": "The New Jersey Supreme Court rules that the sexual-assault charge against Jerry Rosado is barred by the statute of limitations; no one has been charged with Susan's death."
+    "date": "2023-12-13",
+    "event": "The New Jersey Supreme Court upholds that ruling; the charge against Rosado cannot proceed."
    }
   ],
   "enriched": true
@@ -59139,16 +59160,21 @@
     "url": "https://www.cbsnews.com/news/nikki-kuhnhausen-david-bogdanov-transgender-teens-murder-new-law/"
    },
    {
+    "title": "CBS News - Nikki Kuhnhausen's family and advocates criticise $750,000 bail for suspect",
+    "url": "https://www.cbsnews.com/news/nikki-kuhnhausen-family-advocates-blast-750k-bail-for-suspect-david-bogdanov-in-transgender-teens-murder-today-2020-1/"
+   },
+   {
     "title": "Washington Courts - State v. Bogdanov, No. 102307-3, Petition for Review",
     "url": "https://www.courts.wa.gov/content/petitions/102307-3%20Petition%20for%20Review.pdf"
    }
   ],
   "narrative": [
    "Nikki Kuhnhausen was a 17-year-old transgender girl from Vancouver, Washington, who went missing on June 6, 2019, according to CBS News. A petition later filed on behalf of the man convicted of her killing states that she had been with David Bogdanov and others from the evening of June 5 into the early hours of the following morning.",
-   "On December 7, 2019, her remains were found in woods near Larch Mountain in northeast Clark County, CBS News reported. Bogdanov was arrested on December 17, 2019. According to CBS News, investigators determined that she had been strangled with a phone charging cord.",
+   "On December 7, 2019, her remains were found in woods near Larch Mountain in northeast Clark County, CBS News reported. Bogdanov was arrested on December 17, 2019. According to CBS News, investigators determined that she had been strangled with a phone charging cord. A bail of $750,000 set after his arrest drew criticism from her family and advocates, CBS News reported.",
    "At trial in Clark County Superior Court, Bogdanov claimed that he acted in self-defense after learning during a sexual encounter that Kuhnhausen was transgender and that she then attacked him, according to KATU. Prosecutors argued that the evidence contradicted his account. On August 27, 2021 the jury found him guilty of second-degree murder and malicious harassment, the offense Washington uses to prosecute hate crimes, KATU reported.",
    "On September 9, 2021, Judge David Gregerson sentenced Bogdanov to nearly 20 years in prison, the top of the range, KATU and CBS News reported. The judge noted the age difference between them, that Bogdanov had supplied alcohol to a minor, and the way her remains were disposed of, according to the reports.",
    "Bogdanov appealed. Division II of the Washington Court of Appeals affirmed the conviction in a published opinion issued on July 25, 2023, according to a petition for review later filed with the Washington Supreme Court on his behalf. The sources reviewed did not report the outcome of that petition.",
+   "CBS News reported that her death became a rallying point for advocates for transgender people, who noted how rarely killings of transgender victims lead to a prosecution.",
    "The case prompted Washington to pass a law named for her, Nikki's Law, which bars defendants in violent crime cases from using a victim's sexual orientation or gender identity as a defense, the so-called panic defense, according to CBS News."
   ],
   "timeline": [
@@ -62677,7 +62703,7 @@
   "enriched": true
  },
  {
-  "id": "casey-white-murder-conviction",
+  "id": "connie-ridgeway-2015",
   "name": "Connie Ridgeway",
   "type": "Homicide",
   "status": "Unsolved",

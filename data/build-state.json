@@ -25,7 +25,7 @@
 "published": "2026-03-04"
 },
 "cases/adea-shabani-2018/index.html": {
-"hash": "1cb301ac5cececab",
+"hash": "41434a18cd35d747",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -165,7 +165,7 @@
 "published": "2026-07-09"
 },
 "cases/aniah-blanchard-2019/index.html": {
-"hash": "6658427f2c45524a",
+"hash": "25e0377fb2d04f5f",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -520,7 +520,7 @@
 "published": "2026-07-09"
 },
 "cases/brittney-wood-2012/index.html": {
-"hash": "76dade238094791f",
+"hash": "c0c4def736f59f3e",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -578,11 +578,6 @@
 "hash": "15c33f087c977a67",
 "modified": "2026-09-29",
 "published": "2026-09-29"
-},
-"cases/casey-white-murder-conviction/index.html": {
-"hash": "9b08239f851fd966",
-"modified": "2026-09-29",
-"published": "2026-07-09"
 },
 "cases/cassie-jo-stoddart/index.html": {
 "hash": "07fdec83ae8560e9",
@@ -738,6 +733,11 @@
 "hash": "c82de60505d68f0b",
 "modified": "2026-09-29",
 "published": "2026-07-09"
+},
+"cases/connie-ridgeway-2015/index.html": {
+"hash": "316d11c66bda5a60",
+"modified": "2026-09-29",
+"published": "2026-09-29"
 },
 "cases/connor-betts-dayton-2019/index.html": {
 "hash": "6701c03d16cbfb2d",
@@ -2650,7 +2650,7 @@
 "published": "2026-09-29"
 },
 "cases/natalee-holloway/index.html": {
-"hash": "fe34421eee900e14",
+"hash": "41305666bb13268c",
 "modified": "2026-09-29",
 "published": "2026-03-04"
 },
@@ -2705,7 +2705,7 @@
 "published": "2026-03-04"
 },
 "cases/nikki-kuhnhausen-2019/index.html": {
-"hash": "4488818e5ebb4d71",
+"hash": "4cc33239d6d308d4",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -2730,7 +2730,7 @@
 "published": "2026-07-08"
 },
 "cases/oakey-al-kite-2004/index.html": {
-"hash": "d506c68f8799c478",
+"hash": "c3b03aafd2debf3c",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -2755,7 +2755,7 @@
 "published": "2026-07-09"
 },
 "cases/opelika-jane-doe-2012/index.html": {
-"hash": "b0a7f95bb7f0d681",
+"hash": "d85ae4016bf4214a",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -3405,7 +3405,7 @@
 "published": "2026-07-09"
 },
 "cases/susan-negersmith-1990/index.html": {
-"hash": "c8d01144f43958da",
+"hash": "aea95f358dd39a7f",
 "modified": "2026-09-29",
 "published": "2026-07-09"
 },
@@ -3960,17 +3960,17 @@
 "published": "2026-09-29"
 },
 "decades/1990s/index.html": {
-"hash": "41ac29c14e6c66d4",
+"hash": "1df0d5bebd1e7989",
 "modified": "2026-09-29",
 "published": "2026-09-29"
 },
 "decades/2000s/index.html": {
-"hash": "0ba1aed9fee67eb8",
+"hash": "1e19d6e72235c3ef",
 "modified": "2026-09-29",
 "published": "2026-09-29"
 },
 "decades/2010s/index.html": {
-"hash": "8dea5764dd29f168",
+"hash": "5a9d01827e1b8421",
 "modified": "2026-09-29",
 "published": "2026-09-29"
 },
@@ -3995,7 +3995,7 @@
 "published": "2026-07-06"
 },
 "states/alabama/index.html": {
-"hash": "7299cde75905dfb2",
+"hash": "f3ba4a91b65adb14",
 "modified": "2026-09-29",
 "published": "2026-07-06"
 },
@@ -4055,7 +4055,7 @@
 "published": "2026-07-09"
 },
 "states/colorado/index.html": {
-"hash": "3835fc9b5cc722ae",
+"hash": "9d30d45d22b6091e",
 "modified": "2026-09-29",
 "published": "2026-07-06"
 },
@@ -4235,7 +4235,7 @@
 "published": "2026-07-06"
 },
 "states/new-jersey/index.html": {
-"hash": "2c4ad743d9e3fb57",
+"hash": "1305c8e913f1cf2b",
 "modified": "2026-09-29",
 "published": "2026-07-06"
 },
@@ -4415,7 +4415,7 @@
 "published": "2026-09-29"
 },
 "types/homicides/index.html": {
-"hash": "b06eb7571bf4f61d",
+"hash": "21a4fb2b09ec02ad",
 "modified": "2026-09-29",
 "published": "2026-09-29"
 },
