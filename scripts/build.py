@@ -1793,7 +1793,16 @@ def main():
         render, indexable = render_hub('decades', label, label, v, sib_d, e(intro), f'Cold Cases of the {label}')
         pages.write(f'decades/{label}/index.html', render, indexable)
     pages.write('decades/index.html', render_hub_index('decades', d_entries, len(cases)), True)
-    print(f'Wrote {len(by_type)} type hubs and {len(by_dec)} decade hubs')
+    # hubs whose type or decade no longer has any cases: redirect to the hub index
+    hub_stubs = 0
+    for kind, live in (('types', {s for s, *_ in t_entries}), ('decades', {s for s, *_ in d_entries})):
+        hdir = os.path.join(ROOT, kind)
+        for d in sorted(os.listdir(hdir)):
+            if os.path.isdir(os.path.join(hdir, d)) and d not in live:
+                with open(os.path.join(hdir, d, 'index.html'), 'w', encoding='utf-8') as f:
+                    f.write(redirect_stub(f'{BASE_URL}/{kind}/'))
+                hub_stubs += 1
+    print(f'Wrote {len(by_type)} type hubs and {len(by_dec)} decade hubs, {hub_stubs} redirect stubs')
 
     # homepage + data
     write_search_index(cases)
