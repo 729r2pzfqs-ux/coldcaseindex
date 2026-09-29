@@ -23,6 +23,7 @@ import json
 import math
 import os
 import re
+import shutil
 import subprocess
 import sys
 import urllib.parse
@@ -1707,7 +1708,30 @@ def main():
         path = f'cases/{c["id"]}/index.html'
         pages.write(path, render_case(c, related[c['id']], state_links, region_counts), True, '0.7')
         live_cases.add(c['id'])
-    print(f'Wrote {len(cases)} case pages')
+    # merged duplicates redirect to the surviving record; anything else not in the data is removed
+    red_file = os.path.join(ROOT, 'data', 'redirects.json')
+    redirects = {}
+    if os.path.exists(red_file):
+        with open(red_file, encoding='utf-8') as f:
+            redirects = json.load(f)
+    cdir = os.path.join(ROOT, 'cases')
+    stubs = removed = 0
+    for d in sorted(os.listdir(cdir)):
+        full = os.path.join(cdir, d)
+        if not os.path.isdir(full) or d in live_cases:
+            continue
+        target = redirects.get(d)
+        hops = 0
+        while target and target not in live_cases and hops < 5:
+            target, hops = redirects.get(target), hops + 1
+        if target in live_cases:
+            with open(os.path.join(full, 'index.html'), 'w', encoding='utf-8') as f:
+                f.write(redirect_stub(f'{BASE_URL}/cases/{target}/'))
+            stubs += 1
+        else:
+            shutil.rmtree(full)
+            removed += 1
+    print(f'Wrote {len(cases)} case pages, {stubs} redirect stubs, removed {removed}')
 
     # region pages
     live_regions = set()

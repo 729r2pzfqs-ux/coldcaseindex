@@ -1,7 +1,7 @@
 # ColdCaseIndex (coldcaseindex.com)
 
 ## About
-ColdCaseIndex is a searchable database of 911 documented cold cases and historic
+ColdCaseIndex is a searchable database of 906 documented cold cases and historic
 crimes: unsolved homicides, missing persons, unidentified victims, serial
 murders, and solved cases of historical significance. Coverage spans all 50 US
 states, the District of Columbia and other countries.
