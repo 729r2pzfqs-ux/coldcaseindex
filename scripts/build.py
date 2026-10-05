@@ -1570,6 +1570,7 @@ def render_home(cases, stats, by_region):
          "url": url, "creator": {"@id": f"{BASE_URL}/#organization"},
          "temporalCoverage": f"{min(years)}/{max(years)}",
          "keywords": ["cold cases", "unsolved homicides", "missing persons", "unidentified persons"],
+         "license": "https://creativecommons.org/licenses/by-nc/4.0/",
          "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json",
                            "contentUrl": f"{BASE_URL}/data/cases.json"}]},
     ]
