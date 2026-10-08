@@ -1738,6 +1738,27 @@ def main():
         else:
             shutil.rmtree(full)
             removed += 1
+    # also create redirect stubs for redirects.json entries with no on-disk directory yet
+    for slug, target in sorted(redirects.items()):
+        if slug in live_cases:
+            continue
+        full = os.path.join(cdir, slug)
+        if os.path.isdir(full):
+            continue                     # already handled above
+        if target and target.startswith('/'):
+            os.makedirs(full, exist_ok=True)
+            with open(os.path.join(full, 'index.html'), 'w', encoding='utf-8') as f:
+                f.write(redirect_stub(f'{BASE_URL}{target}'))
+            stubs += 1
+            continue
+        dest, hops = target, 0
+        while dest and dest not in live_cases and hops < 5:
+            dest, hops = redirects.get(dest), hops + 1
+        if dest in live_cases:
+            os.makedirs(full, exist_ok=True)
+            with open(os.path.join(full, 'index.html'), 'w', encoding='utf-8') as f:
+                f.write(redirect_stub(f'{BASE_URL}/cases/{dest}/'))
+            stubs += 1
     print(f'Wrote {len(cases)} case pages, {stubs} redirect stubs, removed {removed}')
 
     # region pages
