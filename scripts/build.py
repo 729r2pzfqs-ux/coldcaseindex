@@ -1772,7 +1772,14 @@ def main():
     moved = {slugify(c['state']): c['_region_slug'] for c in cases
              if c.get('state') and slugify(c['state']) not in live_regions}
     moved['new-hampshire-vermont'] = 'new-hampshire'
+    moved['washington-dc'] = 'district-of-columbia'
+    moved['chiriquí-province'] = 'chiriqui-province'    # earlier builds kept accents in slugs
+    moved['isère'] = 'isere'
     sdir = os.path.join(ROOT, 'states')
+    # region pages that were deleted outright: recreate them as stubs so old links don't 404
+    for d in ('washington-dc', 'multiple', 'chiriquí-province', 'isère'):
+        if d not in live_regions:
+            os.makedirs(os.path.join(sdir, d), exist_ok=True)
     stubs = 0
     for d in sorted(os.listdir(sdir)):
         if os.path.isdir(os.path.join(sdir, d)) and d not in live_regions:
