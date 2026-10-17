@@ -144,7 +144,8 @@ def main():
             warnings.append(f'data: {cid} has {len(srcs)} source(s)')
         if not os.path.exists(os.path.join(ROOT, 'cases', cid, 'index.html')):
             errors.append(f'data: no page for {cid}')
-    on_disk = set(os.listdir(os.path.join(ROOT, 'cases')))
+    cdir = os.path.join(ROOT, 'cases')
+    on_disk = {d for d in os.listdir(cdir) if os.path.isdir(os.path.join(cdir, d))}
     for d in sorted(on_disk - set(ids)):
         p = f'cases/{d}/index.html'
         if not info.get(p, {}).get('stub'):

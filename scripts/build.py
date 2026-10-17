@@ -1833,6 +1833,20 @@ def main():
                 hub_stubs += 1
     print(f'Wrote {len(by_type)} type hubs and {len(by_dec)} decade hubs, {hub_stubs} redirect stubs')
 
+    # short URLs that were never generated but are requested anyway (/1990s/, /cases/):
+    # redirect them to the real hub so they stop returning 404
+    short_stubs = 0
+    for label, *_ in d_entries:
+        ldir = os.path.join(ROOT, label)
+        os.makedirs(ldir, exist_ok=True)
+        with open(os.path.join(ldir, 'index.html'), 'w', encoding='utf-8') as f:
+            f.write(redirect_stub(f'{BASE_URL}/decades/{label}/'))
+        short_stubs += 1
+    with open(os.path.join(ROOT, 'cases', 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(redirect_stub(f'{BASE_URL}/'))
+    short_stubs += 1
+    print(f'Wrote {short_stubs} short-URL redirect stubs')
+
     # homepage + data
     write_search_index(cases)
     pages.write('index.html', render_home(cases, stats, by_region), True)

@@ -23,6 +23,8 @@ python3 scripts/check.py     # QA: titles, descriptions, links, schema, sitemap,
 
 `index.html`, `about/`, `privacy/`, `404.html`, `cases/`, `states/`, `types/`, `decades/`,
 `site.css`, `sitemap.xml`, `data/cases-index.json`.
+Redirect stubs for short URLs: `/<decade>s/` (for example `/1990s/`) to `/decades/<decade>s/`, and
+`/cases/` to the homepage.
 
 ## Rules the build enforces
 
