@@ -151,7 +151,7 @@
       <span class="header-logo-text">ColdCaseIndex</span>
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
-      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../about/">About</a>
+      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
       <form class="header-search" id="siteSearchForm" role="search" action="../../" method="get" data-root="../../">
         <label class="sr-only" for="siteSearch">Search cases</label>
         <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
@@ -196,7 +196,7 @@
           <dd class="case-detail-value">January 13, 1999</dd>
         </div><div class="case-detail-item">
           <dt class="case-detail-label">Location</dt>
-          <dd class="case-detail-value">Baltimore, <a href="../../states/maryland/">Maryland</a></dd>
+          <dd class="case-detail-value"><a href="../../cities/baltimore-md/">Baltimore</a>, <a href="../../states/maryland/">Maryland</a></dd>
         </div><div class="case-detail-item">
           <dt class="case-detail-label">Age</dt>
           <dd class="case-detail-value">18</dd>
@@ -236,7 +236,7 @@
         <div class="modal-last-seen-label">Last known information</div>
         <div class="modal-last-seen-value">January 13, 1999, Woodlawn High School, Baltimore, MD</div>
       </div>
-      <div class="case-tags-section" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);"><span class="case-tag">teen</span><span class="case-tag">Serial podcast</span><span class="case-tag">conviction vacated</span></div>
+      <div class="case-tags-section" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);"><span class="case-tag">teenager</span><span class="case-tag">Serial podcast</span><a class="case-tag case-tag-link" href="../../themes/wrongful-conviction/">conviction overturned</a></div>
       <div style="margin-top: var(--space-8);">
         <h2 class="section-label">Timeline</h2>
         <ol class="timeline"><li class="timeline-item">
@@ -406,13 +406,34 @@
     <div class="section-inner">
       <h2 class="section-heading">Similar cases</h2>
       <p class="section-subtext">Cases of the same type and era, or sharing a distinctive theme with this one.</p>
-      <div class="related-grid"><a href="../../cases/martha-moxley-1975/" class="related-case-card">
+      <div class="related-grid"><a href="../../cases/timothy-wiltsey-1991/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-neutral" style="font-size:11px;">No Conviction</span>
+              <span class="case-card-year">1991</span>
+            </div>
+            <div class="related-case-name">Timothy Wiltsey</div>
+            <div class="related-case-meta">Sayreville, New Jersey</div>
+          </a><a href="../../cases/james-kinne-1960/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-neutral" style="font-size:11px;">No Conviction</span>
+              <span class="case-card-year">1960</span>
+            </div>
+            <div class="related-case-name">James Kinne</div>
+            <div class="related-case-meta">Independence, Missouri</div>
+          </a><a href="../../cases/martha-moxley-1975/" class="related-case-card">
             <div class="related-case-header">
               <span class="badge badge-neutral" style="font-size:11px;">No Conviction</span>
               <span class="case-card-year">1975</span>
             </div>
             <div class="related-case-name">Martha Moxley</div>
             <div class="related-case-meta">Greenwich, Connecticut</div>
+          </a><a href="../../cases/susan-reinert/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
+              <span class="case-card-year">1979</span>
+            </div>
+            <div class="related-case-name">Susan Reinert</div>
+            <div class="related-case-meta">Ardmore, Pennsylvania</div>
           </a><a href="../../cases/molly-bish/" class="related-case-card">
             <div class="related-case-header">
               <span class="badge badge-unsolved" style="font-size:11px;">Unsolved</span>
@@ -427,31 +448,10 @@
             </div>
             <div class="related-case-name">Amber Dubois</div>
             <div class="related-case-meta">Escondido, California</div>
-          </a><a href="../../cases/brittanee-drexel/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
-              <span class="case-card-year">2009</span>
-            </div>
-            <div class="related-case-name">Brittanee Drexel</div>
-            <div class="related-case-meta">Myrtle Beach, South Carolina</div>
-          </a><a href="../../cases/cassie-jo-stoddart/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
-              <span class="case-card-year">2006</span>
-            </div>
-            <div class="related-case-name">Cassie Jo Stoddart</div>
-            <div class="related-case-meta">Pocatello, Idaho</div>
-          </a><a href="../../cases/deanna-cremin/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-unsolved" style="font-size:11px;">Unsolved</span>
-              <span class="case-card-year">1995</span>
-            </div>
-            <div class="related-case-name">Deanna Cremin</div>
-            <div class="related-case-meta">Somerville, Massachusetts</div>
           </a></div>
       <div class="hub-links">
         <a href="../../types/homicides/">All homicides</a>
-        <a href="../../decades/1990s/">All cases from the 1990s</a>
+        <a href="../../decades/1990s/">All cases from the 1990s</a><a href="../../themes/wrongful-conviction/">Wrongful and Disputed Convictions cases</a><a href="../../cities/baltimore-md/">All Baltimore cases</a>
         <a href="../../states/">Cases by state</a>
       </div>
     </div>
@@ -483,6 +483,10 @@
         <a href="../../states/">By state</a>
         <a href="../../types/">By type</a>
         <a href="../../decades/">By decade</a>
+        <a href="../../themes/">By theme</a>
+        <a href="../../cities/">By city</a>
+        <a href="../../map/">Case map</a>
+        <a href="../../analysis/">Analysis</a>
         <a href="../../updates/">Recent updates</a>
         <a href="../../watch/">Cases to watch</a>
         <a href="../../today/">On this day</a>

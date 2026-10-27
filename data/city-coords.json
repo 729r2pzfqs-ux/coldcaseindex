@@ -1,0 +1,3053 @@
+{
+"Abbeville|Alabama": {
+"lat": 31.5702,
+"lon": -85.2503,
+"query": "Abbeville",
+"match": "Abbeville, Henry County, Alabama, 36310, United States"
+},
+"Abilene|Texas": {
+"lat": 32.4536,
+"lon": -99.7311,
+"query": "Abilene",
+"match": "Abilene, Taylor County, Texas, United States"
+},
+"Agawam|Massachusetts": {
+"lat": 42.0689,
+"lon": -72.6152,
+"query": "Agawam",
+"match": "Agawam, Hampden County, Massachusetts, United States"
+},
+"Aiea|Hawaii": {
+"lat": 21.3822,
+"lon": -157.9336,
+"query": "Aiea",
+"match": "Aiea, Honolulu County, Hawaii, 96701, United States"
+},
+"Albany|New York": {
+"lat": 42.6512,
+"lon": -73.755,
+"query": "Albany",
+"match": "City of Albany, Albany County, New York, United States"
+},
+"Albuquerque|New Mexico": {
+"lat": 35.0841,
+"lon": -106.651,
+"query": "Albuquerque",
+"match": "Albuquerque, Bernalillo County, New Mexico, United States"
+},
+"Alcolu|South Carolina": {
+"lat": 33.7512,
+"lon": -80.2127,
+"query": "Alcolu",
+"match": "Alcolu, Clarendon County, South Carolina, United States"
+},
+"Alexander|Arkansas": {
+"lat": 34.6295,
+"lon": -92.4413,
+"query": "Alexander",
+"match": "Alexander, Big Rock Township, Pulaski County, Arkansas, United States"
+},
+"Allenstown|New Hampshire": {
+"lat": 43.1275,
+"lon": -71.4321,
+"query": "Allenstown",
+"match": "Allenstown, Merrimack County, New Hampshire, United States"
+},
+"Alma|Arkansas": {
+"lat": 35.4779,
+"lon": -94.2219,
+"query": "Alma",
+"match": "Alma, Crawford County, Arkansas, United States"
+},
+"Amanda Park|Washington": {
+"lat": 47.454,
+"lon": -123.9121,
+"query": "Amanda Park",
+"match": "Amanda Park, Grays Harbor County, Washington, 98526, United States"
+},
+"Anaheim|California": {
+"lat": 33.8348,
+"lon": -117.9117,
+"query": "Anaheim",
+"match": "Anaheim, Orange County, California, United States"
+},
+"Anchorage|Alaska": {
+"lat": 61.2163,
+"lon": -149.8949,
+"query": "Anchorage",
+"match": "Anchorage, Alaska, United States"
+},
+"Anniston|Alabama": {
+"lat": 33.6625,
+"lon": -85.8283,
+"query": "Anniston",
+"match": "Anniston, Calhoun County, Alabama, United States"
+},
+"Antigo|Wisconsin": {
+"lat": 45.1405,
+"lon": -89.1525,
+"query": "Antigo",
+"match": "Antigo, Langlade County, Wisconsin, United States"
+},
+"Antioch|California": {
+"lat": 38.0093,
+"lon": -121.8107,
+"query": "Antioch",
+"match": "Antioch, Contra Costa County, California, United States"
+},
+"Ardmore|Pennsylvania": {
+"lat": 40.0041,
+"lon": -75.2883,
+"query": "Ardmore",
+"match": "Ardmore, Lower Merion Township, Montgomery County, Pennsylvania, 19003, United States"
+},
+"Argos|Indiana": {
+"lat": 41.2373,
+"lon": -86.2452,
+"query": "Argos",
+"match": "Argos, Marshall County, Indiana, United States"
+},
+"Arlington|Texas": {
+"lat": 32.7356,
+"lon": -97.1071,
+"query": "Arlington",
+"match": "Arlington, Tarrant County, Texas, United States"
+},
+"Aruba|Alabama": {
+"lat": 30.2591,
+"lon": -87.714,
+"query": "Aruba",
+"match": "Aruba Lane, Gulf Shores, Baldwin County, Alabama, 36542, United States"
+},
+"Asheville|North Carolina": {
+"lat": 35.5954,
+"lon": -82.5508,
+"query": "Asheville",
+"match": "Asheville, Buncombe County, North Carolina, United States"
+},
+"Athens|Georgia": {
+"lat": 33.9598,
+"lon": -83.3764,
+"query": "Athens",
+"match": "Athens, Clarke County, Georgia, United States"
+},
+"Atlanta|Georgia": {
+"lat": 33.7545,
+"lon": -84.3898,
+"query": "Atlanta",
+"match": "Atlanta, Fulton County, Georgia, United States"
+},
+"Auburn|Alabama": {
+"lat": 32.6099,
+"lon": -85.4808,
+"query": "Auburn",
+"match": "Auburn, Lee County, Alabama, United States"
+},
+"Aurora|Colorado": {
+"lat": 39.7401,
+"lon": -104.8733,
+"query": "Aurora",
+"match": "Aurora, Adams County, Colorado, United States"
+},
+"Aurora|Illinois": {
+"lat": 41.7572,
+"lon": -88.3148,
+"query": "Aurora",
+"match": "Aurora, Aurora Township, Kane County, Illinois, United States"
+},
+"Austin|Texas": {
+"lat": 30.2649,
+"lon": -97.7474,
+"query": "Austin",
+"match": "Austin, Travis County, Texas, United States"
+},
+"Baltimore|Maryland": {
+"lat": 39.2909,
+"lon": -76.6108,
+"query": "Baltimore",
+"match": "Baltimore, Maryland, United States"
+},
+"Bardstown|Kentucky": {
+"lat": 37.8092,
+"lon": -85.4669,
+"query": "Bardstown",
+"match": "Bardstown, Nelson County, Kentucky, 40004, United States"
+},
+"Barron|Wisconsin": {
+"lat": 45.4236,
+"lon": -91.8454,
+"query": "Barron",
+"match": "Barron County, Wisconsin, United States"
+},
+"Baton Rouge|Louisiana": {
+"lat": 30.4494,
+"lon": -91.187,
+"query": "Baton Rouge",
+"match": "Baton Rouge, East Baton Rouge Parish, Louisiana, United States"
+},
+"Bay Village|Ohio": {
+"lat": 41.485,
+"lon": -81.9208,
+"query": "Bay Village",
+"match": "Bay Village, Cuyahoga County, Ohio, 44140, United States"
+},
+"Baytown|Texas": {
+"lat": 29.7355,
+"lon": -94.9774,
+"query": "Baytown",
+"match": "Baytown, Harris County, Texas, United States"
+},
+"Beaufort|South Carolina": {
+"lat": 32.3851,
+"lon": -80.6923,
+"query": "Beaufort",
+"match": "Beaufort County, South Carolina, United States"
+},
+"Beaumont|California": {
+"lat": 33.93,
+"lon": -116.9763,
+"query": "Beaumont",
+"match": "Beaumont, Riverside County, California, 92223, United States"
+},
+"Bedford|New Hampshire": {
+"lat": 42.9465,
+"lon": -71.5159,
+"query": "Bedford",
+"match": "Bedford, Hillsborough County, New Hampshire, 03110, United States"
+},
+"Bel Air|Maryland": {
+"lat": 39.5798,
+"lon": -78.8532,
+"query": "Bel Air",
+"match": "Bel Air, Triple Lakes, Bel Air, Allegany County, Maryland, United States"
+},
+"Bellefonte|Pennsylvania": {
+"lat": 40.9135,
+"lon": -77.7737,
+"query": "Bellefonte",
+"match": "Bellefonte, Centre County, Pennsylvania, 16823, United States"
+},
+"Bellevue|Washington": {
+"lat": 47.6144,
+"lon": -122.1923,
+"query": "Bellevue",
+"match": "Bellevue, King County, Washington, United States"
+},
+"Bellingham|Massachusetts": {
+"lat": 42.0869,
+"lon": -71.4746,
+"query": "Bellingham",
+"match": "Bellingham, Norfolk County, Massachusetts, 02019, United States"
+},
+"Bellingham|Washington": {
+"lat": 48.7544,
+"lon": -122.4788,
+"query": "Bellingham",
+"match": "Bellingham, Whatcom County, Washington, United States"
+},
+"Belton|Missouri": {
+"lat": 38.8108,
+"lon": -94.5314,
+"query": "Belton",
+"match": "Belton, Cass County, Missouri, 64012, United States"
+},
+"Benicia|California": {
+"lat": 38.0494,
+"lon": -122.1586,
+"query": "Benicia",
+"match": "Benicia, Solano County, California, 94510, United States"
+},
+"Bennington|Vermont": {
+"lat": 42.8789,
+"lon": -73.1968,
+"query": "Bennington",
+"match": "Bennington, Bennington County, Vermont, United States"
+},
+"Berkeley|California": {
+"lat": 37.8708,
+"lon": -122.2729,
+"query": "Berkeley",
+"match": "Berkeley, Alameda County, California, United States"
+},
+"Bethesda|Maryland": {
+"lat": 38.9813,
+"lon": -77.1234,
+"query": "Bethesda",
+"match": "Bethesda, Montgomery County, Maryland, United States"
+},
+"Bethlehem|Pennsylvania": {
+"lat": 40.6179,
+"lon": -75.3787,
+"query": "Bethlehem",
+"match": "Bethlehem, Northampton County, Pennsylvania, United States"
+},
+"Beverly Hills|California": {
+"lat": 34.0697,
+"lon": -118.3963,
+"query": "Beverly Hills",
+"match": "Beverly Hills, Los Angeles County, California, United States"
+},
+"Biddeford|Maine": {
+"lat": 43.4926,
+"lon": -70.4534,
+"query": "Biddeford",
+"match": "Biddeford, York County, Maine, 04005, United States"
+},
+"Birmingham|Alabama": {
+"lat": 33.5207,
+"lon": -86.8024,
+"query": "Birmingham",
+"match": "Birmingham, Jefferson County, Alabama, United States"
+},
+"Blairstown|New Jersey": {
+"lat": 40.9832,
+"lon": -74.9603,
+"query": "Blairstown",
+"match": "Blairstown, Warren County, New Jersey, 07825, United States"
+},
+"Bloomfield Township|Michigan": {
+"lat": 42.5746,
+"lon": -83.2802,
+"query": "Bloomfield Township",
+"match": "Bloomfield Township, Oakland County, Michigan, United States"
+},
+"Bloomington|Illinois": {
+"lat": 40.4798,
+"lon": -88.9939,
+"query": "Bloomington",
+"match": "Bloomington, McLean County, Illinois, United States"
+},
+"Bloomington|Indiana": {
+"lat": 39.167,
+"lon": -86.5343,
+"query": "Bloomington",
+"match": "Bloomington, Monroe County, Indiana, United States"
+},
+"Bolingbrook|Illinois": {
+"lat": 41.7003,
+"lon": -88.0718,
+"query": "Bolingbrook",
+"match": "Bolingbrook, Will County, Illinois, United States"
+},
+"Bonita Springs|Florida": {
+"lat": 26.3398,
+"lon": -81.7787,
+"query": "Bonita Springs",
+"match": "Bonita Springs, Lee County, Florida, United States"
+},
+"Boston|Massachusetts": {
+"lat": 42.3588,
+"lon": -71.0578,
+"query": "Boston",
+"match": "Boston, Suffolk County, Massachusetts, United States"
+},
+"Boulder|Colorado": {
+"lat": 40.015,
+"lon": -105.2705,
+"query": "Boulder",
+"match": "Boulder, Boulder County, Colorado, United States"
+},
+"Bradbury|California": {
+"lat": 34.147,
+"lon": -117.9709,
+"query": "Bradbury",
+"match": "Bradbury, Los Angeles County, California, United States"
+},
+"Bridgeport|Connecticut": {
+"lat": 41.1793,
+"lon": -73.1888,
+"query": "Bridgeport",
+"match": "Bridgeport, Greater Bridgeport Planning Region, Connecticut, United States"
+},
+"Bridger-Teton National Forest|Wyoming": {
+"lat": 43.2257,
+"lon": -109.9842,
+"query": "Bridger-Teton National Forest",
+"match": "Bridger-Teton National Forest, Wyoming, United States"
+},
+"Bridgeton|New Jersey": {
+"lat": 39.427,
+"lon": -75.2342,
+"query": "Bridgeton",
+"match": "Bridgeton, Cumberland County, New Jersey, 08302, United States"
+},
+"Bronte|Texas": {
+"lat": 31.8874,
+"lon": -100.2918,
+"query": "Bronte",
+"match": "Bronte, Coke County, Texas, United States"
+},
+"Brooklyn|Iowa": {
+"lat": 41.7286,
+"lon": -92.4456,
+"query": "Brooklyn",
+"match": "Brooklyn, Bear Creek Township, Poweshiek County, Iowa, United States"
+},
+"Brooklyn|New York": {
+"lat": 40.6526,
+"lon": -73.9497,
+"query": "Brooklyn",
+"match": "Brooklyn, Kings County, New York, United States"
+},
+"Browning|Montana": {
+"lat": 48.5577,
+"lon": -113.0173,
+"query": "Browning",
+"match": "Browning, Glacier County, Montana, United States"
+},
+"Brunswick|Georgia": {
+"lat": 31.15,
+"lon": -81.4915,
+"query": "Brunswick",
+"match": "Brunswick, Glynn County, Georgia, 31520, United States"
+},
+"Buckeye|Arizona": {
+"lat": 33.3703,
+"lon": -112.5838,
+"query": "Buckeye",
+"match": "Buckeye, Maricopa County, Arizona, United States"
+},
+"Burlington|New Jersey": {
+"lat": 39.9325,
+"lon": -74.7227,
+"query": "Burlington",
+"match": "Burlington County, New Jersey, United States"
+},
+"Cambridge|Massachusetts": {
+"lat": 42.3656,
+"lon": -71.104,
+"query": "Cambridge",
+"match": "Cambridge, Middlesex County, Massachusetts, United States"
+},
+"Camden|Mississippi": {
+"lat": 32.7824,
+"lon": -89.8387,
+"query": "Camden",
+"match": "Camden, Madison County, Mississippi, 39045, United States"
+},
+"Canaan|Connecticut": {
+"lat": 41.9595,
+"lon": -73.3118,
+"query": "Canaan",
+"match": "Canaan, Northwest Hills Planning Region, Connecticut, 06031, United States"
+},
+"Canton|Massachusetts": {
+"lat": 42.1584,
+"lon": -71.1448,
+"query": "Canton",
+"match": "Canton, Norfolk County, Massachusetts, 02021, United States"
+},
+"Carmichael|California": {
+"lat": 38.6271,
+"lon": -121.3222,
+"query": "Carmichael",
+"match": "Carmichael, Sacramento County, California, United States"
+},
+"Carter|Oklahoma": {
+"lat": 34.233,
+"lon": -97.2789,
+"query": "Carter",
+"match": "Carter County, Oklahoma, United States"
+},
+"Castaic|California": {
+"lat": 34.4782,
+"lon": -118.6362,
+"query": "Castaic",
+"match": "Castaic, Val Verde, Los Angeles County, California, 91384, United States"
+},
+"Castro Valley|California": {
+"lat": 37.7136,
+"lon": -122.0716,
+"query": "Castro Valley",
+"match": "Castro Valley, Alameda County, California, United States"
+},
+"Cedar Rapids|Iowa": {
+"lat": 41.9759,
+"lon": -91.6704,
+"query": "Cedar Rapids",
+"match": "Cedar Rapids, Linn County, Iowa, United States"
+},
+"Chaffee County|Colorado": {
+"lat": 38.7413,
+"lon": -106.1825,
+"query": "Chaffee County",
+"match": "Chaffee County, Colorado, United States"
+},
+"Chain of Ponds|Maine": {
+"lat": 45.3137,
+"lon": -70.6264,
+"query": "Chain of Ponds",
+"match": "Chain of Ponds, Chain of Ponds Township, Franklin County, Maine, United States"
+},
+"Chalfant Valley|California": {
+"lat": 37.528,
+"lon": -118.368,
+"query": "Chalfant Valley",
+"match": "Chalfant Valley Volunteer Fire Department, Grand Army of the Republic Highway, Chalfant, Mono County, California, United"
+},
+"Challis|Idaho": {
+"lat": 44.5051,
+"lon": -114.2314,
+"query": "Challis",
+"match": "Challis, Custer County, Idaho, United States"
+},
+"Chapel Hill|North Carolina": {
+"lat": 35.9132,
+"lon": -79.0558,
+"query": "Chapel Hill",
+"match": "Chapel Hill, Orange County, North Carolina, United States"
+},
+"Chappaquiddick Island|Massachusetts": {
+"lat": 41.3856,
+"lon": -70.4773,
+"query": "Chappaquiddick Island",
+"match": "Chappaquiddick Island, Edgartown, Dukes County, Massachusetts, United States"
+},
+"Charlottesville|Virginia": {
+"lat": 38.0293,
+"lon": -78.4767,
+"query": "Charlottesville",
+"match": "Charlottesville, Virginia, United States"
+},
+"Charlotte|North Carolina": {
+"lat": 35.2272,
+"lon": -80.8431,
+"query": "Charlotte",
+"match": "Charlotte, Mecklenburg County, North Carolina, United States"
+},
+"Chelmsford|Massachusetts": {
+"lat": 42.5969,
+"lon": -71.3518,
+"query": "Chelmsford",
+"match": "Chelmsford, Middlesex County, Massachusetts, United States"
+},
+"Chesterfield|Virginia": {
+"lat": 37.386,
+"lon": -77.5785,
+"query": "Chesterfield",
+"match": "Chesterfield County, Virginia, United States"
+},
+"Chicago|Illinois": {
+"lat": 41.8756,
+"lon": -87.6244,
+"query": "Chicago",
+"match": "Chicago, South Chicago Township, Cook County, Illinois, United States"
+},
+"Chisholm|Minnesota": {
+"lat": 47.4899,
+"lon": -92.8835,
+"query": "Chisholm",
+"match": "Chisholm, Saint Louis County, Minnesota, United States"
+},
+"Cincinnati|Ohio": {
+"lat": 39.1013,
+"lon": -84.5127,
+"query": "Cincinnati",
+"match": "Cincinnati, Hamilton County, Ohio, United States"
+},
+"Circleville|Ohio": {
+"lat": 39.6006,
+"lon": -82.946,
+"query": "Circleville",
+"match": "Circleville, Pickaway County, Ohio, 43113, United States"
+},
+"Circle|Montana": {
+"lat": 47.4167,
+"lon": -105.5922,
+"query": "Circle",
+"match": "Circle, McCone County, Montana, 59215, United States"
+},
+"Clarksburg|Maryland": {
+"lat": 39.2196,
+"lon": -77.2678,
+"query": "Clarksburg",
+"match": "Clarksburg, Montgomery County, Maryland, United States"
+},
+"Clermont County|Ohio": {
+"lat": 39.0678,
+"lon": -84.1566,
+"query": "Clermont County",
+"match": "Clermont County, Ohio, United States"
+},
+"Clermont|Florida": {
+"lat": 28.5552,
+"lon": -81.7669,
+"query": "Clermont",
+"match": "Clermont, Lake County, Florida, 32711, United States"
+},
+"Cleveland|Ohio": {
+"lat": 41.4997,
+"lon": -81.6937,
+"query": "Cleveland",
+"match": "Cleveland, Cuyahoga County, Ohio, United States"
+},
+"Clinton|Missouri": {
+"lat": 39.5976,
+"lon": -94.4185,
+"query": "Clinton",
+"match": "Clinton County, Missouri, United States"
+},
+"Cocoa Beach|Florida": {
+"lat": 28.3184,
+"lon": -80.6095,
+"query": "Cocoa Beach",
+"match": "Cocoa Beach, Brevard County, Florida, United States"
+},
+"Cohasset|Massachusetts": {
+"lat": 42.241,
+"lon": -70.8036,
+"query": "Cohasset",
+"match": "Cohasset, Norfolk County, Massachusetts, 02025, United States"
+},
+"Collegeville|Minnesota": {
+"lat": 45.5432,
+"lon": -94.4449,
+"query": "Collegeville",
+"match": "Collegeville Township, Stearns County, Minnesota, 56321, United States"
+},
+"Colonial Parkway|Virginia": {
+"lat": 37.2159,
+"lon": -76.7146,
+"query": "Colonial Parkway",
+"match": "Colonial Parkway, James City County, Virginia, 23185, United States"
+},
+"Colorado Springs|Colorado": {
+"lat": 38.834,
+"lon": -104.8253,
+"query": "Colorado Springs",
+"match": "Colorado Springs, El Paso County, Colorado, United States"
+},
+"Columbia|Missouri": {
+"lat": 38.9519,
+"lon": -92.3337,
+"query": "Columbia",
+"match": "Columbia, Columbia Township, Boone County, Missouri, United States"
+},
+"Columbia|South Carolina": {
+"lat": 34.0008,
+"lon": -81.0352,
+"query": "Columbia",
+"match": "Columbia, Richland County, South Carolina, United States"
+},
+"Columbus|Ohio": {
+"lat": 39.9623,
+"lon": -83.0007,
+"query": "Columbus",
+"match": "Columbus, Franklin County, Ohio, United States"
+},
+"Compton|California": {
+"lat": 33.8949,
+"lon": -118.2266,
+"query": "Compton",
+"match": "Compton, Los Angeles County, California, 90220, United States"
+},
+"Congress|Arizona": {
+"lat": 34.1538,
+"lon": -112.8549,
+"query": "Congress",
+"match": "Congress, Yavapai County, Arizona, 85332, United States"
+},
+"Connecticut River Valley (Claremont/Newport area)|New Hampshire": {
+"lat": 43.3767,
+"lon": -72.3467,
+"query": "Claremont",
+"match": "manual: Claremont, NH"
+},
+"Conway|New Hampshire": {
+"lat": 44.0005,
+"lon": -71.073,
+"query": "Conway",
+"match": "Conway, Carroll County, New Hampshire, United States"
+},
+"Coronado|California": {
+"lat": 32.6915,
+"lon": -117.1767,
+"query": "Coronado",
+"match": "Coronado, San Diego County, California, United States"
+},
+"Corpus Christi|Texas": {
+"lat": 27.7635,
+"lon": -97.4033,
+"query": "Corpus Christi",
+"match": "Corpus Christi, Nueces County, Texas, United States"
+},
+"Corvallis|Montana": {
+"lat": 46.3184,
+"lon": -114.1145,
+"query": "Corvallis",
+"match": "Corvallis, Ravalli County, Montana, United States"
+},
+"Courtland|Mississippi": {
+"lat": 34.2409,
+"lon": -89.9429,
+"query": "Courtland",
+"match": "Courtland, Panola County, Mississippi, United States"
+},
+"Covington|Kentucky": {
+"lat": 39.0832,
+"lon": -84.5108,
+"query": "Covington",
+"match": "Covington, Kenton County, Kentucky, United States"
+},
+"Crescent|Oklahoma": {
+"lat": 35.9525,
+"lon": -97.5948,
+"query": "Crescent",
+"match": "Crescent, Logan County, Oklahoma, United States"
+},
+"Cumming|Georgia": {
+"lat": 34.2073,
+"lon": -84.1402,
+"query": "Cumming",
+"match": "Cumming, Forsyth County, Georgia, United States"
+},
+"Cuyahoga Falls|Ohio": {
+"lat": 41.1363,
+"lon": -81.4828,
+"query": "Cuyahoga Falls",
+"match": "Cuyahoga Falls, Summit County, Ohio, United States"
+},
+"Dallas|Texas": {
+"lat": 32.7763,
+"lon": -96.7969,
+"query": "Dallas",
+"match": "Dallas, Dallas County, Texas, United States"
+},
+"Darden|Tennessee": {
+"lat": 35.6381,
+"lon": -88.217,
+"query": "Darden",
+"match": "Darden, Henderson County, West Tennessee, Tennessee, 38328, United States"
+},
+"Darlington|Indiana": {
+"lat": 40.11,
+"lon": -86.772,
+"query": "Darlington",
+"match": "Darlington, Montgomery County, Indiana, United States"
+},
+"Dayton|Ohio": {
+"lat": 39.7589,
+"lon": -84.1916,
+"query": "Dayton",
+"match": "Dayton, Montgomery County, Ohio, United States"
+},
+"Decatur|Georgia": {
+"lat": 30.8737,
+"lon": -84.5741,
+"query": "Decatur",
+"match": "Decatur County, Georgia, United States"
+},
+"Deerfield Beach|Florida": {
+"lat": 26.3183,
+"lon": -80.0996,
+"query": "Deerfield Beach",
+"match": "Deerfield Beach, Broward County, Florida, United States"
+},
+"Del Haven|New Jersey": {
+"lat": 39.0468,
+"lon": -74.9196,
+"query": "Del Haven",
+"match": "Del Haven, Middle Township, Cape May County, New Jersey, 08219, United States"
+},
+"Delmar|New York": {
+"lat": 42.6251,
+"lon": -73.8381,
+"query": "Delmar",
+"match": "Delmar, Town of Bethlehem, Albany County, New York, 12054, United States"
+},
+"Delphi|Indiana": {
+"lat": 40.5875,
+"lon": -86.675,
+"query": "Delphi",
+"match": "Delphi, Carroll County, Indiana, 46923, United States"
+},
+"Derry|New Hampshire": {
+"lat": 42.8809,
+"lon": -71.3264,
+"query": "Derry",
+"match": "Derry, Rockingham County, New Hampshire, 03038, United States"
+},
+"Des Moines|Iowa": {
+"lat": 41.5869,
+"lon": -93.6249,
+"query": "Des Moines",
+"match": "Des Moines, Polk County, Iowa, United States"
+},
+"Detroit|Michigan": {
+"lat": 42.3316,
+"lon": -83.0466,
+"query": "Detroit",
+"match": "Detroit, Wayne County, Michigan, United States"
+},
+"Dublin|California": {
+"lat": 37.7022,
+"lon": -121.9358,
+"query": "Dublin",
+"match": "Dublin, Alameda County, California, 94568, United States"
+},
+"Durham|North Carolina": {
+"lat": 35.9967,
+"lon": -78.9018,
+"query": "Durham",
+"match": "Durham, Durham County, North Carolina, United States"
+},
+"Dyersburg|Tennessee": {
+"lat": 36.0325,
+"lon": -89.3866,
+"query": "Dyersburg",
+"match": "Dyersburg, Dyer County, West Tennessee, Tennessee, United States"
+},
+"Eagan|Minnesota": {
+"lat": 44.8182,
+"lon": -93.1659,
+"query": "Eagan",
+"match": "Eagan, Dakota County, Minnesota, United States"
+},
+"East Haven|Connecticut": {
+"lat": 41.2762,
+"lon": -72.8684,
+"query": "East Haven",
+"match": "East Haven, South Central Connecticut Planning Region, Connecticut, 06512, United States"
+},
+"East Meadow|New York": {
+"lat": 40.7218,
+"lon": -73.5583,
+"query": "East Meadow",
+"match": "East Meadow, Town of Hempstead, Nassau County, New York, 11554, United States"
+},
+"Egg Harbor Township / Atlantic City|New Jersey": {
+"lat": 39.3821,
+"lon": -74.6171,
+"query": "Egg Harbor Township",
+"match": "Egg Harbor Township, Atlantic County, New Jersey, 08234, United States"
+},
+"El Dorado|Arkansas": {
+"lat": 33.2115,
+"lon": -92.665,
+"query": "El Dorado",
+"match": "El Dorado, Union County, Arkansas, 71730, United States"
+},
+"Elizabeth City|North Carolina": {
+"lat": 36.301,
+"lon": -76.2204,
+"query": "Elizabeth City",
+"match": "Elizabeth City, Pasquotank County, North Carolina, United States"
+},
+"Emporia|Virginia": {
+"lat": 36.6938,
+"lon": -77.5357,
+"query": "Emporia",
+"match": "Emporia, Virginia, 23847, United States"
+},
+"Escondido|California": {
+"lat": 33.1217,
+"lon": -117.0815,
+"query": "Escondido",
+"match": "Escondido, San Diego County, California, United States"
+},
+"Eufaula|Oklahoma": {
+"lat": 35.2874,
+"lon": -95.5825,
+"query": "Eufaula",
+"match": "Eufaula, McIntosh County, Oklahoma, 74432, United States"
+},
+"Eureka|California": {
+"lat": 40.8019,
+"lon": -124.1708,
+"query": "Eureka",
+"match": "Eureka, Humboldt County, California, 95501, United States"
+},
+"Evansdale|Iowa": {
+"lat": 42.4772,
+"lon": -92.2884,
+"query": "Evansdale",
+"match": "Evansdale, Black Hawk County, Iowa, 50707, United States"
+},
+"Exeter|New Hampshire": {
+"lat": 42.9815,
+"lon": -70.9478,
+"query": "Exeter",
+"match": "Exeter, Rockingham County, New Hampshire, 03833, United States"
+},
+"Fairbanks|Alaska": {
+"lat": 64.8378,
+"lon": -147.7167,
+"query": "Fairbanks",
+"match": "Fairbanks, Fairbanks North Star Borough, Alaska, United States"
+},
+"Fairfield|Ohio": {
+"lat": 39.7886,
+"lon": -82.6419,
+"query": "Fairfield",
+"match": "Fairfield County, Ohio, United States"
+},
+"Falcon Heights|Minnesota": {
+"lat": 44.9898,
+"lon": -93.1763,
+"query": "Falcon Heights",
+"match": "Falcon Heights, Ramsey County, Minnesota, 55108, United States"
+},
+"Fall River|Massachusetts": {
+"lat": 41.7011,
+"lon": -71.1546,
+"query": "Fall River",
+"match": "Fall River, Bristol County, Massachusetts, United States"
+},
+"Fallbrook|California": {
+"lat": 33.3663,
+"lon": -117.2233,
+"query": "Fallbrook",
+"match": "Fallbrook, San Diego County, California, 92028, United States"
+},
+"Fargo|North Dakota": {
+"lat": 46.8772,
+"lon": -96.7898,
+"query": "Fargo",
+"match": "Fargo, Cass County, North Dakota, United States"
+},
+"Fayetteville|Georgia": {
+"lat": 33.4487,
+"lon": -84.4549,
+"query": "Fayetteville",
+"match": "Fayetteville, Fayette County, Georgia, United States"
+},
+"Fayetteville|West Virginia": {
+"lat": 38.0531,
+"lon": -81.104,
+"query": "Fayetteville",
+"match": "Fayetteville, Fayette County, West Virginia, 25840, United States"
+},
+"Federal Way|Washington": {
+"lat": 47.3135,
+"lon": -122.3393,
+"query": "Federal Way",
+"match": "Federal Way, King County, Washington, United States"
+},
+"Ferguson|Missouri": {
+"lat": 38.7447,
+"lon": -90.3039,
+"query": "Ferguson",
+"match": "Ferguson, Saint Louis County, Missouri, 63135, United States"
+},
+"Ferriday|Louisiana": {
+"lat": 31.6302,
+"lon": -91.5546,
+"query": "Ferriday",
+"match": "Ferriday, Concordia Parish, Louisiana, United States"
+},
+"Flora|Indiana": {
+"lat": 40.5473,
+"lon": -86.5244,
+"query": "Flora",
+"match": "Flora, Carroll County, Indiana, United States"
+},
+"Fort Collins|Colorado": {
+"lat": 40.5872,
+"lon": -105.077,
+"query": "Fort Collins",
+"match": "Fort Collins, Larimer County, Colorado, United States"
+},
+"Fort Smith|Arkansas": {
+"lat": 35.388,
+"lon": -94.4265,
+"query": "Fort Smith",
+"match": "Fort Smith, Sebastian County, Arkansas, United States"
+},
+"Fort Wayne|Indiana": {
+"lat": 41.08,
+"lon": -85.1386,
+"query": "Fort Wayne",
+"match": "Fort Wayne, Allen County, Indiana, United States"
+},
+"Fort Worth|Texas": {
+"lat": 32.7532,
+"lon": -97.3327,
+"query": "Fort Worth",
+"match": "Fort Worth, Tarrant County, Texas, United States"
+},
+"Fowlerville|Michigan": {
+"lat": 42.6606,
+"lon": -84.073,
+"query": "Fowlerville",
+"match": "Fowlerville, Livingston County, Michigan, 48836, United States"
+},
+"Frederick|Colorado": {
+"lat": 40.0987,
+"lon": -104.9383,
+"query": "Frederick",
+"match": "Frederick, Weld County, Colorado, 80530, United States"
+},
+"Fremont|California": {
+"lat": 37.5483,
+"lon": -121.9886,
+"query": "Fremont",
+"match": "Fremont, Alameda County, California, United States"
+},
+"Frenchville|Maine": {
+"lat": 47.2811,
+"lon": -68.3803,
+"query": "Frenchville",
+"match": "Frenchville, Aroostook County, Maine, United States"
+},
+"Fruitland|Idaho": {
+"lat": 44.0089,
+"lon": -116.9164,
+"query": "Fruitland",
+"match": "Fruitland, Payette County, Idaho, 83619, United States"
+},
+"Gainesville|Florida": {
+"lat": 29.652,
+"lon": -82.325,
+"query": "Gainesville",
+"match": "Gainesville, Alachua County, Florida, United States"
+},
+"Galloway Township|New Jersey": {
+"lat": 39.4646,
+"lon": -74.4986,
+"query": "Galloway Township",
+"match": "Galloway Township, Atlantic County, New Jersey, United States"
+},
+"Gallup|New Mexico": {
+"lat": 35.5284,
+"lon": -108.7439,
+"query": "Gallup",
+"match": "Gallup, McKinley County, New Mexico, 87301, United States"
+},
+"Georgetown|Kentucky": {
+"lat": 38.21,
+"lon": -84.5597,
+"query": "Georgetown",
+"match": "Georgetown, Scott County, Kentucky, 40324, United States"
+},
+"Georgetown|Texas": {
+"lat": 30.637,
+"lon": -97.6776,
+"query": "Georgetown",
+"match": "Georgetown, Williamson County, Texas, United States"
+},
+"Gilgo Beach|New York": {
+"lat": 40.6184,
+"lon": -73.3976,
+"query": "Gilgo Beach",
+"match": "Gilgo Beach, Town of Babylon, Suffolk County, New York, United States"
+},
+"Girdwood|Alaska": {
+"lat": 60.9632,
+"lon": -149.1337,
+"query": "Girdwood",
+"match": "Girdwood, Anchorage, Alaska, 99887, United States"
+},
+"Glenview|Illinois": {
+"lat": 42.0701,
+"lon": -87.8114,
+"query": "Glenview",
+"match": "Glenview, Northfield Township, Cook County, Illinois, United States"
+},
+"Granby|Massachusetts": {
+"lat": 42.257,
+"lon": -72.5165,
+"query": "Granby",
+"match": "Granby, Hampshire County, Massachusetts, 01033, United States"
+},
+"Grand Forks|North Dakota": {
+"lat": 47.9252,
+"lon": -97.0306,
+"query": "Grand Forks",
+"match": "Grand Forks, Grand Forks County, North Dakota, United States"
+},
+"Grand Rapids|Michigan": {
+"lat": 42.9632,
+"lon": -85.6679,
+"query": "Grand Rapids",
+"match": "Grand Rapids, Kent County, Michigan, United States"
+},
+"Great Smoky Mountains National Park|Tennessee": {
+"lat": 35.6342,
+"lon": -83.4024,
+"query": "Great Smoky Mountains National Park",
+"match": "Great Smoky Mountains National Park, Sevier County, East Tennessee, Tennessee, 37878, United States"
+},
+"Greeley|Colorado": {
+"lat": 40.4233,
+"lon": -104.7091,
+"query": "Greeley",
+"match": "Greeley, Weld County, Colorado, United States"
+},
+"Greenwich|Connecticut": {
+"lat": 41.0265,
+"lon": -73.6285,
+"query": "Greenwich",
+"match": "Greenwich, Western Connecticut Planning Region, Connecticut, United States"
+},
+"Greenwich|New York": {
+"lat": 43.0904,
+"lon": -73.4994,
+"query": "Greenwich",
+"match": "Town of Greenwich, Washington County, New York, United States"
+},
+"Greer|South Carolina": {
+"lat": 34.9381,
+"lon": -82.2272,
+"query": "Greer",
+"match": "Greer, Greenville County, South Carolina, United States"
+},
+"Hamilton Township|New Jersey": {
+"lat": 40.2113,
+"lon": -74.6858,
+"query": "Hamilton Township",
+"match": "Hamilton Township, Mercer County, New Jersey, United States"
+},
+"Hamilton|Michigan": {
+"lat": 42.6772,
+"lon": -86.0061,
+"query": "Hamilton",
+"match": "Hamilton, Heath Township, Allegan County, Michigan, 49419, United States"
+},
+"Hampton|South Carolina": {
+"lat": 32.7862,
+"lon": -81.1237,
+"query": "Hampton",
+"match": "Hampton County, South Carolina, United States"
+},
+"Hampton|Virginia": {
+"lat": 37.0264,
+"lon": -76.3443,
+"query": "Hampton",
+"match": "Hampton, Virginia, United States"
+},
+"Hartford|Connecticut": {
+"lat": 41.7662,
+"lon": -72.6733,
+"query": "Hartford",
+"match": "Hartford, Capitol Planning Region, Connecticut, United States"
+},
+"Haverhill|New Hampshire": {
+"lat": 44.0343,
+"lon": -72.0634,
+"query": "Haverhill",
+"match": "Haverhill, Grafton County, New Hampshire, United States"
+},
+"Hayward|California": {
+"lat": 37.6688,
+"lon": -122.0808,
+"query": "Hayward",
+"match": "Hayward, Alameda County, California, United States"
+},
+"Hazelton|West Virginia": {
+"lat": 39.6537,
+"lon": -79.5306,
+"query": "Hazelton",
+"match": "Hazelton, Preston County, West Virginia, United States"
+},
+"Hendersonville|Tennessee": {
+"lat": 36.3049,
+"lon": -86.6214,
+"query": "Hendersonville",
+"match": "Hendersonville, Sumner County, Middle Tennessee, Tennessee, United States"
+},
+"Henderson|Nevada": {
+"lat": 36.0301,
+"lon": -114.9815,
+"query": "Henderson",
+"match": "Henderson, Clark County, Nevada, United States"
+},
+"Henrico County|Virginia": {
+"lat": 37.5131,
+"lon": -77.3465,
+"query": "Henrico County",
+"match": "Henrico County, Virginia, United States"
+},
+"Hilo|Hawaii": {
+"lat": 19.7074,
+"lon": -155.0816,
+"query": "Hilo",
+"match": "Hilo, Hawaiʻi County, Hawaii, 96720, United States"
+},
+"Holland|Michigan": {
+"lat": 42.7876,
+"lon": -86.1091,
+"query": "Holland",
+"match": "Holland, Ottawa County, Michigan, 49423, United States"
+},
+"Hollywood|Florida": {
+"lat": 26.0112,
+"lon": -80.1495,
+"query": "Hollywood",
+"match": "Hollywood, Broward County, Florida, United States"
+},
+"Homosassa|Florida": {
+"lat": 28.7825,
+"lon": -82.6065,
+"query": "Homosassa",
+"match": "Homosassa, Citrus County, Florida, 34448, United States"
+},
+"Honolulu|Hawaii": {
+"lat": 21.3045,
+"lon": -157.8557,
+"query": "Honolulu",
+"match": "Honolulu, Honolulu County, Hawaii, United States"
+},
+"Hopewell|New Jersey": {
+"lat": 40.3893,
+"lon": -74.7618,
+"query": "Hopewell",
+"match": "Hopewell, Mercer County, New Jersey, 08525, United States"
+},
+"Hopkinton|Massachusetts": {
+"lat": 42.2289,
+"lon": -71.5196,
+"query": "Hopkinton",
+"match": "Hopkinton, Middlesex County, Massachusetts, United States"
+},
+"Houston|Texas": {
+"lat": 29.7589,
+"lon": -95.3677,
+"query": "Houston",
+"match": "Houston, Harris County, Texas, United States"
+},
+"Hudson|Florida": {
+"lat": 28.3581,
+"lon": -82.692,
+"query": "Hudson",
+"match": "Hudson, Pasco County, Florida, 34667, United States"
+},
+"Huntington Beach|California": {
+"lat": 33.6783,
+"lon": -118.0,
+"query": "Huntington Beach",
+"match": "Huntington Beach, Orange County, California, United States"
+},
+"Huntsville|Texas": {
+"lat": 30.7235,
+"lon": -95.5508,
+"query": "Huntsville",
+"match": "Huntsville, Walker County, Texas, United States"
+},
+"Idaho Falls|Idaho": {
+"lat": 43.4888,
+"lon": -112.0363,
+"query": "Idaho Falls",
+"match": "Idaho Falls, Bonneville County, Idaho, United States"
+},
+"Ina|Illinois": {
+"lat": 38.1512,
+"lon": -88.904,
+"query": "Ina",
+"match": "Ina, Jefferson County, Illinois, 62846, United States"
+},
+"Incline Village|Nevada": {
+"lat": 39.2548,
+"lon": -119.9538,
+"query": "Incline Village",
+"match": "Incline Village, Washoe County, Nevada, United States"
+},
+"Independence|Missouri": {
+"lat": 39.0925,
+"lon": -94.4138,
+"query": "Independence",
+"match": "Independence, Jackson County, Missouri, United States"
+},
+"Iowa|Louisiana": {
+"lat": 30.2369,
+"lon": -93.0138,
+"query": "Iowa",
+"match": "Iowa, Calcasieu Parish, Louisiana, 70647, United States"
+},
+"Irving|Texas": {
+"lat": 32.8295,
+"lon": -96.9442,
+"query": "Irving",
+"match": "Irving, Dallas County, Texas, United States"
+},
+"Islandton|South Carolina": {
+"lat": 32.9089,
+"lon": -80.935,
+"query": "Islandton",
+"match": "Islandton, Colleton County, South Carolina, 29929, United States"
+},
+"Ivins|Utah": {
+"lat": 37.1686,
+"lon": -113.6794,
+"query": "Ivins",
+"match": "Ivins, Washington County, Utah, 84738, United States"
+},
+"Jacksonville|Florida": {
+"lat": 30.3262,
+"lon": -81.6579,
+"query": "Jacksonville",
+"match": "Jacksonville, Duval County, Florida, United States"
+},
+"Jackson|Mississippi": {
+"lat": 32.2999,
+"lon": -90.183,
+"query": "Jackson",
+"match": "Jackson, Hinds County, Mississippi, United States"
+},
+"Jamaica, Queens|New York": {
+"lat": 40.6988,
+"lon": -73.8088,
+"query": "Jamaica, Queens",
+"match": "Jamaica, 94th Avenue, Queens, Queens County, New York, 11435, United States"
+},
+"Jasper|Texas": {
+"lat": 30.7485,
+"lon": -94.0009,
+"query": "Jasper",
+"match": "Jasper County, Texas, United States"
+},
+"Jay|Maine": {
+"lat": 44.481,
+"lon": -70.1985,
+"query": "Jay",
+"match": "Jay, Franklin County, Maine, 04239, United States"
+},
+"Jefferson Davis Parish|Louisiana": {
+"lat": 30.2576,
+"lon": -92.7887,
+"query": "Jefferson Davis Parish",
+"match": "Jefferson Davis Parish, Louisiana, United States"
+},
+"Johnsburg|Illinois": {
+"lat": 42.38,
+"lon": -88.242,
+"query": "Johnsburg",
+"match": "Johnsburg, McHenry County, Illinois, 60072, United States"
+},
+"Jonestown, Guyana|California": null,
+"Joshua Tree|California": {
+"lat": 34.1234,
+"lon": -116.3129,
+"query": "Joshua Tree",
+"match": "Joshua Tree, San Bernardino County, California, United States"
+},
+"Kamas|Utah": {
+"lat": 40.643,
+"lon": -111.2805,
+"query": "Kamas",
+"match": "Kamas, Summit County, Utah, 84036, United States"
+},
+"Kansas City|Missouri": {
+"lat": 39.1001,
+"lon": -94.5781,
+"query": "Kansas City",
+"match": "Kansas City, Jackson County, Missouri, United States"
+},
+"Kapoho|Hawaii": {
+"lat": 19.5025,
+"lon": -154.8462,
+"query": "Kapoho",
+"match": "Kapoho, Hawaiʻi County, Hawaii, 96720, United States"
+},
+"Keansburg|New Jersey": {
+"lat": 40.4418,
+"lon": -74.1299,
+"query": "Keansburg",
+"match": "Keansburg, Monmouth County, New Jersey, 07734, United States"
+},
+"Keddie|California": {
+"lat": 40.0083,
+"lon": -120.9456,
+"query": "Keddie",
+"match": "Keddie, Plumas County, California, United States"
+},
+"Kenilworth|Illinois": {
+"lat": 42.0895,
+"lon": -87.7149,
+"query": "Kenilworth",
+"match": "Kenilworth, New Trier Township, Cook County, Illinois, United States"
+},
+"Kennewick|Washington": {
+"lat": 46.2087,
+"lon": -119.1199,
+"query": "Kennewick",
+"match": "Kennewick, Benton County, Washington, United States"
+},
+"Kilgore|Texas": {
+"lat": 32.3867,
+"lon": -94.8755,
+"query": "Kilgore",
+"match": "Kilgore, Gregg County, Texas, United States"
+},
+"Killeen|Texas": {
+"lat": 31.1171,
+"lon": -97.7278,
+"query": "Killeen",
+"match": "Killeen, Bell County, Texas, United States"
+},
+"King County|Washington": {
+"lat": 47.4873,
+"lon": -121.8622,
+"query": "King County",
+"match": "King County, Washington, United States"
+},
+"Kirby|West Virginia": {
+"lat": 39.1829,
+"lon": -78.7261,
+"query": "Kirby",
+"match": "Kirby, Hampshire County, West Virginia, 26755, United States"
+},
+"Kissimmee|Florida": {
+"lat": 28.2919,
+"lon": -81.4076,
+"query": "Kissimmee",
+"match": "Kissimmee, Osceola County, Florida, United States"
+},
+"Knoxville|Tennessee": {
+"lat": 35.9604,
+"lon": -83.921,
+"query": "Knoxville",
+"match": "Knoxville, Knox County, East Tennessee, Tennessee, United States"
+},
+"La Crosse|Wisconsin": {
+"lat": 43.8123,
+"lon": -91.2514,
+"query": "La Crosse",
+"match": "La Crosse, La Crosse County, Wisconsin, United States"
+},
+"La Cygne|Kansas": {
+"lat": 38.35,
+"lon": -94.7613,
+"query": "La Cygne",
+"match": "La Cygne, Linn County, Kansas, United States"
+},
+"LaGrange|Georgia": {
+"lat": 33.0393,
+"lon": -85.0313,
+"query": "LaGrange",
+"match": "LaGrange, Troup County, Georgia, United States"
+},
+"LaSalle|Illinois": {
+"lat": 41.3475,
+"lon": -88.9012,
+"query": "LaSalle",
+"match": "LaSalle County, Illinois, United States"
+},
+"Lafayette|Indiana": {
+"lat": 40.4191,
+"lon": -86.8919,
+"query": "Lafayette",
+"match": "Lafayette, Tippecanoe County, Indiana, United States"
+},
+"Lake Berryessa|California": {
+"lat": 38.5958,
+"lon": -122.2382,
+"query": "Lake Berryessa",
+"match": "Lake Berryessa, Napa County, California, United States"
+},
+"Lake City|Florida": {
+"lat": 30.1894,
+"lon": -82.6395,
+"query": "Lake City",
+"match": "Lake City, Columbia County, Florida, United States"
+},
+"Lake Delton|Wisconsin": {
+"lat": 43.6011,
+"lon": -89.7937,
+"query": "Lake Delton",
+"match": "Lake Delton, Sauk County, Wisconsin, 53940, United States"
+},
+"Lake Panasoffkee|Florida": {
+"lat": 28.7852,
+"lon": -82.1326,
+"query": "Lake Panasoffkee",
+"match": "Lake Panasoffkee, Sumter County, Florida, 33538, United States"
+},
+"Lake Tahoe|Nevada": {
+"lat": 39.0,
+"lon": -119.95,
+"query": "Lake Tahoe",
+"match": "manual: Nevada shore of Lake Tahoe"
+},
+"Lake Township|Ohio": {
+"lat": 41.5583,
+"lon": -83.4719,
+"query": "Lake Township",
+"match": "Lake Township, Wood County, Ohio, United States"
+},
+"Lakeview|New York": {
+"lat": 40.677,
+"lon": -73.6509,
+"query": "Lakeview",
+"match": "Lakeview, Town of Hempstead, Nassau County, New York, United States"
+},
+"Lander|Wyoming": {
+"lat": 42.8331,
+"lon": -108.7307,
+"query": "Lander",
+"match": "Lander, Fremont County, Wyoming, 82520, United States"
+},
+"Las Vegas|Nevada": {
+"lat": 36.1674,
+"lon": -115.1484,
+"query": "Las Vegas",
+"match": "Las Vegas, Clark County, Nevada, United States"
+},
+"Lawrenceville|Georgia": {
+"lat": 33.9566,
+"lon": -83.989,
+"query": "Lawrenceville",
+"match": "Lawrenceville, Gwinnett County, Georgia, United States"
+},
+"Leadore|Idaho": {
+"lat": 44.6802,
+"lon": -113.3581,
+"query": "Leadore",
+"match": "Leadore, Lemhi County, Idaho, United States"
+},
+"League City|Texas": {
+"lat": 29.5075,
+"lon": -95.0949,
+"query": "League City",
+"match": "League City, Galveston County, Texas, 77573, United States"
+},
+"Leesburg|Florida": {
+"lat": 28.8108,
+"lon": -81.8779,
+"query": "Leesburg",
+"match": "Leesburg, Lake County, Florida, United States"
+},
+"Lexington County|South Carolina": {
+"lat": 33.8987,
+"lon": -81.2751,
+"query": "Lexington County",
+"match": "Lexington County, South Carolina, United States"
+},
+"Lincoln|Massachusetts": {
+"lat": 42.4259,
+"lon": -71.3039,
+"query": "Lincoln",
+"match": "Lincoln, Middlesex County, Massachusetts, United States"
+},
+"Linwood|Kansas": {
+"lat": 39.0014,
+"lon": -95.0391,
+"query": "Linwood",
+"match": "Linwood, Leavenworth County, Kansas, United States"
+},
+"Little Rock|Arkansas": {
+"lat": 34.7465,
+"lon": -92.2896,
+"query": "Little Rock",
+"match": "Little Rock, Big Rock Township, Pulaski County, Arkansas, United States"
+},
+"Livingston|Texas": {
+"lat": 30.711,
+"lon": -94.933,
+"query": "Livingston",
+"match": "Livingston, Polk County, Texas, United States"
+},
+"Locust Grove|Oklahoma": {
+"lat": 36.2001,
+"lon": -95.1677,
+"query": "Locust Grove",
+"match": "Locust Grove, Mayes County, Oklahoma, 74352, United States"
+},
+"Long Beach|New York": {
+"lat": 40.5886,
+"lon": -73.6583,
+"query": "Long Beach",
+"match": "City of Long Beach, Nassau County, New York, 11561, United States"
+},
+"Longview|Texas": {
+"lat": 32.5007,
+"lon": -94.7405,
+"query": "Longview",
+"match": "Longview, Gregg County, Texas, United States"
+},
+"Lorton|Virginia": {
+"lat": 38.6946,
+"lon": -77.22,
+"query": "Lorton",
+"match": "Lorton, Fairfax County, Virginia, United States"
+},
+"Los Angeles|California": {
+"lat": 34.0537,
+"lon": -118.2428,
+"query": "Los Angeles",
+"match": "Los Angeles, Los Angeles County, California, United States"
+},
+"Louisville|Kentucky": {
+"lat": 38.2542,
+"lon": -85.7594,
+"query": "Louisville",
+"match": "Louisville, Jefferson County, Kentucky, United States"
+},
+"Lovingston|Virginia": {
+"lat": 37.7621,
+"lon": -78.8654,
+"query": "Lovingston",
+"match": "Lovingston, Nelson County, Virginia, 22949, United States"
+},
+"Macon|Georgia": {
+"lat": 32.8407,
+"lon": -83.6324,
+"query": "Macon",
+"match": "Macon, Bibb County, Georgia, United States"
+},
+"Malibu|California": {
+"lat": 34.0356,
+"lon": -118.6894,
+"query": "Malibu",
+"match": "Malibu, Los Angeles County, California, 90265, United States"
+},
+"Manchester|New Hampshire": {
+"lat": 42.9956,
+"lon": -71.4548,
+"query": "Manchester",
+"match": "Manchester, Hillsborough County, New Hampshire, United States"
+},
+"Mandan|North Dakota": {
+"lat": 46.8264,
+"lon": -100.8897,
+"query": "Mandan",
+"match": "Mandan, Morton County, North Dakota, 58554, United States"
+},
+"Manitowoc County|Wisconsin": {
+"lat": 44.0998,
+"lon": -87.828,
+"query": "Manitowoc County",
+"match": "Manitowoc County, Wisconsin, United States"
+},
+"Manorville|New York": {
+"lat": 40.8626,
+"lon": -72.7861,
+"query": "Manorville",
+"match": "Manorville, Town of Brookhaven, Suffolk County, New York, 11949, United States"
+},
+"Mansfield|Ohio": {
+"lat": 40.7584,
+"lon": -82.5154,
+"query": "Mansfield",
+"match": "Mansfield, Richland County, Ohio, United States"
+},
+"Maple Shade|New Jersey": {
+"lat": 39.9526,
+"lon": -74.9924,
+"query": "Maple Shade",
+"match": "Maple Shade Township, Burlington County, New Jersey, 08052, United States"
+},
+"Marietta|Georgia": {
+"lat": 33.9528,
+"lon": -84.5496,
+"query": "Marietta",
+"match": "Marietta, Cobb County, Georgia, United States"
+},
+"Marion|Alabama": {
+"lat": 34.1128,
+"lon": -87.8544,
+"query": "Marion",
+"match": "Marion County, Alabama, United States"
+},
+"Marshall|Minnesota": {
+"lat": 48.3605,
+"lon": -96.382,
+"query": "Marshall",
+"match": "Marshall County, Minnesota, United States"
+},
+"Martinsburg|West Virginia": {
+"lat": 39.4563,
+"lon": -77.964,
+"query": "Martinsburg",
+"match": "Martinsburg, Berkeley County, West Virginia, United States"
+},
+"Marysville|Ohio": {
+"lat": 40.2364,
+"lon": -83.3671,
+"query": "Marysville",
+"match": "Marysville, Paris Township, Union County, Ohio, 43040, United States"
+},
+"Mason City|Iowa": {
+"lat": 43.1525,
+"lon": -93.2018,
+"query": "Mason City",
+"match": "Mason City, Mason Township, Cerro Gordo County, Iowa, United States"
+},
+"McCleary|Washington": {
+"lat": 47.0532,
+"lon": -123.2654,
+"query": "McCleary",
+"match": "McCleary, Grays Harbor County, Washington, 98557, United States"
+},
+"McKinleyville|California": {
+"lat": 40.9676,
+"lon": -124.1033,
+"query": "McKinleyville",
+"match": "McKinleyville, Humboldt County, California, 95519, United States"
+},
+"Memphis|Tennessee": {
+"lat": 35.146,
+"lon": -90.0518,
+"query": "Memphis",
+"match": "Memphis, Shelby County, West Tennessee, Tennessee, United States"
+},
+"Mendocino County|California": {
+"lat": 39.3176,
+"lon": -123.4126,
+"query": "Mendocino County",
+"match": "Mendocino County, California, United States"
+},
+"Merrimack|New Hampshire": {
+"lat": 43.326,
+"lon": -71.6855,
+"query": "Merrimack",
+"match": "Merrimack County, New Hampshire, United States"
+},
+"Mesa|Arizona": {
+"lat": 33.4151,
+"lon": -111.8315,
+"query": "Mesa",
+"match": "Mesa, Maricopa County, Arizona, United States"
+},
+"Metamora|Ohio": {
+"lat": 41.7118,
+"lon": -83.9102,
+"query": "Metamora",
+"match": "Metamora, Amboy Township, Fulton County, Ohio, United States"
+},
+"Miami Beach|Florida": {
+"lat": 25.7929,
+"lon": -80.1353,
+"query": "Miami Beach",
+"match": "Miami Beach, Miami-Dade County, Florida, United States"
+},
+"Miami|Florida": {
+"lat": 25.7742,
+"lon": -80.1936,
+"query": "Miami",
+"match": "Miami, Miami-Dade County, Florida, United States"
+},
+"Midlothian|Texas": {
+"lat": 32.4824,
+"lon": -96.9944,
+"query": "Midlothian",
+"match": "Midlothian, Ellis County, Texas, 76065, United States"
+},
+"Milan|Tennessee": {
+"lat": 35.9198,
+"lon": -88.759,
+"query": "Milan",
+"match": "Milan, Gibson County, West Tennessee, Tennessee, 38358, United States"
+},
+"Milwaukee|Wisconsin": {
+"lat": 43.0386,
+"lon": -87.9091,
+"query": "Milwaukee",
+"match": "Milwaukee, Milwaukee County, Wisconsin, United States"
+},
+"Minneapolis|Minnesota": {
+"lat": 44.9773,
+"lon": -93.2655,
+"query": "Minneapolis",
+"match": "Minneapolis, Hennepin County, Minnesota, United States"
+},
+"Mishawaka|Indiana": {
+"lat": 41.6612,
+"lon": -86.1807,
+"query": "Mishawaka",
+"match": "Mishawaka, Saint Joseph County, Indiana, United States"
+},
+"Missoula|Montana": {
+"lat": 46.8701,
+"lon": -113.9953,
+"query": "Missoula",
+"match": "Missoula, Missoula County, Montana, United States"
+},
+"Mobile|Alabama": {
+"lat": 30.6913,
+"lon": -88.0438,
+"query": "Mobile",
+"match": "Mobile, Mobile County, Alabama, United States"
+},
+"Modesto|California": {
+"lat": 37.6393,
+"lon": -120.9969,
+"query": "Modesto",
+"match": "Modesto, Stanislaus County, California, United States"
+},
+"Moline|Illinois": {
+"lat": 41.5066,
+"lon": -90.515,
+"query": "Moline",
+"match": "Moline, Rock Island County, Illinois, 61265, United States"
+},
+"Money|Mississippi": {
+"lat": 33.6514,
+"lon": -90.2093,
+"query": "Money",
+"match": "Money, Leflore County, Mississippi, 38945, United States"
+},
+"Montgomery|Vermont": {
+"lat": 44.8775,
+"lon": -72.608,
+"query": "Montgomery",
+"match": "Montgomery, Franklin County, Vermont, United States"
+},
+"Morenci|Michigan": {
+"lat": 41.7195,
+"lon": -84.2174,
+"query": "Morenci",
+"match": "Morenci, Lenawee County, Michigan, United States"
+},
+"Morgantown|West Virginia": {
+"lat": 39.6297,
+"lon": -79.9559,
+"query": "Morgantown",
+"match": "Morgantown, Monongalia County, West Virginia, United States"
+},
+"Moscow|Idaho": {
+"lat": 46.7324,
+"lon": -117.0002,
+"query": "Moscow",
+"match": "Moscow, Latah County, Idaho, United States"
+},
+"Moss Point|Mississippi": {
+"lat": 30.4116,
+"lon": -88.5345,
+"query": "Moss Point",
+"match": "Moss Point, Jackson County, Mississippi, 39563, United States"
+},
+"Myrtle Beach|South Carolina": {
+"lat": 33.6956,
+"lon": -78.89,
+"query": "Myrtle Beach",
+"match": "Myrtle Beach, Horry County, South Carolina, United States"
+},
+"Nantucket|Massachusetts": {
+"lat": 41.2844,
+"lon": -70.0984,
+"query": "Nantucket",
+"match": "Nantucket, Massachusetts, United States"
+},
+"Naperville|Illinois": {
+"lat": 41.7729,
+"lon": -88.1479,
+"query": "Naperville",
+"match": "Naperville, Naperville Township, DuPage County, Illinois, United States"
+},
+"Naples|Florida": {
+"lat": 26.1422,
+"lon": -81.7943,
+"query": "Naples",
+"match": "Naples, Collier County, Florida, United States"
+},
+"Nashville|Tennessee": {
+"lat": 36.1623,
+"lon": -86.7743,
+"query": "Nashville",
+"match": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+},
+"Natchez|Mississippi": {
+"lat": 31.5604,
+"lon": -91.4032,
+"query": "Natchez",
+"match": "Natchez, Adams County, Mississippi, United States"
+},
+"Neptune City|New Jersey": {
+"lat": 40.2001,
+"lon": -74.0279,
+"query": "Neptune City",
+"match": "Neptune City, Monmouth County, New Jersey, United States"
+},
+"Neshoba County|Mississippi": {
+"lat": 32.7238,
+"lon": -89.1032,
+"query": "Neshoba County",
+"match": "Neshoba County, Mississippi, United States"
+},
+"New Bedford|Massachusetts": {
+"lat": 41.6362,
+"lon": -70.9342,
+"query": "New Bedford",
+"match": "New Bedford, Bristol County, Massachusetts, United States"
+},
+"New Brighton|Minnesota": {
+"lat": 45.0629,
+"lon": -93.2061,
+"query": "New Brighton",
+"match": "New Brighton, Ramsey County, Minnesota, United States"
+},
+"New Britain|Connecticut": {
+"lat": 41.6612,
+"lon": -72.7796,
+"query": "New Britain",
+"match": "New Britain, Capitol Planning Region, Connecticut, United States"
+},
+"New Brunswick|New Jersey": {
+"lat": 40.4936,
+"lon": -74.4436,
+"query": "New Brunswick",
+"match": "New Brunswick, Middlesex County, New Jersey, United States"
+},
+"New Canaan|Connecticut": {
+"lat": 41.1468,
+"lon": -73.4948,
+"query": "New Canaan",
+"match": "New Canaan, Western Connecticut Planning Region, Connecticut, 06840, United States"
+},
+"New Haven|Connecticut": {
+"lat": 41.3082,
+"lon": -72.9251,
+"query": "New Haven",
+"match": "New Haven, South Central Connecticut Planning Region, Connecticut, United States"
+},
+"New Haven|New York": {
+"lat": 43.4797,
+"lon": -76.315,
+"query": "New Haven",
+"match": "Town of New Haven, Oswego County, New York, United States"
+},
+"New Orleans|Louisiana": {
+"lat": 29.9575,
+"lon": -90.0629,
+"query": "New Orleans",
+"match": "New Orleans, Orleans Parish, Louisiana, United States"
+},
+"New York City|New York": {
+"lat": 40.7127,
+"lon": -74.006,
+"query": "New York City",
+"match": "New York, United States"
+},
+"Newark Valley|New York": {
+"lat": 42.2235,
+"lon": -76.1837,
+"query": "Newark Valley",
+"match": "Village of Newark Valley, Town of Newark Valley, Tioga County, New York, United States"
+},
+"Newport Beach|California": {
+"lat": 33.617,
+"lon": -117.9294,
+"query": "Newport Beach",
+"match": "Newport Beach, Orange County, California, United States"
+},
+"Newtown|Connecticut": {
+"lat": 41.4135,
+"lon": -73.3086,
+"query": "Newtown",
+"match": "Newtown, Western Connecticut Planning Region, Connecticut, United States"
+},
+"Nome|Alaska": {
+"lat": 64.4975,
+"lon": -165.4062,
+"query": "Nome",
+"match": "Nome, Unorganized Borough, Alaska, United States"
+},
+"Norfolk|Virginia": {
+"lat": 36.8494,
+"lon": -76.29,
+"query": "Norfolk",
+"match": "Norfolk, Virginia, United States"
+},
+"North Charleston|South Carolina": {
+"lat": 32.8546,
+"lon": -79.9748,
+"query": "North Charleston",
+"match": "North Charleston, Charleston County, South Carolina, United States"
+},
+"North Las Vegas|Nevada": {
+"lat": 36.2005,
+"lon": -115.1215,
+"query": "North Las Vegas",
+"match": "North Las Vegas, Clark County, Nevada, United States"
+},
+"North Port|Florida": {
+"lat": 27.0442,
+"lon": -82.2359,
+"query": "North Port",
+"match": "North Port, Sarasota County, Florida, United States"
+},
+"Northern Cheyenne Reservation|Montana": {
+"lat": 45.5213,
+"lon": -106.6721,
+"query": "Northern Cheyenne Reservation",
+"match": "Northern Cheyenne Indian Reservation, Rosebud County, Montana, United States"
+},
+"Northfield|Vermont": {
+"lat": 44.1486,
+"lon": -72.657,
+"query": "Northfield",
+"match": "Northfield, Washington County, Vermont, United States"
+},
+"Nutley|New Jersey": {
+"lat": 40.8223,
+"lon": -74.1599,
+"query": "Nutley",
+"match": "Nutley, Essex County, New Jersey, 07110, United States"
+},
+"Oak Beach|New York": {
+"lat": 40.6393,
+"lon": -73.2885,
+"query": "Oak Beach",
+"match": "Oak Beach, Town of Babylon, Suffolk County, New York, United States"
+},
+"Oakland (departed)|California": {
+"lat": 37.8045,
+"lon": -122.2714,
+"query": "Oakland",
+"match": "Oakland, Alameda County, California, United States"
+},
+"Oakland County|Michigan": {
+"lat": 42.6619,
+"lon": -83.3804,
+"query": "Oakland County",
+"match": "Oakland County, Michigan, United States"
+},
+"Oakland|California": {
+"lat": 37.8045,
+"lon": -122.2714,
+"query": "Oakland",
+"match": "Oakland, Alameda County, California, United States"
+},
+"Ocala National Forest|Florida": {
+"lat": 29.2366,
+"lon": -81.7504,
+"query": "Ocala National Forest",
+"match": "Ocala National Forest, Marion County, Florida, United States"
+},
+"Oceanside|New York": {
+"lat": 40.6336,
+"lon": -73.6377,
+"query": "Oceanside",
+"match": "Oceanside, Town of Hempstead, Nassau County, New York, 11572, United States"
+},
+"Ocilla|Georgia": {
+"lat": 31.5944,
+"lon": -83.2504,
+"query": "Ocilla",
+"match": "Ocilla, Irwin County, Georgia, United States"
+},
+"Oklahoma City|Oklahoma": {
+"lat": 35.473,
+"lon": -97.5171,
+"query": "Oklahoma City",
+"match": "Oklahoma City, Oklahoma County, Oklahoma, United States"
+},
+"Omaha|Nebraska": {
+"lat": 41.2587,
+"lon": -95.9384,
+"query": "Omaha",
+"match": "Omaha, Douglas County, Nebraska, United States"
+},
+"Oneida|New York": {
+"lat": 43.2144,
+"lon": -75.4039,
+"query": "Oneida",
+"match": "Oneida County, New York, United States"
+},
+"Opelika|Alabama": {
+"lat": 32.6454,
+"lon": -85.3783,
+"query": "Opelika",
+"match": "Opelika, Lee County, Alabama, 36801, United States"
+},
+"Opelousas|Louisiana": {
+"lat": 30.5194,
+"lon": -92.0831,
+"query": "Opelousas",
+"match": "Opelousas, Saint Landry Parish, Louisiana, 70570, United States"
+},
+"Orange|Virginia": {
+"lat": 38.249,
+"lon": -78.014,
+"query": "Orange",
+"match": "Orange County, Virginia, United States"
+},
+"Orlando|Florida": {
+"lat": 28.5421,
+"lon": -81.379,
+"query": "Orlando",
+"match": "Orlando, Orange County, Florida, United States"
+},
+"Oroville|California": {
+"lat": 39.5138,
+"lon": -121.5564,
+"query": "Oroville",
+"match": "Oroville, Butte County, California, United States"
+},
+"Pacific Palisades|California": {
+"lat": 34.0481,
+"lon": -118.5265,
+"query": "Pacific Palisades",
+"match": "Pacific Palisades, Los Angeles, Los Angeles County, California, 90272, United States"
+},
+"Pakistan|California": {
+"lat": 34.0479,
+"lon": -117.301,
+"query": "Pakistan",
+"match": "Gul Naz Cuisine of Pakistan, 1624, East Washington Street, East Colton Heights, Colton, San Bernardino County, Californi"
+},
+"Palm Bay|Florida": {
+"lat": 27.9947,
+"lon": -80.6366,
+"query": "Palm Bay",
+"match": "Palm Bay, Brevard County, Florida, United States"
+},
+"Palmyra|Pennsylvania": {
+"lat": 40.3089,
+"lon": -76.5932,
+"query": "Palmyra",
+"match": "Palmyra, Lebanon County, Pennsylvania, United States"
+},
+"Paradise Island (Bahamas); of Chicago|Illinois": null,
+"Parkland|Florida": {
+"lat": 26.3101,
+"lon": -80.2373,
+"query": "Parkland",
+"match": "Parkland, Broward County, Florida, United States"
+},
+"Pemberton Township|New Jersey": {
+"lat": 39.9548,
+"lon": -74.5932,
+"query": "Pemberton Township",
+"match": "Pemberton Township, Burlington County, New Jersey, United States"
+},
+"Pensacola|Florida": {
+"lat": 30.4213,
+"lon": -87.2169,
+"query": "Pensacola",
+"match": "Pensacola, Escambia County, Florida, United States"
+},
+"Perdido Bay|Alabama": {
+"lat": 30.3868,
+"lon": -87.441,
+"query": "Perdido Bay",
+"match": "Perdido Bay, Perdido Beach, Baldwin County, Alabama, United States"
+},
+"Petaluma|California": {
+"lat": 38.2326,
+"lon": -122.6365,
+"query": "Petaluma",
+"match": "Petaluma, Sonoma County, California, United States"
+},
+"Philadelphia|Pennsylvania": {
+"lat": 39.9527,
+"lon": -75.1635,
+"query": "Philadelphia",
+"match": "Philadelphia, Philadelphia County, Pennsylvania, United States"
+},
+"Phoenix|Arizona": {
+"lat": 33.4484,
+"lon": -112.0741,
+"query": "Phoenix",
+"match": "Phoenix, Maricopa County, Arizona, United States"
+},
+"Pinole|California": {
+"lat": 38.0044,
+"lon": -122.2989,
+"query": "Pinole",
+"match": "Pinole, Contra Costa County, California, 94564, United States"
+},
+"Plainfield|Illinois": {
+"lat": 41.6087,
+"lon": -88.2054,
+"query": "Plainfield",
+"match": "Plainfield, Plainfield Township, Will County, Illinois, United States"
+},
+"Plant City|Florida": {
+"lat": 28.0163,
+"lon": -82.1235,
+"query": "Plant City",
+"match": "Plant City, Hillsborough County, Florida, United States"
+},
+"Pocahontas County|West Virginia": {
+"lat": 38.3022,
+"lon": -80.0287,
+"query": "Pocahontas County",
+"match": "Pocahontas County, West Virginia, United States"
+},
+"Pocatello|Idaho": {
+"lat": 42.862,
+"lon": -112.4506,
+"query": "Pocatello",
+"match": "Pocatello, Bannock County, Idaho, United States"
+},
+"Ponce de Leon|Florida": {
+"lat": 30.723,
+"lon": -85.9374,
+"query": "Ponce de Leon",
+"match": "Ponce de Leon, Holmes County, Florida, United States"
+},
+"Port St. Lucie|Florida": {
+"lat": 27.2939,
+"lon": -80.3503,
+"query": "Port St. Lucie",
+"match": "Port Saint Lucie, Saint Lucie County, Florida, United States"
+},
+"Portland|Oregon": {
+"lat": 45.5202,
+"lon": -122.6742,
+"query": "Portland",
+"match": "Portland, Multnomah County, Oregon, United States"
+},
+"Potsdam|New York": {
+"lat": 44.6698,
+"lon": -74.9813,
+"query": "Potsdam",
+"match": "Village of Potsdam, Town of Potsdam, Saint Lawrence County, New York, 13699, United States"
+},
+"Provincetown|Massachusetts": {
+"lat": 42.0526,
+"lon": -70.1859,
+"query": "Provincetown",
+"match": "Provincetown, Barnstable County, Massachusetts, 02657, United States"
+},
+"Pueblo|Colorado": {
+"lat": 38.264,
+"lon": -104.6142,
+"query": "Pueblo",
+"match": "Pueblo, Pueblo County, Colorado, United States"
+},
+"Purchase|New York": {
+"lat": 41.0406,
+"lon": -73.7145,
+"query": "Purchase",
+"match": "Purchase, Town/Village of Harrison, Westchester County, New York, 10577, United States"
+},
+"Queens|New York": {
+"lat": 40.7135,
+"lon": -73.8283,
+"query": "Queens",
+"match": "Queens, Queens County, New York, United States"
+},
+"Rancho Bernardo|California": {
+"lat": 33.0228,
+"lon": -117.0744,
+"query": "Rancho Bernardo",
+"match": "Rancho Bernardo, San Diego, San Diego County, California, 92128, United States"
+},
+"Rawlins|Wyoming": {
+"lat": 41.7908,
+"lon": -107.2392,
+"query": "Rawlins",
+"match": "Rawlins, Carbon County, Wyoming, 83512, United States"
+},
+"Raymond|Wisconsin": {
+"lat": 42.7985,
+"lon": -88.0121,
+"query": "Raymond",
+"match": "Village of Raymond, Racine County, Wisconsin, United States"
+},
+"Renton|Washington": {
+"lat": 47.4799,
+"lon": -122.2034,
+"query": "Renton",
+"match": "Renton, King County, Washington, United States"
+},
+"Rexburg|Idaho": {
+"lat": 43.8261,
+"lon": -111.7837,
+"query": "Rexburg",
+"match": "Rexburg, Madison County, Idaho, 83460, United States"
+},
+"Richardson|Texas": {
+"lat": 32.9482,
+"lon": -96.7297,
+"query": "Richardson",
+"match": "Richardson, Dallas County, Texas, United States"
+},
+"Richmond|Indiana": {
+"lat": 39.8287,
+"lon": -84.8899,
+"query": "Richmond",
+"match": "Richmond, Wayne County, Indiana, 47374, United States"
+},
+"Richmond|Kentucky": {
+"lat": 37.7479,
+"lon": -84.2947,
+"query": "Richmond",
+"match": "Richmond, Madison County, Kentucky, 40475, United States"
+},
+"Richmond|Virginia": {
+"lat": 37.5385,
+"lon": -77.4343,
+"query": "Richmond",
+"match": "Richmond, Virginia, United States"
+},
+"Richwoods|Missouri": {
+"lat": 38.1603,
+"lon": -90.8282,
+"query": "Richwoods",
+"match": "Richwoods, Washington County, Missouri, 63071, United States"
+},
+"Riverside|California": {
+"lat": 33.9732,
+"lon": -117.3731,
+"query": "Riverside",
+"match": "Riverside, Riverside County, California, United States"
+},
+"Roanoke County|Virginia": {
+"lat": 37.2378,
+"lon": -80.076,
+"query": "Roanoke County",
+"match": "Roanoke County, Virginia, United States"
+},
+"Rochester|New York": {
+"lat": 43.1573,
+"lon": -77.6152,
+"query": "Rochester",
+"match": "City of Rochester, Monroe County, New York, United States"
+},
+"Rockerville|South Dakota": {
+"lat": 43.9577,
+"lon": -103.3584,
+"query": "Rockerville",
+"match": "Rockerville, Pennington County, South Dakota, United States"
+},
+"Rogersville|Alabama": {
+"lat": 34.8256,
+"lon": -87.2945,
+"query": "Rogersville",
+"match": "Rogersville, Lauderdale County, Alabama, 35652, United States"
+},
+"Rogersville|Tennessee": {
+"lat": 36.4073,
+"lon": -83.0054,
+"query": "Rogersville",
+"match": "Rogersville, Hawkins County, East Tennessee, Tennessee, 37857, United States"
+},
+"Rowlett|Texas": {
+"lat": 32.9029,
+"lon": -96.5639,
+"query": "Rowlett",
+"match": "Rowlett, Dallas County, Texas, United States"
+},
+"Roy|Utah": {
+"lat": 41.1715,
+"lon": -112.0274,
+"query": "Roy",
+"match": "Roy, Weber County, Utah, 84067, United States"
+},
+"Sacramento|California": {
+"lat": 38.5811,
+"lon": -121.4939,
+"query": "Sacramento",
+"match": "Sacramento, Sacramento County, California, United States"
+},
+"Salem|Idaho": {
+"lat": 43.8766,
+"lon": -111.773,
+"query": "Salem",
+"match": "Salem, Madison County, Idaho, 83440, United States"
+},
+"Salisbury|North Carolina": {
+"lat": 35.671,
+"lon": -80.4742,
+"query": "Salisbury",
+"match": "Salisbury, Rowan County, North Carolina, United States"
+},
+"Salt Lake City|Utah": {
+"lat": 40.7596,
+"lon": -111.8868,
+"query": "Salt Lake City",
+"match": "Salt Lake City, Salt Lake County, Utah, United States"
+},
+"San Antonio|Texas": {
+"lat": 29.4246,
+"lon": -98.4951,
+"query": "San Antonio",
+"match": "San Antonio, Bexar County, Texas, United States"
+},
+"San Diego|California": {
+"lat": 32.7157,
+"lon": -117.1638,
+"query": "San Diego",
+"match": "San Diego, San Diego County, California, United States"
+},
+"San Francisco Bay Area|California": {
+"lat": 37.714,
+"lon": -122.3078,
+"query": "San Francisco Bay",
+"match": "San Francisco Bay, San Mateo County, California, United States"
+},
+"San Francisco|California": {
+"lat": 37.7879,
+"lon": -122.4075,
+"query": "San Francisco",
+"match": "San Francisco, California, United States"
+},
+"San José del Cabo|Mexico": null,
+"San Luis Obispo|California": {
+"lat": 35.354,
+"lon": -120.3757,
+"query": "San Luis Obispo",
+"match": "San Luis Obispo County, California, United States"
+},
+"San Mateo County|California": {
+"lat": 37.4969,
+"lon": -122.3331,
+"query": "San Mateo County",
+"match": "San Mateo County, California, United States"
+},
+"Sand Lake|New York": {
+"lat": 42.6373,
+"lon": -73.5407,
+"query": "Sand Lake",
+"match": "Town of Sand Lake, Rensselaer County, New York, United States"
+},
+"Santa Catalina Island|California": {
+"lat": 33.3889,
+"lon": -118.4239,
+"query": "Santa Catalina Island",
+"match": "Santa Catalina Island, Avalon, Los Angeles County, California, 90704, United States"
+},
+"Santa Fe|New Mexico": {
+"lat": 35.6876,
+"lon": -105.9385,
+"query": "Santa Fe",
+"match": "Santa Fe, Santa Fe County, New Mexico, United States"
+},
+"Santa Rosa / Sonoma County|California": {
+"lat": 38.4405,
+"lon": -122.7141,
+"query": "Santa Rosa",
+"match": "Santa Rosa, Sonoma County, California, United States"
+},
+"Santa Rosa|New Mexico": {
+"lat": 34.9387,
+"lon": -104.6825,
+"query": "Santa Rosa",
+"match": "Santa Rosa, Guadalupe County, New Mexico, United States"
+},
+"Sarasota|Florida": {
+"lat": 27.3366,
+"lon": -82.5309,
+"query": "Sarasota",
+"match": "Sarasota, Sarasota County, Florida, United States"
+},
+"Satsuma|Florida": {
+"lat": 29.555,
+"lon": -81.6559,
+"query": "Satsuma",
+"match": "Satsuma, Putnam County, Florida, 32189, United States"
+},
+"Sauquoit|New York": {
+"lat": 43.0042,
+"lon": -75.26,
+"query": "Sauquoit",
+"match": "Sauquoit, Town of Paris, Oneida County, New York, 13456, United States"
+},
+"Savannah|Georgia": {
+"lat": 32.079,
+"lon": -81.0921,
+"query": "Savannah",
+"match": "Savannah, Chatham County, Georgia, United States"
+},
+"Sayreville|New Jersey": {
+"lat": 40.4635,
+"lon": -74.3618,
+"query": "Sayreville",
+"match": "Sayreville, Middlesex County, New Jersey, United States"
+},
+"Scarsdale|New York": {
+"lat": 40.9885,
+"lon": -73.8086,
+"query": "Scarsdale",
+"match": "Village of Scarsdale, Westchester County, New York, United States"
+},
+"Scottsdale|Arizona": {
+"lat": 33.4942,
+"lon": -111.926,
+"query": "Scottsdale",
+"match": "Scottsdale, Maricopa County, Arizona, United States"
+},
+"Seaside|California": {
+"lat": 36.6259,
+"lon": -121.8169,
+"query": "Seaside",
+"match": "Seaside, Monterey County, California, 93955, United States"
+},
+"Seattle area|Washington": {
+"lat": 47.6038,
+"lon": -122.3301,
+"query": "Seattle",
+"match": "Seattle, King County, Washington, United States"
+},
+"Seattle|Washington": {
+"lat": 47.6038,
+"lon": -122.3301,
+"query": "Seattle",
+"match": "Seattle, King County, Washington, United States"
+},
+"Sheep Mountains (near Las Vegas)|Nevada": {
+"lat": 36.55,
+"lon": -115.2,
+"query": "Sheep Range",
+"match": "manual: Sheep Range, Clark County"
+},
+"Shelby|North Carolina": {
+"lat": 35.2924,
+"lon": -81.5356,
+"query": "Shelby",
+"match": "Shelby, Cleveland County, North Carolina, 28051, United States"
+},
+"Shenandoah National Park|Virginia": {
+"lat": 38.472,
+"lon": -78.4637,
+"query": "Shenandoah National Park",
+"match": "Shenandoah National Park, Page County, Virginia, United States"
+},
+"Shepherdsville|Kentucky": {
+"lat": 37.9886,
+"lon": -85.7158,
+"query": "Shepherdsville",
+"match": "Shepherdsville, Bullitt County, Kentucky, United States"
+},
+"Sherman|Connecticut": {
+"lat": 41.5793,
+"lon": -73.4957,
+"query": "Sherman",
+"match": "Sherman, Western Connecticut Planning Region, Connecticut, United States"
+},
+"Shreveport|Louisiana": {
+"lat": 32.5135,
+"lon": -93.7478,
+"query": "Shreveport",
+"match": "Shreveport, Caddo Parish, Louisiana, United States"
+},
+"Skidmore|Missouri": {
+"lat": 40.2889,
+"lon": -95.0814,
+"query": "Skidmore",
+"match": "Skidmore, Monroe Township, Nodaway County, Missouri, United States"
+},
+"Slaughter|Louisiana": {
+"lat": 30.7174,
+"lon": -91.1415,
+"query": "Slaughter",
+"match": "Slaughter, East Feliciana Parish, Louisiana, United States"
+},
+"Smithville|Tennessee": {
+"lat": 35.9606,
+"lon": -85.8142,
+"query": "Smithville",
+"match": "Smithville, DeKalb County, Middle Tennessee, Tennessee, United States"
+},
+"Socastee|South Carolina": {
+"lat": 33.6909,
+"lon": -78.9744,
+"query": "Socastee",
+"match": "Socastee, Worthington Estates, Stalvey, Horry County, South Carolina, United States"
+},
+"Somerville|Massachusetts": {
+"lat": 42.3876,
+"lon": -71.0995,
+"query": "Somerville",
+"match": "Somerville, Middlesex County, Massachusetts, United States"
+},
+"South Lake Tahoe|California": {
+"lat": 38.9319,
+"lon": -119.978,
+"query": "South Lake Tahoe",
+"match": "South Lake Tahoe, El Dorado County, California, United States"
+},
+"South Los Angeles|California": {
+"lat": 33.9283,
+"lon": -118.2788,
+"query": "South Los Angeles",
+"match": "South Los Angeles, Los Angeles, Los Angeles County, California, 90061, United States"
+},
+"South Salem|New York": {
+"lat": 41.2738,
+"lon": -73.5562,
+"query": "South Salem",
+"match": "South Salem, Town of Lewisboro, Westchester County, New York, 10590, United States"
+},
+"Spanish Fork|Utah": {
+"lat": 40.115,
+"lon": -111.6548,
+"query": "Spanish Fork",
+"match": "Spanish Fork, Utah County, Utah, 84660, United States"
+},
+"Spanish Lake|Missouri": {
+"lat": 38.7931,
+"lon": -90.2068,
+"query": "Spanish Lake",
+"match": "Spanish Lake, Saint Louis County, Missouri, 63138, United States"
+},
+"Spartanburg County|South Carolina": {
+"lat": 34.937,
+"lon": -81.9956,
+"query": "Spartanburg County",
+"match": "Spartanburg County, South Carolina, United States"
+},
+"Spencer|New York": {
+"lat": 42.2098,
+"lon": -76.4933,
+"query": "Spencer",
+"match": "Village of Spencer, Town of Spencer, Tioga County, New York, United States"
+},
+"Spokane|Washington": {
+"lat": 47.6572,
+"lon": -117.4235,
+"query": "Spokane",
+"match": "Spokane, Spokane County, Washington, United States"
+},
+"Spotsylvania County|Virginia": {
+"lat": 38.1881,
+"lon": -77.6742,
+"query": "Spotsylvania County",
+"match": "Spotsylvania County, Virginia, United States"
+},
+"Spotsylvania|Virginia": {
+"lat": 38.1881,
+"lon": -77.6742,
+"query": "Spotsylvania",
+"match": "Spotsylvania County, Virginia, United States"
+},
+"Spottsville|Kentucky": {
+"lat": 37.8575,
+"lon": -87.4136,
+"query": "Spottsville",
+"match": "Spottsville, Henderson County, Kentucky, 42458, United States"
+},
+"Springfield|Illinois": {
+"lat": 39.799,
+"lon": -89.644,
+"query": "Springfield",
+"match": "Springfield, Sangamon County, Illinois, United States"
+},
+"Springfield|Missouri": {
+"lat": 37.2082,
+"lon": -93.2923,
+"query": "Springfield",
+"match": "Springfield, Greene County, Missouri, United States"
+},
+"Springfield|Oregon": {
+"lat": 44.0462,
+"lon": -123.022,
+"query": "Springfield",
+"match": "Springfield, Lane County, Oregon, United States"
+},
+"St. Ann|Missouri": {
+"lat": 38.7273,
+"lon": -90.3832,
+"query": "St. Ann",
+"match": "St. Ann, Saint Louis County, Missouri, 63074, United States"
+},
+"St. George|Utah": {
+"lat": 37.1099,
+"lon": -113.5832,
+"query": "St. George",
+"match": "St. George, Washington County, Utah, United States"
+},
+"St. Johnsbury|Vermont": {
+"lat": 44.4195,
+"lon": -72.0157,
+"query": "St. Johnsbury",
+"match": "Saint Johnsbury, Caledonia County, Vermont, United States"
+},
+"St. Joseph|Minnesota": {
+"lat": 45.5645,
+"lon": -94.3181,
+"query": "St. Joseph",
+"match": "Saint Joseph, Stearns County, Minnesota, 56374, United States"
+},
+"St. Louis|Missouri": {
+"lat": 38.6254,
+"lon": -90.19,
+"query": "St. Louis",
+"match": "Saint Louis, Missouri, United States"
+},
+"Stanford|California": {
+"lat": 37.4265,
+"lon": -122.1703,
+"query": "Stanford",
+"match": "Stanford, Palo Alto, Santa Clara County, California, United States"
+},
+"Stanton|California": {
+"lat": 33.7941,
+"lon": -117.9951,
+"query": "Stanton",
+"match": "Stanton, Orange County, California, 90680, United States"
+},
+"State College|Pennsylvania": {
+"lat": 40.7945,
+"lon": -77.8616,
+"query": "State College",
+"match": "State College, Centre County, Pennsylvania, United States"
+},
+"Staten Island|New York": {
+"lat": 40.5835,
+"lon": -74.1496,
+"query": "Staten Island",
+"match": "Staten Island, Richmond County, New York, United States"
+},
+"Steelville|Missouri": {
+"lat": 37.9681,
+"lon": -91.3549,
+"query": "Steelville",
+"match": "Steelville, Crawford County, Missouri, United States"
+},
+"Sturbridge|Massachusetts": {
+"lat": 42.1084,
+"lon": -72.0808,
+"query": "Sturbridge",
+"match": "Sturbridge, Worcester County, Massachusetts, United States"
+},
+"Sullivan County|Tennessee": {
+"lat": 36.4967,
+"lon": -82.2869,
+"query": "Sullivan County",
+"match": "Sullivan County, East Tennessee, Tennessee, United States"
+},
+"Sumter|South Carolina": {
+"lat": 33.9204,
+"lon": -80.3415,
+"query": "Sumter",
+"match": "Sumter, Sumter County, South Carolina, United States"
+},
+"Sykesville|Pennsylvania": {
+"lat": 41.0503,
+"lon": -78.8223,
+"query": "Sykesville",
+"match": "Sykesville, Jefferson County, Pennsylvania, 15865, United States"
+},
+"Syracuse|New York": {
+"lat": 43.0481,
+"lon": -76.1474,
+"query": "Syracuse",
+"match": "City of Syracuse, Onondaga County, New York, United States"
+},
+"Tacoma|Washington": {
+"lat": 47.2455,
+"lon": -122.4383,
+"query": "Tacoma",
+"match": "Tacoma, Pierce County, Washington, United States"
+},
+"Tallahassee|Florida": {
+"lat": 30.4381,
+"lon": -84.2809,
+"query": "Tallahassee",
+"match": "Tallahassee, Leon County, Florida, United States"
+},
+"Tampa|Florida": {
+"lat": 27.945,
+"lon": -82.4583,
+"query": "Tampa",
+"match": "Tampa, Hillsborough County, Florida, United States"
+},
+"Tempe|Arizona": {
+"lat": 33.4255,
+"lon": -111.94,
+"query": "Tempe",
+"match": "Tempe, Maricopa County, Arizona, United States"
+},
+"Texarkana|Texas": {
+"lat": 33.4466,
+"lon": -94.0766,
+"query": "Texarkana",
+"match": "Texarkana, Bowie County, Texas, United States"
+},
+"Texas City|Texas": {
+"lat": 29.396,
+"lon": -94.9175,
+"query": "Texas City",
+"match": "Texas City, Galveston County, Texas, United States"
+},
+"Tomball|Texas": {
+"lat": 30.0972,
+"lon": -95.6161,
+"query": "Tomball",
+"match": "Tomball, Harris County, Texas, United States"
+},
+"Torrance|California": {
+"lat": 33.8371,
+"lon": -118.3414,
+"query": "Torrance",
+"match": "Torrance, Los Angeles County, California, United States"
+},
+"Tracy|California": {
+"lat": 37.7386,
+"lon": -121.4201,
+"query": "Tracy",
+"match": "Tracy, San Joaquin County, California, United States"
+},
+"Troy|Ohio": {
+"lat": 40.0395,
+"lon": -84.2033,
+"query": "Troy",
+"match": "Troy, Concord Township, Miami County, Ohio, 45373, United States"
+},
+"Tucson|Arizona": {
+"lat": 32.2229,
+"lon": -110.9748,
+"query": "Tucson",
+"match": "Tucson, Pima County, Arizona, United States"
+},
+"Tulsa|Oklahoma": {
+"lat": 36.1563,
+"lon": -95.9928,
+"query": "Tulsa",
+"match": "Tulsa, Oklahoma, United States"
+},
+"Tupelo|Mississippi": {
+"lat": 34.2576,
+"lon": -88.7034,
+"query": "Tupelo",
+"match": "Tupelo, Lee County, Mississippi, United States"
+},
+"Two Rivers|Wisconsin": {
+"lat": 44.1492,
+"lon": -87.5682,
+"query": "Two Rivers",
+"match": "Two Rivers, Manitowoc County, Wisconsin, 54241, United States"
+},
+"Union|South Carolina": {
+"lat": 34.6942,
+"lon": -81.6428,
+"query": "Union",
+"match": "Union County, South Carolina, United States"
+},
+"University Park|Pennsylvania": {
+"lat": 40.8129,
+"lon": -77.8711,
+"query": "University Park",
+"match": "Penn State University, 201, Village Heights Drive, Village Heights, Dalevue, College Township, Centre County, Pennsylvan"
+},
+"Urbana|Illinois": {
+"lat": 40.1117,
+"lon": -88.2073,
+"query": "Urbana",
+"match": "Urbana, Champaign County, Illinois, United States"
+},
+"Utica|New York": {
+"lat": 43.1009,
+"lon": -75.2327,
+"query": "Utica",
+"match": "City of Utica, Oneida County, New York, United States"
+},
+"Valdosta|Georgia": {
+"lat": 30.8327,
+"lon": -83.2785,
+"query": "Valdosta",
+"match": "Valdosta, Lowndes County, Georgia, United States"
+},
+"Valencia County|New Mexico": {
+"lat": 34.7326,
+"lon": -106.8504,
+"query": "Valencia County",
+"match": "Valencia County, New Mexico, United States"
+},
+"Vallecito|Colorado": {
+"lat": 37.3753,
+"lon": -107.5839,
+"query": "Vallecito",
+"match": "Vallecito, La Plata County, Colorado, United States"
+},
+"Valrico|Florida": {
+"lat": 27.9378,
+"lon": -82.2328,
+"query": "Valrico",
+"match": "Valrico, Hillsborough County, Florida, 33587, United States"
+},
+"Van Nuys|California": {
+"lat": 34.1866,
+"lon": -118.4487,
+"query": "Van Nuys",
+"match": "Van Nuys Neighborhood Council District, Los Angeles, Los Angeles County, California, 91411, United States"
+},
+"Vancouver|Washington": {
+"lat": 45.6307,
+"lon": -122.6745,
+"query": "Vancouver",
+"match": "Vancouver, Clark County, Washington, United States"
+},
+"Villisca|Iowa": {
+"lat": 40.9293,
+"lon": -94.9769,
+"query": "Villisca",
+"match": "Villisca, East Township, Montgomery County, Iowa, United States"
+},
+"Vineland|New Jersey": {
+"lat": 39.4863,
+"lon": -75.0254,
+"query": "Vineland",
+"match": "Vineland, Cumberland County, New Jersey, United States"
+},
+"Waller County|Texas": {
+"lat": 29.9444,
+"lon": -95.9956,
+"query": "Waller County",
+"match": "Waller County, Texas, United States"
+},
+"Wanblee|South Dakota": {
+"lat": 43.5698,
+"lon": -101.6641,
+"query": "Wanblee",
+"match": "Wanblee, Jackson County, South Dakota, 57577, United States"
+},
+"Warren|Massachusetts": {
+"lat": 42.2129,
+"lon": -72.1926,
+"query": "Warren",
+"match": "Warren, Worcester County, Massachusetts, United States"
+},
+"Washington|District of Columbia": {
+"lat": 38.8951,
+"lon": -77.0364,
+"query": "Washington",
+"match": "Washington, District of Columbia, United States"
+},
+"Wayland|Massachusetts": {
+"lat": 42.3632,
+"lon": -71.3607,
+"query": "Wayland",
+"match": "Wayland, Middlesex County, Massachusetts, 01778, United States"
+},
+"Welch|Oklahoma": {
+"lat": 36.8746,
+"lon": -95.0938,
+"query": "Welch",
+"match": "Welch, Craig County, Oklahoma, United States"
+},
+"West Des Moines|Iowa": {
+"lat": 41.5644,
+"lon": -93.7594,
+"query": "West Des Moines",
+"match": "West Des Moines, Walnut Township, Polk County, Iowa, United States"
+},
+"West Memphis|Arkansas": {
+"lat": 35.1465,
+"lon": -90.1845,
+"query": "West Memphis",
+"match": "West Memphis, Crittenden County, Arkansas, 72301, United States"
+},
+"West Valley City|Utah": {
+"lat": 40.6968,
+"lon": -111.9867,
+"query": "West Valley City",
+"match": "West Valley City, Salt Lake County, Utah, United States"
+},
+"Westby|Wisconsin": {
+"lat": 43.6528,
+"lon": -90.8576,
+"query": "Westby",
+"match": "Westby, Vernon County, Wisconsin, United States"
+},
+"Westfield|New Jersey": {
+"lat": 40.6517,
+"lon": -74.3483,
+"query": "Westfield",
+"match": "Westfield, Union County, New Jersey, 07090, United States"
+},
+"Westminster|Colorado": {
+"lat": 39.8367,
+"lon": -105.0372,
+"query": "Westminster",
+"match": "Westminster, Adams County, Colorado, United States"
+},
+"Weston|West Virginia": {
+"lat": 39.0384,
+"lon": -80.4673,
+"query": "Weston",
+"match": "Weston, Lewis County, West Virginia, 26452, United States"
+},
+"White Haven|Pennsylvania": {
+"lat": 41.0606,
+"lon": -75.7741,
+"query": "White Haven",
+"match": "White Haven, Luzerne County, Pennsylvania, United States"
+},
+"Wichita|Kansas": {
+"lat": 37.6922,
+"lon": -97.3375,
+"query": "Wichita",
+"match": "Wichita, Sedgwick County, Kansas, United States"
+},
+"Wildwood|New Jersey": {
+"lat": 38.9842,
+"lon": -74.8143,
+"query": "Wildwood",
+"match": "Wildwood, Cape May County, New Jersey, 08260, United States"
+},
+"Williams|Arizona": {
+"lat": 35.2509,
+"lon": -112.1873,
+"query": "Williams",
+"match": "Williams, Coconino County, Arizona, United States"
+},
+"Williston|North Dakota": {
+"lat": 48.1465,
+"lon": -103.6218,
+"query": "Williston",
+"match": "Williston, Williams County, North Dakota, United States"
+},
+"Wilmington|Delaware": {
+"lat": 39.7383,
+"lon": -75.5527,
+"query": "Wilmington",
+"match": "Wilmington, New Castle County, Delaware, United States"
+},
+"Windsor Township|Ohio": {
+"lat": 41.5375,
+"lon": -80.9538,
+"query": "Windsor Township",
+"match": "Windsor Township, Ashtabula County, Ohio, United States"
+},
+"Winfield Township|Pennsylvania": {
+"lat": 40.7904,
+"lon": -79.7378,
+"query": "Winfield Township",
+"match": "Winfield Township, Butler County, Pennsylvania, 16023, United States"
+},
+"Winona|Minnesota": {
+"lat": 44.05,
+"lon": -91.6392,
+"query": "Winona",
+"match": "Winona, Winona County, Minnesota, 55987, United States"
+},
+"Winter Park|Florida": {
+"lat": 28.5978,
+"lon": -81.351,
+"query": "Winter Park",
+"match": "Winter Park, Orange County, Florida, United States"
+},
+"Wood River|Illinois": {
+"lat": 38.8612,
+"lon": -90.0976,
+"query": "Wood River",
+"match": "Wood River, Madison County, Illinois, 62095, United States"
+},
+"Woodland Park|Colorado": {
+"lat": 38.9938,
+"lon": -105.057,
+"query": "Woodland Park",
+"match": "Woodland Park, Teller County, Colorado, 80863, United States"
+},
+"Woodlawn|Maryland": {
+"lat": 39.3054,
+"lon": -76.7539,
+"query": "Woodlawn",
+"match": "Woodlawn, Baltimore County, Maryland, United States"
+},
+"Woonsocket|South Dakota": {
+"lat": 44.0536,
+"lon": -98.2756,
+"query": "Woonsocket",
+"match": "Woonsocket, Woonsocket Township, Sanborn County, South Dakota, 57385, United States"
+},
+"Wylie|Texas": {
+"lat": 33.0152,
+"lon": -96.5388,
+"query": "Wylie",
+"match": "Wylie, Collin County, Texas, United States"
+},
+"Yolo County|California": {
+"lat": 38.7185,
+"lon": -121.9059,
+"query": "Yolo County",
+"match": "Yolo County, California, United States"
+},
+"Yonkers|New York": {
+"lat": 40.9312,
+"lon": -73.8987,
+"query": "Yonkers",
+"match": "City of Yonkers, Westchester County, New York, United States"
+},
+"Yosemite|California": {
+"lat": 37.8393,
+"lon": -119.5165,
+"query": "Yosemite",
+"match": "Yosemite National Park, California, United States"
+}
+}

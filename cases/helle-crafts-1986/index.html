@@ -146,7 +146,7 @@
       <span class="header-logo-text">ColdCaseIndex</span>
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
-      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../about/">About</a>
+      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
       <form class="header-search" id="siteSearchForm" role="search" action="../../" method="get" data-root="../../">
         <label class="sr-only" for="siteSearch">Search cases</label>
         <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
@@ -191,7 +191,7 @@
           <dd class="case-detail-value">November 18, 1986</dd>
         </div><div class="case-detail-item">
           <dt class="case-detail-label">Location</dt>
-          <dd class="case-detail-value">Newtown, <a href="../../states/connecticut/">Connecticut</a></dd>
+          <dd class="case-detail-value"><a href="../../cities/newtown-ct/">Newtown</a>, <a href="../../states/connecticut/">Connecticut</a></dd>
         </div><div class="case-detail-item">
           <dt class="case-detail-label">Age</dt>
           <dd class="case-detail-value">39</dd>
@@ -230,7 +230,7 @@
         <div class="modal-last-seen-label">Last known information</div>
         <div class="modal-last-seen-value">November 18, 1986, when friends dropped her off at her home on Newfield Lane in Newtown, Connecticut after a flight from Frankfurt</div>
       </div>
-      <div class="case-tags-section" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);"><span class="case-tag">woodchipper murder</span><span class="case-tag">domestic homicide</span><span class="case-tag">dismemberment</span><span class="case-tag">no body</span><span class="case-tag">forensic evidence</span></div>
+      <div class="case-tags-section" style="display:flex;gap:var(--space-2);flex-wrap:wrap;margin-top:var(--space-5);"><span class="case-tag">woodchipper murder</span><span class="case-tag">domestic homicide</span><span class="case-tag">dismemberment</span><a class="case-tag case-tag-link" href="../../themes/body-never-found/">body never found</a><span class="case-tag">forensic evidence</span></div>
       <div style="margin-top: var(--space-8);">
         <h2 class="section-label">Timeline</h2>
         <ol class="timeline"><li class="timeline-item">
@@ -379,27 +379,6 @@
             </div>
             <div class="related-case-name">Karina Holmer</div>
             <div class="related-case-meta">Boston, Massachusetts</div>
-          </a><a href="../../cases/cari-farver-2012/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
-              <span class="case-card-year">2012</span>
-            </div>
-            <div class="related-case-name">Cari Farver</div>
-            <div class="related-case-meta">Omaha, Nebraska</div>
-          </a><a href="../../cases/crystal-rogers-2015/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
-              <span class="case-card-year">2015</span>
-            </div>
-            <div class="related-case-name">Crystal Rogers</div>
-            <div class="related-case-meta">Bardstown, Kentucky</div>
-          </a><a href="../../cases/kelsie-schelling-2013/" class="related-case-card">
-            <div class="related-case-header">
-              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
-              <span class="case-card-year">2013</span>
-            </div>
-            <div class="related-case-name">Kelsie Schelling</div>
-            <div class="related-case-meta">Pueblo, Colorado</div>
           </a><a href="../../cases/ana-walshe/" class="related-case-card">
             <div class="related-case-header">
               <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
@@ -407,10 +386,31 @@
             </div>
             <div class="related-case-name">Ana Walshe</div>
             <div class="related-case-meta">Cohasset, Massachusetts</div>
+          </a><a href="../../cases/ingrid-lyne/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
+              <span class="case-card-year">2016</span>
+            </div>
+            <div class="related-case-name">Ingrid Lyne</div>
+            <div class="related-case-meta">Renton, Washington</div>
+          </a><a href="../../cases/lauren-giddings-2011/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
+              <span class="case-card-year">2011</span>
+            </div>
+            <div class="related-case-name">Lauren Giddings</div>
+            <div class="related-case-meta">Macon, Georgia</div>
+          </a><a href="../../cases/sara-anne-wood-1993/" class="related-case-card">
+            <div class="related-case-header">
+              <span class="badge badge-conviction" style="font-size:11px;">Conviction</span>
+              <span class="case-card-year">1993</span>
+            </div>
+            <div class="related-case-name">Sara Anne Wood</div>
+            <div class="related-case-meta">Sauquoit, New York</div>
           </a></div>
       <div class="hub-links">
         <a href="../../types/homicides/">All homicides</a>
-        <a href="../../decades/1980s/">All cases from the 1980s</a>
+        <a href="../../decades/1980s/">All cases from the 1980s</a><a href="../../themes/body-never-found/">Body Never Found cases</a><a href="../../cities/newtown-ct/">All Newtown cases</a>
         <a href="../../states/">Cases by state</a>
       </div>
     </div>
@@ -442,6 +442,10 @@
         <a href="../../states/">By state</a>
         <a href="../../types/">By type</a>
         <a href="../../decades/">By decade</a>
+        <a href="../../themes/">By theme</a>
+        <a href="../../cities/">By city</a>
+        <a href="../../map/">Case map</a>
+        <a href="../../analysis/">Analysis</a>
         <a href="../../updates/">Recent updates</a>
         <a href="../../watch/">Cases to watch</a>
         <a href="../../today/">On this day</a>

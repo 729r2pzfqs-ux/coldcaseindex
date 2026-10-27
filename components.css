@@ -336,6 +336,10 @@
   border-radius: var(--radius-md);
 }
 @media (max-width: 768px) {
+  .case-details-grid { grid-template-columns: repeat(2, 1fr); }
+}
+/* Seven nav links plus the search box need about 900px; below that the menu collapses. */
+@media (max-width: 900px) {
   .header-nav { display: none; }
   .header-nav.open {
     display: flex;
@@ -351,7 +355,6 @@
     z-index: 200;
   }
   .mobile-menu-btn { display: block; }
-  .case-details-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 /* ── Header search (every page except the homepage, which has the hero search) ── */
@@ -377,7 +380,7 @@
 .header-search input::placeholder { color: var(--color-text-faint); }
 .header-search .search-results { min-width: 20rem; right: auto; }
 @media (max-width: 1000px) { .header-search input { width: 9rem; } }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .header-search { order: -1; margin: var(--space-2) 0 var(--space-3); }
   .header-search input { width: 100%; padding: var(--space-2) var(--space-3); font-size: var(--text-sm); }
   .header-search .search-results { min-width: 0; right: 0; }
@@ -823,3 +826,34 @@ dl.case-details-grid dd { margin: 0; }
 .watch-table td:first-child { min-width: 11rem; }
 .watch-table td:nth-child(2) { min-width: 18rem; }
 .watch-table td:last-child { min-width: 9rem; }
+
+/* ── Map explorer (/map/) ── */
+.map-filters { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: flex-end; margin-top: var(--space-6); }
+.map-filters label { display: block; font-size: var(--text-xs); color: var(--color-text-muted); margin-bottom: var(--space-1); }
+.map-filters select { padding: var(--space-2) var(--space-3); background: var(--color-surface-2); border: 1px solid var(--color-border); border-radius: var(--radius-md); color: var(--color-text); font-size: var(--text-sm); min-width: 10rem; }
+.map-filters select:focus { border-color: var(--color-primary); outline: none; }
+.map-reset { padding: var(--space-2) var(--space-4); background: var(--color-surface-2); border: 1px solid var(--color-border); border-radius: var(--radius-md); color: var(--color-text-muted); font-size: var(--text-sm); cursor: pointer; }
+.map-reset:hover { color: var(--color-text); border-color: var(--color-primary); }
+.map-count { font-size: var(--text-sm); color: var(--color-text-muted); margin-left: auto; }
+.map-explorer { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: var(--space-6); margin-top: var(--space-4); align-items: start; }
+.map-stage { margin: 0; max-width: none; }
+.map-stage figcaption { margin-top: var(--space-2); }
+.map-state { fill: var(--color-surface-offset-2); stroke: var(--color-bg); stroke-width: 1; }
+.map-dot { fill: var(--color-primary); fill-opacity: 0.6; stroke: var(--color-primary); stroke-width: 1; cursor: pointer; transition: fill-opacity var(--transition-interactive); }
+.map-dot:hover, .map-dot:focus-visible, .map-dot.on { fill-opacity: 1; stroke: var(--color-text); stroke-width: 2; outline: none; }
+.map-panel { position: sticky; top: 80px; max-height: calc(100vh - 100px); overflow: auto; padding: var(--space-4); background: var(--color-surface); border: 1px solid var(--color-border); border-radius: var(--radius-lg); font-size: var(--text-sm); }
+.map-panel-hint, .map-panel-sub { color: var(--color-text-muted); font-size: var(--text-xs); margin: 0 0 var(--space-3); }
+.map-panel-title { font-family: var(--font-display); font-size: var(--text-lg); margin: 0 0 var(--space-1); }
+.map-panel-list { list-style: none; padding: 0; margin: 0; }
+.map-panel-list li { border-top: 1px solid var(--color-divider); }
+.map-panel-list a { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; padding: var(--space-2) 0; text-decoration: none; color: var(--color-text); }
+.map-panel-list a:hover .map-panel-name { color: var(--color-primary); }
+.map-panel-list .badge { font-size: 11px; }
+.map-panel-name { flex: 1 1 60%; }
+.map-panel-year { color: var(--color-text-faint); font-size: var(--text-xs); }
+.map-panel .all-state-link { display: inline-block; margin-top: var(--space-3); }
+@media (max-width: 900px) {
+  .map-explorer { grid-template-columns: 1fr; }
+  .map-panel { position: static; max-height: none; }
+  .map-count { margin-left: 0; flex-basis: 100%; }
+}

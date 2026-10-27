@@ -150,6 +150,23 @@ def main():
             warnings.append(f'data: {cid} has {len(srcs)} source(s)')
         if not os.path.exists(os.path.join(ROOT, 'cases', cid, 'index.html')):
             errors.append(f'data: no page for {cid}')
+        for t in c.get('tags') or []:
+            if re.match(r'^\d{4}s', str(t)):
+                errors.append(f'data: {cid} has decade tag {t!r}; decade hubs cover that')
+    # the map needs cached coordinates for every mappable US city
+    coords_path = os.path.join(ROOT, 'data', 'city-coords.json')
+    coords = json.load(open(coords_path, encoding='utf-8')) if os.path.exists(coords_path) else {}
+    for c in cases:
+        if c.get('country') and c['country'] != 'United States':
+            continue
+        city = str(c.get('city') or '').strip()
+        if not city or re.match(r'^(multiple|various|unknown|several|statewide)\b', city, re.I):
+            continue
+        key = f'{city}|{c.get("state")}'
+        if key not in coords:
+            warnings.append(f'map: no cached coordinates for {key}; run scripts/geocode.py')
+        elif coords[key] is None:
+            warnings.append(f'map: {key} could not be geocoded')
     cdir = os.path.join(ROOT, 'cases')
     on_disk = {d for d in os.listdir(cdir) if os.path.isdir(os.path.join(cdir, d))}
     for d in sorted(on_disk - set(ids)):
@@ -160,7 +177,10 @@ def main():
     # freshness pages, feed and change tracking
     months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
               'september', 'october', 'november', 'december']
-    for p in (['updates/index.html', 'watch/index.html', 'today/index.html', 'month/index.html']
+    for p in (['updates/index.html', 'watch/index.html', 'today/index.html', 'month/index.html',
+               'map/index.html', 'analysis/index.html', 'themes/index.html', 'cities/index.html',
+               'analysis/how-long-cold-cases-take-to-solve/index.html',
+               'analysis/cold-case-resolution-methods/index.html']
               + [f'month/{m}/index.html' for m in months]):
         if p not in info:
             errors.append(f'missing page {p}')

@@ -27,6 +27,12 @@ People who have not been convicted are presumed innocent.
 - By state or country: https://coldcaseindex.com/states/
 - By type: https://coldcaseindex.com/types/
 - By decade: https://coldcaseindex.com/decades/
+- By theme (genetic genealogy, college students, civil rights era, disputed convictions, Doe cases, body never found): https://coldcaseindex.com/themes/
+- By city (cities with several cases): https://coldcaseindex.com/cities/
+- Map of US cases by city, filterable by status, type and decade: https://coldcaseindex.com/map/
+- Analysis computed from the case timelines, recomputed on every build:
+  how long cold cases take to solve: https://coldcaseindex.com/analysis/how-long-cold-cases-take-to-solve/
+  what breaks cold cases (genetic genealogy, DNA, confessions, tips): https://coldcaseindex.com/analysis/cold-case-resolution-methods/
 - Recent changes (cases added, status changes, timelines extended): https://coldcaseindex.com/updates/
 - Atom feed of those changes: https://coldcaseindex.com/feed.xml
 - Cases whose status can still change, with next court dates: https://coldcaseindex.com/watch/

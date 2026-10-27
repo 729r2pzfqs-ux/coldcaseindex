@@ -32,6 +32,8 @@ from collections import Counter, defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import viz  # noqa: E402
 import changelog  # noqa: E402
+import geo  # noqa: E402
+import analysis  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(ROOT, 'data', 'cases.json')
@@ -245,6 +247,58 @@ def fit(text, limit):
 
 # ─────────────────────────── data ───────────────────────────
 
+# Tag synonyms, merged at load time. Keys and values are lower case.
+TAG_ALIASES = {
+    'children': 'child', 'child victim': 'child', 'child victims': 'child', 'missing child': 'child',
+    'teen': 'teenager', 'teens': 'teenager', 'teenagers': 'teenager',
+    'college students': 'college student',
+    'forensic genealogy': 'genetic genealogy', 'dna genealogy': 'genetic genealogy',
+    'missing persons': 'missing person',
+    'no body': 'body never found', 'no bodies found': 'body never found',
+    'no remains found': 'body never found', 'no-body homicide': 'body never found',
+    'dna': 'dna evidence',
+    'fbi': 'fbi case', 'fbi investigation': 'fbi case',
+    'domestic': 'domestic violence',
+    'serial murder': 'serial killer',
+    'confessions': 'confession',
+    'reward offered': 'reward',
+    'overturned conviction': 'conviction overturned', 'conviction vacated': 'conviction overturned',
+    'vacated conviction': 'conviction overturned',
+    'murder-for-hire': 'murder for hire',
+    'surveillance video': 'surveillance footage',
+    'historic': 'historical',
+    'axe murders': 'axe murder',
+    'milk carton kids': 'milk carton', 'milk cartons': 'milk carton',
+    'btk killer': 'btk',
+    'undetermined manner': 'undetermined', 'undetermined death': 'undetermined',
+    'undetermined cause': 'undetermined',
+    'suspected foul play': 'foul play suspected',
+    'unidentified victim': 'unidentified victims',
+}
+DECADE_TAG = re.compile(r'^(\d{4}s(-\d{4}s)?( cold case)?|19th century)$')
+
+
+def normalize_tags(c):
+    """Merge synonyms, drop decade tags (the decade hubs cover them) and tags that only
+    repeat the case's own city, state, country, type, status or year. Order is kept."""
+    own = {str(c.get(k) or '').strip().lower() for k in ('city', 'state', 'country', 'type', 'status', 'year')}
+    if c.get('state') == 'District of Columbia':
+        own |= {'washington dc', 'washington d.c.'}
+    if 'Homicide' in str(c.get('type') or ''):
+        own.add('homicide')
+    out, seen = [], set()
+    for t in c.get('tags') or []:
+        t = ' '.join(str(t).split())
+        low = t.lower()
+        if low in TAG_ALIASES:
+            t = low = TAG_ALIASES[low]
+        if not low or low in own or low in seen or DECADE_TAG.match(low):
+            continue
+        seen.add(low)
+        out.append(t)
+    return out
+
+
 def load_cases():
     with open(DATA_FILE, encoding='utf-8') as f:
         cases = json.load(f)
@@ -258,6 +312,8 @@ def load_cases():
         c['_group'] = status_group(c.get('status'))
         c['_decade'] = (c['year'] // 10) * 10 if c.get('year') else None
         c['_type_slug'] = slugify(TYPE_PLURAL.get(c['type'], c['type']))
+        c['tags'] = normalize_tags(c)
+        c['_tags'] = {t.lower() for t in c['tags']}
         parts = [c.get('city')]
         if us:
             parts.append(c.get('state'))
@@ -335,7 +391,7 @@ class Pages:
 # ─────────────────────────── page shell ───────────────────────────
 
 NAV = [('#statistics', 'Statistics'), ('states/', 'By State'), ('types/', 'By Type'),
-       ('decades/', 'By Decade'), ('about/', 'About')]
+       ('decades/', 'By Decade'), ('map/', 'Map'), ('analysis/', 'Analysis'), ('about/', 'About')]
 
 
 def header_search(prefix):
@@ -393,6 +449,10 @@ def footer(prefix):
         <a href="{prefix}states/">By state</a>
         <a href="{prefix}types/">By type</a>
         <a href="{prefix}decades/">By decade</a>
+        <a href="{prefix}themes/">By theme</a>
+        <a href="{prefix}cities/">By city</a>
+        <a href="{prefix}map/">Case map</a>
+        <a href="{prefix}analysis/">Analysis</a>
         <a href="{prefix}updates/">Recent updates</a>
         <a href="{prefix}watch/">Cases to watch</a>
         <a href="{prefix}today/">On this day</a>
@@ -760,7 +820,7 @@ def progress_html(c):
 MLA_MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.']
 
 
-def cite_html(c, canonical, modified):
+def cite_html(name, canonical, modified):
     """Ready-made APA, MLA and Wikipedia citations with the permalink and last-updated date."""
     m = re.match(r'^(\d{4})-(\d{2})-(\d{2})$', modified)
     if m and 1 <= int(m.group(2)) <= 12:
@@ -769,7 +829,7 @@ def cite_html(c, canonical, modified):
         mla_date = f'{d} {MLA_MONTHS[mo - 1]} {y}'
     else:
         y, apa_date, mla_date = modified[:4], modified, modified
-    name = e(c['name'])
+    name = e(name)
     bare = canonical.replace('https://', '')
     return f'''<details class="cite-box" id="cite">
         <summary>Cite this entry</summary>
@@ -795,7 +855,11 @@ def render_case(c, related, state_links, region_counts):
     details = [('Status', badge(c.get('status'), small=True)),
                ('Type', f'<a href="{prefix}types/{c["_type_slug"]}/">{e(c["type"])}</a>'),
                ('Date', e(str(c.get('date') or c.get('year') or 'Unknown')))]
-    loc_bits = [e(p) for p in (c.get('city'),) if known(p)]
+    ck = city_key(c)
+    if ck in CITY_HUBS:
+        loc_bits = [f'<a href="{prefix}cities/{CITY_HUBS[ck]}/">{e(ck[0])}</a>']
+    else:
+        loc_bits = [e(p) for p in (c.get('city'),) if known(p)]
     loc_bits.append(f'<a href="{prefix}states/{rslug}/">{e(region)}</a>')
     details.append(('Location', ', '.join(loc_bits)))
     multi = c.get('gender') in ('Multiple', 'Mixed') or c['type'] in ('Multiple Homicide', 'Serial Killer Victims', 'Mass Shooting')
@@ -855,7 +919,10 @@ def render_case(c, related, state_links, region_counts):
         <div class="modal-last-seen-value">{e(c['lastSeen'])}</div>
       </div>'''
 
-    tags = ''.join(f'<span class="case-tag">{e(str(t))}</span>' for t in c.get('tags', []) if str(t).strip())
+    tags = ''.join(
+        (f'<a class="case-tag case-tag-link" href="{prefix}themes/{TAG_THEME[str(t).lower()]}/">{e(str(t))}</a>'
+         if str(t).lower() in TAG_THEME else f'<span class="case-tag">{e(str(t))}</span>')
+        for t in c.get('tags', []) if str(t).strip())
     tags_html = (f'<div class="case-tags-section" style="display:flex;gap:var(--space-2);flex-wrap:wrap;'
                  f'margin-top:var(--space-5);">{tags}</div>') if tags else ''
 
@@ -873,6 +940,10 @@ def render_case(c, related, state_links, region_counts):
         tp = TYPE_PLURAL.get(c['type'], c['type']).lower()
         dec = (f'<a href="{prefix}decades/{c["_decade"]}s/">All cases from the {c["_decade"]}s</a>'
                if c['_decade'] else '')
+        dec += ''.join(f'<a href="{prefix}themes/{s}/">{e(l)} cases</a>'
+                       for s, l, _h, tg, _i in THEMES if c['_tags'] & tg)
+        if ck in CITY_HUBS:
+            dec += f'<a href="{prefix}cities/{CITY_HUBS[ck]}/">All {e(ck[0])} cases</a>'
         related_html += f'''
   <section class="section">
     <div class="section-inner">
@@ -952,7 +1023,7 @@ def render_case(c, related, state_links, region_counts):
 
       <p class="case-updated">Entry last updated {mod_h}.</p>
 
-      {cite_html(c, canonical, modified)}
+      {cite_html(c['name'], canonical, modified)}
     </div>
   </section>
 {related_html}
@@ -1035,6 +1106,12 @@ def render_region(region, cases, all_regions, stats, state_links):
         {svg}
       </figure>'''
 
+    city_chips = ''.join(
+        f'<a class="breakdown-chip" href="{prefix}cities/{CITY_HUBS[k]}/"><strong>{v}</strong> {e(k[0])}</a>'
+        for k, v in sorted(((k, len(v)) for k, v in city_groups(cases).items() if k in CITY_HUBS),
+                           key=lambda kv: (-kv[1], kv[0])))
+    cities_html = (f'<h2 class="sub-heading">By city</h2><div class="breakdown-row">{city_chips}</div>'
+                   if city_chips else '')
     idx = [r for r, _ in all_regions].index(region)
     prev_r = all_regions[idx - 1][0]
     next_r = all_regions[(idx + 1) % len(all_regions)][0]
@@ -1061,6 +1138,7 @@ def render_region(region, cases, all_regions, stats, state_links):
 
       <h2 class="sub-heading">By type</h2>
       <div class="breakdown-row">{type_chips}</div>
+      {cities_html}
 
       <h2 class="sub-heading">All {e(region)} cases</h2>
       <div class="cases-grid">
@@ -1168,72 +1246,91 @@ def render_states_index(by_region, stats, state_links):
                              prefix=prefix, body=body, schema=schema, active='By State', extra_js=js)
 
 
-def render_hub(kind, key, label, cases, siblings, intro, heading):
-    """kind: 'types' or 'decades'. siblings: [(slug, label, count)] for cross links."""
+def render_hub(kind, slug, label, cases, siblings, intro, heading, *, links='', min_index=3):
+    """kind: 'types', 'decades', 'themes' or 'cities'. siblings: [(slug, label, count)] for
+    cross links. links: extra HTML placed under the intro. Returns (render, indexable)."""
     prefix = '../../'
-    slug = key
     url = f'{BASE_URL}/{kind}/{slug}/'
     n = len(cases)
     unsolved = sum(1 for c in cases if c['_group'] == 'unsolved')
     ordered = sorted(cases, key=lambda c: (-(c.get('year') or 0), c['name']))
-    parent = 'Cases by type' if kind == 'types' else 'Cases by decade'
+    parent, active = HUB_PARENT[kind]
     regions = Counter(c['_region'] for c in cases)
+    types = Counter(c['type'] for c in cases)
     top_regions = ', '.join(f'{r} ({v})' for r, v in regions.most_common(3))
+    top_types = ', '.join(f'{v} {TYPE_PLURAL.get(t, t).lower()}' for t, v in types.most_common(3))
+    years = sorted(c['year'] for c in cases if c.get('year'))
+    span = str(years[0]) if years[0] == years[-1] else f'{years[0]} to {years[-1]}'
+    region_chips = ''.join(f'<a class="breakdown-chip" href="{prefix}states/{slugify(r)}/"><strong>{v}</strong> {e(r)}</a>'
+                           for r, v in regions.most_common(12))
+    type_chips = ''.join(f'<a class="breakdown-chip" href="{prefix}types/{slugify(TYPE_PLURAL.get(t, t))}/"><strong>{v}</strong> '
+                         f'{e(TYPE_PLURAL.get(t, t))}</a>' for t, v in types.most_common())
+    second = ''
     if kind == 'types':
         title = f'{label}: {n} Cold Cases'
-        years = sorted(c['year'] for c in cases if c.get('year'))
-        desc = fit(f'{plural(n, "documented case")} of this type, {years[0]} to {years[-1]}: {unsolved} unsolved. '
+        desc = fit(f'{plural(n, "documented case")} of this type, {span}: {unsolved} unsolved. '
                    f'Most entries: {top_regions}. Status, timeline and sources for each.', 158)
         second = decade_figure(cases, prefix, f'{label} by decade')
-        chips_title = 'By state or country'
-        chips = ''.join(f'<a class="breakdown-chip" href="{prefix}states/{slugify(r)}/"><strong>{v}</strong> {e(r)}</a>'
-                        for r, v in regions.most_common(12))
-    else:
+        chips = [('By state or country', region_chips)]
+    elif kind == 'decades':
         title = f'Cold Cases of the {label}: {n} Cases'
-        types = Counter(c['type'] for c in cases)
-        top_types = ', '.join(f'{v} {TYPE_PLURAL.get(t, t).lower()}' for t, v in types.most_common(3))
         desc = fit(f'{plural(n, "documented case")} from the {label}: {unsolved} still unsolved. '
                    f'Includes {top_types}. Most entries: {top_regions}.', 158)
         yrs = Counter(c['year'] for c in cases)
         base = int(label[:4])
         data = [(str(y), yrs.get(y, 0)) for y in range(base, base + 10)]
-        second = ''
         if n >= 4:
             second = f'''<figure class="viz">
         <div class="viz-title">Cases by year, {label}</div>
         {viz.columns(data, label=f"Cases by year in the {label}")}
       </figure>'''
-        chips_title = 'By type'
-        chips = ''.join(f'<a class="breakdown-chip" href="{prefix}types/{slugify(TYPE_PLURAL.get(t, t))}/"><strong>{v}</strong> '
-                        f'{e(TYPE_PLURAL.get(t, t))}</a>' for t, v in types.most_common())
+        chips = [('By type', type_chips)]
+    elif kind == 'themes':
+        title = f'{label}: {n} Cold Cases'
+        desc = fit(f'{plural(n, "documented case")} on this theme, {span}: {unsolved} unsolved. '
+                   f'Includes {top_types}. Most entries: {top_regions}.', 158)
+        second = decade_figure(cases, prefix, f'{label} cases by decade')
+        chips = [('By type', type_chips), ('By state or country', region_chips)]
+    else:
+        region = cases[0]['_region']
+        short = viz.STATE_ABBR.get(region, region)
+        title = next(t for t in (f'Cold Cases in {label}, {short}: {n} Documented Cases',
+                                 f'{label}, {short} Cold Cases: {n} Cases',
+                                 f'{label} Cold Cases | {SITE}', f'{label}, {short} Cold Cases')
+                     if len(t) <= 60)
+        desc = fit(f'{plural(n, "documented case")} in {label}, {region}, {span}: {unsolved} still unsolved. '
+                   f'Includes {top_types}. Status, timeline and sources for each case.', 158)
+        second = decade_figure(cases, prefix, f'{label} cases by decade')
+        chips = [('By type', type_chips)]
     if len(title) > 60:
-        title = f'{label} | {SITE}' if kind == 'types' else f'{label} Cold Cases'
+        title = f'{label} | {SITE}' if kind != 'decades' else f'{label} Cold Cases'
     sib = ''.join(
         (f'<a href="../{s}/"><strong>{c}</strong> {e(l)}</a>' if s != slug
          else f'<a href="../{s}/" aria-current="page"><strong>{c}</strong> {e(l)}</a>')
         for s, l, c in siblings)
-    cards = '\n      '.join(case_card(c, prefix, place='region') for c in ordered)
-    indexable = n >= 3
+    chips_html = ''.join(f'<h2 class="sub-heading">{t}</h2><div class="breakdown-row">{h}</div>' for t, h in chips if h)
+    cards = '\n      '.join(case_card(c, prefix, place='region' if kind != 'cities' else 'city') for c in ordered)
+    indexable = n >= min_index
     body = f'''
   <section class="section">
     <div class="section-inner">
       {breadcrumb_html([('Home', ''), (parent, f'{kind}/'), (label, None)], prefix)}
       <h1 class="section-heading">{e(heading)}</h1>
       <p class="section-subtext">{intro}</p>
+      {links}
 
       {status_figure(cases, f'Status of the {plural(n, "case")}')}
       {second}
 
-      <h2 class="sub-heading">{chips_title}</h2>
-      <div class="breakdown-row">{chips}</div>
+      {chips_html}
 
       <h2 class="sub-heading">All {plural(n, 'case')}</h2>
       <div class="cases-grid">
       {cards}
       </div>
 
-      <h2 class="sub-heading">{'Other case types' if kind == 'types' else 'Other decades'}</h2>
-      <div class="hub-links">{sib}</div>
+      <h2 class="sub-heading">{HUB_OTHERS[kind]}</h2>
+      <div class="hub-links">{sib}<a href="../">{e(parent)}</a></div>
     </div>
   </section>
 '''
@@ -1244,7 +1341,6 @@ def render_hub(kind, key, label, cases, siblings, intro, heading):
          "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"},
          "mainEntity": item_list_ld(ordered)},
     ]
-    active = 'By Type' if kind == 'types' else 'By Decade'
     return (lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body,
                               schema=schema, active=active,
                               robots=None if indexable else 'noindex,follow')), indexable
@@ -1254,20 +1350,33 @@ def render_hub_index(kind, entries, total):
     """entries: [(slug, label, count, unsolved, blurb)]"""
     prefix = '../'
     url = f'{BASE_URL}/{kind}/'
+    chart, crumb = '', None
     if kind == 'types':
         h1, title = 'Cold Cases by Type', f'Cold Cases by Type | {SITE}'
         desc = (f'{total} documented cases grouped into {len(entries)} types, from homicides and missing '
                 f'persons to unidentified remains. Counts and unsolved totals for each.')
         lead = 'Every case in the index is assigned one type. Choose a type to see all of its cases, how many remain unsolved and how they spread across decades.'
-        chart = viz.columns([(l.replace(' Cases', '').replace('Persons', 'pers.'), c) for _, l, c, _, _ in entries[:8]],
-                            label='Cases by type') if False else ''
-    else:
+    elif kind == 'decades':
         h1, title = 'Cold Cases by Decade', f'Cold Cases by Decade | {SITE}'
         desc = (f'{total} documented cases from the {entries[0][1]} to the {entries[-1][1]}, grouped by the '
                 f'decade of the incident. Counts and unsolved totals for each decade.')
         lead = 'Cases are grouped by the decade in which the crime or disappearance happened, not when it was solved.'
         chart = viz.columns([(l, c) for _, l, c, _, _ in entries],
                             links={l: f'./{s}/' for s, l, _, _, _ in entries}, label='Cases by decade')
+    elif kind == 'themes':
+        h1, title = 'Cold Cases by Theme', f'Cold Cases by Theme | {SITE}'
+        desc = (f'{total} documented cases across {len(entries)} themes: genetic genealogy, college students, '
+                f'civil rights era killings, disputed convictions, Doe cases and bodies never found.')
+        lead = ('Themes cut across type, place and decade, and a case can belong to more than one. Each hub lists '
+                'every case carrying the theme\'s tags, how many remain unsolved and how they spread across decades.')
+    else:
+        h1, title = 'Cold Cases by City', f'Cold Cases by City | {SITE}'
+        desc = (f'{total} documented cases in the {len(entries)} cities with two or more cases, '
+                f'from {entries[0][1]} and {entries[1][1]} down. Counts and unsolved totals for each.')
+        lead = ('Cities and towns with at least two documented cases. Select one for its cases, their status and '
+                'how they spread across decades. The <a href="../map/">case map</a> plots every US case by city.')
+        chart = viz.columns([(l, c) for _, l, c, _, _ in entries[:12]],
+                            links={l: f'./{s}/' for s, l, _, _, _ in entries[:12]}, label='Cities with the most cases')
     mx = max(c for _, _, c, _, _ in entries)
     cards = ''.join(f'''<a href="./{s}/" class="state-card">
             <div class="state-card-header"><span class="state-name">{e(l)}</span><span class="state-count-badge">{c}</span></div>
@@ -1276,12 +1385,15 @@ def render_hub_index(kind, entries, total):
           </a>''' for s, l, c, u, b in entries)
     fig = ''
     if chart:
-        fig = f'''<figure class="viz"><div class="viz-title">Cases in the index by decade</div>
-        <div class="viz-sub">Select a column to open that decade.</div>{chart}</figure>'''
+        cap = {'decades': ('Cases in the index by decade', 'Select a column to open that decade.'),
+               'cities': ('Cities with the most documented cases', 'Select a column to open that city.')}[kind]
+        fig = f'''<figure class="viz"><div class="viz-title">{cap[0]}</div>
+        <div class="viz-sub">{cap[1]}</div>{chart}</figure>'''
+    crumb = h1.replace('Cold Cases', 'Cases')
     body = f'''
   <section class="section">
     <div class="section-inner">
-      {breadcrumb_html([('Home', ''), (h1.replace('Cold Cases', 'Cases'), None)], prefix)}
+      {breadcrumb_html([('Home', ''), (crumb, None)], prefix)}
       <h1 class="section-heading">{h1}</h1>
       <p class="section-subtext">{lead}</p>
       {fig}
@@ -1290,12 +1402,12 @@ def render_hub_index(kind, entries, total):
   </section>
 '''
     schema = [
-        breadcrumb_ld([('Home', f'{BASE_URL}/'), (h1.replace('Cold Cases', 'Cases'), url)]),
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), (crumb, url)]),
         {"@context": "https://schema.org", "@type": "CollectionPage", "name": h1, "description": desc,
          "url": url, "inLanguage": "en-US",
          "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"}},
     ]
-    active = 'By Type' if kind == 'types' else 'By Decade'
+    active = HUB_PARENT[kind][1]
     return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body,
                              schema=schema, active=active)
 
@@ -1315,6 +1427,533 @@ def redirect_stub(target_url):
 </body>
 </html>
 '''
+
+
+# ─────────────────────────── themes and cities ───────────────────────────
+
+# slug, label, heading, member tags (normalised, lower case), intro
+THEMES = [
+    ('genetic-genealogy', 'Genetic Genealogy', 'Cold Cases and Forensic Genetic Genealogy',
+     {'genetic genealogy', 'dna doe project', 'othram', 'parabon nanolabs'},
+     'Cases in which investigators used forensic genetic genealogy: comparing DNA from a crime scene or from '
+     'unidentified remains against public genealogy databases to build a family tree that points to a name. '
+     'The list includes victims and suspects identified this way and unidentified-remains cases where the work '
+     'is still under way.'),
+    ('college-students', 'College Students', 'Cold Cases Involving College Students',
+     {'college student', 'college', 'university', 'sorority', 'college campus', 'campus disappearance',
+      'law student', 'nursing students', 'exchange student'},
+     'Homicides and disappearances of college and university students, on campus and off. Several of these '
+     'cases led to changes in campus safety law and practice.'),
+    ('civil-rights', 'Civil Rights Era', 'Civil Rights Era Cold Cases',
+     {'civil rights', 'civil rights era', 'freedom summer', 'ku klux klan', 'kkk', 'selma', 'naacp'},
+     'Killings connected to the civil rights movement and to racial terror in the United States, many of them '
+     'left unprosecuted for decades. Some were reopened under the Emmett Till Unsolved Civil Rights Crime Act '
+     'and ended in convictions forty years or more after the crime.'),
+    ('wrongful-conviction', 'Wrongful and Disputed Convictions', 'Wrongful and Disputed Convictions',
+     {'wrongful conviction', 'exoneration', 'conviction overturned', 'wrongful conviction concerns',
+      'wrongful conviction possible', 'coerced confession', 'recanted confession', 'disputed conviction',
+      'controversial conviction'},
+     'Cases in which a conviction was overturned or the convicted person was exonerated, and cases in which a '
+     'conviction has been publicly disputed. Listing a case here does not mean the conviction was wrong: each '
+     'entry states precisely what a court has and has not found.'),
+    ('jane-john-doe', 'Jane and John Doe Cases', 'Jane Doe and John Doe Cases',
+     {'jane doe', 'john doe', 'doe case', 'princess doe', 'buckskin girl', 'jane doe identified'},
+     'People who were known for years only by a placeholder name because their remains could not be '
+     'identified. Some have since been given their names back, usually through DNA; the rest are still '
+     'waiting. The type hub for unidentified persons lists every case of that type, named or not.'),
+    ('body-never-found', 'Body Never Found', 'Cases Where the Body Was Never Found',
+     {'body never found'},
+     'Disappearances and presumed homicides in which no remains have ever been recovered, including several '
+     'that ended in a conviction without a body.'),
+]
+TAG_THEME = {t: slug for slug, _l, _h, tags, _i in THEMES for t in tags}
+
+HUB_PARENT = {'types': ('Cases by type', 'By Type'), 'decades': ('Cases by decade', 'By Decade'),
+              'themes': ('Cases by theme', None), 'cities': ('Cases by city', None)}
+HUB_OTHERS = {'types': 'Other case types', 'decades': 'Other decades', 'themes': 'Other themes',
+              'cities': 'Other cities with several cases'}
+
+CITY_SKIP = re.compile(r'^(multiple|various|unknown|several|statewide)\b', re.I)
+CITY_HUBS = {}   # (city, region) -> slug, filled in main() before case pages render
+
+
+def city_key(c):
+    city = c.get('city')
+    if known(city) and not CITY_SKIP.match(str(city)):
+        return (str(city).strip(), c['_region'])
+    return None
+
+
+def city_slug(city, region):
+    return slugify(f'{city} {viz.STATE_ABBR.get(region, region)}')
+
+
+def city_groups(cases, min_cases=2):
+    groups = defaultdict(list)
+    for c in cases:
+        k = city_key(c)
+        if k:
+            groups[k].append(c)
+    return {k: v for k, v in groups.items() if len(v) >= min_cases}
+
+
+# ─────────────────────────── map explorer ───────────────────────────
+
+CITY_COORDS_FILE = os.path.join(ROOT, 'data', 'city-coords.json')
+
+
+def map_points(cases):
+    """{'City|State': [x, y, hub_slug]} for every US city with cached coordinates."""
+    coords = {}
+    if os.path.exists(CITY_COORDS_FILE):
+        with open(CITY_COORDS_FILE, encoding='utf-8') as f:
+            coords = json.load(f)
+    points, missing = {}, Counter()
+    for c in cases:
+        if not c['_us']:
+            continue
+        k = city_key(c)
+        if not k:
+            missing['unplaceable'] += 1
+            continue
+        key = f'{k[0]}|{k[1]}'
+        if key in points:
+            continue
+        hit = coords.get(key)
+        pt = geo.project(hit['lon'], hit['lat']) if hit else None
+        if not pt:
+            missing['no coordinates'] += 1
+            continue
+        points[key] = [pt[0], pt[1], CITY_HUBS.get(k, '')]
+    return points, missing
+
+
+MAP_JS = r"""
+(function(){
+var P=MAP_POINTS,data=[],groups={},sel=null;
+var GROUP={'Unsolved':'unsolved','Partially Solved':'partial','Identified':'partial','Arrest Made':'proceedings','Pending Trial':'proceedings','Wanted':'proceedings','Solved':'resolved','Conviction':'resolved','No Conviction':'other','Ruled Suicide':'other'};
+var BADGE={unsolved:'badge-unsolved',partial:'badge-partial',proceedings:'badge-arrest',resolved:'badge-conviction',other:'badge-neutral'};
+var $=function(id){return document.getElementById(id)};
+var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+var dots=$('mapDots'),panel=$('mapPanel'),count=$('mapCount');
+var slugKey={};Object.keys(P).forEach(function(k){if(P[k][2])slugKey[P[k][2]]=k});
+function key(c){return c.city+'|'+c.state}
+function n(x,one,many){return x+' '+(x===1?one:many)}
+function fill(id,vals,fmt){var el=$(id);vals.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=fmt?fmt(v):v;el.appendChild(o)})}
+function uniq(a){return a.filter(function(v,i){return v!==''&&v!=null&&a.indexOf(v)===i}).sort()}
+function filtered(){var st=$('mapStatus').value,t=$('mapType').value,d=$('mapDecade').value;
+  return data.filter(function(c){if(!P[key(c)])return false;if(st&&GROUP[c.status]!==st)return false;if(t&&c.type!==t)return false;if(d&&Math.floor((c.year||0)/10)*10!==+d)return false;return true})}
+function place(k){return k.split('|')[0]+', '+k.split('|')[1]}
+function draw(){
+  var rows=filtered();groups={};
+  rows.forEach(function(c){var k=key(c);(groups[k]=groups[k]||[]).push(c)});
+  var keys=Object.keys(groups).sort(function(a,b){return groups[b].length-groups[a].length});
+  dots.innerHTML=keys.map(function(k){var p=P[k],m=groups[k].length,r=(3+1.7*Math.sqrt(m)).toFixed(1);
+    return '<circle class="map-dot'+(k===sel?' on':'')+'" cx="'+p[0]+'" cy="'+p[1]+'" r="'+r+'" data-k="'+esc(k)+'" tabindex="0" role="button" aria-label="'+esc(place(k)+': '+n(m,'case','cases'))+'"><title>'+esc(place(k)+': '+n(m,'case','cases'))+'</title></circle>'}).join('');
+  count.textContent=n(rows.length,'case','cases')+' in '+n(keys.length,'city','cities');
+  if(sel&&!groups[sel])sel=null;
+  show();
+  var q=new URLSearchParams();
+  [['status','mapStatus'],['type','mapType'],['decade','mapDecade']].forEach(function(p){if($(p[1]).value)q.set(p[0],$(p[1]).value)});
+  if(sel&&P[sel][2])q.set('city',P[sel][2]);
+  var qs=q.toString();try{history.replaceState(null,'',location.pathname+(qs?'?'+qs:''))}catch(e){}
+}
+function show(){
+  if(!sel){panel.innerHTML='<p class="map-panel-hint">Select a dot to list the cases recorded in that city. Larger dots hold more cases. Dots mark the city, not an address.</p>';return}
+  var cs=groups[sel].slice().sort(function(a,b){return (b.year||0)-(a.year||0)||a.name.localeCompare(b.name)});
+  var city=sel.split('|')[0],state=sel.split('|')[1],p=P[sel];
+  var hub=p[2]?'<a class="all-state-link" href="../cities/'+p[2]+'/">All '+esc(city)+' cases &rarr;</a>':'';
+  panel.innerHTML='<h2 class="map-panel-title">'+esc(city)+', '+esc(state)+'</h2><p class="map-panel-sub">'+n(cs.length,'case','cases')+' matching the current filters</p><ol class="map-panel-list">'+cs.map(function(c){return '<li><a href="../cases/'+encodeURIComponent(c.id)+'/"><span class="badge '+BADGE[GROUP[c.status]||'unsolved']+'">'+esc(c.status)+'</span><span class="map-panel-name">'+esc(c.name)+'</span><span class="map-panel-year">'+esc(c.year||'')+'</span></a></li>'}).join('')+'</ol>'+hub;
+}
+function select(k){sel=(sel===k)?null:k;[].forEach.call(dots.querySelectorAll('.map-dot'),function(d){d.classList.toggle('on',d.dataset.k===sel)});show();
+  var q=new URLSearchParams(location.search);if(sel&&P[sel][2])q.set('city',P[sel][2]);else q.delete('city');var qs=q.toString();try{history.replaceState(null,'',location.pathname+(qs?'?'+qs:''))}catch(e){}}
+dots.addEventListener('click',function(ev){var t=ev.target.closest('.map-dot');if(t)select(t.dataset.k)});
+dots.addEventListener('keydown',function(ev){if(ev.key!=='Enter'&&ev.key!==' ')return;var t=ev.target.closest('.map-dot');if(!t)return;ev.preventDefault();select(t.dataset.k)});
+['mapStatus','mapType','mapDecade'].forEach(function(id){$(id).addEventListener('change',draw)});
+$('mapReset').addEventListener('click',function(){['mapStatus','mapType','mapDecade'].forEach(function(id){$(id).value=''});sel=null;draw()});
+fetch('../data/cases-index.json').then(function(r){return r.json()}).then(function(d){
+  data=d;
+  fill('mapType',uniq(data.filter(function(c){return P[key(c)]}).map(function(c){return c.type})));
+  fill('mapDecade',uniq(data.map(function(c){return c.year?Math.floor(c.year/10)*10:null})).sort(function(a,b){return a-b}),function(v){return v+'s'});
+  var q=new URLSearchParams(location.search),map={status:'mapStatus',type:'mapType',decade:'mapDecade'};
+  Object.keys(map).forEach(function(k){var v=q.get(k);if(!v)return;var el=$(map[k]);if([].some.call(el.options,function(o){return o.value===v}))el.value=v});
+  var city=q.get('city');if(city&&slugKey[city])sel=slugKey[city];
+  $('mapFilters').hidden=false;draw();
+  if(sel)$('mapPanel').scrollIntoView({block:'nearest'});
+}).catch(function(){count.textContent='The case index could not be loaded.'});
+})();
+"""
+
+
+def render_map(cases, city_hubs_count):
+    prefix = '../'
+    url = f'{BASE_URL}/map/'
+    points, missing = map_points(cases)
+    states = geo.load_states()
+    us = [c for c in cases if c['_us']]
+    plotted = [c for c in us if city_key(c) and f'{city_key(c)[0]}|{city_key(c)[1]}' in points]
+    intl = len(cases) - len(us)
+    by_state = Counter(c['state'] for c in plotted)
+    n_states = len(by_state)
+    unplaced = len(us) - len(plotted)
+    groups = city_groups(cases, 1)
+    top = sorted(((k, len(v)) for k, v in groups.items() if k in CITY_HUBS), key=lambda kv: (-kv[1], kv[0]))[:24]
+    top_chips = ''.join(
+        f'<a class="breakdown-chip" href="{prefix}cities/{CITY_HUBS[k]}/"><strong>{n}</strong> {e(k[0])}, {e(viz.STATE_ABBR.get(k[1], k[1]))}</a>'
+        for k, n in top)
+    state_paths = ''.join(
+        f'<path class="map-state" d="{d}"><title>{e(viz.ABBR_STATE[ab])}: {plural(by_state.get(viz.ABBR_STATE[ab], 0), "case")}</title></path>'
+        for ab, d in states.items())
+    status_opts = ''.join(f'<option value="{g}">{e(lab)}</option>' for g, (lab, *_rest) in STATUS_GROUPS.items())
+    title = f'Cold Case Map: {len(plotted)} US Cases by City'
+    desc = (f'Interactive map of {len(plotted)} documented cold cases across {len(points)} US cities and '
+            f'{n_states} states. Filter by status, type and decade; select a city to see its cases.')
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Map', None)], prefix)}
+      <h1 class="section-heading">Cold Case Map</h1>
+      <p class="section-subtext">{len(plotted)} of the {len(us)} US cases in the index are placed on the map below, at the city level, across {len(points)} cities in {n_states} states and the District of Columbia. Dots mark a city, never an address. Filter by status, type or decade, then select a dot to list that city's cases. {unplaced} US {"case spans" if unplaced == 1 else "cases span"} several places or {"has" if unplaced == 1 else "have"} no mappable city and {"is" if unplaced == 1 else "are"} not plotted; the {intl} cases outside the United States are listed <a href="{prefix}states/">by country</a>.</p>
+
+      <div class="map-filters" id="mapFilters" hidden>
+        <div><label for="mapStatus">Status</label><select id="mapStatus"><option value="">All statuses</option>{status_opts}</select></div>
+        <div><label for="mapType">Type</label><select id="mapType"><option value="">All types</option></select></div>
+        <div><label for="mapDecade">Decade</label><select id="mapDecade"><option value="">All decades</option></select></div>
+        <button type="button" class="map-reset" id="mapReset">Reset</button>
+        <span class="map-count" id="mapCount" role="status" aria-live="polite"></span>
+      </div>
+
+      <div class="map-explorer">
+        <figure class="viz viz-wide map-stage">
+          <svg viewBox="0 0 {geo.W} {geo.H}" role="img" aria-label="Map of the United States with a dot for every city that has documented cases" xmlns="http://www.w3.org/2000/svg">
+            <g class="map-states">{state_paths}</g>
+            <g id="mapDots"></g>
+          </svg>
+          <figcaption class="viz-sub">Base map: US Atlas (Census Bureau cartographic boundaries), Albers USA projection. City positions from OpenStreetMap.</figcaption>
+        </figure>
+        <aside class="map-panel" id="mapPanel" aria-live="polite"><p class="map-panel-hint">Loading the case index…</p></aside>
+      </div>
+
+      <h2 class="sub-heading">Cities with the most documented cases</h2>
+      <div class="breakdown-row">{top_chips}</div>
+      <div class="hub-links">
+        <a href="{prefix}cities/">All cities with several cases ({city_hubs_count})</a>
+        <a href="{prefix}states/">Cases by state and country</a>
+        <a href="{prefix}types/">Cases by type</a>
+      </div>
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Map', url)]),
+        {"@context": "https://schema.org", "@type": "WebPage", "name": "Cold case map",
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"}},
+    ]
+    js = 'var MAP_POINTS=' + json.dumps(points, separators=(',', ':')) + ';' + MAP_JS
+    print(f'Map: {len(points)} cities plotted, {len(plotted)} cases; not placed: {dict(missing)}')
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body,
+                             schema=schema, active='Map', extra_js=js)
+
+
+# ─────────────────────────── analysis pages ───────────────────────────
+
+ANALYSIS = [
+    ('how-long-cold-cases-take-to-solve', 'How long do cold cases take to solve?'),
+    ('cold-case-resolution-methods', 'How cold cases get solved'),
+]
+
+
+METHOD_SHORT = {'initial': 'Initial', 'genealogy': 'Genealogy', 'dna': 'DNA match', 'confession': 'Confession',
+                'witness': 'Witness or tip', 'other-crime': 'Other arrest', 'fingerprint': 'Fingerprint',
+                'other': 'Not stated'}
+
+
+def stat_row(items):
+    return ('<div class="stat-row no-auto-ads">'
+            + ''.join(f'<div class="stat"><span class="stat-value">{v}</span><span class="stat-label">{e(l)}</span></div>'
+                      for v, l in items) + '</div>')
+
+
+def data_table(headers, rows, caption=''):
+    th = ''.join(f'<th scope="col">{e(h)}</th>' for h in headers)
+    body = ''.join('<tr>' + ''.join((f'<th scope="row">{cells[0]}</th>' if i == 0 else f'<td>{v}</td>')
+                                    for i, v in enumerate(cells)) + '</tr>' for cells in rows)
+    cap = f'<caption>{caption}</caption>' if caption else ''
+    return (f'<div class="table-wrap no-auto-ads" tabindex="0"><table class="data-table">{cap}'
+            f'<thead><tr>{th}</tr></thead><tbody>{body}</tbody></table></div>')
+
+
+def rec_link(r, prefix):
+    return f'<a href="{prefix}cases/{r["id"]}/">{e(r["name"])}</a>'
+
+
+def fmt_years(y):
+    if y is None:
+        return '—'
+    return f'{y:g}'
+
+
+def analysis_page(slug, title, h1, desc, lead, sections, method_notes, recs_n):
+    """Shared shell for the analysis reports."""
+    prefix = '../../'
+    url = f'{BASE_URL}/analysis/{slug}/'
+    others = ''.join(f'<a href="../{s}/">{e(l)}</a>' for s, l in ANALYSIS if s != slug)
+    notes = ''.join(f'<li>{n}</li>' for n in method_notes)
+
+    def render(published, modified):
+        mod_h = viz.human_date(modified) if modified != '0000-00-00' else ''
+        body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Analysis', 'analysis/'), (title, None)], prefix)}
+      <div class="case-page-header">
+        <div class="case-page-meta-row"><span class="case-type-label">Analysis</span><span class="case-year-label">Based on {recs_n} resolved cases, computed {mod_h}</span></div>
+        <h1 class="case-page-title">{e(h1)}</h1>
+      </div>
+      <p class="case-summary">{lead}</p>
+      {sections}
+      <div class="case-narrative-section">
+        <h2 class="section-label">Method and caveats</h2>
+        <ul class="how-to-help-list">{notes}</ul>
+        <p class="case-narrative">The figures are recomputed from <a href="{prefix}data/cases.json">the published dataset</a> on every build, so they change as cases are added or their status changes. The rules live in <code>scripts/analysis.py</code> in the site's source. To report an error, email <a href="mailto:{CONTACT}">{CONTACT}</a>.</p>
+      </div>
+      <p class="case-updated">Last recomputed {mod_h}.</p>
+      {cite_html(h1, url, modified)}
+      <h2 class="sub-heading">More analysis</h2>
+      <div class="hub-links">{others}<a href="../">All analysis</a><a href="{prefix}map/">Case map</a><a href="{prefix}themes/genetic-genealogy/">Genetic genealogy cases</a></div>
+    </div>
+  </section>
+'''
+        article = {
+            "@context": "https://schema.org", "@type": "Article", "headline": h1, "description": desc,
+            "url": url, "mainEntityOfPage": {"@type": "WebPage", "@id": url}, "image": OG_IMAGE,
+            "inLanguage": "en-US", "articleSection": "Analysis",
+            "datePublished": published, "dateModified": modified,
+            "author": {"@type": "Organization", "name": SITE, "url": f'{BASE_URL}/about/'},
+            "publisher": {"@type": "Organization", "name": SITE, "url": BASE_URL,
+                          "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/logos/logo-icon-512x512.png"}},
+            "isBasedOn": {"@type": "Dataset", "name": f"{SITE} case database", "url": f"{BASE_URL}/data/cases.json"},
+        }
+        crumbs = breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Analysis', f'{BASE_URL}/analysis/'), (title, url)])
+        return page(title=f'{title} | {SITE}', desc=desc, canonical=url, prefix=prefix, body=body, schema=[article, crumbs],
+                    active='Analysis', og_type='article', published=published, modified=modified)
+    return render
+
+
+def render_analysis_time(recs, skipped):
+    prefix = '../../'
+    n = len(recs)
+    fast = [r for r in recs if r['years'] <= 1]
+    cold = [r for r in recs if r['years'] >= 2]
+    cold_years = [r['years'] for r in cold]
+    med_cold = analysis.median(cold_years)
+    over10 = sum(1 for y in cold_years if y >= 10)
+    over20 = sum(1 for y in cold_years if y >= 20)
+    over30 = sum(1 for r in recs if r['years'] >= 30)
+    longest = sorted(recs, key=lambda r: (-r['years'], r['name']))
+    top = longest[0]
+    conv = [r for r in recs if r['closed'] is not None]
+    conv_gap = [r['closed'] - r['broke'] for r in conv]
+    bk = analysis.buckets(recs)
+    decs = analysis.by_decade(recs)
+    types = defaultdict(list)
+    for r in recs:
+        types[r['type']].append(r['years'])
+
+    sec = []
+    sec.append(stat_row([
+        (n, 'resolved cases with a dated break in the timeline'),
+        (f'{round(len(fast) / n * 100)}%', 'broken within a year of the crime'),
+        (f'{fmt_years(med_cold)} yrs', f'median wait for the {len(cold)} cases that went cold'),
+        (over30, 'cases that took 30 years or more'),
+    ]))
+    sec.append(f'''<div class="case-narrative-section">
+        <h2 class="section-label">The two kinds of resolved case</h2>
+        <p class="case-narrative">Of the {n} cases, {len(fast)} ({round(len(fast) / n * 100)}%) were broken within a year of the crime or disappearance: an arrest, charge or identification followed the initial investigation. The other {len(cold)} went cold first. Among those, the median wait between the crime and the break was {fmt_years(med_cold)} years; {over10} waited ten years or more and {over20} waited twenty years or more. The longest wait in the index is {rec_link(top, prefix)}, broken {top['years']} years after the event, in {top['broke']}.</p>
+        <p class="case-narrative">For the {len(conv)} cases that ended in a conviction, the median gap between the break and the conviction was {fmt_years(analysis.median(conv_gap))} {"year" if analysis.median(conv_gap) == 1 else "years"}; {sum(1 for g in conv_gap if g >= 3)} took three years or more from arrest to verdict.</p>
+      </div>''')
+    sec.append(f'''<figure class="viz">
+        <div class="viz-title">Years from the crime to the break, all {n} resolved cases</div>
+        <div class="viz-sub">The break is the first dated arrest, charge, identification, DNA match or confession in the case timeline.</div>
+        {viz.columns(bk, label='Years to resolution')}
+      </figure>''')
+    sec.append(data_table(['Years from crime to break', 'Cases', 'Share'],
+                          [(e(lab), v, f'{round(v / n * 100)}%') for lab, v in bk]))
+
+    dec_rows = []
+    for d, cnt, med, mean, over, within in decs:
+        if cnt < 5:
+            continue
+        dec_rows.append((f'<a href="{prefix}decades/{d}s/">{d}s</a>', cnt, fmt_years(med), fmt_years(mean),
+                         f'{round(within / cnt * 100)}%', f'{round(over / cnt * 100)}%'))
+    small = sum(cnt for d, cnt, *_ in decs if cnt < 5)
+    sec.append(f'''<h2 class="sub-heading">By decade of the crime</h2>
+      <p class="section-subtext">Recent decades can only hold cases that were resolved quickly, because the slow ones have not been resolved yet. Read the 2010s and 2020s rows as a floor, not a trend. Decades with fewer than five resolved cases ({small} cases in total) are left out.</p>
+      {data_table(['Decade', 'Resolved cases', 'Median years', 'Mean years', 'Broken within a year', 'Took 10+ years'], dec_rows)}''')
+
+    bm = analysis.by_method(recs)
+    m_rows = [(f'<a href="../cold-case-resolution-methods/#{k}">{e(lab)}</a>', cnt, fmt_years(med),
+               sum(1 for r in rs if r['years'] >= 2))
+              for k, lab, cnt, med, rs in bm]
+    sec.append(f'''<h2 class="sub-heading">By what broke the case</h2>
+      <p class="section-subtext">Genetic genealogy and DNA database matches are the methods that resolve the oldest cases. Confessions and tips arrive at every age. The <a href="../cold-case-resolution-methods/">resolution methods report</a> has the detail.</p>
+      {data_table(['Method', 'Cases', 'Median years to break', 'Of which went cold (2+ years)'], m_rows)}''')
+
+    t_rows = sorted(((t, len(ys), analysis.median(ys), sum(1 for y in ys if y >= 10)) for t, ys in types.items() if len(ys) >= 5),
+                    key=lambda x: -x[1])
+    sec.append(f'''<h2 class="sub-heading">By case type</h2>
+      {data_table(['Type', 'Resolved cases', 'Median years', 'Took 10+ years'],
+                  [(f'<a href="{prefix}types/{slugify(TYPE_PLURAL.get(t, t))}/">{e(TYPE_PLURAL.get(t, t))}</a>', cnt, fmt_years(med), over) for t, cnt, med, over in t_rows],
+                  'Types with fewer than five resolved cases are left out.')}''')
+
+    l_rows = [(rec_link(r, prefix), r['inc'], r['broke'], r['years'], e(analysis.METHOD_LABEL[r['method']]))
+              for r in longest[:20]]
+    sec.append(f'''<h2 class="sub-heading">The twenty longest waits</h2>
+      {data_table(['Case', 'Crime', 'Break', 'Years', 'What broke it'], l_rows)}''')
+
+    notes = [
+        f'<strong>Which cases.</strong> Every case whose status is Conviction, Solved or Identified: {n + len(skipped)} cases. {len(skipped)} of them have no dated event in their timeline that matches the break rules (for example the suspect died before any arrest, or the victim was found alive) and are left out. Cases with the status Partially Solved, Arrest Made, Pending Trial, Wanted, No Conviction or Ruled Suicide are not counted as resolved.',
+        '<strong>The break.</strong> The first timeline event, dated in or after the year of the crime, whose text records an arrest, charge, indictment, identification, DNA or fingerprint match, confession or guilty plea. Years are counted as whole calendar years between the year of the crime and the year of that event, so a case broken the next January counts as one year.',
+        '<strong>Selection.</strong> ColdCaseIndex is a curated index of notable cases, not a random sample of all homicides and disappearances. Famous cases that were solved quickly and famous cases that took decades are both over-represented compared with routine investigations. The figures describe the index, and should be cited that way.',
+        '<strong>Dates.</strong> Timeline dates are taken from the sources listed on each case page. Where a source gives only a year, that year is used.',
+    ]
+    lead = (f'Among the {n} resolved cases in this index whose timelines record when the case broke, '
+            f'{round(len(fast) / n * 100)}% were broken within a year. For the {len(cold)} that went cold first, '
+            f'the median wait was {fmt_years(med_cold)} years and {over20} waited twenty years or more, '
+            f'most of them until a DNA match or genetic genealogy named a suspect or a victim.')
+    desc = fit(f'Resolution times for {n} solved cold cases: {round(len(fast) / n * 100)}% broken within a year; '
+               f'for cases that went cold the median wait was {fmt_years(med_cold)} years. Breakdowns by decade, '
+               f'method and type.', 158)
+    return analysis_page('how-long-cold-cases-take-to-solve', 'How long do cold cases take to solve?',
+                         'How Long Do Cold Cases Take to Solve?', desc, lead, '\n'.join(sec), notes, n)
+
+
+def render_analysis_methods(recs, skipped, genealogy_cases):
+    prefix = '../../'
+    n = len(recs)
+    bm = analysis.by_method(recs)
+    counts = {k: cnt for k, _l, cnt, _m, _rs in bm}
+    cold = [r for r in recs if r['years'] >= 2]
+    cold_methods = Counter(r['method'] for r in cold)
+    gen = next(((cnt, med, rs) for k, _l, cnt, med, rs in bm if k == 'genealogy'), (0, None, []))
+    dna = next(((cnt, med, rs) for k, _l, cnt, med, rs in bm if k == 'dna'), (0, None, []))
+    conf = next(((cnt, med, rs) for k, _l, cnt, med, rs in bm if k == 'confession'), (0, None, []))
+    gen_years = sorted(r['broke'] for r in gen[2])
+    gen_first = gen_years[0] if gen_years else None
+    gen_recent = sum(1 for y in gen_years if y >= 2018)
+    over20 = [r for r in recs if r['years'] >= 20]
+    over20_lab = Counter(r['method'] for r in over20)
+    lab_share = ', '.join(f'{analysis.METHOD_LABEL[k].lower()} ({v})' for k, v in over20_lab.most_common(3))
+    conf_fast = sum(1 for r in conf[2] if r['years'] <= 1)
+    conf_late = sum(1 for r in conf[2] if r['years'] >= 5)
+    w20, f20 = over20_lab.get('witness', 0), over20_lab.get('fingerprint', 0)
+    over20_tail = (f'{"None" if f20 == 0 else f20} of them {"was" if f20 == 1 else "were"} resolved by a fingerprint and '
+                   f'{"none" if w20 == 0 else w20} by a witness or tip.')
+    dna_first = min((r['broke'] for r in dna[2]), default=None)
+
+    sec = []
+    sec.append(stat_row([
+        (n, 'resolved cases classified'),
+        (gen[0], 'broken by genetic genealogy'),
+        (dna[0], 'broken by a DNA match'),
+        (conf[0], 'broken by a confession'),
+    ]))
+    sec.append(f'''<div class="case-narrative-section">
+        <h2 class="section-label">What breaks a cold case</h2>
+        <p class="case-narrative">For {counts.get('initial', 0)} of the {n} resolved cases ({round(counts.get('initial', 0) / n * 100)}%) the break came in the initial investigation, within a year of the crime, and the timeline records nothing more specific than the arrest. The remaining {n - counts.get('initial', 0)} cases are where the methods separate. Genetic genealogy accounts for {gen[0]} cases, all broken in {gen_first} or later, with a median wait of {fmt_years(gen[1])} years. A DNA database or direct DNA match accounts for {dna[0]} (median {fmt_years(dna[1])} years). Confessions account for {conf[0]}: {conf_fast} of them came within a year of the crime and {conf_late} came five years or more later.</p>
+        <p class="case-narrative">Among the {len(over20)} cases that waited twenty years or more, the breaks came from {lab_share}. {over20_tail}</p>
+      </div>''')
+    m_rows = []
+    for k, lab, cnt, med, rs in bm:
+        m_rows.append((f'<span id="{k}">{e(lab)}</span>', cnt, f'{round(cnt / n * 100)}%', fmt_years(med),
+                       cold_methods.get(k, 0)))
+    sec.append(f'''<h2 class="sub-heading">Resolution methods, all {n} resolved cases</h2>
+      {data_table(['Method', 'Cases', 'Share', 'Median years to break', 'Of which went cold (2+ years)'], m_rows)}''')
+    chart = viz.columns([(METHOD_SHORT.get(k, lab), cnt) for k, lab, cnt, _m, _rs in bm], label='Resolved cases by method')
+    sec.append(f'<figure class="viz"><div class="viz-title">Resolved cases by what broke them</div>{chart}</figure>')
+
+    bd = analysis.by_break_decade(recs)
+    cols = [k for k in analysis.METHOD_ORDER if counts.get(k)]
+    d_rows = []
+    for d, cnt in bd:
+        tot = sum(cnt.values())
+        if tot < 5:
+            continue
+        d_rows.append((f'{d}s', tot, *[cnt.get(k, 0) or '' for k in cols]))
+    sec.append(f'''<h2 class="sub-heading">By the decade the case broke</h2>
+      <p class="section-subtext">Counted by the year of the break, not the year of the crime. The first DNA match in the index came in {dna_first}, the first genetic genealogy identification in {gen_first}. Decades with fewer than five breaks are left out.</p>
+      {data_table(['Decade', 'Cases'] + [METHOD_SHORT.get(k, analysis.METHOD_LABEL[k]) for k in cols], d_rows)}''')
+
+    g_rows = [(rec_link(r, prefix), r['inc'], r['broke'], r['years'], e(r['status']))
+              for r in sorted(gen[2], key=lambda r: (r['broke'], r['name']))]
+    sec.append(f'''<h2 class="sub-heading" id="genealogy-cases">The {gen[0]} genetic genealogy resolutions</h2>
+      <p class="section-subtext">{len(genealogy_cases)} cases in the index involve forensic genetic genealogy. {gen[0]} of them are resolved with the technique credited in the timeline; the rest are unidentified-remains cases where it has produced leads but not yet a name, or cases where it identified a victim but not the person responsible. {gen_recent} of the {gen[0]} resolutions came in 2018 or later. See the <a href="{prefix}themes/genetic-genealogy/">genetic genealogy theme hub</a> for all {len(genealogy_cases)}.</p>
+      {data_table(['Case', 'Crime', 'Identified', 'Years', 'Status'], g_rows)}''')
+
+    for k, lab, cnt, med, rs in bm:
+        if k in ('genealogy', 'initial', 'other'):
+            continue
+        rows = [(rec_link(r, prefix), r['inc'], r['broke'], r['years'], e(fit(r['event'], 140))) for r in rs[:8]]
+        sec.append(f'''<h2 class="sub-heading">{e(lab)}: {cnt} cases, longest waits</h2>
+      {data_table(['Case', 'Crime', 'Break', 'Years', 'Timeline entry'], rows)}''')
+
+    notes = [
+        f'<strong>Which cases.</strong> The {n} cases with status Conviction, Solved or Identified whose timeline holds a dated break event; {len(skipped)} resolved cases without one are left out. See the <a href="../how-long-cold-cases-take-to-solve/">resolution times report</a> for the definition of the break.',
+        '<strong>Classification.</strong> The break event and the two timeline entries that follow it are matched against keyword rules, in this order: genetic genealogy (also matched on the case tags), DNA match, fingerprint, confession or surrender, witness, tip or informant, arrest in another case, and reinvestigation. A case broken within a year that matches none of them is counted as the initial investigation; one broken later that matches none is counted as not stated. Each case gets one method, the first that matches, even where several contributed.',
+        '<strong>What the categories mean.</strong> "DNA match" covers direct comparisons and database (CODIS) hits, including familial searches of offender databases; "genetic genealogy" covers family-tree work from public genealogy databases. "Arrest in another case" means the suspect was identified after being arrested or caught for a different crime, or after a victim escaped.',
+        '<strong>Selection.</strong> The index favours notable cases, and cases solved by new forensic techniques are notable. The share of genealogy resolutions here is far higher than in homicide clearances generally.',
+    ]
+    lead = (f'Of the {n} resolved cases in this index, {counts.get("initial", 0)} were broken in the initial '
+            f'investigation. Among the rest, genetic genealogy ({gen[0]} cases, median wait {fmt_years(gen[1])} years) '
+            f'and DNA matches ({dna[0]} cases) resolved the oldest cases, while confessions ({conf[0]}) and '
+            f'witnesses or tips ({counts.get("witness", 0)}) arrived at every age.')
+    desc = fit(f'What broke {n} solved cold cases: genetic genealogy {gen[0]}, DNA match {dna[0]}, confession {conf[0]}, '
+               f'witness or tip {counts.get("witness", 0)}. Counts, median waits and the cases behind each method.', 158)
+    return analysis_page('cold-case-resolution-methods', 'How cold cases get solved',
+                         'How Cold Cases Get Solved: Resolution Methods', desc, lead, '\n'.join(sec), notes, n)
+
+
+def render_analysis_index(recs, skipped):
+    prefix = '../'
+    url = f'{BASE_URL}/analysis/'
+    n = len(recs)
+    cold = [r for r in recs if r['years'] >= 2]
+    med = analysis.median([r['years'] for r in cold])
+    gen = sum(1 for r in recs if r['method'] == 'genealogy')
+    fast = sum(1 for r in recs if r['years'] <= 1)
+    cards = f'''<div class="states-grid" style="margin-top:var(--space-8)">
+        <a href="./how-long-cold-cases-take-to-solve/" class="state-card">
+          <div class="state-card-header"><span class="state-name">How long do cold cases take to solve?</span></div>
+          <div class="state-card-meta">Years from the crime to the break for {n} resolved cases, by decade, method and type. {round(fast / n * 100)}% were broken within a year; the cases that went cold waited a median of {fmt_years(med)} years.</div>
+        </a>
+        <a href="./cold-case-resolution-methods/" class="state-card">
+          <div class="state-card-header"><span class="state-name">How cold cases get solved</span></div>
+          <div class="state-card-meta">What broke each of the {n} resolved cases: genetic genealogy ({gen}), DNA matches, confessions, witnesses and tips, with the cases behind each method.</div>
+        </a>
+      </div>'''
+    desc = (f'How long {n} solved cold cases took and what broke them, from genetic genealogy to '
+            f'confessions: original analysis computed from the case timelines.')
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Analysis', None)], prefix)}
+      <h1 class="section-heading">Cold Case Analysis</h1>
+      <p class="section-subtext">Findings computed from the dated timelines of the cases in this index. Each report states its rules and its limits, links every case it counts, and is recomputed whenever the data changes. Cite the page and the date shown on it.</p>
+      {cards}
+      <h2 class="sub-heading">Related</h2>
+      <div class="hub-links"><a href="{prefix}map/">Case map</a><a href="{prefix}#statistics">US homicide clearance statistics</a><a href="{prefix}themes/">Cases by theme</a><a href="{prefix}data/cases.json">Download the dataset (JSON)</a></div>
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Analysis', url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Cold case analysis",
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"}},
+    ]
+    return lambda p, m: page(title=f'Cold Case Analysis: Resolution Times and Methods', desc=desc, canonical=url,
+                             prefix=prefix, body=body, schema=schema, active='Analysis')
 
 
 # ─────────────────────────── homepage blocks ───────────────────────────
@@ -1433,6 +2072,9 @@ def home_blocks(cases, stats, by_region, log):
         f'<a class="browse-chip" href="./types/{slugify(TYPE_PLURAL.get(t, t))}/">{e(TYPE_PLURAL.get(t, t))}<strong>{v}</strong></a>'
         for t, v in types.most_common())
     status_fig = status_figure(cases, f'Status of the {len(cases)} cases in the index')
+    theme_chips = ''.join(
+        f'<a class="browse-chip" href="./themes/{slug}/">{e(label)}<strong>{sum(1 for c in cases if c["_tags"] & tags)}</strong></a>'
+        for slug, label, _h, tags, _i in THEMES)
 
     unsolved_recent = sorted((c for c in cases if c['_group'] == 'unsolved' and c.get('enriched')),
                              key=lambda c: (-(c.get('year') or 0), c['name']))
@@ -1442,6 +2084,7 @@ def home_blocks(cases, stats, by_region, log):
         'HOME_STATE_DATA': state_html,
         'HOME_DECADES': dec_chips,
         'HOME_TYPES': type_chips,
+        'HOME_THEMES': theme_chips,
         'HOME_STATUS': status_fig,
         'HOME_CARDS': '\n'.join(home_card(c) for c in sorted(cases, key=lambda c: (-(c.get('year') or 0), c['name']))[:24]),
         'HOME_FRESH': fresh_strip(log, {c['id']: c for c in cases}),
@@ -1614,6 +2257,12 @@ def render_home(cases, stats, by_region, log):
 
     <h3 class="browse-subheading">By type</h3>
     <div class="browse-chips">{b['HOME_TYPES']}</div>
+
+    <h3 class="browse-subheading">By theme</h3>
+    <div class="browse-chips">{b['HOME_THEMES']}</div>
+
+    <h3 class="browse-subheading">Explore</h3>
+    <div class="browse-chips"><a class="browse-chip" href="./map/">Case map</a><a class="browse-chip" href="./cities/">Cases by city</a><a class="browse-chip" href="./analysis/">Analysis: how long cold cases take and what solves them</a></div>
 
     <h3 class="browse-subheading">Keep up to date</h3>
     <div class="browse-chips"><a class="browse-chip" href="./updates/">Recent changes</a><a class="browse-chip" href="./watch/">Cases to watch<strong>{b['HOME_WATCH']}</strong></a><a class="browse-chip" href="./today/">On this day</a><a class="browse-chip" href="./month/">Anniversaries by month</a><a class="browse-chip" href="./feed.xml">Atom feed</a></div>
@@ -2252,6 +2901,9 @@ def main():
     region_counts = {r: len(v) for r, v in by_region.items()}
     all_regions = sorted(((r, len(v)) for r, v in by_region.items()), key=lambda rv: rv[0])
     state_links = {viz.STATE_ABBR[r]: f'../../states/{slugify(r)}/' for r in by_region if r in US_STATES}
+    CITY_HUBS.clear()
+    CITY_HUBS.update({k: city_slug(*k) for k in city_groups(cases)})
+    assert len(set(CITY_HUBS.values())) == len(CITY_HUBS), 'city slugs collide'
 
     write_css()
 
@@ -2375,9 +3027,53 @@ def main():
         render, indexable = render_hub('decades', label, label, v, sib_d, e(intro), f'Cold Cases of the {label}')
         pages.write(f'decades/{label}/index.html', render, indexable)
     pages.write('decades/index.html', render_hub_index('decades', d_entries, len(cases)), True)
-    # hubs whose type or decade no longer has any cases: redirect to the hub index
+
+    # theme hubs
+    th = [(slug, label, heading, tags, intro, [c for c in cases if c['_tags'] & tags])
+          for slug, label, heading, tags, intro in THEMES]
+    th_entries = sorted(((slug, label, len(v), sum(1 for c in v if c['_group'] == 'unsolved'), fit(intro, 110))
+                         for slug, label, _h, _t, intro, v in th), key=lambda x: -x[2])
+    sib_th = [(s, l, n) for s, l, n, _, _ in th_entries]
+    for slug, label, heading, tags, intro, v in th:
+        uns = sum(1 for c in v if c['_group'] == 'unsolved')
+        full = (f'{intro} {SITE} lists {plural(len(v), "case")} on this theme, of which {uns} '
+                f'{"is" if uns == 1 else "are"} recorded as unsolved.')
+        render, indexable = render_hub('themes', slug, label, v, sib_th, e(full), heading)
+        pages.write(f'themes/{slug}/index.html', render, indexable)
+    in_theme = len({c['id'] for *_rest, v in th for c in v})
+    pages.write('themes/index.html', render_hub_index('themes', th_entries, in_theme), True)
+
+    # city hubs: every city with two or more cases, indexable from five
+    groups = city_groups(cases)
+    ct_entries = sorted(((CITY_HUBS[k], f'{k[0]}, {viz.STATE_ABBR.get(k[1], k[1])}', len(v),
+                          sum(1 for c in v if c['_group'] == 'unsolved'), '') for k, v in groups.items()),
+                        key=lambda x: (-x[2], x[1]))
+    sib_ct = [(s, l, n) for s, l, n, _, _ in ct_entries if n >= 5]
+    for k, v in groups.items():
+        city, region = k
+        slug = CITY_HUBS[k]
+        uns = sum(1 for c in v if c['_group'] == 'unsolved')
+        ordered = sorted(v, key=lambda c: (-(c.get('year') or 0), c['name']))
+        yrs = sorted(c['year'] for c in v if c.get('year'))
+        span = str(yrs[0]) if yrs[0] == yrs[-1] else f'{yrs[0]} to {yrs[-1]}'
+        intro = (f'{SITE} documents {plural(len(v), "case")} in {e(city)}, {e(region)}, dated {span}. '
+                 f'{uns} {"is" if uns == 1 else "are"} recorded as unsolved. The earliest is '
+                 f'<a href="../../cases/{ordered[-1]["id"]}/">{e(ordered[-1]["name"])}</a> ({ordered[-1].get("year")}) '
+                 f'and the most recent is <a href="../../cases/{ordered[0]["id"]}/">{e(ordered[0]["name"])}</a> ({ordered[0].get("year")}).')
+        links = (f'<div class="hub-links"><a href="../../states/{slugify(region)}/">All {e(region)} cases</a>'
+                 + (f'<a href="../../map/?city={slug}">Show on the map</a>' if region in US_STATES else '')
+                 + '</div>')
+        sib = sib_ct if any(s == slug for s, *_ in sib_ct) else sib_ct + [(slug, f'{city}, {viz.STATE_ABBR.get(region, region)}', len(v))]
+        render, indexable = render_hub('cities', slug, city, v, sib, intro, f'Cold Cases in {city}, {region}',
+                                       links=links, min_index=5)
+        pages.write(f'cities/{slug}/index.html', render, indexable)
+    pages.write('cities/index.html', render_hub_index('cities', ct_entries, sum(len(v) for v in groups.values())), True)
+    print(f'Wrote {len(th)} theme hubs and {len(groups)} city hubs ({len(sib_ct)} indexable)')
+
+    # hubs whose type, decade, theme or city no longer has any cases: redirect to the hub index
     hub_stubs = 0
-    for kind, live in (('types', {s for s, *_ in t_entries}), ('decades', {s for s, *_ in d_entries})):
+    for kind, live in (('types', {s for s, *_ in t_entries}), ('decades', {s for s, *_ in d_entries}),
+                       ('themes', {s for s, *_ in th_entries}), ('cities', {s for s, *_ in ct_entries})):
         hdir = os.path.join(ROOT, kind)
         for d in sorted(os.listdir(hdir)):
             if os.path.isdir(os.path.join(hdir, d)) and d not in live:
@@ -2414,6 +3110,16 @@ def main():
     pages.write('month/index.html', render_month_index(month_counts, unsolved_counts), True)
     n_feed = write_feed(log, cases)
     print(f'Wrote updates, watch, today and 12 month pages; feed.xml with {n_feed} entries')
+
+    # map and analysis
+    pages.write('map/index.html', render_map(cases, len(CITY_HUBS)), True)
+    recs, skipped = analysis.compute(cases)
+    gen_cases = [c for c in cases if c['_tags'] & THEMES[0][3]]
+    pages.write('analysis/index.html', render_analysis_index(recs, skipped), True)
+    pages.write('analysis/how-long-cold-cases-take-to-solve/index.html', render_analysis_time(recs, skipped), True)
+    pages.write('analysis/cold-case-resolution-methods/index.html',
+                render_analysis_methods(recs, skipped, gen_cases), True)
+    print(f'Analysis: {len(recs)} resolved cases classified, {len(skipped)} without a dated break')
 
     # homepage + data
     write_search_index(cases)
