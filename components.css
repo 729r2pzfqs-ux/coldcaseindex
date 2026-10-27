@@ -353,6 +353,116 @@
   .mobile-menu-btn { display: block; }
   .case-details-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ── Header search (every page except the homepage, which has the hero search) ── */
+.header-search {
+  position: relative;
+  margin-left: var(--space-2);
+}
+.header-search input {
+  width: 12rem;
+  max-width: 100%;
+  padding: var(--space-1) var(--space-3);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-size: var(--text-xs);
+  transition: border-color var(--transition-interactive), box-shadow var(--transition-interactive);
+}
+.header-search input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px oklch(from var(--color-primary) l c h / 0.15);
+  outline: none;
+}
+.header-search input::placeholder { color: var(--color-text-faint); }
+.header-search .search-results { min-width: 20rem; right: auto; }
+@media (max-width: 1000px) { .header-search input { width: 9rem; } }
+@media (max-width: 768px) {
+  .header-search { order: -1; margin: var(--space-2) 0 var(--space-3); }
+  .header-search input { width: 100%; padding: var(--space-2) var(--space-3); font-size: var(--text-sm); }
+  .header-search .search-results { min-width: 0; right: 0; }
+}
+
+/* ── Live search dropdown (hero search on the homepage, header search elsewhere) ── */
+.search-results {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  background-color: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  max-height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  z-index: 9999;
+  display: none;
+  box-shadow: var(--shadow-lg, 0 12px 40px rgba(0,0,0,0.4));
+  opacity: 1 !important;
+}
+.search-results.active { display: block; }
+.search-result-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  cursor: pointer;
+  border-bottom: 1px solid var(--color-border);
+  transition: background-color 0.15s;
+  background-color: var(--color-surface);
+  text-decoration: none;
+  color: inherit;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover, .search-result-item[aria-selected="true"] { background-color: var(--color-surface-2); }
+.search-no-results { padding: 16px; text-align: center; color: var(--color-text-muted); background-color: var(--color-surface); }
+.search-result-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background: var(--color-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  flex-shrink: 0;
+}
+.search-result-dot { width: 10px; height: 10px; border-radius: 50%; display: block; }
+.search-result-info { flex: 1; min-width: 0; }
+.search-result-name { font-weight: 600; color: var(--color-text); font-size: 14px; }
+.search-result-meta { font-size: 12px; color: var(--color-text-muted); margin-top: 2px; }
+
+
+/* ── Cite this entry ── */
+.cite-box {
+  margin-top: var(--space-6);
+  padding: var(--space-3) var(--space-4);
+  background: var(--color-surface);
+  border: 1px solid var(--color-divider);
+  border-radius: var(--radius-md);
+  font-size: var(--text-xs);
+  color: var(--color-text-muted);
+}
+.cite-box summary { cursor: pointer; font-weight: 600; color: var(--color-text); }
+.cite-box[open] summary { margin-bottom: var(--space-3); }
+.cite-note { line-height: 1.6; margin-bottom: var(--space-3); overflow-wrap: anywhere; }
+.cite-note a, .cite-item a { color: var(--color-primary); }
+.cite-list { display: grid; gap: var(--space-2); }
+.cite-item { display: grid; grid-template-columns: 5.5rem 1fr; gap: var(--space-2); align-items: start; }
+.cite-item dt { font-weight: 600; color: var(--color-text); }
+.cite-item dd { line-height: 1.6; overflow-wrap: anywhere; }
+.cite-item code { font-size: 0.92em; background: var(--color-surface-2); padding: 0 var(--space-1); border-radius: var(--radius-sm); }
+.cite-copy {
+  margin-left: var(--space-1);
+  padding: 0 var(--space-2);
+  font-size: var(--text-xs);
+  color: var(--color-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  line-height: 1.6;
+}
+.cite-copy:hover { background: var(--color-surface-2); }
+@media (max-width: 480px) { .cite-item { grid-template-columns: 1fr; gap: 0; } }
 .section {
   padding: clamp(var(--space-12), 6vw, var(--space-24)) var(--space-4);
 }

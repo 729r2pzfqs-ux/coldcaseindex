@@ -23,12 +23,10 @@
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="article:published_time" content="2026-07-09">
-<meta property="article:modified_time" content="2026-09-29">
+<meta property="article:modified_time" content="2026-10-27">
 <meta name="twitter:card" content="summary_large_image">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
+<link rel="preload" href="/fonts/IBMPlexSans-latin.woff2" as="font" type="font/woff2" crossorigin>
 
 <meta name="theme-color" content="#0d0d0f">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
@@ -52,7 +50,7 @@
  "inLanguage": "en-US",
  "articleSection": "Homicide",
  "datePublished": "2026-07-09",
- "dateModified": "2026-09-29",
+ "dateModified": "2026-10-27",
  "author": {
   "@type": "Organization",
   "name": "ColdCaseIndex",
@@ -158,6 +156,11 @@
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
       <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../about/">About</a>
+      <form class="header-search" id="siteSearchForm" role="search" action="../../" method="get" data-root="../../">
+        <label class="sr-only" for="siteSearch">Search cases</label>
+        <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
+        <div class="search-results" id="siteSearchResults" role="listbox" aria-label="Matching cases"></div>
+      </form>
     </nav>
     <div class="header-actions">
       <button class="theme-toggle" data-theme-toggle aria-label="Toggle color theme"></button>
@@ -185,7 +188,7 @@
 
       <p class="case-summary">Best friends Lauria Bible and Ashley Freeman, both 16, disappeared from the Freeman family home near Welch, Oklahoma, on the night Ashley&#x27;s parents were shot dead and the house was set on fire. Two now-deceased suspects were implicated, and a third man, Ronnie Busick, pleaded guilty in 2020 to being an accessory, but the girls&#x27; remains have never been found.</p>
 
-      <dl id="data-table-zone" class="case-details-grid">
+      <dl class="case-details-grid no-auto-ads">
         <div class="case-detail-item">
           <dt class="case-detail-label">Status</dt>
           <dd class="case-detail-value"><span class="badge badge-partial" style="font-size:11px;">Partially Solved</span></dd>
@@ -305,7 +308,17 @@
         <p class="how-to-help-note">Tips can usually be given anonymously. ColdCaseIndex does not collect tips. To report an error on this page, email <a href="mailto:info@coldcaseindex.com">info@coldcaseindex.com</a>.</p>
       </div>
 
-      <p class="case-updated">Entry last updated September 29, 2026.</p>
+      <p class="case-updated">Entry last updated October 27, 2026.</p>
+
+      <details class="cite-box" id="cite">
+        <summary>Cite this entry</summary>
+        <p class="cite-note">Permalink: <a href="https://coldcaseindex.com/cases/lauria-bible-ashley-freeman-1999/">https://coldcaseindex.com/cases/lauria-bible-ashley-freeman-1999/</a>. This entry was last updated on October 27, 2026; cite that date as the publication date. The primary sources listed above should be cited for the underlying facts.</p>
+        <dl class="cite-list">
+          <div class="cite-item"><dt>APA</dt><dd><span id="cite-apa">ColdCaseIndex. (2026, October 27). <i>Lauria Bible and Ashley Freeman</i>. https://coldcaseindex.com/cases/lauria-bible-ashley-freeman-1999/</span> <button type="button" class="cite-copy" data-copy="cite-apa">Copy</button></dd></div>
+          <div class="cite-item"><dt>MLA</dt><dd><span id="cite-mla">“Lauria Bible and Ashley Freeman.” <i>ColdCaseIndex</i>, 27 Oct. 2026, coldcaseindex.com/cases/lauria-bible-ashley-freeman-1999/.</span> <button type="button" class="cite-copy" data-copy="cite-mla">Copy</button></dd></div>
+          <div class="cite-item"><dt>Wikipedia</dt><dd><code id="cite-wiki">{{cite web |url=https://coldcaseindex.com/cases/lauria-bible-ashley-freeman-1999/ |title=Lauria Bible and Ashley Freeman |website=ColdCaseIndex |date=2026-10-27 |access-date=}}</code> <button type="button" class="cite-copy" data-copy="cite-wiki">Copy</button></dd></div>
+        </dl>
+      </details>
     </div>
   </section>
 
@@ -472,6 +485,30 @@
   if(toggle)toggle.addEventListener('click',function(){theme=theme==='dark'?'light':'dark';try{localStorage.setItem('cci-theme',theme)}catch(e){}apply(theme)});
   var btn=document.getElementById('mobileMenuBtn'),nav=document.getElementById('headerNav');
   if(btn&&nav)btn.addEventListener('click',function(){var open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',open);btn.setAttribute('aria-label',open?'Close menu':'Open menu')});
+  // header search: same index and matching as the homepage search
+  var sf=document.getElementById('siteSearchForm'),si=document.getElementById('siteSearch'),sr=document.getElementById('siteSearchResults');
+  if(sf&&si&&sr){
+    var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
+    var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
+    var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
+      var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
+    si.addEventListener('focus',loadIdx);
+    si.addEventListener('input',function(){loadIdx().then(render)});
+    si.addEventListener('keydown',function(ev){var opts=sr.querySelectorAll('[role="option"]');
+      if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){if(!opts.length)return;ev.preventDefault();act=ev.key==='ArrowDown'?(act+1)%opts.length:(act-1+opts.length)%opts.length;
+        [].forEach.call(opts,function(o,i){o.setAttribute('aria-selected',i===act?'true':'false')});si.setAttribute('aria-activedescendant',opts[act].id);opts[act].scrollIntoView({block:'nearest'})}
+      else if(ev.key==='Enter'&&act>-1&&opts[act]){ev.preventDefault();location.href=opts[act].href}
+      else if(ev.key==='Escape')close()});
+    document.addEventListener('click',function(ev){if(!sf.contains(ev.target))close()});
+  }
+  // "Copy" buttons in the citation box
+  [].forEach.call(document.querySelectorAll('[data-copy]'),function(b){b.addEventListener('click',function(){
+    var t=document.getElementById(b.getAttribute('data-copy'));if(!t||!navigator.clipboard)return;
+    navigator.clipboard.writeText(t.textContent).then(function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1500)})})});
 })();
 </script>
 

@@ -24,9 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">
+<link rel="preload" href="/fonts/IBMPlexSans-latin.woff2" as="font" type="font/woff2" crossorigin>
 
 <meta name="theme-color" content="#0d0d0f">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
@@ -2227,6 +2225,11 @@
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
       <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/" aria-current="page">By Type</a><a href="../../decades/">By Decade</a><a href="../../about/">About</a>
+      <form class="header-search" id="siteSearchForm" role="search" action="../../" method="get" data-root="../../">
+        <label class="sr-only" for="siteSearch">Search cases</label>
+        <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
+        <div class="search-results" id="siteSearchResults" role="listbox" aria-label="Matching cases"></div>
+      </form>
     </nav>
     <div class="header-actions">
       <button class="theme-toggle" data-theme-toggle aria-label="Toggle color theme"></button>
@@ -2245,7 +2248,7 @@
       <h1 class="section-heading">Homicides</h1>
       <p class="section-subtext">Killings of a single victim, from unsolved murders to cases that ended in a conviction decades later. ColdCaseIndex documents 354 cases of this type, of which 97 are recorded as unsolved.</p>
 
-      <figure class="viz"><div class="viz-title">Status of the 354 cases</div><div class="stackbar" role="img" aria-label="Unsolved: 97, Partly resolved: 9, Charges or trial pending: 12, Solved or convicted: 208, Closed without conviction: 28"><span class="v1" style="flex:97 1 0" title="Unsolved: 97"></span><span class="v2" style="flex:9 1 0" title="Partly resolved: 9"></span><span class="v3" style="flex:12 1 0" title="Charges or trial pending: 12"></span><span class="v4" style="flex:208 1 0" title="Solved or convicted: 208"></span><span class="v5" style="flex:28 1 0" title="Closed without conviction: 28"></span></div><ul class="viz-legend"><li><span class="swatch v1"></span>Unsolved <strong>97</strong> (27%)</li><li><span class="swatch v2"></span>Partly resolved <strong>9</strong> (3%)</li><li><span class="swatch v3"></span>Charges or trial pending <strong>12</strong> (3%)</li><li><span class="swatch v4"></span>Solved or convicted <strong>208</strong> (59%)</li><li><span class="swatch v5"></span>Closed without conviction <strong>28</strong> (8%)</li></ul></figure>
+      <figure class="viz"><div class="viz-title">Status of the 354 cases</div><div class="stackbar" role="img" aria-label="Unsolved: 97, Partly resolved: 9, Charges or trial pending: 11, Solved or convicted: 209, Closed without conviction: 28"><span class="v1" style="flex:97 1 0" title="Unsolved: 97"></span><span class="v2" style="flex:9 1 0" title="Partly resolved: 9"></span><span class="v3" style="flex:11 1 0" title="Charges or trial pending: 11"></span><span class="v4" style="flex:209 1 0" title="Solved or convicted: 209"></span><span class="v5" style="flex:28 1 0" title="Closed without conviction: 28"></span></div><ul class="viz-legend"><li><span class="swatch v1"></span>Unsolved <strong>97</strong> (27%)</li><li><span class="swatch v2"></span>Partly resolved <strong>9</strong> (3%)</li><li><span class="swatch v3"></span>Charges or trial pending <strong>11</strong> (3%)</li><li><span class="swatch v4"></span>Solved or convicted <strong>209</strong> (59%)</li><li><span class="swatch v5"></span>Closed without conviction <strong>28</strong> (8%)</li></ul></figure>
       <figure class="viz">
         <div class="viz-title">Homicides by decade</div>
         <div class="viz-sub">Decade of the incident or disappearance. Select a column to see every case from that decade.</div>
@@ -3653,7 +3656,7 @@
       </a>
       <a href="../../cases/faith-hedgepeth/" class="case-card">
         <div class="case-card-header">
-          <span class="badge badge-arrest">Pending Trial</span>
+          <span class="badge badge-conviction">Conviction</span>
           <span class="case-card-year">2012</span>
         </div>
         <h3 class="case-card-name">Faith Hedgepeth</h3>
@@ -6928,6 +6931,30 @@
   if(toggle)toggle.addEventListener('click',function(){theme=theme==='dark'?'light':'dark';try{localStorage.setItem('cci-theme',theme)}catch(e){}apply(theme)});
   var btn=document.getElementById('mobileMenuBtn'),nav=document.getElementById('headerNav');
   if(btn&&nav)btn.addEventListener('click',function(){var open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',open);btn.setAttribute('aria-label',open?'Close menu':'Open menu')});
+  // header search: same index and matching as the homepage search
+  var sf=document.getElementById('siteSearchForm'),si=document.getElementById('siteSearch'),sr=document.getElementById('siteSearchResults');
+  if(sf&&si&&sr){
+    var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
+    var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
+    var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
+      var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
+    si.addEventListener('focus',loadIdx);
+    si.addEventListener('input',function(){loadIdx().then(render)});
+    si.addEventListener('keydown',function(ev){var opts=sr.querySelectorAll('[role="option"]');
+      if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){if(!opts.length)return;ev.preventDefault();act=ev.key==='ArrowDown'?(act+1)%opts.length:(act-1+opts.length)%opts.length;
+        [].forEach.call(opts,function(o,i){o.setAttribute('aria-selected',i===act?'true':'false')});si.setAttribute('aria-activedescendant',opts[act].id);opts[act].scrollIntoView({block:'nearest'})}
+      else if(ev.key==='Enter'&&act>-1&&opts[act]){ev.preventDefault();location.href=opts[act].href}
+      else if(ev.key==='Escape')close()});
+    document.addEventListener('click',function(ev){if(!sf.contains(ev.target))close()});
+  }
+  // "Copy" buttons in the citation box
+  [].forEach.call(document.querySelectorAll('[data-copy]'),function(b){b.addEventListener('click',function(){
+    var t=document.getElementById(b.getAttribute('data-copy'));if(!t||!navigator.clipboard)return;
+    navigator.clipboard.writeText(t.textContent).then(function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1500)})})});
 })();
 </script>
 

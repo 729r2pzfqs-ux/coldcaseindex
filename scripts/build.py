@@ -67,10 +67,9 @@ THEME_BOOT = ("<script>try{var _t=localStorage.getItem('cci-theme');"
               "if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>")
 HEAD_SCRIPTS = '\n'.join([CONSENT, ADSENSE, GA, AHREFS, THEME_BOOT])
 
-FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">\n'
-         '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>\n'
-         '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700'
-         '&family=IBM+Plex+Serif:wght@600;700&display=swap" rel="stylesheet">')
+# Fonts are self-hosted in /fonts/ (declared in style.css). Preload the body face so text
+# does not wait on the stylesheet; the display face is only needed below the fold.
+FONTS = ('<link rel="preload" href="/fonts/IBMPlexSans-latin.woff2" as="font" type="font/woff2" crossorigin>')
 
 LOGO = '''<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
         <rect x="3" y="6" width="18" height="22" rx="2" stroke="currentColor" stroke-width="1.5"/>
@@ -93,6 +92,30 @@ SITE_JS = '''(function(){
   if(toggle)toggle.addEventListener('click',function(){theme=theme==='dark'?'light':'dark';try{localStorage.setItem('cci-theme',theme)}catch(e){}apply(theme)});
   var btn=document.getElementById('mobileMenuBtn'),nav=document.getElementById('headerNav');
   if(btn&&nav)btn.addEventListener('click',function(){var open=nav.classList.toggle('open');btn.setAttribute('aria-expanded',open);btn.setAttribute('aria-label',open?'Close menu':'Open menu')});
+  // header search: same index and matching as the homepage search
+  var sf=document.getElementById('siteSearchForm'),si=document.getElementById('siteSearch'),sr=document.getElementById('siteSearchResults');
+  if(sf&&si&&sr){
+    var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
+    var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
+    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
+    var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
+      var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
+    si.addEventListener('focus',loadIdx);
+    si.addEventListener('input',function(){loadIdx().then(render)});
+    si.addEventListener('keydown',function(ev){var opts=sr.querySelectorAll('[role="option"]');
+      if(ev.key==='ArrowDown'||ev.key==='ArrowUp'){if(!opts.length)return;ev.preventDefault();act=ev.key==='ArrowDown'?(act+1)%opts.length:(act-1+opts.length)%opts.length;
+        [].forEach.call(opts,function(o,i){o.setAttribute('aria-selected',i===act?'true':'false')});si.setAttribute('aria-activedescendant',opts[act].id);opts[act].scrollIntoView({block:'nearest'})}
+      else if(ev.key==='Enter'&&act>-1&&opts[act]){ev.preventDefault();location.href=opts[act].href}
+      else if(ev.key==='Escape')close()});
+    document.addEventListener('click',function(ev){if(!sf.contains(ev.target))close()});
+  }
+  // "Copy" buttons in the citation box
+  [].forEach.call(document.querySelectorAll('[data-copy]'),function(b){b.addEventListener('click',function(){
+    var t=document.getElementById(b.getAttribute('data-copy'));if(!t||!navigator.clipboard)return;
+    navigator.clipboard.writeText(t.textContent).then(function(){b.textContent='Copied';setTimeout(function(){b.textContent='Copy'},1500)})})});
 })();'''
 
 US_STATES = set(viz.STATE_ABBR)
@@ -314,11 +337,22 @@ NAV = [('#statistics', 'Statistics'), ('states/', 'By State'), ('types/', 'By Ty
        ('decades/', 'By Decade'), ('about/', 'About')]
 
 
+def header_search(prefix):
+    """Site search for every page except the homepage, which has the hero search.
+    Submitting without JS lands on the homepage with ?q=, which its filter JS honours."""
+    return f'''<form class="header-search" id="siteSearchForm" role="search" action="{prefix}" method="get" data-root="{prefix}">
+        <label class="sr-only" for="siteSearch">Search cases</label>
+        <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
+        <div class="search-results" id="siteSearchResults" role="listbox" aria-label="Matching cases"></div>
+      </form>'''
+
+
 def header(prefix, active=None):
     links = []
     for href, label in NAV:
         cur = ' aria-current="page"' if label == active else ''
         links.append(f'<a href="{prefix}{href}"{cur}>{label}</a>')
+    search = '' if prefix == './' else header_search(prefix)
     return f'''<a class="skip-link" href="#main">Skip to content</a>
 
 <header class="site-header">
@@ -329,6 +363,7 @@ def header(prefix, active=None):
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
       {''.join(links)}
+      {search}
     </nav>
     <div class="header-actions">
       <button class="theme-toggle" data-theme-toggle aria-label="Toggle color theme"></button>
@@ -717,6 +752,31 @@ def progress_html(c):
         </figure>'''
 
 
+MLA_MONTHS = ['Jan.', 'Feb.', 'Mar.', 'Apr.', 'May', 'June', 'July', 'Aug.', 'Sept.', 'Oct.', 'Nov.', 'Dec.']
+
+
+def cite_html(c, canonical, modified):
+    """Ready-made APA, MLA and Wikipedia citations with the permalink and last-updated date."""
+    m = re.match(r'^(\d{4})-(\d{2})-(\d{2})$', modified)
+    if m and 1 <= int(m.group(2)) <= 12:
+        y, mo, d = m.group(1), int(m.group(2)), int(m.group(3))
+        apa_date = f'{y}, {viz.MONTHS[mo - 1]} {d}'
+        mla_date = f'{d} {MLA_MONTHS[mo - 1]} {y}'
+    else:
+        y, apa_date, mla_date = modified[:4], modified, modified
+    name = e(c['name'])
+    bare = canonical.replace('https://', '')
+    return f'''<details class="cite-box" id="cite">
+        <summary>Cite this entry</summary>
+        <p class="cite-note">Permalink: <a href="{canonical}">{canonical}</a>. This entry was last updated on {viz.human_date(modified)}; cite that date as the publication date. The primary sources listed above should be cited for the underlying facts.</p>
+        <dl class="cite-list">
+          <div class="cite-item"><dt>APA</dt><dd><span id="cite-apa">{SITE}. ({apa_date}). <i>{name}</i>. {canonical}</span> <button type="button" class="cite-copy" data-copy="cite-apa">Copy</button></dd></div>
+          <div class="cite-item"><dt>MLA</dt><dd><span id="cite-mla">\u201c{name}.\u201d <i>{SITE}</i>, {mla_date}, {bare}.</span> <button type="button" class="cite-copy" data-copy="cite-mla">Copy</button></dd></div>
+          <div class="cite-item"><dt>Wikipedia</dt><dd><code id="cite-wiki">{{{{cite web |url={canonical} |title={name} |website={SITE} |date={modified} |access-date=}}}}</code> <button type="button" class="cite-copy" data-copy="cite-wiki">Copy</button></dd></div>
+        </dl>
+      </details>'''
+
+
 def render_case(c, related, state_links, region_counts):
     slug = c['id']
     prefix = '../../'
@@ -869,7 +929,7 @@ def render_case(c, related, state_links, region_counts):
 
       <p class="case-summary">{e(c.get('summary') or '')}</p>
 
-      <dl id="data-table-zone" class="case-details-grid">
+      <dl class="case-details-grid no-auto-ads">
         {grid}
       </dl>
 
@@ -886,6 +946,8 @@ def render_case(c, related, state_links, region_counts):
       {help_html(c)}
 
       <p class="case-updated">Entry last updated {mod_h}.</p>
+
+      {cite_html(c, canonical, modified)}
     </div>
   </section>
 {related_html}
@@ -907,7 +969,7 @@ def region_stats_html(region, stats):
     est = (' Illinois and New York report only partial clearance data, so their figures are estimates.'
            if region in ('Illinois', 'New York') else '')
     return f'''<h2 class="sub-heading">Homicide clearance in {e(region)}, 1965 to 2024</h2>
-      <div id="data-table-zone" class="stat-row">
+      <div class="stat-row no-auto-ads">
         <div class="stat"><span class="stat-value">{row['homicides']:,}</span><span class="stat-label">Homicides reported</span></div>
         <div class="stat"><span class="stat-value">{row['unsolved']:,}</span><span class="stat-label">Not cleared</span></div>
         <div class="stat"><span class="stat-value">{row['clearancePct']}%</span><span class="stat-label">Clearance rate</span></div>
@@ -1258,7 +1320,7 @@ def home_card(c):
             f'<div class="case-card-header">{badge(c.get("status"))}'
             f'<span class="case-card-year">{e(str(c.get("year") or ""))}</span></div>'
             f'<h3 class="case-card-name">{e(c["name"])}</h3>'
-            f'<p class="case-card-summary">{e(fit(c.get("summary") or "", 230))}</p>'
+            f'<p class="case-card-summary">{e(fit(c.get("summary") or "", 120))}</p>'
             f'<div class="case-card-tags"><span class="case-tag">{e(c["_region"])}</span>'
             f'<span class="case-tag">{e(c["type"])}</span>{age}</div></a>')
 
@@ -1310,7 +1372,7 @@ def home_blocks(cases, stats, by_region):
       <div class="viz-sub">The clearance rate fell from {high['clearancePct']}% in {high['year']} to {low['clearancePct']}% in {low['year']} and has since recovered to {latest['clearancePct']}%. Hover or tap a year for its value.</div>
       {chart}
       <details class="table-view"><summary>Show as table</summary>
-        <div id="data-table-zone" class="table-wrap" tabindex="0"><table class="data-table">
+        <div class="table-wrap no-auto-ads" tabindex="0"><table class="data-table">
           <thead><tr><th scope="col">Year</th><th scope="col">Homicides</th><th scope="col">Cleared</th><th scope="col">Not cleared</th></tr></thead>
           <tbody>{year_rows}</tbody></table></div>
       </details>
@@ -1343,7 +1405,7 @@ def home_blocks(cases, stats, by_region):
       {legend}
     </figure>
 
-    <div id="data-table-zone" class="table-wrap" tabindex="0" role="region" aria-label="Homicides by state, scrollable table">
+    <div class="table-wrap no-auto-ads" tabindex="0" role="region" aria-label="Homicides by state, scrollable table">
       <table class="data-table" id="stateTable">
         <caption>*Illinois and New York report only partial clearance data; their figures are estimates. Source: Murder Accountability Project analysis of FBI data, via {src_link}.</caption>
         <thead><tr>
@@ -1376,7 +1438,7 @@ def home_blocks(cases, stats, by_region):
         'HOME_DECADES': dec_chips,
         'HOME_TYPES': type_chips,
         'HOME_STATUS': status_fig,
-        'HOME_CARDS': '\n'.join(home_card(c) for c in cases[:24]),
+        'HOME_CARDS': '\n'.join(home_card(c) for c in sorted(cases, key=lambda c: (-(c.get('year') or 0), c['name']))[:24]),
         'HOME_RECENT': '\n'.join(home_card(c) for c in list(reversed(cases[-6:]))),
         'HOME_COUNT': f'{len(cases):,}',
         'HOME_UNSOLVED_TOTAL': f'{nat["unsolved"]:,}',
@@ -1386,6 +1448,7 @@ def home_blocks(cases, stats, by_region):
 
 HOME_JS = r"""
 var CASES=[],filtered=[],PAGE=24,shown=0;
+var SORT={newest:function(a,b){return (b.year||0)-(a.year||0)||a.name.localeCompare(b.name)},oldest:function(a,b){return (a.year||0)-(b.year||0)||a.name.localeCompare(b.name)},name:function(a,b){return a.name.localeCompare(b.name)},added:function(a,b){return b._i-a._i}};
 var GROUP={'Unsolved':'unsolved','Partially Solved':'partial','Identified':'partial','Arrest Made':'arrest','Pending Trial':'arrest','Wanted':'arrest','Solved':'conviction','Conviction':'conviction','No Conviction':'neutral','Ruled Suicide':'neutral'};
 function esc(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
 function card(c){return '<a href="./cases/'+encodeURIComponent(c.id)+'/" class="case-card"><div class="case-card-header"><span class="badge badge-'+(GROUP[c.status]||'unsolved')+'">'+esc(c.status)+'</span><span class="case-card-year">'+esc(c.year||'')+'</span></div><h3 class="case-card-name">'+esc(c.name)+'</h3><p class="case-card-summary">'+esc(c.summary)+'</p><div class="case-card-tags"><span class="case-tag">'+esc(c.state)+'</span><span class="case-tag">'+esc(c.type)+'</span>'+(c.age!=null?'<span class="case-tag">Age '+esc(c.age)+'</span>':'')+'</div></a>'}
@@ -1404,22 +1467,24 @@ function apply(){
     if(d&&Math.floor((c.year||0)/10)*10!==+d)return false;if(st&&c.status!==st)return false;
     if(q&&(c.name+' '+c.state+' '+(c.city||'')+' '+c.summary+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)<0)return false;
     return true});
+  filtered.sort(SORT[$('sortOrder').value]||SORT.newest);
   shown=PAGE;draw();
 }
 function fill(id,vals,fmt){var el=$(id);vals.forEach(function(v){var o=document.createElement('option');o.value=v;o.textContent=fmt?fmt(v):v;el.appendChild(o)})}
 function uniq(a){return a.filter(function(v,i){return v!==''&&v!=null&&a.indexOf(v)===i}).sort()}
 function start(){
+  CASES.forEach(function(c,i){c._i=i});
   fill('filterType',uniq(CASES.map(function(c){return c.type})));
   fill('filterState',uniq(CASES.map(function(c){return c.state})));
   fill('filterDecade',uniq(CASES.map(function(c){return c.year?Math.floor(c.year/10)*10:null})).sort(function(a,b){return a-b}),function(v){return v+'s'});
   fill('filterStatus',uniq(CASES.map(function(c){return c.status})));
-  var p=new URLSearchParams(location.search),map={state:'filterState',type:'filterType',decade:'filterDecade',status:'filterStatus',q:'filterSearch'},hit=false;
+  var p=new URLSearchParams(location.search),map={state:'filterState',type:'filterType',decade:'filterDecade',status:'filterStatus',sort:'sortOrder',q:'filterSearch'},hit=false;
   Object.keys(map).forEach(function(k){var v=p.get(k);if(!v)return;var el=$(map[k]);if(el.tagName==='SELECT'&&![].some.call(el.options,function(o){return o.value===v}))return;el.value=v;hit=true});
-  ['filterType','filterState','filterDecade','filterStatus'].forEach(function(id){$(id).addEventListener('change',apply)});
+  ['filterType','filterState','filterDecade','filterStatus','sortOrder'].forEach(function(id){$(id).addEventListener('change',apply)});
   $('filterSearch').addEventListener('input',apply);
   $('loadMore').addEventListener('click',function(){shown+=PAGE;draw()});
   $('filtersBar').hidden=false;
-  if(hit){apply();$('cases').scrollIntoView()}else{filtered=CASES;shown=PAGE;draw()}
+  apply();if(hit)$('cases').scrollIntoView();
 }
 var loading=null;
 function load(){if(!loading)loading=fetch('./data/cases-index.json').then(function(r){return r.json()}).then(function(d){CASES=d;start()}).catch(function(){});return loading}
@@ -1494,13 +1559,14 @@ def render_home(cases, stats, by_region):
   <div class="section-inner">
     <div class="section-label">Case database</div>
     <h2 class="section-heading">Browse Cases</h2>
-    <p class="section-subtext" style="margin-bottom: var(--space-6);">Filter the {n} documented cases by type, state or country, decade and status, or browse by <a href="./states/">state</a>, <a href="./types/">type</a> or <a href="./decades/">decade</a>.</p>
+    <p class="section-subtext" style="margin-bottom: var(--space-6);">The most recent cases are listed first. Filter the {n} documented cases by type, state or country, decade and status, change the sort order, or browse by <a href="./states/">state</a>, <a href="./types/">type</a> or <a href="./decades/">decade</a>.</p>
 
     <div class="filters-bar" id="filtersBar" hidden>
       <div class="filter-group"><label for="filterType">Type</label><select class="filter-select" id="filterType"><option value="">All types</option></select></div>
       <div class="filter-group"><label for="filterState">State or country</label><select class="filter-select" id="filterState"><option value="">All</option></select></div>
       <div class="filter-group"><label for="filterDecade">Decade</label><select class="filter-select" id="filterDecade"><option value="">All decades</option></select></div>
       <div class="filter-group"><label for="filterStatus">Status</label><select class="filter-select" id="filterStatus"><option value="">All statuses</option></select></div>
+      <div class="filter-group"><label for="sortOrder">Sort</label><select class="filter-select" id="sortOrder"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="name">Name A to Z</option><option value="added">Recently added</option></select></div>
       <div class="filter-group" style="flex: 1; min-width: 180px;"><label for="filterSearch">Search</label><input class="filter-search" type="search" id="filterSearch" placeholder="Name, place or keyword"></div>
       <span class="filter-count" id="filterCount" role="status"></span>
     </div>
@@ -1647,7 +1713,7 @@ def write_css():
 def write_search_index(cases):
     rows = [{'id': c['id'], 'name': c['name'], 'type': c['type'], 'status': c.get('status'),
              'year': c.get('year'), 'state': c['_region'], 'city': c.get('city'),
-             'age': c.get('age'), 'summary': fit(c.get('summary') or '', 230)} for c in cases]
+             'age': c.get('age'), 'summary': fit(c.get('summary') or '', 120)} for c in cases]
     with open(os.path.join(ROOT, 'data', 'cases-index.json'), 'w', encoding='utf-8') as f:
         json.dump(rows, f, ensure_ascii=False, separators=(',', ':'))
     return rows

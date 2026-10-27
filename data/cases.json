@@ -19395,14 +19395,14 @@
   "id": "faith-hedgepeth",
   "name": "Faith Hedgepeth",
   "type": "Homicide",
-  "status": "Pending Trial",
+  "status": "Conviction",
   "year": 2012,
   "date": "September 7, 2012",
   "state": "North Carolina",
   "city": "Chapel Hill",
   "age": 19,
   "gender": "Female",
-  "summary": "UNC-Chapel Hill student Faith Hedgepeth, 19, was found beaten to death in her off-campus apartment on September 7, 2012. Crime-scene DNA went unmatched for nine years, and a note written on a fast-food bag was found near her body. In September 2021 police arrested Miguel Enrique Salguero-Olivares, who is charged with first-degree murder, rape, burglary and sexual offense; he has not been convicted and is presumed innocent. Jury selection in his trial began in Durham on September 28, 2026.",
+  "summary": "UNC-Chapel Hill student Faith Hedgepeth, 19, was found beaten to death in her off-campus apartment on September 7, 2012. Crime-scene DNA went unmatched for nine years, and a note written on a fast-food bag was found near her body. Miguel Enrique Salguero-Olivares, arrested in September 2021 after a forensic genetic genealogy lead, was convicted by a Durham County jury on October 23, 2026 of first-degree murder, first-degree rape, first-degree sexual offense and first-degree burglary, and was sentenced the same day to life without parole plus consecutive terms. He is appealing.",
   "lastSeen": "September 7, 2012, apartment near UNC campus, Chapel Hill, NC",
   "tags": [
    "college student",
@@ -19441,6 +19441,14 @@
    {
     "title": "Court documents reveal how suspect was linked to Faith Hedgepeth's 2012 murder - WSOC-TV",
     "url": "https://www.wsoctv.com/news/local/court-documents-reveal-how-suspect-was-linked-faith-hedgepeths-2012-murder/K6JRLS7AQBFKPPSX7V76C5TPLM/"
+   },
+   {
+    "title": "Jury finds Miguel Salguero-Olivares guilty of murdering UNC student Faith Hedgepeth; sentenced to life without parole - WRAL.com",
+    "url": "https://www.wral.com/news/local/faith-hedgepeth-trial-murder-guilty-verdict-october-2026/"
+   },
+   {
+    "title": "Miguel Salguero-Olivares found guilty of first-degree murder and rape of Faith Hedgepeth - The Daily Tar Heel",
+    "url": "https://dailytarheel.com/487785/university/faith-hedgepeth-office/breaking-miguel-salguero-olivares-found-guilty-of-first-degree-murder-and-rape-of-faith-hedgepeth/"
    }
   ],
   "narrative": [
@@ -19448,7 +19456,8 @@
    "The killing launched one of North Carolina's most closely watched unsolved investigations, involving Chapel Hill police, the State Bureau of Investigation (SBI) and, later, the FBI. Investigators said a handwritten note was found near Hedgepeth's body, scrawled on a fast-food takeout bag and containing a profane, threatening message; police released an image of the note in 2014 in hopes the handwriting would generate leads. Authorities reported that they had recovered the suspected killer's DNA early on from evidence at the scene, including the note bag, a bottle and a sexual-assault kit, but for years the genetic profile did not match anyone in law-enforcement databases.",
    "According to police, the breakthrough came through forensic genetic genealogy. Investigators said they used the DNA profile to identify distant relatives who shared genetic markers with the unknown contributor; some of those relatives were interviewed and provided DNA samples, which authorities said helped narrow the search. Police also reported that a palm print recovered from the bottle used in the attack was later matched to a suspect's left palm.",
    "On September 16, 2021 — nine years after the killing — Chapel Hill police announced the arrest of Miguel Enrique Salguero-Olivares, then 28, of Durham, North Carolina. He was taken into custody with SBI assistance and initially charged with first-degree murder; he was later also charged with first-degree rape, first-degree burglary and first-degree sexual offense. He was denied bond. Court documents released afterward described how investigators said they linked him to the crime-scene DNA and the palm print. Salguero-Olivares has been charged only; he has not been convicted, and the allegations described by investigators remain to be tested at trial.",
-   "The case has moved slowly toward trial. Prosecutors have said the file contains more than 39,000 pages of evidence and that the state expects to call roughly 30 expert witnesses. Defense filings have raised questions about the handling of physical evidence, including a blood sample collected from a bathroom door in 2012 that Chapel Hill police reportedly said they no longer possess, and have advanced a 'third-party guilt' theory pointing toward other individuals. In a January 2025 status hearing, the Durham County district attorney moved the case out of administrative homicide status and into trial preparation. On November 6, 2025, a judge set a trial date of September 28, 2026. In mid-2025 Salguero-Olivares also faced new drug charges in jail, and in June 2026 a judge denied a prosecution request to seal future pre-trial motions from public release. As of mid-2026 the case remained pending, with Salguero-Olivares awaiting trial and presumed innocent."
+   "The case has moved slowly toward trial. Prosecutors have said the file contains more than 39,000 pages of evidence and that the state expects to call roughly 30 expert witnesses. Defense filings have raised questions about the handling of physical evidence, including a blood sample collected from a bathroom door in 2012 that Chapel Hill police reportedly said they no longer possess, and have advanced a 'third-party guilt' theory pointing toward other individuals. In a January 2025 status hearing, the Durham County district attorney moved the case out of administrative homicide status and into trial preparation. On November 6, 2025, a judge set a trial date of September 28, 2026. In mid-2025 Salguero-Olivares also faced new drug charges in jail, and in June 2026 a judge denied a prosecution request to seal future pre-trial motions from public release. The case went to trial on schedule.",
+   "Jury selection began at the Durham County Courthouse on September 28, 2026, before Superior Court Judge Keith Gregory. The prosecution built its case on the DNA recovered from the scene, the palm print and the forensic genetic genealogy work that had led investigators to Salguero-Olivares; the defense called no witnesses and he did not testify. On October 23, 2026, after roughly two days of deliberation, the jury found him guilty of first-degree murder, under both the premeditation and felony-murder theories, as well as first-degree rape, first-degree sexual offense and first-degree burglary. After victim impact statements from Hedgepeth's family that afternoon, Judge Gregory sentenced him to life in prison without the possibility of parole for the murder, with consecutive sentences of 240 to 348 months for each of the two sexual offenses and 64 to 89 months for the burglary, and ordered lifetime sex offender registration. Salguero-Olivares, who maintained that the outcome was unfair, has given notice that he is appealing the convictions and sentences; the convictions stand unless an appellate court sets them aside."
   ],
   "timeline": [
    {
@@ -19489,11 +19498,15 @@
    },
    {
     "date": "2026-09-28",
-    "event": "Scheduled trial date for Salguero-Olivares, who remains charged and presumed innocent."
+    "event": "Jury selection begins at the Durham County Courthouse before Judge Keith Gregory in the trial of Miguel Salguero-Olivares on charges of first-degree murder, rape, burglary and sexual offense."
    },
    {
-    "date": "2026-09-28",
-    "event": "Jury selection begins at the Durham County Courthouse in the trial of Miguel Salguero-Olivares, who is charged with first-degree murder, rape, burglary and sexual offense and is presumed innocent."
+    "date": "2026-10-23",
+    "event": "After about two days of deliberation, the jury finds Salguero-Olivares guilty of first-degree murder (on both premeditation and felony-murder theories), first-degree rape, first-degree sexual offense and first-degree burglary. The defense called no witnesses."
+   },
+   {
+    "date": "2026-10-23",
+    "event": "Judge Gregory sentences him the same day to life without parole for the murder, 240 to 348 months each for the rape and sexual offense and 64 to 89 months for the burglary, all consecutive, with lifetime sex offender registration. He gives notice of appeal."
    }
   ],
   "enriched": true
@@ -46784,6 +46797,10 @@
    {
     "title": "Wikipedia - Disappearance of the Skelton brothers",
     "url": "https://en.wikipedia.org/wiki/Disappearance_of_the_Skelton_brothers"
+   },
+   {
+    "title": "Judge grants adjournment in John Skelton case - Yahoo News",
+    "url": "https://www.yahoo.com/news/us/articles/judge-grants-adjournment-john-skelton-150934454.html"
    }
   ],
   "narrative": [
@@ -46791,7 +46808,7 @@
    "According to Wikipedia's summary of contemporary reporting, Skelton first said he had handed the boys to an acquaintance he called Joann Taylor, whom police could not find, and later said he had given them to an unnamed organization to protect them from their mother. He also said he had tried to hang himself the day after Thanksgiving. Searches were carried out in Michigan and Ohio, led by the Michigan State Police, CBS Detroit reported.",
    "Prosecutors dropped kidnapping charges, and in June 2011 Skelton pleaded no contest to unlawful imprisonment. On September 15, 2011, Lenawee County Circuit Judge Margaret Noe sentenced him to 10 to 15 years in prison, according to WDIV ClickOnDetroit. At the hearing he repeated that he had given the boys to an organization and did not say where they were. He was later denied parole several times.",
    "In March 2025, at their mother's request, a court declared the three boys legally dead. On November 12, 2025, shortly before Skelton was due to be released at the end of his sentence, he was charged with three counts of open murder and three counts of tampering with evidence, according to CBS Detroit and WDIV. Remains found in Montana in 2017 and in Tennessee in 2026 were determined not to be the Skelton boys, CBS Detroit reported.",
-   "A preliminary examination in Lenawee County 2A District Court began on August 24, 2026, and ran for seven days. On September 3, 2026, District Judge Laura J. Schaedler ruled that prosecutors had presented enough circumstantial evidence to send the case to circuit court for trial, although the defense argued that there were no bodies or physical evidence of a crime. Skelton waived arraignment on September 16, 2026, and a further hearing was set for October 14, 2026, according to WNEM. Skelton is presumed innocent of the murder charges unless proven guilty at trial."
+   "A preliminary examination in Lenawee County 2A District Court began on August 24, 2026, and ran for seven days. On September 3, 2026, District Judge Laura J. Schaedler ruled that prosecutors had presented enough circumstantial evidence to send the case to circuit court for trial, although the defense argued that there were no bodies or physical evidence of a crime. Skelton waived arraignment on September 16, 2026, and a further hearing was set for October 14, 2026, according to WNEM. Skelton is presumed innocent of the murder charges unless proven guilty at trial. At the October 13, 2026 pretrial hearing the judge granted the defense a 30- to 60-day adjournment to obtain the preliminary examination transcripts, with the next pretrial hearing set for December 16, 2026; no trial date has been set."
   ],
   "timeline": [
    {
@@ -46829,6 +46846,10 @@
    {
     "date": "2026-09-16",
     "event": "Skelton waives arraignment; the case moves to pretrial proceedings, with a hearing set for October 14, 2026."
+   },
+   {
+    "date": "2026-10-13",
+    "event": "At a pretrial hearing the judge grants a defense request for a 30- to 60-day adjournment to obtain and review the preliminary examination transcripts; the prosecution does not object. The next pretrial hearing is set for December 16, 2026."
    }
   ],
   "enriched": true
@@ -62591,7 +62612,7 @@
   "country": "France",
   "age": null,
   "gender": "Multiple",
-  "summary": "A man stabbed six people, including four toddlers, at a lakeside playground in Annecy, France, in June 2023. All survived. The suspect, Abdalmasih Hanoun, a Syrian refugee who had been living in Sweden, was charged with attempted murder and in June 2026 was ordered to stand trial before an assize court; he has not yet been tried.",
+  "summary": "A man stabbed six people, including four toddlers, at a lakeside playground in Annecy, France, in June 2023. All survived. The suspect, Abdalmasih Hanoun, a Syrian refugee who had been living in Sweden, was charged with attempted murder and in June 2026 was ordered to stand trial before an assize court, a referral upheld on appeal in October 2026. No trial date has been set.",
   "lastSeen": "June 8, 2023, Paquier gardens, Annecy, Haute-Savoie, France",
   "tags": [
    "mass stabbing",
@@ -62605,13 +62626,17 @@
    {
     "title": "Bing search results (Le Figaro 2 June 2026; BFMTV and Le Parisien 20-21 May 2026)",
     "url": "https://www.bing.com/search?q=attaque+au+couteau+Annecy+2023+renvoi+cour+d%27assises+lefigaro"
+   },
+   {
+    "title": "Attaque au couteau à Annecy : le suspect sera bien renvoyé aux assises pour tentatives d'assassinat sur 13 personnes - France 3 Auvergne-Rhône-Alpes",
+    "url": "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/haute-savoie/annecy/attaque-au-couteau-a-annecy-le-suspect-sera-bien-renvoye-aux-assises-pour-tentatives-d-assassinat-sur-13-personnes-3429210.html"
    }
   ],
   "narrative": [
    "On June 8, 2023, a man attacked people with a knife at the Paquier gardens playground in Annecy, a lakeside town in the French Alps. He stabbed four toddlers in strollers and two adults.",
    "The children, aged between 22 and 36 months, suffered serious injuries including one who was stabbed in the chest. Bystanders, including a Catholic pilgrim named Henri, tackled the attacker.",
    "The suspect was identified as Abdalmasih H., a 31-year-old Syrian refugee who had been granted asylum in Sweden. French psychiatric experts later found his judgment was impaired but that he remains criminally responsible.",
-   "All six victims survived. The attack shocked France and was described by President Macron as 'absolute cowardice.' The attacker was charged with attempted murder."
+   "All six victims survived. The attack shocked France and was described by President Macron as 'absolute cowardice.' The attacker was charged with attempted murder. Investigating judges ordered him to stand trial before the Haute-Savoie assize court in June 2026, and on October 6, 2026, the investigation chamber of the Chambéry Court of Appeal upheld that referral, finding that his judgment had not been abolished at the time of the attack. A further appeal to the Cour de cassation remains possible, and no trial date has been set."
   ],
   "timeline": [
    {
@@ -62621,6 +62646,10 @@
    {
     "date": "2026-06-02",
     "event": "Investigating judges order the suspect to stand trial before the assize court for attempted murders."
+   },
+   {
+    "date": "2026-10-06",
+    "event": "The investigation chamber of the Chambéry Court of Appeal upholds the referral of the suspect to the Haute-Savoie assize court on 13 counts of attempted murder, armed violence and armed rebellion, finding his judgment was not abolished at the time of the attack. A further appeal to the Cour de cassation is possible, and the trial must be held within a year of the referral becoming final."
    }
   ],
   "enriched": true
@@ -64375,6 +64404,10 @@
    {
     "title": "Google News feed - Richard Glossip trial (KOCO, CNN, NBC News, The Oklahoman headlines)",
     "url": "https://news.google.com/rss/search?q=Richard+Glossip+trial"
+   },
+   {
+    "title": "Oklahoma judge rejects Glossip's bid to delay murder retrial for DNA testing - Hoodline",
+    "url": "https://hoodline.com/2026/10/oklahoma-judge-rejects-glossip-s-bid-to-delay-murder-retrial-for-dna-testing/"
    }
   ],
   "narrative": [
@@ -64383,7 +64416,7 @@
    "According to SCOTUSblog, Glossip returned to state court in 2023 after the state disclosed files indicating that prosecutors had known Sneed was prescribed lithium for bipolar disorder after his arrest and had allowed him to testify falsely about it. Two independent reports had questioned the conviction, and Oklahoma Attorney General Gentner Drummond supported Glossip's request to set it aside. The Oklahoma Court of Criminal Appeals refused, and the state parole board denied clemency.",
    "On February 25, 2025, the U.S. Supreme Court reversed the state court and ordered a new trial. In an opinion by Justice Sonia Sotomayor, the court held that prosecutors had violated their duty under Napue v. Illinois to correct testimony they knew to be false, and that because Sneed's testimony was the only direct evidence of Glossip's guilt, the error could have affected the verdict, SCOTUSblog reported. The ruling did not decide whether Glossip is guilty or innocent.",
    "In June 2025 Drummond announced that the state would try Glossip again for first-degree murder, The Intercept reported; News 9 reported that the state is not seeking the death penalty. District Judge Heather Coyle denied bond in July 2025 and later left the case. Glossip's lawyers argued that a 2023 email exchange with the attorney general amounted to a binding plea agreement, under which he would have pleaded guilty to accessory after the fact and been released; the state denied that any deal was reached, and on April 10, 2026, District Judge Natalie Mai declined to enforce it, according to News 9.",
-   "On May 14, 2026, Judge Mai set bond at $500,000, with electronic monitoring, a nightly curfew and a ban on leaving the state, and Glossip, then 63, left the Oklahoma County jail that afternoon, The Intercept reported. His trial was first set for September 2026. News 9 reported on July 28, 2026, that it had been moved, with jury selection scheduled for December 9, 2026, and the trial expected to last about three weeks."
+   "On May 14, 2026, Judge Mai set bond at $500,000, with electronic monitoring, a nightly curfew and a ban on leaving the state, and Glossip, then 63, left the Oklahoma County jail that afternoon, The Intercept reported. His trial was first set for September 2026. News 9 reported on July 28, 2026, that it had been moved, with jury selection scheduled for December 9, 2026, and the trial expected to last about three weeks. On October 27, 2026, Judge Mai denied a defense request to push the trial to April 2027 for additional DNA testing, keeping the December date."
   ],
   "timeline": [
    {
@@ -64429,6 +64462,10 @@
    {
     "date": "2026-07-28",
     "event": "News 9 reports that the retrial has been moved from September to December 2026, with jury selection set for December 9."
+   },
+   {
+    "date": "2026-10-27",
+    "event": "Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City."
    }
   ],
   "enriched": true

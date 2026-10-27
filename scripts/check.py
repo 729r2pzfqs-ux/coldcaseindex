@@ -75,9 +75,14 @@ def main():
         for tag in ('juhaporraskorpi', '/Users/'):
             if tag in s:
                 errors.append(f'{path}: contains "{tag}"')
+        if 'fonts.googleapis.com' in head or 'fonts.gstatic.com' in head:
+            errors.append(f'{path}: loads fonts from Google instead of /fonts/')
         # internal links
         base_dir = os.path.dirname(path)
         markup = re.sub(r'<script\b.*?</script>', '', s, flags=re.S)
+        dup_ids = [i for i, n in Counter(re.findall(r'\sid="([^"]+)"', markup)).items() if n > 1]
+        if dup_ids:
+            errors.append(f'{path}: duplicate id {dup_ids[:3]}')
         for href in set(re.findall(r'<a[^>]+href="([^"#?]+)[^"]*"', markup)):
             if re.match(r'^(https?:|mailto:|tel:|//)', href):
                 if href.startswith(BASE):
