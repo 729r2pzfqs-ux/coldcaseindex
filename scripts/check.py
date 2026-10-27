@@ -8,6 +8,7 @@ import json
 import os
 import re
 import sys
+import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -155,6 +156,59 @@ def main():
         p = f'cases/{d}/index.html'
         if not info.get(p, {}).get('stub'):
             errors.append(f'orphan case page: {p}')
+
+    # freshness pages, feed and change tracking
+    months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
+              'september', 'october', 'november', 'december']
+    for p in (['updates/index.html', 'watch/index.html', 'today/index.html', 'month/index.html']
+              + [f'month/{m}/index.html' for m in months]):
+        if p not in info:
+            errors.append(f'missing page {p}')
+        elif info[p]['noindex'] or info[p]['stub']:
+            errors.append(f'{p}: should be indexable')
+    feed_path = os.path.join(ROOT, 'feed.xml')
+    if not os.path.exists(feed_path):
+        errors.append('feed.xml missing')
+    else:
+        try:
+            root = ET.parse(feed_path).getroot()
+            ns = {'a': 'http://www.w3.org/2005/Atom'}
+            entries = root.findall('a:entry', ns)
+            if not entries:
+                errors.append('feed.xml: no entries')
+            feed_ids = []
+            for en in entries:
+                feed_ids.append(en.findtext('a:id', '', ns))
+                href = en.find('a:link', ns).get('href', '')
+                rel = href.replace(BASE, '').lstrip('/')
+                if not os.path.exists(os.path.join(ROOT, rel, 'index.html')):
+                    errors.append(f'feed.xml: link target missing {href}')
+                for tag in ('title', 'updated', 'content'):
+                    if not en.findtext(f'a:{tag}', '', ns):
+                        errors.append(f'feed.xml: entry without {tag}')
+            if len(feed_ids) != len(set(feed_ids)):
+                errors.append('feed.xml: duplicate entry ids')
+        except ET.ParseError as ex:
+            errors.append(f'feed.xml: not well-formed ({ex})')
+    state_path = os.path.join(ROOT, 'data', 'case-state.json')
+    log_path = os.path.join(ROOT, 'data', 'changelog.json')
+    if not os.path.exists(state_path) or not os.path.exists(log_path):
+        errors.append('data/case-state.json or data/changelog.json missing: run scripts/build.py '
+                      '(or scripts/seed_changelog.py to rebuild them from git history)')
+    else:
+        with open(state_path, encoding='utf-8') as f:
+            if set(json.load(f)) != set(ids):
+                errors.append('data/case-state.json does not match cases.json: run scripts/build.py')
+        with open(log_path, encoding='utf-8') as f:
+            log = json.load(f)
+        allowed_kinds = {'added', 'status', 'extended', 'revised', 'removed'}
+        for x in log:
+            if not {'date', 'id', 'kind', 'name'} <= set(x) or x['kind'] not in allowed_kinds:
+                errors.append(f'changelog.json: malformed entry {x}')
+                break
+            if not re.match(r'^\d{4}-\d{2}-\d{2}$', x['date']):
+                errors.append(f'changelog.json: bad date {x["date"]!r}')
+                break
 
     size = os.path.getsize(os.path.join(ROOT, 'index.html'))
     if size > 120_000:

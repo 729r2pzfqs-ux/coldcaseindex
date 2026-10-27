@@ -31,6 +31,7 @@ from collections import Counter, defaultdict
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import viz  # noqa: E402
+import changelog  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(ROOT, 'data', 'cases.json')
@@ -392,6 +393,9 @@ def footer(prefix):
         <a href="{prefix}states/">By state</a>
         <a href="{prefix}types/">By type</a>
         <a href="{prefix}decades/">By decade</a>
+        <a href="{prefix}updates/">Recent updates</a>
+        <a href="{prefix}watch/">Cases to watch</a>
+        <a href="{prefix}today/">On this day</a>
       </div>
       <div class="footer-link-group">
         <h2 class="footer-heading">Site</h2>
@@ -460,6 +464,7 @@ def page(*, title, desc, canonical, prefix, body, schema, active=None, og_type='
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="manifest" href="/manifest.json">
+<link rel="alternate" type="application/atom+xml" title="{SITE} updates" href="/feed.xml">
 
 <link rel="stylesheet" href="{prefix}site.css">{extra_head}
 {ld}
@@ -1325,7 +1330,7 @@ def home_card(c):
             f'<span class="case-tag">{e(c["type"])}</span>{age}</div></a>')
 
 
-def home_blocks(cases, stats, by_region):
+def home_blocks(cases, stats, by_region, log):
     years = stats['years']
     nat = stats['national']
     src = stats['source']
@@ -1439,7 +1444,8 @@ def home_blocks(cases, stats, by_region):
         'HOME_TYPES': type_chips,
         'HOME_STATUS': status_fig,
         'HOME_CARDS': '\n'.join(home_card(c) for c in sorted(cases, key=lambda c: (-(c.get('year') or 0), c['name']))[:24]),
-        'HOME_RECENT': '\n'.join(home_card(c) for c in list(reversed(cases[-6:]))),
+        'HOME_FRESH': fresh_strip(log, {c['id']: c for c in cases}),
+        'HOME_WATCH': str(sum(1 for c in cases if c.get('status') in WATCH_STATUSES)),
         'HOME_COUNT': f'{len(cases):,}',
         'HOME_UNSOLVED_TOTAL': f'{nat["unsolved"]:,}',
         'HOME_CLEARANCE': f'{latest["clearancePct"]}%',
@@ -1511,8 +1517,8 @@ document.addEventListener('keydown',function(ev){if(ev.key==='Escape')box.classL
 """
 
 
-def render_home(cases, stats, by_region):
-    b = home_blocks(cases, stats, by_region)
+def render_home(cases, stats, by_region, log):
+    b = home_blocks(cases, stats, by_region, log)
     n = len(cases)
     nat = stats['national']
     latest = stats['years'][-1]
@@ -1543,6 +1549,21 @@ def render_home(cases, stats, by_region):
       <div class="hero-stat"><span class="hero-stat-value">50 states + DC</span><span class="hero-stat-label">and {countries} other countries</span></div>
       <div class="hero-stat"><span class="hero-stat-value">{min(years)} to {max(years)}</span><span class="hero-stat-label">Years covered</span></div>
     </div>
+  </div>
+</section>
+
+<section class="fresh" aria-labelledby="freshTitle">
+  <div class="fresh-box">
+    <div class="fresh-head">
+      <h2 class="fresh-title" id="freshTitle">Recently updated</h2>
+      <nav class="fresh-links" aria-label="Updates and anniversaries">
+        <a href="./updates/">All updates</a>
+        <a href="./watch/">Cases to watch</a>
+        <a href="./today/">On this day</a>
+        <a href="./feed.xml">Atom feed</a>
+      </nav>
+    </div>
+    <ul class="fresh-list">{b['HOME_FRESH']}</ul>
   </div>
 </section>
 
@@ -1594,10 +1615,8 @@ def render_home(cases, stats, by_region):
     <h3 class="browse-subheading">By type</h3>
     <div class="browse-chips">{b['HOME_TYPES']}</div>
 
-    <h3 class="browse-subheading">Recently added</h3>
-    <div class="cases-grid">
-{b['HOME_RECENT']}
-    </div>
+    <h3 class="browse-subheading">Keep up to date</h3>
+    <div class="browse-chips"><a class="browse-chip" href="./updates/">Recent changes</a><a class="browse-chip" href="./watch/">Cases to watch<strong>{b['HOME_WATCH']}</strong></a><a class="browse-chip" href="./today/">On this day</a><a class="browse-chip" href="./month/">Anniversaries by month</a><a class="browse-chip" href="./feed.xml">Atom feed</a></div>
   </div>
 </section>
 
@@ -1695,6 +1714,473 @@ def render_static(cases, stats):
 
 
 
+# ─────────────────────────── freshness: updates, watch list, anniversaries ───────────────────────────
+
+CHANGELOG_FILE = os.path.join(ROOT, 'data', 'changelog.json')
+CASE_STATE_FILE = os.path.join(ROOT, 'data', 'case-state.json')
+WATCH_STATUSES = ('Pending Trial', 'Arrest Made', 'Wanted')
+KIND_LABEL = {'added': 'New case', 'status': 'Status change', 'extended': 'Timeline',
+              'revised': 'Revised', 'removed': 'Removed'}
+MONTHS = changelog.MONTHS
+
+
+def short_date(iso):
+    """'2026-10-27' -> 'Oct 27, 2026'."""
+    y, m, d = iso.split('-')
+    return f'{MONTHS[int(m) - 1][:3]} {int(d)}, {y}'
+
+
+def count_label(kind, n):
+    return {'added': plural(n, 'case added', 'cases added'),
+            'status': plural(n, 'status change'),
+            'extended': plural(n, 'timeline extended', 'timelines extended'),
+            'revised': plural(n, 'entry revised', 'entries revised'),
+            'removed': plural(n, 'entry removed', 'entries removed')}[kind]
+
+
+def change_text(x, by_id, limit=150):
+    """One line saying what changed, as HTML."""
+    c = by_id.get(x['id'])
+    kind = x['kind']
+    if kind == 'added':
+        return e(fit(c.get('summary') or '', limit)) if c else ''
+    if kind == 'status':
+        return (f'{e(x["from"])}<span class="change-arrow" aria-hidden="true">→</span>'
+                f'<span class="sr-only"> to </span>{e(x["to"])}')
+    if kind == 'extended':
+        n = x.get('count', 1)
+        when = changelog.human(changelog.parse_date(x.get('when'))) or x.get('when') or ''
+        lead = f'{plural(n, "new event")}, latest ' if n > 1 else ''
+        return e(f'{lead}{when}: {fit(x.get("event") or "", limit)}')
+    if kind == 'revised':
+        return e('Revised: ' + ', '.join(x.get('fields') or []))
+    return ''
+
+
+def case_link(x, by_id, prefix):
+    if x['id'] in by_id:
+        return f'<a href="{prefix}cases/{e(x["id"])}/">{e(x["name"])}</a>'
+    return e(x['name'])
+
+
+def change_item(x, by_id, prefix):
+    c = by_id.get(x['id'])
+    meta = (f' <span class="change-meta">{e(str(c.get("year") or ""))}, {e(c["_region"])}</span>'
+            if c else '')
+    text = change_text(x, by_id)
+    text = f'<div class="change-text">{text}</div>' if text else ''
+    return (f'<li class="change change-{x["kind"]}"><span class="change-kind">{KIND_LABEL[x["kind"]]}</span>'
+            f'<div><div class="change-head">{case_link(x, by_id, prefix)}{meta}</div>{text}</div></li>')
+
+
+def render_updates(cases, log):
+    prefix = '../'
+    url = f'{BASE_URL}/updates/'
+    by_id = {c['id']: c for c in cases}
+    by_date = defaultdict(list)
+    for x in log:
+        by_date[x['date']].append(x)
+    dates = sorted(by_date, reverse=True)
+    cutoff = (TODAY - datetime.timedelta(days=90)).isoformat()
+    shown = [d for i, d in enumerate(dates) if d >= cutoff or i < 3]
+    limit, names_limit = 25, 100
+    sections, totals = [], Counter()
+    for d in shown:
+        kinds = defaultdict(list)
+        for x in by_date[d]:
+            kinds[x['kind']].append(x)
+        counts, parts = [], []
+        for kind in changelog.KINDS:
+            items = kinds.get(kind)
+            if not items:
+                continue
+            totals[kind] += len(items)
+            counts.append(count_label(kind, len(items)))
+            if kind in ('revised', 'removed'):
+                names = ', '.join(case_link(x, by_id, prefix) for x in items[:names_limit])
+                if len(items) > names_limit:
+                    names += f' and {len(items) - names_limit} more'
+                what = ('re-checked against their sources and revised' if kind == 'revised'
+                        else 'removed from the index, as duplicates of another entry or as out of scope')
+                parts.append(f'<details class="change-fold"><summary>{count_label(kind, len(items))}: '
+                             f'show which</summary><p class="change-names">{plural(len(items), "entry", "entries")} '
+                             f'{what}: {names}.</p></details>')
+            else:
+                lis = ''.join(change_item(x, by_id, prefix) for x in items[:limit])
+                more = ''
+                if len(items) > limit:
+                    rest = ', '.join(case_link(x, by_id, prefix) for x in items[limit:names_limit])
+                    if len(items) > names_limit:
+                        rest += f' and {len(items) - names_limit} more'
+                    more = f'<li class="change-more">And {len(items) - limit} more that day: {rest}.</li>'
+                parts.append(f'<ul class="change-list">{lis}{more}</ul>')
+        sections.append(f'''<section class="change-day" aria-labelledby="d-{d}">
+        <h2 class="sub-heading" id="d-{d}">{changelog.human(changelog.parse_date(d))}</h2>
+        <p class="change-summary">{", ".join(counts)}.</p>
+        {''.join(parts)}
+      </section>''')
+    title = 'Case Updates: Recent Changes to the Index'
+    desc = fit(f'What changed on {SITE} in the last three months: {totals["added"]} cases added, '
+               f'{totals["status"]} status changes and {totals["extended"]} timelines extended, '
+               f'listed by day. Also available as an Atom feed.', 158)
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Updates', None)], prefix)}
+      <h1 class="section-heading">Recent Changes to the Index</h1>
+      <p class="section-subtext">Every build compares each case with its previous version and records what changed: cases added or removed, status changes, timelines that gained events, and entries revised after a check against their sources. Wording fixes and site-wide template changes are not listed. A status changes only when a cited source reports the development, and people who have not been convicted remain presumed innocent.</p>
+      <p class="section-subtext" style="margin-top:var(--space-3)">Follow the <a href="{prefix}feed.xml">Atom feed</a> for new cases, status changes and timeline updates. See also <a href="{prefix}watch/">cases to watch</a>, whose status is expected to change, and <a href="{prefix}today/">on this day</a>.</p>
+      {''.join(sections)}
+      <p class="section-subtext" style="margin-top:var(--space-8)">This page shows the most recent changes. The full record since launch is published as <a href="{prefix}data/changelog.json">changelog.json</a>.</p>
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Updates', url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Recent changes to the index",
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"}},
+    ]
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body, schema=schema)
+
+
+def write_feed(log, cases):
+    """Atom feed of the latest additions, status changes and timeline updates."""
+    by_id = {c['id']: c for c in cases}
+    items = [x for x in reversed(log) if x['kind'] in changelog.FEED_KINDS and x['id'] in by_id][:50]
+
+    def stamp(d):
+        return f'{d}T00:00:00Z'
+    entries = []
+    for x in items:
+        c = by_id[x['id']]
+        link = f'{BASE_URL}/cases/{x["id"]}/'
+        summary = f'<p>{e(fit(c.get("summary") or "", 300))}</p>'
+        if x['kind'] == 'added':
+            title = f'New case: {x["name"]} ({c.get("year")}, {c["_region"]})'
+            body = summary
+        elif x['kind'] == 'status':
+            title = f'Status change: {x["name"]}, {x["from"]} to {x["to"]}'
+            body = (f'<p>Status changed from {e(x["from"])} to {e(x["to"])}. '
+                    f'{e(STATUS_EXPLAIN.get(x["to"], ""))}</p>{summary}')
+        else:
+            title = f'Timeline updated: {x["name"]}'
+            body = f'<p>{change_text(x, by_id, 300)}</p>{summary}'
+        entries.append(f'''  <entry>
+    <title>{e(title)}</title>
+    <link rel="alternate" type="text/html" href="{link}"/>
+    <id>tag:coldcaseindex.com,{x['date']}:{x['id']}/{x['kind']}</id>
+    <published>{stamp(x['date'])}</published>
+    <updated>{stamp(x['date'])}</updated>
+    <category term="{x['kind']}"/>
+    <content type="html">{e(body)}</content>
+  </entry>''')
+    updated = stamp(items[0]['date']) if items else stamp(TODAY.isoformat())
+    xml = f'''<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{SITE} updates</title>
+  <subtitle>New cases, status changes and timeline updates in the cold case index</subtitle>
+  <link rel="self" type="application/atom+xml" href="{BASE_URL}/feed.xml"/>
+  <link rel="alternate" type="text/html" href="{BASE_URL}/updates/"/>
+  <id>{BASE_URL}/feed.xml</id>
+  <updated>{updated}</updated>
+  <author><name>{SITE}</name><uri>{BASE_URL}/</uri></author>
+  <rights>CC BY-NC 4.0</rights>
+{chr(10).join(entries)}
+</feed>
+'''
+    with open(os.path.join(ROOT, 'feed.xml'), 'w', encoding='utf-8') as f:
+        f.write(xml)
+    return len(items)
+
+
+def render_watch(cases):
+    prefix = '../'
+    url = f'{BASE_URL}/watch/'
+    rows = []
+    for c in cases:
+        if c.get('status') not in WATCH_STATUSES:
+            continue
+        evs = case_events(c)
+        rows.append((c, evs[-1] if evs else ('', ''), changelog.next_date(evs, TODAY)))
+
+    def last_day(r):
+        return changelog.to_date(changelog.parse_date(r[1][0])) or datetime.date.min
+    upcoming = sorted((r for r in rows if r[2] and not r[2]['past']),
+                      key=lambda r: changelog.to_date(r[2]['when']))
+    passed = sorted((r for r in rows if r[2] and r[2]['past']),
+                    key=lambda r: changelog.to_date(r[2]['when']))
+    nodate = sorted((r for r in rows if not r[2]), key=lambda r: (-last_day(r).toordinal(), r[0]['name']))
+
+    def table(group, caption, empty):
+        if not group:
+            return f'<p class="section-subtext">{empty}</p>'
+        trs = []
+        for c, (ld, lt), nd in group:
+            when = changelog.human(changelog.parse_date(ld)) or ld
+            if nd:
+                nxt = f'<span class="watch-date">{e(changelog.human(nd["when"]))}</span>'
+                if nd['past']:
+                    nxt += '<span class="watch-flag">Date has passed; outcome not yet recorded</span>'
+                elif nd['source'] == 'mention':
+                    nxt += '<span class="watch-note">As given in the latest entry</span>'
+            else:
+                nxt = '<span class="watch-note">No date recorded</span>'
+            trs.append(f'''<tr>
+            <td class="watch-case"><a href="{prefix}cases/{e(c["id"])}/">{e(c["name"])}</a>
+              <span class="watch-sub">{e(c["_place"] or c["_region"])}, {e(str(c.get("year") or ""))} · {e(c["type"])}</span>
+              <span class="watch-sub">{badge(c.get("status"), small=True)}</span></td>
+            <td><span class="watch-when">{e(when)}</span>{e(fit(lt, 170))}</td>
+            <td>{nxt}</td>
+          </tr>''')
+        return f'''<div class="table-wrap no-auto-ads" tabindex="0" role="region" aria-label="{e(caption)}">
+        <table class="data-table watch-table">
+          <caption>{e(caption)}</caption>
+          <thead><tr><th scope="col">Case</th><th scope="col">Last recorded development</th><th scope="col">Next date</th></tr></thead>
+          <tbody>{''.join(trs)}</tbody>
+        </table>
+      </div>'''
+
+    by_status = Counter(c['status'] for c, _, _ in rows)
+    n = len(rows)
+    pt, w, a = by_status['Pending Trial'], by_status['Wanted'], by_status['Arrest Made']
+    title = 'Cases to Watch: Pending Trials and Wanted Suspects'
+    desc = fit(f'{n} cases whose status can still change: {pt} awaiting trial, {w} with a wanted suspect '
+               f'and {a} with an arrest made. Last recorded development and next court date for each.', 158)
+    explain = ''.join(f'<dt>{e(s)}</dt><dd>{e(STATUS_EXPLAIN[s])}</dd>' for s in WATCH_STATUSES)
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Cases to watch', None)], prefix)}
+      <h1 class="section-heading">Cases to Watch</h1>
+      <p class="section-subtext">{plural(n, 'case')} in the index with a status that is expected to change: a trial or hearing is pending, a suspect has been charged and arrested, or a charged suspect is a fugitive. Each row shows the last development recorded here and, where the entry gives one, the next scheduled date. Dates that have passed are flagged until the outcome is recorded. Changes appear in <a href="{prefix}updates/">recent updates</a> and the <a href="{prefix}feed.xml">Atom feed</a>.</p>
+      <dl class="status-dl">{explain}</dl>
+
+      <h2 class="sub-heading">Upcoming dates</h2>
+      {table(upcoming, 'Cases with a scheduled date still ahead, soonest first.', 'No upcoming dates are recorded.')}
+
+      <h2 class="sub-heading">Dates that have passed</h2>
+      {table(passed, 'The last scheduled date is in the past and the outcome has not yet been recorded here.', 'Every recorded date is still ahead.')}
+
+      <h2 class="sub-heading">No date recorded</h2>
+      {table(nodate, 'Mostly fugitive cases, where there is no court date to wait for. Most recently updated first.', 'Every case has a date.')}
+
+      <p class="section-subtext" style="margin-top:var(--space-8)">Nothing here states or implies that an accused person is guilty. A conviction is recorded only when a court has entered one; an acquittal, dismissal or overturned conviction is recorded as precisely as the sources allow.</p>
+    </div>
+  </section>
+'''
+    ordered = [r[0] for r in upcoming + passed + nodate]
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Cases to watch', url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Cases to watch",
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"},
+         "mainEntity": item_list_ld(ordered)},
+    ]
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body, schema=schema)
+
+
+def anniversary_index(cases):
+    """(month, day) -> cases whose incident began that day, and
+    (month, day) -> [(year, case, event)] for other day-precise timeline events."""
+    inc, evs = defaultdict(list), defaultdict(list)
+    for c in cases:
+        own = changelog.parse_date(c.get('date'))
+        if own and own[1] and own[2]:
+            inc[(own[1], own[2])].append(c)
+        for d, text in case_events(c):
+            q = changelog.parse_date(d)
+            if not q or not q[1] or not q[2] or q == own:
+                continue
+            day = changelog.to_date(q)
+            if not day or day > TODAY:
+                continue
+            evs[(q[1], q[2])].append((q[0], c, text))
+    for v in inc.values():
+        v.sort(key=lambda c: (c.get('year') or 0, c['name']))
+    for v in evs.values():
+        v.sort(key=lambda t: (t[0], t[1]['name']))
+    return inc, evs
+
+
+def anniv_case_row(c, prefix):
+    return (f'<li class="anniv-item"><span class="anniv-year">{e(str(c.get("year") or ""))}</span>'
+            f'<div><a href="{prefix}cases/{e(c["id"])}/">{e(c["name"])}</a>'
+            f'<span class="anniv-meta">{e(c["_place"] or c["_region"])} · {e(c["type"])}</span>'
+            f'{badge(c.get("status"), small=True)}'
+            f'<div class="anniv-text">{e(fit(c.get("summary") or "", 130))}</div></div></li>')
+
+
+def anniv_event_row(year, c, text, prefix, compact=False):
+    meta = '' if compact else f'<span class="anniv-meta">{e(c["_place"] or c["_region"])}</span>'
+    return (f'<li class="anniv-item"><span class="anniv-year">{year}</span>'
+            f'<div><a href="{prefix}cases/{e(c["id"])}/">{e(c["name"])}</a>{meta}'
+            f'<div class="anniv-text">{e(fit(text, 110 if compact else 170))}</div></div></li>')
+
+
+def render_today(inc, evs):
+    prefix = '../'
+    url = f'{BASE_URL}/today/'
+    m, d = TODAY.month, TODAY.day
+    month, label = MONTHS[m - 1], f'{MONTHS[m - 1]} {TODAY.day}'
+    today_cases, today_events = inc.get((m, d), []), evs.get((m, d), [])
+    n, k = len(today_cases), len(today_events)
+    title = f'On This Day, {label}: Cold Case Anniversaries'
+    if n:
+        desc = (f'{plural(n, "documented case")} began on {label}, and {k} dated developments in other '
+                f'cases fell on this date. Rebuilt every day from the {SITE} database.')
+    else:
+        desc = (f'No documented case in the index began on {label}, but {k} dated developments in other '
+                f'cases fell on this date. Rebuilt every day from the {SITE} database.')
+    desc = fit(desc, 158)
+    if today_cases:
+        cases_html = f'<div class="cases-grid">{"".join(case_card(c, prefix, place="region") for c in today_cases)}</div>'
+    else:
+        cases_html = (f'<p class="anniv-empty">No case in the index has an incident date of {label}. '
+                      f'Browse <a href="{prefix}month/{month.lower()}/">every {month} anniversary</a> instead.</p>')
+    events_html = (f'<ul class="anniv-list">{"".join(anniv_event_row(y, c, t, prefix) for y, c, t in today_events)}</ul>'
+                   if today_events else '<p class="section-subtext">No other dated developments fall on this date.</p>')
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Anniversaries', 'month/'), (label, None)], prefix)}
+      <h1 class="section-heading">On This Day: {label}</h1>
+      <p class="section-subtext">Cases in the index whose incident or disappearance happened on {label}, in any year, followed by other dated developments recorded on this date: arrests, verdicts, identifications and discoveries. This page is rebuilt daily. See all of <a href="{prefix}month/{month.lower()}/">{month}</a>, browse <a href="{prefix}month/">by month</a>, or follow <a href="{prefix}updates/">recent updates</a>.</p>
+
+      <h2 class="sub-heading">Cases that began on {label}</h2>
+      {cases_html}
+
+      <h2 class="sub-heading">Also on this date</h2>
+      {events_html}
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Anniversaries', f'{BASE_URL}/month/'), (label, url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": f'On this day: {label}',
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"},
+         "mainEntity": item_list_ld(today_cases)},
+    ]
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body, schema=schema)
+
+
+def render_month(month, inc, evs, month_counts):
+    prefix = '../../'
+    name = MONTHS[month - 1]
+    url = f'{BASE_URL}/month/{name.lower()}/'
+    days = sorted(d for (mo, d) in inc if mo == month)
+    month_cases = [c for d in days for c in inc[(month, d)]]
+    ev_days = sorted(d for (mo, d) in evs if mo == month)
+    n_ev = sum(len(evs[(month, d)]) for d in ev_days)
+    n = len(month_cases)
+    unsolved = sum(1 for c in month_cases if c['_group'] == 'unsolved')
+    title = f'{name} Cold Case Anniversaries: {n} Cases'
+    desc = fit(f'{plural(n, "documented case")} began in {name}, listed day by day, {unsolved} of them still '
+               f'unsolved, plus {n_ev} dated developments in other cases that month. Status, place and year for each.', 158)
+    day_html = ''.join(
+        f'<h2 class="anniv-day" id="d{d}">{name} {d}</h2><ul class="anniv-list">'
+        + ''.join(anniv_case_row(c, prefix) for c in inc[(month, d)]) + '</ul>' for d in days)
+    ev_html = ''.join(
+        f'<h3 class="anniv-day">{name} {d}</h3><ul class="anniv-list">'
+        + ''.join(anniv_event_row(y, c, t, prefix, compact=True) for y, c, t in evs[(month, d)]) + '</ul>' for d in ev_days)
+    sib = []
+    for i, mname in enumerate(MONTHS):
+        cur = ' aria-current="page"' if i + 1 == month else ''
+        sib.append(f'<a href="../{mname.lower()}/"{cur}><strong>{month_counts[i + 1]}</strong> {mname}</a>')
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Anniversaries', 'month/'), (name, None)], prefix)}
+      <h1 class="section-heading">{name} in Cold Case History</h1>
+      <p class="section-subtext">{plural(n, 'documented case')} began in {name}, listed by the day of the incident or disappearance (for a series, the first incident). {unsolved} {'is' if unsolved == 1 else 'are'} still unsolved. Further down, {n_ev} other dated developments recorded in {name}: arrests, verdicts, identifications and discoveries. For today's date, see <a href="{prefix}today/">on this day</a>.</p>
+      {day_html or '<p class="anniv-empty">No case in the index has a full incident date in this month.</p>'}
+
+      <h2 class="sub-heading">Other developments recorded in {name}</h2>
+      <details class="change-fold"><summary>Show {plural(n_ev, 'dated development')}</summary>{ev_html}</details>
+
+      <h2 class="sub-heading">Other months</h2>
+      <div class="hub-links">{''.join(sib)}</div>
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Anniversaries', f'{BASE_URL}/month/'), (name, url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": f'{name} in cold case history',
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"},
+         "mainEntity": item_list_ld(month_cases)},
+    ]
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body, schema=schema)
+
+
+def render_month_index(month_counts, unsolved_counts):
+    prefix = '../'
+    url = f'{BASE_URL}/month/'
+    total = sum(month_counts.values())
+    data = [(m[:3], month_counts[i + 1]) for i, m in enumerate(MONTHS)]
+    links = {m[:3]: f'./{m.lower()}/' for m in MONTHS}
+    chart = viz.columns(data, links=links, label='Cases by month of incident')
+    mx = max(month_counts.values()) or 1
+    cards = ''.join(f'''<a href="./{m.lower()}/" class="state-card">
+            <div class="state-card-header"><span class="state-name">{m}</span><span class="state-count-badge">{month_counts[i + 1]}</span></div>
+            <div class="state-bar-wrapper"><div class="state-bar" style="width:{month_counts[i + 1] / mx * 100:.1f}%"></div></div>
+            <div class="state-card-meta">{plural(month_counts[i + 1], 'case')}, {unsolved_counts[i + 1]} unsolved</div>
+          </a>''' for i, m in enumerate(MONTHS))
+    title = f'Cold Case Anniversaries by Month | {SITE}'
+    desc = fit(f'{total} documented cases with a known incident date, grouped by the month they began. '
+               f'Pick a month for a day-by-day list, or see which cases began on today\'s date.', 158)
+    body = f'''
+  <section class="section">
+    <div class="section-inner">
+      {breadcrumb_html([('Home', ''), ('Anniversaries', None)], prefix)}
+      <h1 class="section-heading">Cold Case Anniversaries by Month</h1>
+      <p class="section-subtext">{total} of the cases in the index have a full incident date. They are grouped here by the month in which the crime or disappearance began, with a day-by-day list for each month and the other dated developments recorded that month. <a href="{prefix}today/">On this day</a> shows the cases and developments that fall on today's date; it is rebuilt daily.</p>
+      <figure class="viz"><div class="viz-title">Cases by month of incident</div>
+        <div class="viz-sub">Select a column to open that month.</div>{chart}</figure>
+      <div class="states-grid" style="margin-top:var(--space-8)">{cards}</div>
+    </div>
+  </section>
+'''
+    schema = [
+        breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Anniversaries', url)]),
+        {"@context": "https://schema.org", "@type": "CollectionPage", "name": "Cold case anniversaries by month",
+         "description": desc, "url": url, "inLanguage": "en-US",
+         "isPartOf": {"@type": "WebSite", "name": SITE, "url": f"{BASE_URL}/"}},
+    ]
+    return lambda p, m: page(title=title, desc=desc, canonical=url, prefix=prefix, body=body, schema=schema)
+
+
+def fresh_items(log, by_id, limit=6):
+    """Newest additions, status changes and timeline updates, one per case."""
+    seen, items = set(), []
+    for x in reversed(log):
+        if x['kind'] not in changelog.FEED_KINDS or x['id'] not in by_id or x['id'] in seen:
+            continue
+        seen.add(x['id'])
+        items.append(x)
+        if len(items) == limit:
+            break
+    return items
+
+
+def fresh_strip(log, by_id):
+    lis = []
+    for x in fresh_items(log, by_id):
+        c = by_id[x['id']]
+        if x['kind'] == 'added':
+            detail = f'{e(str(c.get("year") or ""))}, {e(c["_region"])}. {e(fit(c.get("summary") or "", 90))}'
+        elif x['kind'] == 'status':
+            detail = change_text(x, by_id)
+        else:
+            detail = e(fit(x.get('event') or '', 110))
+        lis.append(f'<li class="fresh-item"><span class="fresh-kind kind-{x["kind"]}">{KIND_LABEL[x["kind"]]}</span>'
+                   f'<a href="./cases/{e(x["id"])}/">{e(x["name"])}</a>'
+                   f'<time datetime="{x["date"]}">{short_date(x["date"])}</time>'
+                   f'<span class="fresh-detail">{detail}</span></li>')
+    return ''.join(lis)
+
+
 # ─────────────────────────── outputs ───────────────────────────
 
 def write_css():
@@ -1757,7 +2243,8 @@ def main():
     with open(STATS_FILE, encoding='utf-8') as f:
         stats = json.load(f)
     pages = Pages()
-    print(f'Loaded {len(cases)} cases')
+    log = changelog.track(cases, TODAY.isoformat(), CASE_STATE_FILE, CHANGELOG_FILE)
+    print(f'Loaded {len(cases)} cases, {len(log)} changelog entries')
 
     by_region = defaultdict(list)
     for c in cases:
@@ -1913,9 +2400,24 @@ def main():
     short_stubs += 1
     print(f'Wrote {short_stubs} short-URL redirect stubs')
 
+    # updates, watch list, anniversaries, feed
+    inc, evs = anniversary_index(cases)
+    month_counts, unsolved_counts = Counter(), Counter()
+    for (mo, _d), v in inc.items():
+        month_counts[mo] += len(v)
+        unsolved_counts[mo] += sum(1 for c in v if c['_group'] == 'unsolved')
+    pages.write('updates/index.html', render_updates(cases, log), True)
+    pages.write('watch/index.html', render_watch(cases), True)
+    pages.write('today/index.html', render_today(inc, evs), True)
+    for mo in range(1, 13):
+        pages.write(f'month/{MONTHS[mo - 1].lower()}/index.html', render_month(mo, inc, evs, month_counts), True)
+    pages.write('month/index.html', render_month_index(month_counts, unsolved_counts), True)
+    n_feed = write_feed(log, cases)
+    print(f'Wrote updates, watch, today and 12 month pages; feed.xml with {n_feed} entries')
+
     # homepage + data
     write_search_index(cases)
-    pages.write('index.html', render_home(cases, stats, by_region), True)
+    pages.write('index.html', render_home(cases, stats, by_region, log), True)
     update_counts(len(cases))
 
     for path, (render, indexable) in render_static(cases, stats).items():

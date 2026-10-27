@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ColdCaseIndex updates</title>
+  <subtitle>New cases, status changes and timeline updates in the cold case index</subtitle>
+  <link rel="self" type="application/atom+xml" href="https://coldcaseindex.com/feed.xml"/>
+  <link rel="alternate" type="text/html" href="https://coldcaseindex.com/updates/"/>
+  <id>https://coldcaseindex.com/feed.xml</id>
+  <updated>2026-10-27T00:00:00Z</updated>
+  <author><name>ColdCaseIndex</name><uri>https://coldcaseindex.com/</uri></author>
+  <rights>CC BY-NC 4.0</rights>
+  <entry>
+    <title>Timeline updated: Skelton Brothers</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/skelton-brothers-2010/"/>
+    <id>tag:coldcaseindex.com,2026-10-27:skelton-brothers-2010/extended</id>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;October 13, 2026: At a pretrial hearing the judge grants a defense request for a 30- to 60-day adjournment to obtain and review the preliminary examination transcripts; the prosecution does not object. The next pretrial hearing is set for December 16, 2026.&lt;/p&gt;&lt;p&gt;Andrew (9), Alexander (7) and Tanner (5) Skelton were last seen on Thanksgiving 2010 at their father&amp;#x27;s home in Morenci, Michigan, and have never been found. John Skelton served a prison term for unlawful imprisonment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Richard Glossip (case)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/richard-glossip-oklahoma/"/>
+    <id>tag:coldcaseindex.com,2026-10-27:richard-glossip-oklahoma/extended</id>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;October 27, 2026: Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City.&lt;/p&gt;&lt;p&gt;Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S. Supreme Court vacated his conviction on February 25, 2025.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Faith Hedgepeth</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/faith-hedgepeth/"/>
+    <id>tag:coldcaseindex.com,2026-10-27:faith-hedgepeth/extended</id>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;October 23, 2026: Judge Gregory sentences him the same day to life without parole for the murder, 240 to 348 months each for the rape and sexual offense and 64 to 89 months for the burglary, all consecutive, with lifetime sex offender registration. He gives&lt;/p&gt;&lt;p&gt;UNC-Chapel Hill student Faith Hedgepeth, 19, was found beaten to death in her off-campus apartment on September 7, 2012. Crime-scene DNA went unmatched for nine years, and a note written on a fast-food bag was found near her body.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Annecy Knife Attack</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/annecy-knife-attack-2023/"/>
+    <id>tag:coldcaseindex.com,2026-10-27:annecy-knife-attack-2023/extended</id>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;October 6, 2026: The investigation chamber of the Chambéry Court of Appeal upholds the referral of the suspect to the Haute-Savoie assize court on 13 counts of attempted murder, armed violence and armed rebellion, finding his judgment was not abolished at t&lt;/p&gt;&lt;p&gt;A man stabbed six people, including four toddlers, at a lakeside playground in Annecy, France, in June 2023. All survived. The suspect, Abdalmasih Hanoun, a Syrian refugee who had been living in Sweden, was charged with attempted murder and in June 2026 was ordered to stand trial before an assize…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Status change: Faith Hedgepeth, Pending Trial to Conviction</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/faith-hedgepeth/"/>
+    <id>tag:coldcaseindex.com,2026-10-27:faith-hedgepeth/status</id>
+    <published>2026-10-27T00:00:00Z</published>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <category term="status"/>
+    <content type="html">&lt;p&gt;Status changed from Pending Trial to Conviction. At least one person was convicted in connection with the case.&lt;/p&gt;&lt;p&gt;UNC-Chapel Hill student Faith Hedgepeth, 19, was found beaten to death in her off-campus apartment on September 7, 2012. Crime-scene DNA went unmatched for nine years, and a note written on a fast-food bag was found near her body.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Theresa Corley (1978, Massachusetts)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/theresa-corley-1978/"/>
+    <id>tag:coldcaseindex.com,2026-10-17:theresa-corley-1978/added</id>
+    <published>2026-10-17T00:00:00Z</published>
+    <updated>2026-10-17T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Theresa Corley, 19, of Bellingham, Massachusetts, left the Train Stop bar in Franklin late on December 4, 1978, and was last seen walking toward home in Bellingham Center in the early hours of December 5.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Sandra Birchmore (2021, Massachusetts)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sandra-birchmore-2021/"/>
+    <id>tag:coldcaseindex.com,2026-10-17:sandra-birchmore-2021/added</id>
+    <published>2026-10-17T00:00:00Z</published>
+    <updated>2026-10-17T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Yuba County Five</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/yuba-county-five-1978/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:yuba-county-five-1978/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;June 7, 1978: Jack Huett&amp;#x27;s remains are found about two miles from the trailer.&lt;/p&gt;&lt;p&gt;Five men from the Yuba City area vanished after attending a college basketball game in Chico, California, on February 24, 1978. Their car was found days later on a remote road in Plumas National Forest.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Young Dolph</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/young-dolph-2021/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:young-dolph-2021/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;3 new events, latest May 15, 2026: Cornelius Smith pleads guilty to second-degree murder and is sentenced to 20 years.&lt;/p&gt;&lt;p&gt;Memphis rapper Young Dolph (Adolph Thornton Jr.), 36, was shot dead outside Makeda&amp;#x27;s Homemade Butter Cookies in Memphis on November 17, 2021. Justin Johnson was convicted of first-degree murder in September 2024 and sentenced to life plus 35 years.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Yorkshire Ripper (death)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/peter-sutcliffe-yorkshire-2020/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:peter-sutcliffe-yorkshire-2020/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest November 13, 2020: Sutcliffe dies of Covid-19 at University Hospital of North Durham, aged 74.&lt;/p&gt;&lt;p&gt;Peter Sutcliffe, convicted in May 1981 of murdering 13 women and attempting to murder seven more in Yorkshire and north-west England between 1975 and 1980, died on November 13, 2020 at University Hospital of North Durham after contracting Covid-19. He had been serving a whole life order.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Yingying Zhang</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/yingying-zhang-2017/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:yingying-zhang-2017/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;7 new events, latest August 7, 2019: Zhang&amp;#x27;s family makes public that her remains are believed to be in a landfill near Danville, Illinois.&lt;/p&gt;&lt;p&gt;Yingying Zhang, a 26-year-old visiting scholar from China at the University of Illinois, was abducted from a bus stop in Urbana on June 9, 2017, and killed. Brendt Christensen, a former physics graduate student, was convicted in federal court in June 2019 and sentenced to life in prison without…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Yates Children</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/andrea-yates-2001/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:andrea-yates-2001/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest April 2022: Her attorney says she continues to waive her annual commitment review and remains at Kerrville.&lt;/p&gt;&lt;p&gt;Five children of the Yates family, aged six months to seven years, were drowned by their mother, Andrea Yates, at their home in the Clear Lake area of Houston on June 20, 2001.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: XXXTentacion</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/xxxtenacion-2018/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:xxxtenacion-2018/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;7 new events, latest May 2023: Allen is sentenced to seven years in prison plus probation (per Wikipedia).&lt;/p&gt;&lt;p&gt;Rapper XXXTentacion (Jahseh Onfroy), 20, was shot and killed during a robbery outside RIVA Motorsports in Deerfield Beach, Florida, on June 18, 2018. In March 2023 a Broward County jury convicted Michael Boatwright, Dedrick Williams and Trayvon Newsome of first-degree murder and armed robbery; all…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: William Tyrrell</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/william-tyrrell-2014/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:william-tyrrell-2014/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest November 4, 2024: The inquest resumes at the Coroner&amp;#x27;s Court in Lidcombe and hears the police theory, which the foster mother denies.&lt;/p&gt;&lt;p&gt;Three-year-old William Tyrrell disappeared from his foster grandmother&amp;#x27;s home on Benaroon Drive in Kendall, New South Wales, on the morning of September 12, 2014, while wearing a Spider-Man suit.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Whitey Bulger (death)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/whitey-bulger-2018/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:whitey-bulger-2018/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;September 6, 2024: Fotios Geas sentenced to 25 years after pleading guilty to voluntary manslaughter and assault resulting in serious bodily injury; co-defendants Paul DeCologero and Sean McKinnon had already been sentenced under plea deals.&lt;/p&gt;&lt;p&gt;Notorious Boston mob boss and longtime FBI informant Whitey Bulger, 89, was beaten to death hours after arriving at USP Hazelton in West Virginia on October 30, 2018.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Wayne Nance Victims</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/wayne-nance-montana-1986/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:wayne-nance-montana-1986/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest May 10, 2021: Missoula County Sheriff&amp;#x27;s Office announces &amp;#x27;Christy Crystal Creek&amp;#x27; is Janet Lee Lucas, 23, of Spokane.&lt;/p&gt;&lt;p&gt;Wayne Nance, a Missoula furniture mover, is suspected by investigators of at least six killings in western Montana between 1974 and 1985. He was never charged: he died on September 4, 1986, after being shot by Doug Wells, whom he had attacked at home along with Wells&amp;#x27;s wife Kris.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Waneta Hoyt Children</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/vaneta-hoyt-1994/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:vaneta-hoyt-1994/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;8 new events, latest August 1998: Hoyt dies of pancreatic cancer in prison with her appeal pending; the conviction abates.&lt;/p&gt;&lt;p&gt;Five infants and toddlers born to Waneta and Tim Hoyt of Newark Valley, New York, died suddenly between 1965 and 1971, and their deaths were attributed to SIDS. In March 1994 Waneta Hoyt confessed to smothering them, then recanted.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tyre Nichols</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tyre-nichols-2023/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tyre-nichols-2023/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;9 new events, latest April 7, 2026: Sixth Circuit dismisses the defendants&amp;#x27; cross-appeals; the government&amp;#x27;s appeal of the new-trial order continues.&lt;/p&gt;&lt;p&gt;Tyre Nichols, 29, died on January 10, 2023, three days after he was beaten by Memphis police officers following a traffic stop; the medical examiner ruled his death a homicide. Former officers Desmond Mills Jr. and Emmitt Martin III pleaded guilty to federal charges.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tylee Ryan &amp; Joshua &#x27;JJ&#x27; Vallow</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tylee-ryan-jj-vallow-2019/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tylee-ryan-jj-vallow-2019/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;8 new events, latest July 25, 2025: Lori Vallow Daybell is sentenced to two additional life terms in Arizona for conspiring to murder Charles Vallow and to murder Brandon Boudreaux (convictions April 22 and June 12, 2025).&lt;/p&gt;&lt;p&gt;Sixteen-year-old Tylee Ryan and seven-year-old JJ Vallow disappeared in September 2019 and were found buried on the Idaho property of their mother&amp;#x27;s new husband, Chad Daybell, in June 2020.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tupac Shakur</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tupac-shakur/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tupac-shakur/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;August 31, 2026: After a weeks-long trial, a Clark County jury deliberates about three hours and convicts Duane &amp;quot;Keffe D&amp;quot; Davis of first-degree murder with use of a deadly weapon in the killing of Tupac Shakur; sentencing is set for October 13, 2026, and Da&lt;/p&gt;&lt;p&gt;Rapper Tupac Shakur, 25, was shot in a drive-by attack near the Las Vegas Strip on September 7, 1996, and died six days later. No one was charged for 27 years. Duane &amp;quot;Keffe D&amp;quot; Davis was indicted in September 2023, and on August 31, 2026, a Clark County jury convicted him of first-degree murder…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tsutomu Miyazaki Victims</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tsutomu-miyazaki-japan-1989/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tsutomu-miyazaki-japan-1989/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest June 17, 2008: Miyazaki is hanged at the Tokyo Detention House.&lt;/p&gt;&lt;p&gt;Between August 1988 and June 1989, four girls aged 4 to 7 were abducted and killed in Tokyo and neighbouring Saitama Prefecture. Tsutomu Miyazaki was arrested in July 1989, sentenced to death by the Tokyo District Court in 1997 and, after the Supreme Court upheld the sentence in 2006, hanged at…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Trudy Appleby</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/trudy-appleby-1996/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:trudy-appleby-1996/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;8 new events, latest November 18, 2026: Scheduled hearing on a prosecution motion to hold Fisher in contempt.&lt;/p&gt;&lt;p&gt;Eleven-year-old Trudy Appleby disappeared from Moline, Illinois on August 21, 1996, after being seen getting into an older gray vehicle with a man; her body has never been found. Jamison Fisher was indicted in Henry County in August 2025 on first-degree murder charges.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tristan Brübach</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tristan-brubach-1998/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tristan-brubach-1998/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest December 2025: Frankfurt police say tips are still being checked but no promising leads have come in recently.&lt;/p&gt;&lt;p&gt;Thirteen-year-old Tristan Brübach was killed on the afternoon of March 26, 1998 in a pedestrian tunnel along the Liederbach stream near Frankfurt-Höchst railway station, where children found his body.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Trevaline Evans</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/trevaline-evans-1990/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:trevaline-evans-1990/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest 2023: The case is re-examined in a Channel 4 documentary series.&lt;/p&gt;&lt;p&gt;Antiques dealer Trevaline Evans, 52, left her shop on Church Street in Llangollen, north Wales, on June 16, 1990, with a note on the door saying she would be back in two minutes. Her handbag stayed in the shop and her car nearby.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tiffany Valiante</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tiffany-valiante-2015/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tiffany-valiante-2015/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;July 2026: Eleven years on, the official suicide ruling stands while the family continues to dispute it.&lt;/p&gt;&lt;p&gt;Tiffany Valiante, an 18-year-old athlete from Mays Landing, New Jersey, was struck and killed by a New Jersey Transit train in Galloway Township in July 2015 after walking away from her home. The state ruled her death a suicide within days and upheld that ruling in 2018.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Texas Killing Fields Victims</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/texas-killing-fields/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:texas-killing-fields/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;September 3, 2026: A Galveston County jury having found James Dolphs Elmore Jr. guilty of manslaughter in the 1984 death of Laura Miller on September 2, he is sentenced to 20 years in prison and a $10,000 fine; evidence-tampering charges relating to Miller an&lt;/p&gt;&lt;p&gt;Since the early 1970s the bodies of more than 30 women and girls have been found along the Interstate 45 corridor between Houston and Galveston, including four found in a field off Calder Road in League City known as the Killing Fields.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Terri Lynn Hollis</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/terri-lynn-hollis-1972/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:terri-lynn-hollis-1972/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;2 new events, latest September 11, 2019: Torrance Police Chief Eve Irvine announces that Brown has been identified as the killer and that the case is solved.&lt;/p&gt;&lt;p&gt;Eleven-year-old Terri Lynn Hollis disappeared while riding her bicycle in Torrance, California on Thanksgiving Day 1972 and was found dead the next day in Ventura County. She had been sexually assaulted and strangled.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Teresa Sievers</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/teresa-sievers-2015/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:teresa-sievers-2015/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;10 new events, latest March 6, 2026: Sievers&amp;#x27; post-conviction attorneys file a motion for rehearing.&lt;/p&gt;&lt;p&gt;Dr. Teresa Sievers, 46, was beaten to death with hammers in her Bonita Springs, Florida home on June 28, 2015. Her husband, Mark Sievers, was convicted of first-degree murder in December 2019 and sentenced to death. Curtis Wayne Wright Jr.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Teekah Lewis</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/teekah-lewis-1999/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:teekah-lewis-1999/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;May 19, 2025: Acting on a tip, Tacoma police spend three days searching a home in the 3200 block of South Gunnison Street; neither Teekah nor any evidence related to the case is found.&lt;/p&gt;&lt;p&gt;Two-year-old Teekah Lewis vanished from the arcade of a Tacoma, Washington, bowling alley while her family bowled nearby in January 1999. Despite more than 700 tips and descriptions of a man and a car seen that night, no suspect has ever been identified and the case is unsolved.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tanya Jackson (&quot;Peaches&quot;)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/peaches-doe-1997/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:peaches-doe-1997/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest August 2026: Defense lawyers ask the court to dismiss the indictment, according to court filings reported by Newsday.&lt;/p&gt;&lt;p&gt;A dismembered torso found at Hempstead Lake State Park in Lakeview, New York on June 28, 1997 was identified in April 2025 as Army veteran Tanya Jackson, 26, long known as &amp;quot;Peaches.&amp;quot; Andrew Dykes, the father of her daughter Tatiana, was indicted for second-degree murder in December 2025 and…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tammy Zywicki</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tammy-zywicki-1992/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tammy-zywicki-1992/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;August 23, 2026: Illinois State Police and the FBI ask for information about a deceased woman who may have been travelling with the truck driver in 1992; she is described as a person of interest, not a suspect, and no one has been charged.&lt;/p&gt;&lt;p&gt;College student Tammy Zywicki was last seen with her disabled car on Interstate 80 in LaSalle County, Illinois. Her body was found nine days later in Missouri. Multiple witnesses saw a semi-truck near her car, but the driver was never identified.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tammy Daybell</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tammy-daybell-2019/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tammy-daybell-2019/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;9 new events, latest June 2024: Chad Daybell&amp;#x27;s lawyer files a notice of appeal to the Idaho Supreme Court.&lt;/p&gt;&lt;p&gt;Tammy Daybell died at her home in Salem, Idaho on October 19, 2019. A coroner ruled the death natural without an autopsy, but her body was exhumed that December and an autopsy found she died of asphyxiation.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Tamla Horsford</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tamla-horsford-2018/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:tamla-horsford-2018/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;July 28, 2021: GBI closes its reopened investigation with no criminal charges.&lt;/p&gt;&lt;p&gt;Tamla Horsford, a Black mother of five, was found dead at a sleepover party at a white friend&amp;#x27;s home in Cumming, Georgia. Her death was ruled accidental but her family disputes this.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Suzy Lamplugh</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzy-lamplugh-1986/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:suzy-lamplugh-1986/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;4 new events, latest July 28, 2026: On the 40th anniversary the Met makes a final appeal and says the inquiry will become inactive in a year if new leads produce nothing.&lt;/p&gt;&lt;p&gt;Estate agent Suzy Lamplugh, 25, vanished on July 28, 1986 after leaving her Fulham office to show a property on Shorrolds Road to a client recorded as &amp;#x27;Mr Kipper&amp;#x27;. She has never been found and was declared dead in 1993.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Suzanne Sevakis</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-sevakis-1990/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:suzanne-sevakis-1990/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest January 23, 2023: Floyd dies on Florida&amp;#x27;s death row, never having been charged in Suzanne Sevakis&amp;#x27;s death (date per Wikipedia).&lt;/p&gt;&lt;p&gt;Suzanne Sevakis, 20, died in April 1990 five days after an apparent hit-and-run in Oklahoma City, where she was known as Tonya Hughes. The FBI says she had been taken as a child in the mid-1970s by Franklin Delano Floyd, who raised her under false names and later married her.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Suzanne Morphew</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-morphew/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:suzanne-morphew/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;June 24, 2026: Judge Amanda Hopkins grants a defense continuance and vacates the October 13, 2026 trial date over the objection of prosecutors and Suzanne&amp;#x27;s siblings; the trial is subsequently reset for July 19, 2027.&lt;/p&gt;&lt;p&gt;Suzanne Morphew, 49, disappeared on Mother&amp;#x27;s Day, May 10, 2020, in Chaffee County, Colorado. Her husband, Barry Morphew, was charged with her murder in 2021, but the case was dismissed without prejudice in April 2022 after the prosecution was sanctioned for discovery violations.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Suzanne Bombardier</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-bombardier-1980/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:suzanne-bombardier-1980/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;4 new events, latest June 27, 2022: Bacom is sentenced to life in prison without the possibility of parole.&lt;/p&gt;&lt;p&gt;Suzanne Bombardier, 14, was abducted in June 1980 while babysitting at her sister&amp;#x27;s home in Antioch, California; a fisherman found her body in the San Joaquin River days later. She had been raped and stabbed. After a DNA match, Mitchell Lynn Bacom was arrested on December 11, 2017.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Susan Negersmith</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/susan-negersmith-1990/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:susan-negersmith-1990/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;December 2023: The New Jersey Supreme Court rules that the sexual-assault charge against Jerry Rosado is barred by the statute of limitations; no one has been charged with Susan&amp;#x27;s death.&lt;/p&gt;&lt;p&gt;Susan Negersmith, 20, of Carmel, New York, was found dead behind a Wildwood, New Jersey, restaurant on May 27, 1990. Her death was first ruled accidental and later reclassified as a homicide.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Susan Berman, Kathleen Durst &amp; Morris Black</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/robert-durst-murders/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:robert-durst-murders/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest February 25, 2022: A Los Angeles Superior Court judge vacates the Berman conviction because Durst died while his appeal was pending.&lt;/p&gt;&lt;p&gt;Writer Susan Berman, 55, was found shot in her Los Angeles home on December 24, 2000. A jury convicted real estate heir Robert Durst of her murder in 2021, but the conviction was vacated after he died in January 2022 with an appeal pending.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Summer Wells</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/summer-wells-2021/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:summer-wells-2021/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest June 15, 2026: On the fifth anniversary the TBI releases a video appeal and says the investigation remains active.&lt;/p&gt;&lt;p&gt;Five-year-old Summer Wells was reported missing on June 15, 2021 from her family&amp;#x27;s home on Ben Hill Road in the Beech Creek community of Hawkins County, Tennessee. A statewide AMBER Alert issued the next day is still active.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Steven Damman</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/steven-damman-1955/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:steven-damman-1955/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;2 new events, latest June 18, 2009: The FBI announces that DNA tests show Barnes and Steven&amp;#x27;s sister do not share a mother, ruling him out.&lt;/p&gt;&lt;p&gt;Two-year-old Steven Damman disappeared on October 31, 1955, after his mother left him and his baby sister in a stroller outside a store in East Meadow, Long Island. The stroller was found nearby with only his sister inside. Despite a search by about 2,000 people, he was never found.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Steve Branch, Michael Moore &amp; Christopher Byers</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/west-memphis-three/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:west-memphis-three/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;August 2025: A Crittenden County judge orders new DNA testing of crime-scene evidence; ligatures and hairs are sent to Bode Technology in Virginia in fall 2025, with the defense saying in June 2026 that results were expected within weeks.&lt;/p&gt;&lt;p&gt;Three eight-year-old boys were murdered in West Memphis, Arkansas, in May 1993. Three teenagers — Damien Echols, Jason Baldwin, and Jessie Misskelley Jr. — were convicted in 1994 and released in 2011 after entering Alford pleas, under which their convictions stand while they maintain their…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Stephen Port Victims</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/stephen-port-uk-2015/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:stephen-port-uk-2015/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest June 2022: The IOPC reopens its investigation into the police handling of the deaths.&lt;/p&gt;&lt;p&gt;Stephen Port killed four young men with overdoses of GHB at his flat in Barking, east London, between June 2014 and September 2015, after meeting them online. He was convicted of their murders and of rapes and other offences against further men in November 2016 and given a whole life order.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Sophie Sergie</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sophie-sergie-1993/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:sophie-sergie-1993/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest April 2025: The Alaska Court of Appeals hears oral argument in the appeal; no ruling is announced.&lt;/p&gt;&lt;p&gt;Sophie Sergie, 20, of Pitkas Point, Alaska, was found sexually assaulted, stabbed and shot in a dormitory bathroom at the University of Alaska Fairbanks on April 26, 1993. Genetic genealogy led to the February 2019 arrest of former student Steven Downs in Maine.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Sofia Silva, Kristin Lisk &amp; Kati Lisk</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/lisk-murders-1996/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:lisk-murders-1996/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;2 new events, latest August 13, 2002: Authorities announce that forensic evidence ties Evonitz to all three killings and close the cases.&lt;/p&gt;&lt;p&gt;Sofia Silva, 16, vanished from the front steps of her Spotsylvania County, Virginia home on September 9, 1996, and sisters Kristin, 15, and Kati Lisk, 12, were taken from their front yard on May 1, 1997. All three were found dead.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Sneha Anne Philip</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sneha-philip-2001/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:sneha-philip-2001/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;January 31, 2008: A New York appeals court reverses a 2006 ruling and declares Philip a victim of the September 11 attacks.&lt;/p&gt;&lt;p&gt;Dr. Sneha Anne Philip, an internist, was last seen shopping at a store near the World Trade Center on September 10, 2001. She was never seen again. Whether she died in the 9/11 attacks or disappeared separately remains unknown.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Skelton Brothers</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/skelton-brothers-2010/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:skelton-brothers-2010/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest September 16, 2026: Skelton waives arraignment; the case moves to pretrial proceedings, with a hearing set for October 14, 2026.&lt;/p&gt;&lt;p&gt;Andrew (9), Alexander (7) and Tanner (5) Skelton were last seen on Thanksgiving 2010 at their father&amp;#x27;s home in Morenci, Michigan, and have never been found. John Skelton served a prison term for unlawful imprisonment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Sherri Rasmussen</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sherri-rasmussen-1986/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:sherri-rasmussen-1986/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;5 new events, latest February 12, 2025: Parole is denied again; next eligibility is set for 2028.&lt;/p&gt;&lt;p&gt;Sherri Rasmussen, a 29-year-old nursing director at Glendale Adventist Medical Center, was beaten and shot in her Van Nuys condominium on February 24, 1986. The case was treated as a burglary and went cold.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Sherin Mathews</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sherin-mathews-2017/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:sherin-mathews-2017/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;6 new events, latest January 2021: A Texas appellate court upholds the conviction and life sentence.&lt;/p&gt;&lt;p&gt;Three-year-old Sherin Mathews, adopted from India in 2016, was reported missing from her Richardson, Texas, home on October 7, 2017; her body was found in a nearby culvert two weeks later.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: Shanquella Robinson</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/shanquella-robinson-2022/"/>
+    <id>tag:coldcaseindex.com,2026-09-29:shanquella-robinson-2022/extended</id>
+    <published>2026-09-29T00:00:00Z</published>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;8 new events, latest June 30, 2026: That defendant appeals to the North Carolina Court of Appeals.&lt;/p&gt;&lt;p&gt;Shanquella Robinson, 25, of Charlotte, North Carolina, died on October 29, 2022, at a rental villa in San José del Cabo, Mexico, during a trip with six companions. A video showed her being struck by a travel companion.&lt;/p&gt;</content>
+  </entry>
+</feed>

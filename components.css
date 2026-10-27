@@ -767,3 +767,59 @@ dl.case-details-grid dd { margin: 0; }
 .notfound-btn.secondary {border: 1px solid var(--color-border); color: var(--color-text-muted); }
 .notfound-btn.secondary:hover {color: var(--color-text); border-color: var(--color-text-faint); background: var(--color-surface); }
 .notfound-logo {width: 56px; height: 56px; margin-bottom: var(--space-6); opacity: 0.9; }
+
+/* ── Updates page (/updates/) ── */
+.change-list { list-style: none; padding: 0; margin: 0 0 var(--space-4); display: grid; gap: var(--space-2); }
+.change { display: grid; grid-template-columns: 7.5rem 1fr; gap: var(--space-3); padding: var(--space-3) var(--space-4); background: var(--color-surface-2); border: 1px solid var(--color-border); border-left-width: 3px; border-radius: var(--radius-md); font-size: var(--text-sm); }
+.change-added { border-left-color: var(--color-success); }
+.change-status { border-left-color: var(--color-primary); }
+.change-extended { border-left-color: var(--color-partial); }
+.change-kind { font-size: var(--text-xs); font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-text-muted); padding-top: 2px; }
+.change-head a { color: var(--color-text); font-weight: 600; text-decoration: none; }
+.change-head a:hover { color: var(--color-primary); }
+.change-meta { color: var(--color-text-faint); font-size: var(--text-xs); margin-left: var(--space-2); }
+.change-text { color: var(--color-text-muted); margin-top: var(--space-1); line-height: 1.6; }
+.change-arrow { color: var(--color-text-faint); margin: 0 var(--space-1); }
+.change-summary { color: var(--color-text-muted); font-size: var(--text-sm); margin-bottom: var(--space-3); }
+.change-more { color: var(--color-text-faint); font-size: var(--text-xs); padding: var(--space-1) 0; }
+.change-fold { margin: 0 0 var(--space-4); font-size: var(--text-sm); }
+.change-fold summary { cursor: pointer; color: var(--color-text-muted); }
+.change-fold summary:hover { color: var(--color-text); }
+.change-names { color: var(--color-text-muted); font-size: var(--text-xs); line-height: 1.9; margin-top: var(--space-2); }
+.change-names a { color: var(--color-text-muted); }
+.change-names a:hover { color: var(--color-text); }
+.change-day { margin-bottom: var(--space-6); }
+.change-day .sub-heading { margin-top: var(--space-8); }
+@media (max-width: 560px) { .change { grid-template-columns: 1fr; gap: var(--space-1); } }
+
+/* ── Cases to watch (/watch/) ── */
+.watch-table td, .watch-table th { vertical-align: top; }
+.watch-table td { line-height: 1.55; }
+.watch-case a { font-weight: 600; color: var(--color-text); text-decoration: none; }
+.watch-case a:hover { color: var(--color-primary); }
+.watch-sub { display: block; font-size: var(--text-xs); color: var(--color-text-faint); margin-top: 2px; }
+.watch-sub .badge { margin-top: var(--space-1); }
+.watch-date { white-space: nowrap; font-weight: 600; }
+.watch-flag { display: block; font-size: var(--text-xs); color: var(--color-error); margin-top: 2px; }
+.watch-note { display: block; font-size: var(--text-xs); color: var(--color-text-faint); margin-top: 2px; }
+.watch-when { white-space: nowrap; color: var(--color-text-faint); font-size: var(--text-xs); display: block; }
+.status-dl { display: grid; grid-template-columns: max-content 1fr; gap: var(--space-2) var(--space-4); font-size: var(--text-sm); color: var(--color-text-muted); margin: var(--space-4) 0 var(--space-6); max-width: 70ch; }
+.status-dl dt { font-weight: 600; color: var(--color-text); }
+.status-dl dd { margin: 0; }
+@media (max-width: 480px) { .status-dl { grid-template-columns: 1fr; gap: var(--space-1); } .status-dl dd { margin-bottom: var(--space-2); } }
+
+/* ── Anniversaries (/today/, /month/) ── */
+.anniv-list { list-style: none; padding: 0; margin: 0 0 var(--space-6); }
+.anniv-item { display: grid; grid-template-columns: 3.5rem 1fr; gap: var(--space-3); padding: var(--space-3) 0; border-bottom: 1px solid var(--color-divider); font-size: var(--text-sm); }
+.anniv-year { font-family: var(--font-display); font-weight: 600; color: var(--color-primary); }
+.anniv-item a { color: var(--color-text); font-weight: 600; text-decoration: none; }
+.anniv-item a:hover { color: var(--color-primary); }
+.anniv-meta { color: var(--color-text-faint); font-size: var(--text-xs); margin-left: var(--space-2); }
+.anniv-text { color: var(--color-text-muted); margin-top: 2px; line-height: 1.6; }
+.anniv-item .badge { margin-left: var(--space-2); vertical-align: middle; }
+.anniv-day { font-family: var(--font-body); font-size: var(--text-xs); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-text-muted); margin: var(--space-6) 0 var(--space-1); }
+.anniv-empty { color: var(--color-text-muted); font-size: var(--text-sm); padding: var(--space-6); background: var(--color-surface-2); border: 1px solid var(--color-border); border-radius: var(--radius-lg); max-width: 60ch; }
+.watch-table th, .watch-table td { white-space: normal; text-align: left; }
+.watch-table td:first-child { min-width: 11rem; }
+.watch-table td:nth-child(2) { min-width: 18rem; }
+.watch-table td:last-child { min-width: 9rem; }
