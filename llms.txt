@@ -16,6 +16,10 @@ People who have not been convicted are presumed innocent.
   (JSON array; id, name, type, status, year, date, state, city, country, age,
   gender, summary, lastSeen, tags, narrative, timeline, sources)
 - Compact index: https://coldcaseindex.com/data/cases-index.json
+- Serial killer profiles: https://coldcaseindex.com/data/serial-killers.json
+  (JSON array; id, name, aliases, states, activeFrom, activeTo, victims {convicted,
+  confessed, suspected}, legalStatus, sentence, fate, captureMethod, narrative,
+  timeline, cases, sources, verified)
 - Change log, one entry per case and day: https://coldcaseindex.com/data/changelog.json
 - US homicide clearance statistics, 1965 to 2024, by state and year:
   https://coldcaseindex.com/data/us-homicide-stats.json
@@ -27,6 +31,9 @@ People who have not been convicted are presumed innocent.
 - By state or country: https://coldcaseindex.com/states/
 - By type: https://coldcaseindex.com/types/
 - By decade: https://coldcaseindex.com/decades/
+- Serial killers: https://coldcaseindex.com/serial-killers/ (hub), /serial-killers/{state}/,
+  /serial-killers/{name}/ (profiles), /serial-killers/lists/, /serial-killers/timeline/,
+  /serial-killers/statistics/
 - By theme (genetic genealogy, college students, civil rights era, disputed convictions, Doe cases, body never found): https://coldcaseindex.com/themes/
 - By city (cities with several cases): https://coldcaseindex.com/cities/
 - Map of US cases by city, filterable by status, type and decade: https://coldcaseindex.com/map/

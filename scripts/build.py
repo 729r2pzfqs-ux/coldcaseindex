@@ -34,6 +34,7 @@ import viz  # noqa: E402
 import changelog  # noqa: E402
 import geo  # noqa: E402
 import analysis  # noqa: E402
+import serial_killers  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_FILE = os.path.join(ROOT, 'data', 'cases.json')
@@ -98,11 +99,11 @@ SITE_JS = '''(function(){
   if(sf&&si&&sr){
     var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
     var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
-    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var loadIdx=function(){if(!idx)idx=Promise.all([fetch(base+'data/cases-index.json').then(function(r){return r.json()}),fetch(base+'data/serial-killers-index.json').then(function(r){return r.json()}).catch(function(){return []})]).then(function(d){data=d[0].concat(d[1])}).catch(function(){});return idx};
     var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
     var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
       var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
-      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+(c.url||'cases/'+encodeURIComponent(c.id)+'/')+'" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
       act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
     si.addEventListener('focus',loadIdx);
     si.addEventListener('input',function(){loadIdx().then(render)});
@@ -389,7 +390,7 @@ class Pages:
 # ─────────────────────────── page shell ───────────────────────────
 
 NAV = [('#statistics', 'Statistics'), ('states/', 'By State'), ('types/', 'By Type'),
-       ('decades/', 'By Decade'), ('map/', 'Map'), ('analysis/', 'Analysis'), ('about/', 'About')]
+       ('serial-killers/', 'Serial Killers'), ('decades/', 'By Decade'), ('map/', 'Map'), ('analysis/', 'Analysis'), ('about/', 'About')]
 
 
 def header_search(prefix):
@@ -449,6 +450,7 @@ def footer(prefix):
         <a href="{prefix}decades/">By decade</a>
         <a href="{prefix}themes/">By theme</a>
         <a href="{prefix}cities/">By city</a>
+        <a href="{prefix}serial-killers/">Serial killers</a>
         <a href="{prefix}map/">Case map</a>
         <a href="{prefix}analysis/">Analysis</a>
         <a href="{prefix}updates/">Recent updates</a>
@@ -854,6 +856,10 @@ def render_case(c, related, state_links, region_counts):
     details = [('Status', badge(c.get('status'), small=True)),
                ('Type', f'<a href="{prefix}types/{c["_type_slug"]}/">{e(c["type"])}</a>'),
                ('Date', e(str(c.get('date') or c.get('year') or 'Unknown')))]
+    profs = serial_killers.BY_CASE.get(slug, [])
+    if profs:
+        details.append(('Offender profile', ', '.join(
+            f'<a href="{prefix}serial-killers/{p["id"]}/">{e(p["name"])}</a>' for p in profs)))
     ck = city_key(c)
     if ck in CITY_HUBS:
         loc_bits = [f'<a href="{prefix}cities/{CITY_HUBS[ck]}/">{e(ck[0])}</a>']
@@ -926,6 +932,16 @@ def render_case(c, related, state_links, region_counts):
                  f'margin-top:var(--space-5);">{tags}</div>') if tags else ''
 
     related_html = ''
+    if profs:
+        related_html += f'''
+  <section class="section" style="background: var(--color-surface);">
+    <div class="section-inner">
+      <h2 class="section-heading">Offender profile{'s' if len(profs) > 1 else ''}</h2>
+      <p class="section-subtext">The person or people linked to this case have a profile with years active, victim counts, capture method, legal outcome and sources.</p>
+      <div class="related-grid">{''.join(serial_killers.small_card(p, prefix) for p in profs)}</div>
+      <a href="{prefix}serial-killers/{serial_killers.state_slug(profs[0]['primaryState'])}/" class="all-state-link">{e(serial_killers.state_name(profs[0]['primaryState']))} &rarr;</a>
+    </div>
+  </section>'''
     if same:
         related_html += f'''
   <section class="section" style="background: var(--color-surface);">
@@ -1111,6 +1127,11 @@ def render_region(region, cases, all_regions, stats, state_links):
                            key=lambda kv: (-kv[1], kv[0])))
     cities_html = (f'<h2 class="sub-heading">By city</h2><div class="breakdown-row">{city_chips}</div>'
                    if city_chips else '')
+    n_sk = len(serial_killers.BY_STATE.get(region, []))
+    if n_sk:
+        cities_html += (f'<h2 class="sub-heading">Serial killers</h2><div class="hub-links">'
+                        f'<a href="{prefix}serial-killers/{slug}/"><strong>{n_sk}</strong> '
+                        f'{"profile" if n_sk == 1 else "profiles"}: {e(serial_killers.state_name(region))}</a></div>')
     idx = [r for r, _ in all_regions].index(region)
     prev_r = all_regions[idx - 1][0]
     next_r = all_regions[(idx + 1) % len(all_regions)][0]
@@ -2888,6 +2909,8 @@ def update_counts(n):
 
 def main():
     cases = load_cases()
+    serial_killers.init(sys.modules[__name__])
+    serial_killers.load(cases)
     with open(STATS_FILE, encoding='utf-8') as f:
         stats = json.load(f)
     pages = Pages()
@@ -2994,6 +3017,9 @@ def main():
             stubs += 1
     print(f'Wrote {len(all_regions)} region pages, {stubs} redirect stubs')
 
+    # serial killer profiles, state pages, lists, timeline, statistics and answer pages
+    print(serial_killers.write_all(pages, cases, state_links))
+
     # type hubs
     by_type = defaultdict(list)
     for c in cases:
@@ -3006,7 +3032,11 @@ def main():
         label = TYPE_PLURAL.get(t, t)
         intro = (f'{TYPE_INTRO.get(t, "")} {SITE} documents {plural(len(v), "case")} of this type, of which '
                  f'{sum(1 for c in v if c["_group"] == "unsolved")} are recorded as unsolved.').strip()
-        render, indexable = render_hub('types', slugify(label), label, v, sib_t, e(intro), label)
+        links = ''
+        if t == 'Serial Killer Victims' and serial_killers.PROFILES:
+            links = (f'<div class="hub-links"><a href="../../serial-killers/">Serial killer profiles '
+                     f'({len(serial_killers.PROFILES)})</a><a href="../../serial-killers/lists/">Serial killer lists</a></div>')
+        render, indexable = render_hub('types', slugify(label), label, v, sib_t, e(intro), label, links=links)
         pages.write(f'types/{slugify(label)}/index.html', render, indexable)
     pages.write('types/index.html', render_hub_index('types', t_entries, len(cases)), True)
 
@@ -3023,7 +3053,10 @@ def main():
         uns = sum(1 for c in v if c['_group'] == 'unsolved')
         intro = (f'{plural(len(v), "documented case")} in which the crime or disappearance took place between '
                  f'{d} and {d + 9}. {uns} {"is" if uns == 1 else "are"} recorded as unsolved.')
-        render, indexable = render_hub('decades', label, label, v, sib_d, e(intro), f'Cold Cases of the {label}')
+        links = ''
+        if any(p['_decade'] == d for p in serial_killers.PROFILES):
+            links = f'<div class="hub-links"><a href="../../serial-killers/timeline/#{label}">Serial killers of the {label}</a></div>'
+        render, indexable = render_hub('decades', label, label, v, sib_d, e(intro), f'Cold Cases of the {label}', links=links)
         pages.write(f'decades/{label}/index.html', render, indexable)
     pages.write('decades/index.html', render_hub_index('decades', d_entries, len(cases)), True)
 
@@ -3122,6 +3155,8 @@ def main():
 
     # homepage + data
     write_search_index(cases)
+    with open(os.path.join(ROOT, 'data', 'serial-killers-index.json'), 'w', encoding='utf-8') as f:
+        json.dump(serial_killers.search_rows(serial_killers.PROFILES), f, ensure_ascii=False, separators=(',', ':'))
     pages.write('index.html', render_home(cases, stats, by_region, log), True)
     update_counts(len(cases))
 

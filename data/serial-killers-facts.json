@@ -1,0 +1,281 @@
+[
+ {
+  "key": "fbi-definition-2008",
+  "claim": "The FBI's 2008 report Serial Murder: Multi-Disciplinary Perspectives for Investigators (NCAVC, edited by Robert J. Morton, 71 pages, NCJ 223848) records the definition crafted at the Bureau's 2005 symposium: 'The unlawful killing of two or more victims by the same offender(s) in separate events.'",
+  "value": "two or more victims, same offender(s), separate events",
+  "sourceTitle": "Serial Murder: Multi-Disciplinary Perspectives for Investigators (NCJ 223848), NCJRS Virtual Library abstract",
+  "sourceUrl": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/serial-murder-multi-disciplinary-perspectives-investigators",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-uses-fbi-2005-definition",
+  "claim": "The Radford University/FGCU Serial Killer Database bases its statistics on the serial killer definition derived by the FBI at its 2005 symposium in San Antonio, Texas: the unlawful killing of two or more victims by the same offender(s), in separate events.",
+  "value": "FBI 2005 symposium definition (2+ victims, separate events)",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "fbi-less-than-one-percent",
+  "claim": "According to InsideHook's 2017 report on the Murder Accountability Project, the FBI believes that less than one percent of killings each year are committed by serial killers, a view Thomas Hargrove disputes.",
+  "value": "less than 1% of annual killings (FBI view, as reported by InsideHook)",
+  "sourceTitle": "How an Algorithm Helps Detect Serial Killers (InsideHook, Rebecca Gibian, Nov 22, 2017)",
+  "sourceUrl": "https://www.insidehook.com/culture/murder-accountability-project",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "nij-former-fbi-25-to-50-active",
+  "claim": "A 2020 National Institute of Justice article notes that one former FBI investigator stated he believed that at any one time there are between 25 and 50 active serial killers in the United States.",
+  "value": "25 to 50 active at any one time (former FBI investigator, per NIJ 2020)",
+  "sourceTitle": "Serial Killer Connections Through Cold Cases (National Institute of Justice, Martin, Schwarting & Chase, June 15, 2020)",
+  "sourceUrl": "https://nij.ojp.gov/topics/articles/serial-killer-connections-through-cold-cases",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "nij-aamodt-54-operating-2010-2015",
+  "claim": "The same 2020 NIJ article reports that Mike Aamodt of Radford University calculated that 54 serial killers were operating during the years 2010 to 2015.",
+  "value": "54 serial killers operating 2010-2015 (Aamodt, per NIJ)",
+  "sourceTitle": "Serial Killer Connections Through Cold Cases (National Institute of Justice, Martin, Schwarting & Chase, June 15, 2020)",
+  "sourceUrl": "https://nij.ojp.gov/topics/articles/serial-killer-connections-through-cold-cases",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-active-per-year-1987-peak",
+  "claim": "The Radford/FGCU database's table of separate serial killers operating in a given year in the U.S. (2-or-more-victims definition, caught and identified killers only) peaks at 189 in 1987 and falls to 30 in 2015.",
+  "value": "189 active in 1987; 30 in 2015",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-yearly-average-by-decade",
+  "claim": "Radford/FGCU data show the yearly average number of separate U.S. serial killers active (2-or-more-victims definition) was 95 in the 1970s, 145 in the 1980s, 133 in the 1990s, 79 in 2000-2009 and 54 in 2010-2015.",
+  "value": "1970s 95; 1980s 145; 1990s 133; 2000s 79; 2010-15 54 (yearly average active)",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "hargrove-2000-uncaught",
+  "claim": "Thomas Hargrove, founder of the Murder Accountability Project, thinks there are probably around 2,000 serial killers at large in the U.S., according to InsideHook's November 2017 report.",
+  "value": "about 2,000 serial killers at large (Hargrove, 2017)",
+  "sourceTitle": "How an Algorithm Helps Detect Serial Killers (InsideHook, Rebecca Gibian, Nov 22, 2017)",
+  "sourceUrl": "https://www.insidehook.com/culture/murder-accountability-project",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "hargrove-1400-dna-linked-two-percent",
+  "claim": "Newsweek reported Hargrove's basis for the 2,000 estimate: per the FBI, 1,400 unsolved murders are linked to other killings through DNA, only slightly above 2 percent of murders investigated, and Hargrove says 'two per cent is a floor, not a ceiling.'",
+  "value": "1,400 DNA-linked unsolved murders, about 2% (floor)",
+  "sourceTitle": "Analyst Estimates 2,000 Serial Killers At Large in U.S. (Newsweek, Emily Gaudette)",
+  "sourceUrl": "https://www.newsweek.com/serial-killers-united-states-how-many-718232",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "insidehook-5000-uncaught-killers-per-year",
+  "claim": "InsideHook, citing The New Yorker, reported that each year about five thousand people in the U.S. kill someone and are never caught.",
+  "value": "about 5,000 uncaught killers per year",
+  "sourceTitle": "How an Algorithm Helps Detect Serial Killers (InsideHook, Rebecca Gibian, Nov 22, 2017)",
+  "sourceUrl": "https://www.insidehook.com/culture/murder-accountability-project",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-database-total-2016",
+  "claim": "As of September 4, 2016, the Radford University/FGCU Serial Killer Database contained information on 4,743 serial killers and 13,105 victims.",
+  "value": "4,743 serial killers; 13,105 victims (Sept 4, 2016)",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "both"
+ },
+ {
+  "key": "radford-us-total-and-share",
+  "claim": "The Radford/FGCU database lists 3,204 U.S. serial killers, 67.58 percent of all serial killers in the database, while the United States holds 4.35 percent of world population (ratio 15.53); England is second with 166.",
+  "value": "US 3,204 (67.58% of database); England 166",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "both"
+ },
+ {
+  "key": "radford-us-by-decade-of-first-kill",
+  "claim": "Radford/FGCU counts of U.S. serial killers by decade of first kill: 217 in the 1960s, 605 in the 1970s, 768 in the 1980s (the peak), 669 in the 1990s, 371 in the 2000s and 117 in the 2010s (through September 2016).",
+  "value": "1960s 217; 1970s 605; 1980s 768; 1990s 669; 2000s 371; 2010s 117",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-us-victims-by-year",
+  "claim": "Radford/FGCU counts of U.S. serial killer victims by year peak at 389 in 1987 and fall to 57 in 2015 and 25 in 2016 (with a caution that recent years lag because killers are identified later).",
+  "value": "389 victims in 1987; 57 in 2015",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "radford-victims-by-state-top10",
+  "claim": "Radford/FGCU serial killer victims by state (2016 report): California 1,628 (1st), Texas 893, Florida 845, Illinois 629, New York 628, Ohio 433, Pennsylvania 420, Washington 390, Michigan 381, Georgia 365; total 11,465.",
+  "value": "CA 1,628; TX 893; FL 845; IL 629; NY 628; OH 433; PA 420; WA 390; MI 381; GA 365",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "state"
+ },
+ {
+  "key": "radford-victims-by-state-vs-population",
+  "claim": "The 2016 Radford/FGCU state table compares victim rank with 2010 population rank: Washington ranks 8th in victims but 13th in population (+5), Louisiana 13th vs 25th (+12), Oklahoma 18th vs 28th (+10), the District of Columbia 21st vs 50th (+29), Alaska 39th in victims (51) vs 47th in population (+8), and New York 5th in victims vs 3rd in population.",
+  "value": "WA +5, LA +12, OK +10, DC +29, AK +8 (victim rank vs population rank)",
+  "sourceTitle": "Serial Killer Statistics (Radford University/FGCU Serial Killer Database), Aamodt, M. G., updated September 4, 2016",
+  "sourceUrl": "https://maamodt.asp.radford.edu/Serial%20Killer%20Information%20Center/Serial%20Killer%20Statistics.pdf",
+  "accessed": "2026-10-28",
+  "page": "state"
+ },
+ {
+  "key": "worldatlas-2020-report-victims-by-state",
+  "claim": "WorldAtlas, citing the Radford/FGCU 2020 report, lists serial killer victims by state: California 1,777, Texas 984, Florida 933, Illinois 680, New York 677, Ohio 505, Pennsylvania 462, Michigan 425, Georgia 409, Washington 396; Alaska ranks 37th with 64.",
+  "value": "CA 1,777; TX 984; FL 933; IL 680; NY 677; OH 505; PA 462; MI 425; GA 409; WA 396 (2020 report)",
+  "sourceTitle": "The US States With the Most Serial Killings (WorldAtlas, Cory Price, Jan 3, 2024; citing the Radford/FGCU 2020 report)",
+  "sourceUrl": "https://www.worldatlas.com/crime/the-us-states-with-the-most-serial-killings.html",
+  "accessed": "2026-10-28",
+  "page": "state"
+ },
+ {
+  "key": "247wallst-per-capita-alaska-first",
+  "claim": "24/7 Wall St.'s 2015 analysis of the Radford Serial Killer Database (victims 1900 through September 2014, adjusted per 1 million residents per decade) ranked Alaska first in serial murder per capita at 15.65 per million (51 total killings), followed by Nevada 12.19 (98), Florida 9.92 (778), California 7.81 (1,507), Washington 7.44, Oregon 7.36, Louisiana 7.35, Texas 6.11, Utah 6.01 and Oklahoma 5.86.",
+  "value": "per million: AK 15.65, NV 12.19, FL 9.92, CA 7.81, WA 7.44, OR 7.36, LA 7.35, TX 6.11, UT 6.01, OK 5.86",
+  "sourceTitle": "The States With the Most Serial Murder (24/7 Wall St., Sam Stebbins, Oct 30, 2015)",
+  "sourceUrl": "https://247wallst.com/special-report/2015/10/30/the-states-with-the-most-serial-murder/",
+  "accessed": "2026-10-28",
+  "page": "state"
+ },
+ {
+  "key": "247wallst-totals-2014",
+  "claim": "The same 24/7 Wall St. analysis gave total serial killings through September 2014 as California 1,507, Texas 793 and Florida 778.",
+  "value": "CA 1,507; TX 793; FL 778 (through Sept 2014)",
+  "sourceTitle": "The States With the Most Serial Murder (24/7 Wall St., Sam Stebbins, Oct 30, 2015)",
+  "sourceUrl": "https://247wallst.com/special-report/2015/10/30/the-states-with-the-most-serial-murder/",
+  "accessed": "2026-10-28",
+  "page": "state"
+ },
+ {
+  "key": "map-clearance-2025",
+  "claim": "The Murder Accountability Project reports the U.S. homicide clearance rate rose from 61.4 percent in 2024 to 68.8 percent in 2025.",
+  "value": "68.8% cleared in 2025 (61.4% in 2024)",
+  "sourceTitle": "Murder Accountability Project - Tracking America's unsolved homicides",
+  "sourceUrl": "https://www.murderdata.org/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "map-clearance-record-low-2022",
+  "claim": "The Murder Accountability Project reports that homicide clearances hit an all-time low of 52.3 percent in 2022, and that the FBI estimated only 54 percent of homicides were cleared through arrest in 2020.",
+  "value": "52.3% in 2022 (record low); 54% in 2020",
+  "sourceTitle": "Murder Accountability Project - Tracking America's unsolved homicides",
+  "sourceUrl": "https://www.murderdata.org/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "map-250000-unsolved-since-1980",
+  "claim": "The Murder Accountability Project estimates there are more than 250,000 U.S. homicides since 1980 for which no one has been charged.",
+  "value": "more than 250,000 unsolved since 1980",
+  "sourceTitle": "Murder Accountability Project - Tracking America's unsolved homicides",
+  "sourceUrl": "https://www.murderdata.org/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "nij-clearance-1965-vs-2017",
+  "claim": "The 2020 NIJ article states that in 1965 approximately 80 percent of homicide cases were cleared, but in 2017 only about 60 percent were resolved.",
+  "value": "about 80% (1965) vs about 60% (2017)",
+  "sourceTitle": "Serial Killer Connections Through Cold Cases (National Institute of Justice, Martin, Schwarting & Chase, June 15, 2020)",
+  "sourceUrl": "https://nij.ojp.gov/topics/articles/serial-killer-connections-through-cold-cases",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-by-decade-aamodt",
+  "claim": "Based on data compiled by Mike Aamodt of Radford University, nearly 770 serial killers operated in the U.S. throughout the 1980s, just under 670 in the 1990s, below 400 in the 2000s, and, as of late 2016, just over 100 during the past decade.",
+  "value": "1980s ~770; 1990s ~670; 2000s <400; 2010s ~100",
+  "sourceTitle": "What explains the decline of serial killers? (Northeastern University School of Criminology & Criminal Justice, Dec 14, 2020; repost of Discover Magazine)",
+  "sourceUrl": "https://cssh.northeastern.edu/sccj/2020/12/14/what-explains-the-decline-of-serial-killers/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-fox-levin-fridel",
+  "claim": "Northeastern University, citing the analysis of the Radford/FGCU database in Extreme Killing by James Alan Fox, Jack Levin and Emma Fridel, says known active serial killers peaked at nearly 300 in the 1970s, there were more than 250 in the 1980s accounting for 120 to 180 deaths per year, and fewer than 50 by the 2010s.",
+  "value": "~300 (1970s); 250+ (1980s); <50 (2010s)",
+  "sourceTitle": "Why are there fewer serial killers now than there used to be? (Northeastern University School of Public Policy and Urban Affairs, Apr 26, 2023)",
+  "sourceUrl": "https://cssh.northeastern.edu/policyschool/why-are-there-fewer-serial-killers-now-than-there-used-to-be/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-2010-2018-43-killers",
+  "claim": "IFLScience, reporting the Radford/FGCU 2020 report, says there were 150 serial killers with two or more victims per year in the 1980s (104 with three or more), 138 in the 1990s, and just 43 with two or more victims across 2010-2018 (23 with three or more).",
+  "value": "1980s 150/yr; 1990s 138/yr; 2010-2018 43 total (2+ victims)",
+  "sourceTitle": "Serial Killer Database Shows Strange Decline In Serial Killers Since The 1980s (IFLScience, James Felton, Oct 4, 2022)",
+  "sourceUrl": "https://www.iflscience.com/serial-killer-database-shows-strange-decline-in-serial-killers-since-the-1980s-65524",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-reasons-radford-2020-report",
+  "claim": "IFLScience reports the Radford/FGCU team's 2020 report attributes the decline to better detection by law enforcement, stricter parole policies that 'have put fewer potential serial killers back on the streets', and a decreased availability of high-risk targets with fewer people hitchhiking, offering rides to strangers, and walking to school.",
+  "value": "better detection; stricter parole; fewer hitchhikers and high-risk targets",
+  "sourceTitle": "Serial Killer Database Shows Strange Decline In Serial Killers Since The 1980s (IFLScience, James Felton, Oct 4, 2022)",
+  "sourceUrl": "https://www.iflscience.com/serial-killer-database-shows-strange-decline-in-serial-killers-since-the-1980s-65524",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-reasons-fox-cellphones-cameras-hitchhiking",
+  "claim": "Criminologist James Alan Fox told Discover Magazine that potential victims now have cell phones to reach out in an emergency, 'there are cameras everywhere', and 'people don't hitchhike anymore'; Discover adds that many researchers cite longer prison sentences and reduced parole.",
+  "value": "cell phones, cameras, no hitchhiking, longer sentences, less parole",
+  "sourceTitle": "Serial Killers Have Rapidly Declined Since The 1980s (Discover Magazine, Cody Cottier, Sept 27, 2022)",
+  "sourceUrl": "https://www.discovermagazine.com/the-sciences/what-explains-the-decline-of-serial-killers",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-reasons-hargrove-dna",
+  "claim": "Thomas Hargrove of the Murder Accountability Project told Discover Magazine that because of DNA and improved forensics, and because police are now aware of the phenomenon, serial killers are more likely to be detected than they ever were.",
+  "value": "DNA and improved forensics raise detection (Hargrove)",
+  "sourceTitle": "Serial Killers Have Rapidly Declined Since The 1980s (Discover Magazine, Cody Cottier, Sept 27, 2022)",
+  "sourceUrl": "https://www.discovermagazine.com/the-sciences/what-explains-the-decline-of-serial-killers",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-reasons-aamodt-supervision",
+  "claim": "Mike Aamodt of Radford University told Discover Magazine that children are no longer allowed to walk and bike unsupervised the way they once were ('You wouldn't let your kids do that today'), reducing easy targets.",
+  "value": "fewer unsupervised children / easy targets (Aamodt)",
+  "sourceTitle": "Serial Killers Have Rapidly Declined Since The 1980s (Discover Magazine, Cody Cottier, Sept 27, 2022)",
+  "sourceUrl": "https://www.discovermagazine.com/the-sciences/what-explains-the-decline-of-serial-killers",
+  "accessed": "2026-10-28",
+  "page": "active"
+ },
+ {
+  "key": "decline-fox-absence-of-easy-targets",
+  "claim": "James Alan Fox, quoted in Discover's 2020 piece reposted by Northeastern University, said 'Would-be murderers may have succumbed to the absence of easy targets.'",
+  "value": "absence of easy targets (Fox, 2020)",
+  "sourceTitle": "What explains the decline of serial killers? (Northeastern University School of Criminology & Criminal Justice, Dec 14, 2020; repost of Discover Magazine)",
+  "sourceUrl": "https://cssh.northeastern.edu/sccj/2020/12/14/what-explains-the-decline-of-serial-killers/",
+  "accessed": "2026-10-28",
+  "page": "active"
+ }
+]

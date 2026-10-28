@@ -917,7 +917,7 @@
       <span class="header-logo-text">ColdCaseIndex</span>
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
-      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/" aria-current="page">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
+      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../serial-killers/">Serial Killers</a><a href="../../decades/" aria-current="page">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
       <form class="header-search" id="siteSearchForm" role="search" data-mediavine-no-ads action="../../" method="get" data-root="../../">
         <label class="sr-only" for="siteSearch">Search cases</label>
         <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
@@ -940,7 +940,7 @@
       <nav class="case-breadcrumb" aria-label="Breadcrumb"><a href="../../">Home</a><span class="case-breadcrumb-sep" aria-hidden="true">›</span><a href="../../decades/">Cases by decade</a><span class="case-breadcrumb-sep" aria-hidden="true">›</span><span aria-current="page">2000s</span></nav>
       <h1 class="section-heading">Cold Cases of the 2000s</h1>
       <p class="section-subtext">136 documented cases in which the crime or disappearance took place between 2000 and 2009. 71 are recorded as unsolved.</p>
-      
+      <div class="hub-links"><a href="../../serial-killers/timeline/#2000s">Serial killers of the 2000s</a></div>
 
       <figure class="viz" data-mediavine-no-ads><div class="viz-title">Status of the 136 cases</div><div class="stackbar" role="img" aria-label="Unsolved: 71, Partly resolved: 3, Charges or trial pending: 2, Solved or convicted: 52, Closed without conviction: 8"><span class="v1" style="flex:71 1 0" title="Unsolved: 71"></span><span class="v2" style="flex:3 1 0" title="Partly resolved: 3"></span><span class="v3" style="flex:2 1 0" title="Charges or trial pending: 2"></span><span class="v4" style="flex:52 1 0" title="Solved or convicted: 52"></span><span class="v5" style="flex:8 1 0" title="Closed without conviction: 8"></span></div><ul class="viz-legend"><li><span class="swatch v1"></span>Unsolved <strong>71</strong> (52%)</li><li><span class="swatch v2"></span>Partly resolved <strong>3</strong> (2%)</li><li><span class="swatch v3"></span>Charges or trial pending <strong>2</strong> (1%)</li><li><span class="swatch v4"></span>Solved or convicted <strong>52</strong> (38%)</li><li><span class="swatch v5"></span>Closed without conviction <strong>8</strong> (6%)</li></ul></figure>
       <figure class="viz" data-mediavine-no-ads>
@@ -2755,6 +2755,7 @@
         <a href="../../decades/">By decade</a>
         <a href="../../themes/">By theme</a>
         <a href="../../cities/">By city</a>
+        <a href="../../serial-killers/">Serial killers</a>
         <a href="../../map/">Case map</a>
         <a href="../../analysis/">Analysis</a>
         <a href="../../updates/">Recent updates</a>
@@ -2798,11 +2799,11 @@
   if(sf&&si&&sr){
     var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
     var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
-    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var loadIdx=function(){if(!idx)idx=Promise.all([fetch(base+'data/cases-index.json').then(function(r){return r.json()}),fetch(base+'data/serial-killers-index.json').then(function(r){return r.json()}).catch(function(){return []})]).then(function(d){data=d[0].concat(d[1])}).catch(function(){});return idx};
     var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
     var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
       var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
-      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+(c.url||'cases/'+encodeURIComponent(c.id)+'/')+'" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
       act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
     si.addEventListener('focus',loadIdx);
     si.addEventListener('input',function(){loadIdx().then(render)});

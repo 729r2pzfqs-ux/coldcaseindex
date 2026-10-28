@@ -146,7 +146,7 @@
       <span class="header-logo-text">ColdCaseIndex</span>
     </a>
     <nav class="header-nav" id="headerNav" aria-label="Main navigation">
-      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../decades/">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
+      <a href="../../#statistics">Statistics</a><a href="../../states/">By State</a><a href="../../types/">By Type</a><a href="../../serial-killers/">Serial Killers</a><a href="../../decades/">By Decade</a><a href="../../map/">Map</a><a href="../../analysis/">Analysis</a><a href="../../about/">About</a>
       <form class="header-search" id="siteSearchForm" role="search" data-mediavine-no-ads action="../../" method="get" data-root="../../">
         <label class="sr-only" for="siteSearch">Search cases</label>
         <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
@@ -419,6 +419,7 @@
         <a href="../../decades/">By decade</a>
         <a href="../../themes/">By theme</a>
         <a href="../../cities/">By city</a>
+        <a href="../../serial-killers/">Serial killers</a>
         <a href="../../map/">Case map</a>
         <a href="../../analysis/">Analysis</a>
         <a href="../../updates/">Recent updates</a>
@@ -462,11 +463,11 @@
   if(sf&&si&&sr){
     var base=sf.getAttribute('data-root')||'./',idx=null,data=[],act=-1;
     var esc=function(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})};
-    var loadIdx=function(){if(!idx)idx=fetch(base+'data/cases-index.json').then(function(r){return r.json()}).then(function(d){data=d}).catch(function(){});return idx};
+    var loadIdx=function(){if(!idx)idx=Promise.all([fetch(base+'data/cases-index.json').then(function(r){return r.json()}),fetch(base+'data/serial-killers-index.json').then(function(r){return r.json()}).catch(function(){return []})]).then(function(d){data=d[0].concat(d[1])}).catch(function(){});return idx};
     var close=function(){sr.classList.remove('active');si.setAttribute('aria-expanded','false');si.removeAttribute('aria-activedescendant');act=-1};
     var render=function(){var q=si.value.trim().toLowerCase();if(q.length<2){close();return}
       var m=data.filter(function(c){return (c.name+' '+c.state+' '+c.type+' '+(c.year||'')).toLowerCase().indexOf(q)>-1}).slice(0,8);
-      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+'cases/'+encodeURIComponent(c.id)+'/" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
+      sr.innerHTML=m.length?m.map(function(c,i){return '<a href="'+base+(c.url||'cases/'+encodeURIComponent(c.id)+'/')+'" class="search-result-item" role="option" id="siteSearchOpt'+i+'" aria-selected="false"><div class="search-result-info"><div class="search-result-name">'+esc(c.name)+'</div><div class="search-result-meta">'+esc(c.state)+' · '+esc(c.year||'')+' · '+esc(c.type)+'</div></div></a>'}).join(''):'<div class="search-no-results">No cases found</div>';
       act=-1;sr.classList.add('active');si.setAttribute('aria-expanded','true')};
     si.addEventListener('focus',loadIdx);
     si.addEventListener('input',function(){loadIdx().then(render)});

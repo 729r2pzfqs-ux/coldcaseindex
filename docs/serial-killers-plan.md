@@ -1,6 +1,8 @@
 # Serial killers category: implementation plan
 
-Status: draft for review, 2026-10-28. Nothing in this plan has been built.
+Status: reviewed 2026-10-28. Decisions taken: US only at launch, 3-plus victim threshold,
+build biggest to smallest by search volume. Phase 1 is in progress (schema, build module,
+templates, first 20 profiles).
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
 keyword cluster (75K/mo head term at KD 17; "california serial killers" 2K at KD 1;
@@ -98,12 +100,48 @@ changelog and case-state integrity, homepage under 120 KB, `ads.txt` present.
 | serial killers never caught, unidentified serial killers, uncaught | `/serial-killers/lists/never-caught/` | |
 | serial killers still alive, serial killers on death row | `/serial-killers/lists/still-alive/`, `/serial-killers/lists/executed/` | |
 | serial killers of the 1970s/80s, serial killer timeline | `/serial-killers/timeline/` (one page, decade anchors) | |
-| serial killer statistics, how many serial killers in the us | `/serial-killers/statistics/` | |
+| serial killer statistics | `/serial-killers/statistics/` | |
+| how many serial killers are active in the us (4,300/mo, KD 1) | `/serial-killers/how-many-are-active-in-the-us/` | answer page, section 5.7 |
+| what state has the most serial killers (2,600+/mo across variants) | `/serial-killers/which-state-has-the-most/` | answer page, section 5.7 |
+| famous serial killers (18,000/mo, KD 0) | `/serial-killers/lists/famous/` | answer-style list |
+| female serial killers (11,000/mo) | `/serial-killers/lists/female/` | answer-style list |
+| serial killers that were never caught (1,600+/mo, KD 0) | `/serial-killers/lists/never-caught/` | answer-style list |
+| serial killers still alive (500/mo, KD 1) | `/serial-killers/lists/still-alive/` | answer-style list |
 | child serial killers, truck stop / highway killers, nurse / medical killers | later: `/serial-killers/lists/<topic>/` once data supports 8+ entries each | |
 
 The head term is won by the hub plus the depth behind it, not by the hub alone. The state
-pages are the cheapest wins (KD 1 to 5) and should ship first together with the profiles they
-link to.
+pages are the cheapest wins (KD 1 to 5) and ship first together with the profiles they link to.
+
+### 2.1 State priority by monthly search volume
+
+| State | Volume | State | Volume |
+|---|---|---|---|
+| Wisconsin | 2,000 | Washington | 350 |
+| California | 2,000 | Michigan | 300 |
+| Texas | 600 | Oregon | 250 |
+| Virginia | 600 | New York | 250 |
+| Florida | 450 | Colorado | 200 |
+| Illinois | 450 | | |
+| Ohio | 400 | | |
+| Indiana | 350 | | |
+
+About 25 states are under 100 searches a month and stay `noindex` until they have real
+depth. Profiles are researched in this order: the 20 priority names in section 3.4 first,
+then whatever fills the states above from the top down.
+
+State title phrasing follows each state's higher-volume variant rather than one template:
+"Wisconsin Serial Killers" where the "[state] serial killers" form wins, "Serial Killers in
+Texas" where the "serial killers in [state]" form wins. The variant lives in a `STATE_PHRASE`
+table in the build module; the default is the "[State] Serial Killers" form and known
+exceptions (Texas) are listed there.
+
+### 2.2 Competitive position
+
+The incumbent for name queries is Murderpedia: last updated in 2017, no structured data, not
+usable on a phone. The profiles here win on what Murderpedia cannot do: a data table on every
+page with convicted, confessed and suspected counts kept separate, years active, fate and the
+capture method; per-state statistics computed from the dataset; a "last verified" date on
+every profile; schema.org markup; a layout that works on a phone.
 
 ## 3. Data model
 
@@ -179,19 +217,42 @@ arrays, so a case page can show "Offender profile: Gary Ridgway" without editing
 If a case later needs an explicit link the natural place is a new optional `offenders` key,
 but that is not required for phase 1.
 
-### 3.3 Scope of the first dataset
+### 3.3 Scope of the first dataset (decided)
 
-- **US-only for the state pages.** International killers (Chikatilo, Sutcliffe, Pickton) go
-  into a `country` != United States bucket shown on the hub and on the lists, with no state
-  page. The 23 non-US serial cases already on the site link to those profiles.
-- **Inclusion bar:** at least 3 victims in the convicted, confessed or officially attributed
-  count (the FBI's working definition is two or more; three keeps the list defensible), or an
-  unidentified series the site already documents. Target 150 profiles for launch, 200 by the
-  end of phase 3, so every state has at least two and the big states have 15 to 25.
-- **Starting set (about 60 profiles) comes from the 96 existing serial cases**: each series
-  page already has verified sources and a narrative to draw from, and the profile-to-case link
-  is guaranteed. The remaining 90 come from the Wikipedia list filtered by state coverage gaps
-  and search demand.
+- **US only at launch.** `country` is always "United States" in phase 1 and 2; the 23
+  non-US serial cases on the site are not profiled until a later phase.
+- **Inclusion bar: 3 or more victims** in the convicted, confessed or officially attributed
+  count, or an unidentified series the site already documents.
+- **Order: biggest to smallest by search volume.** The priority names in 3.4 first, then
+  profiles that fill the high-volume states in section 2.1.
+- Target 150 profiles for launch of phase 3, 200 by the end of phase 4.
+
+### 3.4 Priority profiles (phase 1)
+
+Monthly search volume and keyword difficulty from the keyword review. All have KD under 10.
+
+| Profile | Volume | Profile | Volume |
+|---|---|---|---|
+| Jerry Brudos | 82,000 | Joseph DeAngelo | 11,000 (KD 2) |
+| Israel Keyes | 76,000 | Todd Kohlhepp | 11,000 |
+| Albert Fish | 71,000 | Danny Rolling | 10,000 (KD 1) |
+| Edmund Kemper | 29,000 (KD 3) | Randy Kraft | 9,700 |
+| Richard Cottingham | 22,000 | Shawn Grate | 9,600 |
+| Charles Cullen | 19,000 (KD 3) | Nannie Doss | 9,400 (KD 0) |
+| Bobby Joe Long | 18,000 (KD 0) | Robert Berdella | 9,100 |
+| Dean Corll | 18,000 | Carl Panzram | 8,700 (KD 0) |
+| Gary Heidnik | 13,000 (KD 1) | Shelly Knotek | 8,400 (see note) |
+| Joel Rifkin | 12,000 (KD 3) | Anthony Sowell | 8,300 |
+
+Note on Shelly Knotek: she was convicted of two killings (second-degree murder of Kathy
+Loreno, manslaughter of Ron Woodworth); the third death in the household, Shane Watson, was
+her husband's conviction. She does not meet the 3-victim bar as the data model counts it, so
+she is held back pending a decision on a documented exception. Gary Ridgway takes the
+twentieth slot in phase 1 because the site already has the Green River case page.
+
+Existing case pages that these profiles link to: `israel-keyes-victims`, `dean-corll`,
+`gary-heidnik`, `golden-state-killer`, `todd-kohlhepp`, `gainesville-ripper`,
+`anthony-sowell`, `green-river-killer`.
 
 ## 4. Data collection
 
@@ -215,10 +276,15 @@ but that is not required for phase 1.
      is far easier to parse than the rendered tables.
    - Wikipedia text is CC BY-SA. Facts are reused; prose is never copied. Each profile cites
      the article as one source.
-4. **Radford/FGCU Serial Killer Database** (Aamodt): the standard academic dataset. Its
-   reports are citable for the statistics page; the raw database is not redistributed.
-5. **Murder Accountability Project** (already linked in the footer) for clearance context on
-   the statistics page.
+4. **Radford/FGCU Serial Killer Database** (Aamodt, 4,700+ offenders compiled from court and
+   prison records). Used two ways: as a candidate and cross-check list for the `select`
+   stage (name, state, years, counts, fate), and as the cited source for national and
+   per-state figures on the statistics and answer pages. The raw database is not
+   redistributed; its published reports are cited.
+5. **Murder Accountability Project** (murderdata.org, 638,000 homicide records, free
+   download; already linked in the footer). Used for the answer pages: clearance context,
+   the MAP algorithm's cluster estimates of uncaught serial offenders, and per-state
+   unsolved counts that put the site's own numbers in proportion.
 
 Not used: Murderpedia, fan wikis, true-crime podcasts, Reddit.
 
@@ -273,6 +339,16 @@ sources. For this category add:
   Mediavine sells against this content; keep it documentary, not lurid.
 - Victims are the subject of the `cases` pages; the profile's victims table lists names only
   where the case page or cited reporting already does.
+- Nothing is ever ranked or described by attractiveness, charm or notoriety. Lists sort by
+  counts, dates and names only.
+- Victims are named only from the public record (court documents, official releases,
+  established reporting). Never from social media or forums.
+- Every profile leads with facts: who, where, when, counts, legal outcome. Biography comes
+  last and stays short.
+- Every profile carries a corrections and family contact line pointing at
+  `info@coldcaseindex.com`, and a "last verified" date.
+- Pending cases use "accused" or "charged" throughout, badge and text (Kohberger-type
+  cases), and the `Charged` status is the only claim the page makes.
 
 ## 5. Page types
 
@@ -315,11 +391,13 @@ JSON-LD: `CollectionPage` + `ItemList` of state pages + `BreadcrumbList`.
    states, Washington's Green River task force, California's volume. Only where a source
    supports it.
 
-Indexing rule: indexable with 2 or more profiles; with 1 profile the page is built but
-`noindex,follow`; with 0 the page is built as a short "no documented profiles yet" page
-linking to the state's cold cases, `noindex,follow`. That keeps the 51 URLs stable while the
-dataset grows. Title "[State] Serial Killers: N Documented Profiles" (fallback "[State]
-Serial Killers | ColdCaseIndex" if over 60 chars).
+Indexing rule: a state page is indexable when it has 2 or more profiles and the state is
+not in the under-100-a-month tier (section 2.1); the `STATE_VOLUME` table in the build
+module holds the known volumes and the tier. With 1 profile the page is built but
+`noindex,follow`; with 0 it is a short "no documented profiles yet" page linking to the
+state's cold cases, `noindex,follow`. The 51 URLs stay stable while the dataset grows.
+Title uses the state's phrasing variant: "[State] Serial Killers: N Documented Profiles" or
+"Serial Killers in [State]: N Profiles" (fallback drops the count if over 60 chars).
 
 JSON-LD: `CollectionPage` + `ItemList` of profiles.
 
@@ -384,6 +462,26 @@ state (choropleth), by decade, victims by method, time from first murder to arre
 Every figure has a "Show as table" details block as on the decade figures. Cite the
 Radford/FGCU reports and MAP for the national context sentences; everything else is
 computed from the site's own dataset and says so.
+
+### 5.7 Answer pages
+
+Two question pages are generated from the dataset plus a small hand-maintained
+`data/serial-killers-facts.json` of cited national figures (FBI definition and estimates,
+Radford/FGCU counts by decade and state, MAP cluster estimates), each fact with its source
+URL so the page can cite it inline:
+
+- `/serial-killers/how-many-are-active-in-the-us/`: H1 "How Many Serial Killers Are Active
+  in the US?" Opens with the direct answer (the cited estimates and why they differ), then
+  the site's own counts: profiles by decade of activity, how many profiles have `fate`
+  `At large` or `legalStatus` `Unidentified`, how many were caught within a year, a decade,
+  never. Links to the never-caught list and the statistics page.
+- `/serial-killers/which-state-has-the-most/`: H1 "Which State Has the Most Serial
+  Killers?" Direct answer first (Radford/FGCU ranking, with the per-capita caveat), a
+  choropleth and a ranked table of the site's profiles by state, with each row linking to
+  the state page. Links to the hub's by-state section.
+
+The four list pages with answer-style demand (famous, female, never caught, still alive)
+open with a two-sentence direct answer and a definition of the list before the table.
 
 ## 6. Template and design
 
@@ -515,9 +613,9 @@ at least one case page, so nothing depends on the lists for discovery.
 | Phase | Deliverable | Pages | Size |
 |---|---|---|---|
 | 0 | Review this plan; decide open questions below | 0 | |
-| 1 | Schema, `serial_killers.py` renderers, `check.py` rules, collect script stages `candidates`, `infobox`, `select` | 0 published | 2 to 3 sessions |
-| 2 | First 60 profiles from existing series cases; hub, 51 state pages, 4 lists, timeline, statistics; nav, footer, llms.txt; case and state page back-links | about 120 | research in batches of 10 to 20, merged and pushed as they finish |
-| 3 | 90 more profiles chosen by state gaps and search volume; remaining lists; changelog entries for profiles | about 100 | same cadence |
+| 1 | Schema, `serial_killers.py` renderers for every page type, `check.py` rules, CSS, nav and back-links, the 20 priority profiles of section 3.4, answer pages and lists live with that data | about 85 | in progress |
+| 2 | Collect script (`candidates`, `infobox`, `select` against Wikipedia and Radford); profiles for the high-volume states of 2.1 until each has 5+; the 60 profiles tied to existing series cases | about 100 | research in batches of 10, merged and pushed as they finish |
+| 3 | Profiles to 150 by state gaps and volume; changelog entries for profiles; remaining lists | about 70 | same cadence |
 | 4 | Topic lists (highway, medical, child victims), international bucket, per-state notes | 10 to 20 | |
 
 Phase 2 ships only when every published profile passes `verify` and `check.py` is clean.
@@ -543,17 +641,19 @@ access.
 - **Scope creep in research**: fixed batch sizes, plain progress counts, merge and push after
   every batch (memory: research control).
 
-## 12. Open questions for review
+## 12. Decisions and remaining questions
 
-1. Nav: add "Serial Killers" as an eighth item, or replace the "Statistics" anchor?
-2. Inclusion threshold: 3 attributed victims (proposed) or the FBI's 2?
-3. International profiles at launch (about 15, all already linked to existing cases) or
-   phase 4?
-4. Victim names on profile pages: only where the linked case page names them (proposed), or
-   never?
-5. `Suspected, never charged` profiles: allow with an official attribution (proposed) or
-   exclude entirely for launch?
-6. Should profiles enter `/updates/` and the Atom feed in phase 2 rather than phase 3?
+Decided 2026-10-28: US only at launch; 3-victim threshold; build order by search volume;
+victims named only from the public record; pending cases use "accused" or "charged".
+
+Still open:
+
+1. Nav: "Serial Killers" is added as an eighth item in phase 1; if the header wraps badly at
+   tablet widths it replaces the "Statistics" anchor.
+2. Shelly Knotek: include under a documented exception (two convictions, third death in the
+   same household), or leave out?
+3. `Suspected, never charged` profiles: allowed with an official attribution, or excluded?
+4. Should profiles enter `/updates/` and the Atom feed in phase 2 rather than phase 3?
 
 ## Appendix A. Existing serial-murder cases by state
 

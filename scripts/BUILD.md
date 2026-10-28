@@ -20,6 +20,8 @@ python3 scripts/check.py     # QA: titles, descriptions, links, schema, sitemap,
 | `data/us-states-albers.json` | Simplified state outlines (us-atlas, Albers USA projection) for `/map/`. Regenerate with `scripts/geo.py` if ever needed. |
 | `data/changelog.json` | What changed per case and day: `added`, `removed`, `status`, `extended` (timeline gained events), `revised`. Appended by the build. Feeds `/updates/`, `/feed.xml` and the homepage strip. `scripts/seed_changelog.py` rebuilds it from git history if lost. |
 | `scripts/content/*.html` | Body of the about, privacy and 404 pages. |
+| `data/serial-killers.json` | Serial killer profiles (schema in `docs/serial-killers-plan.md`). Drafts are researched by hand, URL-checked and merged with `scripts/serial_killers_collect.py`; the build never edits this file. |
+| `data/serial-killers-facts.json` | Cited national figures (FBI, Radford/FGCU, Murder Accountability Project) for the two answer pages; each item carries its source URL and a `page` tag. |
 | `style.css`, `base.css`, `components.css` | Design tokens, reset, components. Concatenated into `site.css`. |
 | `home.css` | Homepage-only styles. |
 | `ads.txt` | Static, owned by Mediavine. Paste the file from the Mediavine dashboard; the build never writes or removes it (`check.py` fails if it is missing). |
@@ -36,7 +38,10 @@ the case timelines on every build),
 status changes and timeline updates), `watch/` (cases whose status can still change, with the
 next scheduled date read from the newest timeline entry), `today/` (cases and timeline events
 whose month and day match the build date) and `month/<name>/` (anniversaries by month),
-`site.css`, `sitemap.xml`, `data/cases-index.json`.
+`serial-killers/` (hub, 51 state pages, one profile per offender, `lists/`, `timeline/`, `statistics/` and two
+answer pages, rendered by `scripts/serial_killers.py`; state pages are `noindex` below 2 profiles in the
+high-volume states and below 3 elsewhere, lists below 5 entries),
+`site.css`, `sitemap.xml`, `data/cases-index.json`, `data/serial-killers-index.json`.
 Redirect stubs for short URLs: `/<decade>s/` (for example `/1990s/`) to `/decades/<decade>s/`, and
 `/cases/` to the homepage.
 

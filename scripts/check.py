@@ -189,6 +189,65 @@ def main():
         if not info.get(p, {}).get('stub'):
             errors.append(f'orphan case page: {p}')
 
+    # serial killer profiles: data rules, one page per profile, section pages present
+    sk_path = os.path.join(ROOT, 'data', 'serial-killers.json')
+    sk_dir = os.path.join(ROOT, 'serial-killers')
+    sk_states = {'alabama', 'alaska', 'arizona', 'arkansas', 'california', 'colorado', 'connecticut', 'delaware',
+                 'district-of-columbia', 'florida', 'georgia', 'hawaii', 'idaho', 'illinois', 'indiana', 'iowa',
+                 'kansas', 'kentucky', 'louisiana', 'maine', 'maryland', 'massachusetts', 'michigan', 'minnesota',
+                 'mississippi', 'missouri', 'montana', 'nebraska', 'nevada', 'new-hampshire', 'new-jersey',
+                 'new-mexico', 'new-york', 'north-carolina', 'north-dakota', 'ohio', 'oklahoma', 'oregon',
+                 'pennsylvania', 'rhode-island', 'south-carolina', 'south-dakota', 'tennessee', 'texas', 'utah',
+                 'vermont', 'virginia', 'washington', 'west-virginia', 'wisconsin', 'wyoming'}
+    sk_reserved = {'lists', 'timeline', 'statistics', 'how-many-are-active-in-the-us', 'which-state-has-the-most'}
+    sk_legal = {'Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial', 'Confessed, never tried',
+                'Suspected, never charged', 'Unidentified'}
+    sk_fate = {'Imprisoned', 'Executed', 'Died in prison', 'Died (other)', 'Suicide', 'Killed', 'Released',
+               'At large', 'Unknown'}
+    sk_ids = set()
+    if os.path.exists(sk_path):
+        with open(sk_path, encoding='utf-8') as f:
+            profiles = json.load(f)
+        for p in profiles:
+            pid = p.get('id', '?')
+            if pid in sk_ids:
+                errors.append(f'serial-killers: duplicate id {pid}')
+            sk_ids.add(pid)
+            if pid in sk_states or pid in sk_reserved:
+                errors.append(f'serial-killers: id {pid} collides with a state or reserved path')
+            if p.get('legalStatus') not in sk_legal:
+                errors.append(f'serial-killers: {pid} legalStatus {p.get("legalStatus")!r}')
+            if p.get('fate') not in sk_fate:
+                errors.append(f'serial-killers: {pid} fate {p.get("fate")!r}')
+            for cid in p.get('cases', []):
+                if cid not in ids:
+                    errors.append(f'serial-killers: {pid} links to missing case {cid}')
+            if len([x for x in p.get('sources', []) if x.get('url')]) < 3:
+                errors.append(f'serial-killers: {pid} has fewer than 3 sources')
+            if not os.path.exists(os.path.join(sk_dir, pid, 'index.html')):
+                errors.append(f'serial-killers: no page for {pid}')
+            for key in ('juhaporraskorpi', 'Murderpedia', 'murderpedia.org'):
+                if key in json.dumps(p):
+                    errors.append(f'serial-killers: {pid} contains {key!r}')
+        for st in sk_states:
+            if not os.path.exists(os.path.join(sk_dir, st, 'index.html')):
+                errors.append(f'serial-killers: state page missing for {st}')
+        for rel in ('serial-killers/index.html', 'serial-killers/lists/index.html', 'serial-killers/timeline/index.html',
+                    'serial-killers/statistics/index.html', 'serial-killers/how-many-are-active-in-the-us/index.html',
+                    'serial-killers/which-state-has-the-most/index.html'):
+            if rel not in info:
+                errors.append(f'missing page {rel}')
+            elif info[rel]['noindex'] or info[rel]['stub']:
+                errors.append(f'{rel}: should be indexable')
+        if os.path.isdir(sk_dir):
+            for d in sorted(os.listdir(sk_dir)):
+                if not os.path.isdir(os.path.join(sk_dir, d)):
+                    continue
+                if d in sk_ids or d in sk_states or d in sk_reserved:
+                    continue
+                if not info.get(f'serial-killers/{d}/index.html', {}).get('stub'):
+                    errors.append(f'orphan serial killer page: serial-killers/{d}/')
+
     # freshness pages, feed and change tracking
     months = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august',
               'september', 'october', 'november', 'december']
