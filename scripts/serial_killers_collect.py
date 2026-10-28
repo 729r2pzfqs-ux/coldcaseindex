@@ -32,7 +32,7 @@ SEARCH_VOLUME = {
     'gary-heidnik': 13000, 'joel-rifkin': 12000, 'joseph-deangelo': 11000, 'todd-kohlhepp': 11000,
     'danny-rolling': 10000, 'randy-kraft': 9700, 'shawn-grate': 9600, 'nannie-doss': 9400,
     'robert-berdella': 9100, 'carl-panzram': 8700, 'shelly-knotek': 8400, 'anthony-sowell': 8300,
-    'gary-ridgway': 40000,
+    'gary-ridgway': 40000, 'herb-baumeister': 13000,
 }
 
 LEGAL = {'Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial', 'Confessed, never tried',

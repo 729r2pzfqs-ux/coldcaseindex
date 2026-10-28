@@ -3016,6 +3016,169 @@
   "searchVolume": 9600
  },
  {
+  "id": "shelly-knotek",
+  "name": "Shelly Knotek",
+  "aliases": [
+   "Michelle Knotek",
+   "Michelle L. Knotek",
+   "Michelle Watson",
+   "Crazy Shellie"
+  ],
+  "born": "1954-04-15",
+  "died": null,
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Washington"
+  ],
+  "primaryState": "Washington",
+  "cities": [
+   "Raymond",
+   "South Bend"
+  ],
+  "activeFrom": 1991,
+  "activeTo": 2003,
+  "victims": {
+   "convicted": 2,
+   "confessed": null,
+   "suspected": "3 deaths in the household (the third was her husband's conviction)"
+  },
+  "victimProfile": "Adults who lived in her home as boarders or dependents: a woman friend aged 36, a man aged 57, and her teenage nephew (the nephew's killing was her husband's conviction)",
+  "method": [
+   "prolonged physical abuse",
+   "neglect"
+  ],
+  "apprehended": "2003-08-08",
+  "captureMethod": "Her two older daughters went to Pacific County police in August 2003 about the abuse of boarder Ron Woodworth, whose body was then dug up from the family's backyard.",
+  "legalStatus": "Convicted",
+  "sentence": "266 months (about 22 years): 164 months for second-degree murder and 102 months for first-degree manslaughter, consecutive, on Alford pleas (August 19, 2004)",
+  "fate": "Released",
+  "fateDetail": "Paroled from the Washington Corrections Center for Women, Gig Harbor, on November 8, 2022",
+  "summary": "Released in 2022 after serving about 19 years. Pleaded guilty (Alford pleas) in 2004 to second-degree murder of Kathy Loreno and first-degree manslaughter of Ron Woodworth, boarders who died in her Pacific County, Washington home; her husband was convicted of killing her nephew.",
+  "narrative": [
+   "Shelly Knotek, legally Michelle Knotek, is a Washington woman convicted in the deaths of two adults who lived in her rural home near Raymond, in Pacific County. On June 18, 2004, she entered Alford pleas in Pacific County Superior Court to second-degree murder in the death of Kathy Loreno, 36, and first-degree manslaughter in the death of Ronald Woodworth, 57, according to the Washington Court of Appeals opinion in State v. Knotek and Associated Press reporting. An Alford plea is a guilty plea in which the defendant maintains innocence while acknowledging a jury would likely convict. She was sentenced to 266 months, about 22 years, and released on November 8, 2022. A third death in the household, that of her nephew Shane Watson, was the subject of her husband David Knotek's separate guilty plea to second-degree murder; she was not convicted of it.",
+   "According to the Court of Appeals, in 1991 Knotek invited Loreno, a hairdresser she met at a South Bend salon, to live with her family. The opinion states that Knotek and her husband abused Loreno physically and mentally, causing severe weight loss and hypothermia, and that she died of the prolonged abuse. The Seattle Times reported that charging documents placed her death between April 1990 and December 1993; her mother reported her missing in 1994, and the Knoteks said she had run off with a truck driver. Per the opinion, David Knotek and Shane Watson burned and buried the body, and Knotek sent Loreno's family letters made to look as if they came from her.",
+   "Watson, Knotek's nephew, had lived with the family since his teens and vanished around the time of Loreno's disappearance. The Seattle Times reported that prosecutors alleged he was shot in a shed on the property between January 1993 and December 1994, and that the Knoteks had claimed he went to Alaska to fish. The Associated Press reported that David Knotek admitted shooting him.",
+   "In October 2001, according to the Court of Appeals, Knotek invited Woodworth, a Vietnam veteran who had helped her care for elderly clients, into the home, and the couple abused him in similar ways. The Seattle Times reported that prosecutors alleged the abuse included scalding his feet and that he died on about July 24, 2003. David Knotek buried the body in the backyard.",
+   "The case broke in August 2003 when Knotek's two older daughters contacted police about the treatment of Woodworth, per the Court of Appeals. The daughters, identified in Gregg Olsen's 2019 book If You Tell as Sami and Tori Knotek with their older sister, have since spoken publicly. Officers arrested the couple at their Monohon Landing Road home on August 8, 2003, and unearthed Woodworth's body. On August 13, prosecutors charged Michelle Knotek with two counts of first-degree murder and David Knotek with the first-degree murder of Watson, rendering criminal assistance and unlawful disposal of human remains. The Seattle Times also reported that South Bend police reopened an inquiry into the February 2002 death of James McClintock, 81, a client in Knotek's care; no charge resulted.",
+   "After the charges were reduced and the June 2004 Alford pleas entered, Judge Mark McCauley sentenced Knotek on August 19, 2004, to 164 months on the murder count and 102 months on the manslaughter count, consecutive, the top of the standard range and more than the roughly 17 years in the plea agreement. The Court of Appeals noted the judge said he would have gone higher but for Blakely v. Washington, decided six days after the plea. David Knotek was sentenced the following week to 179 months, the Chinook Observer reported. The Court of Appeals affirmed the denial of Knotek's motion to withdraw her plea on December 26, 2006.",
+   "The Chinook Observer reported that Knotek, then 68, was paroled from the Washington Corrections Center for Women on November 8, 2022, after just over 19 years, and was not expected to return to Pacific County. Wikipedia states David Knotek was released in 2016. The case was the subject of Olsen's book and of television programs.",
+   "Knotek was born Michelle Watson on April 15, 1954, according to Wikipedia."
+  ],
+  "timeline": [
+   {
+    "date": "1954-04-15",
+    "text": "Michelle Watson, later Shelly Knotek, born (per Wikipedia)."
+   },
+   {
+    "date": "1991",
+    "text": "Kathy Loreno moves into the Knotek home in Pacific County to help with the children, per the Court of Appeals."
+   },
+   {
+    "date": "1994",
+    "text": "Loreno's mother reports her missing; charging documents later place her death between April 1990 and December 1993. Shane Watson, about 19, disappears around the same time."
+   },
+   {
+    "date": "2001-10",
+    "text": "Ron Woodworth, 57, moves into the Knotek home."
+   },
+   {
+    "date": "2002-02-09",
+    "text": "James McClintock, 81, dies in Knotek's care; police later reopen the case but no charge is filed."
+   },
+   {
+    "date": "2003-07-24",
+    "text": "Approximate date of Woodworth's death, per prosecutors; his body is buried in the backyard."
+   },
+   {
+    "date": "2003-08-08",
+    "text": "Knotek and husband David arrested at their Monohon Landing Road home after her daughters go to police; Woodworth's body is unearthed."
+   },
+   {
+    "date": "2003-08-13",
+    "text": "Michelle Knotek charged with two counts of first-degree murder; David Knotek charged with first-degree murder of Watson."
+   },
+   {
+    "date": "2004-01-30",
+    "text": "David Knotek pleads guilty to second-degree murder of Shane Watson, rendering criminal assistance and unlawful disposal of remains."
+   },
+   {
+    "date": "2004-06-18",
+    "text": "Knotek enters Alford pleas to second-degree murder (Loreno) and first-degree manslaughter (Woodworth)."
+   },
+   {
+    "date": "2004-08-19",
+    "text": "Judge Mark McCauley sentences Knotek to 266 months, consecutive terms of 164 and 102 months."
+   },
+   {
+    "date": "2004-08",
+    "text": "David Knotek sentenced to 179 months."
+   },
+   {
+    "date": "2006-12-26",
+    "text": "Washington Court of Appeals affirms the denial of Knotek's motion to withdraw her plea."
+   },
+   {
+    "date": "2016",
+    "text": "David Knotek released from the Monroe Correctional Complex, per Wikipedia."
+   },
+   {
+    "date": "2019",
+    "text": "Gregg Olsen's book If You Tell, based on the daughters' accounts, is published."
+   },
+   {
+    "date": "2022-11-08",
+    "text": "Knotek paroled from the Washington Corrections Center for Women after about 19 years."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "family killer",
+   "boarders",
+   "alford plea",
+   "abuse",
+   "released"
+  ],
+  "sources": [
+   {
+    "title": "Washington Court of Appeals - State v. Knotek, No. 33644-8-II (2006)",
+    "url": "https://caselaw.findlaw.com/wa-court-of-appeals/1430291.html"
+   },
+   {
+    "title": "Seattle Times - Raymond pair charged in killings (Aug. 14, 2003)",
+    "url": "https://archive.seattletimes.com/archive/20030814/raymond14m0/raymond-pair-charged-in-killings"
+   },
+   {
+    "title": "Seattle Times - Wife's role scrutinized in deaths (Aug. 13, 2003)",
+    "url": "https://archive.seattletimes.com/archive/20030813/raymond13m/wifes-role-scrutinized-in-deaths-vulnerable-people-drawn-to-her"
+   },
+   {
+    "title": "Associated Press via Seattle Times - Woman enters Alford pleas in torture deaths (June 21, 2004)",
+    "url": "https://archive.seattletimes.com/archive/20040621/knotek21m/woman-enters-alford-pleas-in-torture-deaths"
+   },
+   {
+    "title": "The Daily Astorian - 'Crazy Shellie' locked away for 22 years (Aug. 19, 2004)",
+    "url": "https://dailyastorian.com/?p=371186"
+   },
+   {
+    "title": "Chinook Observer - David Knotek sentenced to 15 years in prison (Aug. 31, 2004)",
+    "url": "https://chinookobserver.com/?p=290165"
+   },
+   {
+    "title": "Chinook Observer - Raymond murderer 'Crazy Shellie' released from prison (Nov. 11, 2022)",
+    "url": "https://chinookobserver.com/?p=98776"
+   },
+   {
+    "title": "Wikipedia - Michelle Knotek",
+    "url": "https://en.wikipedia.org/wiki/Michelle_Knotek"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Michelle_Knotek",
+  "enriched": true,
+  "verified": "2026-10-28",
+  "searchVolume": 8400
+ },
+ {
   "id": "todd-kohlhepp",
   "name": "Todd Kohlhepp",
   "aliases": [

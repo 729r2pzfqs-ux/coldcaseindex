@@ -4,7 +4,7 @@ Status: phase 1 shipped 2026-10-28 (commits 8abaafa6, 2b64d141 and the one carry
 line). Decisions taken: US only at launch, 3-plus victim threshold, build biggest to smallest
 by search volume. Live: 20 profiles, the hub, 51 state pages (6 indexable), 7 lists, timeline,
 statistics and both answer pages; 133 checked sources; 9 profiles linked to existing case
-files. Shelly Knotek is held back (section 3.4). Next: phase 2, starting with the collect
+files, plus Shelly Knotek under a recorded exception (section 3.4). Next: phase 2, starting with the collect
 script's `candidates`, `infobox` and `select` stages and the high-volume states in 2.1.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
@@ -249,9 +249,10 @@ Monthly search volume and keyword difficulty from the keyword review. All have K
 
 Note on Shelly Knotek: she was convicted of two killings (second-degree murder of Kathy
 Loreno, manslaughter of Ron Woodworth); the third death in the household, Shane Watson, was
-her husband's conviction. She does not meet the 3-victim bar as the data model counts it, so
-she is held back pending a decision on a documented exception. Gary Ridgway takes the
-twentieth slot in phase 1 because the site already has the Green River case page.
+her husband's conviction. She does not meet the 3-victim bar as the data model counts it.
+Decision 2026-10-28: included under a recorded exception (`THRESHOLD_EXCEPTIONS` in the
+build module) for search volume and notoriety; the profile states the counts exactly. Gary
+Ridgway was added as well because the site already has the Green River case page.
 
 Existing case pages that these profiles link to: `israel-keyes-victims`, `dean-corll`,
 `gary-heidnik`, `golden-state-killer`, `todd-kohlhepp`, `gainesville-ripper`,
@@ -653,10 +654,8 @@ Still open:
 
 1. Nav: "Serial Killers" is added as an eighth item in phase 1; if the header wraps badly at
    tablet widths it replaces the "Statistics" anchor.
-2. Shelly Knotek: include under a documented exception (two convictions, third death in the
-   same household), or leave out?
-3. `Suspected, never charged` profiles: allowed with an official attribution, or excluded?
-4. Should profiles enter `/updates/` and the Atom feed in phase 2 rather than phase 3?
+2. `Suspected, never charged` profiles: allowed with an official attribution, or excluded?
+3. Should profiles enter `/updates/` and the Atom feed in phase 2 rather than phase 3?
 
 ## Appendix A. Existing serial-murder cases by state
 

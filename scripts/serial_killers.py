@@ -59,6 +59,8 @@ STATE_PHRASE = {'Texas': 'in'}
 # editorial decision recorded in docs/serial-killers-plan.md section 3.4.
 THRESHOLD_EXCEPTIONS = {
     'gary-heidnik': 'two murder convictions; six women held captive in the same series',
+    'shelly-knotek': 'two convictions (murder and manslaughter); a third death in the household was her '
+                     'husband\'s conviction; included for search volume and notoriety at the owner\'s decision',
 }
 MIN_PROFILES_HIGH = 2    # indexable from this many profiles when the state is in STATE_VOLUME
 MIN_PROFILES_LOW = 3     # ... and from this many otherwise
@@ -630,6 +632,8 @@ def render_profile(p, profiles, state_links):
     v = p['victims']
     nv = v['convicted'] if (v['convicted'] or 0) >= 3 else None
     title = next(t for t in (
+        (f'{p["name"]}: Unidentified Serial Killer, {p["primaryState"]}, {p["_years"]}' if p['legalStatus'] == 'Unidentified' else ''),
+        (f'{p["name"]}: Unidentified, {p["primaryState"]}, {p["_years"]}' if p['legalStatus'] == 'Unidentified' else ''),
         (f'{p["name"]}, the {alias.replace("The ", "")}: {nv} Victims, {p["_years"]}' if alias and nv else ''),
         (f'{p["name"]}: {nv} Victims, {p["primaryState"]}, {p["_years"]}' if nv else ''),
         f'{p["name"]}: Serial Killer, {p["primaryState"]}, {p["_years"]}',
