@@ -78,6 +78,12 @@ def main():
                 errors.append(f'{path}: contains "{tag}"')
         if 'fonts.googleapis.com' in head or 'fonts.gstatic.com' in head:
             errors.append(f'{path}: loads fonts from Google instead of /fonts/')
+        # Mediavine requires exclusivity: no AdSense or other ad-network code may remain.
+        if 'scripts.mediavine.com/tags/coldcaseindex.js' not in head:
+            errors.append(f'{path}: Mediavine script missing from head')
+        for tag in ('adsbygoogle', 'pagead2.googlesyndication.com', 'ca-pub-', 'gtag(\'consent\''):
+            if tag in s:
+                errors.append(f'{path}: contains ad-network or consent code "{tag}"')
         # internal links
         base_dir = os.path.dirname(path)
         markup = re.sub(r'<script\b.*?</script>', '', s, flags=re.S)
@@ -111,6 +117,13 @@ def main():
 
     # links to stubs can only be judged once every page has been classified
     # (second pass, cheap)
+    # ads.txt is static and owned by Mediavine; the build must never remove it
+    ads_path = os.path.join(ROOT, 'ads.txt')
+    if not os.path.exists(ads_path):
+        errors.append('ads.txt is missing from the site root')
+    elif 'pub-5861928596436289' in open(ads_path, encoding='utf-8').read():
+        errors.append('ads.txt still lists the old AdSense publisher id')
+
     # sitemap
     with open(os.path.join(ROOT, 'sitemap.xml'), encoding='utf-8') as f:
         locs = re.findall(r'<loc>(.*?)</loc>', f.read())

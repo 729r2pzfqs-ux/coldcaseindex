@@ -22,6 +22,7 @@ python3 scripts/check.py     # QA: titles, descriptions, links, schema, sitemap,
 | `scripts/content/*.html` | Body of the about, privacy and 404 pages. |
 | `style.css`, `base.css`, `components.css` | Design tokens, reset, components. Concatenated into `site.css`. |
 | `home.css` | Homepage-only styles. |
+| `ads.txt` | Static, owned by Mediavine. Paste the file from the Mediavine dashboard; the build never writes or removes it (`check.py` fails if it is missing). |
 
 ## Generated
 
@@ -48,6 +49,11 @@ work.
 
 ## Rules the build enforces
 
+- Ads are served by Mediavine only (`MEDIAVINE` in `build.py`, loaded first in `<head>`). Mediavine requires
+  exclusivity, so no AdSense or other display/video/native ad code may be added; `check.py` rejects it.
+  Interactive and data containers (search, map explorer, filters, every `figure.viz`, data tables, stat
+  rows) are single elements marked `data-mediavine-no-ads`, so Mediavine's in-content ads land between
+  them, never inside.
 - Titles are 60 characters or fewer; descriptions lead with status, type, place and year.
 - `lastmod` and `dateModified` only change when a page's content changes.
 - The sitemap lists indexable pages only. Privacy, 404, redirect stubs, single-case country

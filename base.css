@@ -57,10 +57,3 @@ table { border-collapse: collapse; width: 100%; }
   overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border-width: 0;
 }
 
-/* ── AdSense: keep Auto Ads out of data tables ── */
-.no-auto-ads .google-auto-placed,
-.no-auto-ads ins.adsbygoogle { display: none !important; }
-
-/* ── AdSense: keep Auto Ads out of case cards (state pages, homepage) ── */
-.case-card .google-auto-placed,
-.case-card ins.adsbygoogle { display: none !important; }

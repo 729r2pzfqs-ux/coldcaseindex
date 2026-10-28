@@ -44,31 +44,24 @@ BASE_URL = 'https://coldcaseindex.com'
 SITE = 'ColdCaseIndex'
 OG_IMAGE = f'{BASE_URL}/og-image.png'
 CONTACT = 'info@coldcaseindex.com'
-ADSENSE_CLIENT = 'ca-pub-5861928596436289'
 TODAY = datetime.date.today()
 BUILD_YEAR = TODAY.year
 
 e = html.escape
 
-# ── Head scripts. Order is load-bearing: Consent Mode v2 defaults first (denied
-# for the EEA/UK/CH region list, granted elsewhere), then AdSense (which carries
-# Google's CMP), then gtag. ──
-CONSENT = ('<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
-           "gtag('consent','default',{'analytics_storage':'denied','ad_storage':'denied',"
-           "'ad_user_data':'denied','ad_personalization':'denied','wait_for_update':500,"
-           "'region':['BE','BG','CZ','DK','DE','EE','IE','GR','ES','FR','HR','IT','CY','LV','LT','LU',"
-           "'HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','CH','IS','LI','NO']});"
-           "gtag('consent','default',{'analytics_storage':'granted','ad_storage':'granted',"
-           "'ad_user_data':'granted','ad_personalization':'granted'});</script>")
-ADSENSE = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
-           f'?client={ADSENSE_CLIENT}" crossorigin="anonymous"></script>')
+# ── Head scripts. Mediavine first (it carries its own consent management for the
+# EEA/UK and US state laws), then GA4, then Ahrefs. Mediavine requires exclusivity for
+# display, video and native ads: no other ad network code may be added here. ──
+MEDIAVINE = ('<script data-noptimize="1" data-cfasync="false" '
+             'src="//scripts.mediavine.com/tags/coldcaseindex.js" async></script>')
 GA = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
-      '<script>gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
+      '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+      'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
 AHREFS = ('<script src="https://analytics.ahrefs.com/analytics.js" '
           'data-key="rHBSdf2qb23/3ZsFUBTcuQ" async></script>')
 THEME_BOOT = ("<script>try{var _t=localStorage.getItem('cci-theme');"
               "if(_t)document.documentElement.setAttribute('data-theme',_t)}catch(e){}</script>")
-HEAD_SCRIPTS = '\n'.join([CONSENT, ADSENSE, GA, AHREFS, THEME_BOOT])
+HEAD_SCRIPTS = '\n'.join([MEDIAVINE, GA, AHREFS, THEME_BOOT])
 
 # Fonts are self-hosted in /fonts/ (declared in style.css). Preload the body face so text
 # does not wait on the stylesheet; the display face is only needed below the fold.
@@ -397,7 +390,7 @@ NAV = [('#statistics', 'Statistics'), ('states/', 'By State'), ('types/', 'By Ty
 def header_search(prefix):
     """Site search for every page except the homepage, which has the hero search.
     Submitting without JS lands on the homepage with ?q=, which its filter JS honours."""
-    return f'''<form class="header-search" id="siteSearchForm" role="search" action="{prefix}" method="get" data-root="{prefix}">
+    return f'''<form class="header-search" id="siteSearchForm" role="search" data-mediavine-no-ads action="{prefix}" method="get" data-root="{prefix}">
         <label class="sr-only" for="siteSearch">Search cases</label>
         <input type="search" id="siteSearch" name="q" placeholder="Search cases" autocomplete="off" role="combobox" aria-expanded="false" aria-controls="siteSearchResults" aria-autocomplete="list">
         <div class="search-results" id="siteSearchResults" role="listbox" aria-label="Matching cases"></div>
@@ -599,7 +592,7 @@ def status_figure(cases, title):
     counts = Counter(c['_group'] for c in cases)
     groups = [(STATUS_GROUPS[g][0], counts.get(g, 0), STATUS_GROUPS[g][2])
               for g in ('unsolved', 'partial', 'proceedings', 'resolved', 'other')]
-    return (f'<figure class="viz"><div class="viz-title">{e(title)}</div>'
+    return (f'<figure class="viz" data-mediavine-no-ads><div class="viz-title">{e(title)}</div>'
             f'{viz.stacked_bar(groups)}</figure>')
 
 
@@ -612,7 +605,7 @@ def decade_figure(cases, prefix, title, min_cases=4):
     links = {f'{d}s': f'{prefix}decades/{d}s/' for d in decs}
     rows = ''.join(f'<tr><th scope="row"><a href="{prefix}decades/{d}s/">{d}s</a></th><td>{decs[d]}</td></tr>'
                    for d in sorted(decs))
-    return f'''<figure class="viz">
+    return f'''<figure class="viz" data-mediavine-no-ads>
         <div class="viz-title">{e(title)}</div>
         <div class="viz-sub">Decade of the incident or disappearance. Select a column to see every case from that decade.</div>
         {viz.columns(data, links=links)}
@@ -810,7 +803,7 @@ def progress_html(c):
         cur = ' aria-current="step"' if i == step else ''
         inner = f'{lab}<span>{e(status)}</span>' if i == step else lab
         lis.append(f'<li class="{cls}"{cur}>{inner}</li>')
-    return f'''<figure class="viz">
+    return f'''<figure class="viz" data-mediavine-no-ads>
           <div class="viz-title">Where the case stands</div>
           <ol class="progress">{''.join(lis)}</ol>
           <p class="viz-sub" style="margin-top:var(--space-3)">{e(STATUS_EXPLAIN.get(status, ''))}</p>
@@ -879,7 +872,7 @@ def render_case(c, related, state_links, region_counts):
     strip = viz.timeline_strip(events, c.get('year'), c['_group'] in OPEN_GROUPS, BUILD_YEAR)
     strip_html = ''
     if strip:
-        strip_html = f'''<figure class="viz">
+        strip_html = f'''<figure class="viz" data-mediavine-no-ads>
           <div class="viz-title">Timeline to scale</div>
           <div class="viz-sub">Each dot is a dated event below; the distance between dots is elapsed time. The darker dot marks the incident.</div>
           {strip}
@@ -888,7 +881,7 @@ def render_case(c, related, state_links, region_counts):
     locator_html = ''
     if locator:
         n_region = region_counts[region]
-        locator_html = f'''<figure class="viz locator">
+        locator_html = f'''<figure class="viz locator" data-mediavine-no-ads>
           <div class="viz-title">{e(region)}</div>
           <div class="viz-sub"><a class="prose-link" href="{prefix}states/{rslug}/">{plural(n_region, 'case')} in {e(region)}</a>. Select any state to browse its cases.</div>
           {locator}
@@ -1005,7 +998,7 @@ def render_case(c, related, state_links, region_counts):
 
       <p class="case-summary">{e(c.get('summary') or '')}</p>
 
-      <dl class="case-details-grid no-auto-ads">
+      <dl class="case-details-grid" data-mediavine-no-ads>
         {grid}
       </dl>
 
@@ -1045,7 +1038,7 @@ def region_stats_html(region, stats):
     est = (' Illinois and New York report only partial clearance data, so their figures are estimates.'
            if region in ('Illinois', 'New York') else '')
     return f'''<h2 class="sub-heading">Homicide clearance in {e(region)}, 1965 to 2024</h2>
-      <div class="stat-row no-auto-ads">
+      <div class="stat-row" data-mediavine-no-ads>
         <div class="stat"><span class="stat-value">{row['homicides']:,}</span><span class="stat-label">Homicides reported</span></div>
         <div class="stat"><span class="stat-value">{row['unsolved']:,}</span><span class="stat-label">Not cleared</span></div>
         <div class="stat"><span class="stat-value">{row['clearancePct']}%</span><span class="stat-label">Clearance rate</span></div>
@@ -1100,7 +1093,7 @@ def render_region(region, cases, all_regions, stats, state_links):
     locator = ''
     if us:
         svg = viz.locator_map(region, state_links)
-        locator = f'''<figure class="viz locator">
+        locator = f'''<figure class="viz locator" data-mediavine-no-ads>
         <div class="viz-title">{e(region)} on the map</div>
         <div class="viz-sub">Select another state to see its cases.</div>
         {svg}
@@ -1206,7 +1199,7 @@ def render_states_index(by_region, stats, state_links):
       <h1 class="section-heading">Cold Cases by State and Country</h1>
       <p class="section-subtext">{total} documented cases across all 50 US states, the District of Columbia and {len(intl)} other countries. Each page lists every case with its status, a breakdown by decade and type, and for US states the statewide homicide clearance figures.</p>
 
-      <figure class="viz" style="margin-top:var(--space-8)">
+      <figure class="viz" data-mediavine-no-ads style="margin-top:var(--space-8)">
         <div class="viz-title">Cases in this index, by state</div>
         <div class="viz-sub">Darker tiles hold more documented cases. This reflects what the index covers, not crime rates. Select a state to open its page.</div>
         <svg viewBox="0 0 {W} {H}" role="img" aria-label="Tile map of US states shaded by number of documented cases" xmlns="http://www.w3.org/2000/svg">{tiles}</svg>
@@ -1280,7 +1273,7 @@ def render_hub(kind, slug, label, cases, siblings, intro, heading, *, links='', 
         base = int(label[:4])
         data = [(str(y), yrs.get(y, 0)) for y in range(base, base + 10)]
         if n >= 4:
-            second = f'''<figure class="viz">
+            second = f'''<figure class="viz" data-mediavine-no-ads>
         <div class="viz-title">Cases by year, {label}</div>
         {viz.columns(data, label=f"Cases by year in the {label}")}
       </figure>'''
@@ -1387,7 +1380,7 @@ def render_hub_index(kind, entries, total):
     if chart:
         cap = {'decades': ('Cases in the index by decade', 'Select a column to open that decade.'),
                'cities': ('Cities with the most documented cases', 'Select a column to open that city.')}[kind]
-        fig = f'''<figure class="viz"><div class="viz-title">{cap[0]}</div>
+        fig = f'''<figure class="viz" data-mediavine-no-ads><div class="viz-title">{cap[0]}</div>
         <div class="viz-sub">{cap[1]}</div>{chart}</figure>'''
     crumb = h1.replace('Cold Cases', 'Cases')
     body = f'''
@@ -1615,7 +1608,7 @@ def render_map(cases, city_hubs_count):
       <h1 class="section-heading">Cold Case Map</h1>
       <p class="section-subtext">{len(plotted)} of the {len(us)} US cases in the index are placed on the map below, at the city level, across {len(points)} cities in {n_states} states and the District of Columbia. Dots mark a city, never an address. Filter by status, type or decade, then select a dot to list that city's cases. {unplaced} US {"case spans" if unplaced == 1 else "cases span"} several places or {"has" if unplaced == 1 else "have"} no mappable city and {"is" if unplaced == 1 else "are"} not plotted; the {intl} cases outside the United States are listed <a href="{prefix}states/">by country</a>.</p>
 
-      <div class="map-filters" id="mapFilters" hidden>
+      <div class="map-filters" id="mapFilters" hidden data-mediavine-no-ads>
         <div><label for="mapStatus">Status</label><select id="mapStatus"><option value="">All statuses</option>{status_opts}</select></div>
         <div><label for="mapType">Type</label><select id="mapType"><option value="">All types</option></select></div>
         <div><label for="mapDecade">Decade</label><select id="mapDecade"><option value="">All decades</option></select></div>
@@ -1623,8 +1616,8 @@ def render_map(cases, city_hubs_count):
         <span class="map-count" id="mapCount" role="status" aria-live="polite"></span>
       </div>
 
-      <div class="map-explorer">
-        <figure class="viz viz-wide map-stage">
+      <div class="map-explorer" data-mediavine-no-ads>
+        <figure class="viz viz-wide map-stage" data-mediavine-no-ads>
           <svg viewBox="0 0 {geo.W} {geo.H}" role="img" aria-label="Map of the United States with a dot for every city that has documented cases" xmlns="http://www.w3.org/2000/svg">
             <g class="map-states">{state_paths}</g>
             <g id="mapDots"></g>
@@ -1670,7 +1663,7 @@ METHOD_SHORT = {'initial': 'Initial', 'genealogy': 'Genealogy', 'dna': 'DNA matc
 
 
 def stat_row(items):
-    return ('<div class="stat-row no-auto-ads">'
+    return ('<div class="stat-row" data-mediavine-no-ads>'
             + ''.join(f'<div class="stat"><span class="stat-value">{v}</span><span class="stat-label">{e(l)}</span></div>'
                       for v, l in items) + '</div>')
 
@@ -1680,7 +1673,7 @@ def data_table(headers, rows, caption=''):
     body = ''.join('<tr>' + ''.join((f'<th scope="row">{cells[0]}</th>' if i == 0 else f'<td>{v}</td>')
                                     for i, v in enumerate(cells)) + '</tr>' for cells in rows)
     cap = f'<caption>{caption}</caption>' if caption else ''
-    return (f'<div class="table-wrap no-auto-ads" tabindex="0"><table class="data-table">{cap}'
+    return (f'<div class="table-wrap" data-mediavine-no-ads tabindex="0"><table class="data-table">{cap}'
             f'<thead><tr>{th}</tr></thead><tbody>{body}</tbody></table></div>')
 
 
@@ -1773,7 +1766,7 @@ def render_analysis_time(recs, skipped):
         <p class="case-narrative">Of the {n} cases, {len(fast)} ({round(len(fast) / n * 100)}%) were broken within a year of the crime or disappearance: an arrest, charge or identification followed the initial investigation. The other {len(cold)} went cold first. Among those, the median wait between the crime and the break was {fmt_years(med_cold)} years; {over10} waited ten years or more and {over20} waited twenty years or more. The longest wait in the index is {rec_link(top, prefix)}, broken {top['years']} years after the event, in {top['broke']}.</p>
         <p class="case-narrative">For the {len(conv)} cases that ended in a conviction, the median gap between the break and the conviction was {fmt_years(analysis.median(conv_gap))} {"year" if analysis.median(conv_gap) == 1 else "years"}; {sum(1 for g in conv_gap if g >= 3)} took three years or more from arrest to verdict.</p>
       </div>''')
-    sec.append(f'''<figure class="viz">
+    sec.append(f'''<figure class="viz" data-mediavine-no-ads>
         <div class="viz-title">Years from the crime to the break, all {n} resolved cases</div>
         <div class="viz-sub">The break is the first dated arrest, charge, identification, DNA match or confession in the case timeline.</div>
         {viz.columns(bk, label='Years to resolution')}
@@ -1871,7 +1864,7 @@ def render_analysis_methods(recs, skipped, genealogy_cases):
     sec.append(f'''<h2 class="sub-heading">Resolution methods, all {n} resolved cases</h2>
       {data_table(['Method', 'Cases', 'Share', 'Median years to break', 'Of which went cold (2+ years)'], m_rows)}''')
     chart = viz.columns([(METHOD_SHORT.get(k, lab), cnt) for k, lab, cnt, _m, _rs in bm], label='Resolved cases by method')
-    sec.append(f'<figure class="viz"><div class="viz-title">Resolved cases by what broke them</div>{chart}</figure>')
+    sec.append(f'<figure class="viz" data-mediavine-no-ads><div class="viz-title">Resolved cases by what broke them</div>{chart}</figure>')
 
     bd = analysis.by_break_decade(recs)
     cols = [k for k in analysis.METHOD_ORDER if counts.get(k)]
@@ -2011,12 +2004,12 @@ def home_blocks(cases, stats, by_region, log):
       </div>
     </div>
 
-    <figure class="viz viz-wide" style="max-width:860px;margin-top:var(--space-10)">
+    <figure class="viz viz-wide" data-mediavine-no-ads style="max-width:860px;margin-top:var(--space-10)">
       <div class="viz-title">Share of US homicides cleared, {years[0]['year']} to {latest['year']}</div>
       <div class="viz-sub">The clearance rate fell from {high['clearancePct']}% in {high['year']} to {low['clearancePct']}% in {low['year']} and has since recovered to {latest['clearancePct']}%. Hover or tap a year for its value.</div>
       {chart}
       <details class="table-view"><summary>Show as table</summary>
-        <div class="table-wrap no-auto-ads" tabindex="0"><table class="data-table">
+        <div class="table-wrap" data-mediavine-no-ads tabindex="0"><table class="data-table">
           <thead><tr><th scope="col">Year</th><th scope="col">Homicides</th><th scope="col">Cleared</th><th scope="col">Not cleared</th></tr></thead>
           <tbody>{year_rows}</tbody></table></div>
       </details>
@@ -2042,14 +2035,14 @@ def home_blocks(cases, stats, by_region, log):
                  f'<td data-v="{s["clearancePct"]}">{s["clearancePct"]}%</td>'
                  f'<td data-v="{s["unsolved"]}">{s["unsolved"]:,}</td>'
                  f'<td data-v="{n_idx}">{n_idx}</td></tr>')
-    state_html = f'''<figure class="viz" style="max-width:720px">
+    state_html = f'''<figure class="viz" data-mediavine-no-ads style="max-width:720px">
       <div class="viz-title">Homicide clearance rate by state, 1965 to 2024</div>
       <div class="viz-sub">Darker tiles cleared a smaller share of their homicides. Select a state to see its cases.</div>
       {cmap}
       {legend}
     </figure>
 
-    <div class="table-wrap no-auto-ads" tabindex="0" role="region" aria-label="Homicides by state, scrollable table">
+    <div class="table-wrap" data-mediavine-no-ads tabindex="0" role="region" aria-label="Homicides by state, scrollable table">
       <table class="data-table" id="stateTable">
         <caption>*Illinois and New York report only partial clearance data; their figures are estimates. Source: Murder Accountability Project analysis of FBI data, via {src_link}.</caption>
         <thead><tr>
@@ -2178,7 +2171,7 @@ def render_home(cases, stats, by_region, log):
   <div class="hero-inner">
     <h1 class="hero-headline"><span class="highlight">{nat['unsolved']:,}</span> US homicides have gone uncleared since 1965.</h1>
     <p class="hero-subtext">In {latest['year']}, police cleared {latest['clearancePct']}% of reported homicides, up from a low of {low['clearancePct']}% in {low['year']}. {SITE} documents {n} individual cases, {unsolved} of them still unsolved, each with its status, a dated timeline and the sources behind it.</p>
-    <div class="hero-search-wrapper">
+    <div class="hero-search-wrapper" data-mediavine-no-ads>
       <form class="hero-search" id="heroForm" role="search">
         <label class="sr-only" for="heroSearch">Search cases</label>
         <input type="search" id="heroSearch" placeholder="Search cases by name, state or keyword" autocomplete="off">
@@ -2225,7 +2218,7 @@ def render_home(cases, stats, by_region, log):
     <h2 class="section-heading">Browse Cases</h2>
     <p class="section-subtext" style="margin-bottom: var(--space-6);">The most recent cases are listed first. Filter the {n} documented cases by type, state or country, decade and status, change the sort order, or browse by <a href="./states/">state</a>, <a href="./types/">type</a> or <a href="./decades/">decade</a>.</p>
 
-    <div class="filters-bar" id="filtersBar" hidden>
+    <div class="filters-bar" id="filtersBar" hidden data-mediavine-no-ads>
       <div class="filter-group"><label for="filterType">Type</label><select class="filter-select" id="filterType"><option value="">All types</option></select></div>
       <div class="filter-group"><label for="filterState">State or country</label><select class="filter-select" id="filterState"><option value="">All</option></select></div>
       <div class="filter-group"><label for="filterDecade">Decade</label><select class="filter-select" id="filterDecade"><option value="">All decades</option></select></div>
@@ -2350,8 +2343,8 @@ def render_static(cases, stats):
         '{{BREADCRUMB}}', breadcrumb_html([('Home', ''), ('Privacy', None)], '../'))
     out['privacy/index.html'] = (lambda p, m: page(
         title=f'Privacy Policy | {SITE}',
-        desc=(f'What {SITE} collects: no accounts or forms; Google Analytics and AdSense cookies with '
-              'consent controls; how to contact us about case information.'),
+        desc=(f'What {SITE} collects: no accounts or forms; Google Analytics and Mediavine advertising '
+              'cookies, with opt-out links; how to contact us about case information.'),
         canonical=f'{BASE_URL}/privacy/', prefix='../', body=privacy, schema=[],
         robots='noindex,follow'), False)
 
@@ -2582,7 +2575,7 @@ def render_watch(cases):
             <td><span class="watch-when">{e(when)}</span>{e(fit(lt, 170))}</td>
             <td>{nxt}</td>
           </tr>''')
-        return f'''<div class="table-wrap no-auto-ads" tabindex="0" role="region" aria-label="{e(caption)}">
+        return f'''<div class="table-wrap" data-mediavine-no-ads tabindex="0" role="region" aria-label="{e(caption)}">
         <table class="data-table watch-table">
           <caption>{e(caption)}</caption>
           <thead><tr><th scope="col">Case</th><th scope="col">Last recorded development</th><th scope="col">Next date</th></tr></thead>
@@ -2785,7 +2778,7 @@ def render_month_index(month_counts, unsolved_counts):
       {breadcrumb_html([('Home', ''), ('Anniversaries', None)], prefix)}
       <h1 class="section-heading">Cold Case Anniversaries by Month</h1>
       <p class="section-subtext">{total} of the cases in the index have a full incident date. They are grouped here by the month in which the crime or disappearance began, with a day-by-day list for each month and the other dated developments recorded that month. <a href="{prefix}today/">On this day</a> shows the cases and developments that fall on today's date; it is rebuilt daily.</p>
-      <figure class="viz"><div class="viz-title">Cases by month of incident</div>
+      <figure class="viz" data-mediavine-no-ads><div class="viz-title">Cases by month of incident</div>
         <div class="viz-sub">Select a column to open that month.</div>{chart}</figure>
       <div class="states-grid" style="margin-top:var(--space-8)">{cards}</div>
     </div>

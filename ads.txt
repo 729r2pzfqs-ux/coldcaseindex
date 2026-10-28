@@ -1,1 +1,2 @@
-google.com, pub-5861928596436289, DIRECT, f08c47fec0942fa0
+# ads.txt for coldcaseindex.com. Managed by Mediavine: paste the file from the Mediavine
+# dashboard (Settings > ads.txt) over this placeholder. The build never writes or removes this file.

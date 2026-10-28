@@ -250,10 +250,6 @@ table { border-collapse: collapse; width: 100%; }
 position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
 overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border-width: 0;
 }
-.no-auto-ads .google-auto-placed,
-.no-auto-ads ins.adsbygoogle { display: none !important; }
-.case-card .google-auto-placed,
-.case-card ins.adsbygoogle { display: none !important; }
 .case-breadcrumb {
 font-size: var(--text-xs);
 color: var(--color-text-faint);
