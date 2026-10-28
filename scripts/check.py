@@ -79,7 +79,7 @@ def main():
         if 'fonts.googleapis.com' in head or 'fonts.gstatic.com' in head:
             errors.append(f'{path}: loads fonts from Google instead of /fonts/')
         # Mediavine requires exclusivity: no AdSense or other ad-network code may remain.
-        if 'scripts.scriptwrapper.com/tags/07246c68-4098-4276-b4dd-3685883c5564.js' not in head:
+        if 'scripts.scriptwrapper.com/tags/07246c68-4098-4276-b4dd-3605803c5564.js' not in head:
             errors.append(f'{path}: Mediavine script missing from head')
         for tag in ('adsbygoogle', 'pagead2.googlesyndication.com', 'ca-pub-', 'gtag(\'consent\''):
             if tag in s:
