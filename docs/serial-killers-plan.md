@@ -1,8 +1,11 @@
 # Serial killers category: implementation plan
 
-Status: reviewed 2026-10-28. Decisions taken: US only at launch, 3-plus victim threshold,
-build biggest to smallest by search volume. Phase 1 is in progress (schema, build module,
-templates, first 20 profiles).
+Status: phase 1 shipped 2026-10-28 (commits 8abaafa6, 2b64d141 and the one carrying this
+line). Decisions taken: US only at launch, 3-plus victim threshold, build biggest to smallest
+by search volume. Live: 20 profiles, the hub, 51 state pages (6 indexable), 7 lists, timeline,
+statistics and both answer pages; 133 checked sources; 9 profiles linked to existing case
+files. Shelly Knotek is held back (section 3.4). Next: phase 2, starting with the collect
+script's `candidates`, `infobox` and `select` stages and the high-volume states in 2.1.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
 keyword cluster (75K/mo head term at KD 17; "california serial killers" 2K at KD 1;

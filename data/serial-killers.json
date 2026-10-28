@@ -2858,6 +2858,164 @@
   "searchVolume": 9100
  },
  {
+  "id": "shawn-grate",
+  "name": "Shawn Grate",
+  "aliases": [],
+  "born": "1976-08-08",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Ohio"
+  ],
+  "primaryState": "Ohio",
+  "cities": [
+   "Ashland",
+   "Marion",
+   "Mansfield"
+  ],
+  "activeFrom": 2006,
+  "activeTo": 2016,
+  "victims": {
+   "convicted": 5,
+   "confessed": 5,
+   "suspected": "5"
+  },
+  "victimProfile": "Women aged 23 to 43 in north-central Ohio, several of them vulnerable or living on the margins, including a door-to-door magazine seller",
+  "method": [
+   "strangulation",
+   "stabbing"
+  ],
+  "apprehended": "2016-09-13",
+  "captureMethod": "A woman he was holding captive in a vacant Ashland house called 911 on his phone while he slept, and police arrested him there and found two bodies",
+  "legalStatus": "Convicted",
+  "sentence": "Death (Ashland County, June 2018), affirmed by the Ohio Supreme Court in 2020; life without parole plus consecutive terms in Richland County (2019) and Marion County (2019)",
+  "fate": "Imprisoned",
+  "fateDetail": "Ohio death row; held at Chillicothe Correctional Institution according to the state's 2021 U.S. Supreme Court brief",
+  "summary": "On Ohio's death row. Shawn Grate was convicted of killing five women in Ashland, Richland and Marion counties between 2006 and 2016; a captive's 911 call from his Ashland house led to his arrest in September 2016.",
+  "narrative": [
+   "Shawn Grate is an Ohio man convicted of murdering five women in Ashland, Richland and Marion counties between 2006 and 2016. An Ashland County jury convicted him in May 2018 of the aggravated murders of Stacey Stanley and Elizabeth Griffith, and he was sentenced to death; he later pleaded guilty to three more killings in Richland and Marion counties and received life without parole in each. According to the Ohio Attorney General's 2021 brief to the U.S. Supreme Court, he fully confessed to the two Ashland murders and the kidnapping of a third woman, and the Richland Source reported that authorities said he admitted to killing five women in all. The Ohio Supreme Court upheld the death sentence in December 2020.",
+   "Prosecutors consider his first victim Dana Nicole Lowrey, 23, of Louisiana. The Associated Press reported that she was selling magazines door-to-door in Ohio when Grate stabbed her at his home in 2006; her remains were found on Victory Road in Marion in 2007 but went unidentified for more than a decade. Grate confessed in 2016 to killing a woman whose name he did not know, and in June 2019 investigators identified her through a DNA match with one of her daughters, with help from the DNA Doe Project. In Richland County, Rebekah Leicy's body was found in March 2015, about a month after she went missing; her death was initially ruled an overdose, and News 5 Cleveland reported the case was reopened after Grate's Ashland confessions. Candace Cunningham's body was found behind a burned-down house in Madison Township in September 2016.",
+   "The Ashland crimes ended on September 13, 2016. According to the state's brief and news reports, a woman Grate had held for days in a vacant house on Covert Court partly freed herself and, while he slept, whispered a 911 call on his phone saying she had been abducted. Ashland police arrested Grate and found in the house the bodies of Stanley, 43, and Griffith, 29, both reported missing. Autopsies found both had been strangled, and prosecutors said Grate confessed to detectives. The survivor has not been publicly named in the sources used here.",
+   "An Ashland County grand jury indicted Grate in September 2016 on 23 felony counts, including aggravated murder, kidnapping and rape. His lawyers entered a not guilty by reason of insanity plea but withdrew it in April 2017 after two experts found he was not insane. On May 2, 2018, Grate pleaded guilty to 15 counts, leaving the remaining eight, including the aggravated murders, to a jury. After a trial before Judge Ronald Forsthoefel at which prosecutors played his recorded statements, the jury convicted him on all eight counts on May 7, 2018, after deliberating a little over three hours, CBS News and the AP reported. The jury recommended death, and on June 1, 2018, the court sentenced him to death, according to Wikipedia; an initial September 13, 2018 execution date was stayed by his appeal.",
+   "On March 1, 2019, Grate pleaded guilty in Richland County to aggravated murder in Leicy's death and murder in Cunningham's death, plus two counts of gross abuse of a corpse; News 5 Cleveland reported a sentence of life without parole, 15 years to life and two 12-month terms, all consecutive. On September 11, 2019, he pleaded guilty in Marion County to Lowrey's aggravated murder and related counts and was sentenced to life without parole plus 16 years, consecutive to his other sentences; the AP reported that he apologized before sentencing.",
+   "On December 10, 2020, the Ohio Supreme Court unanimously affirmed the Ashland County convictions and death sentence in State v. Grate, 2020-Ohio-5584, rejecting claims of trial error and ineffective counsel. Grate petitioned the U.S. Supreme Court in 2021; the state's response noted he then had no scheduled execution date. Wikipedia reports that a March 19, 2025 execution date was later set and delayed amid continuing appeals.",
+   "Grate was born in Marion, Ohio, on August 8, 1976. According to Wikipedia, his parents divorced in 1982, he graduated from River Valley High School in 1995 and he had a felony burglary case in 1997. At the time of his arrest he was squatting in the vacant Covert Court house in Ashland."
+  ],
+  "timeline": [
+   {
+    "date": "1976-08-08",
+    "text": "Shawn Michael Grate born in Marion, Ohio."
+   },
+   {
+    "date": "2006",
+    "text": "Dana Nicole Lowrey, 23, a Louisiana magazine seller, killed in Marion County; her remains are found on Victory Road in Marion in 2007 and go unidentified for 12 years."
+   },
+   {
+    "date": "2015-03",
+    "text": "Body of Rebekah Leicy found on a road in Ashland County about a month after she went missing from Richland County; her death is initially ruled an overdose."
+   },
+   {
+    "date": "2016-09-13",
+    "text": "A captive woman calls 911 from Grate's phone while he sleeps; Ashland police arrest him at a vacant house on Covert Court and find the bodies of Stacey Stanley, 43, and Elizabeth Griffith, 29. The same day, Candace Cunningham's body is found behind a burned-down house in Madison Township, Richland County."
+   },
+   {
+    "date": "2016-09",
+    "text": "Ashland County grand jury indicts Grate on 23 felony counts including aggravated murder, kidnapping and rape."
+   },
+   {
+    "date": "2016-11-01",
+    "text": "Richland County Sheriff's Office confirms the identity of Candace Cunningham."
+   },
+   {
+    "date": "2017-04-07",
+    "text": "Defense withdraws Grate's not guilty by reason of insanity plea after evaluations find he was not insane."
+   },
+   {
+    "date": "2018-05-02",
+    "text": "Grate pleads guilty to 15 of the 23 Ashland County counts, including rape, kidnapping, robbery and abuse of a corpse."
+   },
+   {
+    "date": "2018-05-07",
+    "text": "Ashland County jury convicts Grate on the remaining eight counts, including the aggravated murders of Stanley and Griffith."
+   },
+   {
+    "date": "2018-06-01",
+    "text": "Judge Ronald Forsthoefel sentences Grate to death; a September 13, 2018 execution date is later stayed by his appeal."
+   },
+   {
+    "date": "2019-03-01",
+    "text": "Grate pleads guilty in Richland County to aggravated murder (Leicy) and murder (Cunningham); sentenced to life without parole plus consecutive terms."
+   },
+   {
+    "date": "2019-06",
+    "text": "Marion County investigators identify the 2007 remains as Dana Nicole Lowrey through a DNA match with her daughter, assisted by the DNA Doe Project."
+   },
+   {
+    "date": "2019-09-11",
+    "text": "Grate pleads guilty in Marion County to Lowrey's aggravated murder; sentenced to life without parole plus 16 years, consecutive."
+   },
+   {
+    "date": "2020-12-10",
+    "text": "Ohio Supreme Court unanimously affirms the Ashland County convictions and death sentence (State v. Grate, 2020-Ohio-5584)."
+   },
+   {
+    "date": "2021-05",
+    "text": "Grate petitions the U.S. Supreme Court; the state's response says he has no scheduled execution and is held at Chillicothe Correctional Institution."
+   },
+   {
+    "date": "2025-03-19",
+    "text": "Scheduled execution date passes without execution amid continuing appeals, according to Wikipedia."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "death row",
+   "survivor 911 call",
+   "confession",
+   "dna doe project",
+   "unidentified victim"
+  ],
+  "sources": [
+   {
+    "title": "Brief in Opposition for the State of Ohio, Grate v. Ohio, No. 20-8038 (U.S. Supreme Court docket, May 2021)",
+    "url": "https://www.supremecourt.gov/DocketPDF/20/20-8038/179471/20210518103002254_Grate%20Cert%20Opp%2005-18-2020.pdf"
+   },
+   {
+    "title": "CBS News / Associated Press - Ohio serial killer guilty of strangling women found under clothes in vacant home (May 8, 2018)",
+    "url": "https://www.cbsnews.com/news/ohio-serial-killer-guilty-of-strangling-women-found-under-clothes-in-vacant-home"
+   },
+   {
+    "title": "Associated Press via WDTN - Ohio death row inmate sentenced in slaying of 5th woman (Sept. 12, 2019)",
+    "url": "https://digital-release.wdtn.com/news/ohio/ohio-death-row-inmate-sentenced-in-slaying-of-5th-woman"
+   },
+   {
+    "title": "News 5 Cleveland - Convicted killer Shawn Grate pleads guilty to the murders of 2 women in Richland County (March 2019)",
+    "url": "https://news5cleveland.com/news/local-news/oh-richland/convicted-killer-shawn-grate-pleads-guilty-to-the-murders-of-2-women-in-richland-county"
+   },
+   {
+    "title": "Cleveland 19 News - Convicted serial killer Shawn Grate pleads guilty to Marion County murder (Sept. 11, 2019)",
+    "url": "https://www.cleveland19.com/2019/09/11/convicted-serial-killer-shawn-grate-pleads-guilty-marion-county-murder"
+   },
+   {
+    "title": "Cleveland 19 News - Ohio Supreme Court upholds conviction, death sentence of serial killer Shawn Grate (Dec. 10, 2020)",
+    "url": "https://www.cleveland19.com/2020/12/10/ohio-supreme-court-upholds-conviction-death-sentence-serial-killer-shawn-grate"
+   },
+   {
+    "title": "Richland Source / Ashland Source - Jury selection begins in Shawn Grate case (April 9, 2018)",
+    "url": "https://www.richlandsource.com/ashland_source/jury-selection-begins-in-shawn-grate-case/article_4a052884-3bed-11e8-9772-f7342d9a5bf9.html"
+   },
+   {
+    "title": "Wikipedia - Shawn Grate",
+    "url": "https://en.wikipedia.org/wiki/Shawn_Grate"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Shawn_Grate",
+  "enriched": true,
+  "verified": "2026-10-28",
+  "searchVolume": 9600
+ },
+ {
   "id": "todd-kohlhepp",
   "name": "Todd Kohlhepp",
   "aliases": [
