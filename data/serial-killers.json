@@ -130,6 +130,162 @@
   "searchVolume": 71000
  },
  {
+  "id": "anthony-sowell",
+  "name": "Anthony Sowell",
+  "aliases": [
+   "The Cleveland Strangler",
+   "The Imperial Avenue Murderer"
+  ],
+  "born": "1959-08-19",
+  "died": "2021-02-08",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Ohio"
+  ],
+  "primaryState": "Ohio",
+  "cities": [
+   "Cleveland"
+  ],
+  "activeFrom": 2007,
+  "activeTo": 2009,
+  "victims": {
+   "convicted": 11,
+   "confessed": null,
+   "suspected": "11"
+  },
+  "victimProfile": "Black women aged 25 to 53 from Cleveland's Mount Pleasant neighborhood, many struggling with drug addiction",
+  "method": [
+   "strangulation"
+  ],
+  "apprehended": "2009-10-31",
+  "captureMethod": "Police serving warrants on a rape complaint found bodies in his Imperial Avenue home; a passerby recognized him from news coverage two days later",
+  "legalStatus": "Convicted",
+  "sentence": "Death on each of 11 aggravated murder counts (August 12, 2011); affirmed by the Ohio Supreme Court December 8, 2016",
+  "fate": "Died in prison",
+  "fateDetail": "Franklin Medical Center, Columbus, Ohio, of a terminal illness while on death row",
+  "summary": "Convicted by a Cuyahoga County jury in 2011 of 11 aggravated murders after the remains of 11 women were found at his Cleveland home in October 2009; sentenced to death, affirmed on appeal, died in state custody in February 2021.",
+  "narrative": [
+   "Anthony Sowell, called the Cleveland Strangler in news coverage, was convicted by a Cuyahoga County, Ohio jury on July 22, 2011 of 11 counts of aggravated murder for the killings of 11 women whose remains were found at his home at 12205 Imperial Avenue in Cleveland in late 2009. The Ohio Supreme Court's 2016 opinion in State v. Sowell puts the killings in the two and a half years before October 2009. He was sentenced to death on August 12, 2011, the Ohio Supreme Court affirmed on December 8, 2016, and he died in state custody on February 8, 2021 without being executed.",
+   "The Ohio Supreme Court identified the victims as Crystal Dozier, Tishana Culver, Leshanda Long, Michelle Mason, Tonia Carmichael, Kim Yvette Smith, Amelda Hunter, Nancy Cobbs, Telacia Fortson, Janice Webb and Diane Turner. Wikipedia, citing Cleveland press reports, lists Dozier, 38, as the first to disappear in May 2007 and Turner, 48, as the last in September 2009. The court recorded that seven women died of ligature strangulation, that Culver's injuries were consistent with manual strangulation, and that the cause of death for Long, Smith and Turner was undetermined homicidal violence. Five survivors testified to a pattern of being lured with drugs, then assaulted and choked.",
+   "In December 2008, Gladys Wade reported that Sowell dragged her into his house and strangled her until she lost consciousness; she escaped and flagged down a cruiser. Sowell was arrested but released because the officer mislabeled the offense on the report. Newsweek reported that families of six victims later sued the City of Cleveland and shared a $1 million settlement with no admission of wrongdoing.",
+   "The case broke after Latundra Billups told police in September 2009 that Sowell had choked and raped her at his home. According to the Ohio Supreme Court, officers executed a search warrant on October 29, 2009; Sowell was not home, and two decomposed bodies were found on the third floor. Over the following days searchers found eight more bodies inside the house and in the backyard, and a skull in a bucket in the basement was identified as Long's. In all, police recovered ten bodies and one skull. Sowell was arrested on October 31, 2009 after a member of the public recognized him from news broadcasts on Mount Auburn Avenue. In recorded interrogations he did not admit the killings and said he had no memory of them.",
+   "Sowell was indicted on 11 counts of aggravated murder with death-penalty specifications plus dozens of counts of rape, kidnapping, tampering with evidence and abuse of a corpse. He first pleaded not guilty by reason of insanity, then not guilty. Trial began June 6, 2011 before Judge Dick Ambrose. The jury convicted him of all 11 murders and nearly every other count, acquitting him only of an aggravated robbery charge involving Wade; the court had earlier dismissed three counts relating to Long. The jury recommended death on August 10, and the judge imposed 11 death sentences on August 12, 2011.",
+   "The Ohio Supreme Court affirmed 5-2 in an opinion by Justice Terrence O'Donnell. It agreed the trial judge had closed a suppression hearing without the required findings, an issue on which the ACLU of Ohio filed an amicus brief, but held the error did not require a new hearing or trial. Justice William O'Neill dissented, joined in part by Chief Justice Maureen O'Connor. Wikipedia reports the U.S. Supreme Court denied certiorari in October 2017; News 5 Cleveland reported that in May 2020 the Eighth District Court of Appeals upheld the dismissal of his post-conviction petition.",
+   "Sowell was moved to the Franklin Medical Center in Columbus on January 21, 2021 for end-of-life care and died there on February 8, 2021, aged 61; the Ohio Department of Rehabilitation and Correction said the illness was not COVID-related. He was born August 19, 1959 in East Cleveland and served in the U.S. Marine Corps from 1978 to 1985. According to the Ohio Supreme Court, he was convicted of attempted rape in 1990, served 15 years and was released in 2005."
+  ],
+  "timeline": [
+   {
+    "date": "1959-08-19",
+    "text": "Anthony Sowell born in East Cleveland, Ohio."
+   },
+   {
+    "date": "1978-01-24",
+    "text": "Enters the U.S. Marine Corps; honorably discharged in January 1985."
+   },
+   {
+    "date": "1990",
+    "text": "Convicted of attempted rape in Cuyahoga County; serves 15 years."
+   },
+   {
+    "date": "2005",
+    "text": "Released from prison; moves to 12205 Imperial Avenue, Cleveland."
+   },
+   {
+    "date": "2007-05-17",
+    "text": "Crystal Dozier, 38, the first known victim, last seen."
+   },
+   {
+    "date": "2008-12",
+    "text": "Gladys Wade reports being strangled at the house; Sowell is arrested but released after the offense is mislabeled on the report."
+   },
+   {
+    "date": "2009-09",
+    "text": "Diane Turner, 48, the last known victim, disappears."
+   },
+   {
+    "date": "2009-09-22",
+    "text": "Latundra Billups reports to police that Sowell choked and raped her."
+   },
+   {
+    "date": "2009-10-29",
+    "text": "Police executing a search warrant find two bodies on the third floor of the house."
+   },
+   {
+    "date": "2009-10-31",
+    "text": "Sowell arrested on Mount Auburn Avenue after a passerby recognizes him from news coverage."
+   },
+   {
+    "date": "2009-11-03",
+    "text": "Search ends with ten bodies and one skull recovered from the house and yard."
+   },
+   {
+    "date": "2011-06-06",
+    "text": "Trial begins in Cuyahoga County Common Pleas Court."
+   },
+   {
+    "date": "2011-07-22",
+    "text": "Jury convicts Sowell of 11 counts of aggravated murder and most other charges."
+   },
+   {
+    "date": "2011-08-12",
+    "text": "Judge Dick Ambrose imposes 11 death sentences after the jury's recommendation."
+   },
+   {
+    "date": "2016-12-08",
+    "text": "Ohio Supreme Court affirms the convictions and death sentences, 5-2."
+   },
+   {
+    "date": "2017-10",
+    "text": "U.S. Supreme Court denies certiorari."
+   },
+   {
+    "date": "2021-02-08",
+    "text": "Dies of a terminal illness at Franklin Medical Center, Columbus, aged 61."
+   }
+  ],
+  "cases": [
+   "anthony-sowell"
+  ],
+  "tags": [
+   "drug addiction",
+   "police failure",
+   "death penalty",
+   "house of horrors",
+   "missing persons"
+  ],
+  "sources": [
+   {
+    "title": "Supreme Court of Ohio - State v. Sowell, 2016-Ohio-8025 (FindLaw)",
+    "url": "https://caselaw.findlaw.com/court/oh-supreme-court/1757071.html"
+   },
+   {
+    "title": "ACLU of Ohio - State of Ohio v. Anthony Sowell (amicus)",
+    "url": "https://www.acluohio.org/cases/state-ohio-v-anthony-sowell-amicus/"
+   },
+   {
+    "title": "News 5 Cleveland - Anthony Sowell, Ohio man who killed 11 women, dies in prison",
+    "url": "https://www.news5cleveland.com/news/local-news/cleveland-metro/cleveland-serial-killer-anthony-sowell-dies-in-prison"
+   },
+   {
+    "title": "Newsweek - Serial killer 'Cleveland Strangler' Anthony Sowell dies in prison",
+    "url": "https://www.newsweek.com/serial-killer-cleveland-strangler-anthony-sowell-dies-prison-terminal-illness-1567767"
+   },
+   {
+    "title": "FOX 13 / Fox News - Cleveland serial killer Anthony Sowell dies inside prison hospital",
+    "url": "https://www.fox13news.com/news/cleveland-serial-killer-anthony-sowell-dies-inside-prison-hospital"
+   },
+   {
+    "title": "Wikipedia - Anthony Sowell",
+    "url": "https://en.wikipedia.org/wiki/Anthony_Sowell"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Sowell",
+  "enriched": true,
+  "verified": "2026-10-28",
+  "searchVolume": 8300
+ },
+ {
   "id": "bobby-joe-long",
   "name": "Bobby Joe Long",
   "aliases": [
@@ -1894,6 +2050,178 @@
   "searchVolume": 12000
  },
  {
+  "id": "joseph-deangelo",
+  "name": "Joseph James DeAngelo",
+  "aliases": [
+   "The Golden State Killer",
+   "East Area Rapist",
+   "Original Night Stalker",
+   "Visalia Ransacker",
+   "EARONS",
+   "Diamond Knot Killer"
+  ],
+  "born": "1945-11-08",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Visalia",
+   "Rancho Cordova",
+   "Sacramento",
+   "Goleta",
+   "Ventura",
+   "Dana Point",
+   "Irvine"
+  ],
+  "activeFrom": 1975,
+  "activeTo": 1986,
+  "victims": {
+   "convicted": 13,
+   "confessed": 13,
+   "suspected": "13 murders; prosecutors also attribute about 50 rapes and more than 120 burglaries"
+  },
+  "victimProfile": "Men and women attacked in their homes at night, often couples; earlier victims were women and girls raped during home invasions",
+  "method": [
+   "shooting",
+   "bludgeoning"
+  ],
+  "apprehended": "2018-04-24",
+  "captureMethod": "Forensic genetic genealogy on the GEDmatch database pointed investigators to his family, and crime-scene DNA was then matched to samples taken from his car door handle and a discarded tissue.",
+  "legalStatus": "Convicted",
+  "sentence": "11 consecutive life terms without parole for 13 murders, plus further life terms for 13 kidnapping counts and eight years for enhancements (August 21, 2020)",
+  "fate": "Imprisoned",
+  "fateDetail": "California State Prison, Corcoran (protective custody)",
+  "summary": "Imprisoned for life. Joseph DeAngelo, the Golden State Killer, pleaded guilty in 2020 to 13 California murders committed from 1975 to 1986 and admitted dozens of rapes; he was identified in 2018 through forensic genetic genealogy.",
+  "narrative": [
+   "Joseph James DeAngelo is the former California police officer identified in 2018 as the Golden State Killer, the offender earlier known as the Visalia Ransacker, the East Area Rapist and the Original Night Stalker. On June 29, 2020, he pleaded guilty in Sacramento County Superior Court to 13 counts of first-degree murder with special circumstances and 13 counts of kidnapping, and under the plea he admitted dozens of uncharged rapes. NBC News reported that prosecutors described crimes against 87 victims at 53 crime scenes in 11 California counties between 1975 and 1986. On August 21, 2020, Judge Michael Bowman sentenced him to consecutive life terms without the possibility of parole.",
+   "The first killing DeAngelo admitted was the September 11, 1975 shooting of Claude Snelling in Visalia, Tulare County, during the period when the Visalia Ransacker was burglarizing homes there. According to the Wikipedia article, the East Area Rapist home-invasion attacks began in Rancho Cordova, near Sacramento, on June 18, 1976, and continued into 1979; Brian and Katie Maggiore were shot to death in Rancho Cordova on February 2, 1978. The attacks then moved to Southern California. According to the Wikipedia article and charges reported by NBC News, Robert Offerman and Debra Manning were killed in Goleta on December 30, 1979; Lyman and Charlene Smith in Ventura on March 13, 1980; Keith and Patrice Harrington in Dana Point on August 19, 1980; Manuela Witthuhn in Irvine on February 6, 1981; Cheri Domingo and Gregory Sanchez in Goleta on July 27, 1981; and Janelle Cruz in Irvine in May 1986. The later victims were bludgeoned in their homes after being bound.",
+   "DNA testing eventually linked the Southern California murders to the East Area Rapist attacks. In 2018 investigators uploaded a DNA profile from crime-scene evidence to the public genealogy database GEDmatch, built family trees from distant relatives who matched, and narrowed the candidates to DeAngelo. NBC News reported that Sacramento County Sheriff Scott Jones said investigators confirmed the match with discarded DNA after six days of surveillance; according to the Wikipedia article the samples came from his car door handle and a tissue in his trash. He was arrested at his Citrus Heights home on April 24, 2018, at age 72, in the first widely publicized arrest made through forensic genetic genealogy.",
+   "NBC News reported that at an August 2018 arraignment DeAngelo faced 13 murder counts across Sacramento, Santa Barbara, Tulare, Ventura and Orange counties and 13 kidnapping counts in Sacramento and Contra Costa counties; the kidnapping charges were used because California's statute of limitations barred prosecution of the rapes themselves. The district attorneys agreed to consolidate all of the cases in Sacramento.",
+   "The 2020 plea agreement spared DeAngelo the death penalty. The Associated Press, in a report carried by PBS NewsHour, said prosecutors had initially sought death but accepted life terms, citing California's execution moratorium, the pandemic and the ages of the defendant, victims and witnesses. Sentencing followed three days of victim impact statements in a university ballroom. DeAngelo, then 74, rose from a wheelchair and told the court he was sorry to everyone he had hurt, ABC News reported. The AP reported that Judge Bowman imposed 11 consecutive life terms without parole on the murder counts, additional life terms on the remaining counts and eight years for enhancements. He waived his right to appeal.",
+   "According to the Wikipedia article, DeAngelo is held in protective custody at California State Prison, Corcoran, and DNA testing has excluded him from several other unsolved killings once speculatively linked to the case.",
+   "DeAngelo was born on November 8, 1945, in Bath, New York, according to the Wikipedia article. He served in the Navy during the Vietnam War, studied police science and criminal justice, and worked as a police officer in Exeter from 1973 to 1976 and in Auburn from 1976 to 1979. NBC News reported that he was fired from the Auburn department in 1979 after being arrested for shoplifting a hammer and dog repellent. He raised three daughters in Citrus Heights and later worked as a truck mechanic. His wife filed for divorce after his arrest."
+  ],
+  "timeline": [
+   {
+    "date": "1945-11-08",
+    "text": "Joseph James DeAngelo Jr. born in Bath, New York."
+   },
+   {
+    "date": "1973-05",
+    "text": "Joins the Exeter Police Department in Tulare County; moves to the Auburn Police Department in 1976."
+   },
+   {
+    "date": "1975-09-11",
+    "text": "Claude Snelling shot and killed in Visalia while confronting a prowler; the first murder DeAngelo later admitted."
+   },
+   {
+    "date": "1976-06-18",
+    "text": "First attack attributed to the East Area Rapist, in Rancho Cordova near Sacramento."
+   },
+   {
+    "date": "1978-02-02",
+    "text": "Brian and Katie Maggiore shot to death in Rancho Cordova."
+   },
+   {
+    "date": "1979-07",
+    "text": "Arrested for shoplifting a hammer and dog repellent; fired from the Auburn police in the autumn."
+   },
+   {
+    "date": "1979-12-30",
+    "text": "Robert Offerman and Debra Manning killed in Goleta, Santa Barbara County."
+   },
+   {
+    "date": "1980-03-13",
+    "text": "Lyman and Charlene Smith killed in Ventura."
+   },
+   {
+    "date": "1980-08-19",
+    "text": "Keith and Patrice Harrington killed in Dana Point, Orange County."
+   },
+   {
+    "date": "1981-02-06",
+    "text": "Manuela Witthuhn killed in Irvine."
+   },
+   {
+    "date": "1981-07-27",
+    "text": "Cheri Domingo and Gregory Sanchez killed in Goleta."
+   },
+   {
+    "date": "1986-05",
+    "text": "Janelle Cruz, 18, killed in Irvine; the last known murder."
+   },
+   {
+    "date": "2018-04-24",
+    "text": "Arrested at his Citrus Heights home after genetic genealogy and discarded-DNA testing identify him."
+   },
+   {
+    "date": "2018-08-23",
+    "text": "Arraigned in Sacramento on 13 murder counts and 13 kidnapping counts consolidated from six counties."
+   },
+   {
+    "date": "2020-06-29",
+    "text": "Pleads guilty to 13 murders and 13 kidnappings and admits dozens of uncharged rapes under a deal that removes the death penalty."
+   },
+   {
+    "date": "2020-08-21",
+    "text": "Sentenced by Judge Michael Bowman to consecutive life terms without parole."
+   }
+  ],
+  "cases": [
+   "golden-state-killer"
+  ],
+  "tags": [
+   "dna evidence",
+   "genetic genealogy",
+   "home invasion",
+   "police officer",
+   "serial rapist",
+   "guilty plea"
+  ],
+  "sources": [
+   {
+    "title": "PBS NewsHour / Associated Press - Golden State Killer sentenced to multiple life sentences",
+    "url": "https://www.pbs.org/newshour/nation/golden-state-killer-pleads-guilty-to-13-murders-evades-death-penalty"
+   },
+   {
+    "title": "NBC News - Golden State Killer sentenced to life without possibility of parole",
+    "url": "https://www.nbcnews.com/news/us-news/golden-state-killer-joseph-deangelo-sentenced-life-without-possibility-parole-n1237670"
+   },
+   {
+    "title": "NBC News - Golden State Killer suspect pleads guilty to 13 counts of first-degree murder",
+    "url": "https://www.nbcnews.com/news/us-news/golden-state-killer-suspect-plead-guilty-13-counts-first-degree-n1232395"
+   },
+   {
+    "title": "NBC News - Golden State Killer suspect arraigned on rape-related charges",
+    "url": "https://www.nbcnews.com/news/crime-courts/golden-state-killer-suspect-arraigned-new-charges-n903406"
+   },
+   {
+    "title": "NBC News - Ex-cop arrested in serial murder-rape cold case",
+    "url": "https://www.nbcnews.com/news/us-news/golden-state-killer-case-ex-cop-arrested-serial-murder-rape-n868936"
+   },
+   {
+    "title": "ABC News - 'Golden State Killer' addresses the court at sentencing",
+    "url": "https://abcnews.com/US/living-witness-teen-dads-murder-confronts-golden-state/story?id=72473195"
+   },
+   {
+    "title": "PBS NewsHour - California authorities say DNA match led to arrest in Golden State Killer case",
+    "url": "https://www.pbs.org/newshour/nation/watch-live-california-authorities-expected-to-announce-new-developments-in-golden-state-killer-case"
+   },
+   {
+    "title": "Wikipedia - Joseph James DeAngelo",
+    "url": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Joseph_James_DeAngelo",
+  "enriched": true,
+  "verified": "2026-10-28",
+  "searchVolume": 11000
+ },
+ {
   "id": "nannie-doss",
   "name": "Nannie Doss",
   "aliases": [
@@ -2528,5 +2856,156 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 9100
+ },
+ {
+  "id": "todd-kohlhepp",
+  "name": "Todd Kohlhepp",
+  "aliases": [
+   "Todd Christopher Kohlhepp",
+   "Todd Christopher Sampsell"
+  ],
+  "born": "1971-03-07",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "South Carolina"
+  ],
+  "primaryState": "South Carolina",
+  "cities": [
+   "Chesnee",
+   "Woodruff",
+   "Spartanburg"
+  ],
+  "activeFrom": 2003,
+  "activeTo": 2016,
+  "victims": {
+   "convicted": 7,
+   "confessed": 7,
+   "suspected": "7; Kohlhepp later claimed additional undisclosed victims, none verified"
+  },
+  "victimProfile": "Four employees of a motorcycle shop shot during a 2003 robbery-style attack, and three people hired to work on his rural property in 2015 and 2016",
+  "method": [
+   "shooting"
+  ],
+  "apprehended": "2016-11-03",
+  "captureMethod": "Deputies tracing the last cellphone signals of a missing couple searched his Woodruff property and found Kala Brown alive, chained inside a storage container",
+  "legalStatus": "Convicted",
+  "sentence": "Seven consecutive life sentences without parole plus 60 years for kidnapping and criminal sexual conduct (May 26, 2017); appeal waived under plea agreement",
+  "fate": "Imprisoned",
+  "fateDetail": "South Carolina Department of Corrections; Wikipedia, citing the SCDC inmate record, lists Broad River Correctional Institution, Columbia",
+  "summary": "Imprisoned for life. Todd Kohlhepp, a South Carolina real estate agent, pleaded guilty in May 2017 to seven murders: the 2003 Superbike Motorsports shootings in Chesnee and three people killed on his Woodruff property in 2015 and 2016.",
+  "narrative": [
+   "Todd Kohlhepp is a South Carolina real estate agent who pleaded guilty on May 26, 2017, to seven counts of murder committed in Spartanburg County between 2003 and 2016: the four Superbike Motorsports killings in Chesnee in November 2003 and three people killed on his rural property near Woodruff in 2015 and 2016. He received seven consecutive life sentences without parole under a plea agreement that took the death penalty off the table. No court has attributed further deaths to him, although he has since claimed, without specifics, that there are more victims.",
+   "The Superbike Motorsports killings were a cold case for 13 years. According to ABC News, shop owner Scott Ponder, 30, service manager Brian Lucas, 29, mechanic Chris Sherbert, 26, and bookkeeper Beverly Guy, 52, Ponder's mother, were found on the morning of November 6, 2003, and investigators said all four had been shot with the same pistol. NBC News reported that at his plea hearing Kohlhepp admitted shooting the workers after the shop's manager made him angry.",
+   "The next known killings came in December 2015. NPR, citing the arrest warrants, reported that Johnny Joe Coxie, 29, was shot on December 19, 2015, and that his wife, Meagan Leigh McCraw Coxie, 25, was kidnapped that day and shot on either December 20 or December 26. The couple had been hired to work on Kohlhepp's property and were reported missing in late December. Their remains were recovered in November 2016 after Kohlhepp led investigators to the graves.",
+   "The case broke open in 2016. Kala Brown, 30, and her boyfriend Charles David Carver, 32, disappeared on about August 31, 2016, after going to a cleaning job on Kohlhepp's fenced property of nearly 100 acres near Woodruff. The Associated Press reported that Spartanburg County deputies, led there by the couple's last known cellphone signals, found Brown chained inside a metal storage container on November 3, 2016, after about two months in captivity. Brown told investigators she had watched Kohlhepp shoot Carver, whose body was found in a shallow grave on the property the next day. Brown has spoken publicly about her ordeal.",
+   "Kohlhepp was arrested on November 3, 2016, and charged with kidnapping Brown. According to the AP, Sheriff Chuck Wright announced on November 5 that Kohlhepp had voluntarily confessed to the four Superbike murders and pointed out two more graves. On November 28, 2016, prosecutors added three murder counts for Carver and the Coxies with kidnapping and weapons charges, NBC News and NPR reported.",
+   "On May 26, 2017, Kohlhepp pleaded guilty in Spartanburg County to seven counts of murder, two counts of kidnapping, one count of first-degree criminal sexual conduct and weapons charges. WLOS reported that under the nine-page agreement, signed by Seventh Circuit Solicitor Barry Barnette, Sheriff Wright and Brown, he received seven consecutive life terms plus 30 years each for the kidnapping and sexual-conduct counts, waived his right to appeal, and agreed never to seek parole. Barnette said the state could have pursued execution but chose a plea in part because South Carolina's lethal-injection drugs had expired, NBC News reported. Through his attorney, Kohlhepp said there were no other victims.",
+   "That claim did not hold. The Associated Press reported in December 2017 that Kohlhepp had written an eight-page letter to the Spartanburg Herald-Journal saying he had additional undiscovered victims but saw no reason to give numbers or locations; the FBI's Columbia office confirmed a pending investigation. According to Wikipedia, he was named a person of interest in a 2003 Greer bank triple homicide, which he denied and which has not been linked to him. Brown and victims' relatives have filed civil suits.",
+   "Kohlhepp was born Todd Christopher Sampsell in Fort Lauderdale, Florida, on March 7, 1971, according to Wikipedia. As a teenager in Tempe, Arizona, he forced a 14-year-old neighbor into his home at gunpoint and assaulted her; the AP reported he pleaded guilty to kidnapping in 1987, the sexual-assault charge was dismissed, and he served about 15 years and had to register as a sex offender. After his release in 2001 he moved to South Carolina, obtained a real estate license in 2006 and built a brokerage with more than a dozen agents."
+  ],
+  "timeline": [
+   {
+    "date": "1971-03-07",
+    "text": "Born Todd Christopher Sampsell in Fort Lauderdale, Florida."
+   },
+   {
+    "date": "1987",
+    "text": "Pleads guilty in Arizona to kidnapping a 14-year-old neighbor at gunpoint; sentenced to 15 years and required to register as a sex offender."
+   },
+   {
+    "date": "2001",
+    "text": "Released from prison in Arizona and moves to South Carolina."
+   },
+   {
+    "date": "2003-11-06",
+    "text": "Scott Ponder, Brian Lucas, Chris Sherbert and Beverly Guy found shot dead at Superbike Motorsports in Chesnee; the case goes unsolved for 13 years."
+   },
+   {
+    "date": "2015-12-19",
+    "text": "Johnny Coxie, 29, shot on Kohlhepp's Woodruff property; his wife Meagan Coxie, 25, kidnapped the same day, per arrest warrants."
+   },
+   {
+    "date": "2015-12",
+    "text": "Meagan Coxie shot on December 20 or 26, per the warrant; the couple are reported missing in late December."
+   },
+   {
+    "date": "2016-08-31",
+    "text": "Kala Brown and Charles Carver disappear after going to a cleaning job on Kohlhepp's property."
+   },
+   {
+    "date": "2016-11-03",
+    "text": "Deputies find Brown alive, chained in a storage container; Kohlhepp arrested and charged with kidnapping."
+   },
+   {
+    "date": "2016-11-04",
+    "text": "Carver's body found in a shallow grave on the property; cause of death multiple gunshot wounds."
+   },
+   {
+    "date": "2016-11-05",
+    "text": "Sheriff Chuck Wright announces Kohlhepp has confessed to the 2003 Superbike killings and shown deputies two more graves."
+   },
+   {
+    "date": "2016-11-28",
+    "text": "Charged with the murders of Carver and the Coxies, plus kidnapping and weapons counts; seven murder charges in total."
+   },
+   {
+    "date": "2017-05-26",
+    "text": "Pleads guilty to seven murders, two kidnappings and criminal sexual conduct; sentenced to seven consecutive life terms plus 60 years, no appeal."
+   },
+   {
+    "date": "2017-12-11",
+    "text": "AP reports Kohlhepp's letter to the Spartanburg Herald-Journal claiming more victims; the FBI confirms a pending investigation."
+   }
+  ],
+  "cases": [
+   "todd-kohlhepp"
+  ],
+  "tags": [
+   "cold case solved",
+   "survivor rescue",
+   "plea deal",
+   "real estate",
+   "sex offender"
+  ],
+  "sources": [
+   {
+    "title": "NBC News - South Carolina serial killer Todd Kohlhepp pleads guilty to 7 murders (May 26, 2017)",
+    "url": "https://www.nbcnews.com/news/us-news/south-carolina-serial-killer-todd-kohlhepp-pleads-guilty-7-murders-n765091"
+   },
+   {
+    "title": "WLOS - Todd Kohlhepp pleads guilty to 7 killings in exchange for life sentences (May 26, 2017)",
+    "url": "https://wlos.com/news/local/todd-kohlhepp-scheduled-to-be-in-court-friday"
+   },
+   {
+    "title": "CBS News / AP - Todd Kohlhepp, accused of chaining woman, confesses to 2003 murders, sheriff says (Nov. 5, 2016)",
+    "url": "https://www.cbsnews.com/news/todd-kohlhepp-accused-of-kidnapping-kala-brown-confesses-to-2003-murders-sheriff-says/"
+   },
+   {
+    "title": "ABC News - Todd Kohlhepp's confession to 2003 murders in South Carolina (Nov. 7, 2016)",
+    "url": "https://abcnews.com/US/todd-kohlhepps-confession-2003-murders-south-carolina/story?id=43358913"
+   },
+   {
+    "title": "NPR - Suspected S.C. serial killer charged with 3 more murders (Nov. 29, 2016)",
+    "url": "https://text.npr.org/503723064"
+   },
+   {
+    "title": "NBC News - Suspected serial killer Todd Kohlhepp charged with three more murders (Nov. 28, 2016)",
+    "url": "https://www.nbcnews.com/news/us-news/s-c-suspected-serial-killer-todd-kohlhepp-charged-three-more-n689336"
+   },
+   {
+    "title": "WDBJ / AP - South Carolina serial killer says there are more victims (Dec. 11, 2017)",
+    "url": "https://www.wdbj7.com/content/news/South-Carolina-serial-killer-says-there-are-more-victims-463420093.html"
+   },
+   {
+    "title": "Wikipedia - Todd Kohlhepp",
+    "url": "https://en.wikipedia.org/wiki/Todd_Kohlhepp"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Todd_Kohlhepp",
+  "enriched": true,
+  "verified": "2026-10-28",
+  "searchVolume": 11000
  }
 ]
