@@ -81,6 +81,8 @@ def main():
         # Mediavine requires exclusivity: no AdSense or other ad-network code may remain.
         if 'scripts.scriptwrapper.com/tags/07246c68-4098-4276-b4dd-3605803c5564.js' not in head:
             errors.append(f'{path}: Mediavine script missing from head')
+        if 'id="ad-management-config-settings"' not in s.split('</head>', 1)[-1][:400]:
+            errors.append(f'{path}: Mediavine ad config div missing from the top of body')
         for tag in ('adsbygoogle', 'pagead2.googlesyndication.com', 'ca-pub-', 'gtag(\'consent\''):
             if tag in s:
                 errors.append(f'{path}: contains ad-network or consent code "{tag}"')

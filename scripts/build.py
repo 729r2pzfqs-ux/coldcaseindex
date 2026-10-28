@@ -54,6 +54,11 @@ e = html.escape
 # display, video and native ads: no other ad network code may be added here. ──
 MEDIAVINE = ('<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" '
              'src="//scripts.scriptwrapper.com/tags/07246c68-4098-4276-b4dd-3605803c5564.js"></script>')
+# Mediavine ad settings, read by the script wrapper from the first element in <body>:
+# blocks the recipe unit, the auto-inserted sticky unit and interstitials.
+MEDIAVINE_CONFIG = ('<div id="ad-management-config-settings" data-blocklist-recipe="1" '
+                    'data-blocklist-auto-insert-sticky="1" data-blocklist-interstitial-mobile="1" '
+                    'data-blocklist-interstitial-desktop="1" ></div>')
 GA = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
       '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
       'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
@@ -523,6 +528,7 @@ def page(*, title, desc, canonical, prefix, body, schema, active=None, og_type='
 {ld}
 </head>
 <body>
+{MEDIAVINE_CONFIG}
 
 {header(prefix, active)}
 
