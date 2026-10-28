@@ -1,5016 +1,5016 @@
 {
 "404.html": {
-"hash": "750b897bdd10df9e",
+"hash": "0f8be2a057c71b68",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "about/index.html": {
-"hash": "d15a6483036e0410",
+"hash": "1c8d2a08e57ea84f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "analysis/cold-case-resolution-methods/index.html": {
-"hash": "cce3931b6530b8ac",
+"hash": "8dee72385f001a53",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "analysis/how-long-cold-cases-take-to-solve/index.html": {
-"hash": "1231ba20923d6b6e",
+"hash": "002c7bf9d021ca97",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "analysis/index.html": {
-"hash": "b7f9184e4e320a44",
+"hash": "8c854c59e867e722",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cases/16th-street-bombing/index.html": {
-"hash": "d6851a5c14767ad1",
+"hash": "4146035e9a6e8663",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/abby-hernandez/index.html": {
-"hash": "983b1de8663f34ec",
+"hash": "cb6c3fd3d18a4995",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/adam-walsh/index.html": {
-"hash": "aab524478eda1b91",
+"hash": "2f0d5d0b7a7ed235",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/adea-shabani-2018/index.html": {
-"hash": "95bf9b41f39020ac",
+"hash": "bb44f68eb5f65af5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ahmaud-arbery-2020/index.html": {
-"hash": "064d68046c880d87",
+"hash": "9dbe3cd1186407ed",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/aileen-wuornos/index.html": {
-"hash": "383e5bde2c45145f",
+"hash": "3bff7567ced53e78",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/alex-batty-france-2023/index.html": {
-"hash": "98650b9b7bdfaf59",
+"hash": "f60d7c2dc4f5ba99",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/alexander-litvinenko-2006/index.html": {
-"hash": "bf8190169c46ceef",
+"hash": "2af6ddab25063bc6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/alexis-murphy/index.html": {
-"hash": "edee3cbb3047fab1",
+"hash": "e9842688761d08f6",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/alexis-patterson/index.html": {
-"hash": "c52db86bd4e06395",
+"hash": "20dc923f14c25fb4",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/aliayah-lunsford-2011/index.html": {
-"hash": "a02e8df978420772",
+"hash": "c2428a4f1e50d820",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/alice-crimmins/index.html": {
-"hash": "d99263e8d731dc3b",
+"hash": "606f2ee96bf8dbc6",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/alissa-turney-2001/index.html": {
-"hash": "b55b90209646626c",
+"hash": "d5150da4e12d0134",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/alonzo-brooks-2004/index.html": {
-"hash": "b7c11afd8a887fd0",
+"hash": "b76d940e68b2e737",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/alphabet-murders-1970s/index.html": {
-"hash": "0bcd7d621eb569f1",
+"hash": "182cc3333e4a3267",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/amber-dubois/index.html": {
-"hash": "6fb60701b2208ee2",
+"hash": "166149676aba47dd",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/amber-hagerman/index.html": {
-"hash": "ce61270b6c9583a6",
+"hash": "5255c83152f627e6",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/amber-swartz/index.html": {
-"hash": "811d3e241bdb8e7c",
+"hash": "1a5cc11efa04bfb0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/amelia-earhart/index.html": {
-"hash": "d0ee0b0fd4a9b6d7",
+"hash": "697caca62a6b0cd3",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/amy-bechtel/index.html": {
-"hash": "cb1e49f4f37839bd",
+"hash": "2e5989f17adb8de1",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/amy-lord-2013/index.html": {
-"hash": "77856a0de8df261c",
+"hash": "bd6f21ddf1106219",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/amy-lynn-bradley-1998/index.html": {
-"hash": "72ff3d6043bd0098",
+"hash": "57db4a52d664262b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/amy-mihaljevic-1989/index.html": {
-"hash": "de48863b86ef0dab",
+"hash": "5785695ad4056cf0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ana-walshe/index.html": {
-"hash": "30ca82af5fecf003",
+"hash": "a747632b079b6f58",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/andre-chikatilo-1992/index.html": {
-"hash": "1da268c477feebe9",
+"hash": "d4e8728e24ae1b9d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/andrea-yates-2001/index.html": {
-"hash": "6a7b8e3bc2e21fdc",
+"hash": "a31803596b6c5f1f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/andrew-gosden-2007/index.html": {
-"hash": "05d78c0a02222261",
+"hash": "6fb8a5259d1716bc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/angela-hammond-1991/index.html": {
-"hash": "bc72089eb0e4355d",
+"hash": "17488069eb8c5abc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/angela-samota/index.html": {
-"hash": "9e26b7af93643478",
+"hash": "9474ce26fe3fff4c",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/angie-dodge-1996/index.html": {
-"hash": "f1c8c187f31fb6cc",
+"hash": "c588783111ad40b2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/angie-housman-1993/index.html": {
-"hash": "9e9c0791091702d4",
+"hash": "1fbfea47714bc58f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/aniah-blanchard-2019/index.html": {
-"hash": "155b7f2ef2ea3c28",
+"hash": "2fe37f6632f5cf54",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ann-gotlib-1983/index.html": {
-"hash": "da8f14abdaca9ac7",
+"hash": "2d9db50c580d7206",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ann-marie-burr-1961/index.html": {
-"hash": "f6a71d11495a9b5f",
+"hash": "355bd104b8b0d1eb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/anna-mae-aquash-1975/index.html": {
-"hash": "289acfc8015f5acf",
+"hash": "d7efbf62b0bfd6ae",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/anne-marie-fahey-1996/index.html": {
-"hash": "053c57c0850144bd",
+"hash": "0067d476b10648b7",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/annecy-knife-attack-2023/index.html": {
-"hash": "e0f8de5d2f4264e1",
+"hash": "0d15fe9be650cf26",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/anthonette-cayedito/index.html": {
-"hash": "a38d7ebc52365442",
+"hash": "a4aed24132ecf547",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/anthony-big-jook-mims-2024/index.html": {
-"hash": "cdac6c1c8d70a519",
+"hash": "f1f65c152973771e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/anthony-martinez-1997/index.html": {
-"hash": "7491c8029e7fa00f",
+"hash": "864caa799645e280",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/anthony-sowell/index.html": {
-"hash": "9b9872b8e8148889",
+"hash": "d12623cd58e41e32",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/april-jones-wales-2012/index.html": {
-"hash": "f891e62c35f0c349",
+"hash": "89496145c359943f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/april-tinsley-1988/index.html": {
-"hash": "6fe30475768e410e",
+"hash": "c9ec3b820fb85c28",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ariel-castro-victims/index.html": {
-"hash": "095ce70cdc2105c0",
+"hash": "fe84d9539cd2d476",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/arlis-perry-1974/index.html": {
-"hash": "4b3a40c5f17c3ce7",
+"hash": "d7527477f79f0a31",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/asha-degree/index.html": {
-"hash": "b0dc3a625f98d36b",
+"hash": "07260c67efc81fd4",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ashley-ellerin-2001/index.html": {
-"hash": "cc8ec352320cb0b2",
+"hash": "7a7d5be3d0a8add6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ashley-loring-heavyrunner-2017/index.html": {
-"hash": "cd1350ad123561bc",
+"hash": "b38920812297d1a1",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/audrii-cunningham-2024/index.html": {
-"hash": "3ad04bd044db1d73",
+"hash": "77d987a51fb9c070",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/aundria-bowman-1989/index.html": {
-"hash": "5c261e26853172eb",
+"hash": "c9d163ea6db6db43",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/austin-yogurt-shop-murders-1991/index.html": {
-"hash": "28e38e4bd2057dc8",
+"hash": "81ae99544c843631",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/avonte-oquendo/index.html": {
-"hash": "e1339e39b07f7234",
+"hash": "e98b64710b5c5dd8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/baby-hope-1991/index.html": {
-"hash": "086fa334965610f9",
+"hash": "a82e158ba80a2830",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/barbara-blatnik-1987/index.html": {
-"hash": "fe94719d5e807504",
+"hash": "82753278a3f0f3fa",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/barbara-bolick-2007/index.html": {
-"hash": "4a4f48ddd6a7a31b",
+"hash": "555b599037ed2818",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/barbara-cotton-1981/index.html": {
-"hash": "ecb7353ff07b4f28",
+"hash": "1caf5456f165432c",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/barbara-gibbons-1973/index.html": {
-"hash": "c83da08ccc535b41",
+"hash": "95030edf52169f67",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/barbara-jane-mackle/index.html": {
-"hash": "1d1a7daefe9a8b61",
+"hash": "ac72ea047454ed35",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/bear-brook-murders/index.html": {
-"hash": "431d2574eff9fb3e",
+"hash": "135d0435e79ff2cb",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/beaumont-children-1966/index.html": {
-"hash": "523eea22acfddebe",
+"hash": "2982991939b43468",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bedford-jane-doe-1971/index.html": {
-"hash": "1aec4ab4b5496813",
+"hash": "f9a65f8763543db0",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/belle-in-the-well-1981/index.html": {
-"hash": "2b2a4a5894ce573f",
+"hash": "5fc785fc04bb98ca",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ben-mcdaniel-2010/index.html": {
-"hash": "d4c370b692114281",
+"hash": "94771660472673c9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ben-needham-1991/index.html": {
-"hash": "6168f9589410d9dc",
+"hash": "9f83c9f61e46bd02",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/beth-doe-1976/index.html": {
-"hash": "b749bab09c62f187",
+"hash": "5b2688ea2b52e4bf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/betsy-aardsma-1969/index.html": {
-"hash": "5f9d658dcd5aec84",
+"hash": "d59e074125364e65",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/betty-broderick/index.html": {
-"hash": "2a1e8f86d7871661",
+"hash": "4ee56c17001d56ca",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/betty-gore-1980/index.html": {
-"hash": "093b25de2aa6e9b9",
+"hash": "92bfce8caab716b3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/beverly-lynn-smith-1974/index.html": {
-"hash": "e3dbac5551636f57",
+"hash": "ab8b9d4457a0318b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/beverly-potts/index.html": {
-"hash": "c60929d8d8442e55",
+"hash": "89041c745ad53dcc",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/bianca-devins-2019/index.html": {
-"hash": "3a8e956b84a76cd5",
+"hash": "b830498907b0b126",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bianca-lebron-2001/index.html": {
-"hash": "c547cfa1e0a5d58d",
+"hash": "d0cf37c7ed669d32",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bible-john-1968/index.html": {
-"hash": "a729afe9fd9da319",
+"hash": "c0aaa6c7557d3b7b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/biddeford-jane-doe-2009/index.html": {
-"hash": "f663e664b759aef0",
+"hash": "3fcfb3962feef514",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/biggie-smalls/index.html": {
-"hash": "385e23ac846e14c2",
+"hash": "e0697d55ca19078e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/binnicker-thames-murders-1944/index.html": {
-"hash": "b6acd4a49d2783af",
+"hash": "0638d5e7134d8ee2",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/black-dahlia/index.html": {
-"hash": "5fc3433ed656c216",
+"hash": "babb28682ab3433e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/blair-adams-1996/index.html": {
-"hash": "43b29520b20bec07",
+"hash": "3116abbd38867028",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/blue-ridge-bank-murders/index.html": {
-"hash": "ef2691e74b29e495",
+"hash": "a1cd870c7a477caf",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/bob-crane/index.html": {
-"hash": "705fc24bcb72af7a",
+"hash": "b09ab5a9227ecbea",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/bobbie-jo-stinnett-2004/index.html": {
-"hash": "ec2087252023274a",
+"hash": "327a011e0e6066eb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bobby-dunbar-1912/index.html": {
-"hash": "e89e826bb17acdc8",
+"hash": "d8cb91a06c7c237d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bobby-franks-1924/index.html": {
-"hash": "507242269b6faac9",
+"hash": "a880ffdb4d9d3d65",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/bobby-greenlease-1953/index.html": {
-"hash": "8a424b3a0152a565",
+"hash": "3397e140356acd5d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/bonnie-garland/index.html": {
-"hash": "bf6e032c3cb4ff89",
+"hash": "95f1358204baeffc",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/bonny-lee-bakley/index.html": {
-"hash": "6a8eae7070f17952",
+"hash": "6ba085d4d3c59fdd",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/borden-murders-1892/index.html": {
-"hash": "19b0561ea66bd623",
+"hash": "c509ac870ee80921",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/boston-strangler/index.html": {
-"hash": "dd8cbadb23bf4b03",
+"hash": "305fce88bda4b8f8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/botham-jean/index.html": {
-"hash": "ea857d0636dfd710",
+"hash": "879a151243af86f8",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/boy-in-the-box-1957/index.html": {
-"hash": "6db62ce71da4ed9f",
+"hash": "e8ab294a9d3d5374",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brandon-lawson-2013/index.html": {
-"hash": "5d6cfb1f21a0fbca",
+"hash": "4ac16eb84bc9b1b0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brandon-swanson-2008/index.html": {
-"hash": "dd3bfd3d792a335c",
+"hash": "2da1f6924c05a921",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/brandy-hall-2006/index.html": {
-"hash": "dd087e63e173cef2",
+"hash": "ae6c623a707d9a39",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/branson-perry-2001/index.html": {
-"hash": "10d83d7abd106784",
+"hash": "95b7a844721a85c3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/breonna-taylor/index.html": {
-"hash": "36c45a0469c2e332",
+"hash": "362bfcace4284f3b",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/brian-carrick-2002/index.html": {
-"hash": "b1105ddb38459c1a",
+"hash": "7724402feff875a7",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/brian-shaffer-2006/index.html": {
-"hash": "1eff7cfa396aaf07",
+"hash": "3cf61aebaf2c107f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brianna-ghey-2023/index.html": {
-"hash": "b9960280c84eb29a",
+"hash": "706d37faac9ff733",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brianna-maitland-2004/index.html": {
-"hash": "97af1540c091f7b2",
+"hash": "1c0f6262ac14ccf6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brittanee-drexel/index.html": {
-"hash": "2f972d25ef812e03",
+"hash": "43b9fbea8cab978e",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/brittany-killgore/index.html": {
-"hash": "1dc48aac4b842a55",
+"hash": "ac9874f5995b9d3d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/brittany-phillips-2004/index.html": {
-"hash": "8a115a4e52deb45c",
+"hash": "de2073676868ad92",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/brittney-wood-2012/index.html": {
-"hash": "b6f1a5c2b143cc5c",
+"hash": "e1f3c0bc0ef892de",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/bryce-laspisa-2013/index.html": {
-"hash": "a9a7a81b64c276ad",
+"hash": "81058c1962decb47",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/btk-victims/index.html": {
-"hash": "9daf52545c8b0ee9",
+"hash": "150fba4d8d986510",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/caleb-harris-2024/index.html": {
-"hash": "a6410db098332771",
+"hash": "d03fe0765e63cdb0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/camoflauge-jason-johnson-2003/index.html": {
-"hash": "660c7df853729cf7",
+"hash": "6f4a529bc2e18121",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/cara-knott-1986/index.html": {
-"hash": "7852c6cde4395037",
+"hash": "0682d2e19db846de",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/cari-farver-2012/index.html": {
-"hash": "8f020619b0cf6fb9",
+"hash": "114d9951d4c87b82",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/carla-walker-1974/index.html": {
-"hash": "bf6ed2617f2584c0",
+"hash": "78fe1ef68a34bd73",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/carlene-brown-1974/index.html": {
-"hash": "ffe249c0edc88e44",
+"hash": "38277befe351f533",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/carlie-brucia/index.html": {
-"hash": "6b081a4ae5080bb3",
+"hash": "fb9b7d742daa48e9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/carol-stuart-1989/index.html": {
-"hash": "8d88b8a882e2ffaa",
+"hash": "8cc1e0540c00e817",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/carrie-brown/index.html": {
-"hash": "601782b628320c7a",
+"hash": "cc2f324745343428",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/cassie-jo-stoddart/index.html": {
-"hash": "1e96003f877ffdf6",
+"hash": "1bd06e841cec6610",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/cayce-mcdaniel/index.html": {
-"hash": "c0b5272f04aa8526",
+"hash": "2b45a7f0fc57bf91",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/caylee-anthony/index.html": {
-"hash": "4862ab687c7160ac",
+"hash": "85c1d8d2c638fbe2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/cecilia-zhang-2003/index.html": {
-"hash": "5aa62ea4ee839dba",
+"hash": "d5ec477cf9e2aff1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/chad-doerman-2023/index.html": {
-"hash": "83d36f67194e0033",
+"hash": "d48d7b6015a9310c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/chad-isaak-2019/index.html": {
-"hash": "09bea6a240ed27bc",
+"hash": "81870e5e2a732417",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/chandra-levy/index.html": {
-"hash": "8d58a1aabc7a83c0",
+"hash": "d0c81a7167ddab79",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/chaney-goodman-schwerner/index.html": {
-"hash": "b5cb3a6cf0c978b2",
+"hash": "f9584e552f87f903",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/charles-albright-victims-1990/index.html": {
-"hash": "2e10f01333282c82",
+"hash": "ac0fb701a7b67420",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/charles-manson-victims/index.html": {
-"hash": "1ad7c115b5543768",
+"hash": "ca3608ba3a2f0a9a",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/charles-morgan-1977/index.html": {
-"hash": "530ab6e721565dc0",
+"hash": "abc56f9d2564707d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/chelsea-king/index.html": {
-"hash": "b1b353ed2b84b8df",
+"hash": "cab00d4d769a57bc",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/cheri-jo-bates/index.html": {
-"hash": "37bc53c6850d1a48",
+"hash": "a9b3439d4d971ba1",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/cherrie-mahan-1985/index.html": {
-"hash": "8428426caf6eaaa8",
+"hash": "1a766f1e3e37ab06",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/cheryl-grimmer-1970/index.html": {
-"hash": "6dae36140087d580",
+"hash": "be44d91a2379e54d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/chicago-tylenol-murders/index.html": {
-"hash": "92fb2cf3738965b9",
+"hash": "18b79b6be654066b",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/chris-benoit/index.html": {
-"hash": "e0ecf75fbe3574b3",
+"hash": "a0a62e281968291d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/christine-eastin/index.html": {
-"hash": "ebc021a3aa415f8c",
+"hash": "2161e62809ee0567",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/christopher-abeyta-1986/index.html": {
-"hash": "fb95e2a87fa185e5",
+"hash": "a3a1b83b4fa2d54f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/christopher-kerze-1990/index.html": {
-"hash": "9015ef8d73ade40e",
+"hash": "0320d9b6cf96270c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/christopher-wilder-1984/index.html": {
-"hash": "a6204a860b6583bd",
+"hash": "a122464ddd4922ab",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/cieha-taylor-2020/index.html": {
-"hash": "eb1bd97483f5adf9",
+"hash": "b0bcfb95aa1d1494",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/cindy-song-2001/index.html": {
-"hash": "5fbe76b0823372e5",
+"hash": "0abafcad554cc37c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/circleville-letters-1976/index.html": {
-"hash": "7dc9e8304b089a63",
+"hash": "55bbf3f217e23290",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/claremont-serial-murders-1996/index.html": {
-"hash": "7afae291cd2ae069",
+"hash": "66ed4843e1aff188",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/claudia-kirschhoch-2001/index.html": {
-"hash": "7fb7930660f07096",
+"hash": "bd5736cb03fcc11c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/claudia-lawrence-2009/index.html": {
-"hash": "caed1cdce0d3b5a1",
+"hash": "bdf29a09e770c1f5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/cleo-smith-rescue-2021/index.html": {
-"hash": "9bbb34323db0ce23",
+"hash": "0b06ae4117d112d8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/clifford-olson-canada-1981/index.html": {
-"hash": "58d85633fe15247e",
+"hash": "3dcb1ebf582cc94a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/colonial-pkwy-murders/index.html": {
-"hash": "36932c10183a1570",
+"hash": "234e144e7140ea93",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/connecticut-river-valley-killer/index.html": {
-"hash": "385e14e1797ecbb9",
+"hash": "c551f8831b559910",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/connie-ridgeway-2015/index.html": {
-"hash": "8eaf084dc28cdc6e",
+"hash": "effb34568cfca483",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/connor-betts-dayton-2019/index.html": {
-"hash": "70899b663dcf63df",
+"hash": "adeee29892210e3e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/constance-marten-2023/index.html": {
-"hash": "a0cd940b66fa3b1b",
+"hash": "8fea6ded2e1cef07",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/coral-eugene-watts/index.html": {
-"hash": "42f87435a8125b48",
+"hash": "d876fd6397668483",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/corrie-mckeague-2016/index.html": {
-"hash": "8aeaabb3e185df5e",
+"hash": "79251b9b8316ae54",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/crystal-rogers-2015/index.html": {
-"hash": "f7bd5548f2ffd7df",
+"hash": "05911260b74f574f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/crystal-tymich/index.html": {
-"hash": "40e9571de2d0df84",
+"hash": "3439675b35db2fd5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/d-b-cooper/index.html": {
-"hash": "64868e048ba19430",
+"hash": "562599330855af21",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/dag-hammarskjold-1961/index.html": {
-"hash": "62853b0b5b9103ec",
+"hash": "c8261fbe920601c3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dagmar-hagelin-1977/index.html": {
-"hash": "89e593f027892996",
+"hash": "bb69915bd7c6fb76",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dail-dinwiddie-1992/index.html": {
-"hash": "84ea873720621ab5",
+"hash": "1db1a33795db8301",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/damon-bluthenthal-2024/index.html": {
-"hash": "25a3cff0f4faac73",
+"hash": "0eb4fd2b3139437f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dana-ireland-1991/index.html": {
-"hash": "5fc6cb0d49d981c7",
+"hash": "a6d3be98a96e02e2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/daniel-barter/index.html": {
-"hash": "214e85a25bea61a1",
+"hash": "e32c098f6db0cc12",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/daniel-brophy-2018/index.html": {
-"hash": "2ad94e3eaae60fd8",
+"hash": "e4e135f5cd51a288",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/daniel-holtzclaw-2015/index.html": {
-"hash": "71eea88a10fc808f",
+"hash": "aa9f531a1c2411e4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/daniel-morcombe-2003/index.html": {
-"hash": "4064ff08e3db63d9",
+"hash": "d09fe0c4196bbdf3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/daniel-morgan-1987/index.html": {
-"hash": "94ea6157d062e42f",
+"hash": "0e4ecd168ec48f51",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/daniel-pearl/index.html": {
-"hash": "2cb97e429d340061",
+"hash": "9b03888250e0c892",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/daniel-pelka-2012-uk/index.html": {
-"hash": "19b3acb2e3d7e387",
+"hash": "f19dc9101b8d88ed",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/daniel-robinson-2021/index.html": {
-"hash": "5e490cff418af150",
+"hash": "952a038bb80dd997",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/danielle-imbo-richard-petrone-2005/index.html": {
-"hash": "022dcd7898c3d524",
+"hash": "2f85cbe340649cb6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/danielle-van-dam/index.html": {
-"hash": "6fd66339c2204159",
+"hash": "a7c975fcb989f48b",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/danny-casolaro/index.html": {
-"hash": "c8c3d8155e2ac598",
+"hash": "b2434c92937296f5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/dardeen-family-1987/index.html": {
-"hash": "138e76cf9c4fd261",
+"hash": "c5e46641c2b0e7f0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/darlie-routier-1996/index.html": {
-"hash": "9733017d65637b12",
+"hash": "693aef383c34a2f1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dau-mabil-2024/index.html": {
-"hash": "f7871dbc052f4871",
+"hash": "759952eaf9e2e6c5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/david-carrick-met-police-2023/index.html": {
-"hash": "ff6d6636de096044",
+"hash": "b21aacb399b04bd5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/david-williams-nj/index.html": {
-"hash": "a947c50402bbca90",
+"hash": "da951bd11439d930",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/dean-clouse/index.html": {
-"hash": "791c6789370a059c",
+"hash": "393f5ebde3674649",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/dean-corll/index.html": {
-"hash": "e7485c282f5e66cd",
+"hash": "de17fc638fe0861d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/deanie-peters-1981/index.html": {
-"hash": "15b8415ed64cab8f",
+"hash": "96ebbbf037f7e1e7",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/deanna-cremin/index.html": {
-"hash": "34f20122b09721e2",
+"hash": "55fa95a2965238c8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/deborah-poe-1990/index.html": {
-"hash": "268236f5f0925b5e",
+"hash": "802852274ec7a1ec",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/debra-baker-1988/index.html": {
-"hash": "b4d8d8b1284d0134",
+"hash": "568fcfcda462c320",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/dee-dee-blancharde-2015/index.html": {
-"hash": "860ba1c725015f96",
+"hash": "76de60793abc1ec2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/delphi-flora-fire-2016/index.html": {
-"hash": "06ab50191b678c1e",
+"hash": "c579386ad0529258",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/delphi-murders/index.html": {
-"hash": "53fad6a2d85bc926",
+"hash": "b883e41190685172",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/delta-dawn-1982/index.html": {
-"hash": "cafdacd8d9bdacc5",
+"hash": "23618aedf73c520a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dena-dean-1998/index.html": {
-"hash": "6c1f78947ac4083b",
+"hash": "51da383cc20515d6",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/denise-amber-lee/index.html": {
-"hash": "a528009eceee6100",
+"hash": "c9831f761cc3bcdc",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/denise-huber-1991/index.html": {
-"hash": "251b67edb0f1c084",
+"hash": "fab3ef6d78cfe23c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dennis-martin-1969/index.html": {
-"hash": "db705e2fa85decd7",
+"hash": "116e46ac18440c2d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/deorr-kunz-jr-2015/index.html": {
-"hash": "5c2bca677970cbae",
+"hash": "e438f4dc299e6147",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/derrick-todd-lee-2003/index.html": {
-"hash": "e03efba4c84f9661",
+"hash": "4c4a15a24692c2d0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/devonte-hart-family-2018/index.html": {
-"hash": "738207a7b8a66a55",
+"hash": "2b152f13b784625d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/diane-augat-1998/index.html": {
-"hash": "0d31a9728063d394",
+"hash": "3d4021989dc93326",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/diane-downs-1983/index.html": {
-"hash": "0bf01a4ca944424c",
+"hash": "d78168946a489774",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/diane-elsroth-1986/index.html": {
-"hash": "68df667664c08897",
+"hash": "d897c891428f421a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/diane-suzuki/index.html": {
-"hash": "4acde92b10d1ce50",
+"hash": "4d5c062debeafded",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/disappearance-of-johnny-gosch-1982/index.html": {
-"hash": "855ce285b1955405",
+"hash": "240d194a58002c83",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/disappearance-of-maelys-de-araujo-2017/index.html": {
-"hash": "618990be3adc2fb3",
+"hash": "dd0bd0734305c0c1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/don-lewis-1997/index.html": {
-"hash": "9239cc2520d389b3",
+"hash": "94bfc9782a209e1e",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/donna-hall-michael-margaret-1984/index.html": {
-"hash": "257d680a5f75b696",
+"hash": "ed616c71dd6a23bf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/donnah-winger-1995/index.html": {
-"hash": "53c8230923e02b1f",
+"hash": "cefe8c303c8a8702",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/doodler-murders/index.html": {
-"hash": "7d5ffbe1805e461a",
+"hash": "413003c6a66a32c8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dorothea-puente/index.html": {
-"hash": "250dfeaba162f79e",
+"hash": "6f8e17689fed0fb5",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/dorothy-arnold-1910/index.html": {
-"hash": "3223d1bfe923f902",
+"hash": "a6901084f03a1857",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dorothy-forstein-1949/index.html": {
-"hash": "9619539a1ec22810",
+"hash": "059e1ab63f542865",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dorothy-jane-scott-1980/index.html": {
-"hash": "5c4940d037e356ff",
+"hash": "3ea3c3552e132ab8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dorothy-kilgallen-1965/index.html": {
-"hash": "b93724189d7d9cbd",
+"hash": "f27edf7f5ae5c36c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/dru-sjodin/index.html": {
-"hash": "640fbe726cf3c72c",
+"hash": "1bc1fed9d7ba9a75",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/dulce-alavez/index.html": {
-"hash": "0ba4fb174ef14e7e",
+"hash": "dace85b070213599",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/duran-bailey-2001/index.html": {
-"hash": "1152515ce1e0e46b",
+"hash": "07d6faafcb651efd",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/dylan-redwine-2012/index.html": {
-"hash": "35e1d7b7c53c3b86",
+"hash": "14599f4394c02d28",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/east-haven-jane-doe-1975/index.html": {
-"hash": "50d09b81bb981215",
+"hash": "d7865ec360828901",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/eastbound-strangler-2006/index.html": {
-"hash": "36eb4e01eecd7662",
+"hash": "e27b681b2b6d6870",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ebby-steppach-2015/index.html": {
-"hash": "053ebb850cfa6480",
+"hash": "9c3cfd8e2eb25e0a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/eklutna-annie-1980/index.html": {
-"hash": "bbfe092c843201d9",
+"hash": "ef9ac8d182a5653e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/el-dorado-jane-doe-1991/index.html": {
-"hash": "4efd0edb240b6dcd",
+"hash": "024ba63efb45a6ce",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/elijah-lewis-2021/index.html": {
-"hash": "7a14505ddef70b85",
+"hash": "847daf55a7201297",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/elijah-vue-2023/index.html": {
-"hash": "7bad55dbc0eee9c9",
+"hash": "6eedae078b9cc48e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/elisa-lam/index.html": {
-"hash": "e6e4021d3b4f0448",
+"hash": "4aa6fc261a7d9ed5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/eliza-fletcher-2022/index.html": {
-"hash": "c5ea3a87018cedc1",
+"hash": "de53286cdc46e1a4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/elizabeth-barraza/index.html": {
-"hash": "3ca6d9e0ef4d77ec",
+"hash": "ff3db441a6b0acae",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/elizabeth-smart/index.html": {
-"hash": "25e6cdb7fbbd2f09",
+"hash": "b623ed8a2625e8bb",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/elsie-paroubek-1911/index.html": {
-"hash": "a65cdcb364cf55d7",
+"hash": "a74f729c61acf49b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/emanuela-orlandi-1983/index.html": {
-"hash": "29e1f9c4c737f6ac",
+"hash": "5f128847acb4d614",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/emily-pike-2025/index.html": {
-"hash": "296fcde4e0815fad",
+"hash": "1c77dc6a3d76cee8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/emma-fillipoff-2012/index.html": {
-"hash": "e6eadfc0efce5581",
+"hash": "31f4d3cb1bf0f619",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/emma-walker-2016/index.html": {
-"hash": "c183b38107e77950",
+"hash": "b44eefacfed16778",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/emmett-till/index.html": {
-"hash": "17a8af4b606655f8",
+"hash": "16c2e84fd1aaaf95",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ennis-cosby/index.html": {
-"hash": "920c8b4af3a2758b",
+"hash": "ba01209586cf8d35",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/eric-garner/index.html": {
-"hash": "0175b265cc7b6d5f",
+"hash": "c2cf03b607ae632d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/eric-richins-2022/index.html": {
-"hash": "651c28e21de86ad0",
+"hash": "29292bf68ec47642",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/erica-parsons-2011/index.html": {
-"hash": "03955486f800a2b4",
+"hash": "ef1fa66ee4aa8945",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/erin-marie-gilbert-1995/index.html": {
-"hash": "7adb4463d663a173",
+"hash": "1e55fb3fb03d21f5",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/etan-patz/index.html": {
-"hash": "d7738a8389d08846",
+"hash": "681503572e101d62",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/eugene-martin-1984/index.html": {
-"hash": "9e9fe19ae3c3d5c7",
+"hash": "389fd229b72d4e31",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/evelyn-boswell-2019/index.html": {
-"hash": "fa2ded987422956c",
+"hash": "e9222c11a0438fcf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/evelyn-hartley-1953/index.html": {
-"hash": "cfb6c7f03d75c856",
+"hash": "48ce316de2457dd5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/faith-hedgepeth/index.html": {
-"hash": "0702183b600030dc",
+"hash": "e15c18207ab211d2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/florence-okpealuk-2020/index.html": {
-"hash": "0b3d73d4b27ab85b",
+"hash": "993f60ed4a5d3945",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/fort-worth-trio-1974/index.html": {
-"hash": "514b6ec655f8d77f",
+"hash": "5b6ca077eea24375",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/frank-hilley/index.html": {
-"hash": "26806d05e62447e8",
+"hash": "c60810e1245c1e94",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/frank-morris-1964/index.html": {
-"hash": "70e7ba82bfa77408",
+"hash": "d63894c0146a9b68",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/frank-olson/index.html": {
-"hash": "24880ef7c9ec8439",
+"hash": "7df1daa4ced180b8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/frank-sinatra-jr/index.html": {
-"hash": "6f960a245589312c",
+"hash": "5b3d1d839faf000a",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/frankford-slasher/index.html": {
-"hash": "9f9f03c4c2c62211",
+"hash": "7bd6501c69766948",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/fred-rose-west-1994/index.html": {
-"hash": "215639f6b2b5857b",
+"hash": "83bb0e2bf1cce868",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/freddie-gray/index.html": {
-"hash": "99df41f137b36568",
+"hash": "92c945af0c553ffa",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/freeway-phantom-1971/index.html": {
-"hash": "2c63a3a499349c8b",
+"hash": "99a6ec5e0ec388a3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/frenchville-baby-jane-doe-1985/index.html": {
-"hash": "4107e60d90c9d79d",
+"hash": "71506601aad9b70a",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/fsu-chi-omega-murders/index.html": {
-"hash": "49856e1e4fd3095c",
+"hash": "6b098f6086ec8cdb",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/gabby-petito/index.html": {
-"hash": "eca134cb14887470",
+"hash": "3d27c029d875c687",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/gabriel-johnson-2009/index.html": {
-"hash": "0144e4011ace1a02",
+"hash": "b8d624cadee165cf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/gainesville-ripper/index.html": {
-"hash": "c8a06d6cbf073845",
+"hash": "bcd020525aaa35d5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/gannon-stauch-2020/index.html": {
-"hash": "fdd538a275544e0e",
+"hash": "db2f27ba4d545309",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/garrett-phillips/index.html": {
-"hash": "1c1900fef8a59785",
+"hash": "c906ad1439bf38d5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/gary-heidnik/index.html": {
-"hash": "6670b372ae06daa1",
+"hash": "f4888b87633cfaa7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/george-floyd/index.html": {
-"hash": "075defab06ff6d74",
+"hash": "9623dcad6a97a6ee",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/george-reeves-1959/index.html": {
-"hash": "0c0420919de7aa9e",
+"hash": "86101ccd3414c44f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/georgi-markov-1978/index.html": {
-"hash": "efb757027bb395b7",
+"hash": "ea624afd4f78c6b9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/gianni-versace/index.html": {
-"hash": "843d03d1146f9c67",
+"hash": "6e51815d72879536",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/girly-chew-hossencofft-1999/index.html": {
-"hash": "d9b88f199a05167e",
+"hash": "963393dbd8db6410",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/gloria-satterfield-2018/index.html": {
-"hash": "0ba0299261836d07",
+"hash": "86fd8504a0cfacba",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/golden-state-killer/index.html": {
-"hash": "ff3ac3951b79d757",
+"hash": "95b99eea7e3999b7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/grace-millane-2018-nz/index.html": {
-"hash": "219482b89c38ac27",
+"hash": "60702a8440c2d7f1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/granby-jane-doe-1978/index.html": {
-"hash": "2903f1b24c3bf2b8",
+"hash": "f3ce88757fe4970d",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/grateful-doe-1995/index.html": {
-"hash": "873386fc03d99bff",
+"hash": "d716e56a0a8182ef",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/green-river-killer/index.html": {
-"hash": "ce695dfc1d967028",
+"hash": "7f1710be0d9a658f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/grim-sleeper/index.html": {
-"hash": "570364262078f04c",
+"hash": "b10ab6dc2780708c",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/grimes-sisters/index.html": {
-"hash": "ec2b3b2a7eb3c1c7",
+"hash": "42f8b27ff891b53e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/grissom-family-murders-1989/index.html": {
-"hash": "2ce8632ddb5c83e3",
+"hash": "150b4f9c23174323",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/gypsy-hill-killings-1976/index.html": {
-"hash": "b1040918cc786010",
+"hash": "1cf8ceb5b93cc6d1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/hae-min-lee/index.html": {
-"hash": "12476e556ff293f2",
+"hash": "78c6aae6dfeca4c0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/haleigh-cummings-2009/index.html": {
-"hash": "1af728ed6b1a4950",
+"hash": "3a168b2dff3094df",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/hall-mills-murders-1922/index.html": {
-"hash": "2484477d06a01bde",
+"hash": "cc993e0909806a3f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/halyna-hutchins-2021/index.html": {
-"hash": "8a2b24fe214e73ac",
+"hash": "41d7bb34a7ec4bc1",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/hanna-harris/index.html": {
-"hash": "4fd6d32f98bff79a",
+"hash": "5ec4d26dd99cadc9",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/hannah-graham-2014/index.html": {
-"hash": "ffcf821e1618838c",
+"hash": "52537a86957788d1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/harmony-montgomery-2019/index.html": {
-"hash": "8fc48c9faf474354",
+"hash": "e86dfbf38611b572",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/hazel-drew-1908/index.html": {
-"hash": "668ee7baa50a9ee5",
+"hash": "2d3b56015b3ac419",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/heather-elvis-2013/index.html": {
-"hash": "c5795cf0d990b5af",
+"hash": "f37729822429f589",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/heather-teague-1995/index.html": {
-"hash": "6b5c98c2421302df",
+"hash": "6317fa1429ad5b7d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/heidi-allen-1994/index.html": {
-"hash": "392a1eee19459574",
+"hash": "bcda684746f36a5c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/helen-brach-1977/index.html": {
-"hash": "9d249af55dcd68a0",
+"hash": "dc01d76dded66d32",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/helle-crafts-1986/index.html": {
-"hash": "dcc538af432eb295",
+"hash": "31d15477a8c4ed94",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/henry-lee-lucas-victims/index.html": {
-"hash": "3905bf2429837b40",
+"hash": "cbe5774dc0d9a50b",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/henry-mccabe-2015/index.html": {
-"hash": "78c6d8571d988daa",
+"hash": "79e4a27864ecbed9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/henryk-siwiak/index.html": {
-"hash": "a4b13942394af760",
+"hash": "658cca8c2a2bfca8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/herman-tarnower-1980/index.html": {
-"hash": "7a467a69c2cfe71e",
+"hash": "c768dbad1cf1bbea",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/hillside-strangler/index.html": {
-"hash": "7013d132291aa466",
+"hash": "821a3906fc6f8dc0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/hinterkaifeck-1922/index.html": {
-"hash": "e92ea3c4fe4a856f",
+"hash": "51f672d65d1c1acf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/holly-bobo/index.html": {
-"hash": "1072838fc53a1123",
+"hash": "1c8508e81c3f4c06",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/holly-branagan-1979/index.html": {
-"hash": "523df31246200628",
+"hash": "4957010c1b439bd4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/holly-maddux-1977/index.html": {
-"hash": "8d1eee9373e86f01",
+"hash": "7ee93d79d8a39426",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/holly-piirainen/index.html": {
-"hash": "26696e737bbbc65e",
+"hash": "89db4c2386539153",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/honolulu-strangler-1985/index.html": {
-"hash": "839976a0ac673eee",
+"hash": "a44f81b65956060b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/hudson-family-murders-2008/index.html": {
-"hash": "b6c18507d01672ee",
+"hash": "02294ad5efda1b4d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/i-70-killer/index.html": {
-"hash": "a856330b8a57132d",
+"hash": "7f761a454361be4f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ilene-misheloff/index.html": {
-"hash": "81b70e3378b01a40",
+"hash": "713506b3779cb22b",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ina-jane-doe-1993/index.html": {
-"hash": "f18520f7e4f7d121",
+"hash": "706e83f223c1cb60",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ingrid-lyne/index.html": {
-"hash": "244be540d5477751",
+"hash": "71fc293e681a93ab",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/isdal-woman-1970/index.html": {
-"hash": "6cb455fd1ccebfac",
+"hash": "652304efc70c5066",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/israel-keyes-victims/index.html": {
-"hash": "07d2bc5a96fd6a28",
+"hash": "6991e21c8d3993ba",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ivan-milat-backpacker-1996/index.html": {
-"hash": "dff57f9d87c4e5db",
+"hash": "2bc6fa66b26aa4d7",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jack-the-ripper-1888/index.html": {
-"hash": "c506b48099de4c49",
+"hash": "856d4cff2ad42a0b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jack-the-stripper-1964/index.html": {
-"hash": "43e2efbbc85fce4d",
+"hash": "2c985c6c4f0e5039",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jacob-wetterling/index.html": {
-"hash": "099e828f1134d46a",
+"hash": "5f761e0108635dc9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jacqueline-martarella-1985/index.html": {
-"hash": "c07e186a04d39f54",
+"hash": "33db422cb2cd16bd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jahi-turner-2002/index.html": {
-"hash": "b79dbbbfc5521772",
+"hash": "eed8c2629517ce8a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jaliek-rainwalker-2007/index.html": {
-"hash": "ce0d580e18f27043",
+"hash": "1c46981a5e03cddb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jam-master-jay-2002/index.html": {
-"hash": "a7b52999836e5f21",
+"hash": "5a5f12a2e0d8a5fe",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jamal-khashoggi-2018/index.html": {
-"hash": "327a505e178ade1d",
+"hash": "474a07b1a71ff150",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/james-byrd/index.html": {
-"hash": "12655f5ce6796976",
+"hash": "5b2ad5dc30cf4823",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/james-kinne-1960/index.html": {
-"hash": "db668a8ec401599f",
+"hash": "a5e441896d1ad5a8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jamison-family-2009/index.html": {
-"hash": "1e6bc22de449c1c1",
+"hash": "24eed54588f0ee14",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jane-britton/index.html": {
-"hash": "68aad9f12138d70c",
+"hash": "ca5ed3dabb5eb749",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jane-durrua-1968/index.html": {
-"hash": "56bb53bb728eac08",
+"hash": "92d9876461ab13f0",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/janet-chandler-1979/index.html": {
-"hash": "1c08149298132d08",
+"hash": "cbd93f1a2969a306",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/janet-christman/index.html": {
-"hash": "0047305ffe8bfed4",
+"hash": "dfde5e57f0104d8f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jason-derek-brown-2004/index.html": {
-"hash": "91f79c808ed06567",
+"hash": "b46380559851878e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jason-ellis-2013/index.html": {
-"hash": "d8f78b36165ddbbc",
+"hash": "6010eef437d26a5d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jason-jolkowski-2001/index.html": {
-"hash": "0263d25977ae5d34",
+"hash": "6ba6c70ee5f00b4e",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/jaycee-dugard-1991/index.html": {
-"hash": "db80bdfa9406652f",
+"hash": "cc6c0e10d3cbd7c4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jaylen-fleer-2020/index.html": {
-"hash": "606a88d34622ccb4",
+"hash": "80e30df21b112dd5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jayme-closs-2018/index.html": {
-"hash": "7b4a9786737ee36b",
+"hash": "cc9171bf014ea489",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jeanine-nicarico-1983/index.html": {
-"hash": "7a43e1c2e2eebcb3",
+"hash": "9ed48663288cb155",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jeannie-mills/index.html": {
-"hash": "db3020ee46088727",
+"hash": "ce5c372c4cd8b3a8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jeff-davis-8/index.html": {
-"hash": "c538947ac101dc5f",
+"hash": "7e1db9589ce6a5d2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jeffrey-dahmer/index.html": {
-"hash": "c310e6d3f663ed7a",
+"hash": "b837b8fdb4a65816",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jelani-day-2021/index.html": {
-"hash": "3e26fb56f528100c",
+"hash": "df7b3d68a4b5a39c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jennifer-dulos-2019/index.html": {
-"hash": "37c8fbad970f2c7f",
+"hash": "ba4845b3a984d19a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jennifer-kesse/index.html": {
-"hash": "bb5ca02960e81f6c",
+"hash": "ace2726615c7cfa8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jennifer-laude-2014/index.html": {
-"hash": "0e0af9c00e6a8540",
+"hash": "9e3b2d28fbd592e5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jennifer-levin/index.html": {
-"hash": "746a6cec63b4ac7a",
+"hash": "f0d02953bd61efef",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jennifer-pan-2010/index.html": {
-"hash": "a1cda279e471e81a",
+"hash": "f0c04ab78e56eb4b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jennifer-servo-2002/index.html": {
-"hash": "03833350e83eef08",
+"hash": "4913b9cc6bfac4d3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jenny-lin-1994/index.html": {
-"hash": "54b8480f008135c0",
+"hash": "ba013cd68ae70e72",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jeremy-guillory-1992/index.html": {
-"hash": "a12fcc43d8d2540e",
+"hash": "694c8e0923346bf3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/jermain-charlo-2018/index.html": {
-"hash": "e2f423a65df7e2c4",
+"hash": "83758a4f689748e3",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/jessica-chambers/index.html": {
-"hash": "6d935c3932c08318",
+"hash": "13be5d2565d654d2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jessica-dishon-1999/index.html": {
-"hash": "3af27c9cdc5686f8",
+"hash": "eda8ae6fd1a0a9a0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jessica-lunsford/index.html": {
-"hash": "0d7de3d53e3e2fe7",
+"hash": "7fa8ac2f02b81141",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/jessica-ridgeway/index.html": {
-"hash": "ff702eda1ba38de7",
+"hash": "fb9b83ad89108aca",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jessie-davis-2007/index.html": {
-"hash": "fdd8e5cbf84a778b",
+"hash": "83594f7bc16a52de",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jessie-foster-2006/index.html": {
-"hash": "1eeb8442baa3ea6f",
+"hash": "ec6fa7355c604eac",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/jfk-assassination/index.html": {
-"hash": "d73dd49f427c0d78",
+"hash": "8e6618964161fa13",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jill-dando-1999/index.html": {
-"hash": "ff2ff3f86820d9a6",
+"hash": "498228d61aa80270",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jill-lyn-euto/index.html": {
-"hash": "f7654672180fce33",
+"hash": "59e7f981ba694bc5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jill-meagher-2012/index.html": {
-"hash": "b65ff096e6b085c9",
+"hash": "885d50351d3ad03e",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/jimmie-lee-jackson/index.html": {
-"hash": "5705d23dacdbbbec",
+"hash": "d31c06c0f91cdd1d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/jimmy-hoffa/index.html": {
-"hash": "fa4637fd52629dcb",
+"hash": "bfd88ed92942c5fb",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/joan-risch-1961/index.html": {
-"hash": "bbab73c71fb712f3",
+"hash": "c0694c5321599adf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/joan-webster-1981/index.html": {
-"hash": "ae5e091fb51a115f",
+"hash": "463ecbb271218acf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/joanna-dennehy-2013/index.html": {
-"hash": "c96d550c2356b9b6",
+"hash": "fc5ee86eea8baacd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jodi-huisentruit/index.html": {
-"hash": "767ab346e78a5ccd",
+"hash": "d63b73998db5e48d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/joe-andriano-2000/index.html": {
-"hash": "a99a558f2ddeeb2d",
+"hash": "9db7604a49d31fc8",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/joel-guy-jr-2016/index.html": {
-"hash": "f62a47bc990a1e23",
+"hash": "6870a6f44d03bb83",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/joey-lynn-offutt-2007/index.html": {
-"hash": "797b7b1a498af7bc",
+"hash": "ca409f339ae3dcaf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/john-britton-james-barrett-1994/index.html": {
-"hash": "6e116a98186eb62f",
+"hash": "79cb754e9ae08008",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/john-favara-1980/index.html": {
-"hash": "7a51c5f73da960fa",
+"hash": "1a4be6e298b2649c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/john-gilbride/index.html": {
-"hash": "648248e56298e1da",
+"hash": "a85042d66a6874b0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/john-list/index.html": {
-"hash": "635eec124e3f7e65",
+"hash": "cb671f51b059292d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/john-wayne-gacy/index.html": {
-"hash": "a6004b649f12348b",
+"hash": "57b305fe5a0d52b8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jonbenet-ramsey/index.html": {
-"hash": "dcf15862a3ccbf4a",
+"hash": "87a7a61388652485",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jonelle-matthews-1984/index.html": {
-"hash": "9b356e9ebb6b35eb",
+"hash": "08d5401a1a7d6419",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jonestown-congressman/index.html": {
-"hash": "ba085f56da95be78",
+"hash": "cc0472098fd33ea0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jordan-davis/index.html": {
-"hash": "2f49a669bbf72324",
+"hash": "9b410c0e024b9ba8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/jordan-neely-2023/index.html": {
-"hash": "6bd653b3c2c031ab",
+"hash": "3825e07cbed9ea6c",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/jorge-torres-jr-2020/index.html": {
-"hash": "ac815e236adef629",
+"hash": "c4cf1d324b0feae3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/josef-fritzl-austria-2008/index.html": {
-"hash": "6c4f8f77945cf52c",
+"hash": "d3832756369a204c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/josef-mengele-auschwitz/index.html": {
-"hash": "5b2741c6dd65edf6",
+"hash": "6cbb49dc4454711f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/joshua-guimond-2002/index.html": {
-"hash": "c6e7632bdc0edadd",
+"hash": "c08530f077774e20",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/juanita-williams/index.html": {
-"hash": "db56adfaa16f6852",
+"hash": "baef70004be3c30e",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/judge-crater/index.html": {
-"hash": "cee19b532701f994",
+"hash": "d0eda34c614d0ed9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/judy-chartier/index.html": {
-"hash": "d9cd05d073640d60",
+"hash": "3dca8b6dbad171f2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/judy-smith-1997/index.html": {
-"hash": "0e160e6a3cfc438c",
+"hash": "b359f6d19d185558",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/julie-doe-clermont/index.html": {
-"hash": "f6fef302b0de28d7",
+"hash": "e27df30ee60d7dcf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/jun-lin-2012/index.html": {
-"hash": "6f814ec328ef4cb3",
+"hash": "564cff5fae7d8a62",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/junko-furuta-1988/index.html": {
-"hash": "cb1ae8362892f676",
+"hash": "e6f833542f1e2a94",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kara-kopetsky-2007/index.html": {
-"hash": "57b66ad26a1fff33",
+"hash": "f763bfcd9dc1a976",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karen-mitchell-1997/index.html": {
-"hash": "d5cc2ebe91c536ca",
+"hash": "1d8d972351cfcf5a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karen-read-2024/index.html": {
-"hash": "50383647a4f17cd0",
+"hash": "a792c20fb3ccc4e1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karen-silkwood-1974/index.html": {
-"hash": "89a21c2fbd1f4239",
+"hash": "be1dd39e33ee4619",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karen-swift-2011/index.html": {
-"hash": "9ca2daeba5bd378f",
+"hash": "78a472a81849246f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karina-holmer-1996/index.html": {
-"hash": "1cc4590e4f3ab0e4",
+"hash": "d7fcff4b525b88dc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karla-brown-1978/index.html": {
-"hash": "5038b01276e670f8",
+"hash": "02343ca3fff620ef",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/karlie-guse-2018/index.html": {
-"hash": "6e4bbc749172f998",
+"hash": "f490e51f2a2704ce",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/katelin-akens-2015/index.html": {
-"hash": "d242683551f68500",
+"hash": "1fe9d4ae8d990d44",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/katelyn-markham-2011/index.html": {
-"hash": "ee19fd4c0b74aa37",
+"hash": "b7e3f866c1c2828e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kathleen-durst/index.html": {
-"hash": "feeba86a0d57500e",
+"hash": "ff545721ac6b9784",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kathleen-peterson-2001/index.html": {
-"hash": "27789a30413b7923",
+"hash": "d79cbda352418350",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/katrice-lee-1981/index.html": {
-"hash": "c227fcac6e44c18c",
+"hash": "f59df6bb210252e5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kayla-berg-2009/index.html": {
-"hash": "4803459510a90ccb",
+"hash": "5d9ec631c4bd5903",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/keddie-cabin-murders/index.html": {
-"hash": "0ba64347963e9eba",
+"hash": "747f12f96c263bbf",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/keeshae-jacobs-2016/index.html": {
-"hash": "1e13d8aa4950e7c2",
+"hash": "035451dbdb40734f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kellie-poppleton/index.html": {
-"hash": "04feb66f3e4d6422",
+"hash": "606a02b97b9ed7bf",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kelsey-berreth-2018/index.html": {
-"hash": "e277ccaa1080983f",
+"hash": "5a91155c52c41558",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/kelsie-schelling-2013/index.html": {
-"hash": "d4ea54654e3ed082",
+"hash": "8d3f04303e51f1fe",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ken-mcelroy-1981/index.html": {
-"hash": "dec78a6bd8db6029",
+"hash": "3e01799f00a88013",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kendrick-johnson-2013/index.html": {
-"hash": "674fe33ebe463a50",
+"hash": "6f9f5f7763d7b267",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kenny-veach-2014/index.html": {
-"hash": "7373f50d324c3e60",
+"hash": "838b9fc082311fcd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kent-heitholt/index.html": {
-"hash": "4962372e46dee93a",
+"hash": "14c121836b1a8715",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kevin-ives-don-henry-1987/index.html": {
-"hash": "b74dbe2c33cc3cfc",
+"hash": "acc1b31b41597e5c",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/kierra-coles-2018/index.html": {
-"hash": "ec9562edbf8d8918",
+"hash": "30e0f20421c592e9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kimberly-leach/index.html": {
-"hash": "7de360474189bbdc",
+"hash": "6de360dfb28658cf",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/kimberly-moreau-1986/index.html": {
-"hash": "28be1a3b875778a6",
+"hash": "44052a0d5e366886",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/king-von-shooting-2020/index.html": {
-"hash": "fc788f7b7bdbb145",
+"hash": "d500be10566e0ecd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kiplyn-davis-1995/index.html": {
-"hash": "307e5fbbb56c6ac9",
+"hash": "03b082d46ac9207f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kitty-genovese/index.html": {
-"hash": "06d9b76eff0d3ec2",
+"hash": "f569e36e3a34e4b9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kortne-stouffer-2012/index.html": {
-"hash": "494358ed36f2eb65",
+"hash": "66c5a0ef33fd5faf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kristen-modafferi/index.html": {
-"hash": "6366cad4fbf2bf84",
+"hash": "915fe9aff48440ef",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kristin-smart/index.html": {
-"hash": "7f82bc841f4dd72a",
+"hash": "4a03401db331daa5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/kurt-newton-1975/index.html": {
-"hash": "2397ff5d560dc25f",
+"hash": "7d2c7e88c9ef255d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kyle-clinkscales-1976/index.html": {
-"hash": "e1b7d02dbd33a549",
+"hash": "23b3fdcd05dc426b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kyle-fleischmann-2007/index.html": {
-"hash": "1aeed6826b11e18b",
+"hash": "7313612d20a16aec",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/kyron-horman/index.html": {
-"hash": "fa2913d8b1491f01",
+"hash": "e5f99291542f3b61",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lacey-fletcher-2022/index.html": {
-"hash": "1bf27cd287504b8d",
+"hash": "bdfbd2c7ed6db72d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/laci-peterson/index.html": {
-"hash": "ec3628b65954b8c8",
+"hash": "dff2b3cc8c0d3b40",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lady-of-the-dunes-1974/index.html": {
-"hash": "a459e7fda0a0e2c4",
+"hash": "c4420c621211e582",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/laken-riley-2024/index.html": {
-"hash": "34e32877d65b7bd9",
+"hash": "44473b7df570fe73",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/laquan-mcdonald/index.html": {
-"hash": "10374d2b84740716",
+"hash": "65fa9998d9edbe92",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/lars-mittank-2014/index.html": {
-"hash": "80d6484a7ce4c25b",
+"hash": "43dff06ff252cace",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/latasha-harlins/index.html": {
-"hash": "827015e47cc1ccd4",
+"hash": "ca24e901760afaf0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/laura-bradbury-1984/index.html": {
-"hash": "685702b7f1acaec8",
+"hash": "bfa1b93f36804f5f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lauren-agee-2015/index.html": {
-"hash": "edd5d94a716c044f",
+"hash": "02ae562be2ac609b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lauren-giddings-2011/index.html": {
-"hash": "009a6d3ef60510c1",
+"hash": "456884bf2ec512a5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lauren-smith-fields-2021/index.html": {
-"hash": "414f72d097aa9640",
+"hash": "b637ed3323dd8294",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lauren-spierer/index.html": {
-"hash": "021dbdce17ca8b4b",
+"hash": "fdb785a75dc6bfb3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/lauria-bible-ashley-freeman-1999/index.html": {
-"hash": "79df17191f6585d9",
+"hash": "06a12318bb8990bf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lavender-doe-2006/index.html": {
-"hash": "86a30b07b5193dbb",
+"hash": "85ec83b5533ec932",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/leah-roberts-2000/index.html": {
-"hash": "82c252c9405b5dec",
+"hash": "044cfcd00c4c10cb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/leeanna-warner-2003/index.html": {
-"hash": "4a1492270aa19201",
+"hash": "f54631bfd0b1af32",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/leiby-kletzky/index.html": {
-"hash": "e5860004d87afe61",
+"hash": "89684c31afa9a376",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/leichner-nater-1966/index.html": {
-"hash": "c3d5a33b950fc18b",
+"hash": "318ab2da0b9de6df",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/leigh-matthews-2004/index.html": {
-"hash": "2b1714f3059db096",
+"hash": "05282f4045820d8c",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/leigh-occhi-1992/index.html": {
-"hash": "9c8ca402434506ee",
+"hash": "3c64625e52b6e747",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/lena-chapin-2006/index.html": {
-"hash": "15896f6834c69b32",
+"hash": "63345cf2ea628adb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/letby-trial-2023/index.html": {
-"hash": "5b4b03ef58342f8c",
+"hash": "681004ee1443d1ce",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/levi-frady-1997/index.html": {
-"hash": "ebbf1359a1d28ceb",
+"hash": "8416f508506cadc9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/liam-fee-scotland-2014/index.html": {
-"hash": "add5141fb52bb8a7",
+"hash": "fbd2957a388797db",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lina-sardar-khil-2021/index.html": {
-"hash": "837833197c6e2a50",
+"hash": "e19e8440fd5ff2d6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/linda-gary-haas-2010/index.html": {
-"hash": "ea86327dc6d64253",
+"hash": "e54e4c4b505d00b9",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/linda-lee-mack-1982/index.html": {
-"hash": "ff5da44c507c7b88",
+"hash": "2263de15b243a5d8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lindbergh-baby/index.html": {
-"hash": "cff3c81d98ee6ba4",
+"hash": "df1a72a4e8e5b2d7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lindsey-baum-2009/index.html": {
-"hash": "deb530bf11a16cde",
+"hash": "65f53fffde322aa6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisa-au-1982/index.html": {
-"hash": "b415361cdf05e25d",
+"hash": "e80fa549c6d5739e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisa-bianco/index.html": {
-"hash": "c111f4b805d01b00",
+"hash": "8dfa50d52acbf615",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lisa-irwin/index.html": {
-"hash": "c7dea96c9502713a",
+"hash": "5e61038178338453",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lisa-staes-1976/index.html": {
-"hash": "bd5a515323b8f07f",
+"hash": "74343851e553cfb6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisa-stebic-2007/index.html": {
-"hash": "ab643bee31350244",
+"hash": "8ec40b0fd1f14493",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisa-steinberg/index.html": {
-"hash": "d1d979cd9fea0e61",
+"hash": "8d9e60c5a72970b2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lisa-ziegert-1992/index.html": {
-"hash": "62a2da0d1513fb42",
+"hash": "89a84faa38661e47",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisanne-froon-kris-kremers-2014/index.html": {
-"hash": "19dc4dbe2a84793a",
+"hash": "6f41f9530cb9f1eb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lisk-murders-1996/index.html": {
-"hash": "c8760d9c70ba2e53",
+"hash": "6b12910de6dec8ed",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lita-mcclinton-1987/index.html": {
-"hash": "23fd82169ed66f5b",
+"hash": "ff6984dc246d09cc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/little-miss-lake-panasoffkee/index.html": {
-"hash": "fbee6c02c2dd428b",
+"hash": "d80c023cfce2dce2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/little-miss-nobody-1960/index.html": {
-"hash": "fef3df4bde145df4",
+"hash": "095f4e62b4be7f94",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/long-island-serial-killer/index.html": {
-"hash": "dcf137c07f7281f7",
+"hash": "3c89212a6a2eea32",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/lord-lucan-1974/index.html": {
-"hash": "a4533eaa6fb970c9",
+"hash": "6c628ac7230a2602",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lori-erica-ruff-2010/index.html": {
-"hash": "9c909debd03709c9",
+"hash": "4ae90f73b77ccd93",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lori-hacking-2004/index.html": {
-"hash": "48e4dae69869907d",
+"hash": "9f0a3128944053e1",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/lyle-and-erik-menendez-parents/index.html": {
-"hash": "4581245bd4f07f59",
+"hash": "3836d12a902989ad",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lyle-stevik-2001/index.html": {
-"hash": "e7c6b87c61f0e380",
+"hash": "58b71b33a5380b8a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/lynette-dawson-1982/index.html": {
-"hash": "cc41f7cf66e60e17",
+"hash": "2a79eca35a718b19",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/lyric-cook-elizabeth-collins-2012/index.html": {
-"hash": "643acb6416e49451",
+"hash": "6e59ffae68fc58df",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/macin-smith-2015/index.html": {
-"hash": "d06b56bd74dce29f",
+"hash": "d4b557d2e01100cd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/maddi-kingsbury-2023/index.html": {
-"hash": "8ac7812a7559a636",
+"hash": "c8ca2eb064f834ee",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/maddie-clifton-1998/index.html": {
-"hash": "49b6d412bc1b44b3",
+"hash": "a0b679cff96a2ab5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/madeleine-mccann-2007/index.html": {
-"hash": "43b5271a39bcaa67",
+"hash": "06c9784ee7df7ccf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/madeline-soto-2024/index.html": {
-"hash": "6abe5044e51a5908",
+"hash": "f1457cfb014d05ab",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/maggie-paul-murdaugh-2021/index.html": {
-"hash": "bd6039e40edd4f0c",
+"hash": "83111b7341e4e8e5",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/maleah-davis-2019/index.html": {
-"hash": "177d8a74473fd7de",
+"hash": "9792028a070b3686",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mallory-beach-2019/index.html": {
-"hash": "cc422e6c58a31bfb",
+"hash": "61e63137eb59b82d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/marc-allen-1986/index.html": {
-"hash": "5eb8a3edb4734b8b",
+"hash": "8177723bd386785e",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/marc-dutroux-belgium-1996/index.html": {
-"hash": "7eaf483a4853e716",
+"hash": "a06320d1f1e7f5f0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/marcia-king/index.html": {
-"hash": "282b0a81e71d88f5",
+"hash": "1ac6615e16fc6cc5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/margaret-fox/index.html": {
-"hash": "f6bff4da925e2e0d",
+"hash": "97ba5ee7508a7926",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/margaret-kilcoyne-1980/index.html": {
-"hash": "6ea3d13384c6df3b",
+"hash": "aaa26052f58c6844",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/marilyn-sheppard-1954/index.html": {
-"hash": "0ae475709c2eb007",
+"hash": "48df56c91a7fecca",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/marion-barter-1997/index.html": {
-"hash": "b3b63572803cf45e",
+"hash": "72a16109a7dbfec1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mark-himebaugh/index.html": {
-"hash": "b76aa3848e680614",
+"hash": "9a5a3ed01c938cf9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/mark-hofmann-bombings-1985/index.html": {
-"hash": "3a2f5cc5e3a0e9f6",
+"hash": "6b51ad2a0293fdf4",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/mark-kilroy-1989/index.html": {
-"hash": "80789e82d20a9fca",
+"hash": "f4e5f1bd9121c6c0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/markus-boyd-1994/index.html": {
-"hash": "8e8135d54f036adf",
+"hash": "43037acee8eb4542",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/martha-moxley-1975/index.html": {
-"hash": "7534691281ec3d0f",
+"hash": "80dd1886c4982b2d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-agnes-moroney-1930/index.html": {
-"hash": "09970e8ade1a1324",
+"hash": "fa6974b3f0e86816",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-badaracco-1984/index.html": {
-"hash": "b5ff2cd32e8d0218",
+"hash": "d260400181022f99",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-boyle-1977/index.html": {
-"hash": "7e5a4ca546176fa9",
+"hash": "774cd70f22a174c3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/mary-day-1981/index.html": {
-"hash": "8470fd1e448750de",
+"hash": "e6ffab6849b3bd48",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-ellen-deener-1965/index.html": {
-"hash": "e1e3c4d575a329b1",
+"hash": "a0256e222a1374a6",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/mary-jo-kopechne/index.html": {
-"hash": "38d0b47b36f64c7b",
+"hash": "5d6d99c4d6ea3f9f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/mary-morris-2000/index.html": {
-"hash": "c3c6162329634fb3",
+"hash": "655b6958b0b9961b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-pinchot-meyer-1964/index.html": {
-"hash": "95ead745e2e1f191",
+"hash": "078d2dfdc265fcb5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-shotwell-little-1965/index.html": {
-"hash": "e894189423e825bc",
+"hash": "2ed68a5cf49e8ab2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mary-silvani-1982/index.html": {
-"hash": "9f34460762e36166",
+"hash": "4a89bb6f5756fcf5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/maura-murray/index.html": {
-"hash": "cefb7166bdf231b5",
+"hash": "2cc94d157fb51b40",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/medgar-evers/index.html": {
-"hash": "45c40573447ef99f",
+"hash": "8fc92c032a597732",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/megan-kanka-1994/index.html": {
-"hash": "01f2a6a855a14335",
+"hash": "f778f43f5ad12a30",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/melissa-brannen-1989/index.html": {
-"hash": "eb1d3daf7ef7d004",
+"hash": "563bdd82503f35cc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/melissa-jenkins/index.html": {
-"hash": "2f92e37577e1436b",
+"hash": "4715a02cc6137f5a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/melissa-witt/index.html": {
-"hash": "f9a523d9879de448",
+"hash": "841c7ba8859ce202",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/meredith-kercher-2007/index.html": {
-"hash": "1414429a43011fbe",
+"hash": "892ad5d9755c2f2a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mia-zapata-1993/index.html": {
-"hash": "4d2244172fde1c99",
+"hash": "e814c5a05293d9b4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michael-alex-smith-1994/index.html": {
-"hash": "f19b122ca463c5a9",
+"hash": "6ee46262f2ca274a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/michael-brown/index.html": {
-"hash": "7c350293adf46f9c",
+"hash": "1eea76e56bfaa388",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/michael-dunahee-1991/index.html": {
-"hash": "607b597cb81db994",
+"hash": "bfcbfdfad2d87201",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michael-rockefeller-1961/index.html": {
-"hash": "b14e66ba56180686",
+"hash": "13aef0bdc99bd0bc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michael-vaughan-2021/index.html": {
-"hash": "009fe033f72d7e46",
+"hash": "9a0452b8f3c3a62a",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/michele-harris-2001/index.html": {
-"hash": "c68d5b6a7bb79ee3",
+"hash": "a4c331d780f4fd10",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michella-welch-1986/index.html": {
-"hash": "f9f1f36e0b9b2585",
+"hash": "049bb32481ad8ba0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michelle-martinko-1979/index.html": {
-"hash": "7b0cbdd3dc74495d",
+"hash": "c3ce9481177c168a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/michelle-moore-bosko-1997/index.html": {
-"hash": "12af623170595cce",
+"hash": "4a3ea067d413b9cb",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/mickey-thompson-1988/index.html": {
-"hash": "30024b83b6d8545f",
+"hash": "cb0bd2a4c0f4b423",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/mikelle-biggs-1999/index.html": {
-"hash": "3b248e4b2ebbd307",
+"hash": "98d31eada1f92225",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/missoula-jane-doe-1985/index.html": {
-"hash": "9626993b4fe5f9f5",
+"hash": "88ff9b48c650c900",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/missy-bevers/index.html": {
-"hash": "4df3fa1b52c0ee53",
+"hash": "c08686fc15081b95",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/mitrice-richardson-2009/index.html": {
-"hash": "8a42fdebd405925f",
+"hash": "dc7d427ad8a3ad80",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/miya-marcano/index.html": {
-"hash": "7d85d0ab8cf1d315",
+"hash": "4304400279f4233a",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/mollie-tibbetts-2018/index.html": {
-"hash": "336b12bd2692c3f7",
+"hash": "491f86d1487abb82",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/molly-bish/index.html": {
-"hash": "fa4298794043c2ba",
+"hash": "cc5f580504d0c670",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/monster-of-florence-1968/index.html": {
-"hash": "4693426e0cc5757b",
+"hash": "34dd5adcd8d3d167",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/moors-murders-1966/index.html": {
-"hash": "0659fa0ff83120c6",
+"hash": "72e52913e67d1954",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/morgan-harrington-2009/index.html": {
-"hash": "fb51507d062e22a4",
+"hash": "dce50aeea70ff682",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/morgan-nick-1995/index.html": {
-"hash": "ba2e42e85de755e4",
+"hash": "7c70cf247fa940dc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/moscow-murders/index.html": {
-"hash": "7b43d09482f1c3c0",
+"hash": "bb75c6ebaf2bcd63",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/mr-cruel-1988/index.html": {
-"hash": "15af0bcac972d85d",
+"hash": "965f1a49a9806eba",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/murder-of-darlene-hulse-1984/index.html": {
-"hash": "b1a1c00cd5bd8f88",
+"hash": "2e88b0f163c36c8e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/myra-lewis-2014/index.html": {
-"hash": "c79c982970060f90",
+"hash": "24718ad188fdd3e6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/myrna-opsahl-1975/index.html": {
-"hash": "1dec9faa37470412",
+"hash": "b3e47a669011b8d8",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/natalee-holloway/index.html": {
-"hash": "9cce5ad152e658c6",
+"hash": "129544e744e84c4e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/natalia-grace-barnett-2019/index.html": {
-"hash": "ab7371df489c4a4f",
+"hash": "9c1361f7230374c0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/natalie-mcnally-2022/index.html": {
-"hash": "73c488ed783dd42b",
+"hash": "4f7930a24e307332",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/natalie-wood-1981/index.html": {
-"hash": "2cdd583b42fa832f",
+"hash": "8751c295cafdef62",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/natascha-kampusch-1998/index.html": {
-"hash": "ebf178949fc39086",
+"hash": "20b423b9db46c6c7",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/nell-cropsey-1901/index.html": {
-"hash": "028c99945caf6bda",
+"hash": "4d3ca8dec17e7f60",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/new-bedford-highway-killer/index.html": {
-"hash": "523b360d749b79c3",
+"hash": "105a5ac62c13c71b",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/new-britain-jane-doe-1991/index.html": {
-"hash": "4b805963dd300d1a",
+"hash": "8b51c607c725dfe4",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/new-orleans-ax-man/index.html": {
-"hash": "b284d84d9dab2bc9",
+"hash": "02ca8a9b74b49f97",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/nicole-morin-1985/index.html": {
-"hash": "6ad9b93c778208d4",
+"hash": "67dab10aceb2bbd0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/night-stalker/index.html": {
-"hash": "355a0da7f8a662df",
+"hash": "fa0e2d6bc1f8a421",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/nikki-kuhnhausen-2019/index.html": {
-"hash": "7596480b9f3b593b",
+"hash": "68b93a02b81c6f22",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/nina-reiser/index.html": {
-"hash": "b8d1d31847cfcf64",
+"hash": "c81968af29383966",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/nique-leili-2011/index.html": {
-"hash": "620d6a75e23aa2a4",
+"hash": "048d28f74e14d73e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/niqui-mccown-2001/index.html": {
-"hash": "58caed2ead0a84bf",
+"hash": "5dc5cd3f3d228e93",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/northfield-baby-boy-doe-1982/index.html": {
-"hash": "b873fa039ef7d015",
+"hash": "e77b877b87392bf7",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/oakey-al-kite-2004/index.html": {
-"hash": "5c91a59911c973c1",
+"hash": "8c783a42ad96f341",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/oakland-county-child-killer/index.html": {
-"hash": "eb4dcca5092abde4",
+"hash": "f4cd3c8a2f824e44",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/okc-bombing/index.html": {
-"hash": "5f24b1cd8cedd79a",
+"hash": "b737ba21b252c9e5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/oklahoma-girl-scout-murders-1977/index.html": {
-"hash": "e0f2f712b395f052",
+"hash": "aa5b6d5a25c3b8af",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/olof-palme-1986/index.html": {
-"hash": "8537e4db152e3dea",
+"hash": "1b5ec929b52790cd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/opelika-jane-doe-2012/index.html": {
-"hash": "5695a27de95ea122",
+"hash": "f5e38bb5018091bc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/orange-socks-1979/index.html": {
-"hash": "5df3ba241a5c5570",
+"hash": "e6165caebe3bec30",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/orsolya-gaal-2022/index.html": {
-"hash": "55fb33f3c9442127",
+"hash": "47d83d8c2b2a7fd1",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/oscar-grant/index.html": {
-"hash": "97e0ecf54425cda4",
+"hash": "9ff94bd14a9f8711",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/otero-family-murders-1974/index.html": {
-"hash": "5587cdb5132fe9fc",
+"hash": "4d9cd8b540bb7b2f",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/otto-warmbier-2017/index.html": {
-"hash": "b358e436c38f99ff",
+"hash": "84e0a7466fd0a5d0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/paige-johnson-2010/index.html": {
-"hash": "26098800c10b0472",
+"hash": "8e8827c15448d4f0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/paige-renkoski/index.html": {
-"hash": "003df15edae9b78b",
+"hash": "6c21934e9c42d790",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/pamela-butler-2009/index.html": {
-"hash": "433dfd3f32da925e",
+"hash": "ffa94d6fa5f68a12",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/pamela-smart-1990/index.html": {
-"hash": "3b635dd1a226d755",
+"hash": "174e583f11af7cb1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/parkland-shooting-2018/index.html": {
-"hash": "cb0fb4f1f73696c5",
+"hash": "90bde1724d7646ab",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/patrice-endres-2004/index.html": {
-"hash": "2ab3c5c17dc63657",
+"hash": "c495d0ac880ffad9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/patricia-adkins-2001/index.html": {
-"hash": "ce75e8be7d9d5ed5",
+"hash": "750746a7391dd65b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/patricia-meehan-1989/index.html": {
-"hash": "cf51e8484a18097b",
+"hash": "8409fc1d50fdc648",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/patrick-warren-sr-2020/index.html": {
-"hash": "5261d5d3af5595c5",
+"hash": "a0911c6dc38132f2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/patty-hearst-sla/index.html": {
-"hash": "a53e2a48b1450190",
+"hash": "44d4cc314a5068c5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/paul-bern/index.html": {
-"hash": "0fe5f7a62b047295",
+"hash": "09c64cf144fa4cb9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/paul-bernardo-karla-homolka/index.html": {
-"hash": "c73bcf1911ee901b",
+"hash": "736df8228a46d9fc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/paula-jean-welden-1946/index.html": {
-"hash": "5e69a62c758d2e74",
+"hash": "4c19c8cf7e9155f8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peaches-doe-1997/index.html": {
-"hash": "93ecebf26e641547",
+"hash": "9f5e3cee37e4cc3e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/pedro-lopez-monster-andes/index.html": {
-"hash": "a451a48f80fdbf16",
+"hash": "cb2f55d9b709bd90",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peggy-hettrick/index.html": {
-"hash": "0d80a52b5ca68130",
+"hash": "357ad29947d94b15",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/penney-serra-1973/index.html": {
-"hash": "2f93928b9c9930ef",
+"hash": "287817dde3ef88a2",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/percy-fawcett-1925/index.html": {
-"hash": "5205523b79be953e",
+"hash": "ec3f302a6401cf84",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peter-boy-kema/index.html": {
-"hash": "b58f149496a55c5f",
+"hash": "fa5a2a4b00cb8ee8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/peter-falconio-2001/index.html": {
-"hash": "af397e956cce8ee5",
+"hash": "69da6bd86f533880",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peter-joan-porco-2004/index.html": {
-"hash": "8b16110a7bbd84b7",
+"hash": "3b9f4da61fb09159",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/peter-nygard-2020/index.html": {
-"hash": "1b530c7aae8280ac",
+"hash": "3c3f580dd688695d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peter-sutcliffe-yorkshire-2020/index.html": {
-"hash": "95dc83204c92c951",
+"hash": "5d6703806350d155",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/peter-tobin-uk-2006/index.html": {
-"hash": "5fa6cbe552e6d60f",
+"hash": "640b918f2851645f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/philando-castile/index.html": {
-"hash": "a444251149d928bb",
+"hash": "34254f71d0f075b8",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/philip-testa/index.html": {
-"hash": "a466dce66a362ec3",
+"hash": "d37fcb26870ea12c",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/phoenix-coldon-2011/index.html": {
-"hash": "2e34682fdfa3c49b",
+"hash": "b67a953958f8c7b6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/polly-klaas/index.html": {
-"hash": "a77fd4b5f93ae538",
+"hash": "447e67a353ced6ee",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/pop-smoke-2020/index.html": {
-"hash": "27cd94953d7ae708",
+"hash": "9cdfa66fbbff8b02",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/princess-doe-1982/index.html": {
-"hash": "b70659881f986884",
+"hash": "82c23ace75d67180",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/r-kelly-conviction-2022/index.html": {
-"hash": "05a762994ee1ee43",
+"hash": "3db8dacead92cf09",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rachel-cooke/index.html": {
-"hash": "e20d8c95a22e2075",
+"hash": "53a01edd7c92bc7f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/rachel-cyriacks-2013/index.html": {
-"hash": "4a45d2ec30a73b72",
+"hash": "1441032802cd7f0e",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/rachel-lillian-entwistle-2006/index.html": {
-"hash": "54a27c1d57fd5b55",
+"hash": "fdd30b5b83576169",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/rachel-morin-2023/index.html": {
-"hash": "38f2dbb768578a81",
+"hash": "554442bf5ea205fb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/racine-county-jane-doe-1999/index.html": {
-"hash": "4e58deb278f5ce09",
+"hash": "cc6e2c8987be7b22",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rainbow-murders-1980/index.html": {
-"hash": "3c0d2e93c4436991",
+"hash": "a800aa856642dbfa",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/randy-leach-1988/index.html": {
-"hash": "607892462fe13000",
+"hash": "b9925dd67e05d213",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/ray-gricar-2005/index.html": {
-"hash": "9549804740a8daba",
+"hash": "7f076e18c5f95ada",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rebecca-zahau-2011/index.html": {
-"hash": "33e76f439aef42d3",
+"hash": "1931a88f3a09b52e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/recy-taylor/index.html": {
-"hash": "68cd3e3e3dd820f4",
+"hash": "7676f0f4389f5cf7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/reet-jurvetson-1969/index.html": {
-"hash": "88b0a56290a7af91",
+"hash": "5c8cd80ecf0e20b6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/reeva-steenkamp-2013/index.html": {
-"hash": "13d8b3e65f9e7da1",
+"hash": "f357de8c05c6fe6f",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/relisha-rudd-2014/index.html": {
-"hash": "8629559bd61e112a",
+"hash": "18521325f5922f2e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rey-rivera-2006/index.html": {
-"hash": "f1c7a43ecb80c45f",
+"hash": "81742198dac97170",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rica-rish-1979/index.html": {
-"hash": "496e03c54f5aedb2",
+"hash": "7355694f0bc1e79d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/richard-glossip-oklahoma/index.html": {
-"hash": "1ef15e419d843f2d",
+"hash": "dd2429b6aceb171e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/richard-speck/index.html": {
-"hash": "261498dedf029dca",
+"hash": "cbfed464e7f0aef7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/richey-edwards-1995/index.html": {
-"hash": "c0edcf31b1ef46b3",
+"hash": "038b1cf586b3aedc",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rico-harris-2014/index.html": {
-"hash": "e3af5c71e451f8e9",
+"hash": "ec1df52b9e0d1c2c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rilya-wilson-2000/index.html": {
-"hash": "963eb70b44229a86",
+"hash": "caa4ba7838c3a7d4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/river-north-mass-shooting-2025/index.html": {
-"hash": "b36258ab65f7b405",
+"hash": "d48a630dcd3e7505",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/robert-ben-rhoades-victims/index.html": {
-"hash": "60c8d3fc81ad7432",
+"hash": "16943a29ce3b4aa9",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/robert-durst-murders/index.html": {
-"hash": "fe99a0fa5b5669f3",
+"hash": "464b4dfbc32e1866",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/robert-fisher-2001/index.html": {
-"hash": "0f37a41d1954dc6b",
+"hash": "95a764081a975f26",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/robert-hansen-victims/index.html": {
-"hash": "e72514f696d338bd",
+"hash": "0bbebf01d89dfa4f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/robert-kennedy/index.html": {
-"hash": "5da6475e563ff68e",
+"hash": "0199d609dbb8e391",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/robert-pickton-victims/index.html": {
-"hash": "c475fed1955fa13e",
+"hash": "5074f4480be727be",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/robert-wone-2006/index.html": {
-"hash": "2a3929111d0fbf2a",
+"hash": "000989ee51d0d797",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/robert-yates-victims/index.html": {
-"hash": "3411f5ade5e07715",
+"hash": "4f0e2574568e70df",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/roger-kibbe-victims/index.html": {
-"hash": "be726870f5599985",
+"hash": "9a20ec4b3eba35ca",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ron-goldman-nicole-simpson/index.html": {
-"hash": "8e0e3f67867749cd",
+"hash": "42629c63663178af",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/roy-tsatoke-2024/index.html": {
-"hash": "d6ca26be605010f1",
+"hash": "b044d0717d0b4257",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ruby-franke-2023/index.html": {
-"hash": "5e631a28df94a32b",
+"hash": "7f843f5817c86f8b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ruby-garcia-2024/index.html": {
-"hash": "df9c3a952df5ef98",
+"hash": "e15c0fbe6934cf6d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/rui-pedro-1998/index.html": {
-"hash": "52298e288af47fd7",
+"hash": "2fe5e78f376d9801",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/russell-williams-2010/index.html": {
-"hash": "be749e32e448f527",
+"hash": "48309e7616f5da32",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sabrina-aisenberg-1997/index.html": {
-"hash": "837cada95151ed1f",
+"hash": "9e6def79b45828ea",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/samantha-clarke-2010/index.html": {
-"hash": "3bea0df14efbe263",
+"hash": "4d35644bfece33a0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/samantha-runnion/index.html": {
-"hash": "87975fa79c86c7d4",
+"hash": "4b00255b2e4d7c34",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/sandra-birchmore-2021/index.html": {
-"hash": "152512bbf9a09c08",
+"hash": "fcbc507f35f2aece",
 "modified": "2026-10-28",
 "published": "2026-10-17"
 },
 "cases/sandra-bland/index.html": {
-"hash": "095d46502e75d415",
+"hash": "4b0d84b2d72737fe",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/sandra-cantu-2009/index.html": {
-"hash": "40c42b3f2f783642",
+"hash": "a3a950d869752ba0",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/sandy-hook-shooting-2012/index.html": {
-"hash": "c862b5f246ee82a2",
+"hash": "2c85c952554b8d34",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/santa-rosa-hitchhiker-murders/index.html": {
-"hash": "1c24c40882677319",
+"hash": "0ac2d1edf45de37e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sara-ann-trusty/index.html": {
-"hash": "3a3adde6f2f1958b",
+"hash": "1a6be8edeef38196",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/sara-anne-wood-1993/index.html": {
-"hash": "b9459b8329b6bb19",
+"hash": "390574edca412c32",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-and-jacob-hoggle-2014/index.html": {
-"hash": "5fce1eae0a235491",
+"hash": "7053eaa728bdaf04",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-everard-2021/index.html": {
-"hash": "9ebad135893c252b",
+"hash": "55b4c3a56f90e26f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-fox-2004/index.html": {
-"hash": "166cb41b7a969e7a",
+"hash": "1aa717cf71050220",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-pryor-1985/index.html": {
-"hash": "ca6a6eec005943cd",
+"hash": "78b973d5b62b185b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-stern-2016/index.html": {
-"hash": "9c7088e14c17a55f",
+"hash": "eb6d1dc6db12c918",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sarah-yarborough-1991/index.html": {
-"hash": "11bd91e5548e6f5d",
+"hash": "1080272afa434500",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/savanna-lafontaine/index.html": {
-"hash": "b412129e46366c88",
+"hash": "d958cba362671cc6",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/savannah-spurlock-2019/index.html": {
-"hash": "16c29325db765290",
+"hash": "0df2ca5f19e3e5e9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/scott-johnson-1988/index.html": {
-"hash": "f0bb472f9dbf8895",
+"hash": "552969d263ddd757",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sebastian-rogers-2024/index.html": {
-"hash": "435375d2457e1386",
+"hash": "94f39384db8d9add",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sebastian-russo/index.html": {
-"hash": "05731b2dba7d1a64",
+"hash": "f0d59085694925df",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/serenity-dennard-2019/index.html": {
-"hash": "62e80ae1cc404cef",
+"hash": "c567f14913e4c9b8",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/sergei-skripal-2018/index.html": {
-"hash": "8ed5e3caf1c74b5e",
+"hash": "39482d17518c3222",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/servant-girl-annihilator-1885/index.html": {
-"hash": "9673dc5b59c6602d",
+"hash": "f06a6807606f602a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shannan-gilbert-2010/index.html": {
-"hash": "07c324bf5dfd9fd1",
+"hash": "6d12634ffc264b64",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shannon-melendi-1994/index.html": {
-"hash": "20749d3d22413159",
+"hash": "fcdabba7f556dc2f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shanquella-robinson-2022/index.html": {
-"hash": "1d68acbae1a4d59e",
+"hash": "1334370704c16224",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shari-smith/index.html": {
-"hash": "59fe2922b4068705",
+"hash": "c65c6545f3a8ac21",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/shawn-hornbeck/index.html": {
-"hash": "f78cce134efb1892",
+"hash": "a219994b6065954d",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/shele-covlin-2009/index.html": {
-"hash": "35778e1fd25d211f",
+"hash": "ec202db09d3a39a9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shenandoah-murders/index.html": {
-"hash": "7e15af54c0b73bba",
+"hash": "15b9bf99c6adeb11",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/sheree-warren-1985/index.html": {
-"hash": "d2f0bb4731da2aa0",
+"hash": "d80a2612e6653d0e",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/sherin-mathews-2017/index.html": {
-"hash": "2c9cd72cf801416c",
+"hash": "ef5efbe11efc39c5",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sherri-rasmussen-1986/index.html": {
-"hash": "33c90ac918718f74",
+"hash": "e3c8aa7e25788a56",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/shooting-of-nipsey-hussle/index.html": {
-"hash": "e6bcfbe36a285378",
+"hash": "0d9df1166be07f48",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sierah-joughin-2016/index.html": {
-"hash": "a2c9041a6c96fbe8",
+"hash": "b9dbbd38839eb94f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sister-cathy-cesnik-1969/index.html": {
-"hash": "342f5b5566aa8ba4",
+"hash": "f44fd8239281aa23",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/skelton-brothers-2010/index.html": {
-"hash": "29965d0b66596fc1",
+"hash": "d4dd4d27b646541f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sky-metalwala-2011/index.html": {
-"hash": "f77e5de9c04b1f8a",
+"hash": "55737df86f65b822",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sneha-philip-2001/index.html": {
-"hash": "9117f1f5d96b1457",
+"hash": "25d0b45e411cae96",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sodder-children-1945/index.html": {
-"hash": "786128c301eb0f1c",
+"hash": "ff0ec241aeed2330",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sofia-juarez-2003/index.html": {
-"hash": "be5006e2b3eb24ef",
+"hash": "0db382ae3235778d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/soham-murders-2002/index.html": {
-"hash": "4d7e3f22da78c0f3",
+"hash": "8deadc6e408592f4",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/somerton-man-1948/index.html": {
-"hash": "1531bc68779306ef",
+"hash": "25b6c7913b4e6303",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/son-of-sam-victims/index.html": {
-"hash": "660a35a1d86982e6",
+"hash": "b38fd2c55d562a21",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/sophie-sergie-1993/index.html": {
-"hash": "f1ede75ce9642ca3",
+"hash": "189e9890d7ab97f7",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/springfield-three/index.html": {
-"hash": "528adc50e9b62c81",
+"hash": "60dff511b4cfdc14",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/st-louis-jane-doe-1983/index.html": {
-"hash": "7c8b8ef50d9c23ba",
+"hash": "05fd4f9956f2d871",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/stacy-peterson-2007/index.html": {
-"hash": "04d3a253db9e6b9f",
+"hash": "c71a7cad7d698607",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/stanford-white/index.html": {
-"hash": "272f5bfc323bf97b",
+"hash": "a10f05e4eb4f413c",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/starr-faithfull/index.html": {
-"hash": "099b4277c1682114",
+"hash": "175203b1f53b23a2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/stephanie-crane-1993/index.html": {
-"hash": "7ab61d415e7d1727",
+"hash": "1e3bdd391ab106d4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/stephen-port-uk-2015/index.html": {
-"hash": "ea38eb8fc604b057",
+"hash": "0deab777042494da",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/stephen-smith-2015/index.html": {
-"hash": "0859249685c94675",
+"hash": "14236b778f31344e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/steven-damman-1955/index.html": {
-"hash": "4ece43c47aa85596",
+"hash": "d66a196d7f6ca42b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/steven-koecher-2009/index.html": {
-"hash": "6a37a5702951c290",
+"hash": "4cf17bb8979746e7",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/summer-wells-2021/index.html": {
-"hash": "81c3bd8b3d1754cb",
+"hash": "cd221023e5cc6934",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/sumter-county-does/index.html": {
-"hash": "3443fbce1a2c7371",
+"hash": "85f3af45ac5753a4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/susan-negersmith-1990/index.html": {
-"hash": "f329ce559003ffcb",
+"hash": "264c3e552ba5603e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/susan-powell/index.html": {
-"hash": "e49bd05f38fb274a",
+"hash": "4876372d5bcbe8da",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/susan-reinert/index.html": {
-"hash": "f81b5f6c55392e39",
+"hash": "4e5e05caf16410a0",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/susan-walsh-1996/index.html": {
-"hash": "c312f5385afc344e",
+"hash": "cfcd05ba3ad9c13d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/suzanne-bombardier-1980/index.html": {
-"hash": "f24731c4053ec2b1",
+"hash": "3ad552d60ac04e2b",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/suzanne-degnan/index.html": {
-"hash": "43fbd7a4b3219c7b",
+"hash": "1c894e4c513d35ad",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/suzanne-jovin-1998/index.html": {
-"hash": "3547741df06e7ea5",
+"hash": "370b05c20d7063aa",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/suzanne-lyall-1998/index.html": {
-"hash": "732236505ac1d89f",
+"hash": "98b95f7b62293520",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/suzanne-morphew/index.html": {
-"hash": "9ed110fd29da7367",
+"hash": "68bbf2f4d187381a",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/suzanne-sevakis-1990/index.html": {
-"hash": "4fa88d131f899204",
+"hash": "00da70f850fac3bf",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/suzy-lamplugh-1986/index.html": {
-"hash": "2e4943350020e576",
+"hash": "e3a72a0c971c0c64",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tabitha-tuders-2003/index.html": {
-"hash": "7d85cd76f2abefa2",
+"hash": "e4b7243917506f49",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tamara-greene/index.html": {
-"hash": "33eddab40bfb8f08",
+"hash": "e66314f668d71a64",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tamir-rice/index.html": {
-"hash": "1aa47014177090ae",
+"hash": "82a894c3154c7057",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tamla-horsford-2018/index.html": {
-"hash": "ee01348e4800a6d6",
+"hash": "c1610e9f6027f59d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tammy-belanger-1984/index.html": {
-"hash": "4982916ad1e7a166",
+"hash": "beaec64880b40629",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tammy-daybell-2019/index.html": {
-"hash": "04f64d3af68cf260",
+"hash": "f1e80bd8299e484c",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tammy-lynn-leppert-1983/index.html": {
-"hash": "a4a46d1165b8c5d6",
+"hash": "adbda12e7340cd6d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tammy-mahoney/index.html": {
-"hash": "f26b9bd25fdb2db4",
+"hash": "cabb05170f2caa93",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tammy-terrell-nv/index.html": {
-"hash": "ad2fd7e0c270dbf3",
+"hash": "c383f5675aa70481",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tammy-zywicki-1992/index.html": {
-"hash": "57eabdf05cbce615",
+"hash": "ff22be072de108bb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tara-baker-2001/index.html": {
-"hash": "bfe63f1f9305d923",
+"hash": "a3f45f8278cf9b96",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tara-calico/index.html": {
-"hash": "1ec0006af5dd4207",
+"hash": "54facaeab736c5f7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tara-grinstead-2005/index.html": {
-"hash": "4001cd3205105b57",
+"hash": "e6185a97850bed3f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/taylor-casey-2024/index.html": {
-"hash": "dea81de17a67d053",
+"hash": "de0ee4f3c76d79bb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/ted-bundy-victims/index.html": {
-"hash": "2d818bfd6b1814f5",
+"hash": "7447de9f3e6edf0e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/ted-bundy-washington/index.html": {
-"hash": "ed403a0141a76c0e",
+"hash": "a435250ec1732dc2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/teekah-lewis-1999/index.html": {
-"hash": "a1c1536d2c31981b",
+"hash": "448d77a8bcb44fcb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tent-girl-1968/index.html": {
-"hash": "869658d207b5a141",
+"hash": "09ca995f37ec539e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/teresa-halbach/index.html": {
-"hash": "416c2b49ec290b9d",
+"hash": "e7e5ba9d5e197830",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/teresa-sievers-2015/index.html": {
-"hash": "703ae9f1ebf0dd1c",
+"hash": "dce236681a77e59f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/terrance-williams-felipe-santos-2003/index.html": {
-"hash": "bf925202732de35b",
+"hash": "1b39289f7da39d8a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/terri-lynn-hollis-1972/index.html": {
-"hash": "845e14beae208c39",
+"hash": "e7935f46a4da6110",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/texas-killing-fields/index.html": {
-"hash": "09119904c518bdfd",
+"hash": "94383a83308e2acf",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/the-texarkana-moonlight/index.html": {
-"hash": "2419d30baf153335",
+"hash": "1fd185c4a7a841b5",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/thelma-todd/index.html": {
-"hash": "211e765171436df7",
+"hash": "2e855c52ef516255",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/theresa-corley-1978/index.html": {
-"hash": "0ca8059c18d58378",
+"hash": "e433123fa5b691b9",
 "modified": "2026-10-28",
 "published": "2026-10-17"
 },
 "cases/thomas-wales/index.html": {
-"hash": "b4e18b35c61e4174",
+"hash": "3c674b83326b1e07",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tiffany-sessions-1989/index.html": {
-"hash": "2ae54fc01605beba",
+"hash": "3d0556d80b1f781d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tiffany-valiante-2015/index.html": {
-"hash": "740e27e466e32fc6",
+"hash": "b5d919126815b44d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tiffany-whitton-2013/index.html": {
-"hash": "adfcda07e860c87a",
+"hash": "c2b39733ab751b08",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/timmothy-pitzen-2011/index.html": {
-"hash": "e88c303cfa9cb45e",
+"hash": "94a2ee843f8ab1fb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/timothy-wiltsey-1991/index.html": {
-"hash": "6f06adf1fd27dae4",
+"hash": "5fd15bf2f5b1bbaa",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tina-smith-2010/index.html": {
-"hash": "6d5a248c6922478b",
+"hash": "ce39706fbd984622",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/todd-kohlhepp/index.html": {
-"hash": "619b0c3ab4800061",
+"hash": "afe1071bfbb92bfc",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/torso-murders/index.html": {
-"hash": "07381c05a87e316e",
+"hash": "4ed0a9b9b96fc3b7",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/trenny-gibson-1976/index.html": {
-"hash": "009672aa389cf14d",
+"hash": "d2be451e0ccc8934",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/trenton-duckett-2006/index.html": {
-"hash": "6c464bfbe62fd01c",
+"hash": "c0935b5d42343321",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/trevaline-evans-1990/index.html": {
-"hash": "be2a2da91cf57a7c",
+"hash": "7f4fa4c69f23c497",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tristan-brubach-1998/index.html": {
-"hash": "6ed65ebf824d79ef",
+"hash": "aba0c5ba8a6d01ed",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/trudy-appleby-1996/index.html": {
-"hash": "0bf01f803c5589a5",
+"hash": "e3c96e4fecf9e5a8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tsutomu-miyazaki-japan-1989/index.html": {
-"hash": "15a603faf156f4e3",
+"hash": "777051c23beb51eb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tupac-shakur/index.html": {
-"hash": "0687d41f81be5cf7",
+"hash": "77d23cc3166d0190",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/tylee-ryan-jj-vallow-2019/index.html": {
-"hash": "477236cbecea3dd4",
+"hash": "1f3707c5a22d3dec",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tyler-charlee-worley-2016/index.html": {
-"hash": "80544987020b9aa4",
+"hash": "79a3a267cf314d59",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/tyler-hadley-2011/index.html": {
-"hash": "a1859c0c6fc48e16",
+"hash": "f1d983b163357af1",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/tyre-nichols-2023/index.html": {
-"hash": "60e3c7458d5a196b",
+"hash": "a428c6cf2e5a9dc0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/valentine-sally-1982/index.html": {
-"hash": "12aa915701cae62c",
+"hash": "ebca4eefb6698e22",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/valerie-mack/index.html": {
-"hash": "1411e0ef19d27c42",
+"hash": "dfa5dcdf0533598b",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/valerie-percy/index.html": {
-"hash": "9dfcd4a42d20f924",
+"hash": "76757fec6aa85f86",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/vanessa-guillen-2020/index.html": {
-"hash": "2920ce5c3c0fa024",
+"hash": "f095ef4e1b121d3d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/vaneta-hoyt-1994/index.html": {
-"hash": "5efcde26e275901c",
+"hash": "4ee13a63fa11b4c3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/vernon-county-jane-doe/index.html": {
-"hash": "814441a72b8b66a2",
+"hash": "5bc460a637e9c31d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/vicki-lynne-hoskinson/index.html": {
-"hash": "b30e37265b47ed2c",
+"hash": "d6bb8a120c356d5e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/victim-of-dating-game-killer-cornelia/index.html": {
-"hash": "e6a214a10071129a",
+"hash": "56300a228ed98c98",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/victim-of-dating-game-killer/index.html": {
-"hash": "ec3f727040f5061c",
+"hash": "aeaf7ea9a13fe9f0",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/victor-shoemaker-1994/index.html": {
-"hash": "90c0c3546f710b5d",
+"hash": "057e8f59f148cf4e",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/villisca-axe-murders/index.html": {
-"hash": "cfdd0126f6423bf7",
+"hash": "b466fd7d2901250d",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/virginia-christian/index.html": {
-"hash": "5f62e4a575a520de",
+"hash": "dec7f2fe7c8e475e",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/virginia-rappe/index.html": {
-"hash": "b448e028deae4260",
+"hash": "53d79f7fa858c72f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/wah-mee-massacre/index.html": {
-"hash": "8bf508e3cbfaeeb5",
+"hash": "eb5e3b7d5584e818",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/walker-county-jane-doe/index.html": {
-"hash": "d0904886152ce48c",
+"hash": "01e86a78d75f0f64",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/walter-scott/index.html": {
-"hash": "cc5848f0ed5e3a86",
+"hash": "a071254329ebc704",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/wanda-beach-murders-1965/index.html": {
-"hash": "b4f05dd28ebd2057",
+"hash": "968e654e806478c9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/watts-family-murders-2018/index.html": {
-"hash": "b576545a8997b636",
+"hash": "0ab04a89c69af3a1",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/wayne-nance-montana-1986/index.html": {
-"hash": "6fe2b902fd2c5029",
+"hash": "62f360118f1aea12",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/wayne-williams-victims/index.html": {
-"hash": "c4c0d38c5d0ef7d3",
+"hash": "695e3e0faa9c5f77",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/wendy-jerome-1984/index.html": {
-"hash": "d09e217689fce0b4",
+"hash": "456a5242f333e4e6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/west-memphis-three/index.html": {
-"hash": "b758f456b9f9b078",
+"hash": "7158952788f55273",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/west-mesa-murders-2009/index.html": {
-"hash": "8ee34da737ab3e43",
+"hash": "b15eb506f6989714",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/wharlest-jackson-1967/index.html": {
-"hash": "9b16d5189ad2b66c",
+"hash": "f216f97935abb76c",
 "modified": "2026-10-28",
 "published": "2026-07-08"
 },
 "cases/whitey-bulger-2018/index.html": {
-"hash": "fbc9d9df7a7ce44f",
+"hash": "131a52c3610decd4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/william-bradford-bishop-1976/index.html": {
-"hash": "4e7e4450220313ef",
+"hash": "e94cfc8f7c17f779",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/william-desmond-taylor/index.html": {
-"hash": "19b11a437e4c4e57",
+"hash": "9ec35b94ee763940",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/william-jones-nj/index.html": {
-"hash": "2ce4ddad488daf0d",
+"hash": "f59fd1337597b717",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/william-tyrrell-2014/index.html": {
-"hash": "86c6cedc7a03eeaa",
+"hash": "c9bb7ddc5da88000",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/woodlawn-jane-doe/index.html": {
-"hash": "6ff72c889980eb3f",
+"hash": "fac745450cf398ea",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/wvu-coed-murders-1970/index.html": {
-"hash": "51285975446a7da3",
+"hash": "6531f54a8f300e8a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/xxxtenacion-2018/index.html": {
-"hash": "6843ad464988bb4a",
+"hash": "9b11db2bd5e89c69",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/yaser-said-victims-2008/index.html": {
-"hash": "71275e9a65b54ed3",
+"hash": "548695839e9fc680",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/yeardley-love/index.html": {
-"hash": "55d031d4ac18cd84",
+"hash": "b31b9901ab4b23e6",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/yingying-zhang-2017/index.html": {
-"hash": "99739b197cd014ba",
+"hash": "657ef5815849c7fa",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/yosemite-murders/index.html": {
-"hash": "5c50b45445b6b56e",
+"hash": "05b0fb9eededf685",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/young-dolph-2021/index.html": {
-"hash": "b949cbc302d42953",
+"hash": "ea41b5ad2474b5e8",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "cases/yuba-county-five-1978/index.html": {
-"hash": "a6ac0c2558ce2224",
+"hash": "722cfc069abc0f27",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/zebb-quinn-2000/index.html": {
-"hash": "7f3cfe7e6fe1163b",
+"hash": "823621073d15ccf4",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/zelig-williams-2024/index.html": {
-"hash": "2dc1106838390c80",
+"hash": "b5219e310e0afb17",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "cases/zodiac-1968-benicia/index.html": {
-"hash": "a40b34769902ee8c",
+"hash": "c5b10fda42af64c9",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/zodiac-killer/index.html": {
-"hash": "91f76339d250b8bd",
+"hash": "5d2f83b65e53eed2",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/zodiac-lake-berryessa/index.html": {
-"hash": "4761eff9c3670805",
+"hash": "24fe48f1f767e6ba",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cases/zodiac-paul-stine/index.html": {
-"hash": "c9c9d88c10bb0542",
+"hash": "aaf0166036eef7f4",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "cities/adelaide-australia/index.html": {
-"hash": "d86ecd78fdc50a92",
+"hash": "9f6ff1acbc7ef638",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/albuquerque-nm/index.html": {
-"hash": "3034e47e0cd6cec6",
+"hash": "74e3722f658cbded",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/anchorage-ak/index.html": {
-"hash": "51a851d9bf20599b",
+"hash": "83dbe9c42b37444a",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/athens-ga/index.html": {
-"hash": "1cb8f9027f253080",
+"hash": "1a5c807e8c75043a",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/atlanta-ga/index.html": {
-"hash": "3eb2c7c28fc37eef",
+"hash": "46a6b01f38034db4",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/austin-tx/index.html": {
-"hash": "5874a9417a221b8d",
+"hash": "eb75ad90556863bc",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/baltimore-md/index.html": {
-"hash": "2e41dd4fc0bc03c2",
+"hash": "7e5319dd98d2c477",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/bardstown-ky/index.html": {
-"hash": "3d523bac1cfa5c55",
+"hash": "82c004f2b41d384f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/bay-village-oh/index.html": {
-"hash": "6fe8dc95c4d2be2c",
+"hash": "4ddee9fbd1a868f4",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/berkeley-ca/index.html": {
-"hash": "50c908da795d1d7a",
+"hash": "7f339e593229c401",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/beverly-hills-ca/index.html": {
-"hash": "3d4706cda458f1c9",
+"hash": "3c88bbcc4af2eb9f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/boston-ma/index.html": {
-"hash": "66d92e3536c8ecba",
+"hash": "673a1eef05ad9333",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/bridgeport-ct/index.html": {
-"hash": "09a0dd980cd2380b",
+"hash": "8d8eb0c00b81d44e",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/brooklyn-ny/index.html": {
-"hash": "25996e7fd64c1582",
+"hash": "6192e8ec0dfe7c0e",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/canton-ma/index.html": {
-"hash": "97e4b861ee9e9e17",
+"hash": "b0ea7008622e4924",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/charlottesville-va/index.html": {
-"hash": "e1dce27179ab275b",
+"hash": "670de034c69a7b79",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/chicago-il/index.html": {
-"hash": "b82e502405ac9541",
+"hash": "c73588bad72e722e",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/cleveland-oh/index.html": {
-"hash": "8bf806e7e48a9d6d",
+"hash": "991838c112f3bb5d",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/colorado-springs-co/index.html": {
-"hash": "5e6fd6f6fa2f5c7c",
+"hash": "fae1b2ff2ee67178",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/columbia-mo/index.html": {
-"hash": "08ee242b86e8f049",
+"hash": "a6cbf681e5a6fa85",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/columbia-sc/index.html": {
-"hash": "52e17f31ce7e8f10",
+"hash": "f0f0403f7d8d44e9",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/cumming-ga/index.html": {
-"hash": "a36331345595f365",
+"hash": "86147a94a5282e44",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/dallas-tx/index.html": {
-"hash": "444e27aa2f68a6ef",
+"hash": "f58bffd480a7fc74",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/des-moines-ia/index.html": {
-"hash": "22729dcbc89ab4ff",
+"hash": "c5ab36a213038d10",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/fort-worth-tx/index.html": {
-"hash": "f532f9990d3db4df",
+"hash": "0cd5582d6eafa9e9",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/fulham-united-kingdom/index.html": {
-"hash": "a45374c465fd46f4",
+"hash": "a779be5906b47a5d",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/gainesville-fl/index.html": {
-"hash": "334b7e2aac30bae8",
+"hash": "3423492eb0da46b0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/georgetown-tx/index.html": {
-"hash": "cc530ae2a39972f2",
+"hash": "fb205d7b88c807dc",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/glasgow-united-kingdom/index.html": {
-"hash": "d44bacc7687a1d3f",
+"hash": "c6786a195f24354c",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/grand-rapids-mi/index.html": {
-"hash": "9bca2621b291f4d8",
+"hash": "6590d99c0d43edab",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/great-smoky-mountains-national-park-tn/index.html": {
-"hash": "c95fab4262d3db89",
+"hash": "c5f99240b1d3786a",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/henderson-nv/index.html": {
-"hash": "1645ca841f49306c",
+"hash": "e95c00f6eecd1a36",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/honolulu-hi/index.html": {
-"hash": "df2a63cf4030e13b",
+"hash": "f28d088c23388761",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/houston-tx/index.html": {
-"hash": "35e3c3eb2ca8f601",
+"hash": "185b110610fb3258",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/ina-il/index.html": {
-"hash": "b2c232a373d783df",
+"hash": "ef8858643eca8e66",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/index.html": {
-"hash": "719c33f5c1159c4c",
+"hash": "05542d52e55d4685",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/islandton-sc/index.html": {
-"hash": "87420bfd2d2e429e",
+"hash": "60aafb0b71dcab4f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/jackson-ms/index.html": {
-"hash": "a1886f61eb1abd3f",
+"hash": "fc4e0f17e34c505c",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/jacksonville-fl/index.html": {
-"hash": "8dff885730e2554e",
+"hash": "ef22897abfdf0bd0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/kansas-city-mo/index.html": {
-"hash": "e1b7f3684b631f4d",
+"hash": "8eb622beb68e26fe",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/killeen-tx/index.html": {
-"hash": "f43bf511c09e63fc",
+"hash": "f3a452a12d3b562a",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/knoxville-tn/index.html": {
-"hash": "ab806eee8198cf25",
+"hash": "56e25bc2259d3630",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/las-vegas-nv/index.html": {
-"hash": "9a4f6d51dffeebe0",
+"hash": "a04dc5912aa51a51",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/london-united-kingdom/index.html": {
-"hash": "69d6f67292b297b0",
+"hash": "8e8bb14a69bceefa",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/los-angeles-ca/index.html": {
-"hash": "84a6f3dd5b059770",
+"hash": "19302ed0fbb78bb7",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/louisville-ky/index.html": {
-"hash": "b0cb8384c8ba91f3",
+"hash": "c42638fea4436a59",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/melbourne-australia/index.html": {
-"hash": "7fb9fd900d9ca9a6",
+"hash": "6324c08191d755d5",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/memphis-tn/index.html": {
-"hash": "f07ffb9942bdfa2d",
+"hash": "eefe2f23f67fb194",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/mesa-az/index.html": {
-"hash": "0ec53938674be0b7",
+"hash": "3b15c07d53c58dc2",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/milwaukee-wi/index.html": {
-"hash": "ec5466fce297451b",
+"hash": "355b25c9f5b5ccb2",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/missoula-mt/index.html": {
-"hash": "7f9467f51e7f3f99",
+"hash": "e23853325c9e46f0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/new-haven-ct/index.html": {
-"hash": "938b516555a34d2b",
+"hash": "13367acead6605bd",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/new-york-city-ny/index.html": {
-"hash": "429559467dca65c4",
+"hash": "de4021cad012a4ae",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/newtown-ct/index.html": {
-"hash": "7c8928e75bb66cc9",
+"hash": "bbf6e7a3693dfb68",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/oakland-ca/index.html": {
-"hash": "8a94baa8c2658d16",
+"hash": "295074122aa8bc9d",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/oklahoma-city-ok/index.html": {
-"hash": "4b7b92da1ae3b255",
+"hash": "268309512367ac92",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/omaha-ne/index.html": {
-"hash": "30c8009e5a9b3c28",
+"hash": "71f84270da8496c7",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/orlando-fl/index.html": {
-"hash": "dff1f6b7f5654bf4",
+"hash": "b8a62a10b09f35e1",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/philadelphia-pa/index.html": {
-"hash": "1b162ef30a1c24d6",
+"hash": "57646e1a699bfaed",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/phoenix-az/index.html": {
-"hash": "cb909d1013626d0f",
+"hash": "3b19f241a4f6848c",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/portland-or/index.html": {
-"hash": "43b2ed651f589961",
+"hash": "7c0bc0a8b9185283",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/queens-ny/index.html": {
-"hash": "3a934421b7c3853d",
+"hash": "9b847e2617ce3fc0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/rochester-ny/index.html": {
-"hash": "1442d6c47baeef0d",
+"hash": "7e3a69c517d1d4fe",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/sacramento-ca/index.html": {
-"hash": "211cc7d2bd2f09fb",
+"hash": "73397afcefb84439",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/salt-lake-city-ut/index.html": {
-"hash": "bb99348b5b8b87b9",
+"hash": "ebc139eb87c0e469",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/san-diego-ca/index.html": {
-"hash": "ddb5ddf5635baea2",
+"hash": "614bce9e517c09a7",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/san-francisco-ca/index.html": {
-"hash": "43f368fda0accd02",
+"hash": "ec0ef99eb4b9c678",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/scottsdale-az/index.html": {
-"hash": "78ee6600ff004449",
+"hash": "42226d1ee7bebf91",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/seattle-wa/index.html": {
-"hash": "1a05a1ff26c139a2",
+"hash": "e02c8c6abe58beec",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/skidmore-mo/index.html": {
-"hash": "fae3992ade74962d",
+"hash": "ca8c54c91a286ca0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/springfield-mo/index.html": {
-"hash": "526452e56b080b0f",
+"hash": "2e732993ce11e12e",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/st-louis-mo/index.html": {
-"hash": "f298cd7a7c746495",
+"hash": "2949f736e2097117",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/sydney-australia/index.html": {
-"hash": "c9609c5359fa718a",
+"hash": "34c0420436ac95c0",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/tacoma-wa/index.html": {
-"hash": "bdb3c98e86e9d8e2",
+"hash": "8a0fc8201a32d855",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/toronto-canada/index.html": {
-"hash": "6eb5b8f74cc4394f",
+"hash": "2dbbf193d0ff0556",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/tucson-az/index.html": {
-"hash": "9900b57705ed3761",
+"hash": "d2de17cc951e482b",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/tulsa-ok/index.html": {
-"hash": "9a39f3148cf0e4a4",
+"hash": "c93368c898251224",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/victoria-canada/index.html": {
-"hash": "53209ee8417bb347",
+"hash": "2362d6b1198b7775",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/washington-dc/index.html": {
-"hash": "2065869d02d808a8",
+"hash": "7da4ddf646dec779",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "cities/wichita-ks/index.html": {
-"hash": "7ef54b2cd10c4ac2",
+"hash": "e469dc81abc4ed98",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "decades/1880s/index.html": {
-"hash": "e5be04784f11539d",
+"hash": "e4dc3a39e85720f7",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1890s/index.html": {
-"hash": "6c53d73aeea51a72",
+"hash": "862a7cbe4ce26635",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1900s/index.html": {
-"hash": "dcda5ff0ec293d72",
+"hash": "b05ddffafa228bf2",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1910s/index.html": {
-"hash": "bbd2552229386524",
+"hash": "8916e73be2ab8b35",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1920s/index.html": {
-"hash": "7b75d5ff1412385a",
+"hash": "6396a16d3b279efb",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1930s/index.html": {
-"hash": "fa0f79535c690b55",
+"hash": "60e558d3fd6449df",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1940s/index.html": {
-"hash": "0708cfa230175612",
+"hash": "24e99650243ce8ce",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1950s/index.html": {
-"hash": "895788b16fbab4ac",
+"hash": "b197294cbc601e92",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1960s/index.html": {
-"hash": "70aad91ed73cdf8e",
+"hash": "21aeafb73d434668",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1970s/index.html": {
-"hash": "d152ecf78afd04d0",
+"hash": "f9b6f565938dc559",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1980s/index.html": {
-"hash": "56519274a773e278",
+"hash": "c98d06f25fe34ced",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/1990s/index.html": {
-"hash": "839ef6b92430e1bf",
+"hash": "945f8d21ce631e8e",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/2000s/index.html": {
-"hash": "8a61e4e54bbf32c0",
+"hash": "d035260fd98af540",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/2010s/index.html": {
-"hash": "d3ba26c9d4d65569",
+"hash": "d65e795e3d6f02ca",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/2020s/index.html": {
-"hash": "db1aeec3d9fc3e79",
+"hash": "5a53b65a1012d726",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "decades/index.html": {
-"hash": "4611390ab9eda08c",
+"hash": "2848a19c4ce38564",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "index.html": {
-"hash": "805a04254e3e1aa0",
+"hash": "aa8322381bd66f3f",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "map/index.html": {
-"hash": "6e3880d8425385a3",
+"hash": "0915b3fa27a7f32a",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/april/index.html": {
-"hash": "d82e5e07e31afdce",
+"hash": "84e188726f20c085",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/august/index.html": {
-"hash": "9b5ce7073024d44b",
+"hash": "511b1c952d61d011",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/december/index.html": {
-"hash": "404c28d8615c2c20",
+"hash": "9d3ed1c917440dbe",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/february/index.html": {
-"hash": "4db943ec5a1c8780",
+"hash": "c102556eb739b81b",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/index.html": {
-"hash": "cc2fb18cc88c63b2",
+"hash": "9cbd9abd17b64611",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/january/index.html": {
-"hash": "e4413bfd19c92cfe",
+"hash": "d020177b35e139b8",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/july/index.html": {
-"hash": "962eb3dd069de78e",
+"hash": "1edc15205a002178",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/june/index.html": {
-"hash": "e8902d95de5feb9c",
+"hash": "438ce0914d51b355",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/march/index.html": {
-"hash": "6143d414e54d4eb1",
+"hash": "31f68729e6ec8c83",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/may/index.html": {
-"hash": "1f961f78d3196dc7",
+"hash": "75040f4a0c340a17",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/november/index.html": {
-"hash": "1c1c6069dbad718a",
+"hash": "1fc8222c02605212",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/october/index.html": {
-"hash": "4ce266216d54d95f",
+"hash": "fafc2509d126977c",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "month/september/index.html": {
-"hash": "7a95c71207668cc5",
+"hash": "f3289bd50962ee94",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "privacy/index.html": {
-"hash": "f56183b21de1f478",
+"hash": "f0a72feed26b4a80",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/alabama/index.html": {
-"hash": "a9b155e804123437",
+"hash": "96ced9bcfe4751b2",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/alaska/index.html": {
-"hash": "5a2a33303392e0c6",
+"hash": "25abc2b4bd41f837",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/argentina/index.html": {
-"hash": "149b9512c9ceef3b",
+"hash": "fb081a70ea87b335",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/arizona/index.html": {
-"hash": "a984fbce69a2bf65",
+"hash": "dafffeb2eee29cbb",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/arkansas/index.html": {
-"hash": "96b6ed29216107c5",
+"hash": "bbf994b7ba464454",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/australia/index.html": {
-"hash": "340e8c03e395f0ed",
+"hash": "2bcde744399216cd",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/austria/index.html": {
-"hash": "521a0dc5c549d405",
+"hash": "f97802f7f9c520b8",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/bahamas/index.html": {
-"hash": "d0d59a382ec19c68",
+"hash": "f71c34bdbbeeb96f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "states/belgium/index.html": {
-"hash": "8ec77210ef772b29",
+"hash": "1338ec5fa1496f70",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/brazil/index.html": {
-"hash": "d1f3c84af9f6e9bc",
+"hash": "15ce295799c5ffb6",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/bulgaria/index.html": {
-"hash": "89370b2c14e08ee6",
+"hash": "892d9b262f1f9b77",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/california/index.html": {
-"hash": "e255460db5c5cfc9",
+"hash": "70c73fede7174a0d",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/canada/index.html": {
-"hash": "3258f765e9b0fd32",
+"hash": "bff04bb25f51abbb",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/colorado/index.html": {
-"hash": "74d137245381bc2d",
+"hash": "dc5c0b1abeb9d978",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/connecticut/index.html": {
-"hash": "cf24aceb16613641",
+"hash": "5a276555795d392d",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/delaware/index.html": {
-"hash": "c32b6adcfd7765e1",
+"hash": "283382ebb6f407f5",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/district-of-columbia/index.html": {
-"hash": "9b36bac110d66747",
+"hash": "ac28492c1b5f73ce",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/ecuador/index.html": {
-"hash": "27dffc881d8998f3",
+"hash": "35686638986e0f72",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/florida/index.html": {
-"hash": "137c75e01a931029",
+"hash": "25576effc9e10cfb",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/france/index.html": {
-"hash": "479dde2fd0f5f44a",
+"hash": "b4082c57a4758da7",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/georgia/index.html": {
-"hash": "a9751e278950c5cd",
+"hash": "6e22544acd9d6dd9",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/germany/index.html": {
-"hash": "4dd4e3c375cc569c",
+"hash": "d9a66977e550e692",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/greece/index.html": {
-"hash": "6de3c115734c7e70",
+"hash": "5d925da414942961",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/guyana/index.html": {
-"hash": "a03e2455dad0ccb3",
+"hash": "686c4df236d827a3",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "states/hawaii/index.html": {
-"hash": "080e2c91f200642e",
+"hash": "e273b4ac02b782ed",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/idaho/index.html": {
-"hash": "c6d481f876104737",
+"hash": "f6a446bbd9d6d746",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/illinois/index.html": {
-"hash": "1188fd44f2b16ff2",
+"hash": "5078cb1235eb2e64",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/index.html": {
-"hash": "2186815ac0eaa18f",
+"hash": "a167ea5efbdc2dde",
 "modified": "2026-10-28",
 "published": "2026-03-04"
 },
 "states/indiana/index.html": {
-"hash": "ffa9ec9272e9cd2d",
+"hash": "247807e8f1c7f5aa",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/indonesia/index.html": {
-"hash": "6f5034bf65676374",
+"hash": "2023932aafd2d86c",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/iowa/index.html": {
-"hash": "e8521c19eacf4d44",
+"hash": "e24e3a9770af68f8",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/ireland/index.html": {
-"hash": "e5326cf4988220df",
+"hash": "d35f0a80a9eaf5ee",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/italy/index.html": {
-"hash": "21200a366296c184",
+"hash": "e3e9956da6344e5a",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/jamaica/index.html": {
-"hash": "a5c2f456f6843b55",
+"hash": "30d81386043061bb",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/japan/index.html": {
-"hash": "a0b8531da07a93fb",
+"hash": "7f55f94adffd1c3f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/kansas/index.html": {
-"hash": "a1d7e13a7dd7fbc1",
+"hash": "b835fff96fbfc2b4",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/kentucky/index.html": {
-"hash": "a57c1add83deb4b4",
+"hash": "04e953f641edbe42",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/louisiana/index.html": {
-"hash": "060fdf58d117b356",
+"hash": "919813c35b7e50b5",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/maine/index.html": {
-"hash": "c952fddf6ac81bb6",
+"hash": "f4cad8ba5747fcb8",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/maryland/index.html": {
-"hash": "be5e2cb90f110612",
+"hash": "026574c63654f0c8",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/massachusetts/index.html": {
-"hash": "cb4b4f953858a8af",
+"hash": "00856696af1505f2",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/mexico/index.html": {
-"hash": "d5b72391f281f471",
+"hash": "c9556f10e88dcd8b",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/michigan/index.html": {
-"hash": "4df0adf8f7865e14",
+"hash": "cacbb73e6ee6115d",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/minnesota/index.html": {
-"hash": "ea1f3ca0db82a542",
+"hash": "95ec788b1af04978",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/mississippi/index.html": {
-"hash": "3404e3a66b5e3b7c",
+"hash": "73b28a2e8de9162a",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/missouri/index.html": {
-"hash": "789de451ce293305",
+"hash": "40eb0028a2e4de1d",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/montana/index.html": {
-"hash": "89385be7a0804040",
+"hash": "09baea23f584553b",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/nebraska/index.html": {
-"hash": "24bd58f826d8f9c7",
+"hash": "edef57d5720dea7b",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/nevada/index.html": {
-"hash": "9f58204c519dfa99",
+"hash": "41384dc0de794889",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/new-hampshire/index.html": {
-"hash": "af7642af75b538a0",
+"hash": "3d7d20c24ed315c9",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/new-jersey/index.html": {
-"hash": "c58868732b090475",
+"hash": "04e1101549de3aff",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/new-mexico/index.html": {
-"hash": "4c688270f8c0dc32",
+"hash": "4f934b888b69784a",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/new-york/index.html": {
-"hash": "35332921da72a6d2",
+"hash": "e4ed4bdf0366f716",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/new-zealand/index.html": {
-"hash": "72e3611d0fec6dd4",
+"hash": "41fe840c5a8b20de",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/north-carolina/index.html": {
-"hash": "180bfef57c5acb81",
+"hash": "ffb55145edb8891f",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/north-dakota/index.html": {
-"hash": "852008522e8679fd",
+"hash": "4e4037cf339d88a9",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/norway/index.html": {
-"hash": "0d83c82ab33e9ca4",
+"hash": "85e2fdab1118f016",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/ohio/index.html": {
-"hash": "5c4aa505f921eef1",
+"hash": "e69cce44618bdc83",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/oklahoma/index.html": {
-"hash": "392f37d7cb6315b7",
+"hash": "50c14025197872fc",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/oregon/index.html": {
-"hash": "ec33720d701a2876",
+"hash": "b5db6ae3f063ada6",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/panama/index.html": {
-"hash": "98c217d93c0a5e32",
+"hash": "6fe1aa0aa37d5f24",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/pennsylvania/index.html": {
-"hash": "435196f06062acc8",
+"hash": "dfb00acf31851b60",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/philippines/index.html": {
-"hash": "0bff757245c7cb90",
+"hash": "92b5ce82c0c27e96",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/portugal/index.html": {
-"hash": "0780ec63594dfa63",
+"hash": "66cfe42154315a64",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/russia/index.html": {
-"hash": "92f076d30e48665a",
+"hash": "8942cb62368a69b3",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/south-africa/index.html": {
-"hash": "74e2b660101ae0cf",
+"hash": "8e49600a358c1b5f",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/south-carolina/index.html": {
-"hash": "656879d97c401e3a",
+"hash": "847827e9f0561226",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/south-dakota/index.html": {
-"hash": "8add7ca3154ae3fa",
+"hash": "fd639cfb91b9c2d8",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/sweden/index.html": {
-"hash": "b4abddef09bf0894",
+"hash": "6b5ea3d27d088f0a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "states/tennessee/index.html": {
-"hash": "9ce53071f49121c9",
+"hash": "29b51a07d602eeb1",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/texas/index.html": {
-"hash": "e40c264c111a7887",
+"hash": "97290b59f295a122",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/turkey/index.html": {
-"hash": "a3f3d4b08c0031d9",
+"hash": "f333d8ad6cf312ca",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/united-kingdom/index.html": {
-"hash": "14dad8595e54dbea",
+"hash": "3d448f76cd3c4ca9",
 "modified": "2026-10-28",
 "published": "2026-07-09"
 },
 "states/utah/index.html": {
-"hash": "0fa3000fa164d80f",
+"hash": "13fee1b4e8d0e6aa",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/vermont/index.html": {
-"hash": "a041df7ccedcad0f",
+"hash": "92fe7aff26fe8eb4",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/virginia/index.html": {
-"hash": "dabc503a85f2bb55",
+"hash": "a2ff960f8487726e",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/washington/index.html": {
-"hash": "59ea54bd07b83975",
+"hash": "e9b9ddfd5dc4cc48",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/west-virginia/index.html": {
-"hash": "b3c9142abc1dfea0",
+"hash": "a681d3528b734392",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/wisconsin/index.html": {
-"hash": "a06e60844b2b4154",
+"hash": "d18c1918082d172e",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/wyoming/index.html": {
-"hash": "1f55fdfbadaa4758",
+"hash": "2f55fa09ded3b85e",
 "modified": "2026-10-28",
 "published": "2026-07-06"
 },
 "states/zambia/index.html": {
-"hash": "be1798dedbd8bbef",
+"hash": "e7b817f080f3a684",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "themes/body-never-found/index.html": {
-"hash": "606d35e8cf60e76f",
+"hash": "8501379b5599ff9f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/civil-rights/index.html": {
-"hash": "7b56e547852b852f",
+"hash": "6da4654c579c5a9e",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/college-students/index.html": {
-"hash": "c11a1fabe02fb145",
+"hash": "3ab98bd4158de52f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/genetic-genealogy/index.html": {
-"hash": "87f0065e47fd66a5",
+"hash": "4c46a0b908e7ad9c",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/index.html": {
-"hash": "ed1a45d0901a72be",
+"hash": "ee19e9c7224aa3a7",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/jane-john-doe/index.html": {
-"hash": "00e0a945798d1cdf",
+"hash": "4c053631efe36e09",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "themes/wrongful-conviction/index.html": {
-"hash": "0c857cfc5c15c8da",
+"hash": "1fc39688006efaef",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "today/index.html": {
-"hash": "f3d23c7b432a2c64",
+"hash": "23fc9df889ed04c7",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "types/abductions/index.html": {
-"hash": "dc1da6bbd5db6f73",
+"hash": "6d25e2ba868688c5",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/arson-cases/index.html": {
-"hash": "87de929223061c54",
+"hash": "c079fbc6d6a9b183",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/child-abuse/index.html": {
-"hash": "0b6b578321400894",
+"hash": "c25abb9a7db0b9ae",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/fugitive-cases/index.html": {
-"hash": "7f5c20d967a935fc",
+"hash": "31138a0db939fd8a",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/historic-injustice-cases/index.html": {
-"hash": "bc6492d864c7c018",
+"hash": "46d64afec9d9541d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/homicides/index.html": {
-"hash": "f89a7cc065bf0067",
+"hash": "e3eca561f6758759",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/index.html": {
-"hash": "ac751379040da1c4",
+"hash": "f400a9084687dfc4",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/mass-shootings/index.html": {
-"hash": "3f6d07a3e2a9cd58",
+"hash": "d23d74cf398f0e29",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/missing-persons/index.html": {
-"hash": "eb14e17ee07b3b58",
+"hash": "d44c464ceb98ff8d",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/multiple-homicides/index.html": {
-"hash": "60d5482b0c2dce8b",
+"hash": "642228b00c7afce5",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/serial-killer-cases/index.html": {
-"hash": "99790662446728f3",
+"hash": "9c1f801629357ab6",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/sex-trafficking-cases/index.html": {
-"hash": "038859d2e14a368c",
+"hash": "b57ff7faa7c20b33",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/sexual-violence-cases/index.html": {
-"hash": "f5cdb5562be6b18a",
+"hash": "8e0d302346d53501",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/suspicious-deaths/index.html": {
-"hash": "631e68f086ffc44b",
+"hash": "08ac4c6a63215dc3",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "types/unidentified-persons/index.html": {
-"hash": "8c45ba8629ee9bb0",
+"hash": "a3bf3a11ac0f165b",
 "modified": "2026-10-28",
 "published": "2026-09-29"
 },
 "updates/index.html": {
-"hash": "812784d01cb0202c",
+"hash": "ae48ce9dec21af83",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 },
 "watch/index.html": {
-"hash": "b40e1f3601877fd5",
+"hash": "a633dcc558d7ad6f",
 "modified": "2026-10-28",
 "published": "2026-10-27"
 }

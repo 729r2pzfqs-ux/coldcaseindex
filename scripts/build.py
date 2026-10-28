@@ -52,8 +52,8 @@ e = html.escape
 # ── Head scripts. Mediavine first (it carries its own consent management for the
 # EEA/UK and US state laws), then GA4, then Ahrefs. Mediavine requires exclusivity for
 # display, video and native ads: no other ad network code may be added here. ──
-MEDIAVINE = ('<script data-noptimize="1" data-cfasync="false" '
-             'src="//scripts.mediavine.com/tags/coldcaseindex.js" async></script>')
+MEDIAVINE = ('<script type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" '
+             'src="//scripts.scriptwrapper.com/tags/07246c68-4098-4276-b4dd-3685883c5564.js"></script>')
 GA = ('<script async src="https://www.googletagmanager.com/gtag/js?id=G-9D333CYZNN"></script>'
       '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
       'gtag("js",new Date());gtag("config","G-9D333CYZNN");</script>')
