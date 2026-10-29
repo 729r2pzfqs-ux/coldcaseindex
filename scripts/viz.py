@@ -257,16 +257,33 @@ def _nice_max(v):
     return v
 
 
+def _wrap_label(text, max_chars):
+    """Greedy word wrap for axis labels; a single long word stays on its own line."""
+    lines, cur = [], ''
+    for word in text.split():
+        if cur and len(cur) + 1 + len(word) > max_chars:
+            lines.append(cur)
+            cur = word
+        else:
+            cur = f'{cur} {word}' if cur else word
+    return lines + [cur] if cur else lines or ['']
+
+
 def columns(data, links=None, unit='case', label='Cases by decade'):
     """Column chart. data: [(label, value)]. One series, so no legend box."""
     if not data:
         return ''
     n = len(data)
-    W, H = 720, 250
-    left, right, top, bottom = 44, 12, 24, 40
+    W = 720
+    left, right, top = 44, 12, 24
+    band = (W - left - right) / n
+    # Labels wider than their column (about 8.5px per character at 15px) wrap onto extra lines,
+    # and the chart grows by one line height per extra line so the text stays inside the SVG.
+    wrapped = [_wrap_label(str(lab), max(4, int(band / 8.5))) for lab, _ in data]
+    extra = (max(len(w) for w in wrapped) - 1) * 18
+    H, bottom = 250 + extra, 40 + extra
     pw, ph = W - left - right, H - top - bottom
     vmax = _nice_max(max(v for _, v in data))
-    band = pw / n
     bw = min(24, band * 0.6)
     peak = max(v for _, v in data)
     parts = []
@@ -299,7 +316,12 @@ def columns(data, links=None, unit='case', label='Cases by decade'):
             labelled_peak = True
             parts.append(f'<text class="t-strong" x="{cx:.1f}" y="{y - 7:.1f}" font-size="16" text-anchor="middle">{v}</text>')
         if i % every == 0:
-            parts.append(f'<text x="{cx:.1f}" y="{H - 14}" font-size="15" text-anchor="middle">{e(str(lab))}</text>')
+            lines = wrapped[i]
+            if len(lines) == 1:
+                parts.append(f'<text x="{cx:.1f}" y="{H - 14 - extra}" font-size="15" text-anchor="middle">{e(lines[0])}</text>')
+            else:
+                spans = ''.join(f'<tspan x="{cx:.1f}" dy="{0 if k == 0 else 18}">{e(t)}</tspan>' for k, t in enumerate(lines))
+                parts.append(f'<text x="{cx:.1f}" y="{H - 14 - extra}" font-size="15" text-anchor="middle">{spans}</text>')
     desc = f'{label}. ' + ', '.join(f'{lab}: {v}' for lab, v in data)
     return (f'<svg viewBox="0 0 {W} {H}" role="img" aria-label="{e(desc)}" '
             f'xmlns="http://www.w3.org/2000/svg">{"".join(parts)}</svg>')
