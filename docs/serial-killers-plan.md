@@ -9,7 +9,7 @@ profiles, including Rex Heuermann (guilty plea April 2026, sentenced June 2026) 
 Wilmer Sr. (Colonial Parkway, `Suspected, never charged`, named by Virginia State Police and
 the FBI). New `legalStatus` value `Not guilty by reason of insanity` (Jane Toppan). New
 profiles have no `SEARCH_VOLUME` entry yet, so they do not appear on the famous list. Next:
-Georgia, Alaska, Vermont and Nebraska sit at 2 (need 3); the collect script's `candidates`,
+Georgia, Alaska, Vermont and North Carolina sit at 2 (need 3); the collect script's `candidates`,
 `infobox` and `select` stages are still to be written.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
