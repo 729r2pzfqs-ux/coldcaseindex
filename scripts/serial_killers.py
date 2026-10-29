@@ -29,13 +29,14 @@ SECTION_LABEL = 'Serial Killers'
 NAV_LABEL = 'Serial Killers'
 
 LEGAL = ['Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial',
-         'Confessed, never tried', 'Suspected, never charged', 'Unidentified']
+         'Confessed, never tried', 'Not guilty by reason of insanity', 'Suspected, never charged', 'Unidentified']
 FATE = ['Imprisoned', 'Executed', 'Died in prison', 'Died (other)', 'Suicide', 'Killed',
         'Released', 'At large', 'Unknown']
 # Legal status -> badge class. The five badge colours are the site's checked set.
 LEGAL_BADGE = {'Convicted': 'badge-conviction', 'Convicted (overturned)': 'badge-partial',
                'Charged': 'badge-arrest', 'Died before trial': 'badge-neutral',
-               'Confessed, never tried': 'badge-neutral', 'Suspected, never charged': 'badge-partial',
+               'Confessed, never tried': 'badge-neutral', 'Not guilty by reason of insanity': 'badge-neutral',
+               'Suspected, never charged': 'badge-partial',
                'Unidentified': 'badge-unsolved'}
 LEGAL_EXPLAIN = {
     'Convicted': 'A court convicted this person of murder; the counts are stated in the sentence line.',
@@ -43,6 +44,8 @@ LEGAL_EXPLAIN = {
     'Charged': 'This person has been charged and not convicted. They are presumed innocent until a court decides otherwise.',
     'Died before trial': 'This person died before any trial. The attribution rests on official findings, stated in the narrative.',
     'Confessed, never tried': 'This person confessed and was never tried for these killings. Confessions are stated as confessions.',
+    'Not guilty by reason of insanity': 'A court tried this person and found them not guilty by reason of insanity; '
+                                        'they were committed rather than sentenced.',
     'Suspected, never charged': 'An official body publicly named this person; no charge was ever brought.',
     'Unidentified': 'The offender has never been identified. The profile describes the series, not a person.',
 }

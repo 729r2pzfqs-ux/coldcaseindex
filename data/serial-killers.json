@@ -746,6 +746,146 @@
   "verified": "2026-10-29"
  },
  {
+  "id": "amy-archer-gilligan",
+  "name": "Amy Archer-Gilligan",
+  "aliases": [
+   "Amy E. Archer Gilligan",
+   "Amy Duggan",
+   "Sister Amy"
+  ],
+  "born": "1873-10-31",
+  "died": "1962-04-23",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Connecticut"
+  ],
+  "primaryState": "Connecticut",
+  "cities": [
+   "Windsor"
+  ],
+  "activeFrom": 1914,
+  "activeTo": 1914,
+  "victims": {
+   "convicted": 1,
+   "confessed": null,
+   "suspected": "5 to 24"
+  },
+  "victimProfile": "Elderly residents of the Archer Home for aged people in Windsor, Connecticut, and her second husband, Michael Gilligan",
+  "method": [
+   "poisoning",
+   "arsenic"
+  ],
+  "apprehended": null,
+  "captureMethod": "A resident's sister took her suspicions to the Hartford Courant, whose 1916 reporting on the home was followed by a police investigation, exhumations and evidence of arsenic purchases",
+  "legalStatus": "Convicted",
+  "sentence": "Death by hanging for the first-degree murder of Franklin R. Andrews (1917), set aside by the Connecticut Supreme Court of Errors in 1918; life imprisonment for second-degree murder at the 1919 retrial",
+  "fate": "Died (other)",
+  "fateDetail": "Transferred from the state prison at Wethersfield to the Connecticut State Hospital (now Connecticut Valley Hospital), Middletown, in 1924 after being declared insane; died there in 1962 while still committed",
+  "summary": "Died (other). Amy Archer-Gilligan, who ran a home for elderly people in Windsor, Connecticut, was convicted of poisoning resident Franklin Andrews with arsenic in 1914. Sentenced to life in 1919, she was moved to a state psychiatric hospital and died there in 1962.",
+  "narrative": [
+   "Amy Archer-Gilligan was the operator of a home for elderly and infirm people in Windsor, Connecticut, who was convicted of murdering one of its residents, Franklin R. Andrews, by arsenic poisoning in 1914. She was indicted on five counts of murder by poison, but was tried only on the Andrews count. A Hartford jury convicted her of first-degree murder in 1917 and she was sentenced to hang; after the Connecticut Supreme Court of Errors ordered a new trial, she was convicted of second-degree murder in 1919 and sentenced to life imprisonment. She was later moved from prison to the state psychiatric hospital in Middletown, where she died in 1962.",
+   "Born Amy Duggan in Milton, Connecticut, on October 31, 1873, according to the Wikipedia article, she married James Archer in the late 1890s. Around 1901 the couple became live-in caretakers for John Seymour, a Newington widower, and after his death in 1904 they continued taking in elderly boarders at the house. In 1907 they moved to Windsor and opened the Archer Home, which took paying residents. James Archer died in 1910; Connecticut History, a project of CT Humanities, records the cause as kidney failure. In 1913 Amy married Michael Gilligan, a widower, who died about three months later, in February 1914.",
+   "Deaths at the home were unusually frequent. Connecticut History reports that 60 residents died there between 1907 and 1916, 48 of them in the last five years. Andrews, a resident who appeared healthy and had been working outdoors, died after falling ill at the end of May 1914. His sister, Nellie Pierce, found papers showing he had given Archer-Gilligan money, including a 500 dollar loan. When the district attorney showed little interest, she went to the Hartford Courant, which on May 9, 1916, published the first of several articles calling the home a murder factory. A police investigation followed. According to the Wikipedia article, bodies were exhumed and local merchants testified that she had bought large quantities of arsenic, saying it was for rats.",
+   "The indictment charged five counts of first-degree murder by poison, four by arsenic and one by strychnine, according to the 1918 Connecticut Supreme Court opinion in State v. Gilligan. Prosecutors elected to proceed on the Andrews count alone. At trial in the Hartford County Superior Court in June 1917, the State introduced evidence that three other people connected with the home had died of arsenic poisoning in 1914: Michael Gilligan in February, a resident named Smith in April and a Mrs. Gowdy in December. The jury convicted her and she was sentenced to death. On April 30, 1918, the Supreme Court of Errors found that this evidence of other deaths had been wrongly admitted, because the State's other proof had already largely excluded accident or mistake, and ordered a new trial.",
+   "The second trial took place in 1919. Accounts of how it ended differ. Connecticut History says that in June 1919 she pleaded guilty to a reduced charge of second-degree murder; the Wikipedia article says she raised an insanity defense, that her daughter Mary testified about her morphine use, and that the jury again found her guilty. The Connecticut Supreme Court, in a 2015 opinion, describes the outcome as a conviction for second-degree murder. She received a life sentence and was held at the state prison in Wethersfield.",
+   "In 1924 she was reported to the governor as insane and transferred to the Connecticut State Hospital in Middletown, now Connecticut Valley Hospital, where she remained for about 38 years until her death on April 23, 1962. She never testified at either trial, Connecticut Public Radio reported in 2015. The number of people she killed has never been established. She was charged in five deaths and convicted in one; Connecticut History says arsenic was found in more than two dozen former residents, and author Ron Robillard told Connecticut Public Radio that the prosecutor of the day believed she had probably killed up to two dozen people.",
+   "The case is widely cited as an inspiration for the 1939 play Arsenic and Old Lace and the 1944 film adaptation. Her records remained in dispute decades after her death: when Robillard sought her hospital files, the Connecticut Supreme Court ruled on September 22, 2015, that her medical and dental records from the psychiatric hospital were exempt from disclosure under the state's psychiatrist-patient privilege."
+  ],
+  "timeline": [
+   {
+    "date": "1873-10-31",
+    "text": "Amy Duggan born in Milton, Connecticut."
+   },
+   {
+    "date": "1907",
+    "text": "Amy and James Archer move to Windsor and open the Archer Home for elderly residents."
+   },
+   {
+    "date": "1910",
+    "text": "James Archer dies; the cause is recorded as kidney disease."
+   },
+   {
+    "date": "1914-02-20",
+    "text": "Second husband Michael Gilligan dies about three months after their 1913 marriage; arsenic is later cited in his death."
+   },
+   {
+    "date": "1914-05",
+    "text": "Resident Franklin R. Andrews dies after falling ill following supper on May 29."
+   },
+   {
+    "date": "1916-05-09",
+    "text": "The Hartford Courant publishes the first of several articles calling the Archer Home a murder factory."
+   },
+   {
+    "date": "1917-06",
+    "text": "Tried in Hartford County Superior Court on the Andrews count; convicted of first-degree murder and sentenced to death."
+   },
+   {
+    "date": "1918-04-30",
+    "text": "Connecticut Supreme Court of Errors orders a new trial, ruling that evidence of other poisoning deaths was wrongly admitted."
+   },
+   {
+    "date": "1919-06",
+    "text": "At the retrial she is convicted of second-degree murder and sentenced to life imprisonment."
+   },
+   {
+    "date": "1924",
+    "text": "Declared insane and transferred from Wethersfield state prison to the state hospital in Middletown."
+   },
+   {
+    "date": "1962-04-23",
+    "text": "Dies at the Middletown state hospital, aged 88."
+   },
+   {
+    "date": "2015-09-22",
+    "text": "Connecticut Supreme Court rules her psychiatric hospital medical and dental records exempt from public disclosure."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "female killer",
+   "poisoning",
+   "nursing home",
+   "elderly victims",
+   "retrial",
+   "arsenic and old lace"
+  ],
+  "sources": [
+   {
+    "title": "Connecticut Supreme Court - State v. Gilligan, 92 Conn. 526 (April 30, 1918)",
+    "url": "https://static.case.law/conn/92/cases/0526-01.json"
+   },
+   {
+    "title": "FindLaw - Freedom of Information Officer, Department of Mental Health and Addiction Services v. Freedom of Information Commission, Connecticut Supreme Court (September 22, 2015)",
+    "url": "https://caselaw.findlaw.com/court/ct-supreme-court/1713213.html"
+   },
+   {
+    "title": "Connecticut History (CT Humanities) - Windsor's Murder Factory (April 24, 2014)",
+    "url": "https://connecticuthistory.org/windsors-murder-factory/"
+   },
+   {
+    "title": "Connecticut Public Radio - State Supreme Court to Rule on Arsenic and Old Lace Records (January 14, 2015)",
+    "url": "https://www.ctpublic.org/news/2015-01-14/state-supreme-court-to-rule-on-arsenic-and-old-lace-records"
+   },
+   {
+    "title": "Prison Legal News - Connecticut Supreme Court: Arsenic and Old Lace Records Exempt from Disclosure (August 11, 2016)",
+    "url": "https://www.prisonlegalnews.org/news/2016/aug/11/connecticut-supreme-court-arsenic-old-lace-records-exempt-disclosure"
+   },
+   {
+    "title": "Today in Connecticut History - June 17: Windsor's Murder Factory True Crime Story Kills at the Box Office (June 17, 2018)",
+    "url": "https://todayincthistory.com/2018/06/17/june-17-arsenic-and-old-lace/"
+   },
+   {
+    "title": "Wikipedia - Amy Archer-Gilligan",
+    "url": "https://en.wikipedia.org/wiki/Amy_Archer-Gilligan"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Amy_Archer-Gilligan",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "angel-resendiz",
   "name": "Angel Maturino Resendiz",
   "aliases": [
@@ -2187,6 +2327,158 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 19000
+ },
+ {
+  "id": "charles-ng",
+  "name": "Charles Ng",
+  "aliases": [
+   "Charles Chitat Ng",
+   "Ng Chi-tat",
+   "Mike Kimoto"
+  ],
+  "born": "1960-12-24",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Wilseyville",
+   "San Francisco"
+  ],
+  "activeFrom": 1984,
+  "activeTo": 1985,
+  "victims": {
+   "convicted": 11,
+   "confessed": null,
+   "suspected": "11 to 25"
+  },
+  "victimProfile": "Men, women and two infants from the San Francisco Bay Area and Calaveras County, including two families, a co-worker and people answering sale advertisements, abducted with Leonard Lake and taken to a rural property in Wilseyville",
+  "method": [
+   "shooting"
+  ],
+  "apprehended": "1985-07-06",
+  "captureMethod": "After fleeing to Canada, he was stopped by security guards on suspicion of shoplifting at a Hudson's Bay Co. store in Calgary, Alberta, shot one guard in the hand and was held until police arrived",
+  "legalStatus": "Convicted",
+  "sentence": "Death, on 11 counts of first-degree murder with a multiple-murder special circumstance (jury verdict April 30, 1999; affirmed by the California Supreme Court on July 28, 2022)",
+  "fate": "Imprisoned",
+  "fateDetail": "Under sentence of death in California; the Wikipedia article lists him at the California Medical Facility as of 2025. California has carried out no executions since 2006.",
+  "summary": "Under sentence of death. Charles Ng was convicted in 1999 of 11 murders committed with Leonard Lake in 1984 and 1985, centred on a rural property in Wilseyville, California. Extradited from Canada in 1991, he remains on California's death row.",
+  "narrative": [
+   "Charles Chitat Ng is a former U.S. Marine who was convicted in Orange County, California, on February 24, 1999, of 11 counts of first-degree murder for killings committed with Leonard Lake between July 1984 and April 1985. The victims were abducted in the San Francisco Bay Area and Calaveras County, and the case centred on Lake's property in Wilseyville, in the Sierra Nevada foothills. A jury returned a death verdict on April 30, 1999, and the California Supreme Court affirmed the judgment on July 28, 2022. Lake died by suicide in police custody in June 1985. Ng remains under sentence of death in California, which has not carried out an execution since 2006.",
+   "Ng was born in British Hong Kong on December 24, 1960, according to the Wikipedia article. He joined the U.S. Marine Corps, where, the article says, he was implicated in the theft of weapons from the Kaneohe Bay armory in Hawaii and served about 18 months at Fort Leavenworth. The California Supreme Court opinion records that a man he met in Hawaii gave him Lake's address in the summer of 1981, and that in 1982 Ng lived with Lake and Lake's wife, Claralyn, in Philo, Mendocino County.",
+   "According to the court's summary of the trial evidence, 12 people went missing between July 1984 and April 1985. Harvey and Deborah Dubs and their 16-month-old son Sean disappeared from their San Francisco apartment on July 25, 1984; Paul Cosner vanished in November 1984 after leaving to deliver a car he was selling; Clifford Peranteau, who worked with Ng at a San Francisco moving company, disappeared in January 1985, and Jeffrey Gerald in February. In April 1985 Kathleen Allen and her boyfriend Michael Carroll disappeared, followed later that month by Lonnie Bond Sr., his fiancee Brenda O'Connor, their infant son Lonnie Bond Jr., and their friend Robin Scott Stapley, all connected to a house in Wilseyville.",
+   "The disappearances were linked only after June 2, 1985, when a reserve officer saw Ng leave South City Lumber in South San Francisco with an unpaid vise. Ng walked away; Lake was found with a pistol and silencer registered to Stapley, identified himself as Stapley, and was arrested. At the station he swallowed cyanide and died days later. The car proved to be Cosner's, and a utility bill inside led investigators to Wilseyville, where they found property from the Dubs home. A five-week search uncovered a bunker with a concealed cell and thousands of burned bone and tooth fragments that forensic anthropologists attributed to at least four adults, one child and one infant. On July 8, 1985, the bodies of Bond and Stapley were found buried nearby. Investigators also recovered buried videotapes; UPI reported in 1992 that one played at a closed preliminary hearing showed Ng and Lake threatening two handcuffed women.",
+   "Ng fled to Canada. On July 6, 1985, security guards at a Hudson's Bay Co. store in Calgary stopped him on suspicion of shoplifting; UPI reported that he fired a .22-caliber pistol and wounded a guard in the hand before being subdued. Investigators then told UPI of 25 missing people with some link to the pair. The Wikipedia article says he was convicted in Canada in December 1985 and sentenced to four and a half years. He fought extradition on the ground that he faced the death penalty; according to the Wikipedia article the Supreme Court of Canada ruled against him by four votes to three on September 26, 1991, and he was handed over the same day. He was arraigned in Calaveras County on September 27, 1991.",
+   "Pretrial proceedings took seven years. The case was moved to Orange County, and the Supreme Court opinion notes that Ng filed 37 motions to replace his lawyers and for a period represented himself. Trial began in September 1998. Ng testified and blamed Lake for the killings. The jury convicted him of the 11 murders and found the multiple-murder special circumstance true; on the Cosner count the jury failed to reach a verdict, according to the Supreme Court opinion, although the Wikipedia article describes it as an acquittal. The Wikipedia article puts the cost of the prosecution at about 20 million dollars.",
+   "In its 2022 opinion the California Supreme Court rejected Ng's claims, including challenges to the handling of his self-representation, and affirmed the convictions and death sentence. Identification work has continued: in January 2025 Intermountain Forensics, working with the Calaveras Cold Case Task Force, announced that remains recovered in June 1985 had been identified as Reginald Frisby, born in 1956, who had never been reported missing. The total number of victims is unknown; a Calaveras County sheriff's lieutenant told CBS News in 2022 that he did not think anybody would ever know."
+  ],
+  "timeline": [
+   {
+    "date": "1960-12-24",
+    "text": "Charles Chi-tat Ng born in British Hong Kong."
+   },
+   {
+    "date": "1982",
+    "text": "Ng lives with Leonard Lake and Lake's wife in Philo, Mendocino County."
+   },
+   {
+    "date": "1984-07-25",
+    "text": "Harvey, Deborah and Sean Dubs disappear from their San Francisco apartment."
+   },
+   {
+    "date": "1984-11",
+    "text": "Paul Cosner disappears in San Francisco after leaving to deliver a car he was selling."
+   },
+   {
+    "date": "1985-01",
+    "text": "Clifford Peranteau, a co-worker of Ng's at a San Francisco moving company, disappears; Jeffrey Gerald follows in February."
+   },
+   {
+    "date": "1985-04",
+    "text": "Kathleen Allen, Michael Carroll, Lonnie Bond Sr., Brenda O'Connor, Lonnie Bond Jr. and Robin Scott Stapley disappear."
+   },
+   {
+    "date": "1985-06-02",
+    "text": "Ng walks away from a shoplifting stop at a South San Francisco lumber store; Lake is arrested and swallows cyanide at the police station."
+   },
+   {
+    "date": "1985-06-06",
+    "text": "Lake dies; investigators begin searching the Wilseyville property."
+   },
+   {
+    "date": "1985-07-06",
+    "text": "Ng arrested at a Hudson's Bay Co. store in Calgary after wounding a security guard."
+   },
+   {
+    "date": "1985-07-08",
+    "text": "Bodies of Lonnie Bond Sr. and Scott Stapley found buried near the Wilseyville property."
+   },
+   {
+    "date": "1991-09-26",
+    "text": "Supreme Court of Canada rules 4-3 that Ng may be extradited; he is returned to California."
+   },
+   {
+    "date": "1991-09-27",
+    "text": "Ng arraigned in Calaveras County."
+   },
+   {
+    "date": "1999-02-24",
+    "text": "Orange County jury convicts Ng of 11 counts of first-degree murder; no verdict on the Cosner count."
+   },
+   {
+    "date": "1999-04-30",
+    "text": "Jury returns a death verdict."
+   },
+   {
+    "date": "2022-07-28",
+    "text": "California Supreme Court affirms the convictions and death sentence."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "accomplice",
+   "extradition",
+   "death row",
+   "captivity",
+   "family victims",
+   "self-representation"
+  ],
+  "sources": [
+   {
+    "title": "Supreme Court of California - People v. Ng, S080276 (July 28, 2022)",
+    "url": "https://supreme.courts.ca.gov/sites/default/files/supremecourt/default/2023-06/S080276.pdf"
+   },
+   {
+    "title": "UPI - Mass murder suspect Charles Ng, wanted in the grisly... (July 7, 1985)",
+    "url": "https://www.upi.com/Archives/1985/07/07/Mass-murder-suspect-Charles-Ng-wanted-in-the-grisly/3349489556800"
+   },
+   {
+    "title": "UPI - Ng told ex-cellmate of torture (November 5, 1991)",
+    "url": "https://www.upi.com/Archives/1991/11/05/Ng-told-ex-cellmate-of-torture/6214689317200/"
+   },
+   {
+    "title": "UPI - Harrowing videotape shown in Ng mass murder case (October 9, 1992)",
+    "url": "https://www.upi.com/Archives/1992/10/09/Harrowing-videotape-shown-in-Ng-mass-murder-case/8258718603200/"
+   },
+   {
+    "title": "CBS News - California Supreme Court upholds death penalty for Charles Ng in notorious '80s sex slave murders (July 29, 2022)",
+    "url": "https://www.cbsnews.com/news/charles-ng-death-penalty-upheld-1980s-sex-slave-murders-california/"
+   },
+   {
+    "title": "Intermountain Forensics - Remains from 1985 identified as Reginald 'Reggie' Frisby (January 23, 2025)",
+    "url": "https://www.intermountainforensics.com/post/case-resolution-remains-from-1985-identified-as-reginald-reggie-frisby"
+   },
+   {
+    "title": "Wikipedia - Charles Ng",
+    "url": "https://en.wikipedia.org/wiki/Charles_Ng"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ng",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "christopher-wilder",
@@ -4238,6 +4530,158 @@
   "searchVolume": 29000
  },
  {
+  "id": "edward-wayne-edwards",
+  "name": "Edward Wayne Edwards",
+  "aliases": [
+   "Ed Edwards",
+   "Edward W. Edwards",
+   "Charles Wayne Murray"
+  ],
+  "born": "1933-06-14",
+  "died": "2011-04-07",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Ohio",
+   "Wisconsin"
+  ],
+  "primaryState": "Ohio",
+  "cities": [
+   "Norton",
+   "Burton",
+   "Concord"
+  ],
+  "activeFrom": 1977,
+  "activeTo": 1996,
+  "victims": {
+   "convicted": 5,
+   "confessed": 5,
+   "suspected": "5"
+  },
+  "victimProfile": "Two young couples aged 18 to 21 in Ohio and Wisconsin, and a man in his mid-20s whom he regarded as a foster son",
+  "method": [
+   "shooting",
+   "stabbing",
+   "strangulation"
+  ],
+  "apprehended": "2009-07-30",
+  "captureMethod": "Wisconsin investigators re-testing evidence from the 1980 Hack and Drew killings found an unknown DNA profile, matched it to a sample taken from Edwards in Louisville, Kentucky, and arrested him at his mobile home there",
+  "legalStatus": "Convicted",
+  "sentence": "Two life terms in Jefferson County, Wisconsin, for the murders of Tim Hack and Kelly Drew (2010); two consecutive life terms in Summit County, Ohio, for the murders of William Lavaco and Judith Straub (June 2010); death, plus 10 to 25 years for aggravated robbery, in Geauga County, Ohio, for the murder of Dannie Boy Edwards (March 2011)",
+  "fate": "Died in prison",
+  "fateDetail": "Died of natural causes on Ohio death row on April 7, 2011, at the Corrections Medical Center in Columbus, Ohio, about a month after his death sentence",
+  "summary": "Died in prison. Edward Wayne Edwards pleaded guilty in 2010 and 2011 to five murders in Ohio and Wisconsin committed between 1977 and 1996. Sentenced to death in Geauga County, Ohio, for killing his foster son, he died of natural causes in April 2011.",
+  "narrative": [
+   "Edward Wayne Edwards was an American con man and convicted serial killer who pleaded guilty to five murders committed in Ohio and Wisconsin between 1977 and 1996. He was arrested in Louisville, Kentucky, in July 2009 after DNA linked him to a 1980 double killing in Jefferson County, Wisconsin. In 2010 he received life terms in Wisconsin and in Summit County, Ohio, and in March 2011 a three-judge panel in Geauga County, Ohio, sentenced him to death for killing a young man he regarded as his foster son. He died of natural causes on Ohio death row in April 2011, aged 77, before any execution date arrived.",
+   "Edwards was born on June 14, 1933, in Akron, Ohio, according to the Ohio Department of Rehabilitation and Correction, under the name Charles Wayne Murray, according to the Wikipedia article. He spent the 1950s and early 1960s committing car thefts, robberies and other crimes, which he later described in a 1972 autobiography, Metamorphosis of a Criminal. He was placed on the FBI's Ten Most Wanted list in 1961 and was captured in Atlanta in 1962, the Associated Press reported. After federal prison and parole in 1967 he toured the country speaking to young people about avoiding crime. In a 2010 interview with the AP, he said the publisher had embellished most of the book.",
+   "The first killings for which he was convicted took place in Summit County, Ohio. William Lavaco, 21, of Doylestown, and Judith Straub, 18, of Sterling, were found dead on August 8, 1977, in Metropolitan Silver Creek Park in Norton, near Akron. Both had been shot at close range. Three years later, on August 9, 1980, Tim Hack and Kelly Drew, both 19, disappeared after a wedding reception at a dance hall in Jefferson County, Wisconsin. Their remains were found more than two months later several miles away, Drew's in woods and Hack's in a nearby cornfield. ABC News reported that investigators believed the pair had been stabbed and strangled. Edwards lived and worked near the dance hall and was interviewed by Wisconsin investigators at the time, but was not charged.",
+   "The Wisconsin case was reopened decades later. Investigators re-examining the evidence found DNA from an unknown donor, and a sample obtained from Edwards in Louisville produced what Jefferson County Sheriff Paul Milbrath called a confirmed hit, WAVE 3 News reported. Edwards was arrested at his mobile home in Louisville on the night of July 30, 2009, and returned to Wisconsin. The Wikipedia article says the investigation was prompted by a tip from his daughter, April Balascio. In May 2010 a Norton detective and a Summit County prosecutor's investigator interviewed Edwards in a Wisconsin jail, where he confessed to the 1977 killings.",
+   "Under a deal with prosecutors in both states, Edwards pleaded guilty on June 9, 2010, in Wisconsin to the murders of Hack and Drew, and on June 11, 2010, in Summit County Common Pleas Court before Judge Thomas Teodosio to two counts of aggravated murder for Lavaco and Straub. Teodosio imposed consecutive life terms, the maximum then available, because Ohio's death penalty statutes had been invalidated for crimes committed between 1974 and 1978. Wisconsin, which has no death penalty, imposed mandatory life terms for the Hack and Drew murders.",
+   "In a June 2010 jailhouse interview with the AP, Edwards confessed to a fifth killing: Dannie Boy Edwards, born Dannie Law Gloeckner, a man in his mid-20s whom the family had taken into their home in Burton, Ohio, in the mid-1990s. Edwards said he lured him to a secluded cemetery near the house in 1996, shot him twice with a 20-gauge shotgun and buried him in a shallow grave; the body had been found in 1997. Edwards gave his motive as life insurance money, though reported amounts differ, and he said he was confessing because he wanted to be sentenced to death. He told the AP he had killed only five people. Geauga County prosecutors indicted him on aggravated murder charges, and on March 8, 2011, he pleaded guilty in Geauga County Common Pleas Court. A three-judge panel imposed the death sentence he had asked for, the AP reported. The victim's sister told The Plain Dealer that life in prison would have been harsher.",
+   "Edwards was found dead in his cell at the Corrections Medical Center in Columbus on April 7, 2011, of what were believed to be natural causes, according to the Wikipedia article; Ohio prison records list him as released due to death. Some writers, notably a retired detective in a 2014 book, have since tied him to the Zodiac killings and other notorious crimes. The Wikipedia article says those claims were met with almost universal disdain, especially from law enforcement, and no court or investigating agency has attributed any killing beyond the five to him."
+  ],
+  "timeline": [
+   {
+    "date": "1933-06-14",
+    "text": "Born in Akron, Ohio."
+   },
+   {
+    "date": "1961",
+    "text": "Placed on the FBI's Ten Most Wanted list after a string of robberies and other crimes; captured in Atlanta in 1962."
+   },
+   {
+    "date": "1972",
+    "text": "Publishes the autobiography Metamorphosis of a Criminal."
+   },
+   {
+    "date": "1977-08-08",
+    "text": "William Lavaco, 21, and Judith Straub, 18, found shot dead in Metropolitan Silver Creek Park, Norton, Ohio."
+   },
+   {
+    "date": "1980-08-09",
+    "text": "Tim Hack and Kelly Drew, both 19, disappear after a wedding reception in Jefferson County, Wisconsin; their remains are found more than two months later."
+   },
+   {
+    "date": "1996",
+    "text": "Kills Dannie Boy Edwards, born Dannie Law Gloeckner, near the family home in Burton, Ohio; the body is found in 1997."
+   },
+   {
+    "date": "2009-07-30",
+    "text": "Arrested at his Louisville, Kentucky, mobile home after DNA links him to the Hack and Drew killings."
+   },
+   {
+    "date": "2010-05",
+    "text": "Confesses to the Norton killings to Ohio investigators in a Wisconsin jail."
+   },
+   {
+    "date": "2010-06-09",
+    "text": "Pleads guilty in Wisconsin to the murders of Tim Hack and Kelly Drew; later receives mandatory life terms."
+   },
+   {
+    "date": "2010-06-11",
+    "text": "Pleads guilty in Summit County Common Pleas Court to the aggravated murders of Lavaco and Straub; sentenced to consecutive life terms."
+   },
+   {
+    "date": "2010-06",
+    "text": "Confesses in an AP jailhouse interview to killing Dannie Boy Edwards in 1996."
+   },
+   {
+    "date": "2011-03-08",
+    "text": "Pleads guilty in Geauga County Common Pleas Court to aggravated murder; a three-judge panel sentences him to death."
+   },
+   {
+    "date": "2011-04-07",
+    "text": "Found dead of apparent natural causes at the Corrections Medical Center in Columbus, Ohio."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "dna cold case",
+   "couple victims",
+   "death row",
+   "guilty plea",
+   "insurance motive",
+   "fbi most wanted"
+  ],
+  "sources": [
+   {
+    "title": "WAVE 3 News - Louisville man arrested in Wisconsin cold case double murder (July 31, 2009)",
+    "url": "https://www.wdrbwave.com/story/10829261/louisville-man-arrested-in-wisconsin-cold-case-double-murder/"
+   },
+   {
+    "title": "ABC News - Elderly Conman Confesses He Killed 4 During Career as Motivational Speaker (June 10, 2010)",
+    "url": "https://abcnews.com/TheLaw/Diabetes/elderly-con-man-admits-murdering/story?id=10877100"
+   },
+   {
+    "title": "Cleveland 19 News - Convicted killer pleads guilty to slaying a Norton couple in 1977 (June 11, 2010)",
+    "url": "https://www.cleveland19.com/story/12633629/convicted-killer-pleads-guilty-to-slaying-a-norton-couple-in-1977"
+   },
+   {
+    "title": "Associated Press via NBC News - Man convicted of killing 4 says he killed 1 more (June 17, 2010)",
+    "url": "https://www.nbcnews.com/news/amp/wbna37759125"
+   },
+   {
+    "title": "Associated Press via WPVI 6abc - Convicted murderer confesses to killing foster son (June 17, 2010)",
+    "url": "https://6abc.com/archive/7503450/"
+   },
+   {
+    "title": "Associated Press via Corrections1 - Serial killer sentenced to death in Ohio slaying (March 9, 2011)",
+    "url": "https://www.corrections1.com/archive/articles/serial-killer-sentenced-to-death-in-ohio-slaying-ZHDM2jwpPd9FF6Kc/"
+   },
+   {
+    "title": "Ohio Department of Rehabilitation and Correction - Offender details, Edward W. Edwards, A584893",
+    "url": "https://appgateway.drc.ohio.gov/OffenderSearch/Search/Details/A584893"
+   },
+   {
+    "title": "Wikipedia - Edward Edwards (serial killer)",
+    "url": "https://en.wikipedia.org/wiki/Edward_Edwards_(serial_killer)"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Edward_Edwards_(serial_killer)",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "freeway-phantom",
   "name": "Freeway Phantom",
   "aliases": [
@@ -4877,6 +5321,166 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "gerald-stano",
+  "name": "Gerald Stano",
+  "aliases": [
+   "Gerald Eugene Stano",
+   "Paul Zeininger"
+  ],
+  "born": "1951-09-12",
+  "died": "1998-03-23",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Florida"
+  ],
+  "primaryState": "Florida",
+  "cities": [
+   "Daytona Beach",
+   "Ormond Beach",
+   "Port Orange",
+   "Titusville"
+  ],
+  "activeFrom": 1973,
+  "activeTo": 1980,
+  "victims": {
+   "convicted": 9,
+   "confessed": 41,
+   "suspected": "9 to 41"
+  },
+  "victimProfile": "Young women and teenage girls in Florida, including hitchhikers, students, sex workers and women with car trouble",
+  "method": [
+   "stabbing",
+   "strangulation",
+   "shooting",
+   "drowning"
+  ],
+  "apprehended": "1980-04-01",
+  "captureMethod": "Arrested in Daytona Beach for the stabbing of Donna Hensley; a detective linked her wounds to the Mary Carol Maher killing and Stano confessed to it the same day",
+  "legalStatus": "Convicted",
+  "sentence": "Six life sentences on guilty pleas (1981 to 1983); death sentences for the murders of Susan Bickrest and Mary Kathleen Muldoon (guilty pleas, June 1983) and Cathy Lee Scharf (jury trial, December 1983)",
+  "fate": "Executed",
+  "fateDetail": "Electrocuted at Florida State Prison on March 23, 1998, for the murder of Cathy Lee Scharf",
+  "summary": "Executed. Gerald Stano was convicted of nine murders of young women in Florida between 1973 and 1980 and confessed to about 41 in three states, though police doubted several confessions. He died in Florida's electric chair in March 1998.",
+  "narrative": [
+   "Gerald Eugene Stano was a Florida serial killer who was convicted of nine first-degree murders of young women committed between 1973 and 1980, mostly in and around Daytona Beach in Volusia County. He confessed to killing about 41 women in Florida, New Jersey and Pennsylvania, but no killing outside Florida was ever charged, and police were skeptical of several of his confessions. Stano pleaded guilty to eight of the murders and was convicted by a jury of a ninth, the killing of 17-year-old Cathy Lee Scharf in Brevard County. He received six life sentences and three death sentences, and was executed in Florida's electric chair at Florida State Prison on March 23, 1998, aged 46.",
+   "Stano was born in Schenectady, New York, in 1951, according to the Wikipedia article. The Tampa Bay Times reported at his execution that social workers said his birth mother abused and neglected him, that he went to a foster home at six months and was adopted at 13 months although a psychiatrist had called him unadoptable, and that he had serious behavior problems as a child and was often in trouble with the law as an adult. He later lived in Ormond Beach and worked as a short-order cook.",
+   "The case opened on April 1, 1980, when Daytona Beach detective James Gadberry arrested Stano for the aggravated battery of Donna Hensley, a woman who had been stabbed. According to findings of fact by a federal district court, later reproduced by the U.S. Court of Appeals for the Eleventh Circuit, Gadberry noticed that her wounds resembled those of Mary Carol Maher, a 20-year-old whose killing his department was investigating, and Stano confessed to the Maher murder that day. Sergeant Paul Crow of the Daytona Beach police then took charge of questioning. Under a plea agreement with Seventh Judicial Circuit prosecutors that ruled out the death penalty for killings with bodies found in that circuit, Stano pleaded guilty on September 2, 1981, to the Volusia County murders of Maher, Toni Vann Haddocks and Nancy Heard and was sentenced to life in prison.",
+   "In 1982 Stano confessed to many more killings. On August 15 and October 8, 1982, he confessed to Crow the murders of Susan Bickrest, found in Spruce Creek in December 1975, and Mary Kathleen Muldoon, killed in November 1977. A Volusia County grand jury indicted him on January 18, 1983. United Press International reported that he had by then pleaded guilty to eight murders in Volusia, Alachua and Bradford counties and was serving six life terms. He pleaded guilty to the Bickrest and Muldoon murders on March 11, 1983, and on June 13, 1983, Circuit Judge S. James Foxman sentenced him to death in both cases, citing his prior convictions and lack of remorse.",
+   "The Scharf case was the only one tried before a jury. Scharf, of Port Orange, disappeared in December 1973 and her skeletal remains were found the next month in the Merritt Island National Wildlife Refuge, UPI reported. The first trial ended with a hung jury. On retrial in Titusville, the state introduced a taped 1982 confession to a Brevard County detective and testimony from jailhouse informant Clarence Zacke. Stano was convicted in December 1983 and a jury recommended death by 10 to 2; he was sentenced to death. The Florida Supreme Court affirmed the conviction and sentence in 1985.",
+   "Questions about the reliability of Stano's confessions run through the record. In December 1986 he recanted his confessions to the Bickrest and Muldoon murders, describing himself as a compulsive confessor, UPI reported. His lawyers argued that Crow had coerced the confessions while pursuing a book about the case; a book with a foreword by Crow appeared in 1993. After a lengthy evidentiary hearing, a federal judge found no collusion and found that Crow had not fed Stano information, and the Eleventh Circuit affirmed in 1995. In 1998 Stano presented an affidavit from a freelance writer saying Zacke had recanted his testimony, affidavits from officers attacking Crow's credibility, and tapes in which Crow allegedly said he had heard Stano confess to a crime Crow did not believe he committed. The Florida Supreme Court rejected these claims on March 20, 1998, noting that Stano had also confessed to two officers. The Tampa Bay Times reported that police never found physical evidence linking him to the bodies he described and that the true total was unknown.",
+   "Three governors signed death warrants for Stano, and his execution was stayed several times, including in July 1986, when he had been scheduled to die alongside Ted Bundy. He was electrocuted on the morning of March 23, 1998, and pronounced dead at 7:15 a.m. In a final statement released by one of his lawyers, Stano maintained that he was innocent."
+  ],
+  "timeline": [
+   {
+    "date": "1951-09-12",
+    "text": "Born in Schenectady, New York; later adopted and raised as Gerald Eugene Stano."
+   },
+   {
+    "date": "1973-12",
+    "text": "Cathy Lee Scharf, 17, of Port Orange disappears; her remains are found the next month in the Merritt Island National Wildlife Refuge."
+   },
+   {
+    "date": "1975-12",
+    "text": "Susan Bickrest is killed; her body is found in Spruce Creek in Volusia County."
+   },
+   {
+    "date": "1977-11",
+    "text": "Mary Kathleen Muldoon, 23, is shot and her body left in a ditch near New Smyrna Beach."
+   },
+   {
+    "date": "1980-04-01",
+    "text": "Arrested in Daytona Beach for the stabbing of Donna Hensley; confesses the same day to the murder of Mary Carol Maher."
+   },
+   {
+    "date": "1981-09-02",
+    "text": "Pleads guilty to the Volusia County murders of Maher, Toni Vann Haddocks and Nancy Heard under a plea deal; sentenced to life."
+   },
+   {
+    "date": "1982-08",
+    "text": "Confesses to Sergeant Paul Crow the Bickrest murder and, in a taped statement to a Brevard County detective, the Scharf murder."
+   },
+   {
+    "date": "1983-01-18",
+    "text": "Volusia County grand jury indicts him for the Bickrest and Muldoon murders."
+   },
+   {
+    "date": "1983-06-13",
+    "text": "Judge S. James Foxman sentences him to death for the Bickrest and Muldoon murders after guilty pleas in March."
+   },
+   {
+    "date": "1983-12",
+    "text": "Convicted on retrial in Titusville of murdering Scharf; jury recommends death 10 to 2 and he is sentenced to death."
+   },
+   {
+    "date": "1986-07",
+    "text": "Execution, scheduled alongside Ted Bundy, is stayed hours beforehand."
+   },
+   {
+    "date": "1986-12",
+    "text": "Recants his Bickrest and Muldoon confessions, calling himself a compulsive confessor."
+   },
+   {
+    "date": "1995-04-20",
+    "text": "Eleventh Circuit affirms denial of habeas relief, upholding findings that Crow did not coerce or feed him information."
+   },
+   {
+    "date": "1998-03-20",
+    "text": "Florida Supreme Court rejects claims based on informant Clarence Zacke's alleged recantation and attacks on Crow's credibility."
+   },
+   {
+    "date": "1998-03-23",
+    "text": "Executed in the electric chair at Florida State Prison; his final statement says he was innocent."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "florida",
+   "death row",
+   "executed",
+   "disputed confessions",
+   "guilty plea",
+   "hitchhikers"
+  ],
+  "sources": [
+   {
+    "title": "Tampa Bay Times - Stano executed with no glitch (March 24, 1998)",
+    "url": "https://www.tampabay.com/archive/1998/03/24/stano-executed-with-no-glitch/"
+   },
+   {
+    "title": "Supreme Court of Florida - Stano v. State, No. 92,614, corrected opinion (March 20, 1998)",
+    "url": "https://library.law.fsu.edu/Digital-Collections/flsupct/dockets/92614/op-92614.pdf"
+   },
+   {
+    "title": "U.S. Court of Appeals, Eleventh Circuit - Stano v. Butterworth, 51 F.3d 942 (April 20, 1995)",
+    "url": "https://static.case.law/f3d/51/html/0942-02.html"
+   },
+   {
+    "title": "U.S. Court of Appeals, Eleventh Circuit (en banc) - Stano v. Dugger, 921 F.2d 1125 (January 2, 1991)",
+    "url": "https://static.case.law/f2d/921/html/1125-02.html"
+   },
+   {
+    "title": "UPI - Gerald Stano, confessed killer of 39 women, faces execution... (June 14, 1983)",
+    "url": "https://www.upi.com/Archives/1983/06/14/Gerald-Stano-confessed-killer-of-39-women-faces-execution/1069424411200/"
+   },
+   {
+    "title": "UPI - Stano faces third death sentence (December 7, 1983)",
+    "url": "https://www.upi.com/Archives/1983/12/07/Stano-faces-third-death-sentence/3297439621200/"
+   },
+   {
+    "title": "UPI - Serial sex killer Gerald Eugene Stano, claiming he is... (December 1, 1986)",
+    "url": "https://www.upi.com/Archives/1986/12/01/Serial-sex-killer-Gerald-Eugene-Stano-claiming-he-is/7953533797200/"
+   },
+   {
+    "title": "Wikipedia - Gerald Stano",
+    "url": "https://en.wikipedia.org/wiki/Gerald_Stano"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gerald_Stano",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "h-h-holmes",
   "name": "H. H. Holmes (Herman Webster Mudgett)",
   "aliases": [
@@ -5391,6 +5995,163 @@
   "searchVolume": 13000
  },
  {
+  "id": "herbert-mullin",
+  "name": "Herbert Mullin",
+  "aliases": [
+   "Herbert William Mullin",
+   "Herb Mullin"
+  ],
+  "born": "1947-04-18",
+  "died": "2022-08-18",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Santa Cruz",
+   "Felton",
+   "Los Gatos"
+  ],
+  "activeFrom": 1972,
+  "activeTo": 1973,
+  "victims": {
+   "convicted": 11,
+   "confessed": 13,
+   "suspected": "13"
+  },
+  "victimProfile": "Men, women and children aged 3 or 4 to 72, including a drifter, a hitchhiker, a priest, a former classmate and his wife, a mother and her two sons, four teenage campers and a retired fisherman",
+  "method": [
+   "shooting",
+   "stabbing",
+   "bludgeoning"
+  ],
+  "apprehended": "1973-02-13",
+  "captureMethod": "A neighbor who saw Fred Perez shot in his Santa Cruz driveway noted the gunman's car, and a patrol officer stopped Mullin minutes later with a pistol on the seat beside him",
+  "legalStatus": "Convicted",
+  "sentence": "Santa Cruz County (1973): two concurrent terms of life with the possibility of parole for two first-degree murders and eight concurrent terms of five years to life for second-degree murder; Santa Clara County (December 21, 1973): a consecutive term of five years to life for second-degree murder",
+  "fate": "Died in prison",
+  "fateDetail": "California Health Care Facility, Stockton; died August 18, 2022, aged 75, of what the California Department of Corrections and Rehabilitation described as natural causes",
+  "summary": "Died in prison. Herbert Mullin admitted killing 13 people in Santa Cruz County and Los Gatos, California, in 1972 and 1973. Convicted of 11 murders in two counties, he was repeatedly denied parole and died at a Stockton prison medical facility in 2022.",
+  "narrative": [
+   "Herbert William Mullin was an American serial killer who admitted killing 13 people in and around Santa Cruz, California, between October 1972 and February 1973. A Santa Cruz County jury convicted him in August 1973 of two counts of first-degree murder and eight of second-degree murder, and in December 1973 he pleaded guilty in Santa Clara County to the second-degree murder of a Los Gatos priest. Serving life terms, he was denied parole repeatedly and died at the California Health Care Facility in Stockton on August 18, 2022, aged 75, of natural causes according to the state prison system.",
+   "Mullin was born on April 18, 1947, in Salinas and grew up partly in the San Lorenzo Valley, graduating from San Lorenzo Valley High School. According to the Wikipedia article, his mental health declined in his late teens and early twenties; he was admitted to Mendocino State Hospital in 1969 and passed through several psychiatric hospitals over the following years, being released each time when he was judged not to be a danger to himself or others. He was diagnosed with paranoid schizophrenia, and the article says his use of LSD worsened his condition. He later told investigators he killed to prevent a catastrophic earthquake in California, a belief he said was directed by voices.",
+   "The San Francisco Sunday Examiner and Chronicle, profiling the victims in August 1973, reported that the first was Lawrence White, 55, a drifter struck with a baseball bat on Highway 9 south of Felton in October 1972; the paper dated it October 12, while the Wikipedia article and later reporting give October 13. Mary Guilfoyle, 24, a student picked up while hitchhiking near Cabrillo College on October 24, was stabbed and her remains were not found until months later. On November 2, All Souls' Day, the Rev. Henri Tomei, 64, associate pastor of St. Mary's Catholic Church in Los Gatos, was stabbed in a confessional. The Valley Press reported in February 1973 that fingerprints and a palm print on the confessional door matched Mullin's, according to Los Gatos police.",
+   "On January 25, 1973, Mullin shot Jim Gianera, 25, a former high school classmate, and his wife Joan, 21, at their Santa Cruz home. The same day he killed Kathy Francis and her sons, David Hughes, 9, and Daemon Francis, in a cabin on Mystery Spot Road; the Examiner gave their ages as 28 and 3, the Wikipedia article as 29 and 4. In February he shot four teenagers camping in a shelter in Henry Cowell Redwoods State Park: David Oliker and Robert Spector, both 18, Brian Scott Card, 19, and Mark Dreibelbis, 15. On February 13 he shot Fred Perez, 72, a retired fisherman, as Perez worked in a driveway near Lighthouse Avenue in Santa Cruz.",
+   "A neighbor saw the Perez shooting and noted Mullin's car, and a patrol officer stopped him within minutes, according to the Wikipedia article; he made no attempt to use the pistol on the seat beside him. Investigators then connected him to the earlier deaths, which police had initially not linked, in part because Edmund Kemper was killing in the same county at the same time. By February 21 he had been arraigned on six counts of murder, the Valley Press reported, and the district attorney was asked to charge him with the deaths of the four campers.",
+   "Mullin's Santa Cruz trial, on 10 murder counts, began with jury selection in July 1973. He did not dispute the killings, and the case turned on his sanity. The defense, led by public defender James Jackson, argued that his delusions drove the killings, while prosecutors pointed to planning and efforts to avoid detection. The Wikipedia article says the jury returned its verdicts on August 19, 1973: first-degree murder for Jim Gianera and Kathy Francis, treated as premeditated, and second-degree murder for the other eight. He was admitted to state prison on September 18, 1973. In the Tomei case he withdrew an insanity plea and admitted second-degree murder, receiving a consecutive term of five years to life on December 21, 1973.",
+   "Only 11 of the 13 killings reached a courtroom: the Associated Press reported in 2022 that prosecutors said he committed two murders for which he never faced charges. At a 2021 parole hearing he again admitted all 13 killings but blamed his upbringing and family, and Santa Cruz County District Attorney Jeff Rosell argued he showed no true remorse; parole was denied. CDCR said the San Joaquin County medical examiner would determine the official cause of his death."
+  ],
+  "timeline": [
+   {
+    "date": "1947-04-18",
+    "text": "Herbert William Mullin born in Salinas, California."
+   },
+   {
+    "date": "1969",
+    "text": "Admitted to Mendocino State Hospital, the first of several psychiatric hospitalizations, according to the Wikipedia article."
+   },
+   {
+    "date": "1972-10",
+    "text": "Lawrence White, 55, is killed with a baseball bat on Highway 9 south of Felton (dated October 12 by the Examiner, October 13 by later sources)."
+   },
+   {
+    "date": "1972-10-24",
+    "text": "Mary Guilfoyle, 24, is picked up hitchhiking near Cabrillo College and stabbed; her remains are found months later."
+   },
+   {
+    "date": "1972-11-02",
+    "text": "The Rev. Henri Tomei, 64, is stabbed in a confessional at St. Mary's Catholic Church in Los Gatos."
+   },
+   {
+    "date": "1973-01-25",
+    "text": "Jim and Joan Gianera are shot at their Santa Cruz home; Kathy Francis and her sons David Hughes and Daemon Francis are killed in a cabin on Mystery Spot Road."
+   },
+   {
+    "date": "1973-02",
+    "text": "Four teenagers, David Oliker, Robert Spector, Brian Scott Card and Mark Dreibelbis, are shot at their shelter in the Santa Cruz Mountains; the Wikipedia article dates this to February 10."
+   },
+   {
+    "date": "1973-02-13",
+    "text": "Fred Perez, 72, is shot in a Santa Cruz driveway; Mullin is stopped by a patrol officer minutes later and arrested."
+   },
+   {
+    "date": "1973-02-21",
+    "text": "The Valley Press reports Mullin arraigned on six murder counts, with prints from the Los Gatos confessional matching his."
+   },
+   {
+    "date": "1973-07-09",
+    "text": "Jury selection under way in his Santa Cruz County trial, KPIX reports."
+   },
+   {
+    "date": "1973-08-19",
+    "text": "Jury convicts him of two counts of first-degree and eight of second-degree murder, according to the Wikipedia article."
+   },
+   {
+    "date": "1973-09-18",
+    "text": "Admitted to state prison from Santa Cruz County."
+   },
+   {
+    "date": "1973-12-21",
+    "text": "Sentenced in Santa Clara County to a consecutive five years to life after pleading guilty to second-degree murder of Father Tomei."
+   },
+   {
+    "date": "2021",
+    "text": "Denied parole after again admitting the 13 killings."
+   },
+   {
+    "date": "2022-08-18",
+    "text": "Dies aged 75 at the California Health Care Facility in Stockton."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "santa cruz",
+   "mental illness",
+   "insanity defense",
+   "child victims",
+   "1970s"
+  ],
+  "sources": [
+   {
+    "title": "California Department of Corrections and Rehabilitation - Herbert Mullin dies of natural causes (August 19, 2022)",
+    "url": "https://www.cdcr.ca.gov/news/2022/08/19/herbert-mullin-dies-of-natural-causes/"
+   },
+   {
+    "title": "Associated Press via NBC Bay Area - California inmate who admitted 13 murders dies natural death (August 20, 2022)",
+    "url": "https://www.nbcbayarea.com/news/local/california-inmate-herbert-mullin-dies/2982070/"
+   },
+   {
+    "title": "KTVU - California inmate who admitted 13 murders dies natural death (August 20, 2022)",
+    "url": "https://www.ktvu.com/news/california-inmate-who-admitted-13-murders-dies-natural-death"
+   },
+   {
+    "title": "KION Central Coast - Salinas-born serial killer with Santa Cruz County victims dies in state prison (August 19, 2022)",
+    "url": "https://kioncentralcoast.com/?p=725561"
+   },
+   {
+    "title": "S.F. Sunday Examiner and Chronicle via Santa Cruz Public Libraries - Mullin's 13 dead victims: their lives and their hopes (August 5, 1973)",
+    "url": "https://history.santacruzpl.org/omeka/files/original/a36db42d161c934bdd8fd46bb2891b89.PDF"
+   },
+   {
+    "title": "Valley Press via Santa Cruz Public Libraries - Mullin apparently knew murder victims (February 21, 1973)",
+    "url": "https://history.santacruzpl.org/omeka/files/original/3876e545aa93251c01457da6e0cae4d5.PDF"
+   },
+   {
+    "title": "KPIX-TV via Bay Area Television Archive - Herbert Mullin charged with murder (February 19, 1973)",
+    "url": "https://diva.sfsu.edu/collections/sfbatv/bundles/238901"
+   },
+   {
+    "title": "Wikipedia - Herbert Mullin",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Mullin"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Mullin",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "honolulu-strangler",
   "name": "Honolulu Strangler",
   "aliases": [
@@ -5840,6 +6601,158 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 76000
+ },
+ {
+  "id": "jane-toppan",
+  "name": "Jane Toppan",
+  "aliases": [
+   "Jolly Jane",
+   "Honora Kelley"
+  ],
+  "born": "1854",
+  "died": "1938",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Massachusetts"
+  ],
+  "primaryState": "Massachusetts",
+  "cities": [
+   "Cambridge",
+   "Bourne (Cataumet)"
+  ],
+  "activeFrom": 1895,
+  "activeTo": 1901,
+  "victims": {
+   "convicted": null,
+   "confessed": 31,
+   "suspected": "31 to 100"
+  },
+  "victimProfile": "Mostly elderly or ill patients in her care as a private nurse, along with landlords, a foster sister, friends and members of a family who employed her",
+  "method": [
+   "poisoning",
+   "morphine",
+   "atropine"
+  ],
+  "apprehended": "1901-10-29",
+  "captureMethod": "Relatives of the Davis family pressed for an inquiry after four deaths at Cataumet; exhumations and toxicology found poison, and she was arrested in Amherst, New Hampshire",
+  "legalStatus": "Not guilty by reason of insanity",
+  "sentence": "None; found not guilty by reason of insanity on the murder of Mary Gibbs (June 1902) and committed for life to the Taunton Insane Hospital",
+  "fate": "Died (other)",
+  "fateDetail": "Taunton State Hospital (then Taunton Insane Hospital), Taunton, Massachusetts; died in August 1938 while committed",
+  "summary": "Died (other). Massachusetts nurse Jane Toppan confessed in 1902 to poisoning 31 people from 1895 to 1901. A Barnstable jury found her not guilty by reason of insanity, and she died in 1938 at the Taunton state hospital, where she had been committed for life.",
+  "narrative": [
+   "Jane Toppan was a private nurse in Massachusetts who confessed in 1902 to poisoning 31 people between 1895 and 1901, most of them patients in her care. She was indicted for three deaths that occurred in the summer of 1901 at Cataumet, a village of Bourne on Cape Cod, and was tried at Barnstable in June 1902 on a single count, the murder of Mary \"Minnie\" Gibbs. A jury found her not guilty by reason of insanity, so she was never convicted of any killing. She was committed for life to the state insane hospital at Taunton, where she died in August 1938.",
+   "Toppan was born Honora Kelley in Boston, in 1854 according to the Wikipedia article and People magazine; some accounts, including the West End Museum's, give 1857. After her mother's death her father could not care for the children, and she was placed in the Boston Female Asylum. She was later sent to the Toppan family of Lowell as an indentured servant and took their surname, though she was never formally adopted. In the 1880s she trained as a nurse at Cambridge Hospital and then at Massachusetts General Hospital, which, according to the West End Museum, dismissed her in 1890 without a diploma. She went on to work as a private nurse for families in Cambridge, Boston and Lowell, where colleagues and clients knew her as \"Jolly Jane.\"",
+   "The Wikipedia article lists twelve deaths that have been linked to her by name. The earliest were her landlords, Israel Dunham, who died in May 1895, and his wife Lovey Dunham, who died in September 1897. Her foster sister, Elizabeth Brigham, died in August 1899; Boston Magazine reported that she fell ill after an outing with Toppan at Buzzards Bay. Mary McNear, Florence Calkins, William Ingraham and Myra Connors died between December 1899 and February 1900, and Edna Bannister died in June 1901. Contemporary reporting and later accounts agree that her principal method was morphine, often combined with atropine, given in drinks or by injection. People magazine reported that she later said some of the killings gave her sexual gratification.",
+   "The deaths that led to her arrest came in 1901 in the family of Alden P. Davis of Cataumet. His wife, Mattie Davis, died on July 4, 1901; the Wikipedia article places the death at Cataumet, while IrishCentral and the West End Museum say she died in Cambridge. Toppan then stayed on as nurse at the family's summer home. A daughter, Genevieve Gordon, died on July 30, Alden Davis on August 8, and a second daughter, Mary Gibbs, on August 13. According to the West End Museum, Gibbs's father-in-law, Captain Paul Gibbs, pressed for an inquiry; exhumations and toxicology found poison, and a Falmouth chemist said he had sold Toppan morphine before the deaths. She was arrested on October 29, 1901, in Amherst, New Hampshire.",
+   "The Batesburg Advocate of South Carolina reported in July 1902 she had been indicted for the murders of Mary Gibbs, Mrs. Harry Gordon of Chicago (Genevieve Gordon) and Alden Davis, and that the state chose to try her on one count. The West End Museum says she spent about six months in the Barnstable County jail and that examining physicians declared her insane in April 1902. At the trial, alienists, as psychiatrists were then called, testified that she was insane. The Wikipedia article gives June 23, 1902, as the date of the verdict. Some later accounts, including People's, say she was charged with twelve murders; the 1902 report gives three indictments.",
+   "According to the same 1902 report, she gave her senior counsel, Judge Fred M. Bixby of Brockton, a confession naming 31 people she said she had poisoned during her career as a nurse. The Wikipedia article notes that a fuller confession later printed by the New York Journal claimed more killings, and its authenticity is uncertain. Estimates of her total, as given by Boston Magazine, IrishCentral and the Wikipedia article, range up to about 100, but no court ever examined those claims, and the confessed and suspected counts remain unverified.",
+   "At Taunton she was diagnosed with what was then called moral insanity. People and the West End Museum report that in 1904 she refused food, believing staff were trying to poison her, and lost about 80 pounds before recovering. She remained there for the rest of her life. The Wikipedia article gives her death as August 17, 1938, aged 84; the West End Museum gives August 18, and People and Boston Magazine give her age as 81, reflecting the disagreement over her birth year."
+  ],
+  "timeline": [
+   {
+    "date": "1854",
+    "text": "Born Honora Kelley in Boston, according to the Wikipedia article; some accounts give 1857."
+   },
+   {
+    "date": "1890",
+    "text": "Dismissed from nurse training at Massachusetts General Hospital without a diploma, according to the West End Museum; she turns to private nursing."
+   },
+   {
+    "date": "1895-05-26",
+    "text": "Israel Dunham, her landlord, dies; the earliest death later attributed to her by name."
+   },
+   {
+    "date": "1897-09-19",
+    "text": "Lovey Dunham, Israel Dunham's wife, dies."
+   },
+   {
+    "date": "1899-08-29",
+    "text": "Her foster sister, Elizabeth Brigham, dies."
+   },
+   {
+    "date": "1901-07-04",
+    "text": "Mattie Davis, wife of Alden P. Davis, dies."
+   },
+   {
+    "date": "1901-07-30",
+    "text": "Genevieve Gordon, a daughter of the Davis family, dies at Cataumet."
+   },
+   {
+    "date": "1901-08-08",
+    "text": "Alden P. Davis dies at Cataumet."
+   },
+   {
+    "date": "1901-08-13",
+    "text": "Mary (Minnie) Gibbs, a second Davis daughter, dies; relatives later press for toxicology tests."
+   },
+   {
+    "date": "1901-10-29",
+    "text": "Arrested in Amherst, New Hampshire, and charged with murder."
+   },
+   {
+    "date": "1902-04",
+    "text": "Declared insane by examining physicians, according to the West End Museum."
+   },
+   {
+    "date": "1902-06-23",
+    "text": "Found not guilty by reason of insanity at Barnstable on the charge of murdering Mary Gibbs; committed for life to the Taunton Insane Hospital."
+   },
+   {
+    "date": "1902",
+    "text": "Confession naming 31 victims, given to her senior counsel Fred M. Bixby, is reported nationally."
+   },
+   {
+    "date": "1904",
+    "text": "Refuses food at Taunton, believing staff are poisoning her, and loses about 80 pounds before recovering."
+   },
+   {
+    "date": "1938-08",
+    "text": "Dies at the Taunton state hospital; sources give August 17 or August 18."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "nurse",
+   "poisoning",
+   "female offender",
+   "insanity verdict",
+   "19th century"
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia - Jane Toppan",
+    "url": "https://en.wikipedia.org/wiki/Jane_Toppan"
+   },
+   {
+    "title": "The Batesburg Advocate (University of South Carolina Libraries) - A Mania to Kill: A Trained Nurse Confessed That Thirty-One Persons Had Been Poisoned by Her (July 2, 1902)",
+    "url": "https://historicnewspapers.sc.edu/lccn/sn92065508/1902-07-02/ed-1/seq-2/ocr/"
+   },
+   {
+    "title": "Boston Magazine - Throwback Thursday: The Arrest of Boston's Murderous Nursemaid (October 29, 2015)",
+    "url": "https://www.bostonmagazine.com/news/2015/10/29/jane-toppan/"
+   },
+   {
+    "title": "Boston Magazine - True Tales of Murder and Mayhem (July 22, 2014)",
+    "url": "https://www.bostonmagazine.com/news/2014/07/22/true-crime-stories-boston/"
+   },
+   {
+    "title": "The West End Museum - Jolly Jane Toppan: The MGH Nurse Turned Mass Murderer (undated)",
+    "url": "https://thewestendmuseum.org/?p=17505"
+   },
+   {
+    "title": "IrishCentral - The deadly Irish American serial killer nurse Jolly Jane (updated March 22, 2026)",
+    "url": "https://www.irishcentral.com/roots/history/serial-killer-jolly-jane"
+   },
+   {
+    "title": "People via AOL - She Was a Beloved Nurse, Until Her Poisonings Made Headlines Nationwide (August 16, 2025)",
+    "url": "https://www.aol.com/she-beloved-nurse-until-her-120000341.html"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Jane_Toppan",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "jeffrey-dahmer",
@@ -6811,6 +7724,315 @@
    }
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Paul_Franklin",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "juan-corona",
+  "name": "Juan Corona",
+  "aliases": [
+   "Juan Vallejo Corona"
+  ],
+  "born": "1934-02-07",
+  "died": "2019-03-04",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Yuba City"
+  ],
+  "activeFrom": 1971,
+  "activeTo": 1971,
+  "victims": {
+   "convicted": 25,
+   "confessed": null,
+   "suspected": "25"
+  },
+  "victimProfile": "Itinerant male farmworkers, mostly middle-aged or older, who had been seen with Corona or hired through his Sutter County labor contracting business",
+  "method": [
+   "stabbing",
+   "bludgeoning",
+   "shooting"
+  ],
+  "apprehended": "1971-05-26",
+  "captureMethod": "A rancher reported a freshly dug hole in his peach orchard on May 19, 1971; as more graves were found, receipts and witness accounts led police to Corona, who was arrested a week later and whose home yielded a ledger listing victims' names",
+  "legalStatus": "Convicted",
+  "sentence": "25 concurrent life terms for 25 counts of first-degree murder on reconviction in 1982; the 1973 conviction, which the Wikipedia article says carried 25 consecutive life terms, was reversed in 1978",
+  "fate": "Died in prison",
+  "fateDetail": "Held at California State Prison-Corcoran from 1992; died of natural causes at an outside hospital on March 4, 2019, aged 85",
+  "summary": "Died in prison. Labor contractor Juan Corona was convicted of murdering 25 farmworkers buried in orchards near Yuba City, California, in 1971. His 1973 conviction was reversed in 1978, he was convicted again in 1982, and he died in custody in 2019.",
+  "narrative": [
+   "Juan Vallejo Corona was a farm labor contractor in Sutter County, California, convicted of murdering 25 itinerant farmworkers whose bodies were found buried in orchards along the Feather River near Yuba City in May and June 1971. A jury in Fairfield found him guilty of 25 counts of first-degree murder in January 1973; a state appeals court reversed that verdict in 1978 because of his lawyer's conflict of interest and inadequate defense, and a second jury convicted him again on all 25 counts in 1982. Serving 25 concurrent life terms, he died of natural causes on March 4, 2019, aged 85, while in the custody of California State Prison-Corcoran, according to the California Department of Corrections and Rehabilitation.",
+   "Corona was born on February 7, 1934, in Jalisco, Mexico, and came to the United States in 1950 to pick crops, following older brothers, KQED reported. After the 1955 Sacramento Valley flood he was committed to a state hospital and diagnosed with schizophrenia; the 1978 appeals court opinion records a stay at DeWitt State Hospital from January to April 1956. By the mid-1960s he and his brothers were established labor contractors who recruited workers for ranches around Yuba City and Marysville. His business hired the men who later became his victims, and each victim had either been seen with him or hired through that business, according to the corrections department.",
+   "The case began on May 19, 1971, when a rancher named Kagehiro noticed a hole in the corner of his peach orchard and called police. The next morning officers uncovered the body of Kenneth Whitacre. Further graves were found on the Kagehiro and Sullivan ranches between May 20 and June 4, 1971, until 25 bodies had been recovered; according to KQED, receipts made out to Corona were found with bodies in a second orchard. The appeals court opinion states that all but one victim had chopping-type head wounds, many also had stab wounds to the chest, and one man, William Kamp, had been shot in the head. Four victims were never identified, and KQED reported that 14 of the dead, including the four unknown men, were buried in a common grave in Sutter.",
+   "Corona was arrested on May 26, 1971. Searches of his home, vehicles and property produced knives, a machete, a pistol, a post-hole digger and bloodstained items, and a green ledger in his bedroom with handwritten names and dates. The appeals court found that seven of the names matched identified victims; the Wikipedia article says the prosecution called it a death list. The trial was moved out of Sutter County to the Solano County courthouse in Fairfield, where, after about four months, a jury convicted him on all 25 counts on January 18, 1973, as KPIX-TV news footage of that day records. His lawyer, Richard Hawk, had called no defense witnesses, according to UPI.",
+   "Corona was sent to state prison in February 1973. Later that year he was stabbed repeatedly in his cell at the California Medical Facility in Vacaville and lost the sight of his left eye. On May 8, 1978, the California Court of Appeal, First District, reversed the judgment and granted his petition for habeas corpus. It found that Hawk had taken the literary and dramatic rights to Corona's life story as his fee, creating a conflict of interest, and had failed to investigate defenses based on Corona's mental state.",
+   "The retrial took place in Hayward, Alameda County, in 1982. Over 28 weeks of testimony from 212 witnesses, at a cost UPI put at 5.2 million dollars, the new defense team argued that Corona's half-brother Natividad, a former Marysville cafe owner believed to have died in Mexico in 1973, was the killer; prosecutors said Natividad was in Mexico at the time. Corona testified that he had killed no one. On September 23, 1982, the jury again convicted him of all 25 murders, and its foreman told UPI that the ledger was the deciding evidence. He was sentenced to 25 concurrent life terms and began serving the Sutter County commitment in December 1982.",
+   "Corona was moved in 1992 to the Protective Housing Unit at Corcoran. He was denied parole eight times, at hearings between 1984 and 2016. KQED reported that prosecutors said he admitted the killings at a 2011 hearing, describing the victims as trespassers, while at his last hearing in 2016 he said he could not recall killing anyone. His family maintained his innocence, and neither side ever established a motive. At the time of the 1971 discovery, the number of victims was a United States record, according to the corrections department."
+  ],
+  "timeline": [
+   {
+    "date": "1934-02-07",
+    "text": "Juan Vallejo Corona born in Jalisco, Mexico."
+   },
+   {
+    "date": "1956-01",
+    "text": "Admitted to DeWitt State Hospital after the 1955 Sacramento Valley flood; discharged in April 1956."
+   },
+   {
+    "date": "1971-05-19",
+    "text": "Rancher Kagehiro finds a freshly dug hole in his peach orchard near Yuba City and calls police."
+   },
+   {
+    "date": "1971-05-20",
+    "text": "Officers uncover the body of Kenneth Whitacre, the first victim found."
+   },
+   {
+    "date": "1971-05-26",
+    "text": "Corona arrested; a ledger with victims' names is seized from his home."
+   },
+   {
+    "date": "1971-06-04",
+    "text": "Search of the Kagehiro and Sullivan ranches ends with 25 bodies recovered."
+   },
+   {
+    "date": "1973-01-18",
+    "text": "Jury in Fairfield, Solano County, convicts Corona of 25 counts of first-degree murder."
+   },
+   {
+    "date": "1973-02-17",
+    "text": "Sent to state prison."
+   },
+   {
+    "date": "1973",
+    "text": "Stabbed in his cell at the California Medical Facility in Vacaville; loses the sight of his left eye."
+   },
+   {
+    "date": "1978-05-08",
+    "text": "California Court of Appeal reverses the conviction over his lawyer's conflict of interest and inadequate defense."
+   },
+   {
+    "date": "1982-09-23",
+    "text": "Jury in Hayward, Alameda County, convicts him again on all 25 counts; sentenced to 25 concurrent life terms."
+   },
+   {
+    "date": "1992",
+    "text": "Transferred to the Protective Housing Unit at California State Prison-Corcoran."
+   },
+   {
+    "date": "2011",
+    "text": "At a parole hearing, admits the killings, according to prosecutors; parole denied."
+   },
+   {
+    "date": "2016",
+    "text": "Denied parole for the eighth time after saying he could not recall killing anyone."
+   },
+   {
+    "date": "2019-03-04",
+    "text": "Dies of natural causes at an outside hospital, aged 85, while held at Corcoran."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "farmworkers",
+   "labor contractor",
+   "overturned conviction",
+   "retrial",
+   "orchard graves"
+  ],
+  "sources": [
+   {
+    "title": "FindLaw - People v. Corona, California Court of Appeal, First District (May 8, 1978)",
+    "url": "https://caselaw.findlaw.com/ca-court-of-appeal/1836535.html"
+   },
+   {
+    "title": "California Department of Corrections and Rehabilitation - Inmate Juan Corona Dies of Natural Causes (March 4, 2019)",
+    "url": "https://www.cdcr.ca.gov/news/2019/03/04/inmate-juan-corona-dies-of-natural-causes/"
+   },
+   {
+    "title": "UPI - Jurors deliberating in the mass murder retrial of Juan Corona (September 18, 1982)",
+    "url": "https://www.upi.com/Archives/1982/09/18/Jurors-deliberating-in-the-mass-murder-retrial-of-Juan/1458401169600/"
+   },
+   {
+    "title": "UPI - 'Death list' deciding factor in Corona conviction (September 24, 1982)",
+    "url": "https://www.upi.com/Archives/1982/09/24/Death-list-deciding-factor-in-Corona-conviction/4922401688000/"
+   },
+   {
+    "title": "KPIX-TV via SFSU Bay Area Television Archive - Juan Corona found guilty on 25 counts of murder (January 18, 1973)",
+    "url": "https://diva.sfsu.edu/bundles/239581"
+   },
+   {
+    "title": "KQED - Juan Corona, Yuba City Serial Killer, Dead at 85 (March 5, 2019)",
+    "url": "https://www.kqed.org/news/11730679/juan-corona-yuba-city-serial-killer-dead-at-85"
+   },
+   {
+    "title": "CBS Sacramento - Juan Corona, Convicted Of Killing 25 Farm Workers, Dies Of Natural Causes At 85 (March 4, 2019)",
+    "url": "https://www.cbsnews.com/sacramento/news/juan-corona-farm-worker-serial-killer-dies/"
+   },
+   {
+    "title": "Wikipedia - Juan Corona",
+    "url": "https://en.wikipedia.org/wiki/Juan_Corona"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Juan_Corona",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "judy-buenoano",
+  "name": "Judy Buenoano",
+  "aliases": [
+   "Judias Buenoano",
+   "Anna Lou Welty",
+   "Judy Goodyear",
+   "Judy Ann Goodyear",
+   "Judy Morris",
+   "The Black Widow"
+  ],
+  "born": "1943-04-04",
+  "died": "1998-03-30",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Florida"
+  ],
+  "primaryState": "Florida",
+  "cities": [
+   "Orlando",
+   "Milton",
+   "Pensacola",
+   "Gulf Breeze"
+  ],
+  "activeFrom": 1971,
+  "activeTo": 1983,
+  "victims": {
+   "convicted": 2,
+   "confessed": null,
+   "suspected": "3"
+  },
+  "victimProfile": "Her husband, her 19-year-old son and men she lived with or was engaged to, each insured with her as beneficiary",
+  "method": [
+   "poisoning",
+   "drowning",
+   "bombing"
+  ],
+  "apprehended": null,
+  "captureMethod": "Investigators looking into the 1983 car bombing that injured her fiance John Gentry found poisoned capsules she had given him, then exhumed her husband James Goodyear and found arsenic",
+  "legalStatus": "Convicted",
+  "sentence": "Life imprisonment for the first-degree murder of her son Michael (1984); 12 years for the attempted murder of John Gentry (1984); death for the first-degree murder of James Goodyear (1985)",
+  "fate": "Executed",
+  "fateDetail": "Electrocuted at Florida State Prison, Raiford, on March 30, 1998, aged 54; the first woman executed in Florida since 1848",
+  "summary": "Executed. Judy Buenoano was convicted of poisoning her husband James Goodyear with arsenic in Orlando in 1971 and of murdering her son Michael, who drowned in 1980. She was electrocuted at Florida State Prison in March 1998.",
+  "narrative": [
+   "Judias \"Judy\" Buenoano was a Florida woman convicted of two murders committed years apart for insurance money: the 1971 arsenic poisoning of her husband, Air Force Sergeant James Goodyear, in Orlando, and the 1980 drowning of her 19-year-old son, Michael. She was also convicted of attempting to murder her fiance, John Gentry, whose car exploded in Pensacola in 1983. Sentenced to death for Goodyear's killing, she was electrocuted at Florida State Prison on March 30, 1998, the first woman executed in Florida since 1848. She maintained her innocence to the end, CBS News reported.",
+   "She was born Anna Lou Welty on April 4, 1943, in Quanah, Texas, according to the Wikipedia article and the Florida Sheriffs Association. She married Goodyear in 1962, according to the federal court in the Middle District of Florida and the sheriffs association (the Wikipedia article gives 1963), and in 1978 legally changed her surname to Buenoano, a name investigators later learned was a Spanish rendering of Goodyear. According to the Florida Supreme Court, Goodyear returned to Orlando from a tour of duty in South Vietnam in 1971, fell ill with nausea and vomiting, was admitted to the naval hospital there on September 13 and died on September 16 of cardiovascular collapse and renal failure. No toxicology test was done at the time. She collected about $33,000 in life insurance and $62,000 from the Veterans Administration.",
+   "After Goodyear's death she lived with Bobby Joe Morris and moved with him to Colorado. Morris became ill with symptoms like Goodyear's and died; the Wikipedia article dates his death to January 1978 in Trinidad, Colorado, while CBS News gives 1977. She collected about $23,000 from three insurance policies on his life, the Florida Supreme Court found. When his remains were exhumed in 1984, tissue analysis showed acute arsenic poisoning. She was never charged with his death, which came to light after she had already been sentenced to death in Florida, CBS News and the Deseret News reported. The Wikipedia article and the sheriffs association also say she was believed to be involved in the 1980 death of a man named Gerald Dossett and a 1974 killing in Alabama; no charges were brought in either.",
+   "Her son Michael, who had been adopted by Goodyear, joined the Army in 1979, became ill and was diagnosed with arsenic poisoning, according to the federal court account. Fitted with heavy metal leg braces, he was discharged into his mother's care. On May 13, 1980, he drowned when a canoe carrying the two of them capsized on the East River near Milton, Florida, weighed down by his braces. Prosecutors argued that she had caused his paralysis with arsenic. She collected about $20,000 from his military life insurance.",
+   "In 1982 she was living with John Gentry in the Gulf Breeze area and engaged to him. According to the Florida Supreme Court, she began giving him Vicon C vitamin capsules in November 1982 for a cold; he became so ill that he was hospitalized on December 15, and the sickness returned after she gave him the capsules again. Analysis found they contained paraformaldehyde. She had been telling associates he had terminal cancer, and she held $510,000 in life insurance on him. In 1983 his car exploded in Pensacola, seriously injuring him. A search of her home found wire and tape matching the bomb remains, the federal court account says. The investigation led to the exhumation of Goodyear, whose body contained arsenic. Her son James Goodyear Jr., charged as an accomplice in the bombing, was acquitted at a separate trial.",
+   "In 1984 she was convicted of first-degree murder in Michael's death and sentenced to life in prison, and of attempted murder of Gentry, receiving 12 years. A grand jury indicted her on August 31, 1984, for Goodyear's murder. At her trial, where evidence of the Morris death and the Gentry poisoning was admitted as similar-fact evidence, two acquaintances testified that she had discussed killing someone with arsenic, and two witnesses said she admitted killing Goodyear. The jury convicted her and recommended death, and she was sentenced to death in November 1985. The Florida Supreme Court affirmed on June 23, 1988.",
+   "Her later appeals, including claims about FBI laboratory testimony concerning the Gentry capsules and an undisclosed juror conviction, were rejected by the Florida Supreme Court on March 26, 1998, and by the Eleventh Circuit on March 29, which found the remaining evidence of guilt strong. She was electrocuted the next morning and pronounced dead at 7:13 a.m., aged 54, the third woman executed in the United States after 1976, according to CBS News."
+  ],
+  "timeline": [
+   {
+    "date": "1943-04-04",
+    "text": "Born Anna Lou Welty in Quanah, Texas."
+   },
+   {
+    "date": "1962",
+    "text": "Marries Air Force Sergeant James Goodyear (the Wikipedia article gives 1963)."
+   },
+   {
+    "date": "1971-09-16",
+    "text": "James Goodyear dies at the naval hospital in Orlando after weeks of illness; arsenic is found only after his 1984 exhumation."
+   },
+   {
+    "date": "1978",
+    "text": "Bobby Joe Morris, with whom she lived, dies in Colorado after a similar illness; she is never charged."
+   },
+   {
+    "date": "1980-05-13",
+    "text": "Her son Michael, 19, paralyzed and wearing leg braces, drowns when their canoe capsizes near Milton, Florida."
+   },
+   {
+    "date": "1982-12-15",
+    "text": "Fiance John Gentry is hospitalized with severe nausea after taking capsules she gave him, later found to contain paraformaldehyde."
+   },
+   {
+    "date": "1983",
+    "text": "Gentry is seriously injured when his car explodes in Pensacola."
+   },
+   {
+    "date": "1984",
+    "text": "Exhumations of Goodyear and Morris show arsenic poisoning."
+   },
+   {
+    "date": "1984-06-06",
+    "text": "Sentenced to life in prison for the first-degree murder of her son; in 1984 she also receives 12 years for the attempted murder of Gentry."
+   },
+   {
+    "date": "1984-08-31",
+    "text": "Indicted for the first-degree murder of James Goodyear."
+   },
+   {
+    "date": "1985-11-26",
+    "text": "Sentenced to death for Goodyear's murder after a jury convicts her and recommends death."
+   },
+   {
+    "date": "1988-06-23",
+    "text": "Florida Supreme Court affirms the conviction and death sentence."
+   },
+   {
+    "date": "1998-03-29",
+    "text": "Eleventh Circuit denies leave to file a second federal habeas petition and refuses a stay."
+   },
+   {
+    "date": "1998-03-30",
+    "text": "Executed in the electric chair at Florida State Prison; pronounced dead at 7:13 a.m."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "female offender",
+   "poisoning",
+   "arsenic",
+   "insurance fraud",
+   "executed",
+   "black widow"
+  ],
+  "sources": [
+   {
+    "title": "Supreme Court of Florida - Buenoano v. State, 527 So. 2d 194 (June 23, 1988)",
+    "url": "https://static.case.law/so2d/527/cases/0194-01.json"
+   },
+   {
+    "title": "U.S. Court of Appeals, Eleventh Circuit - In re Judy A. Buenoano, No. 98-1104 (March 29, 1998)",
+    "url": "https://caselaw.findlaw.com/us-11th-circuit/1097413.html"
+   },
+   {
+    "title": "CBS News - Florida Executes 'Black Widow' (March 30, 1998)",
+    "url": "https://www.cbsnews.com/news/florida-executes-black-widow/"
+   },
+   {
+    "title": "Deseret News - Florida woman dies in electric chair (March 30, 1998)",
+    "url": "https://www.deseret.com/1998/3/30/19371685/florida-woman-dies-in-electric-chair/"
+   },
+   {
+    "title": "U.S. District Court, Middle District of Florida - The Black Widow (undated)",
+    "url": "https://www.flmd.uscourts.gov/black-widow"
+   },
+   {
+    "title": "Florida Sheriffs Association - Judias Buenoano: Florida's Black Widow (March 14, 2025)",
+    "url": "https://flsheriffs.org/blog/entry/judias-buenoano-floridas-black-widow/"
+   },
+   {
+    "title": "Wikipedia - Judy Buenoano",
+    "url": "https://en.wikipedia.org/wiki/Judy_Buenoano"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Judy_Buenoano",
   "enriched": true,
   "verified": "2026-10-29"
  },
@@ -9022,6 +10244,162 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "paul-john-knowles",
+  "name": "Paul John Knowles",
+  "aliases": [
+   "The Casanova Killer"
+  ],
+  "born": "1946-04-25",
+  "died": "1974-12-18",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Florida",
+   "Georgia",
+   "Ohio",
+   "Nevada",
+   "Texas",
+   "Connecticut",
+   "Virginia"
+  ],
+  "primaryState": "Georgia",
+  "cities": [
+   "Jacksonville Beach",
+   "Atlantic Beach",
+   "Warner Robins",
+   "Musella",
+   "Lima",
+   "Ely",
+   "Seguin",
+   "Marlborough",
+   "Macon",
+   "Milledgeville",
+   "Perry"
+  ],
+  "activeFrom": 1974,
+  "activeTo": 1974,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "18 to 35"
+  },
+  "victimProfile": "Strangers and brief acquaintances of both sexes and many ages, including older women in their homes, teenage girls, hitchhikers, motorists, a father and daughter who took him in, and a state trooper",
+  "method": [
+   "strangulation",
+   "shooting",
+   "stabbing",
+   "beating"
+  ],
+  "apprehended": "1974-11-17",
+  "captureMethod": "After crashing through a police roadblock in Henry County, Georgia, he fled on foot and was cornered by an armed local resident, who held him until Henry County investigators arrived",
+  "legalStatus": "Died before trial",
+  "sentence": null,
+  "fate": "Killed",
+  "fateDetail": "Shot three times in the chest by GBI Agent Ronnie Angel on Interstate 20 near Lithia Springs, Douglas County, Georgia, during a transfer; authorities said he had grabbed the sheriff's revolver",
+  "summary": "Killed. Paul John Knowles, the Casanova Killer, was linked to at least 18 killings across several states in 1974 after escaping a Jacksonville jail. Arrested in Georgia, he was shot dead by a GBI agent during a transfer in December 1974 and never tried.",
+  "narrative": [
+   "Paul John Knowles, known in the press as the Casanova Killer, was linked to at least 18 killings committed between late July and mid-November 1974 after he escaped from a jail cell in Jacksonville, Florida. The killings attributed to him took place in Florida, Georgia, Ohio, Nevada, Texas, Connecticut and Virginia, with Georgia accounting for the largest share. He was arrested in Henry County, Georgia, on November 17, 1974, and was charged with murders in Georgia, Florida and Ohio, but he never went to trial: on December 18, 1974, a Georgia Bureau of Investigation agent shot him dead during a transfer, in what authorities described as an escape attempt. Because he was never tried, none of the killings resulted in a conviction.",
+   "Knowles was born in Orlando in 1946 and, according to the Wikipedia article, spent much of his childhood in foster homes and in the Florida School for Boys before serving adult prison terms. News4JAX reported in 2022 that in the summer of 1974 he was being held in Jacksonville for stabbing a bartender when he picked a lock and escaped. That same night, according to News4JAX and WGXA, Alice Curtis, a 65-year-old retired teacher in Jacksonville Beach, was bound and gagged during a robbery and died; she is regarded as his first known victim. Marjorie Howie, 49, was later found strangled in her home in Atlantic Beach, and News4JAX reported that Knowles is believed responsible. He also claimed in a letter to have killed two Jacksonville sisters, Annette and Mylette Anderson, who vanished in 1974; prosecutors later concluded he was responsible, but their bodies were never found and some investigators doubted the claim, so they are not included in the count of 18.",
+   "In Georgia, the GBI said in 2011 that investigators had found evidence that Knowles murdered Ima Jean Sanders, 13, of Warner Robins, who disappeared on August 1, 1974. Her skeletal remains were found in Peach County in April 1976 and identified through DNA in 2011; a 1975 letter from the U.S. Attorney summarizing Knowles's taped confessions had described a teenage hitchhiker who called herself Alma. Kathy Pierce, 24, was killed in Musella in Crawford County later in August. The Wikipedia article attributes the September 1974 deaths of William Bates near Lima, Ohio, of Emmett and Lois Johnson at a rest stop near Ely, Nevada, and of Charlynn Hicks near Seguin, Texas, to him. Ann Dawson, a Birmingham, Alabama, beautician, disappeared after meeting him in late September; Knowles claimed to have put her body in the Mississippi River, and remains were found in Mississippi in 1977.",
+   "On October 16, 1974, Karen Wine, 35, and her 16-year-old daughter were killed in their home in Marlborough, Connecticut, according to the Wikipedia article, and two days later Doris Hosey, 53, was shot with her husband's rifle. News4JAX reported that Knowles's confession tapes described killings in Virginia as well as Connecticut, Nevada and Texas. In early November he was in central Georgia. Two hitchhikers, Edward Hilliard and Debbie Griffin, disappeared near Macon on November 2, and remains were later found in Crawford County; the Wikipedia article says Knowles is reportedly suspected in their deaths. On November 6 in Milledgeville, Carswell Carr was stabbed to death and his 15-year-old daughter Mandy was strangled after Carr invited Knowles to spend the night, according to WGXA and The Atlanta Constitution.",
+   "On November 16, near Perry, Florida, Knowles took Florida Highway Patrol Trooper Charles Campbell hostage, used the patrol car to stop motorist James Meyer, a businessman from Wilmington, Delaware, and drove both men into Georgia. They were found handcuffed to a tree in Pulaski County, each shot in the head, the GBI and WGXA reported. The next day Knowles crashed through a police roadblock in Henry County and fled on foot, firing at officers. He was cornered hours later by an armed resident outside the search area and handed over to Henry County investigators, according to the Wikipedia article and the AJC.",
+   "Knowles had mailed audio-taped confessions to a Florida attorney. The GBI said litigation over the tapes reached the federal appeals court, that a federal grand jury was allowed to review them in 1975, and that the only copies were later destroyed in a flood at the federal courthouse in Macon. The AJC reported that the tapes described 16 murders and that he claimed between 20 and 35 killings in all; investigators have linked him to at least 18, and the true number is not known.",
+   "On December 18, 1974, Douglas County Sheriff Earl Lee and GBI Agent Ronnie Angel were driving Knowles along Interstate 20 to search for Trooper Campbell's missing handgun. Authorities said he freed himself from his handcuffs and grabbed the sheriff's revolver, which fired, and Angel shot him three times in the chest; the car left the road near Lithia Springs. Knowles was 28. His Miami attorney, Sheldon Yavitz, publicly doubted the escape account, the AJC reported. The killings were never tested in court."
+  ],
+  "timeline": [
+   {
+    "date": "1946-04-25",
+    "text": "Paul John Knowles born in Orlando, Florida."
+   },
+   {
+    "date": "1974-07-26",
+    "text": "Escapes from a Jacksonville jail cell; Alice Curtis, 65, dies after being bound and gagged in a robbery at her Jacksonville Beach home."
+   },
+   {
+    "date": "1974-08-01",
+    "text": "Ima Jean Sanders, 13, disappears in Warner Robins, Georgia."
+   },
+   {
+    "date": "1974-08",
+    "text": "Marjorie Howie, 49, found strangled in Atlantic Beach, Florida; Kathy Pierce, 24, killed in Musella, Georgia."
+   },
+   {
+    "date": "1974-09",
+    "text": "Killings near Lima, Ohio, near Ely, Nevada, and near Seguin, Texas, later attributed to him; Ann Dawson of Birmingham, Alabama, disappears."
+   },
+   {
+    "date": "1974-10-16",
+    "text": "Karen Wine, 35, and her teenage daughter killed in Marlborough, Connecticut."
+   },
+   {
+    "date": "1974-11-02",
+    "text": "Hitchhikers Edward Hilliard and Debbie Griffin disappear near Macon, Georgia; he is suspected."
+   },
+   {
+    "date": "1974-11-06",
+    "text": "Carswell Carr and his 15-year-old daughter Mandy killed in their Milledgeville, Georgia, home."
+   },
+   {
+    "date": "1974-11-16",
+    "text": "Takes Trooper Charles Campbell and motorist James Meyer hostage near Perry, Florida; both are found shot in Pulaski County, Georgia."
+   },
+   {
+    "date": "1974-11-17",
+    "text": "Crashes through a roadblock in Henry County, Georgia, flees on foot and is captured."
+   },
+   {
+    "date": "1974-12-18",
+    "text": "Shot dead by GBI Agent Ronnie Angel on Interstate 20 near Lithia Springs during a transfer; authorities call it an escape attempt."
+   },
+   {
+    "date": "1975",
+    "text": "A federal grand jury is allowed to review his taped confessions; the only copies are later destroyed in a courthouse flood."
+   },
+   {
+    "date": "1977-11-15",
+    "text": "Remains of Ann Dawson found in Mississippi."
+   },
+   {
+    "date": "2011",
+    "text": "DNA identifies 1976 remains from Peach County as Ima Jean Sanders; the GBI attributes her murder to Knowles."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "multi-state",
+   "spree",
+   "jail escape",
+   "died before trial",
+   "police officer victim",
+   "taped confessions"
+  ],
+  "sources": [
+   {
+    "title": "Georgia Bureau of Investigation - 1974 Disappearance and Murder of Teenaged Warner Robins Girl Solved (December 21, 2011)",
+    "url": "https://gbi.georgia.gov/press-releases/2011-12-21/1974-disappearance-and-murder-teenaged-warner-robins-girl-solved"
+   },
+   {
+    "title": "The Atlanta Journal-Constitution - AJC Deja News: Paul John Knowles terrorized Georgia during murder spree (1974) (December 18, 2019)",
+    "url": "https://www.ajc.com/news/local/ajc-deja-news-paul-john-knowles-terrorized-georgia-during-murder-spree-1974/VXL1dEvqNzVM0SgebnvOEO/"
+   },
+   {
+    "title": "News4JAX (WJXT) - 'Casanova Killer': Serial killer linked to at least 18 murders in 1974 started reign of terror in Jacksonville (July 7, 2022)",
+    "url": "https://www.news4jax.com/news/local/2022/07/08/casanova-killer-man-linked-to-at-least-18-murders-in-1974-started-reign-of-terror-in-jacksonville/"
+   },
+   {
+    "title": "WGXA - Middle Georgia investigators remember the Casanova Killer (March 2, 2016)",
+    "url": "https://wgxa.tv/news/local/middle-georgia-investigators-remember-the-casanova-killer"
+   },
+   {
+    "title": "Wikipedia - Paul John Knowles",
+    "url": "https://en.wikipedia.org/wiki/Paul_John_Knowles"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paul_John_Knowles",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "randy-kraft",
   "name": "Randy Kraft",
   "aliases": [
@@ -9830,6 +11208,148 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "robert-ben-rhoades",
+  "name": "Robert Ben Rhoades",
+  "aliases": [
+   "The Truck Stop Killer"
+  ],
+  "born": "1945-11-22",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Texas",
+   "Illinois"
+  ],
+  "primaryState": "Texas",
+  "cities": [
+   "Greenville",
+   "Ozona",
+   "Houston"
+  ],
+  "activeFrom": 1989,
+  "activeTo": 1990,
+  "victims": {
+   "convicted": 3,
+   "confessed": 3,
+   "suspected": "4 to 50+"
+  },
+  "victimProfile": "Hitchhikers and runaways picked up along interstate highways, including a teenage girl and a young married couple",
+  "method": [
+   "strangulation",
+   "shooting"
+  ],
+  "apprehended": "1990-04-01",
+  "captureMethod": "An Arizona state trooper checking a truck parked with its hazard lights on beside Interstate 10 near Casa Grande found a chained captive woman in the cab",
+  "legalStatus": "Convicted",
+  "sentence": "Life without parole in Illinois for the first-degree murder of Regina Walters; life sentences without parole in Texas (2012) on two counts of capital murder for Patricia Walsh and Douglas Scott Zyskowski; earlier six-year Arizona term for the 1990 kidnapping",
+  "fate": "Imprisoned",
+  "fateDetail": "Serving life in the Illinois prison system; listed by Wikipedia at Menard Correctional Center, Chester, Illinois",
+  "summary": "Serving life. Long-haul trucker Robert Ben Rhoades pleaded guilty to the 1990 murder of 14-year-old Regina Walters in Illinois and, in 2012, to the Texas capital murders of Patricia Walsh and Douglas Scott Zyskowski. Investigators suspect many more victims.",
+  "narrative": [
+   "Robert Ben Rhoades is an American long-haul truck driver convicted of three murders committed in 1990: the killing of 14-year-old Regina Walters in Illinois and the killings of Seattle newlyweds Patricia Candace Walsh and Douglas Scott Zyskowski, who were picked up in West Texas. He was arrested in Arizona on April 1, 1990, after a state trooper found a captive woman in the cab of his truck. He pleaded guilty in Illinois to Walters' murder and received life without parole, and in March 2012 he pleaded guilty in Texas to two counts of capital murder and received further life sentences. He is serving life in Illinois. Investigators have said they believe there were more victims, but no further charges have been brought.",
+   "Rhoades was born on November 22, 1945, in Council Bluffs, Iowa, according to the Wikipedia article, and by the late 1980s was living in Houston and driving a tractor-trailer on interstate routes. A 1996 Tucson Weekly investigation reported that his job assignments took him to Tucson or nearby cities 36 times in late 1989 and early 1990. In the early morning of April 1, 1990, Arizona State Trooper Mike Miller stopped to check a Peterbilt rig parked with its hazard lights on beside Interstate 10 at Casa Grande. Inside the cab he found a naked woman chained and shackled, who told investigators she had been whipped and tortured. Rhoades was booked on charges of aggravated assault, sexual assault and unlawful imprisonment. He was convicted in Arizona, and the Tucson Weekly reported a six-year sentence for that kidnapping.",
+   "The Arizona arrest led investigators to Houston, where police found another woman who said she had escaped from Rhoades after being held and tortured, the Associated Press reported in 2012. On April 6, 1990, FBI agents searched his Houston apartment and seized restraints, women's clothing and photographs, according to the Tucson Weekly. Among the photographs were images of a bound teenage girl at a barn. She was later identified as Regina Walters, a 14-year-old runaway from Pasadena, Texas, who had disappeared in February 1990 with her 18-year-old boyfriend, Ricky Lee Jones. Walters' body was found in a barn loft at an abandoned farm near Greenville, Illinois; the Wikipedia article dates the discovery to September 29, 1990. Investigators said she had been strangled with baling wire attached to a piece of lumber.",
+   "Prosecutors in Bond County, Illinois, charged Rhoades with Walters' murder as his Arizona sentence neared its end. The Tucson Weekly reported that in September 1992, after his court-appointed lawyers reviewed the evidence with him, he pleaded guilty to her killing and was sentenced to life in prison without the possibility of parole. The Wikipedia article instead dates the Illinois conviction to 1994; the record available to us does not settle the year. Jones was never charged as a victim in any case. The 2012 Associated Press and Deseret News reports said his body had never been found, while the Wikipedia article says partial skeletal remains found near Harleton, Texas, in May 1990 were later attributed to him. His death is attributed to Rhoades only as a suspicion.",
+   "The case of Walsh, 24, and Zyskowski took years longer. The couple had left Seattle in November 1989 to hitchhike to Georgia to preach, and accepted a ride from Rhoades near El Paso, according to the Associated Press. Zyskowski's age is given as 25 by the Deseret News and 28 by the AP. He was shot, and his body was found in January 1990 along Interstate 10 east of Ozona, Texas, but was not identified until 1992. Deer hunters found Walsh's remains in October 1990 about 22 miles south of Fillmore, Utah. They lay unidentified in the basement of the Millard County Sheriff's Office for 13 years until dental records identified her in 2003. Investigators believe Rhoades held her captive for about a week before shooting her several times.",
+   "In 2005, Utah charged Rhoades with murder and aggravated kidnapping in Millard County and sought his extradition from Illinois. The Deseret News reported that Utah later dropped its charge and, at the families' request, allowed Texas to prosecute both killings, since authorities there said the kidnappings had occurred in Texas. Prosecutors in Ozona said they would seek the death penalty, but the trial was repeatedly delayed after 2009. On March 26, 2012, as the trial was due to begin, Rhoades pleaded guilty in Sutton County to two counts of capital murder. In exchange, prosecutors did not seek death; he received life sentences and waived his rights to appeal and to parole.",
+   "The full extent of Rhoades' crimes is unknown. The Tucson Weekly quoted FBI Special Agent Mark Young as saying he believed Rhoades had escalated to about three abductions a month by early 1990, and reported that the woman found in his truck said he told her he had been doing this for 15 years. The Wikipedia article says he is suspected in the deaths of more than 50 women between 1975 and 1990, but that figure reflects suspicion, not charges. Steve Smith of the 112th District Attorney's office told ABC News in 2012 that Rhoades would die in prison, and that if he were ever released in Illinois he would return to Texas custody. The Wikipedia article lists him at Menard Correctional Center in Chester, Illinois."
+  ],
+  "timeline": [
+   {
+    "date": "1945-11-22",
+    "text": "Robert Ben Rhoades born in Council Bluffs, Iowa."
+   },
+   {
+    "date": "1989-11",
+    "text": "Patricia Walsh and Douglas Scott Zyskowski leave Seattle to hitchhike to Georgia; they later accept a ride from Rhoades near El Paso, Texas."
+   },
+   {
+    "date": "1990-01",
+    "text": "Zyskowski's body, shot, is found along Interstate 10 east of Ozona, Texas; it is identified in 1992."
+   },
+   {
+    "date": "1990-02",
+    "text": "Regina Walters, 14, and Ricky Lee Jones, 18, disappear from the Houston area."
+   },
+   {
+    "date": "1990-04-01",
+    "text": "Arizona trooper Mike Miller finds a captive woman in Rhoades' truck near Casa Grande; Rhoades is arrested."
+   },
+   {
+    "date": "1990-04-06",
+    "text": "FBI agents search Rhoades' Houston apartment and seize restraints and photographs, including images later identified as Walters."
+   },
+   {
+    "date": "1990-09-29",
+    "text": "Walters' body is found in a barn loft near Greenville, Illinois, according to the Wikipedia article."
+   },
+   {
+    "date": "1990-10",
+    "text": "Deer hunters find Walsh's remains south of Fillmore, Millard County, Utah."
+   },
+   {
+    "date": "1992-09",
+    "text": "Rhoades pleads guilty in Illinois to Walters' murder and is sentenced to life without parole, per the Tucson Weekly (Wikipedia gives 1994)."
+   },
+   {
+    "date": "2003",
+    "text": "Dental records identify the Millard County remains as Patricia Walsh."
+   },
+   {
+    "date": "2005-02",
+    "text": "Utah charges Rhoades with murder and aggravated kidnapping in Walsh's death and seeks extradition; the charge is later dropped so Texas can prosecute."
+   },
+   {
+    "date": "2012-03-26",
+    "text": "Rhoades pleads guilty in Sutton County, Texas, to two counts of capital murder for Walsh and Zyskowski and receives life sentences."
+   }
+  ],
+  "cases": [
+   "robert-ben-rhoades-victims"
+  ],
+  "tags": [
+   "trucker",
+   "interstate highways",
+   "hitchhikers",
+   "guilty plea",
+   "multi-state"
+  ],
+  "sources": [
+   {
+    "title": "Tucson Weekly - Dead End (February 29, 1996)",
+    "url": "https://community.tucsonweekly.com/tw/02-29-96/cover.htm"
+   },
+   {
+    "title": "Deseret News - Illinois killer is sought for trial in 1990 Utah slaying (February 25, 2005)",
+    "url": "https://www.deseret.com/2005/2/25/19879187/illinois-killer-is-sought-for-trial-in-1990-utah-slaying"
+   },
+   {
+    "title": "Deseret News - Serial killer with Utah ties gets 2 more life sentences in Texas (March 29, 2012)",
+    "url": "https://www.deseret.com/2012/3/29/20500547/serial-killer-with-utah-ties-gets-2-more-life-sentences-in-texas"
+   },
+   {
+    "title": "ABC News - Trucker With Traveling Torture Chamber Admits to More Murders (March 30, 2012)",
+    "url": "https://abcnews.com/US/texas-trucker-traveling-torture-chamber-admits-murders/story?id=16037743"
+   },
+   {
+    "title": "Associated Press via The Spokesman-Review - Torture dungeon trucker pleads guilty (March 30, 2012)",
+    "url": "https://www.spokesman.com/stories/2012/mar/30/torture-dungeon-trucker-pleads-guilty/"
+   },
+   {
+    "title": "CBS Texas - Texas Trucker Pleads Guilty To 2 More Murders (March 30, 2012)",
+    "url": "https://www.cbsnews.com/texas/news/texas-trucker-pleads-guilty-to-2-more-murders/"
+   },
+   {
+    "title": "Wikipedia - Robert Ben Rhoades",
+    "url": "https://en.wikipedia.org/wiki/Robert_Ben_Rhoades"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Ben_Rhoades",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "robert-berdella",
   "name": "Robert Berdella",
   "aliases": [
@@ -10616,6 +12136,156 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Alcala",
   "enriched": true,
   "verified": "2026-10-28"
+ },
+ {
+  "id": "roger-kibbe",
+  "name": "Roger Kibbe",
+  "aliases": [
+   "I-5 Strangler",
+   "Roger Reece Kibbe"
+  ],
+  "born": "1939-05-21",
+  "died": "2021-02-28",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Sacramento",
+   "Walnut Creek",
+   "Pittsburg",
+   "Antioch",
+   "Ione",
+   "South Lake Tahoe"
+  ],
+  "activeFrom": 1977,
+  "activeTo": 1987,
+  "victims": {
+   "convicted": 7,
+   "confessed": 6,
+   "suspected": "8 or more"
+  },
+  "victimProfile": "Young women aged 17 to 29, several of them abducted along or near Interstate 5 and other Northern California highways",
+  "method": [
+   "strangulation",
+   "kidnapping",
+   "sexual assault"
+  ],
+  "apprehended": null,
+  "captureMethod": "After a woman he attacked in Sacramento in 1987 escaped, police recovered a parachute-cord garrote whose cord was matched to rope found with Darcie Frackenpohl's body, and he was arrested for her murder in 1988",
+  "legalStatus": "Convicted",
+  "sentence": "25 years to life for the first-degree murder of Darcie Frackenpohl (El Dorado County, May 1991); six further life sentences with rape and kidnapping enhancements on guilty pleas to six murders (San Joaquin County, 2009)",
+  "fate": "Killed",
+  "fateDetail": "Strangled by his cellmate, Jason Budrow, at Mule Creek State Prison, Ione, California, on February 28, 2021; autopsy found manual strangulation",
+  "summary": "Killed in prison. Roger Kibbe, the I-5 Strangler, was convicted in 1991 of murdering Darcie Frackenpohl and pleaded guilty in 2009 to six more killings of women in Northern California. His cellmate strangled him at Mule Creek State Prison in 2021.",
+  "narrative": [
+   "Roger Reece Kibbe, known as the I-5 Strangler, was a former suburban Sacramento furniture maker convicted of seven murders of women in Northern California between 1977 and 1987. A jury convicted him in 1991 of the 1987 killing of 17-year-old Darcie Frackenpohl, and in 2009 he pleaded guilty in San Joaquin County to six further murders under an agreement that removed the death penalty. He was serving multiple life terms when he was strangled in his cell at Mule Creek State Prison in Ione, California, on February 28, 2021, at the age of 81.",
+   "The earliest of the killings dates to September 1977. Lou Ellen Burleigh, 21, of Walnut Creek, had gone to meet Kibbe about what she believed was a secretarial job and was never seen again, according to Associated Press reporting. The remaining cases on which he was convicted all date to 1986 and 1987. Barbara Ann Scott, 29, was abducted in Pittsburg on July 3, 1986, and her body was left on a golf course in Contra Costa County, CBS San Francisco reported. Stephanie Brown, 19, was found in a drainage ditch in San Joaquin County in mid-July 1986, and Charmaine Sabrah, 26, of Sacramento, disappeared on August 17, 1986, after her car broke down along Interstate 5; the Wikipedia article says her remains were found near Ione that November. Lora Heedick, whose name and age are given differently across sources (AP reported Lora Heedrick, 20), was last seen in April 1986, and Katherine Kelly Quinones, 25, was found near Lake Berryessa in December 1986.",
+   "Frackenpohl, a runaway from Seattle, was found in September 1987 below Echo Summit, west of South Lake Tahoe in El Dorado County. Prosecutors described a consistent pattern: the women were kidnapped, bound with parachute cord, silenced with duct tape, sexually assaulted and strangled, and their clothing was cut with scissors that had belonged to Kibbe's mother. Investigators treated the oddly cut clothing as his trademark, according to the AP.",
+   "Kibbe was first identified after a woman he attacked in Sacramento in 1987 escaped. Police recovered a garrote made from two dowels and parachute cord, along with scissors and other items, and investigators later matched the cord to rope found with Frackenpohl's body and at Kibbe's house; all of it carried microscopic dots of red paint, the AP reported. He was arrested in 1988 for Frackenpohl's murder, convicted of first-degree murder in 1991, and sentenced in El Dorado County on May 10, 1991, to 25 years to life. For years prosecutors were unable to file charges in the other deaths.",
+   "In 2003 authorities confronted Kibbe with evidence concerning other women, and a San Joaquin County investigator later tied him to six more killings using newer evidence, including DNA. In 2009, at age 70, he pleaded guilty six times before San Joaquin County Judge George Abdallah Jr. to murders in Amador, Contra Costa, Napa, Sacramento, San Joaquin and Stanislaus counties, covering Burleigh, Brown, Heedick, Quinones, Sabrah and Scott. He received six more life sentences with enhancements for rape and kidnapping. Prosecutors said they dropped the death penalty because he was unlikely ever to face execution, and as part of the deal Kibbe agreed to help find Burleigh's body.",
+   "Searches with Kibbe were hampered by fires and landslides that had altered the terrain, a former San Joaquin County sheriff's investigator told the AP. In 2011 a Napa County deputy searching on his own time found a bone fragment in a dry creekbed near Lake Berryessa, the only remains of Burleigh ever recovered; she was buried in Klamath County, Oregon, where she was born. Kibbe never admitted to killings beyond those he was charged with, although investigators believed he may have killed others in the decade between his first and last known cases. The Wikipedia article also lists Karen Finch, found near Sloughhouse in June 1987, as a suspected victim for whose death he was never charged.",
+   "Shortly after midnight on February 28, 2021, an officer conducting a count at Mule Creek State Prison found Kibbe unresponsive on his cell floor with his cellmate, Jason Budrow, standing nearby. He was pronounced dead at 1:23 a.m. The Amador County Sheriff's Office announced on March 3 that an autopsy showed manual strangulation and classified the death as a homicide. Budrow, already serving life without parole for a 2010 killing in Riverside County, later received an additional consecutive life sentence for killing Kibbe, KTVU reported in 2023."
+  ],
+  "timeline": [
+   {
+    "date": "1939-05-21",
+    "text": "Roger Reece Kibbe born in San Diego County, California."
+   },
+   {
+    "date": "1977-09",
+    "text": "Lou Ellen Burleigh, 21, of Walnut Creek, disappears after going to meet Kibbe about a secretarial job."
+   },
+   {
+    "date": "1986-07-03",
+    "text": "Barbara Ann Scott, 29, is abducted in Pittsburg; her body is left on a golf course in Contra Costa County."
+   },
+   {
+    "date": "1986-07-15",
+    "text": "Stephanie Brown, 19, is found in a drainage ditch in San Joaquin County."
+   },
+   {
+    "date": "1986-08-17",
+    "text": "Charmaine Sabrah, 26, of Sacramento, disappears after her car breaks down along Interstate 5."
+   },
+   {
+    "date": "1986-09-06",
+    "text": "The body of Lora Heedick, last seen in April, is found near Sacramento, according to the Wikipedia article."
+   },
+   {
+    "date": "1986-12-21",
+    "text": "Katherine Kelly Quinones, 25, is found near Lake Berryessa."
+   },
+   {
+    "date": "1987-09",
+    "text": "Darcie Frackenpohl, 17, a runaway from Seattle, is found below Echo Summit near South Lake Tahoe."
+   },
+   {
+    "date": "1988",
+    "text": "Kibbe is arrested for the murder of Darcie Frackenpohl."
+   },
+   {
+    "date": "1991-05-10",
+    "text": "Sentenced in El Dorado County to 25 years to life for the first-degree murder of Frackenpohl."
+   },
+   {
+    "date": "2009-11-05",
+    "text": "Pleads guilty in San Joaquin County to six murders, avoiding the death penalty; receives six more life sentences."
+   },
+   {
+    "date": "2011",
+    "text": "A Napa County deputy finds a bone fragment near Lake Berryessa, later identified as Lou Ellen Burleigh's."
+   },
+   {
+    "date": "2021-02-28",
+    "text": "Found unresponsive in his cell at Mule Creek State Prison and pronounced dead at 1:23 a.m."
+   },
+   {
+    "date": "2021-03-03",
+    "text": "Amador County Sheriff's Office reports autopsy findings of manual strangulation and classifies the death as a homicide."
+   }
+  ],
+  "cases": [
+   "roger-kibbe-victims"
+  ],
+  "tags": [
+   "interstate 5",
+   "strangulation",
+   "guilty plea",
+   "dna evidence",
+   "killed in prison"
+  ],
+  "sources": [
+   {
+    "title": "Associated Press via KOMO News - Remains of I-5 Strangler victim returning home (December 22, 2011)",
+    "url": "https://komonews.com/news/local/remains-of-i-5-strangler-victim-returning-home"
+   },
+   {
+    "title": "Associated Press via KBAK BakersfieldNow - Serial killer known as 'I-5 Strangler' killed in prison (March 1, 2021)",
+    "url": "https://bakersfieldnow.com/news/local/serial-killer-known-as-i-5-strangler-killed-in-prison"
+   },
+   {
+    "title": "CBS San Francisco - 'I-5 Strangler' Roger Reece Kibbe Killed In State Prison Attack (March 1, 2021)",
+    "url": "https://www.cbsnews.com/sanfrancisco/news/i-5-strangler-roger-reece-kibbe-killed-in-state-prison-attack/"
+   },
+   {
+    "title": "Associated Press via KTVU - Autopsy shows that California 'I-5 Strangler' was strangled himself (March 4, 2021)",
+    "url": "https://www.ktvu.com/news/autopsy-shows-that-california-i-5-strangler-was-strangled-himself"
+   },
+   {
+    "title": "KTVU - Inmate suspected in prison attack on Kristin Smart's killer previously murdered 'I-5 Strangler' (October 30, 2023)",
+    "url": "https://www.ktvu.com/news/inmate-suspected-in-prison-attack-on-kristin-smarts-killer-previously-murdered-i-5-strangler"
+   },
+   {
+    "title": "Wikipedia - Roger Kibbe",
+    "url": "https://en.wikipedia.org/wiki/Roger_Kibbe"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Roger_Kibbe",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "samuel-little",
@@ -12041,6 +13711,164 @@
   "verified": "2026-10-29"
  },
  {
+  "id": "velma-barfield",
+  "name": "Velma Barfield",
+  "aliases": [
+   "Margie Velma Barfield",
+   "Margie Bullard Barfield",
+   "Velma Bullard",
+   "Velma Burke"
+  ],
+  "born": "1932",
+  "died": "1984-11-02",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "North Carolina"
+  ],
+  "primaryState": "North Carolina",
+  "cities": [
+   "Lumberton",
+   "St. Pauls"
+  ],
+  "activeFrom": 1974,
+  "activeTo": 1978,
+  "victims": {
+   "convicted": 1,
+   "confessed": 4,
+   "suspected": "5 to 7"
+  },
+  "victimProfile": "People close to her in Robeson County, North Carolina: her mother, two elderly people she cared for as a private nurse, and the man she was dating",
+  "method": [
+   "poisoning",
+   "arsenic"
+  ],
+  "apprehended": null,
+  "captureMethod": "An autopsy found arsenic in Stuart Taylor's body and her sister alerted Lumberton police; questioned by officers in March 1978, she gave statements admitting she had poisoned Taylor and others",
+  "legalStatus": "Convicted",
+  "sentence": "Death, imposed in Bladen County Superior Court in December 1978 for the first-degree murder by poisoning of Stuart Taylor",
+  "fate": "Executed",
+  "fateDetail": "Executed by lethal injection at Central Prison, Raleigh, North Carolina; pronounced dead at 2:15 a.m. on November 2, 1984",
+  "summary": "Executed. Velma Barfield was convicted in 1978 of poisoning her boyfriend Stuart Taylor with arsenic in Robeson County, North Carolina, and admitted poisoning three others, including her mother. In 1984 she became the first woman executed in the US since 1976.",
+  "narrative": [
+   "Margie Velma Barfield was a North Carolina woman convicted in December 1978 of the first-degree murder of Stuart Taylor, a St. Pauls farmer she had been dating, who died of acute arsenic poisoning on February 3, 1978. She also admitted poisoning three other people between 1974 and 1977, including her own mother, but was never tried for those deaths. Sentenced to death in Bladen County Superior Court, she was executed by lethal injection at Central Prison in Raleigh on November 2, 1984, the first woman put to death in the United States since executions resumed in 1976 and the first since 1962.",
+   "Barfield was born in 1932; sources disagree on the exact date and birthplace, with the Wikipedia article giving October 29 in Eastover, North Carolina, and NCpedia giving October 23 on a farm in South Carolina. She married Thomas Burke as a teenager and lived for many years in Parkton, in Robeson County. Burke died in 1969 of smoke inhalation in a house fire. In August 1970 she married Jennings Barfield, a widower, who died in March 1971. NCpedia records that she served time in 1975 for writing bad checks, and court records describe a pattern of forged checks that she said she used to support a dependence on Valium and other prescription drugs.",
+   "According to United Press International, her mother, Lillie Bullard, 74, died in December 1974, and two elderly Lumberton residents who had hired Barfield as a private nurse, Dollie Edwards, 85, and John Henry Lee, 80, died in 1977. Each death was initially put down to natural causes. Taylor fell ill in early 1978, and when he was brought back to the hospital on February 3 he died in the emergency room about an hour after arrival. The autopsy found arsenic in his blood and liver, and the pathologist concluded that he had died from acute arsenic poisoning, according to the North Carolina Supreme Court's opinion.",
+   "NCpedia says Lumberton police were alerted by a call from Barfield's sister. The state Supreme Court opinion records that she was questioned at the sheriff's department on March 10, 1978, and gave four statements to officers on March 13, in one of which she said she had given poison to people before and they had died. She told investigators she had bought an arsenic-based ant poison and had put it in Taylor's drink; at trial she said she had forged checks on his account, feared he would report her, and meant only to make him too ill to examine his bank statements. On March 18, 1978, the bodies of her mother, Edwards and Lee were exhumed, and Jennings Barfield's body followed on May 31. The federal appeals court later noted that autopsies on the exhumed bodies showed arsenic poisoning. Barfield admitted poisoning her mother, Edwards and Lee, but consistently denied any role in the deaths of either husband.",
+   "The case was moved from Robeson County because of pretrial publicity, first to Scotland County and then, over defense objection, to Bladen County. She pleaded not guilty and not guilty by reason of insanity. The prosecution introduced evidence of the four other arsenic deaths to show intent. On December 2, 1978, the jury convicted her of first-degree murder and found three aggravating circumstances: that the killing was for pecuniary gain, was committed to hinder law enforcement, and was especially heinous, atrocious or cruel. It found no mitigating circumstances, and a death sentence was imposed.",
+   "The North Carolina Supreme Court affirmed the conviction and sentence on November 6, 1979. A state post-conviction motion was denied in November 1980, and federal habeas relief was refused by the Eastern District of North Carolina in May 1982 and by the Fourth Circuit in October 1983. During her years on death row Barfield described a religious conversion and drew support from evangelists including Billy Graham. Governor Jim Hunt denied clemency on September 27, 1984, saying her victims had been literally tortured to death, UPI reported. A final claim that drug withdrawal had left her unable to assist at trial was rejected by a Fourth Circuit panel on November 1, 1984, and she chose not to take it to the US Supreme Court.",
+   "Barfield was pronounced dead at 2:15 a.m. on November 2, 1984, aged 52. According to UPI, she told warden Nathan Rice she was sorry for the pain caused to all the families. She donated tissue for transplant, and her corneas, some skin and bone tissue were recovered. She was buried near Parkton beside her first husband. Taylor's daughter, Alice Storms, publicly supported the governor's decision. Barfield's memoir, Woman on Death Row, appeared in 1985, and Jerry Bledsoe's book Death Sentence followed in 1998."
+  ],
+  "timeline": [
+   {
+    "date": "1932",
+    "text": "Margie Velma Bullard born; sources give October 23 or October 29."
+   },
+   {
+    "date": "1969",
+    "text": "First husband Thomas Burke dies of smoke inhalation in a house fire; Barfield denied any role."
+   },
+   {
+    "date": "1971-03",
+    "text": "Second husband Jennings Barfield dies, months after their August 1970 marriage; she denied any role."
+   },
+   {
+    "date": "1974-12",
+    "text": "Her mother, Lillie Bullard, 74, dies; Barfield later admits poisoning her with arsenic."
+   },
+   {
+    "date": "1977",
+    "text": "Dollie Edwards, 85, and John Henry Lee, 80, elderly Lumberton residents in her care as a private nurse, die; she later admits poisoning both."
+   },
+   {
+    "date": "1978-02-03",
+    "text": "Stuart Taylor, 56, dies at a hospital; the autopsy finds acute arsenic poisoning."
+   },
+   {
+    "date": "1978-03-13",
+    "text": "Gives four statements to officers, admitting she had poisoned people before."
+   },
+   {
+    "date": "1978-03-18",
+    "text": "Bodies of Lillie Bullard, Dollie Edwards and John Henry Lee exhumed."
+   },
+   {
+    "date": "1978-05-31",
+    "text": "Body of Jennings Barfield exhumed."
+   },
+   {
+    "date": "1978-12-02",
+    "text": "Convicted in Bladen County Superior Court of the first-degree murder of Stuart Taylor; sentenced to death."
+   },
+   {
+    "date": "1979-11-06",
+    "text": "North Carolina Supreme Court affirms conviction and death sentence."
+   },
+   {
+    "date": "1982-05-21",
+    "text": "US District Court for the Eastern District of North Carolina denies habeas relief."
+   },
+   {
+    "date": "1983-10-03",
+    "text": "Fourth Circuit affirms denial of habeas relief."
+   },
+   {
+    "date": "1984-09-27",
+    "text": "Governor Jim Hunt denies clemency."
+   },
+   {
+    "date": "1984-11-02",
+    "text": "Executed by lethal injection at Central Prison, Raleigh; first woman executed in the US since 1976."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "female killer",
+   "poisoning",
+   "arsenic",
+   "executed",
+   "caregiver",
+   "family victims"
+  ],
+  "sources": [
+   {
+    "title": "North Carolina Supreme Court via Caselaw Access Project - State v. Barfield, 298 N.C. 306 (November 6, 1979)",
+    "url": "https://static.case.law/nc/298/cases/0306-01.json"
+   },
+   {
+    "title": "US District Court, E.D.N.C. via vLex - Barfield v. Harris, 540 F. Supp. 451 (May 21, 1982)",
+    "url": "https://case-law.vlex.com/vid/barfield-v-harris-no-888200068"
+   },
+   {
+    "title": "US Court of Appeals, Fourth Circuit via Caselaw Access Project - Barfield v. Harris, 719 F.2d 58 (October 3, 1983)",
+    "url": "https://static.case.law/f2d/719/cases/0058-01.json"
+   },
+   {
+    "title": "UPI - Margie Velma Barfield today dropped her fight to save her life (November 1, 1984)",
+    "url": "https://www.upi.com/Archives/1984/11/01/Margie-Velma-Barfield-today-dropped-her-fight-to-save/8228468133200/"
+   },
+   {
+    "title": "UPI - A grandmother who poisoned four people with rat killer is executed (November 2, 1984)",
+    "url": "https://www.upi.com/Archives/1984/11/02/A-grandmother-who-poisoned-four-people-with-rat-killer/2336468219600/"
+   },
+   {
+    "title": "UPI - Barfield to be buried near childhood home (November 3, 1984)",
+    "url": "https://www.upi.com/Archives/1984/11/03/Barfield-to-be-buried-near-childhood-home/6230468306000/"
+   },
+   {
+    "title": "NCpedia - Barfield, Margie Velma (2008)",
+    "url": "https://www.ncpedia.org/barfield-margie-velma"
+   },
+   {
+    "title": "Wikipedia - Velma Barfield",
+    "url": "https://en.wikipedia.org/wiki/Velma_Barfield"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Velma_Barfield",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "walter-ellis",
   "name": "Walter Ellis",
   "aliases": [
@@ -12194,6 +14022,282 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Walter_E._Ellis",
   "enriched": true,
   "verified": "2026-10-28"
+ },
+ {
+  "id": "waneta-hoyt",
+  "name": "Waneta Hoyt",
+  "aliases": [
+   "Waneta Ethel Nixon Hoyt",
+   "Waneta Nixon"
+  ],
+  "born": "1946-05-13",
+  "died": "1998",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "New York"
+  ],
+  "primaryState": "New York",
+  "cities": [
+   "Newark Valley",
+   "Owego"
+  ],
+  "activeFrom": 1965,
+  "activeTo": 1971,
+  "victims": {
+   "convicted": 5,
+   "confessed": 5,
+   "suspected": "5"
+  },
+  "victimProfile": "Her own five biological children, aged between 48 days and 28 months, whose deaths were recorded at the time as sudden infant death syndrome",
+  "method": [
+   "suffocation"
+  ],
+  "apprehended": "1994-03-23",
+  "captureMethod": "A prosecutor in Syracuse identified the family from a 1972 medical paper, and after a state police investigation she was questioned at the Owego barracks and confessed, a statement she later recanted",
+  "legalStatus": "Convicted",
+  "sentence": "75 years to life (five consecutive terms of 15 years to life), imposed September 11, 1995",
+  "fate": "Died in prison",
+  "fateDetail": "Bedford Hills Correctional Facility, New York; pancreatic cancer, August 1998, aged 52, while her appeal was pending",
+  "summary": "Died in prison. Waneta Hoyt of Tioga County, New York, was convicted in 1995 of murdering her five children between 1965 and 1971, deaths long attributed to SIDS. She recanted her confession, was sentenced to 75 years to life and died in 1998.",
+  "narrative": [
+   "Waneta Hoyt was a woman from Tioga County, New York, who was convicted in April 1995 of murdering her five biological children, who died between 1965 and 1971. For more than two decades their deaths were attributed to sudden infant death syndrome (SIDS), and two of the children became case studies in an influential medical paper. After confessing to police in March 1994 and then recanting, Hoyt was found guilty by a jury in Owego and sentenced in September 1995 to 75 years to life. She died of pancreatic cancer at Bedford Hills Correctional Facility in August 1998, aged 52, while her appeal was pending.",
+   "Hoyt was born Waneta Nixon in Richford, New York, in 1946 and married Tim Hoyt in 1964, according to the Wikipedia article. Between 1965 and 1971 she gave birth to Eric, James, Julie, Molly and Noah. Each died suddenly, at ages ranging from 48 days to 28 months, according to the forensic psychologist Charles Patrick Ewing, who later evaluated her for the defense. The Wikipedia article gives the deaths as January 1965 (Eric), September 1968 (James, aged about two years and four months, and Julie, aged about seven weeks), June 1970 (Molly) and July 1971 (Noah). Each was recorded at the time as a natural death. The couple later adopted a son, who was a teenager living with them when Hoyt was arrested.",
+   "Molly and Noah had been studied before their deaths by Dr. Alfred Steinschneider, a research pediatrician at the Upstate Medical Center in Syracuse. His 1972 article in the journal Pediatrics, which identified the children only by their initials, used their histories of prolonged apnea to argue that SIDS could be linked to apnea and could run in families. Ewing writes that the article was quickly challenged in letters to the journal, including one from the medical examiner Vincent DiMaio, who wrote that the deaths were most probably homicides. The paper nonetheless stayed in the medical literature for about twenty years, according to Discover magazine, and Ewing writes that it helped spur the wide use of home apnea monitors.",
+   "In 1986 Dr. Linda Norton, a Dallas forensic pathologist consulting on a case in Syracuse, told prosecutor William Fitzpatrick that she believed the mother in the paper had smothered her children, according to the Los Angeles Times. In 1992, by then Onondaga County district attorney, Fitzpatrick traced the family through hospital records. Because the children had died in Tioga County, he referred the case to District Attorney Robert Simpson, who directed the New York State Police to investigate. Pathologists consulted by investigators, including Dr. Michael Baden, concluded that the deaths were not consistent with natural disease, though none had been classified as homicide at the time.",
+   "On March 23, 1994, a local officer she knew approached Hoyt near the post office and introduced her to a state police investigator, who said she was gathering information about SIDS. Hoyt was taken to the state police barracks in Owego, given Miranda warnings and questioned for several hours. By late afternoon she had signed a statement saying she had caused the deaths of all five children, and she told police she could not stand their crying, according to the Los Angeles Times. She was arrested that day and charged with ten counts of second-degree murder, according to the Gale reference Great American Trials. Soon afterward she recanted, saying the police had tricked and pressured her into agreeing with their account.",
+   "Her trial ran from March 30 to April 21, 1995, before Judge Vincent Sgueglia, with public defenders Robert Miller and Raymond Urbanski representing her. The admissibility and reliability of the confession were central issues. Ewing testified that she had dependent and avoidant personality disorders and that her statement was not made knowingly or voluntarily. Steinschneider testified for the defense and, under cross-examination, conceded that for all he knew the children could have been suffocated. Hoyt testified and denied killing her children. The jury convicted her on five counts of murder; the Wikipedia article describes all five as second-degree murder, while the Deseret News reported one count of first-degree and four of second-degree murder. On September 11, 1995, she received consecutive terms of 15 years to life for each child, 75 years to life in total.",
+   "Hoyt's lawyers sought her release while her appeal was pending, but New York did not permit medical parole for prisoners convicted of murder, the Deseret News reported. She died in August 1998. The Wikipedia article states that because she died before her appeal was decided, she was formally exonerated under New York law. The case is frequently cited in discussions of how a single published study shaped thinking about SIDS for two decades."
+  ],
+  "timeline": [
+   {
+    "date": "1946-05-13",
+    "text": "Waneta Nixon born in Richford, New York."
+   },
+   {
+    "date": "1964-01-11",
+    "text": "Marries Tim Hoyt."
+   },
+   {
+    "date": "1965-01-26",
+    "text": "First child, Eric, dies aged about three months; the death is attributed to natural causes."
+   },
+   {
+    "date": "1968-09",
+    "text": "Julie, aged about seven weeks, and James, aged about two years and four months, die."
+   },
+   {
+    "date": "1970-06-05",
+    "text": "Molly dies at about two and a half months, shortly after being studied in a Syracuse hospital."
+   },
+   {
+    "date": "1971-07-28",
+    "text": "Noah, the fifth child, dies at about two and a half months."
+   },
+   {
+    "date": "1972",
+    "text": "Dr. Alfred Steinschneider publishes a Pediatrics article using Molly's and Noah's cases to link apnea and SIDS."
+   },
+   {
+    "date": "1986",
+    "text": "Forensic pathologist Linda Norton tells Syracuse prosecutor William Fitzpatrick she believes the children in the paper were smothered."
+   },
+   {
+    "date": "1992",
+    "text": "Fitzpatrick, now Onondaga County district attorney, identifies the Hoyt family and refers the case to Tioga County."
+   },
+   {
+    "date": "1994-03-23",
+    "text": "Questioned by state police in Owego, Hoyt signs a confession and is arrested and charged with murder; she soon recants."
+   },
+   {
+    "date": "1995-03-30",
+    "text": "Trial opens in Owego before Judge Vincent Sgueglia."
+   },
+   {
+    "date": "1995-04-21",
+    "text": "Jury convicts her on five counts of murder."
+   },
+   {
+    "date": "1995-09-11",
+    "text": "Sentenced to 75 years to life."
+   },
+   {
+    "date": "1998-08",
+    "text": "Dies of pancreatic cancer at Bedford Hills Correctional Facility with her appeal unresolved."
+   }
+  ],
+  "cases": [
+   "vaneta-hoyt-1994"
+  ],
+  "tags": [
+   "infanticide",
+   "filicide",
+   "sids",
+   "recanted confession",
+   "medical research"
+  ],
+  "sources": [
+   {
+    "title": "Los Angeles Times via The Seattle Times - 5 Babies Mourned, But Then A Confession (May 22, 1994)",
+    "url": "https://archive.seattletimes.com/archive/19940522/1911681/5-babies-mourned-but-then-a-confession"
+   },
+   {
+    "title": "Deseret News - Pancreatic cancer claims mom who smothered 5 kids (August 11, 1998)",
+    "url": "https://www.deseret.com/1998/8/11/19396004/pancreatic-cancer-claims-mom-who-smothered-5-kids"
+   },
+   {
+    "title": "Encyclopedia.com (Gale, Great American Trials) - Waneta Hoyt Trial: 1995",
+    "url": "https://www.encyclopedia.com/law/law-magazines/waneta-hoyt-trial-1995"
+   },
+   {
+    "title": "Wiley - Charles Patrick Ewing, Trials of a Forensic Psychologist, chapter 1 excerpt (2008)",
+    "url": "https://catalogimages.wiley.com/images/db/pdf/9780470170724.excerpt.pdf"
+   },
+   {
+    "title": "Discover Magazine - Waneta Hoyt: The Serial Killer Paper (January 16, 2018)",
+    "url": "https://discovermagazine.com/mind/waneta-hoyt-the-serial-killer-paper"
+   },
+   {
+    "title": "Wikipedia - Waneta Hoyt",
+    "url": "https://en.wikipedia.org/wiki/Waneta_Hoyt"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Waneta_Hoyt",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "wayne-nance",
+  "name": "Wayne Nance",
+  "aliases": [
+   "The Missoula Mauler",
+   "Wayne Nathan Nance"
+  ],
+  "born": "1955-10-18",
+  "died": "1986-09-04",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Montana"
+  ],
+  "primaryState": "Montana",
+  "cities": [
+   "Missoula"
+  ],
+  "activeFrom": 1974,
+  "activeTo": 1986,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "6"
+  },
+  "victimProfile": "Mostly women and teenage girls, several of them runaways or acquaintances, plus a married couple in Ravalli County to whom he had delivered furniture",
+  "method": [
+   "shooting",
+   "stabbing"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Died before trial",
+  "sentence": null,
+  "fate": "Killed",
+  "fateDetail": "Shot by Doug Wells during a home invasion at the Wells home in Missoula, Montana; died September 4, 1986, aged 30",
+  "summary": "Killed. Wayne Nance, a Missoula furniture delivery driver, was shot dead in 1986 by a man he attacked at home. Investigators suspect him of at least six killings in western Montana from 1974 to 1985; he was never charged.",
+  "narrative": [
+   "Wayne Nance was a Missoula, Montana, furniture delivery driver whom law enforcement suspects of at least six killings in Missoula and Ravalli counties between 1974 and 1985. He was never charged, tried or convicted of any homicide. In the early hours of September 4, 1986, he broke into the Missoula home of Doug Wells and his wife and attacked them; Wells freed himself, took a rifle and shot Nance, who died aged 30. Every attribution below therefore rests on investigators' conclusions after his death, not on a court finding.",
+   "Nance was born on October 18, 1955, in Clinton, Montana, according to the Wikipedia article, which says teachers and classmates remembered him as academically gifted but eccentric, and that friends recalled him boasting about Satanism. The earliest killing linked to him is that of Donna Pounds, 39, who was shot in the basement of her home in April 1974. She was the mother of some of Nance's school friends. Popular Science reported in 2009 that retired Missoula County investigator Larry Weatherman had briefly suspected the then high-school student, but a grand jury found insufficient evidence to charge him; the Associated Press reported in 2021 that prosecutors were unable to obtain an indictment. The Wikipedia article says a later search of Nance's home turned up evidence linking him to the case.",
+   "The 1985 deaths of Mike and Teresa Shook in Ravalli County are among the cases most firmly tied to him. According to AP reporting, the couple were bound and killed in their home in December 1985 and the house was set on fire; their three children were rescued. Two items stolen from the house were later found at Nance's residence, and the Wikipedia article adds that he had delivered a couch to the couple a few days earlier and that a neighbor saw a pickup matching his.",
+   "Investigators also connected Nance to the remains of young women found in the woods east and south of Missoula. A teenager's skeleton found beside Deer Creek Road on December 24, 1984, and nicknamed Debbie Deer Creek, was identified through DNA in April 2006 as Marcella (Marci) Bachmann, 16, a runaway from Vancouver, Washington. The Oregonian reported that she had lived with Nance for several months under the name Robin and had been shot three times in the head. Popular Science described how strands of dyed hair and a photograph of the woman bar patrons knew as Robin tied her to him. The Missoula County Sheriff's Office describes Bachmann as a known Nance victim, according to CNN reporting.",
+   "Two other cases remain suspicions rather than established links. Devonna Nelson, 15, went missing in 1978; her remains were found near Missoula in 1980 and identified in 1985. The Wikipedia article says Nance had visited Seattle around the time she vanished but has not been definitively linked to her death. A woman found shot twice in the skull near Crystal Creek in September 1985, long known as Christy Crystal Creek, was identified in May 2021 through forensic genetic genealogy by Othram and the sheriff's cold case team as Janet Lee Lucas, 23, of Spokane, last seen in Sandpoint, Idaho, in summer 1983. Othram and the sheriff's office said Nance is suspected but the connection was still under review; Detective Captain Dave Conway called it a cold case homicide investigation.",
+   "The attack that ended Nance's life involved people he knew through work. AP reporting from 1986, summarized in 2021, said Nance entered the Wells home, knocked Doug Wells unconscious and had him tied up, then beat and stabbed him and went upstairs to his wife. Wells freed himself, loaded a rifle and shot Nance. Both spouses survived. The Wikipedia article says police then found photographs of the wife in Nance's possession, some taken along her jogging route.",
+   "Totals vary by source. The AP described Nance in 2021 as suspected in at least six killings, the figure also cited by the Billings Gazette, while the Oregonian in 2006 wrote that police had linked him to at least five deaths. Police reports quoted by CNN say the true number will never be known. Because he died before any charge was filed, none of these killings has been tested in court. His case is the subject of John Coston's book To Kill and Kill Again."
+  ],
+  "timeline": [
+   {
+    "date": "1955-10-18",
+    "text": "Wayne Nathan Nance born in Clinton, Montana."
+   },
+   {
+    "date": "1974-04-11",
+    "text": "Donna Pounds, 39, mother of some of Nance's school friends, is shot dead in her home; a grand jury later finds insufficient evidence to charge Nance."
+   },
+   {
+    "date": "1978-07",
+    "text": "Devonna Nelson, 15, goes missing after a visit to Seattle; Nance is later suspected but never definitively linked."
+   },
+   {
+    "date": "1980-02-27",
+    "text": "A girl's skeleton, later identified as Nelson, is found near Interstate 90 outside Missoula."
+   },
+   {
+    "date": "1984-12-24",
+    "text": "A hiker finds the remains of a teenager near Deer Creek Road, later identified as Marci Bachmann, 16, who had lived with Nance."
+   },
+   {
+    "date": "1985-09",
+    "text": "A hunter finds the remains of a woman shot twice in the skull near Crystal Creek south of Missoula."
+   },
+   {
+    "date": "1985-12-12",
+    "text": "Mike and Teresa Shook are killed in their Ravalli County home, which is set on fire; their three children are rescued."
+   },
+   {
+    "date": "1986-09-04",
+    "text": "Nance attacks Doug Wells and his wife in their Missoula home; Wells frees himself and shoots Nance, who dies aged 30."
+   },
+   {
+    "date": "1986",
+    "text": "Investigators say evidence found at Nance's home ties him to the Shook killings and other cases."
+   },
+   {
+    "date": "2006-04-06",
+    "text": "DNA testing identifies the Deer Creek remains as Marcella Bachmann."
+   },
+   {
+    "date": "2021-05",
+    "text": "The Crystal Creek remains are identified as Janet Lee Lucas, 23, of Spokane; the sheriff's office reviews a possible link to Nance."
+   }
+  ],
+  "cases": [
+   "wayne-nance-montana-1986"
+  ],
+  "tags": [
+   "died before trial",
+   "never charged",
+   "home invasion",
+   "dna identification",
+   "montana"
+  ],
+  "sources": [
+   {
+    "title": "Associated Press via East Idaho News - 1980s Montana shooting victim identified through DNA (May 10, 2021)",
+    "url": "https://www.eastidahonews.com/?p=480218"
+   },
+   {
+    "title": "CNN Newsource via KVIA - A 1985 unsolved homicide case in Montana gets a big break in identifying the victim, thanks to DNA samples (May 11, 2021)",
+    "url": "https://kvia.com/news/us-world/2021/05/11/a-1985-unsolved-homicide-case-in-montana-gets-a-big-break-in-identifying-the-victim-thanks-to-dna-samples/"
+   },
+   {
+    "title": "Othram DNASolves - After 36 years, Christy Crystal Creek is now identified (May 10, 2021)",
+    "url": "https://dnasolves.com/articles/christy_crystal_creek/"
+   },
+   {
+    "title": "The Oregonian via The Doe Network - After years of searching, man puts his sister, mystery to rest (April 24, 2006)",
+    "url": "http://www.doenetwork.org/media/news130.html"
+   },
+   {
+    "title": "Popular Science - Anatomy of a Serial Killer (January 8, 2009)",
+    "url": "https://www.popsci.com/scitech/article/2009-11/anatomy-serial-killer/"
+   },
+   {
+    "title": "Wikipedia - Wayne Nance",
+    "url": "https://en.wikipedia.org/wiki/Wayne_Nance"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Nance",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "wayne-williams",
@@ -12494,6 +14598,153 @@
    }
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/West_Mesa_murders",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "westley-allan-dodd",
+  "name": "Westley Allan Dodd",
+  "aliases": [
+   "The Vancouver Child Killer"
+  ],
+  "born": "1961-07-03",
+  "died": "1993-01-05",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Washington"
+  ],
+  "primaryState": "Washington",
+  "cities": [
+   "Vancouver",
+   "Camas",
+   "Portland"
+  ],
+  "activeFrom": 1989,
+  "activeTo": 1989,
+  "victims": {
+   "convicted": 3,
+   "confessed": 3,
+   "suspected": "3"
+  },
+  "victimProfile": "Young boys aged 4 to 11, two of them brothers riding bicycles in a Vancouver park and one taken from a Portland school playground",
+  "method": [
+   "stabbing",
+   "strangulation"
+  ],
+  "apprehended": "1989-11-13",
+  "captureMethod": "After a failed attempt to abduct a 6-year-old boy from a movie theater in Camas, Washington, he was chased by the boy's mother's boyfriend, who held him for police when his car broke down",
+  "legalStatus": "Convicted",
+  "sentence": "Death, imposed by a Clark County jury on July 14, 1990, for the aggravated first-degree murders of Cole Neer, Billy Neer and Lee Iseli; plus a 50-year determinate sentence for attempted first-degree murder",
+  "fate": "Executed",
+  "fateDetail": "Hanged at the Washington State Penitentiary, Walla Walla, at 12:05 a.m. on January 5, 1993, after waiving his appeals; pronounced dead at 12:09 a.m.",
+  "summary": "Executed. Westley Allan Dodd pleaded guilty to murdering three boys in the Vancouver, Washington area in 1989. A jury sentenced him to death in 1990; he waived his appeals and was hanged at Walla Walla on January 5, 1993.",
+  "narrative": [
+   "Westley Allan Dodd was an American serial killer who murdered three young boys in and around Vancouver, Washington, in the autumn of 1989. Arrested in November 1989 after a failed abduction at a movie theater in Camas, he confessed to all three killings, pleaded guilty in June 1990 and was sentenced to death by a Clark County jury on July 14, 1990. He refused to appeal, chose hanging over lethal injection, and was hanged at the Washington State Penitentiary in Walla Walla on January 5, 1993, at the age of 31.",
+   "Dodd was born on July 3, 1961, in Toppenish, Washington, and grew up mostly in Eastern Washington, attending schools in Richland. The Seattle Times, in a profile published two days before his execution, traced a long record of offenses against children that began in his teens and continued through a Navy enlistment that ended in discharge. In 1983 he pleaded guilty in Idaho to an offense against a minor and served a reduced jail term, and in 1987 he was charged in Seattle with attempted kidnapping after trying to lure a young boy into a building; he was convicted of a lesser gross misdemeanor and served 118 days. UPI reported at the time of his arrest that he had completed a sexual deviancy treatment program in Washington.",
+   "On September 4, 1989, the bodies of two brothers, Cole Neer, 11, and William, known as Billy, 10, were found in David Douglas Park in Vancouver, where they had been riding their bicycles. Both had been stabbed. On October 29, 1989, four-year-old Lee Iseli was taken from a school playground in Portland, Oregon, around midday. He was killed the next morning in Vancouver, and his body was found near Vancouver Lake; the Washington Supreme Court opinion gives the date of discovery as November 1, while UPI reported it as October 31. A two-state police task force that included the FBI worked the killings, and a $10,000 reward was offered, but UPI reported that Dodd had not been among the roughly 50 people investigators were examining.",
+   "The case was solved on November 13, 1989. Dodd tried to take a six-year-old boy from the restroom of the New Liberty Theatre in Camas. The boy broke free, theater staff raised the alarm, and William Graves of Washougal, the boyfriend of the boy's mother, followed Dodd's car. When the car broke down nearby, Graves held Dodd until police arrived. According to the Washington Supreme Court, detectives interviewed him from late that night into the early hours of November 14; he first denied any knowledge of the murders, then admitted the attempted abduction and the three killings, and repeated the account in a taped interview. A search of his Vancouver home turned up a diary and other evidence, according to the Wikipedia article.",
+   "Prosecutors charged Dodd with three counts of aggravated first-degree murder, attempted first-degree murder and first-degree kidnapping. He initially pleaded not guilty, but changed his pleas to guilty in June 1990 after adverse rulings on evidence. At the penalty phase in Clark County Superior Court he testified and asked for death, according to the Wikipedia article, and on July 14, 1990, the jury returned death sentences for the murders of the Neer brothers and Lee Iseli. He also received a 50-year sentence for the attempted murder. Washington law at the time allowed a condemned prisoner to choose between lethal injection and hanging, and Dodd chose hanging.",
+   "Dodd declined to appeal. After a June 1991 hearing, the trial court found him competent and his waiver knowing and voluntary. On October 8, 1992, the Washington Supreme Court held in State v. Dodd that a defendant may waive general appeal but not the mandatory statutory review of a death sentence; conducting that review, it found the sentence supported by the evidence and not disproportionate, and affirmed. Civil liberties groups, including the American Civil Liberties Union, argued that hanging was cruel, but their challenges did not stop the execution. On November 30, 1992, Judge Robert Harris reaffirmed Dodd's competence and signed a death warrant setting the date for January 5, 1993.",
+   "Dodd was hanged shortly after midnight on January 5, 1993, and pronounced dead at 12:09 a.m. Clair Neer, the father of Cole and Billy, and Jewell Cornell, Lee Iseli's mother, were among the witnesses. The Seattle Times reported that it was the first execution in Washington since 1963 and the first legal hanging anywhere in the United States since 1965. According to the Wikipedia article, his case was later cited in the debate that led Washington to authorize civil commitment of people found to be sexually violent predators."
+  ],
+  "timeline": [
+   {
+    "date": "1961-07-03",
+    "text": "Westley Allan Dodd born in Toppenish, Washington."
+   },
+   {
+    "date": "1983",
+    "text": "Pleads guilty in Idaho to an offense against a minor; serves a reduced jail term."
+   },
+   {
+    "date": "1987",
+    "text": "Charged in Seattle with attempted kidnapping of a young boy; convicted of a lesser gross misdemeanor and serves 118 days."
+   },
+   {
+    "date": "1989-09-04",
+    "text": "Brothers Cole Neer, 11, and Billy Neer, 10, are found killed in David Douglas Park, Vancouver, Washington."
+   },
+   {
+    "date": "1989-10-29",
+    "text": "Lee Iseli, 4, is taken from a school playground in Portland, Oregon; he is killed the next morning in Vancouver."
+   },
+   {
+    "date": "1989-11-01",
+    "text": "Lee Iseli's body is found near Vancouver Lake, according to the Washington Supreme Court (UPI reported October 31)."
+   },
+   {
+    "date": "1989-11-13",
+    "text": "Dodd tries to abduct a six-year-old boy from the New Liberty Theatre in Camas; he is caught by a pursuing bystander and arrested."
+   },
+   {
+    "date": "1989-11-14",
+    "text": "Confesses to detectives to the three murders and is charged with aggravated first-degree murder."
+   },
+   {
+    "date": "1990-06",
+    "text": "Changes his pleas from not guilty to guilty on all counts."
+   },
+   {
+    "date": "1990-07-14",
+    "text": "Clark County jury sentences him to death for the three murders."
+   },
+   {
+    "date": "1991-06",
+    "text": "Trial court finds him competent to waive his appeals."
+   },
+   {
+    "date": "1992-10-08",
+    "text": "Washington Supreme Court affirms the death sentence in State v. Dodd."
+   },
+   {
+    "date": "1992-11-30",
+    "text": "Judge Robert Harris signs the death warrant setting execution for January 5, 1993."
+   },
+   {
+    "date": "1993-01-05",
+    "text": "Hanged at the Washington State Penitentiary in Walla Walla; the first legal hanging in the United States since 1965."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "child victims",
+   "guilty plea",
+   "hanging",
+   "waived appeals",
+   "bystander capture"
+  ],
+  "sources": [
+   {
+    "title": "UPI - Arrest made in three child murders (November 15, 1989)",
+    "url": "https://www.upi.com/Archives/1989/11/15/Arrest-made-in-three-child-murders/2878627109200/"
+   },
+   {
+    "title": "Washington Supreme Court via Caselaw Access Project - State v. Dodd, 120 Wn.2d 1 (October 8, 1992)",
+    "url": "https://static.case.law/wash-2d/120/cases/0001-01.json"
+   },
+   {
+    "title": "The Seattle Times - Only Dodd May Be Able To Save Self -- But He's Firm On Having Jan. 5 Execution Date (December 1, 1992)",
+    "url": "https://archive.seattletimes.com/archive/19921201/1527567/only-dodd-may-be-able-to-save-self----but-hes-firm-on-having-jan-5-execution-date"
+   },
+   {
+    "title": "The Seattle Times - Westley Dodd: A Long, Steady Slide Into Dark Desperation (January 3, 1993)",
+    "url": "https://archive.seattletimes.com/archive/19930103/1677933/westley-dodd-a-long-steady-slide-into-dark-desperation"
+   },
+   {
+    "title": "The Seattle Times - Dodd Hanged (January 5, 1993)",
+    "url": "https://archive.seattletimes.com/archive/19930105/1678300/dodd-hanged"
+   },
+   {
+    "title": "TIME - Lessons of the Gruesome Case Behind One of America's Last Legal Executions by Hanging (January 5, 2018)",
+    "url": "https://time.com/5062940/westley-allan-dodd-execution-history/"
+   },
+   {
+    "title": "Wikipedia - Westley Allan Dodd",
+    "url": "https://en.wikipedia.org/wiki/Westley_Allan_Dodd"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Westley_Allan_Dodd",
   "enriched": true,
   "verified": "2026-10-29"
  },

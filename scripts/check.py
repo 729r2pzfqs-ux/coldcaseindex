@@ -201,7 +201,7 @@ def main():
                  'vermont', 'virginia', 'washington', 'west-virginia', 'wisconsin', 'wyoming'}
     sk_reserved = {'lists', 'timeline', 'statistics', 'how-many-are-active-in-the-us', 'which-state-has-the-most'}
     sk_legal = {'Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial', 'Confessed, never tried',
-                'Suspected, never charged', 'Unidentified'}
+                'Not guilty by reason of insanity', 'Suspected, never charged', 'Unidentified'}
     sk_fate = {'Imprisoned', 'Executed', 'Died in prison', 'Died (other)', 'Suicide', 'Killed', 'Released',
                'At large', 'Unknown'}
     sk_ids = set()

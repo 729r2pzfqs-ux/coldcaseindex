@@ -36,7 +36,7 @@ SEARCH_VOLUME = {
 }
 
 LEGAL = {'Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial', 'Confessed, never tried',
-         'Suspected, never charged', 'Unidentified'}
+         'Not guilty by reason of insanity', 'Suspected, never charged', 'Unidentified'}
 FATE = {'Imprisoned', 'Executed', 'Died in prison', 'Died (other)', 'Suicide', 'Killed', 'Released',
         'At large', 'Unknown'}
 REQUIRED = ['id', 'name', 'aliases', 'born', 'died', 'gender', 'country', 'states', 'primaryState',

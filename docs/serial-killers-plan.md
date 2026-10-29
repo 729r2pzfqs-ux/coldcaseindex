@@ -1,13 +1,16 @@
 # Serial killers category: implementation plan
 
-Status: phase 2 shipped 2026-10-29. Live: 61 profiles (8 women, 10 unidentified series),
-hub, 51 state pages (13 indexable: California, Florida, Illinois, Indiana, Kansas, Michigan,
-New York, Ohio, Oregon, Pennsylvania, Texas, Washington, Wisconsin), all 7 lists indexable,
-timeline, statistics, both answer pages; 429 checked sources; 36 profile-to-case links.
-Decisions: US only at launch, 3-plus victim threshold (Heidnik and Knotek under recorded
-exceptions), build biggest to smallest by search volume. Next: Virginia (600/mo) needs one
-more profile to index; Colorado, Missouri, Massachusetts, Louisiana, Kentucky sit at 1 to 2;
-the collect script's `candidates`, `infobox` and `select` stages are still to be written.
+Status: phase 3, wave 1 shipped 2026-10-29. Live: 96 profiles (13 women, 13 unidentified or
+never-charged series), hub, 51 state pages (22 indexable: California, Colorado, Connecticut,
+Florida, Illinois, Indiana, Kansas, Kentucky, Louisiana, Massachusetts, Michigan, Missouri,
+New Jersey, New York, Ohio, Oregon, Pennsylvania, Texas, Utah, Virginia, Washington,
+Wisconsin), all 7 lists indexable, timeline, statistics, both answer pages. Phase 3 added 35
+profiles, including Rex Heuermann (guilty plea April 2026, sentenced June 2026) and Alan Wade
+Wilmer Sr. (Colonial Parkway, `Suspected, never charged`, named by Virginia State Police and
+the FBI). New `legalStatus` value `Not guilty by reason of insanity` (Jane Toppan). New
+profiles have no `SEARCH_VOLUME` entry yet, so they do not appear on the famous list. Next:
+Georgia, Alaska, Vermont and Nebraska sit at 2 (need 3); the collect script's `candidates`,
+`infobox` and `select` stages are still to be written.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
 keyword cluster (75K/mo head term at KD 17; "california serial killers" 2K at KD 1;
@@ -197,7 +200,8 @@ Field rules (enforced by `check.py`, section 7.4):
 - `id`: slug, unique across profiles **and** must not equal any state slug or the reserved
   words `lists`, `timeline`, `statistics`, because all three live under `/serial-killers/`.
 - `legalStatus` enum: `Convicted`, `Convicted (overturned)`, `Died before trial`,
-  `Killed during arrest`, `Confessed, never tried`, `Charged`, `Suspected, never charged`,
+  `Killed during arrest`, `Confessed, never tried`, `Not guilty by reason of insanity` (added
+  2026-10-29 for Jane Toppan), `Charged`, `Suspected, never charged`,
   `Unidentified`. Nothing in the profile may go further than this field. A person with
   `Suspected, never charged` is only included when an official body publicly named them
   (coroner, prosecutor, police) and the profile says so in its first paragraph.
