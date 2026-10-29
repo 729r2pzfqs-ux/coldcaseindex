@@ -460,8 +460,8 @@
 "published": "2026-09-29"
 },
 "cases/boston-strangler/index.html": {
-"hash": "0940a49b7638cc0d",
-"modified": "2026-10-28",
+"hash": "24c0660febc6b467",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/botham-jean/index.html": {
@@ -545,8 +545,8 @@
 "published": "2026-07-09"
 },
 "cases/btk-victims/index.html": {
-"hash": "cc4a5de8c238a569",
-"modified": "2026-10-28",
+"hash": "97bc2e3477b2c38e",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/caleb-harris-2024/index.html": {
@@ -740,8 +740,8 @@
 "published": "2026-07-09"
 },
 "cases/colonial-pkwy-murders/index.html": {
-"hash": "8d67d15914976e2f",
-"modified": "2026-10-28",
+"hash": "25c1f442a8ad7e00",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/connecticut-river-valley-killer/index.html": {
@@ -970,8 +970,8 @@
 "published": "2026-07-08"
 },
 "cases/derrick-todd-lee-2003/index.html": {
-"hash": "da5ea9e47c6f4927",
-"modified": "2026-10-28",
+"hash": "31771b83be981905",
+"modified": "2026-10-29",
 "published": "2026-07-09"
 },
 "cases/devonte-hart-family-2018/index.html": {
@@ -1080,8 +1080,8 @@
 "published": "2026-07-08"
 },
 "cases/eastbound-strangler-2006/index.html": {
-"hash": "97bca3110840bbb8",
-"modified": "2026-10-28",
+"hash": "2c7a2fc0e6de4f2e",
+"modified": "2026-10-29",
 "published": "2026-07-09"
 },
 "cases/ebby-steppach-2015/index.html": {
@@ -1090,8 +1090,8 @@
 "published": "2026-09-29"
 },
 "cases/eklutna-annie-1980/index.html": {
-"hash": "d09bb5688218b704",
-"modified": "2026-10-28",
+"hash": "fa04a9defb949b61",
+"modified": "2026-10-29",
 "published": "2026-07-09"
 },
 "cases/el-dorado-jane-doe-1991/index.html": {
@@ -2300,8 +2300,8 @@
 "published": "2026-07-09"
 },
 "cases/long-island-serial-killer/index.html": {
-"hash": "289f6cd84527c8ad",
-"modified": "2026-10-28",
+"hash": "761112938ce60630",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/lord-lucan-1974/index.html": {
@@ -2690,8 +2690,8 @@
 "published": "2026-09-29"
 },
 "cases/new-bedford-highway-killer/index.html": {
-"hash": "5d75748d233292cf",
-"modified": "2026-10-28",
+"hash": "65145158d62dcfc5",
+"modified": "2026-10-29",
 "published": "2026-07-08"
 },
 "cases/new-britain-jane-doe-1991/index.html": {
@@ -3070,8 +3070,8 @@
 "published": "2026-07-09"
 },
 "cases/robert-hansen-victims/index.html": {
-"hash": "1fc5b34fb3a96fdb",
-"modified": "2026-10-28",
+"hash": "c10533120f82280e",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/robert-kennedy/index.html": {
@@ -3250,8 +3250,8 @@
 "published": "2026-07-09"
 },
 "cases/shannan-gilbert-2010/index.html": {
-"hash": "d7d0ef942603aa33",
-"modified": "2026-10-28",
+"hash": "0f248dbb40dea430",
+"modified": "2026-10-29",
 "published": "2026-07-09"
 },
 "cases/shannon-melendi-1994/index.html": {
@@ -3800,8 +3800,8 @@
 "published": "2026-07-09"
 },
 "cases/wayne-williams-victims/index.html": {
-"hash": "fdccf72fce8d82ba",
-"modified": "2026-10-28",
+"hash": "f89553c4b64eb87e",
+"modified": "2026-10-29",
 "published": "2026-03-04"
 },
 "cases/wendy-jerome-1984/index.html": {
@@ -4390,8 +4390,8 @@
 "published": "2026-09-29"
 },
 "decades/2010s/index.html": {
-"hash": "8e41445eba5d7a81",
-"modified": "2026-10-28",
+"hash": "b2870978e3a8d035",
+"modified": "2026-10-29",
 "published": "2026-09-29"
 },
 "decades/2020s/index.html": {
@@ -4485,52 +4485,72 @@
 "published": "2026-07-06"
 },
 "serial-killers/aileen-wuornos/index.html": {
-"hash": "957583abf288420f",
+"hash": "f203ffd02bf915d4",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/alabama/index.html": {
-"hash": "0995b948236e0bd0",
+"hash": "aba60f562686c5cd",
 "modified": "2026-10-29",
 "published": "2026-10-28"
+},
+"serial-killers/alan-wade-wilmer/index.html": {
+"hash": "5dfd349375f625ba",
+"modified": "2026-10-29",
+"published": "2026-10-29"
 },
 "serial-killers/alaska/index.html": {
-"hash": "f6d3d361d0d400fb",
+"hash": "70466e9e1a6c7e75",
 "modified": "2026-10-29",
 "published": "2026-10-28"
+},
+"serial-killers/albert-desalvo/index.html": {
+"hash": "09eed5647f74d247",
+"modified": "2026-10-29",
+"published": "2026-10-29"
 },
 "serial-killers/albert-fish/index.html": {
-"hash": "1b1620e503926cff",
+"hash": "ce1a564099af5b27",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/alfredo-prieto/index.html": {
+"hash": "0c655a67b8f044f5",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/angel-resendiz/index.html": {
-"hash": "582e20bdfd9f322f",
+"hash": "1708612369aa385d",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/anthony-sowell/index.html": {
-"hash": "a805584abbf64044",
+"hash": "683a8cbc604bc0ab",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/arizona/index.html": {
-"hash": "96e9ef6cf762d15e",
+"hash": "dcad5554201910a5",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/arkansas/index.html": {
-"hash": "8c57061a1042126f",
+"hash": "f3b89dabcf25a4e3",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/arthur-gary-bishop/index.html": {
+"hash": "b5d59f74a0ebb310",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/arthur-shawcross/index.html": {
-"hash": "4122823ea0ca335d",
+"hash": "a94d0a4bdbec9313",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/axeman-of-new-orleans/index.html": {
-"hash": "d6becf1cd3e6c89a",
+"hash": "74e7799ae63dc3a5",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
@@ -4540,572 +4560,652 @@
 "published": "2026-10-29"
 },
 "serial-killers/bobby-joe-long/index.html": {
-"hash": "38002c7e76c32feb",
+"hash": "ce4502d0f3b16c27",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/california/index.html": {
-"hash": "1e0e85827d82de69",
+"hash": "5627751c5b5877f5",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/carl-panzram/index.html": {
-"hash": "24c60ecc0dc1e601",
+"hash": "1d9663478d1476a7",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/charles-cullen/index.html": {
-"hash": "4e4859d408fb236a",
+"hash": "e7c545ca9aee5691",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/christopher-wilder/index.html": {
-"hash": "bf1f1b184eddced7",
+"hash": "c0e223e85aa6264d",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/cleveland-torso-murderer/index.html": {
-"hash": "156da4691ba0a83c",
+"hash": "4b82b69eaf3ae402",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/colorado/index.html": {
-"hash": "48d0bdf92c7e450f",
+"hash": "6d9427edfffc7924",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/connecticut-river-valley-killer/index.html": {
-"hash": "7c9bfeea81d36148",
+"hash": "e7a8dd243205fe59",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/connecticut/index.html": {
-"hash": "e685e9361b53a64a",
+"hash": "e2a868a4daa0fdab",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/coral-eugene-watts/index.html": {
-"hash": "6297cb9573de2405",
+"hash": "2eac48623b1818de",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/danny-rolling/index.html": {
-"hash": "b2518619ad71b563",
+"hash": "495a669577f40d44",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/david-berkowitz/index.html": {
-"hash": "578317234e15138e",
+"hash": "fa65b724f88ef0f9",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/dean-corll/index.html": {
-"hash": "4287149bbee8414d",
+"hash": "73e563efc34632cd",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/delaware/index.html": {
-"hash": "d3a06be933282d77",
+"hash": "afb6310ccb2aa3c9",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/dennis-rader/index.html": {
+"hash": "a09bf8133bc15c9d",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
+"serial-killers/derrick-todd-lee/index.html": {
+"hash": "3f60d327ef456e7f",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/district-of-columbia/index.html": {
-"hash": "217baf652237abf6",
+"hash": "b210e53f8c64b388",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/donald-harvey/index.html": {
-"hash": "faa66911ab5b39bb",
+"hash": "eebc03123fe79a16",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/dorothea-puente/index.html": {
-"hash": "ce997324a1c83bfd",
+"hash": "76f6ca55043ca9bc",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
+"serial-killers/eastbound-strangler/index.html": {
+"hash": "85ddeada522315d7",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/edmund-kemper/index.html": {
-"hash": "7a5cabe203dbdffb",
+"hash": "a2c083686b333918",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/florida/index.html": {
-"hash": "eda1b85d6b79c09a",
+"hash": "51175cb161281f1a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/freeway-phantom/index.html": {
-"hash": "f8c000e570d06f95",
+"hash": "c7b281d18055785a",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/gary-heidnik/index.html": {
-"hash": "d6b9d900483ff630",
+"hash": "4dd22dd33b56c18d",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/gary-ridgway/index.html": {
-"hash": "13dffc325d2f3acb",
+"hash": "2d858a60e669666c",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/genene-jones/index.html": {
-"hash": "d266cec0345fa7ea",
+"hash": "a010ff178a789b1c",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/georgia/index.html": {
-"hash": "40c34b24f316f4e3",
+"hash": "217f1ac5f128c274",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/h-h-holmes/index.html": {
-"hash": "d0c4a7a7c2dcefe3",
+"hash": "bc27b70d9169c9c7",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/hawaii/index.html": {
-"hash": "6925b4b05e57f2dd",
+"hash": "38737e5f51467a12",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/henry-lee-lucas/index.html": {
-"hash": "0ee8a7faf65e5273",
+"hash": "6c78127f24a27402",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/herb-baumeister/index.html": {
-"hash": "9ff8e722860369ec",
+"hash": "ec8d1f1957c08090",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/honolulu-strangler/index.html": {
-"hash": "ca8523d019aab7f2",
+"hash": "46fd1547414b3f7d",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/how-many-are-active-in-the-us/index.html": {
-"hash": "a0df86202ee7c5dd",
+"hash": "d2333045b8ddeda6",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/i-70-killer/index.html": {
-"hash": "84c3bd445ae29044",
+"hash": "073c14e5c0d65344",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/idaho/index.html": {
-"hash": "cc0a4828ec8758fa",
+"hash": "5f040c8c87e98942",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/illinois/index.html": {
-"hash": "320b50fab93a316c",
+"hash": "56a99eb2ab08d448",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/index.html": {
-"hash": "f84ef5671792de4b",
+"hash": "76e51256df732c58",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/indiana/index.html": {
-"hash": "ed2dd0482b247663",
+"hash": "038ced9b13b86c8e",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/iowa/index.html": {
-"hash": "84efc0f386e52118",
+"hash": "1580d8a5ae40318a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/israel-keyes/index.html": {
-"hash": "8be5b27db53a5536",
+"hash": "8023332189f55d33",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/jeffrey-dahmer/index.html": {
-"hash": "4532b23bb86fa73e",
+"hash": "dc149fc6f9a2e0b7",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/jerry-brudos/index.html": {
-"hash": "c9a4bf61878875a6",
+"hash": "f74ef2fb7fc7dd05",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/joel-rifkin/index.html": {
-"hash": "565e02d33712ad89",
+"hash": "823617f458352eee",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/john-wayne-gacy/index.html": {
-"hash": "c3b89e2da34a719f",
+"hash": "563285690a069aa1",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/joseph-deangelo/index.html": {
-"hash": "70994f936f93c1ea",
+"hash": "207f126ac77fbde2",
 "modified": "2026-10-29",
 "published": "2026-10-28"
+},
+"serial-killers/joseph-paul-franklin/index.html": {
+"hash": "54e9c012da7055d7",
+"modified": "2026-10-29",
+"published": "2026-10-29"
 },
 "serial-killers/kansas/index.html": {
-"hash": "e1a5eb1f8167269b",
+"hash": "94a9699fc09329dd",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/keith-jesperson/index.html": {
+"hash": "ea59a0229ef65bf1",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/kenneth-bianchi/index.html": {
-"hash": "1fee1c90b81286fb",
+"hash": "60565891e51f52c7",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/kenneth-mcduff/index.html": {
-"hash": "43d5987543fb9f71",
+"hash": "cce4abe4465e4edd",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/kentucky/index.html": {
-"hash": "f21188ca69e46ea2",
+"hash": "bba4f543e1cbd45c",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/khalil-wheeler-weaver/index.html": {
+"hash": "669483a97dcb8bfc",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/kristen-gilbert/index.html": {
-"hash": "496093533d89689a",
+"hash": "0ff9a33429ddb427",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/larry-eyler/index.html": {
-"hash": "95090fd30225a44a",
+"hash": "047ee9f2b3c85930",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lawrence-bittaker/index.html": {
-"hash": "65cc76bb8ba70b2d",
+"hash": "103123e4c4910f06",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/died-in-prison/index.html": {
-"hash": "0ed6ea34c7b8d221",
+"hash": "cbde84dd43533d05",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/executed/index.html": {
-"hash": "e3554e721e5989d3",
+"hash": "603011e83b1c4946",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/famous/index.html": {
-"hash": "e1aa47a2fbe51c64",
+"hash": "33b2b0bfaa93b863",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/female/index.html": {
-"hash": "440f06c906156381",
+"hash": "42244e679a276cf5",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/index.html": {
-"hash": "0a414021738e23f9",
+"hash": "a4672f1f9b2a7d13",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/most-victims/index.html": {
-"hash": "17d12903327b1ac4",
+"hash": "70f4e0c719c754cb",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/never-caught/index.html": {
-"hash": "c1cfd4fd741f2da0",
+"hash": "5903f7d98a27a855",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lists/still-alive/index.html": {
-"hash": "9237678e379b6a17",
+"hash": "ecfb27569c01d123",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/lonnie-franklin/index.html": {
-"hash": "f08577257e481e9e",
+"hash": "5ed7444a367e1967",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/lorenzo-gilyard/index.html": {
+"hash": "8f9c8795335ce77e",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/louisiana/index.html": {
-"hash": "ceaae29488500bb6",
+"hash": "272577d000cfdc94",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/maine/index.html": {
-"hash": "bdc1fee037fff6dd",
+"hash": "88e083913c465be1",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/marybeth-tinning/index.html": {
-"hash": "09c1a81b062f3b48",
+"hash": "e235465477392c4d",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/maryland/index.html": {
-"hash": "4ba5e54bfb3f1358",
+"hash": "eb2b03fa2bb012cb",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/massachusetts/index.html": {
-"hash": "9d900747df7ab324",
+"hash": "82b69939a9693a1a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/michigan/index.html": {
-"hash": "55af47eff42b2704",
+"hash": "cef612df13adb6b1",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/minnesota/index.html": {
-"hash": "3ab4f2c4b6f6fc74",
+"hash": "801ca1ce90736905",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/mississippi/index.html": {
-"hash": "aa8433f02e76d2f6",
+"hash": "4a609fb0957a80a5",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/missouri/index.html": {
-"hash": "488273b46e39548a",
+"hash": "64d556f2b9673524",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/montana/index.html": {
-"hash": "268e42c7f5920ba2",
+"hash": "7c2d5e88f71e6e66",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/nannie-doss/index.html": {
-"hash": "ef308e08268bb187",
+"hash": "758bad169ef52923",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/nebraska/index.html": {
-"hash": "8fe916837beddc6f",
+"hash": "537e3c2171d15819",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/nevada/index.html": {
-"hash": "1f88f006fce7b157",
+"hash": "44ea63a427e8b49a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/new-bedford-highway-killer/index.html": {
+"hash": "51961748150e1368",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/new-hampshire/index.html": {
-"hash": "fb11bb92d67a1195",
+"hash": "15437ac96e826eef",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/new-jersey/index.html": {
-"hash": "0a4bf53e434ba7c0",
+"hash": "697691efe0bd4593",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/new-mexico/index.html": {
-"hash": "57b3251f9490968e",
+"hash": "22cdb0275baf240a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/new-york/index.html": {
-"hash": "ae3f7882186dc828",
+"hash": "17d8fdea3b943afb",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/north-carolina/index.html": {
-"hash": "0ffde9e5769daf7a",
+"hash": "77fc788ca6949d19",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/north-dakota/index.html": {
-"hash": "30df8efd5f847816",
+"hash": "34098e90382ff256",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/oakland-county-child-killer/index.html": {
-"hash": "2a4b1f8fcc4023f0",
+"hash": "5ad0060f561be6b0",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/ohio/index.html": {
-"hash": "43fcfde5e4c9421f",
+"hash": "653adb8a6b57eae2",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/oklahoma/index.html": {
-"hash": "748eb1a6e4889d89",
+"hash": "d6c7817ea9a021ed",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/oregon/index.html": {
-"hash": "4d1e1a9e529d0522",
+"hash": "342f4363d6fc4d92",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/ottis-toole/index.html": {
-"hash": "0278634ca0230729",
+"hash": "3628fc303185fb28",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/pennsylvania/index.html": {
-"hash": "19feb8bf54b56537",
+"hash": "89066a8aea4d874f",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/randy-kraft/index.html": {
-"hash": "ebbe191dbf612fd1",
+"hash": "d2a617d34c5d28dc",
 "modified": "2026-10-29",
 "published": "2026-10-28"
+},
+"serial-killers/rex-heuermann/index.html": {
+"hash": "700c860c2e2f9e08",
+"modified": "2026-10-29",
+"published": "2026-10-29"
 },
 "serial-killers/rhode-island/index.html": {
-"hash": "d769daeffd4fbf88",
+"hash": "1b163ce8d91fea1a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/richard-chase/index.html": {
+"hash": "184ac13b81f65691",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/richard-cottingham/index.html": {
-"hash": "48c144a2d82d3a67",
+"hash": "4797694b732ad6bb",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/richard-ramirez/index.html": {
-"hash": "d53aeb549c4d254b",
+"hash": "159091f779aa65ed",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/robert-berdella/index.html": {
-"hash": "fe1a1a057a9d1aca",
+"hash": "f99483e5719871b9",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/robert-foley/index.html": {
+"hash": "e33dd5ab99cf84ab",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
+"serial-killers/robert-hansen/index.html": {
+"hash": "31eef4a32b20f858",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/robert-yates/index.html": {
-"hash": "775594a1ff7f8eb8",
+"hash": "8d36bf218b35468e",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/rodney-alcala/index.html": {
-"hash": "eef3555352f7f1e6",
+"hash": "ba58c46f071bab1d",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/samuel-little/index.html": {
+"hash": "4d081b726472e4ba",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
+"serial-killers/scott-kimball/index.html": {
+"hash": "4d5980149bacc7b2",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/shawn-grate/index.html": {
-"hash": "e4d31e740a8c0269",
+"hash": "5fc5652d22e87b5c",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/shelly-knotek/index.html": {
-"hash": "aa4af04ab854c6c3",
+"hash": "f7af15b59d349a4d",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/south-carolina/index.html": {
-"hash": "14fdae7754c4635d",
+"hash": "6ba3f93cc1f5e43e",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/south-dakota/index.html": {
-"hash": "29c38d96f2ee9461",
+"hash": "759cb5795a51e98e",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/statistics/index.html": {
-"hash": "0e4f5fe0b6931add",
+"hash": "e3813ec22b197c70",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/ted-bundy/index.html": {
-"hash": "ff84526a72f3a769",
+"hash": "deccaa600283a17f",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/tennessee/index.html": {
-"hash": "848f77ff7854c5d2",
+"hash": "f425a73ec10a3870",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/texarkana-phantom/index.html": {
-"hash": "247dc51023d03bb7",
+"hash": "327bdc700917e26e",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/texas/index.html": {
-"hash": "3987d9db0618208c",
+"hash": "3298ad69fafa744e",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/timeline/index.html": {
-"hash": "9e9f70fe9c06b733",
+"hash": "8934d562217004fe",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/timothy-spencer/index.html": {
-"hash": "e18d2ec8569cf7a1",
+"hash": "c095a59d99be2982",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/todd-kohlhepp/index.html": {
-"hash": "daf97690b586c6dc",
+"hash": "64190a2d289f7e85",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/tommy-lynn-sells/index.html": {
+"hash": "4efcb14e4ebe11f6",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/utah/index.html": {
-"hash": "08a0c70758f9961f",
+"hash": "b1052c490f928fd2",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/vermont/index.html": {
-"hash": "d0218657986cdc28",
+"hash": "4da5ca15f2a68c98",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/virginia/index.html": {
-"hash": "729c69564815a723",
+"hash": "93c6a68fa7dbf149",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/walter-ellis/index.html": {
-"hash": "77c3c52630062e50",
+"hash": "c4301c391d24029d",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/washington/index.html": {
-"hash": "07459feadf777fb2",
+"hash": "833233afc48b723a",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
+"serial-killers/wayne-williams/index.html": {
+"hash": "eed43fdfa6982d97",
+"modified": "2026-10-29",
+"published": "2026-10-29"
+},
 "serial-killers/west-mesa-bone-collector/index.html": {
-"hash": "de33c22c1987ec1e",
+"hash": "f10ae7306ebd138c",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
 "serial-killers/west-virginia/index.html": {
-"hash": "da5d3348ca62c850",
+"hash": "779244074aabc362",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/which-state-has-the-most/index.html": {
-"hash": "16e041614e1d5279",
+"hash": "dabac23c6f314116",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/william-bonin/index.html": {
-"hash": "217d37fd5c528dc6",
+"hash": "e208d015ecc32ac1",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/wisconsin/index.html": {
-"hash": "d2c0a6655c17cd4f",
+"hash": "501d76ba3c8af767",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/wyoming/index.html": {
-"hash": "4f87e83d270ea802",
+"hash": "4a50e77354df78bc",
 "modified": "2026-10-29",
 "published": "2026-10-28"
 },
 "serial-killers/zodiac-killer/index.html": {
-"hash": "e662e9e38bbd221d",
+"hash": "8e5510ec5ea3aeb7",
 "modified": "2026-10-29",
 "published": "2026-10-29"
 },
@@ -5115,8 +5215,8 @@
 "published": "2026-07-06"
 },
 "states/alaska/index.html": {
-"hash": "4336b4fdba30c08d",
-"modified": "2026-10-28",
+"hash": "f0975aae75d5647b",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/argentina/index.html": {
@@ -5165,7 +5265,7 @@
 "published": "2026-09-29"
 },
 "states/california/index.html": {
-"hash": "d23201b3f3d6261b",
+"hash": "854036f7e0634448",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5175,8 +5275,8 @@
 "published": "2026-07-09"
 },
 "states/colorado/index.html": {
-"hash": "afa46f6fa7b844f3",
-"modified": "2026-10-28",
+"hash": "b8156da4b1734aa7",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/connecticut/index.html": {
@@ -5200,7 +5300,7 @@
 "published": "2026-07-09"
 },
 "states/florida/index.html": {
-"hash": "64bf2601ec9b1091",
+"hash": "23d605248c41f6be",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5210,8 +5310,8 @@
 "published": "2026-07-09"
 },
 "states/georgia/index.html": {
-"hash": "b38795cb708c1af4",
-"modified": "2026-10-28",
+"hash": "71729c16b9cb11c9",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/germany/index.html": {
@@ -5285,17 +5385,17 @@
 "published": "2026-07-09"
 },
 "states/kansas/index.html": {
-"hash": "875f3ccff50f61a7",
+"hash": "3112c55f7f25921c",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/kentucky/index.html": {
-"hash": "0e10a61ffed34418",
-"modified": "2026-10-28",
+"hash": "337ee382c0060137",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/louisiana/index.html": {
-"hash": "a0503aaae109e81a",
+"hash": "262a4212e7692299",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5310,7 +5410,7 @@
 "published": "2026-07-06"
 },
 "states/massachusetts/index.html": {
-"hash": "70fcffffbd030884",
+"hash": "3f3d7b50443540ba",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5335,7 +5435,7 @@
 "published": "2026-07-06"
 },
 "states/missouri/index.html": {
-"hash": "414fe7a3d33fb7de",
+"hash": "075bf5a790c877b4",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5345,8 +5445,8 @@
 "published": "2026-07-06"
 },
 "states/nebraska/index.html": {
-"hash": "fd5cfe9c6892e30d",
-"modified": "2026-10-28",
+"hash": "09e0830d15c69549",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/nevada/index.html": {
@@ -5360,8 +5460,8 @@
 "published": "2026-07-06"
 },
 "states/new-jersey/index.html": {
-"hash": "86236cef5ebd5528",
-"modified": "2026-10-28",
+"hash": "1e8b84397e7cddb5",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/new-mexico/index.html": {
@@ -5370,7 +5470,7 @@
 "published": "2026-07-06"
 },
 "states/new-york/index.html": {
-"hash": "789247739aada4e6",
+"hash": "a2304489c7cf29db",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5395,7 +5495,7 @@
 "published": "2026-09-29"
 },
 "states/ohio/index.html": {
-"hash": "e000e679f1f984f7",
+"hash": "3e7b1f20d636cd77",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5405,8 +5505,8 @@
 "published": "2026-07-06"
 },
 "states/oregon/index.html": {
-"hash": "afb297949943828c",
-"modified": "2026-10-28",
+"hash": "a6a138bc5bfb7478",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/panama/index.html": {
@@ -5455,12 +5555,12 @@
 "published": "2026-09-29"
 },
 "states/tennessee/index.html": {
-"hash": "542d71f734b2d992",
-"modified": "2026-10-28",
+"hash": "00f8d8cee43a212f",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/texas/index.html": {
-"hash": "3d043e53d17b1557",
+"hash": "0e1aed80bbe31c2b",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5475,8 +5575,8 @@
 "published": "2026-07-09"
 },
 "states/utah/index.html": {
-"hash": "925e14b3330aac67",
-"modified": "2026-10-28",
+"hash": "58839dd2b07fe99e",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/vermont/index.html": {
@@ -5485,12 +5585,12 @@
 "published": "2026-07-06"
 },
 "states/virginia/index.html": {
-"hash": "e7c80e1554c45449",
+"hash": "545f8ed013fe8ca0",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/washington/index.html": {
-"hash": "b7003fc61df3a6b0",
+"hash": "17020a0d6d903dff",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
@@ -5500,13 +5600,13 @@
 "published": "2026-07-06"
 },
 "states/wisconsin/index.html": {
-"hash": "5327cb9bc71a2331",
+"hash": "d0efb90ec9510517",
 "modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/wyoming/index.html": {
-"hash": "b4bb589ebb78a55c",
-"modified": "2026-10-28",
+"hash": "63ccddb9d4362ec0",
+"modified": "2026-10-29",
 "published": "2026-07-06"
 },
 "states/zambia/index.html": {
@@ -5605,7 +5705,7 @@
 "published": "2026-09-29"
 },
 "types/serial-killer-cases/index.html": {
-"hash": "91346dc3ce4aab6b",
+"hash": "939306ac047ad67b",
 "modified": "2026-10-29",
 "published": "2026-09-29"
 },
