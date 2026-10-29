@@ -1793,13 +1793,17 @@ def render_analysis_time(recs, skipped):
         <p class="case-narrative">Of the {n} cases, {len(fast)} ({round(len(fast) / n * 100)}%) were broken within a year of the crime or disappearance: an arrest, charge or identification followed the initial investigation. The other {len(cold)} went cold first. Among those, the median wait between the crime and the break was {fmt_years(med_cold)} years; {over10} waited ten years or more and {over20} waited twenty years or more. The longest wait in the index is {rec_link(top, prefix)}, broken {top['years']} years after the event, in {top['broke']}.</p>
         <p class="case-narrative">For the {len(conv)} cases that ended in a conviction, the median gap between the break and the conviction was {fmt_years(analysis.median(conv_gap))} {"year" if analysis.median(conv_gap) == 1 else "years"}; {sum(1 for g in conv_gap if g >= 3)} took three years or more from arrest to verdict.</p>
       </div>''')
-    sec.append(f'''<figure class="viz" data-mediavine-no-ads>
+    # Chart and its data table share one no-ads block so an in-content ad cannot land between them.
+    bk_table = data_table(['Years from crime to break', 'Cases', 'Share'],
+                          [(e(lab), v, f'{round(v / n * 100)}%') for lab, v in bk])
+    sec.append(f'''<div class="viz-group" data-mediavine-no-ads>
+      <figure class="viz" data-mediavine-no-ads>
         <div class="viz-title">Years from the crime to the break, all {n} resolved cases</div>
         <div class="viz-sub">The break is the first dated arrest, charge, identification, DNA match or confession in the case timeline.</div>
         {viz.columns(bk, label='Years to resolution')}
-      </figure>''')
-    sec.append(data_table(['Years from crime to break', 'Cases', 'Share'],
-                          [(e(lab), v, f'{round(v / n * 100)}%') for lab, v in bk]))
+      </figure>
+      {bk_table}
+    </div>''')
 
     dec_rows = []
     for d, cnt, med, mean, over, within in decs:
@@ -2062,7 +2066,8 @@ def home_blocks(cases, stats, by_region, log):
                  f'<td data-v="{s["clearancePct"]}">{s["clearancePct"]}%</td>'
                  f'<td data-v="{s["unsolved"]}">{s["unsolved"]:,}</td>'
                  f'<td data-v="{n_idx}">{n_idx}</td></tr>')
-    state_html = f'''<figure class="viz" data-mediavine-no-ads style="max-width:720px">
+    state_html = f'''<div class="viz-group" data-mediavine-no-ads>
+    <figure class="viz" data-mediavine-no-ads style="max-width:720px">
       <div class="viz-title">Homicide clearance rate by state, 1965 to 2024</div>
       <div class="viz-sub">Darker tiles cleared a smaller share of their homicides. Select a state to see its cases.</div>
       {cmap}
@@ -2081,6 +2086,7 @@ def home_blocks(cases, stats, by_region, log):
         </tr></thead>
         <tbody>{rows}</tbody>
       </table>
+    </div>
     </div>'''
 
     # browse chips (static, crawlable)
