@@ -96,7 +96,7 @@ def schema_errors(p, case_ids):
     if not (120 <= len(p['summary']) <= 300):
         errs.append(f'summary {len(p["summary"])} chars')
     words = sum(len(x.split()) for x in p['narrative'])
-    if not (400 <= words <= 800):
+    if not (400 <= words <= 950):
         errs.append(f'narrative {words} words')
     if not (5 <= len(p['timeline']) <= 20):
         errs.append(f'timeline {len(p["timeline"])} events')

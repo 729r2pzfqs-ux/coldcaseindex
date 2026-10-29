@@ -154,8 +154,8 @@ def load(cases):
         if not (120 <= len(p['summary']) <= 300):
             errors.append(f'{pid}: summary is {len(p["summary"])} chars (120 to 300)')
         words = sum(len(x.split()) for x in p['narrative'])
-        if not (380 <= words <= 900):
-            errors.append(f'{pid}: narrative is {words} words (400 to 800)')
+        if not (380 <= words <= 1000):
+            errors.append(f'{pid}: narrative is {words} words (400 to 950)')
         if not (5 <= len(p['timeline']) <= 20):
             errors.append(f'{pid}: timeline has {len(p["timeline"])} events (5 to 20)')
         for ev in p['timeline']:

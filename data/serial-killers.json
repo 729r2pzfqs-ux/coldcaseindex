@@ -1752,6 +1752,169 @@
   "searchVolume": 10000
  },
  {
+  "id": "david-berkowitz",
+  "name": "David Berkowitz",
+  "aliases": [
+   "Son of Sam",
+   "The .44 Caliber Killer"
+  ],
+  "born": "1953-06-01",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "New York"
+  ],
+  "primaryState": "New York",
+  "cities": [
+   "New York City"
+  ],
+  "activeFrom": 1976,
+  "activeTo": 1977,
+  "victims": {
+   "convicted": 6,
+   "confessed": 6,
+   "suspected": "6 killed and 7 wounded in the eight charged shootings; in 2024 the NYPD also attributed an April 1976 Bronx shooting that wounded a woman"
+  },
+  "victimProfile": "Young women and couples, mostly aged 17 to 26, shot while sitting in parked cars or walking near their homes in the Bronx, Queens and Brooklyn",
+  "method": [
+   "shooting"
+  ],
+  "apprehended": "1977-08-10",
+  "captureMethod": "A parking ticket issued near the scene of the final shooting placed his car in Brooklyn that night and led police to his Yonkers apartment",
+  "legalStatus": "Convicted",
+  "sentence": "Six terms of 25 years to life (June 1978), one for each murder, reported as consecutive; first eligible for parole in 2002",
+  "fate": "Imprisoned",
+  "fateDetail": "Shawangunk Correctional Facility, Wallkill, New York; parole denied at his twelfth board appearance in May 2024",
+  "summary": "Imprisoned. David Berkowitz, the 'Son of Sam', pleaded guilty in 1978 to six murders in New York City's 1976-77 .44-caliber shootings, which killed six and wounded seven. Sentenced to six terms of 25 years to life; parole denied twelve times.",
+  "narrative": [
+   "David Berkowitz, known as the \"Son of Sam\" and the \".44 Caliber Killer\", shot thirteen people in eight attacks in New York City between July 1976 and July 1977, killing six and wounding seven. According to the Associated Press, he pleaded guilty in 1978 and was sentenced to the maximum term of 25 years to life for each of the six killings. He has been imprisoned ever since and has been denied parole at every board appearance, most recently in May 2024.",
+   "A CBS News timeline of the case lists the attacks in order. On July 29, 1976, Donna Lauria, 18, was killed and Jody Valenti wounded as they sat in a parked car in the Bronx. On October 23, 1976, Carl Denaro and Rosemary Keenan were wounded in a parked car in Queens, and on November 27, 1976, Donna DeMasi and Joanne Lomino were shot near Lomino's Queens home; Lomino was left paralyzed. Christine Freund, 26, was killed in a parked car in Queens on January 30, 1977, and Virginia Voskerichian was shot dead outside her Queens home on March 8, 1977. On April 17, 1977, Valentina Suriani, 18, and Alexander Esau, 20, were both killed in the Bronx. Judy Placido and Sal Lupo were wounded leaving a Queens discotheque on June 26, 1977. The final attack, on July 31, 1977, in Bath Beach, Brooklyn, killed Stacy Moskowitz and cost Robert Violante the sight of one eye. ABC reported that police linked the shootings to a single gun only after the Freund killing.",
+   "A note left at the Esau-Suriani scene in April 1977 called the writer a monster and used the name \"Son of Sam\", ABC reported, and CBS News recorded that a letter signed the same way was mailed to Daily News columnist Jimmy Breslin on May 30, 1977 and published on June 6. The break came from the Brooklyn scene: according to the Associated Press and CBS News, a parking ticket found at the site of the last shooting led detectives to Berkowitz's car. According to Wikipedia, a Yonkers dispatcher had separately connected the \"Sam\" of the letters to the dog of his neighbors, the Carr family. CBS News reported that days after an August 6 incident in which a bucket of gunpowder and bullets was set alight outside the door of his neighbor Craig Glassman, detectives arrived at the building. Berkowitz was arrested at the wheel of his car outside his Yonkers apartment on August 10, 1977; police displayed the .44-caliber revolver the next day and found handwritten messages on the apartment walls.",
+   "After a court-ordered evaluation he was found competent to stand trial, CBS News reported. He pleaded guilty on May 8, 1978; according to Wikipedia the convictions were six counts of second-degree murder and seven counts of attempted murder. On June 12, 1978, he received 25 years to life for each murder, the maximum term, as the Associated Press summarized it. ABC and CBS News both described the result as six consecutive life sentences. He became eligible for parole in 2002.",
+   "According to Wikipedia, his neck was slashed by another inmate at Attica in 1979, and he was later held at Sullivan Correctional Facility before being moved to Shawangunk, where he announced an evangelical Christian conversion and asked to be called the \"Son of Hope\". He has often declined to seek release. At his third hearing in July 2006, ABC reported, he did not attend; the board commended his prison conduct but cited his \"cold disregard\" for life and the premeditated, unprovoked nature of the crimes. The Associated Press reported that the board rejected him again after a May 14, 2024 interview, his twelfth appearance.",
+   "In a 1993 television interview, according to Wikipedia, Berkowitz said he had fired the fatal shots in only three of the killings and attributed the rest to a satanic cult that included the Carr brothers, John and Michael, both of whom died within two years of his arrest. Yonkers police reopened the matter in 1996 and suspended it without charges. The case also produced New York's \"Son of Sam\" law, which diverted a criminal's earnings from accounts of the crime to victims. The U.S. Supreme Court struck it down on First Amendment grounds in Simon & Schuster v. Members of the New York State Crime Victims Board on December 10, 1991, and the state passed a revised statute in 1992.",
+   "Berkowitz was born Richard David Falco in Brooklyn on June 1, 1953 and adopted as an infant by Pearl and Nathan Berkowitz of the Bronx, according to Wikipedia. He graduated from Christopher Columbus High School in 1971, served in the Army, including in South Korea, and was honorably discharged in June 1974. CBS News noted that he began work as a part-time mail sorter for the Postal Service in the Bronx in March 1976, four months before the first killing, while living in an apartment on Pine Street in Yonkers."
+  ],
+  "timeline": [
+   {
+    "date": "1953-06-01",
+    "text": "Born Richard David Falco in Brooklyn; adopted as an infant by Pearl and Nathan Berkowitz of the Bronx."
+   },
+   {
+    "date": "1974-06",
+    "text": "Honorably discharged from the U.S. Army after service that included a posting in South Korea."
+   },
+   {
+    "date": "1976-07-29",
+    "text": "Donna Lauria, 18, killed and Jody Valenti wounded in a parked car in the Bronx; the first of the .44-caliber shootings."
+   },
+   {
+    "date": "1976-10-23",
+    "text": "Carl Denaro and Rosemary Keenan wounded in a parked car in Queens."
+   },
+   {
+    "date": "1976-11-27",
+    "text": "Donna DeMasi and Joanne Lomino shot in Queens; Lomino is left paralyzed."
+   },
+   {
+    "date": "1977-01-30",
+    "text": "Christine Freund, 26, killed in a parked car in Queens; police link the shootings to a single gun."
+   },
+   {
+    "date": "1977-03-08",
+    "text": "Virginia Voskerichian killed outside her home in Queens."
+   },
+   {
+    "date": "1977-04-17",
+    "text": "Valentina Suriani, 18, and Alexander Esau, 20, killed in the Bronx; a note signed 'Son of Sam' is left at the scene."
+   },
+   {
+    "date": "1977-06-26",
+    "text": "Judy Placido and Sal Lupo wounded leaving a Queens discotheque."
+   },
+   {
+    "date": "1977-07-31",
+    "text": "Stacy Moskowitz killed and Robert Violante blinded in one eye in Bath Beach, Brooklyn; the last shooting."
+   },
+   {
+    "date": "1977-08-10",
+    "text": "Arrested outside his Yonkers apartment after a parking ticket placed his car near the Brooklyn scene; confesses the next day."
+   },
+   {
+    "date": "1978-05-08",
+    "text": "Pleads guilty to all eight shootings: six counts of second-degree murder and seven of attempted murder."
+   },
+   {
+    "date": "1978-06-12",
+    "text": "Sentenced to 25 years to life for each of the six murders."
+   },
+   {
+    "date": "1979",
+    "text": "Neck slashed by another inmate at Attica Correctional Facility; he declines to name the attacker."
+   },
+   {
+    "date": "1991-12-10",
+    "text": "U.S. Supreme Court strikes down New York's 'Son of Sam' law in Simon & Schuster v. Crime Victims Board."
+   },
+   {
+    "date": "2002",
+    "text": "Becomes eligible for parole; first board appearance ends in denial."
+   },
+   {
+    "date": "2006-07",
+    "text": "Third parole hearing; he does not attend and the board denies release, citing 'cold disregard' for life."
+   },
+   {
+    "date": "2024-05-14",
+    "text": "Twelfth parole board interview at Shawangunk Correctional Facility; parole denied."
+   }
+  ],
+  "cases": [
+   "son-of-sam-victims"
+  ],
+  "tags": [
+   "parked cars",
+   "taunting letters",
+   "parking ticket",
+   "parole denied",
+   "son of sam law"
+  ],
+  "sources": [
+   {
+    "title": "NBC New York (Associated Press) - 'Son of Sam' killer David Berkowitz denied parole after 12th board appearance (2024)",
+    "url": "https://www.nbcnewyork.com/news/local/crime-and-courts/son-of-sam-killer-david-berkowitz-denied-parole-new-york-city-prison/5453625/"
+   },
+   {
+    "title": "Corrections1 (Associated Press) - 'Son of Sam' serial killer denied parole in 12th attempt (2024)",
+    "url": "https://www.corrections1.com/serial-killer/son-of-sam-serial-killer-denied-parole-in-12th-attempt"
+   },
+   {
+    "title": "CBS News - 'Son of Sam': A serial killer's reign of terror, victims and timeline",
+    "url": "https://www.cbsnews.com/pictures/son-of-sam-serial-killer-david-berkowitz-victims-and-timeline/"
+   },
+   {
+    "title": "CBS News - Daughter of man terrorized by 'Son of Sam' now visits him in prison (2017)",
+    "url": "https://www.cbsnews.com/news/son-of-sam-daughter-of-man-terrorized-by-serial-killer-david-berkowitz-now-visits-him-in-prison/"
+   },
+   {
+    "title": "ABC News (Australia) - Son of Sam serial killer denied parole (2006)",
+    "url": "http://www.abc.net.au/news/2006-07-22/son-of-sam-serial-killer-denied-parole/1807628"
+   },
+   {
+    "title": "Cornell Legal Information Institute - Simon & Schuster, Inc. v. Members of the New York State Crime Victims Board, 502 U.S. 105 (1991)",
+    "url": "https://www.law.cornell.edu/supremecourt/text/502/105"
+   },
+   {
+    "title": "Wikipedia - David Berkowitz",
+    "url": "https://en.wikipedia.org/wiki/David_Berkowitz"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/David_Berkowitz",
+  "enriched": true,
+  "verified": "2026-10-28"
+ },
+ {
   "id": "dean-corll",
   "name": "Dean Corll",
   "aliases": [
@@ -2545,6 +2708,160 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 40000
+ },
+ {
+  "id": "genene-jones",
+  "name": "Genene Jones",
+  "aliases": [
+   "Genene Ann Jones",
+   "The Death Shift nurse",
+   "Angel of Death"
+  ],
+  "born": "1950-07-13",
+  "died": null,
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Texas"
+  ],
+  "primaryState": "Texas",
+  "cities": [
+   "San Antonio",
+   "Kerrville"
+  ],
+  "activeFrom": 1981,
+  "activeTo": 1982,
+  "victims": {
+   "convicted": 2,
+   "confessed": null,
+   "suspected": "more than a dozen to as many as 60"
+  },
+  "victimProfile": "Infants and young children in her care, aged about 3 months to 2 years, in a pediatric intensive care unit and a pediatric clinic",
+  "method": [
+   "succinylcholine injection",
+   "heparin overdose",
+   "dilantin overdose"
+  ],
+  "apprehended": "1983-05-24",
+  "captureMethod": "Clinic staff tied a cluster of respiratory arrests to Jones and found a tampered vial of succinylcholine, prompting a grand jury investigation and her arrest",
+  "legalStatus": "Convicted",
+  "sentence": "99 years for the murder of Chelsea McClellan and a concurrent 60 years for injury to a child (1984); life, parole-eligible after 20 years, for the murder of Joshua Sawyer (2020)",
+  "fate": "Imprisoned",
+  "fateDetail": "Texas Department of Criminal Justice, Dr. Lane Murray Unit, Gatesville, Texas",
+  "summary": "Imprisoned. Texas pediatric nurse convicted by a jury in 1984 of murdering 15-month-old Chelsea McClellan and injuring another child; pleaded guilty in 2020 to the 1981 murder of 11-month-old Joshua Sawyer. Suspected in up to 60 infant deaths.",
+  "narrative": [
+   "Genene Jones is a former licensed vocational nurse from San Antonio, Texas, who was convicted by a jury in 1984 of murdering a 15-month-old patient at a Kerrville pediatric clinic and of injuring a second child in San Antonio. Her known crimes span 1981 to 1982, at Bexar County Hospital (now University Hospital) in San Antonio and at a small clinic in Kerrville. She was sentenced to 99 years and a concurrent 60 years in 1984. Facing mandatory release in 2018 under an old Texas good-time law, she was indicted in 2017 for five more infant deaths and, on January 16, 2020, pleaded guilty to one of them, the 1981 murder of 11-month-old Joshua Sawyer, receiving a life sentence. Courts have convicted her of two murders. Prosecutors have suspected her in far more: ABC News reported that prosecutor Ron Sutton estimated between 11 and 46 infant deaths in Bexar County from 1978 to 1982, and NBC News reported in 2017 that she was suspected of killing as many as 60 infants in Bexar and Kerr counties. Those figures are suspicion, not findings of any court.",
+   "According to ProPublica, Jones worked the 3 p.m. to 11 p.m. shift in the pediatric intensive care unit at Bexar County Hospital in the early 1980s, a shift that colleagues came to call \"the Death Shift\" because of the number of children who died on it. The five children named in the 2017 indictments, four boys and one girl aged three months to two years, died between July 1981 and January 1982; prosecutors alleged overdoses of the anti-seizure drug Dilantin, the blood thinner heparin, or an unknown substance. ProPublica reported that the hospital conducted internal probes and ousted Jones without alerting criminal authorities, then gave her a good recommendation.",
+   "In 1982 Jones went to work for pediatrician Kathleen Holland's new clinic in Kerrville. ProPublica reported that eight children with routine medical problems stopped breathing there in a single month and one died: Chelsea McClellan, 15 months old, who was injected with the paralyzing muscle relaxant succinylcholine on September 17, 1982. Wikipedia's account, citing contemporary reporting, states that suspicions at the clinic centered on a vial of succinylcholine that had been tampered with, that Jones failed a polygraph and was fired by Holland in September 1982, and that she was arrested at her San Angelo home on May 24, 1983, charged with McClellan's murder.",
+   "The murder trial was moved on a change of venue to Georgetown, in Williamson County. A jury convicted Jones of murder in February 1984, and on May 14, 1984, she was sentenced to 99 years in prison, according to ABC News. Later in 1984 she was sentenced to a concurrent 60 years for injury to a child: ProPublica reported the conviction concerned 1-month-old Rolando Santos, who nearly died from repeated heparin overdoses at the San Antonio hospital but survived. In the 1980s the Bexar County district attorney suspected Jones in other child deaths but did not charge her.",
+   "Texas's 1977 Mandatory Supervision law, meant to ease prison overcrowding, awarded good-time credit that required Jones's release after she had served roughly a third of her sentence. ABC News reported in 2013 that the Texas Department of Criminal Justice then projected her release for February 2018; ProPublica later gave the scheduled date as March 2018, after 34 years and eight months served. The Texas Board of Nursing revoked her license on June 10, 2011, after she wrote the board a letter apologizing for \"the damage I did to all because of my crime\" and calling her conduct heinous, ProPublica reported. Prosecutors also cited a 1998 parole interview in which, according to the parole officer, Jones said, \"I really did kill those babies.\"",
+   "To prevent her release, Bexar County District Attorney Nico LaHood's office obtained new murder indictments. ProPublica reported the first, returned May 25, 2017, charged her in the December 1981 death of Joshua Sawyer, 11 months, from a Dilantin overdose; further indictments followed for Rosemary Vega, 2, who died September 16, 1981, Richard \"Ricky\" Nelson, 8 months, who died in July 1981, Patrick Zavala, 4 months, who died in January 1982, and Paul Villareal. Each carried a $1 million bond, and Jones was moved to the Bexar County jail when her state sentence ended. NBC News quoted LaHood saying his office aimed to hold her \"accountable for as many children's deaths as the evidence will support.\"",
+   "On January 16, 2020, Jones, then 69, pleaded guilty before state District Judge Frank Castro to the murder of Joshua Sawyer and was sentenced to life in prison; the other four murder counts were dismissed under the plea agreement, ProPublica reported. She must serve 20 years before becoming eligible for parole, with credit for about two years in jail awaiting trial, which places her first eligibility around 2038, when she would be 87. Wikipedia, citing Texas Department of Criminal Justice records, lists her at the Dr. Lane Murray Unit in Gatesville.",
+   "Jones was born on July 13, 1950, in Texas, and was adopted and raised in San Antonio, according to Wikipedia. She graduated from high school in 1968, married and later divorced, had two children, and became a licensed vocational nurse in 1977, joining the Bexar County Hospital pediatric ICU in October 1978. Her case prompted a 1983 Texas Monthly investigation and the 1989 book The Death Shift, both by journalist Peter Elkind, who continued covering her prosecution for ProPublica."
+  ],
+  "timeline": [
+   {
+    "date": "1950-07-13",
+    "text": "Genene Ann Jones born in Texas; adopted and raised in San Antonio."
+   },
+   {
+    "date": "1977",
+    "text": "Licensed as a vocational nurse in Texas."
+   },
+   {
+    "date": "1978-10",
+    "text": "Begins work in the pediatric intensive care unit at Bexar County Hospital, San Antonio."
+   },
+   {
+    "date": "1981-07",
+    "text": "Richard \"Ricky\" Nelson, 8 months, dies in the Bexar County Hospital PICU; charged as murder in 2017, count dismissed in 2020."
+   },
+   {
+    "date": "1981-12",
+    "text": "Joshua Sawyer, 11 months, dies after what prosecutors later alleged was a Dilantin overdose; Jones pleaded guilty to his murder in 2020."
+   },
+   {
+    "date": "1982-09-17",
+    "text": "Chelsea McClellan, 15 months, dies after a succinylcholine injection at Dr. Kathleen Holland's clinic in Kerrville."
+   },
+   {
+    "date": "1983-05-24",
+    "text": "Arrested at her home in San Angelo and charged with McClellan's murder."
+   },
+   {
+    "date": "1984-02",
+    "text": "Jury in Georgetown, Williamson County, convicts her of McClellan's murder after a change of venue."
+   },
+   {
+    "date": "1984-05-14",
+    "text": "Sentenced to 99 years in prison for McClellan's murder."
+   },
+   {
+    "date": "1984",
+    "text": "Sentenced to a concurrent 60 years for injury to a child, 1-month-old Rolando Santos, who survived heparin overdoses in San Antonio."
+   },
+   {
+    "date": "2011-06-10",
+    "text": "Texas Board of Nursing revokes her license after she writes apologizing for her crime."
+   },
+   {
+    "date": "2017-05-25",
+    "text": "Bexar County grand jury indicts her for the murder of Joshua Sawyer; four more murder indictments follow by October 2017."
+   },
+   {
+    "date": "2018-03",
+    "text": "Scheduled mandatory release date under the 1977 good-time law; instead held in Bexar County jail on $1 million bond per indictment."
+   },
+   {
+    "date": "2020-01-16",
+    "text": "Pleads guilty to Sawyer's murder; sentenced to life, parole-eligible after 20 years; four other counts dismissed."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "healthcare serial killer",
+   "child victims",
+   "poisoning",
+   "mandatory release",
+   "nurse"
+  ],
+  "sources": [
+   {
+    "title": "ProPublica - Texas Baby Killer Pleads Guilty to a New Murder (Jan. 16, 2020)",
+    "url": "https://www.propublica.org/article/texas-baby-killer-pleads-guilty-to-a-new-murder"
+   },
+   {
+    "title": "ProPublica - Genene Jones: \"I Really Did Kill Those Babies\" (Apr. 18, 2018)",
+    "url": "https://www.propublica.org/article/genene-jones-i-really-did-kill-those-babies"
+   },
+   {
+    "title": "ProPublica - Former Texas Nurse Convicted of Baby Killing Told Authorities \"I Was Heinous\" (June 29, 2017)",
+    "url": "https://www.propublica.org/article/former-texas-nurse-convicted-of-baby-killing-told-authorities-i-was-heinous"
+   },
+   {
+    "title": "ProPublica - Suspected Texas Serial Killer Charged With Death of Second Baby (June 21, 2017)",
+    "url": "https://www.propublica.org/article/suspected-texas-serial-killer-charged-with-death-of-second-baby"
+   },
+   {
+    "title": "NBC News - 'Angel of Death' Nurse Indicted on More Child-Killing Charges (June 22, 2017)",
+    "url": "https://www.nbcnews.com/news/us-news/angel-death-nurse-indicted-more-child-killing-charges-n775816"
+   },
+   {
+    "title": "ABC News - Nurse Suspected of Killing Up to 46 Kids Set for Prison Release (Aug. 2013)",
+    "url": "https://abcnews.com/US/nurse-suspected-killing-46-kids-prison/story?id=19852141"
+   },
+   {
+    "title": "KSAT - Killer nurse Genene Jones deemed competent to stand trial (Feb. 15, 2019)",
+    "url": "https://www.ksat.com/news/2019/02/15/killer-nurse-genene-jones-deemed-competent-to-stand-trial/"
+   },
+   {
+    "title": "Wikipedia - Genene Jones",
+    "url": "https://en.wikipedia.org/wiki/Genene_Jones"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Genene_Jones",
+  "enriched": true,
+  "verified": "2026-10-28"
  },
  {
   "id": "h-h-holmes",
@@ -4852,6 +5169,162 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "marybeth-tinning",
+  "name": "Marybeth Tinning",
+  "aliases": [
+   "Marybeth Roe Tinning"
+  ],
+  "born": "1942-09-11",
+  "died": null,
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "New York"
+  ],
+  "primaryState": "New York",
+  "cities": [
+   "Schenectady",
+   "Duanesburg"
+  ],
+  "activeFrom": 1972,
+  "activeTo": 1985,
+  "victims": {
+   "convicted": 1,
+   "confessed": 3,
+   "suspected": "8 of the 9 deaths"
+  },
+  "victimProfile": "Her own children, all under age five: eight biological children and one adopted son, who died between 1972 and 1985",
+  "method": [
+   "smothering"
+  ],
+  "apprehended": "1986-02",
+  "captureMethod": "After her ninth child died in December 1985, a state police forensic pathologist found the infant had been smothered, and Tinning gave police a written statement admitting it.",
+  "legalStatus": "Convicted",
+  "sentence": "20 years to life for second-degree murder (depraved indifference) of Tami Lynne Tinning (1987)",
+  "fate": "Released",
+  "fateDetail": "Paroled from Taconic Correctional Facility, Bedford Hills, on August 21, 2018; lifetime parole supervision in Schenectady County",
+  "summary": "Convicted in 1987 of the murder of her infant daughter Tami Lynne; nine of her children died between 1972 and 1985 in Schenectady, New York. Sentenced to 20 years to life, paroled in August 2018.",
+  "narrative": [
+   "Marybeth Tinning is a former nursing assistant from Schenectady, New York, whose nine children all died before the age of five between 1972 and 1985. Only one of those deaths was ever adjudicated: in July 1987 a Schenectady County jury convicted her of second-degree murder in the December 1985 smothering of her four-month-old daughter, Tami Lynne. She was sentenced to 20 years to life, served more than 31 years, and was paroled in August 2018. United Press International reported at the time of the verdict that investigators suspected her in eight of the nine deaths, but she was formally charged only in Tami Lynne's case.",
+   "According to the Wikipedia article on the case, the first three deaths came within about two months in early 1972. Jennifer, born December 26, 1971, died on January 3, 1972, of what doctors recorded as meningitis and brain abscesses that developed before birth; investigators later treated that death as natural. Joseph Jr., aged two, died on January 20, 1972, and Barbara, aged four, died on March 2, 1972, after a hospital admission the previous day. Timothy died in December 1973 at about two weeks old, a death attributed to sudden infant death syndrome, and Nathan died in 1975 at five months. Mary Frances died in 1979 after cardiac arrest and brain damage, Jonathan died in March 1980 after four weeks on life support, and Michael, a boy the couple had adopted in 1978, died on March 2, 1981. CBS New York, drawing on Associated Press reporting, listed the recorded causes as meningitis, seizures, cardiac arrest, SIDS, pulmonary edema, pneumonia and, in one case, undetermined.",
+   "Tami Lynne, born August 22, 1985, died on December 20, 1985. According to the Wikipedia account, Dr. Michael Baden, a forensic pathologist working for the New York State Police, determined that she had been smothered, and the medical examiner said no suspicion had attached to the family before that death. Social services officials and Schenectady police visited the home the same day, and the Tinnings were questioned separately. In early 1986 Tinning signed a statement admitting that she had smothered Tami Lynne and had also killed her sons Timothy and Nathan. CBS New York reported that prosecutors indicted her in all three deaths but pursued only the Tami Lynne case. She was released on $100,000 bail to await trial.",
+   "The trial opened in Schenectady County Court on June 22, 1987, before Judge Clifford Harrigan, with District Attorney John Poersch prosecuting. UPI reported that the defense, led by Paul Callahan, argued that Tami Lynne could have died of natural causes, including a rare hereditary disorder, and that investigators had intimidated Tinning into confessing. Her husband, Joseph Tinning, testified that she had told him privately, \"I killed Tami,\" while saying he still believed she was innocent. On July 17, 1987, after about 23 hours of deliberation over three days, the jury acquitted her of intentional murder but convicted her of second-degree murder on the theory of depraved indifference to human life. Bail was revoked and she was jailed pending sentence.",
+   "In October 1987 she was sentenced to 20 years to life, five years less than the maximum, and entered Taconic Correctional Facility in Bedford Hills. On appeal she argued that her confession was involuntary and that the evidence was insufficient; according to the Wikipedia article, the Appellate Division of the New York Supreme Court rejected those arguments in December 1988. The six other children's bodies that were exhumed after Tami Lynne's death showed no physical signs of abuse, and no further charges were ever brought.",
+   "Tinning first became eligible for parole in March 2007 and was denied six times. The Associated Press reported that at her second hearing, in January 2011, she began to acknowledge the killing for which she was convicted, and Oxygen quoted her telling the board that after the earlier deaths she had \"just lost it\" and believed her daughter would die too. Parole boards nonetheless cited superficial remorse and the senseless loss of a young life in denying release in 2009, 2011, 2013, 2015 and 2017. At her seventh hearing, in July 2018, the board granted parole. According to the Associated Press, she walked out of Taconic on Tuesday, August 21, 2018, at age 75, after more than 31 years in custody, and was placed under lifetime parole supervision in Schenectady County, where her husband said she would live with him in Duanesburg.",
+   "Born Marybeth Roe on September 11, 1942, in Duanesburg, New York, she married Joseph Tinning in 1965 and worked as a nursing assistant at Ellis Hospital in Schenectady. Commentators cited by the Associated Press and other outlets have described the case as an early example of what became known as Munchausen syndrome by proxy, and it is often credited with prompting hospitals, police and medical examiners to share information about repeated child deaths in a single family. Her 1986 admissions about Timothy and Nathan were never tested in court, and she later maintained that the statement was coerced."
+  ],
+  "timeline": [
+   {
+    "date": "1942-09-11",
+    "text": "Marybeth Roe born in Duanesburg, New York."
+   },
+   {
+    "date": "1965",
+    "text": "Marries Joseph Tinning."
+   },
+   {
+    "date": "1972-01-03",
+    "text": "Daughter Jennifer dies at eight days old; the death is later regarded as natural."
+   },
+   {
+    "date": "1972-01-20",
+    "text": "Son Joseph Jr., 2, dies."
+   },
+   {
+    "date": "1972-03-02",
+    "text": "Daughter Barbara, 4, dies."
+   },
+   {
+    "date": "1973-12-10",
+    "text": "Son Timothy dies at about two weeks old; attributed to SIDS."
+   },
+   {
+    "date": "1975",
+    "text": "Son Nathan dies at five months."
+   },
+   {
+    "date": "1979",
+    "text": "Daughter Mary Frances dies after cardiac arrest."
+   },
+   {
+    "date": "1980-03",
+    "text": "Son Jonathan dies after four weeks on life support."
+   },
+   {
+    "date": "1981-03-02",
+    "text": "Adopted son Michael dies."
+   },
+   {
+    "date": "1985-12-20",
+    "text": "Four-month-old Tami Lynne dies; a state police pathologist finds she was smothered."
+   },
+   {
+    "date": "1986-02",
+    "text": "Tinning signs a statement admitting she smothered Tami Lynne, Timothy and Nathan; she is charged only in Tami Lynne's death and freed on $100,000 bail."
+   },
+   {
+    "date": "1987-06-22",
+    "text": "Trial opens in Schenectady County Court."
+   },
+   {
+    "date": "1987-07-17",
+    "text": "Jury convicts her of second-degree murder (depraved indifference) in Tami Lynne's death and acquits her of intentional murder."
+   },
+   {
+    "date": "1987-10",
+    "text": "Sentenced to 20 years to life; enters Taconic Correctional Facility."
+   },
+   {
+    "date": "1988-12",
+    "text": "Appellate Division rejects her appeal over the confession and the sufficiency of the evidence."
+   },
+   {
+    "date": "2007-03",
+    "text": "First parole hearing; denied. Five further denials follow through January 2017."
+   },
+   {
+    "date": "2018-07",
+    "text": "Parole granted at her seventh hearing."
+   },
+   {
+    "date": "2018-08-21",
+    "text": "Released from Taconic Correctional Facility at age 75 under lifetime parole supervision."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "filicide",
+   "infant deaths",
+   "disputed confession",
+   "parole"
+  ],
+  "sources": [
+   {
+    "title": "UPI - Woman suspected in deaths of eight of her children convicted of murder (July 17, 1987)",
+    "url": "https://www.upi.com/Archives/1987/07/17/A-woman-suspected-in-the-deaths-of-eight-of/3597553492800/"
+   },
+   {
+    "title": "NBC New York / Associated Press - New York woman who killed baby daughter freed from prison (August 2018)",
+    "url": "https://nbcnewyork.com/news/local/new-york-woman-killed-baby-freed-from-prison-marybeth-tinning/530676"
+   },
+   {
+    "title": "CBS New York / Associated Press - Woman convicted of killing infant daughter in 1985 granted parole on 7th try (July 2018)",
+    "url": "https://www.cbsnews.com/newyork/news/marybeth-tinning-killed-daughter-paroled"
+   },
+   {
+    "title": "Oxygen - Marybeth Tinning, convicted child killer, out of jail (August 2018)",
+    "url": "https://www.oxygen.com/crime-time/marybeth-tinning-convicted-child-killer-out-jail"
+   },
+   {
+    "title": "Wikipedia - Marybeth Tinning",
+    "url": "https://en.wikipedia.org/wiki/Marybeth_Tinning"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Marybeth_Tinning",
+  "enriched": true,
+  "verified": "2026-10-28"
+ },
+ {
   "id": "nannie-doss",
   "name": "Nannie Doss",
   "aliases": [
@@ -5815,6 +6288,173 @@
   "searchVolume": 9100
  },
  {
+  "id": "robert-yates",
+  "name": "Robert Lee Yates Jr.",
+  "aliases": [
+   "The Spokane Serial Killer",
+   "The Grocery Bag Killer"
+  ],
+  "born": "1952-05-27",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Washington"
+  ],
+  "primaryState": "Washington",
+  "cities": [
+   "Spokane",
+   "Tacoma",
+   "Walla Walla"
+  ],
+  "activeFrom": 1975,
+  "activeTo": 1998,
+  "victims": {
+   "convicted": 15,
+   "confessed": 15,
+   "suspected": "16; at his arrest the Spokane County sheriff cited 12 to 18 possible victims"
+  },
+  "victimProfile": "Mostly women aged 16 to 47 working as sex workers in Spokane and Tacoma; also a young couple shot near Walla Walla in 1975 and a 23-year-old woman killed in Skagit County in 1988",
+  "method": [
+   "gunshot",
+   "suffocation"
+  ],
+  "apprehended": "2000-04-18",
+  "captureMethod": "Carpet fibers from a white 1977 Corvette he had owned matched fibers found with 16-year-old Jennifer Joseph; a search of the car turned up blood and a button from her jacket, and DNA then linked him to a dozen further victims.",
+  "legalStatus": "Convicted",
+  "sentence": "408 years and 4 months (Spokane County, 2000, guilty plea to 13 aggravated murders and 1 attempted murder); death (Pierce County jury, 2002, two aggravated murders), converted to life without parole in 2018",
+  "fate": "Imprisoned",
+  "fateDetail": "Washington State Penitentiary, Walla Walla; death sentence converted to life without parole after Washington's Supreme Court struck down capital punishment in October 2018",
+  "summary": "Imprisoned for life. Former Army helicopter pilot who pleaded guilty in Spokane County in 2000 to 13 murders (1975 to 1998) and was convicted by a Pierce County jury in 2002 of two more; his death sentence became life without parole in 2018.",
+  "narrative": [
+   "Robert Lee Yates Jr. is a Washington man convicted of 15 murders committed between 1975 and 1998 in Spokane, Tacoma, Walla Walla and Skagit counties. In October 2000 he pleaded guilty in Spokane County Superior Court to 13 counts of aggravated first-degree murder and one count of attempted first-degree murder and was sentenced to 408 years in prison. In 2002 a Pierce County jury convicted him of two further aggravated murders and returned a death verdict. According to the Washington Supreme Court's 2013 order on his personal restraint petition, Yates acknowledged committing 15 murders. His death sentence was converted to life without parole in October 2018, when the state's high court struck down Washington's death penalty.",
+   "The earliest killings to which he pleaded guilty were those of Patrick Oliver and Susan Savage, a young couple shot near Walla Walla in July 1975, and of Stacy Hawn, a 23-year-old Seattle woman killed in Skagit County in 1988, as reported by The Seattle Times at his sentencing. Most of the victims were women working as prostitutes in Spokane between 1996 and 1998. Bodies were found at roadsides, in vacant lots and in rural areas around the city: Shannon Zielinski in June 1996; Jennifer Joseph, 16, and Heather Hernandez in August 1997; Darla Sue Scott in November 1997; Shawn Johnson, Laurie Wason and Shawn McClenahan in December 1997; Sunny Oster in February 1998; Linda Maybin in April 1998; and Michelyn Derning in July 1998. The Spokesman-Review reported in December 1997 that Wason and McClenahan were found together in an overgrown gravel pit in southeast Spokane and identified by fingerprints, and that a four-detective task force was examining whether a series of murders of Spokane-area women was the work of one person.",
+   "Two victims were found near Tacoma, in Pierce County: Melinda Mercer, 24, in December 1997, and Connie LaFontaine Ellis, 35, in October 1998. According to the Washington Supreme Court's 2013 order, prosecutors argued that Yates was in Pierce County for National Guard duty when he killed them. The Associated Press reported that the Tacoma victims were shot and suffocated with plastic grocery bags placed over their heads. Yates also admitted attempting to kill a woman in Spokane in 1998, the single attempted-murder count in his plea.",
+   "The Seattle Times reported in May 2000 that Yates had been interviewed in September 1999 as one of hundreds of suspects and refused to give a blood sample. Investigators then traced a white 1977 Corvette he had owned from 1994 to 1998 and, in January 2000, took carpet fibers from it. In April 2000 the fibers were reported to match fibers found on Jennifer Joseph's shoes and on a towel near her body; a search of the car under a warrant produced a button matching one missing from her jacket and traces of blood. Yates was arrested on April 18, 2000, on his way to work at a Kaiser Aluminum plant, and charged the next day with Joseph's murder. The sheriff said DNA linked him to eight deaths and other evidence to more.",
+   "According to the Washington Supreme Court, negotiations in July 2000 produced a Spokane County plea agreement under which Yates would plead guilty and reveal the location of a further victim's body in exchange for life without parole; the body of Melody Murfin was recovered from his own yard. Pierce County declined to join the deal and filed two counts of aggravated murder. On October 26, 2000, Spokane County Superior Court Judge Richard Schroeder sentenced Yates to 408 years and four months and fined him $620,000; The Seattle Times reported that 17 relatives of 11 victims addressed the court and that Yates apologized by name to each victim. A charge in the McClenahan killing was dismissed without prejudice.",
+   "A Pierce County jury convicted Yates of the Mercer and Ellis murders on September 19, 2002, and on October 3, 2002, after fewer than five hours of deliberation, unanimously returned a death verdict. The Washington Supreme Court affirmed the convictions and sentence 8-1 in September 2007, rejecting his argument that the state's inconsistent use of capital punishment, including the life sentence given to Gary Ridgway for 48 murders, made his sentence unconstitutional. The court dismissed his 25-ground personal restraint petition in March 2013, and in 2014 declined to let him withdraw his guilty pleas to the 1975 murders, though it agreed that those consecutive 20-year sentences had been miscalculated under pre-1981 law. In October 2018, in State v. Gregory, the court held the death penalty unconstitutional as applied and ordered all death sentences converted to life in prison; the Associated Press listed Yates among the eight men then on death row.",
+   "Yates was born on May 27, 1952, and raised in Oak Harbor on Whidbey Island, graduating from Oak Harbor High School in 1970. He worked briefly as a guard at the Washington State Penitentiary in Walla Walla in 1975, enlisted in the Army in 1977 and became a warrant officer and helicopter pilot, serving in Germany, Somalia and Haiti before retiring in 1996. He moved his family to Spokane that spring, joined the Washington National Guard in 1997 and worked at a circuit-board company and later at Kaiser Aluminum. He is married with five children. He is held at the Washington State Penitentiary in Walla Walla, the prison where he once worked."
+  ],
+  "timeline": [
+   {
+    "date": "1952-05-27",
+    "text": "Robert Lee Yates Jr. born; raised in Oak Harbor, Washington."
+   },
+   {
+    "date": "1975-07-14",
+    "text": "Patrick Oliver and Susan Savage found shot near Walla Walla; Yates pleaded guilty to both murders in 2000."
+   },
+   {
+    "date": "1988-12-28",
+    "text": "Stacy Hawn, 23, found near Big Lake in Skagit County."
+   },
+   {
+    "date": "1996-04",
+    "text": "Yates retires from the Army and moves his family to Spokane."
+   },
+   {
+    "date": "1996-06-14",
+    "text": "Shannon Zielinski found north of Spokane, the first of the Spokane-area victims."
+   },
+   {
+    "date": "1997-08-26",
+    "text": "Jennifer Joseph, 16, and Heather Hernandez found in Spokane."
+   },
+   {
+    "date": "1997-12-07",
+    "text": "Melinda Mercer, 24, found in a field in south Tacoma."
+   },
+   {
+    "date": "1997-12-26",
+    "text": "Laurie Wason and Shawn McClenahan found in a gravel pit in southeast Spokane; a task force is formed."
+   },
+   {
+    "date": "1998-10-13",
+    "text": "Connie LaFontaine Ellis, 35, found in Pierce County, the last known victim."
+   },
+   {
+    "date": "2000-04-18",
+    "text": "Yates arrested in Spokane after fibers and blood in his former Corvette are linked to Jennifer Joseph."
+   },
+   {
+    "date": "2000-10",
+    "text": "Pleads guilty in Spokane County to 13 counts of aggravated first-degree murder and one count of attempted murder."
+   },
+   {
+    "date": "2000-10-26",
+    "text": "Sentenced in Spokane County to 408 years and four months in prison."
+   },
+   {
+    "date": "2002-09-19",
+    "text": "Pierce County jury convicts Yates of the aggravated murders of Melinda Mercer and Connie LaFontaine Ellis."
+   },
+   {
+    "date": "2002-10-03",
+    "text": "Pierce County jury unanimously returns a death verdict."
+   },
+   {
+    "date": "2007-09-27",
+    "text": "Washington Supreme Court affirms the Pierce County convictions and death sentence, 8-1."
+   },
+   {
+    "date": "2013-03-14",
+    "text": "Washington Supreme Court dismisses his 25-ground personal restraint petition."
+   },
+   {
+    "date": "2018-10-11",
+    "text": "Washington Supreme Court strikes down the state death penalty; Yates's sentence becomes life without parole."
+   }
+  ],
+  "cases": [
+   "robert-yates-victims"
+  ],
+  "tags": [
+   "sex workers",
+   "dna evidence",
+   "fiber evidence",
+   "plea bargain",
+   "death penalty abolished",
+   "military"
+  ],
+  "sources": [
+   {
+    "title": "Washington Supreme Court - In re Personal Restraint of Yates, No. 82101-1 (2013)",
+    "url": "https://www.courts.wa.gov/opinions/pdf/821011.pdf"
+   },
+   {
+    "title": "HeraldNet (AP) - State high court upholds Yates death sentence, 8-1 (2007)",
+    "url": "https://www.heraldnet.com/?p=309230"
+   },
+   {
+    "title": "KTVZ (AP) - Washington Supreme Court tosses out state's death penalty (2018)",
+    "url": "https://ktvz.com/news/2018/10/11/washington-supreme-court-tosses-out-states-death-penalty/"
+   },
+   {
+    "title": "The Seattle Times - Serial killer Yates sentenced to death (2002)",
+    "url": "https://archive.seattletimes.com/archive/?date=20021003&slug=webyates03"
+   },
+   {
+    "title": "The Seattle Times - Families lash out, killer apologizes (2000)",
+    "url": "https://archive.seattletimes.com/archive/?date=20001027&slug=4049951"
+   },
+   {
+    "title": "The Seattle Times - Robert Yates: Son, husband, athlete, father, pilot, teacher, murder suspect (2000)",
+    "url": "https://archive.seattletimes.com/archive/?date=20000507&slug=4019811"
+   },
+   {
+    "title": "The Spokesman-Review - Serial killer Robert Yates still fighting sentencing error (2016)",
+    "url": "https://www.spokesman.com/stories/2016/sep/27/serial-killer-robert-yates-still-fighting-sentenci/"
+   },
+   {
+    "title": "Wikipedia - Robert Lee Yates",
+    "url": "https://en.wikipedia.org/wiki/Robert_Lee_Yates"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lee_Yates",
+  "enriched": true,
+  "verified": "2026-10-28"
+ },
+ {
   "id": "rodney-alcala",
   "name": "Rodney Alcala",
   "aliases": [
@@ -6478,6 +7118,177 @@
    }
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
+  "enriched": true,
+  "verified": "2026-10-28"
+ },
+ {
+  "id": "timothy-spencer",
+  "name": "Timothy Wilson Spencer",
+  "aliases": [
+   "The Southside Strangler",
+   "The Southside Rapist",
+   "The Masked Rapist"
+  ],
+  "born": "1962-03-17",
+  "died": "1994-04-27",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Virginia"
+  ],
+  "primaryState": "Virginia",
+  "cities": [
+   "Richmond",
+   "Arlington",
+   "Chesterfield County"
+  ],
+  "activeFrom": 1987,
+  "activeTo": 1987,
+  "victims": {
+   "convicted": 4,
+   "confessed": null,
+   "suspected": "5 (investigators also attributed the 1984 Arlington murder of Carolyn Hamm to him; he was never charged with it)"
+  },
+  "victimProfile": "Women aged 15 to 44 attacked alone in their homes at night in Richmond and Arlington, Virginia",
+  "method": [
+   "ligature strangulation",
+   "rape",
+   "home burglary"
+  ],
+  "apprehended": "1988-01-20",
+  "captureMethod": "Arrested in January 1988 for the Arlington murder of Susan Tucker after police tied his Thanksgiving visit to the area to the crime; DNA testing by Lifecodes Corporation then matched his blood to semen from the Richmond-area scenes.",
+  "legalStatus": "Convicted",
+  "sentence": "Four death sentences: Arlington County (Tucker, July 1988), Richmond (Davis, September 1988), Richmond (Hellams, 1989) and Chesterfield County (Cho, affirmed June 1990)",
+  "fate": "Executed",
+  "fateDetail": "Electrocuted at Greensville Correctional Center, Jarratt, Virginia, on April 27, 1994",
+  "summary": "Executed in Virginia in 1994. Timothy Spencer, the Southside Strangler, was convicted by juries of raping and strangling four women in Richmond and Arlington in fall 1987, the first U.S. murder convictions won on DNA evidence.",
+  "narrative": [
+   "Timothy Wilson Spencer, known as the Southside Strangler, was convicted by four separate Virginia juries of the rape and murder of four women killed in Richmond, Chesterfield County and Arlington between September and November 1987. Each jury fixed his punishment at death. He was the first person in the United States convicted of murder on the strength of DNA evidence, and his case also led to the pardon of David Vasquez, who had been wrongly convicted of a 1984 Arlington murder that investigators later attributed to Spencer. Spencer never confessed and maintained his innocence. Virginia executed him in the electric chair on April 27, 1994.",
+   "The first killing came in Richmond. According to the Fourth Circuit's 1993 opinion in Spencer v. Murray, Debbie Dudley Davis, 35, was killed in her Southside Richmond apartment between the evening of September 18 and the morning of September 19, 1987; the cause of death was ligature strangulation. On the night of October 2 or early on October 3, 1987, Dr. Susan Hellams, a 32-year-old neurosurgery resident at the Medical College of Virginia, was strangled with ligatures in her Richmond home after an intruder cut through a second-story window screen, according to the Fourth Circuit's 1994 opinion. In November 1987, Diane Cho, a 15-year-old high school student, was found dead in her family's apartment in Chesterfield County, just south of Richmond. Days later, around November 27, 1987, Susan Tucker, 44, was killed in her Arlington condominium; her body was found on December 1.",
+   "Arlington County police arrested Spencer on January 20, 1988. Police established that he had travelled from Richmond to Arlington over Thanksgiving to stay with his mother, who lived about a mile from Tucker's home. According to the Innocence Project, Spencer had been released on September 4, 1987 from a burglary sentence to a Richmond halfway house, and its sign-out records placed him away from the facility at the times of the murders. The linking evidence was semen recovered at the scenes. The Fourth Circuit recorded that Lifecodes Corporation, a private laboratory, found that DNA from Spencer's blood matched the semen in the Davis case, and an expert put the chance of another Black North American man sharing the pattern at about one in 705 million. A Library of Virginia exhibit notes that experts told a 1988 court the evidence would match only about one in 135 million African American men.",
+   "Spencer was tried first in Arlington County. The trial opened on July 11, 1988, and Style Weekly described it as the first capital murder conviction in United States history based on DNA evidence; he was convicted on July 16, 1988 and sentenced to death. On September 22, 1988, a Richmond jury convicted him of the rape, burglary and capital murder of Davis and fixed his sentence at death. His trial for the Hellams murder began on January 17, 1989 in the Circuit Court of the City of Richmond and ended in convictions for capital murder, rape, sodomy and burglary and another death sentence. He was then convicted in the Cho case of capital murder, rape and breaking and entering and received a fourth death sentence, which the Supreme Court of Virginia affirmed on June 8, 1990 in an opinion that accepted DNA analysis as reliable evidence.",
+   "His appeals turned largely on the DNA evidence. The Supreme Court of Virginia affirmed each conviction. In federal habeas proceedings, the Fourth Circuit held in September 1993 that the admission of the DNA results in the Davis case did not violate due process, and in February 1994 it rejected his claims in the Hellams case, including an argument that his lawyers were ineffective for not hiring a DNA expert. On April 27, 1994, Spencer, aged 32, was electrocuted at Greensville Correctional Center in Jarratt, Virginia. He declined to make a final statement.",
+   "The case had a second consequence. According to the Innocence Project, Carolyn Hamm, a 32-year-old lawyer, was raped and murdered in her Arlington home on January 23, 1984. David Vasquez, whose IQ was below 70, entered an Alford plea to second-degree murder and burglary on February 3, 1985 and was sentenced to 35 years. After Spencer's arrest, Arlington investigators concluded that the Hamm killing fit his pattern; the physical evidence had degraded too far to test, and Spencer was never charged with it. Governor Gerald L. Baliles granted Vasquez an unconditional pardon on January 4, 1989, the first exoneration in the United States brought about by DNA testing, and the General Assembly voted him $117,000 in compensation in 1990.",
+   "In 2026 WHRO reported that Spencer's convictions are among eight Virginia executions being reviewed by a State Crime Commission panel as part of a broader reassessment of the work of former state serologist Mary Jane Burton. A review by Shawn Armbrust of the Mid-Atlantic Innocence Project found no evidence that Burton's involvement affected the outcome in any of the eight cases. Spencer's brother, Travis Spencer, has said in a book that his brother told him he was not guilty.",
+   "Spencer was born on March 17, 1962 in Arlington, Virginia and raised by a single mother. Wikipedia records that he was sent to juvenile detention as a young teenager for petty theft and truancy, and in his twenties served prison time for burglaries and robberies in the Richmond area. He was serving a sentence for a 1984 burglary conviction until his release to the Richmond halfway house in September 1987, weeks before the first killing."
+  ],
+  "timeline": [
+   {
+    "date": "1962-03-17",
+    "text": "Timothy Wilson Spencer born in Arlington, Virginia."
+   },
+   {
+    "date": "1984-01-23",
+    "text": "Carolyn Hamm, 32, raped and murdered in her Arlington home; the killing is later attributed to Spencer, who is never charged with it."
+   },
+   {
+    "date": "1985-02-03",
+    "text": "David Vasquez enters an Alford plea to second-degree murder and burglary in the Hamm case and is sentenced to 35 years."
+   },
+   {
+    "date": "1987-09-04",
+    "text": "Spencer released from a burglary sentence to a halfway house in South Richmond."
+   },
+   {
+    "date": "1987-09-19",
+    "text": "Debbie Dudley Davis, 35, found strangled in her Southside Richmond apartment."
+   },
+   {
+    "date": "1987-10-03",
+    "text": "Dr. Susan Hellams, 32, found strangled in her Richmond home."
+   },
+   {
+    "date": "1987-11-22",
+    "text": "Diane Cho, 15, found dead in her family's apartment in Chesterfield County."
+   },
+   {
+    "date": "1987-12-01",
+    "text": "Susan Tucker, 44, found dead in her Arlington condominium; she was killed around November 27."
+   },
+   {
+    "date": "1988-01-20",
+    "text": "Arlington County police arrest Spencer for the Tucker rape and murder."
+   },
+   {
+    "date": "1988-07-16",
+    "text": "Arlington County jury convicts Spencer of the Tucker murder, the first U.S. murder conviction based on DNA evidence; he is sentenced to death."
+   },
+   {
+    "date": "1988-09-22",
+    "text": "Richmond jury convicts Spencer of the rape, burglary and capital murder of Davis; second death sentence."
+   },
+   {
+    "date": "1989-01-04",
+    "text": "Governor Gerald Baliles grants David Vasquez an unconditional pardon in the Hamm case."
+   },
+   {
+    "date": "1989-01-17",
+    "text": "Trial opens in Richmond for the Hellams murder; Spencer is convicted and receives a third death sentence."
+   },
+   {
+    "date": "1990-06-08",
+    "text": "Supreme Court of Virginia affirms Spencer's conviction and fourth death sentence for the murder of Diane Cho."
+   },
+   {
+    "date": "1993-09-16",
+    "text": "Fourth Circuit affirms denial of federal habeas relief in the Davis case, upholding admission of the DNA evidence."
+   },
+   {
+    "date": "1994-02-03",
+    "text": "Fourth Circuit affirms denial of habeas relief in the Hellams case."
+   },
+   {
+    "date": "1994-04-27",
+    "text": "Spencer, 32, executed in the electric chair at Greensville Correctional Center, Jarratt, Virginia."
+   },
+   {
+    "date": "2026-08",
+    "text": "WHRO reports Spencer's case is among eight Virginia executions under review in the reassessment of serologist Mary Jane Burton's work."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "dna evidence",
+   "home invasion",
+   "wrongful conviction",
+   "death penalty",
+   "serial rapist"
+  ],
+  "sources": [
+   {
+    "title": "U.S. Court of Appeals, Fourth Circuit - Spencer v. Murray, 5 F.3d 758 (1993)",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/005/5.F3d.758.92-4006.html"
+   },
+   {
+    "title": "U.S. Court of Appeals, Fourth Circuit - Spencer v. Murray, 18 F.3d 229 (1994)",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/018/18.F3d.229.93-4002.html"
+   },
+   {
+    "title": "Casemine - Spencer v. Commonwealth, 240 Va. 78 (1990), case summary",
+    "url": "https://www.casemine.com/commentary/us/spencer-v.-commonwealth-of-virginia:-affirmation-of-capital-murder-conviction-and-death-penalty/view"
+   },
+   {
+    "title": "Innocence Project - David Vasquez",
+    "url": "https://innocenceproject.org/cases/david-vasquez/"
+   },
+   {
+    "title": "Library of Virginia - DNA evidence exhibit (Law and Justice)",
+    "url": "https://lva.omeka.net/exhibits/show/law_and_justice/criminal_procedure/dna_evidence"
+   },
+   {
+    "title": "WHRO - Landmark DNA case is among Virginia executions being examined in review of Mary Jane Burton's work (2026)",
+    "url": "https://www.whro.org/2026-08-05/landmark-dna-case-is-among-virginia-executions-being-examined-in-review-of-mary-jane-burtons-work"
+   },
+   {
+    "title": "Style Weekly - Southern Nightmare series, part 7: the Arlington trial",
+    "url": "https://www.styleweekly.com/?p=16208"
+   },
+   {
+    "title": "Wikipedia - Timothy Wilson Spencer",
+    "url": "https://en.wikipedia.org/wiki/Timothy_Wilson_Spencer"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Wilson_Spencer",
   "enriched": true,
   "verified": "2026-10-28"
  },

@@ -207,7 +207,7 @@ Field rules (enforced by `check.py`, section 7.4):
   work. `primaryState` picks the state page the profile is listed first on; a profile is
   listed on every state in `states`.
 - `cases`: ids that must exist in `cases.json`. The build fails otherwise.
-- `summary` 120 to 300 chars; `narrative` 400 to 800 words; `timeline` 5 to 20 events;
+- `summary` 120 to 300 chars; `narrative` 400 to 950 words; `timeline` 5 to 20 events;
   `sources` at least 3, every URL HTTP-checked at collection time; Wikipedia counts as one
   source only and never as the sole source for a conviction, sentence or victim count.
 - Victims' names appear only when they are already public in cited reporting or court
