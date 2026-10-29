@@ -1,11 +1,13 @@
 # Serial killers category: implementation plan
 
-Status: phase 1 shipped 2026-10-28 (commits 8abaafa6, 2b64d141 and the one carrying this
-line). Decisions taken: US only at launch, 3-plus victim threshold, build biggest to smallest
-by search volume. Live: 20 profiles, the hub, 51 state pages (6 indexable), 7 lists, timeline,
-statistics and both answer pages; 133 checked sources; 9 profiles linked to existing case
-files, plus Shelly Knotek under a recorded exception (section 3.4). Next: phase 2, starting with the collect
-script's `candidates`, `infobox` and `select` stages and the high-volume states in 2.1.
+Status: phase 2 shipped 2026-10-29. Live: 61 profiles (8 women, 10 unidentified series),
+hub, 51 state pages (13 indexable: California, Florida, Illinois, Indiana, Kansas, Michigan,
+New York, Ohio, Oregon, Pennsylvania, Texas, Washington, Wisconsin), all 7 lists indexable,
+timeline, statistics, both answer pages; 429 checked sources; 36 profile-to-case links.
+Decisions: US only at launch, 3-plus victim threshold (Heidnik and Knotek under recorded
+exceptions), build biggest to smallest by search volume. Next: Virginia (600/mo) needs one
+more profile to index; Colorado, Missouri, Massachusetts, Louisiana, Kentucky sit at 1 to 2;
+the collect script's `candidates`, `infobox` and `select` stages are still to be written.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
 keyword cluster (75K/mo head term at KD 17; "california serial killers" 2K at KD 1;

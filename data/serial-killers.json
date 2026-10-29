@@ -1,5 +1,177 @@
 [
  {
+  "id": "aileen-wuornos",
+  "name": "Aileen Wuornos",
+  "aliases": [
+   "Aileen Carol Wuornos",
+   "Lori Kristine Grody",
+   "Susan Lynn Blahovec",
+   "Cammie Marsh Greene",
+   "The Damsel of Death"
+  ],
+  "born": "1956-02-29",
+  "died": "2002-10-09",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Florida"
+  ],
+  "primaryState": "Florida",
+  "cities": [
+   "Daytona Beach",
+   "Ocala"
+  ],
+  "activeFrom": 1989,
+  "activeTo": 1990,
+  "victims": {
+   "convicted": 6,
+   "confessed": 7,
+   "suspected": "7"
+  },
+  "victimProfile": "Middle-aged men aged 40 to 65 who picked her up while she hitchhiked or solicited along Florida highways",
+  "method": [
+   "shooting"
+  ],
+  "apprehended": "1991-01-09",
+  "captureMethod": "Witnesses to a July 1990 crash in a victim's car described two women; pawned victims' property and a fingerprint tied to one alias led police to arrest her on an outstanding weapons warrant at a Volusia County bar.",
+  "legalStatus": "Convicted",
+  "sentence": "Six death sentences (one jury verdict, 1992; five guilty or no-contest pleas, 1992 to 1993), plus 10-, 40-, 40- and 17-year terms for armed robbery",
+  "fate": "Executed",
+  "fateDetail": "Lethal injection, Florida State Prison near Starke, October 9, 2002",
+  "summary": "Executed by Florida in 2002. Aileen Wuornos shot seven men along Florida highways in 1989 and 1990; a jury convicted her of the Richard Mallory murder and she pleaded guilty or no contest to five more, receiving six death sentences.",
+  "narrative": [
+   "Aileen Carol Wuornos shot and killed seven men along the highways of central and north Florida between November 1989 and November 1990. According to the Florida Commission on Capital Cases, a Volusia County jury convicted her of the first-degree murder of Richard Mallory in January 1992, and she then pleaded no contest or guilty to five further murders in Marion, Citrus, Dixie and Pasco counties, for six death sentences in all. She also confessed to killing a seventh man, Peter Siems, whose body was never found; no charge was brought in that case. Wuornos said she shot the men in self-defence after they attacked her. The courts rejected that account, and Florida executed her on October 9, 2002.",
+   "Mallory, 51, a Clearwater electronics store owner, was last seen on November 30, 1989; his body was found in Volusia County on December 13, shot with a .22-caliber pistol. Over the following year the bodies of David Spears (Citrus County, June 1, 1990), Charles Carskaddon (Pasco County, June 6), Troy Burress (Marion County, August 4), Charles \"Dick\" Humphreys (Marion County, September 12) and Walter Gino Antonio (Dixie County, November 19) were found near roads, each shot several times, their wallets and vehicles missing. Siems' car was found wrecked near Orange Springs on July 4, 1990.",
+   "Witnesses to the crash described two women leaving the car. According to Wikipedia's summary of the investigation, victims' belongings surfaced in pawnshops and a fingerprint on a receipt signed under an alias was matched to prints on file for Wuornos. On January 9, 1991, officers arrested her at The Last Resort bar in Volusia County on an outstanding concealed-weapon warrant under the name Lori Grody. Her companion, Tyria Moore, agreed to cooperate, and on January 16 Wuornos confessed, saying each man had tried to rape or assault her.",
+   "A Volusia County grand jury indicted Wuornos on January 28, 1991, according to her later postconviction brief. At trial from January 13 to 27, 1992, the state was allowed under Florida's Williams rule to present evidence of the other killings. The jury found her guilty and recommended death 12 to 0; on January 31, 1992, she was sentenced to death plus 10 years for armed robbery. The Florida Supreme Court affirmed on September 22, 1994, and the U.S. Supreme Court denied review in April 1995.",
+   "On March 31, 1992, Wuornos pleaded no contest to the murders of Humphreys, Burress and Spears. In Wuornos v. State, 644 So. 2d 1012 (Fla. 1994), the Florida Supreme Court recorded that she continued to assert self-defence at the plea colloquy and that her confessions \"differed in substantial ways\"; it upheld the pleas and the three death sentences imposed on May 15, 1992. She pleaded guilty in Dixie County to the Antonio murder and was sentenced to death on February 4, 1993; the Pasco County court imposed a sixth death sentence for Carskaddon the next day after she waived a penalty hearing.",
+   "Her postconviction lawyers argued that trial counsel should have uncovered Mallory's Maryland record, which the brief says included a 1958 plea to assault with intent to rape. The circuit court denied relief in 2000. In April 2001 Wuornos asked the Florida Supreme Court to dismiss her lawyers and end her appeals; a judge found her competent on July 20, 2001, and the court dismissed the appeals on April 1, 2002. ABC News reported that in a 2001 interview she said she needed to die for the killings, and Knight Ridder noted she had withdrawn the self-defence claim.",
+   "Governor Jeb Bush signed a death warrant on September 5, 2002. According to Capital Punishment in Context, he granted a brief stay on September 30 for a psychiatric examination, and three state-appointed psychiatrists found her competent. Wuornos was pronounced dead by lethal injection at 9:47 a.m. on October 9, 2002, at Florida State Prison near Starke, the second woman executed by Florida since 1976.",
+   "Wuornos was born Aileen Carol Pittman on February 29, 1956, in Rochester, Michigan, and was raised by her grandparents. According to Wikipedia and witnesses at her postconviction hearing, she described an abusive childhood and gave birth at 15. Her record before 1989 included a 1982 armed robbery sentence."
+  ],
+  "timeline": [
+   {
+    "date": "1956-02-29",
+    "text": "Born Aileen Carol Pittman in Rochester, Michigan."
+   },
+   {
+    "date": "1989-11-30",
+    "text": "Richard Mallory, 51, last seen; his body is found in Volusia County on December 13, shot."
+   },
+   {
+    "date": "1990-06-01",
+    "text": "David Spears, 47, found shot along US 19 in Citrus County."
+   },
+   {
+    "date": "1990-06-06",
+    "text": "Charles Carskaddon, 40, found shot in Pasco County."
+   },
+   {
+    "date": "1990-07-04",
+    "text": "Peter Siems' car is found wrecked near Orange Springs; witnesses describe two women. Siems is never found."
+   },
+   {
+    "date": "1990-08-04",
+    "text": "Troy Burress, 50, found shot in Marion County."
+   },
+   {
+    "date": "1990-09-12",
+    "text": "Charles 'Dick' Humphreys, 56, found shot in Marion County."
+   },
+   {
+    "date": "1990-11-19",
+    "text": "Walter Gino Antonio, 61, found shot in Dixie County; the last known victim."
+   },
+   {
+    "date": "1991-01-09",
+    "text": "Arrested at The Last Resort bar in Volusia County on an outstanding weapons warrant; confesses on January 16, claiming self-defence."
+   },
+   {
+    "date": "1992-01-27",
+    "text": "Volusia County jury convicts her of the first-degree murder of Richard Mallory."
+   },
+   {
+    "date": "1992-01-31",
+    "text": "Sentenced to death for the Mallory murder on a 12-0 jury recommendation."
+   },
+   {
+    "date": "1992-03-31",
+    "text": "Pleads no contest to the murders of Humphreys, Burress and Spears."
+   },
+   {
+    "date": "1992-05-15",
+    "text": "Three more death sentences imposed in the Marion and Citrus County cases."
+   },
+   {
+    "date": "1993-02-04",
+    "text": "Pleads guilty to the Antonio murder in Dixie County and is sentenced to death; a sixth death sentence follows in Pasco County the next day for Carskaddon."
+   },
+   {
+    "date": "1994-09-22",
+    "text": "Florida Supreme Court affirms the Mallory conviction and death sentence."
+   },
+   {
+    "date": "2002-04-01",
+    "text": "Florida Supreme Court accepts her waiver of appeals and discharges her lawyers after a competency finding."
+   },
+   {
+    "date": "2002-09-05",
+    "text": "Governor Jeb Bush signs the death warrant."
+   },
+   {
+    "date": "2002-10-09",
+    "text": "Executed by lethal injection at Florida State Prison near Starke."
+   }
+  ],
+  "cases": [
+   "aileen-wuornos"
+  ],
+  "tags": [
+   "highway killings",
+   "robbery",
+   "execution",
+   "self-defense claim",
+   "female killer"
+  ],
+  "sources": [
+   {
+    "title": "Florida Commission on Capital Cases - Wuornos, Aileen, DC# 150924 (case history)",
+    "url": "https://www.leg.state.fl.us/capitalcases/Documents/Case_updates/Htm/150924.html"
+   },
+   {
+    "title": "Florida Commission on Capital Cases - Inmate details, Aileen Wuornos",
+    "url": "https://www.leg.state.fl.us/capitalcases/inmatedetailsdf35.html?IID=462"
+   },
+   {
+    "title": "Florida Supreme Court - Wuornos v. State, 644 So. 2d 1012 (Fla. 1994)",
+    "url": "https://case-law.vlex.com/vid/wuornos-v-state-no-893561733"
+   },
+   {
+    "title": "Florida Supreme Court - Wuornos v. State, No. SC00-1199, initial brief of appellant",
+    "url": "https://flcourts-media.flcourts.gov/content/download/341429/file/00-1199_ini.pdf"
+   },
+   {
+    "title": "Capital Punishment in Context - Aileen Wuornos: The Post Trial Period",
+    "url": "https://capitalpunishmentincontext.org/node/77456"
+   },
+   {
+    "title": "ABC News - Female Serial Killer Has Been Executed",
+    "url": "https://abcnews.com/GMA/story?id=124614"
+   },
+   {
+    "title": "Lawrence Journal-World (Knight Ridder) - Female serial killer executed",
+    "url": "https://www2.ljworld.com/news/2002/oct/10/female_serial_killer/"
+   },
+   {
+    "title": "Wikipedia - Aileen Wuornos",
+    "url": "https://en.wikipedia.org/wiki/Aileen_Wuornos"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Aileen_Wuornos",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "albert-fish",
   "name": "Albert Fish",
   "aliases": [
@@ -463,6 +635,321 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 8300
+ },
+ {
+  "id": "arthur-shawcross",
+  "name": "Arthur Shawcross",
+  "aliases": [
+   "The Genesee River Killer",
+   "The Rochester Strangler",
+   "The Monster of the Rivers"
+  ],
+  "born": "1945-06-06",
+  "died": "2008-11-10",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "New York"
+  ],
+  "primaryState": "New York",
+  "cities": [
+   "Rochester",
+   "Watertown",
+   "Greece",
+   "Sweden"
+  ],
+  "activeFrom": 1972,
+  "activeTo": 1989,
+  "victims": {
+   "convicted": 11,
+   "confessed": 11,
+   "suspected": "11 murders plus 2 child deaths resolved by a 1972 manslaughter plea; police initially reviewed up to 17 deaths or disappearances"
+  },
+  "victimProfile": "Women aged 20 to 59 in Rochester, most of them sex workers; two children aged 8 and 10 in Watertown in 1972",
+  "method": [
+   "strangulation",
+   "suffocation",
+   "blunt force"
+  ],
+  "apprehended": "1990-01-05",
+  "captureMethod": "A State Police helicopter searching for a missing woman found June Cicero's body near Northampton Park and spotted Shawcross's car leaving the area; he admitted the killings under questioning.",
+  "legalStatus": "Convicted",
+  "sentence": "10 consecutive terms of 25 years to life, 250 years minimum (Monroe County, February 1991); additional term after a 1991 guilty plea to one murder in Wayne County",
+  "fate": "Died in prison",
+  "fateDetail": "Died of cardiac arrest at Albany Medical Center after falling ill at Sullivan Correctional Facility, Fallsburg, New York",
+  "summary": "Convicted by a Monroe County jury in December 1990 of 10 murders of Rochester-area women and sentenced to 250 years to life; pleaded guilty to an 11th in Wayne County. Paroled in 1987 after a 1972 manslaughter plea for two children's deaths. Died in custody in 2008.",
+  "narrative": [
+   "Arthur John Shawcross was a New York serial killer convicted of murdering 11 women in the Rochester area between March 1988 and December 1989. In December 1990 a Monroe County jury found him guilty of 10 counts of second-degree murder, and in February 1991 Judge Donald Wisner imposed 25 years to life on each count, a 250-year minimum that the district attorney called the longest sentence in state history, UPI reported. The Associated Press reported that three months later he pleaded guilty to strangling an 11th woman found in neighboring Wayne County. Separately, in 1972 he had pleaded guilty to first-degree manslaughter in the deaths of two children in Watertown, New York, and was paroled in 1987.",
+   "The Rochester murders began in March 1988 with Dorothy Blackburn, 27. According to UPI, nine of the ten women in the Monroe County indictment were sex workers, and most were strangled or suffocated. Victims named in the Wikipedia article and wire reports include Anna Marie Steffen, Dorothy Keeler, Patricia Ives, June Stott, Marie Welch, Frances Brown, Kimberly Logan, Darlene Trippi, June Cicero and Felicia Stephens. At trial a police witness testified that Shawcross said he killed Keeler, 59, in the Genesee River gorge in spring 1989 after an argument, striking her with a log. Elizabeth Gibson, 29, found on November 27, 1989, was killed in Wayne County and charged separately.",
+   "UPI reported that on January 3, 1990, a State Police helicopter searching for June Cicero found her body in a culvert near Northampton Park west of Rochester and minutes later saw a car speeding away. Troopers followed it to Shawcross's home. He was questioned on January 4 and, according to police accounts reported by UPI, admitted the killings and gave information that led investigators to the bodies of Marie Welch and Felicia Stephens. He was arraigned on January 5, 1990, pleading not guilty to eight murders; a 23-member grand jury returned a 10-count second-degree murder indictment on January 23.",
+   "Wire reports in January 1990 recounted that after his 1987 parole Shawcross was placed in the village of Delhi, where residents learned of his record and his landlord evicted him; he was then quietly relocated to Rochester, where he worked nights stocking shelves. The placements drew public criticism of parole supervision.",
+   "The televised Monroe County trial opened in the autumn of 1990 before Judge Wisner, with First Assistant District Attorney Charles Siragusa prosecuting. Shawcross pleaded not responsible by reason of mental disease or defect. The Associated Press reported that defense psychiatrist Dorothy Lewis attributed his conduct to brain damage, childhood abuse and Vietnam service, while prosecution psychiatrist Park Dietz testified that he was feigning illness. The jury deliberated about six and a half hours before convicting him on all 10 counts in December 1990.",
+   "In People v. Shawcross, 192 A.D.2d 1128 (April 14, 1993), the Appellate Division, Fourth Department, unanimously affirmed the Monroe County judgment. The court rejected claims that the trial judge should have inquired into a defense expert's complaint about defense counsel and that the jury should not have been told the consequences of an insanity verdict, and it upheld the denial of his suppression motion, finding that he had voluntarily accompanied police and was not in custody when questioned.",
+   "Shawcross served his sentence at Sullivan Correctional Facility in Fallsburg. In 2001 sales of his artwork at a state inmate art show drew protests from victims' families and led New York to end the show, the Associated Press reported. On November 10, 2008, he was taken from the prison to Albany Medical Center and died there that night at 63; the Wikipedia article gives the cause as cardiac arrest. A 2024 WHEC report noted that police had initially considered 17 women as possible victims.",
+   "Shawcross was born June 6, 1945, in Kittery, Maine, and grew up near Watertown, New York. On parole for burglary in 1972, he was arrested that September for the death of Karen Ann Hill, 8, and later admitted killing Jack Owen Blake, 10, who had disappeared in May. On October 17, 1972, he pleaded guilty to first-degree manslaughter and received an indeterminate sentence with a 25-year maximum, serving about 14 years before his 1987 parole."
+  ],
+  "timeline": [
+   {
+    "date": "1945-06-06",
+    "text": "Arthur John Shawcross born in Kittery, Maine."
+   },
+   {
+    "date": "1972-05-07",
+    "text": "Jack Owen Blake, 10, disappears in Watertown, New York; his body is found in September."
+   },
+   {
+    "date": "1972-09-02",
+    "text": "Karen Ann Hill, 8, killed in Watertown; Shawcross is arrested the next day."
+   },
+   {
+    "date": "1972-10-17",
+    "text": "Pleads guilty to first-degree manslaughter in a plea bargain covering both children; sentenced to a maximum of 25 years."
+   },
+   {
+    "date": "1987",
+    "text": "Paroled after about 14 years; relocated from Delhi and Fleischmanns to Rochester after local objections."
+   },
+   {
+    "date": "1988-03-18",
+    "text": "Dorothy Blackburn, 27, disappears in Rochester; found six days later. First of the Rochester murders."
+   },
+   {
+    "date": "1989-11-25",
+    "text": "Elizabeth Gibson, 29, disappears; found November 27 in Wayne County."
+   },
+   {
+    "date": "1989-12-28",
+    "text": "Felicia Stephens, 20, disappears; found December 31, the last of the Rochester victims."
+   },
+   {
+    "date": "1990-01-03",
+    "text": "A State Police helicopter finds June Cicero's body near Northampton Park and sees Shawcross's car leaving the area."
+   },
+   {
+    "date": "1990-01-05",
+    "text": "Arrested and arraigned in Rochester City Court after admitting the killings under questioning, according to police accounts reported by UPI."
+   },
+   {
+    "date": "1990-01-23",
+    "text": "Monroe County grand jury indicts him on 10 counts of second-degree murder."
+   },
+   {
+    "date": "1990-12",
+    "text": "Monroe County jury rejects an insanity defense and convicts him on all 10 counts after about six and a half hours of deliberation."
+   },
+   {
+    "date": "1991-02-01",
+    "text": "Judge Donald Wisner sentences him to 25 years to life on each count, a 250-year minimum."
+   },
+   {
+    "date": "1991",
+    "text": "Pleads guilty in Wayne County to the murder of Elizabeth Gibson, bringing his murder convictions to 11."
+   },
+   {
+    "date": "1993-04-14",
+    "text": "Appellate Division, Fourth Department, unanimously affirms the Monroe County convictions (192 A.D.2d 1128)."
+   },
+   {
+    "date": "2008-11-10",
+    "text": "Dies at Albany Medical Center, age 63, after falling ill at Sullivan Correctional Facility."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "sex workers",
+   "parolee",
+   "insanity defense",
+   "child victims",
+   "confession"
+  ],
+  "sources": [
+   {
+    "title": "People v. Shawcross, 192 A.D.2d 1128 (N.Y. App. Div. 4th Dept. 1993) - Caselaw Access Project",
+    "url": "https://static.case.law/ad2d/192/cases/1128-01.json"
+   },
+   {
+    "title": "UPI - Serial killer Arthur Shawcross sentenced to 250 years (Feb. 2, 1991)",
+    "url": "https://www.upi.com/Archives/1991/02/02/Serial-killer-Arthur-Shawcross-sentenced-to-250-years/4037665470800/"
+   },
+   {
+    "title": "NBC News / Associated Press - Serial killer Arthur Shawcross dies at 63 (Nov. 11, 2008)",
+    "url": "https://www.nbcnews.com/id/wbna27665929"
+   },
+   {
+    "title": "UPI - Paroled child killer arrested in serial killings (Jan. 6, 1990)",
+    "url": "https://www.upi.com/Archives/1990/01/06/Paroled-child-killer-arrested-in-serial-killings/1037631602000/"
+   },
+   {
+    "title": "UPI - Accused serial killer pleads innocent in 10 deaths (Jan. 24, 1990)",
+    "url": "https://www.upi.com/Archives/1990/01/24/Accused-serial-killer-pleads-innocent-in-10-deaths/2480633157200/"
+   },
+   {
+    "title": "UPI - Police: suspect told them body was of his mistress (Oct. 2, 1990)",
+    "url": "https://www.upi.com/Archives/1990/10/02/Police-suspect-told-them-body-was-of-his-mistress/1204654840000/"
+   },
+   {
+    "title": "WHEC News10NBC - Death of woman originally linked to serial killer Shawcross remains open case",
+    "url": "https://www.whec.com/local/news10nbc-investigates-death-of-women-originally-linked-to-serial-killer-shawcross-remains-open-case/"
+   },
+   {
+    "title": "Wikipedia - Arthur Shawcross",
+    "url": "https://en.wikipedia.org/wiki/Arthur_Shawcross"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Shawcross",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "axeman-of-new-orleans",
+  "name": "Axeman of New Orleans",
+  "aliases": [
+   "The Axeman",
+   "The Axman",
+   "The Cleaver"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "Louisiana"
+  ],
+  "primaryState": "Louisiana",
+  "cities": [
+   "New Orleans",
+   "Gretna"
+  ],
+  "activeFrom": 1918,
+  "activeTo": 1919,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "At least 6 killed and 6 injured in the attacks attributed to the series in 1918 and 1919; historians dispute which attacks belong to it, and totals of up to 17 killed have been cited"
+  },
+  "victimProfile": "Italian-American grocers and their families, attacked in their beds above or beside their stores at night; victims ranged from a 2-year-old child to a grocer in his sixties",
+  "method": [
+   "axe blows to the head",
+   "throat cutting"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "Unknown",
+  "fateDetail": null,
+  "summary": "Unidentified. An unknown attacker killed at least six people and injured six more in night-time axe attacks on homes in New Orleans and Gretna, Louisiana, between May 1918 and October 1919, most of them Italian-American grocers. Never solved.",
+  "narrative": [
+   "The Axeman of New Orleans is the name the press gave to an unidentified attacker held responsible for night-time assaults on households in New Orleans and neighboring Gretna, Louisiana, between May 1918 and October 1919. According to the Wikipedia article, at least six people were killed and six injured in the attacks attributed to the series, and some tallies run higher. Most victims were Italian-American grocers and their families. No one was ever convicted of the series, the case was never solved, and the offender is presumed dead.",
+   "The first attack came on May 23, 1918, when grocer Joseph Maggio and his wife Catherine were found with their heads struck by an axe and their throats cut; both died. On June 27, 1918, grocer Louis Besumer and Harriet Lowe were attacked; Lowe died in August after surgery. Anna Schneider survived an attack on August 5, 1918, and Joseph Romano died two days after being struck on August 10, 1918. Wikipedia reports that the intruder usually chiseled out a rear door panel, used the household's own axe and stole nothing.",
+   "According to the Louisiana Supreme Court opinion in State v. Guagliardo, Charles and Rosie Cortimiglia were found in their bed in Gretna on the morning of Sunday, March 9, 1919, with their skulls fractured and their daughter, aged about 21 months, dead beside them; both parents recovered after emergency surgery at Charity Hospital. Back in New Orleans, grocer Steve Boca was injured on August 10, 1919, Sarah Laumann, 19, on September 3, 1919, and grocer Mike Pepitone was killed on October 27, 1919, the last attack attributed to the series.",
+   "The case is remembered for a letter dated \"Hell, March 13, 1919\" and signed by the Axeman, which the Times-Picayune published on March 16, 1919, according to Country Roads Magazine and Crime and Investigation. The writer said he would pass through the city at 12:15 a.m. the following Tuesday night and spare any home where a jazz band was playing. On the night of March 18 to 19, bands played across the city and no attack was reported. Historian Miriam C. Davis has argued that the letter's style suggests it was not written by the killer and that a local composer used the scare to promote a song, \"The Axman's Jazz\".",
+   "The investigation produced arrests but no lasting conviction. Wikipedia reports that police briefly held Joseph Maggio's brother Andrew and released him, and that other men arrested in 1918 were freed for lack of evidence. Louis Besumer, accused by Harriet Lowe before her death, was charged with her murder and acquitted by a jury on May 1, 1919. In Gretna, authorities arrested the Cortimiglias' neighbors and business rivals, Iorlando Jordano, about 66, and his son Frank, 17, whose family name was Guagliardo. Indicted on May 5, 1919, both were convicted by a jury; Frank was sentenced to death and his father to life at hard labor. Rosie Cortimiglia, the only witness connecting them to the crime, later retracted her identification. On April 5, 1920, the Louisiana Supreme Court annulled both convictions because the prosecution had withheld her written statement and announced impeachment evidence it never produced, and ordered a new trial. Smithsonian magazine reports that the two men were freed in December 1920.",
+   "The Mafia and the Black Hand extortion practice were widely blamed at the time, but according to Smithsonian the New Orleans police superintendent, Frank Mooney, and detective John Dantonio rejected that theory because a vendetta would not have left so many survivors. Later writers have proposed names for the killer, but no person was ever named by the police or a court as the Axeman.",
+   "Historians disagree about the series' boundaries. Newspapers in 1918 linked the attacks to axe and cleaver assaults on Italian grocers in 1910 to 1912, including the fatal attack on Joseph Davi in June 1911, and Davis argues the same offender was responsible. She excludes the Besumer, Schneider and Pepitone cases as unrelated and attributes axe attacks on Italian grocers elsewhere in Louisiana in 1920 and 1921 to the same man. None of these conclusions has been confirmed by any official finding."
+  ],
+  "timeline": [
+   {
+    "date": "1911-06",
+    "text": "Grocer Joseph Davi fatally attacked in New Orleans; one of several 1910 to 1912 attacks on Italian grocers later linked to the series by press and historians."
+   },
+   {
+    "date": "1918-05-23",
+    "text": "Grocer Joseph Maggio and his wife Catherine killed in their home at Upperline and Magnolia Streets; the first attack in the series."
+   },
+   {
+    "date": "1918-06-27",
+    "text": "Louis Besumer and Harriet Lowe attacked at Dorgenois and Laharpe Streets; Lowe dies in August after surgery."
+   },
+   {
+    "date": "1918-08-05",
+    "text": "Anna Schneider, eight months pregnant, injured in her bed; she survives and gives birth two days later."
+   },
+   {
+    "date": "1918-08-10",
+    "text": "Joseph Romano struck in his home; he dies two days later."
+   },
+   {
+    "date": "1919-03-09",
+    "text": "Charles and Rosie Cortimiglia found with fractured skulls in Gretna; their daughter Mary, about 2, is dead."
+   },
+   {
+    "date": "1919-03-16",
+    "text": "The Times-Picayune publishes a letter dated March 13 and signed by the Axeman, promising to spare homes where jazz is playing."
+   },
+   {
+    "date": "1919-03-19",
+    "text": "Jazz night: bands play across New Orleans at the hour named in the letter; no attack is reported."
+   },
+   {
+    "date": "1919-05-01",
+    "text": "Louis Besumer acquitted by a jury of the murder of Harriet Lowe."
+   },
+   {
+    "date": "1919-05-05",
+    "text": "Iorlando and Frank Jordano (Guagliardo) indicted in Jefferson Parish for the murder of the Cortimiglia child; both are later convicted, Frank sentenced to death and his father to life."
+   },
+   {
+    "date": "1919-08-10",
+    "text": "Grocer Steve Boca injured in an attack in New Orleans."
+   },
+   {
+    "date": "1919-09-03",
+    "text": "Sarah Laumann, 19, injured in an attack in New Orleans."
+   },
+   {
+    "date": "1919-10-27",
+    "text": "Grocer Mike Pepitone killed; the last attack attributed to the series."
+   },
+   {
+    "date": "1920-04-05",
+    "text": "Louisiana Supreme Court annuls the Jordano convictions in State v. Guagliardo and orders a new trial after Rosie Cortimiglia retracts her identification."
+   },
+   {
+    "date": "1920-12",
+    "text": "Iorlando and Frank Jordano freed; no one is ever convicted of any Axeman attack."
+   }
+  ],
+  "cases": [
+   "new-orleans-ax-man"
+  ],
+  "tags": [
+   "unidentified",
+   "historical",
+   "italian-american victims",
+   "grocers",
+   "wrongful conviction",
+   "jazz"
+  ],
+  "sources": [
+   {
+    "title": "Louisiana Supreme Court - State v. Guagliardo, 146 La. 949, 84 So. 216 (April 5, 1920), via CourtListener",
+    "url": "https://www.courtlistener.com/opinion/7257652/state-v-guagliardo/"
+   },
+   {
+    "title": "Smithsonian Magazine - The Axeman of New Orleans Preyed on Italian Immigrants (Miriam Davis, February 15, 2018)",
+    "url": "https://www.smithsonianmag.com/history/axeman-new-orleans-preyed-italian-immigrants-180968037/"
+   },
+   {
+    "title": "Country Roads Magazine - The Axeman of New Orleans (September 22, 2022)",
+    "url": "https://countryroadsmagazine.com/art-and-culture/history/the-axeman-new-orleans/"
+   },
+   {
+    "title": "Crime and Investigation - The Axeman of New Orleans",
+    "url": "https://www.crimeandinvestigation.co.uk/article/the-axeman-of-new-orleans"
+   },
+   {
+    "title": "Vice - How the Axeman of New Orleans Terrorized a City and Escaped the Law (interview with Miriam C. Davis, March 1, 2017)",
+    "url": "https://www.vice.com/en/article/how-the-axeman-of-new-orleans-terrorized-a-city-and-escaped-the-law/"
+   },
+   {
+    "title": "Wikipedia - Axeman of New Orleans",
+    "url": "https://en.wikipedia.org/wiki/Axeman_of_New_Orleans"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Axeman_of_New_Orleans",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "belle-gunness",
@@ -1414,6 +1901,157 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "connecticut-river-valley-killer",
+  "name": "Connecticut River Valley Killer",
+  "aliases": [
+   "The Valley Killer",
+   "The Kellyville Killer"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "New Hampshire",
+   "Vermont"
+  ],
+  "primaryState": "New Hampshire",
+  "cities": [
+   "Claremont",
+   "Newport",
+   "Unity",
+   "New London",
+   "Charlestown",
+   "Swanzey",
+   "Westminster",
+   "Hartland"
+  ],
+  "activeFrom": 1978,
+  "activeTo": 1988,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "At least 7 women killed; 1 woman attacked and survived"
+  },
+  "victimProfile": "Women aged 17 to 39, several of them hitchhiking, driving alone or outdoors in the Claremont and Newport area of New Hampshire and across the river in Vermont",
+  "method": [
+   "stabbing"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. At least seven women were stabbed to death in the Connecticut River Valley of New Hampshire and Vermont between 1978 and 1987, and a pregnant woman survived a 1988 attack. The case remains open with the New Hampshire cold case unit.",
+  "narrative": [
+   "The Connecticut River Valley Killer is the name given to the unidentified person believed responsible for the stabbing deaths of at least seven women on both sides of the Connecticut River in New Hampshire and Vermont between 1978 and 1987, and for a 1988 attack on a pregnant woman who survived. Most victims were found in woods near Claremont, Newport and Unity, New Hampshire; two were found in Vermont. No one has been charged, and the New Hampshire Attorney General's Office, which has never officially linked all of the killings, treats them as open cold cases.",
+   "The first death usually included is that of Catherine Millican, 27, last seen on October 24, 1978, when she went birdwatching in New London, New Hampshire. According to the New Hampshire Union Leader, her body was found the next night off Route 11 with multiple stab wounds. Mary Elizabeth Critchley, 37, was last seen hitchhiking in July 1981 and found in Unity that August; Wikipedia records her cause of death as undetermined. Bernice Courtemanche, 17, disappeared from Claremont on May 30, 1984, and Ellen Fried, 26, a nurse, was last seen at a Claremont payphone that July. Fried's skeletal remains were found near the Sugar River in the Kellyville section of Newport in September 1985; Courtemanche's were found in Newport on April 19, 1986, and WMUR reported she had been stabbed. Eva Morse, 27, last seen hitchhiking near Charlestown in July 1985, was found fatally stabbed in West Unity six days later.",
+   "The killings also crossed into Vermont. Lynda Moore, 36, was found dead in her home in the Saxtons River area of Westminster, Vermont, on April 15, 1986; the Vermont State Police list the case as an unsolved homicide, and WMUR reported more than 20 stab wounds. Barbara Agnew, a 39-year-old nurse, went missing on January 10, 1987, after her car was found at the northbound Interstate 91 rest area in White River Junction. According to the Vermont State Police, her body was found in woods in Hartland, Vermont, and an autopsy determined homicide; Wikipedia gives the discovery date as March 28, 1987.",
+   "The last attack attributed to the series was survived. On August 6, 1988, Jane Boroski, 22 and seven months pregnant, stopped at a store in Swanzey, New Hampshire, on her way home from the Cheshire County Fair. According to WMUR, a man parked beside her, tried to pull her from her car and stabbed her 27 times before driving off. She drove to a friend's house; she and her baby survived. She gave police a description and a partial license plate. The attacks appear to have stopped afterward. Boroski has spoken publicly for decades; authorities have not publicly confirmed the link to the killings.",
+   "According to Wikipedia, investigators noted that dump sites, wound patterns and circumstances were similar enough to suggest one perpetrator; because two victims were nurses found near the Sugar River in Kellyville, the unknown man is sometimes called the Kellyville Killer. Private investigators and journalists have proposed candidates, including a man who died in a 2005 murder-suicide, but police have never publicly named a suspect, and Boroski has said she does not believe that man was her attacker.",
+   "The investigation has shown renewed activity in the 2020s. On May 21, 2024, the New Hampshire Cold Case Unit, State Police Major Crime Unit and Claremont and Newport police executed court-authorized search warrants at a residence on Ayers Road in Kellyville, Newport. The Valley News reported that the homeowner, questioned years earlier about the Fried case, said investigators took antique swords and knives that had belonged to his father; he denied any involvement and has not been charged. Attorney General's Office spokesman Michael Garrity said the search followed several years of investigation and cautioned against drawing conclusions.",
+   "On October 29, 2025, the 47th anniversary of Millican's death, the Cold Case Unit and New Hampshire Fish and Game began searching the Esther Currier Wildlife Management Area in New London for physical evidence and released previously unpublished photographs of her. The Cold Case Unit asks anyone with information to call 603-271-2663, and the Vermont State Police continue to carry the Moore and Agnew cases as unsolved homicides."
+  ],
+  "timeline": [
+   {
+    "date": "1978-10-24",
+    "text": "Catherine Millican, 27, last seen going birdwatching at a wetland in New London, New Hampshire; her body is found the next night off Route 11 with multiple stab wounds."
+   },
+   {
+    "date": "1981-07-25",
+    "text": "Mary Elizabeth Critchley, 37, last seen hitchhiking near Interstate 91; her body is found in Unity, New Hampshire, on August 9, 1981."
+   },
+   {
+    "date": "1984-05-30",
+    "text": "Bernice Courtemanche, 17, disappears from Claremont, New Hampshire."
+   },
+   {
+    "date": "1984-07-22",
+    "text": "Ellen Fried, 26, a nurse, last seen at a payphone in Claremont, New Hampshire."
+   },
+   {
+    "date": "1985-07-10",
+    "text": "Eva Morse, 27, last seen hitchhiking on Route 12 near Charlestown, New Hampshire."
+   },
+   {
+    "date": "1985-09-19",
+    "text": "Fried's skeletal remains found near the Sugar River in the Kellyville section of Newport, New Hampshire."
+   },
+   {
+    "date": "1986-04-15",
+    "text": "Lynda Moore, 36, found stabbed to death in her home in Westminster (Saxtons River), Vermont."
+   },
+   {
+    "date": "1986-04-19",
+    "text": "Courtemanche's skeletal remains found off Cat Hole Road in Newport, New Hampshire; an autopsy shows she was stabbed."
+   },
+   {
+    "date": "1986-04-25",
+    "text": "Morse's remains found in West Unity, New Hampshire; she had been fatally stabbed."
+   },
+   {
+    "date": "1987-01-10",
+    "text": "Barbara Agnew, 39, a nurse, goes missing; her car is found at the northbound I-91 rest area in White River Junction, Vermont."
+   },
+   {
+    "date": "1987-03-28",
+    "text": "Agnew's body found in a wooded area in Hartland, Vermont; an autopsy determines homicide."
+   },
+   {
+    "date": "1988-08-06",
+    "text": "Jane Boroski, 22 and seven months pregnant, stabbed 27 times by a stranger at a store in Swanzey, New Hampshire; she and her baby survive. The attacks stop."
+   },
+   {
+    "date": "2024-05-21",
+    "text": "New Hampshire Cold Case Unit and partner agencies execute court-authorized search warrants at a residence on Ayers Road in Kellyville, Newport; the homeowner is not charged."
+   },
+   {
+    "date": "2025-10-29",
+    "text": "Cold Case Unit and New Hampshire Fish and Game search the Esther Currier Wildlife Management Area in New London for evidence in the Millican case and release new photographs of her."
+   }
+  ],
+  "cases": [
+   "connecticut-river-valley-killer"
+  ],
+  "tags": [
+   "unidentified",
+   "cold case",
+   "hitchhikers",
+   "nurses",
+   "survivor"
+  ],
+  "sources": [
+   {
+    "title": "Valley News - Cold case is hot topic in Newport (June 1, 2024)",
+    "url": "https://vnews.com/2024/06/01/police-investigation-teams-search-newport-property-believed-connected-with-cold-case-55257316/"
+   },
+   {
+    "title": "New Hampshire Union Leader via Yahoo News - New search underway in connection with 1978 unsolved murder (Oct. 29, 2025)",
+    "url": "https://www.yahoo.com/news/articles/search-underway-connection-1978-unsolved-224700338.html"
+   },
+   {
+    "title": "WMUR via KVIA - Connecticut River Valley killings and survivor Jane Boroski (Feb. 19, 2025)",
+    "url": "https://kvia.com/?p=1350625"
+   },
+   {
+    "title": "Vermont State Police - Unsolved homicide: Lynda Moore",
+    "url": "https://vsp.vermont.gov/unsolved/homicide/moore"
+   },
+   {
+    "title": "Vermont State Police - Unsolved homicide: Barbara Agnew",
+    "url": "https://vsp.vermont.gov/unsolved/homicide/agnew"
+   },
+   {
+    "title": "Wikipedia - Connecticut River Valley Killer",
+    "url": "https://en.wikipedia.org/wiki/Connecticut_River_Valley_Killer"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Connecticut_River_Valley_Killer",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "coral-eugene-watts",
   "name": "Coral Eugene Watts",
   "aliases": [
@@ -2226,6 +2864,163 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "dorothea-puente",
+  "name": "Dorothea Puente",
+  "aliases": [
+   "Dorothea Montalvo Puente",
+   "The Death House Landlady",
+   "Donna Johansen"
+  ],
+  "born": "1929-01-09",
+  "died": "2011-03-27",
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Sacramento"
+  ],
+  "activeFrom": 1982,
+  "activeTo": 1988,
+  "victims": {
+   "convicted": 3,
+   "confessed": null,
+   "suspected": "9 (charged); seven bodies recovered from her yard, one from the Sacramento River, one earlier death reclassified"
+  },
+  "victimProfile": "Elderly, disabled or alcohol-dependent boarders, most of them Social Security or SSI recipients placed in her Sacramento boarding house",
+  "method": [
+   "drugging with prescription sedatives",
+   "burial in the yard"
+  ],
+  "apprehended": "1988-11-16",
+  "captureMethod": "A social worker reported a missing tenant, police dug in the yard of 1426 F Street and found remains, and Puente, who had left Sacramento during the dig, was recognized at a Los Angeles motel bar and arrested five days later.",
+  "legalStatus": "Convicted",
+  "sentence": "Two concurrent terms of life without parole for the first-degree murders of Benjamin Fink and Dorothy Miller, plus a concurrent 15 years to life for the second-degree murder of Leona Carpenter (December 10, 1993)",
+  "fate": "Died in prison",
+  "fateDetail": "Central California Women's Facility, Chowchilla, California; natural causes, aged 82",
+  "summary": "Died in prison 2011. Sacramento boarding-house operator charged with nine murders after seven bodies were dug from her yard in 1988; a Monterey County jury convicted her of three in 1993 and deadlocked on six. Two life terms without parole.",
+  "narrative": [
+   "Dorothea Puente ran a boarding house at 1426 F Street in downtown Sacramento, California, where seven bodies were dug out of the yard in November 1988. Prosecutors charged her with nine murders committed between 1982 and 1988. According to the federal habeas order in Puente v. Mitchell (N.D. Cal., 2006), which recites the facts found by the California Court of Appeal, a Monterey County jury convicted her on August 26, 1993 of two first-degree and one second-degree murder with a multiple-murder special circumstance and deadlocked on six counts. She received two concurrent life terms without parole and died at the Central California Women's Facility in Chowchilla on March 27, 2011.",
+   "The earliest charged death was that of Ruth Munroe, 61, a friend who moved into Puente's flat in April 1982 and died there on April 28, 1982; the court record says toxicology showed a massive codeine overdose and the coroner listed the cause as undetermined. In August 1982 Puente was convicted of administering a controlled substance, grand theft and forgery, and was released from a five-year term on September 9, 1985. Everson Gillmouth, 77, who had moved in with her, was last heard from that September. On January 1, 1986 a body was found in a nailed wooden box beside the Sacramento River in Sutter County; a handyman testified that Puente had him build the box and dump it there. It was later identified as Gillmouth.",
+   "From 1986 Puente took in boarders, many referred by a county social worker. The court record lists the tenants named in the charges: Betty Palmer, 78; Leona Carpenter, 78; James Gallop, 62; Vera Faye Martin, 61; Dorothy Miller, 65; Benjamin Fink, 55; and Alvaro \"Bert\" Montoya, 51. Each disappeared within weeks or months of arriving, Puente gave explanations for their absence, and their benefit checks kept coming to 1426 F Street, where she forged the endorsements. She filled 35 prescriptions for the sedative flurazepam (Dalmane) between 1985 and 1988, and sedatives were detected in some of the remains.",
+   "The case broke after Montoya, last seen on August 24, 1988, missed appointments and his social worker, Judy Moise, filed a missing persons report; the Associated Press reported that police reopened the matter on her complaint. On November 11, 1988, detectives and Puente's parole officer visited the house, she gave permission to dig, and officers found bones and a shoe containing a foot that morning. Digging on November 12, 13 and 14 uncovered seven bodies. On November 12 Puente left for a nearby hotel and did not return. She was recognized at a Los Angeles motel bar and arrested on November 16, 1988.",
+   "An information filed July 3, 1990 charged nine counts of first-degree murder. A change of venue was granted in February 1992 because of local publicity, and the trial ran about eight months in Monterey County in 1993. The defense argued that the boarders had died naturally, or by suicide in Munroe's case, and that Puente had hidden the bodies to keep collecting their checks. The jury found her guilty of the first-degree murders of Fink and Miller and the second-degree murder of Carpenter; it deadlocked on the other six counts, 11 to 1 on four of them, and those counts were dismissed. The penalty jury also deadlocked, so no death sentence was imposed. On December 10, 1993 she was sentenced to two concurrent terms of life without parole and a concurrent 15 years to life.",
+   "The California Court of Appeal, Sixth District, affirmed the convictions on August 28, 1997 but ordered a hearing on juror misconduct claims, which the Monterey County Superior Court rejected on September 25, 1998; the California Supreme Court denied review. On March 10, 2006 the U.S. District Court for the Northern District of California denied her federal habeas petition, rejecting the argument that the evidence failed to prove the deaths were homicides. The Associated Press reported that she died of natural causes on March 27, 2011, aged 82.",
+   "Puente was born Dorothea Helen Gray in Redlands, California, on January 9, 1929, according to Wikipedia, which also records convictions for forgery in 1948, for running a brothel in 1960, and in 1978 for cashing tenants' government checks."
+  ],
+  "timeline": [
+   {
+    "date": "1929-01-09",
+    "text": "Dorothea Helen Gray born in Redlands, California."
+   },
+   {
+    "date": "1982-04-28",
+    "text": "Ruth Munroe, 61, dies in Puente's flat at 1426 F Street of a codeine overdose; cause listed as undetermined."
+   },
+   {
+    "date": "1982-08",
+    "text": "Puente convicted of administering a controlled substance, grand theft and forgery; five-year prison term."
+   },
+   {
+    "date": "1985-09-09",
+    "text": "Released from prison; returns to 1426 F Street, where Everson Gillmouth, 77, has moved in."
+   },
+   {
+    "date": "1986-01-01",
+    "text": "Body in a nailed wooden box found beside the Sacramento River in Sutter County; later identified as Gillmouth."
+   },
+   {
+    "date": "1987",
+    "text": "Boarders Leona Carpenter, James Gallop, Vera Faye Martin and Dorothy Miller disappear after moving in; their checks keep arriving."
+   },
+   {
+    "date": "1988-04",
+    "text": "Benjamin Fink, 55, disappears at the end of April after two months at the house."
+   },
+   {
+    "date": "1988-08-24",
+    "text": "Alvaro \"Bert\" Montoya, 51, last seen; his social worker later files a missing persons report."
+   },
+   {
+    "date": "1988-11-11",
+    "text": "Sacramento police dig in the yard with Puente's permission and find the first human remains."
+   },
+   {
+    "date": "1988-11-14",
+    "text": "Seven bodies recovered after three days of digging; Puente has left Sacramento."
+   },
+   {
+    "date": "1988-11-16",
+    "text": "Arrested at a Los Angeles motel after being recognized by a patron at its bar."
+   },
+   {
+    "date": "1990-07-03",
+    "text": "Information filed in Sacramento County charging nine counts of first-degree murder with a multiple-murder special circumstance."
+   },
+   {
+    "date": "1992-02-19",
+    "text": "Change of venue granted; case transferred to Monterey County."
+   },
+   {
+    "date": "1993-08-26",
+    "text": "Jury convicts on two first-degree counts (Fink, Miller) and one second-degree count (Carpenter); deadlocks on six."
+   },
+   {
+    "date": "1993-12-10",
+    "text": "Sentenced to two concurrent life terms without parole plus 15 years to life after the penalty jury deadlocks."
+   },
+   {
+    "date": "1997-08-28",
+    "text": "California Court of Appeal affirms the convictions."
+   },
+   {
+    "date": "2006-03-10",
+    "text": "U.S. District Court denies federal habeas petition."
+   },
+   {
+    "date": "2011-03-27",
+    "text": "Dies of natural causes at the Central California Women's Facility, Chowchilla, aged 82."
+   }
+  ],
+  "cases": [
+   "dorothea-puente"
+  ],
+  "tags": [
+   "boarding house",
+   "elderly victims",
+   "poisoning",
+   "social security fraud",
+   "female killer"
+  ],
+  "sources": [
+   {
+    "title": "U.S. District Court, N.D. Cal. - Puente v. Mitchell, No. C 02-4129 JSW, Order Denying Petition for Writ of Habeas Corpus (March 10, 2006)",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-cand-3_02-cv-04129/pdf/USCOURTS-cand-3_02-cv-04129-0.pdf"
+   },
+   {
+    "title": "NBC News / Associated Press - Woman who buried tenants in yard dies in prison (March 27, 2011)",
+    "url": "https://www.nbcnews.com/id/wbna42299803"
+   },
+   {
+    "title": "ABC7 News (KGO-TV) - Woman who buried tenants in yard dies in prison",
+    "url": "https://abc7news.com/archive/8037558"
+   },
+   {
+    "title": "Center for Sacramento History - The People v. Dorothea Montalvo Puente criminal case records (Online Archive of California)",
+    "url": "https://oac.cdlib.org/findaid/ark:/13030/c8b85fn5/"
+   },
+   {
+    "title": "Wikipedia - Dorothea Puente",
+    "url": "https://en.wikipedia.org/wiki/Dorothea_Puente"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Puente",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "edmund-kemper",
   "name": "Edmund Kemper",
   "aliases": [
@@ -2382,6 +3177,165 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 29000
+ },
+ {
+  "id": "freeway-phantom",
+  "name": "Freeway Phantom",
+  "aliases": [
+   "The Freeway Phantom",
+   "Freeway Phantom murders"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "District of Columbia",
+   "Maryland"
+  ],
+  "primaryState": "District of Columbia",
+  "cities": [
+   "Washington",
+   "Prince George's County"
+  ],
+  "activeFrom": 1971,
+  "activeTo": 1972,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "6"
+  },
+  "victimProfile": "Black girls and young women aged 10 to 18, abducted on errands or on their way home in Southeast Washington, D.C.",
+  "method": [
+   "strangulation",
+   "abduction",
+   "sexual assault"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. The Freeway Phantom abducted and strangled six Black girls and young women, aged 10 to 18, in Washington, D.C., between April 1971 and September 1972, leaving their bodies beside roads in D.C. and Prince George's County, Maryland. No one has been charged; the cases remain open.",
+  "narrative": [
+   "The Freeway Phantom is the press's name for the unidentified killer of six Black girls and young women, aged 10 to 18, abducted in Washington, D.C., between April 1971 and September 1972. Their bodies were left beside roads in the District and in Prince George's County, Maryland, several along Interstate 295. No one has ever been charged. The Metropolitan Police Department (MPD) lists the six killings as open cold cases, with a reward of up to $150,000.",
+   "According to Wikipedia and a 2025 history by WETA's Boundary Stones, Carol Denise Spinks, 13, left home in Southeast Washington for a 7-Eleven on April 25, 1971, and was found strangled on May 1 behind St. Elizabeths Hospital near I-295. Darlenia Denise Johnson, 16, disappeared on July 8, 1971, and was found on July 19 about fifteen feet from where Spinks had lain. Brenda Faye Crockett, 10, was sent to a store on July 27, 1971, and found the next morning along U.S. Route 50 in Prince George's County. Nenomoshia Yates, 12, vanished walking home from a Safeway on October 1, 1971, and was found within hours off Pennsylvania Avenue in Prince George's County. Most had been strangled and sexually assaulted, and most were missing their shoes.",
+   "Brenda Denise Woodard, 18, boarded a bus late on November 15, 1971, and was found hours later on a Baltimore-Washington Parkway ramp near Prince George's County Hospital, stabbed and strangled. A note in her coat pocket read, in part, \"this is tAntAmount to my insensititivity to people especiAlly women. I will Admit the others wheN you cAtch me iF you cAn! FRee-wAy PhanTom.\" According to Wikipedia, authorities concluded from handwriting that Woodard wrote it herself at the killer's dictation. The last victim, Diane Denise Williams, 17, boarded a bus on Martin Luther King Avenue late on September 5, 1972; the Washington Examiner reported she was found strangled the next morning beside southbound I-295 just outside the District line.",
+   "The investigation involved MPD homicide and sex-squad detectives, Prince George's and Montgomery County investigators, the Maryland State Police and the FBI, which joined a task force after the fourth killing, according to Boundary Stones. Hairs not belonging to the victims were recovered from three of them, and investigators concluded one offender was likely responsible. Boundary Stones also reported that police at first treated Spinks as a runaway and that in 1974 a Virginia inmate claimed to know the killer's identity but the FBI found his account inconsistent. Wikipedia, citing Washington Post reporting, says detectives interviewed members of a group of convicted rapists at Lorton prison and, in the late 1970s, searched the home of a man with earlier murder charges who had been arrested for an unrelated rape. No evidence was found and he was never charged; he died in federal custody in 2010.",
+   "The case files did not survive intact. According to Boundary Stones, when Sergeant Romaine Jenkins reopened the cases in 1987 she found that files and physical evidence had been destroyed or lost; she and the FBI reconstructed part of the record, and in 1990 FBI analysts produced a behavioral profile. The D.C. Council afterward required evidence in unsolved homicides to be kept for 65 years. In 2006 MPD offered a reward of up to $150,000, and in February 2009 the Washington Examiner reported that a DNA discovery could help solve the Williams killing.",
+   "The investigation remains formally open. In a December 2017 Freedom of Information Act response released by MPD, the department said the records \"pertain to an open investigation\" that is \"ongoing and active,\" and that only Spinks and Johnson were found in the District and investigated by MPD, while Prince George's County police are investigating the other four murders. In January 2021 the Mayor's Office of Legal Counsel affirmed MPD's refusal to release the files because disclosure would interfere with an enforcement proceeding. On February 28, 2023, MPD published two sets of FOIA records, mostly correspondence. Boundary Stones, citing a May 2024 Washington City Paper report, noted that a 1974 FBI report could not be located.",
+   "The victims were schoolgirls and teenagers from Southeast Washington, most taken within blocks of home. Diane Williams's sister told Boundary Stones, \"There is no closure.\""
+  ],
+  "timeline": [
+   {
+    "date": "1971-04-25",
+    "text": "Carol Denise Spinks, 13, disappears on an errand to a 7-Eleven in Southeast Washington."
+   },
+   {
+    "date": "1971-05-01",
+    "text": "Spinks is found strangled behind St. Elizabeths Hospital, near I-295."
+   },
+   {
+    "date": "1971-07-08",
+    "text": "Darlenia Denise Johnson, 16, disappears on her way to a summer job; she is found on July 19 about fifteen feet from where Spinks was found."
+   },
+   {
+    "date": "1971-07-27",
+    "text": "Brenda Faye Crockett, 10, is abducted after being sent to a store; she is found the next morning along U.S. Route 50 in Prince George's County, Maryland."
+   },
+   {
+    "date": "1971-10-01",
+    "text": "Nenomoshia Yates, 12, is abducted walking home from a Safeway and found within hours off Pennsylvania Avenue in Prince George's County."
+   },
+   {
+    "date": "1971-11-15",
+    "text": "Brenda Denise Woodard, 18, boards a bus late at night; she is found about six hours later near Prince George's County Hospital with a note signed \"FRee-wAy PhanTom\" in her coat pocket."
+   },
+   {
+    "date": "1972-09-05",
+    "text": "Diane Denise Williams, 17, boards a bus on Martin Luther King Avenue; she is found strangled the next morning beside southbound I-295 just outside the District line. She is considered the last victim."
+   },
+   {
+    "date": "1974",
+    "text": "A Virginia inmate claims to know the killer's identity; the FBI finds his account inconsistent."
+   },
+   {
+    "date": "1987",
+    "text": "MPD Sergeant Romaine Jenkins reopens the cases and finds that files and physical evidence have been destroyed or lost."
+   },
+   {
+    "date": "1990",
+    "text": "FBI analysts produce a behavioral profile of the killer from the reconstructed case materials."
+   },
+   {
+    "date": "2006-04-18",
+    "text": "MPD issues a flyer offering a reward of up to $150,000 in the six killings."
+   },
+   {
+    "date": "2009-02-21",
+    "text": "The Washington Examiner reports that a DNA discovery could help solve the Williams killing."
+   },
+   {
+    "date": "2017-12-06",
+    "text": "In a FOIA response, MPD states the records pertain to an \"ongoing and active\" investigation and that Prince George's County police are investigating four of the six murders."
+   },
+   {
+    "date": "2021-01-26",
+    "text": "The D.C. Mayor's Office of Legal Counsel affirms MPD's withholding of the case files because release would interfere with an enforcement proceeding."
+   },
+   {
+    "date": "2023-02-28",
+    "text": "MPD publishes two sets of records released under FOIA requests about the Freeway Phantom murders."
+   }
+  ],
+  "cases": [
+   "freeway-phantom-1971"
+  ],
+  "tags": [
+   "unidentified killer",
+   "child victims",
+   "cold case",
+   "lost evidence",
+   "serial killer note"
+  ],
+  "sources": [
+   {
+    "title": "Metropolitan Police Department - \"Freeway Phantom\" Homicide Victims",
+    "url": "https://mpdc.dc.gov/publication/%E2%80%9Cfreeway-phantom%E2%80%9D-homicide-victims"
+   },
+   {
+    "title": "Metropolitan Police Department - Up to $150,000 Reward, \"Freeway Phantom\" Murders (flyer, 2006)",
+    "url": "https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/freewayphantom_0.pdf"
+   },
+   {
+    "title": "Metropolitan Police Department - Freeway Phantom FOIA Records (February 28, 2023)",
+    "url": "https://mpdc.dc.gov/publication/freeway-phantom-foia-records"
+   },
+   {
+    "title": "Metropolitan Police Department - Freeway Phantom FOIA Records, pages 1-62",
+    "url": "https://mpdc.dc.gov/sites/default/files/dc/sites/mpdc/publication/attachments/Freeway%20Phantom%20FOIA%20Records_lores_pp1_62.pdf"
+   },
+   {
+    "title": "D.C. Mayor's Office of Legal Counsel - FOIA Appeal 2018-054 (MPD)",
+    "url": "https://dc.gov/publication/mpd-2018-054"
+   },
+   {
+    "title": "WETA Boundary Stones - The Gruesome Murder Spree of the \"Freeway Phantom\": D.C.'s First Serial Killer (2025)",
+    "url": "https://boundarystones.weta.org/2025/05/27/gruesome-murder-spree-freeway-phantom-dcs-first-serial-killer"
+   },
+   {
+    "title": "Washington Examiner - DNA discovery could solve 1972 Freeway Phantom slaying (2009)",
+    "url": "https://www.washingtonexaminer.com/dna-discovery-could-solve-1972-freeway-phantom-slaying"
+   },
+   {
+    "title": "Wikipedia - Freeway Phantom",
+    "url": "https://en.wikipedia.org/wiki/Freeway_Phantom"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Freeway_Phantom",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "gary-heidnik",
@@ -3376,6 +4330,288 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 13000
+ },
+ {
+  "id": "honolulu-strangler",
+  "name": "Honolulu Strangler",
+  "aliases": [
+   "The Honolulu Rapist"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "Hawaii"
+  ],
+  "primaryState": "Hawaii",
+  "cities": [
+   "Honolulu",
+   "Waipahu",
+   "Ewa Beach"
+  ],
+  "activeFrom": 1985,
+  "activeTo": 1986,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "5 (attributed by the Honolulu Police Department task force)"
+  },
+  "victimProfile": "Women aged 17 to 36 on Oahu, several abducted while waiting for buses or near Honolulu International Airport",
+  "method": [
+   "strangulation",
+   "sexual assault"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. An unknown man sexually assaulted, bound and strangled five women on Oahu, Hawaii, between May 1985 and April 1986, leaving them near waterways around Honolulu airport. One suspect was arrested and released in 1986; the case remains open.",
+  "narrative": [
+   "The Honolulu Strangler is the name given to an unidentified man believed to have murdered five women on Oahu, Hawaii, between May 1985 and April 1986. All five were sexually assaulted, strangled and left with their hands bound behind their backs, and all were found in or near waterways around Honolulu International Airport. No one has been charged. One man was arrested in May 1986 and released without charge. The case is commonly described as Hawaii's first serial murder investigation, although the Wikipedia article counts the killer as the state's second known serial killer, after Eugene Barrett. Hawaii News Now reported in 2006 that the cases remain open with the Honolulu Police Department.",
+   "According to the Wikipedia article and a KHON2 archival report, the first victim was Vicki Gail Purdy, 25, of Mililani, the wife of an Army helicopter pilot. She went out to Waikiki nightclubs on May 29, 1985, and a taxi dropped her at the Shorebird Hotel around midnight; her body was found the next morning on an embankment at Keehi Lagoon. On January 14, 1986, Regina Sakamoto, 17, a Leilehua High School student, missed her bus in Waipahu; her body was found the next day in Keehi Lagoon near the airport's reef runway. On January 30, 1986, Denise Hughes, 21, a telephone company secretary who commuted by bus, failed to arrive at work. Three youths found her body on February 1 in the Moanalua stream drainage canal.",
+   "The Hughes killing prompted the Honolulu Police Department to form a 27-member serial killer task force on February 5, 1986, with help from the FBI and Washington State's Green River task force, according to Wikipedia. The FBI profile described an opportunist who picked up vulnerable women, often at bus stops, and who probably lived or worked near Waipahu or Sand Island. Policewomen ran sting operations near Keehi Lagoon and the airport. The killings continued. Louise Medeiros, 25, who was three months pregnant, flew back from Kauai late on March 26, 1986, and disappeared after leaving the airport; police believe she was taken while waiting for a bus. Road workers found her body on April 2 near Waikele stream.",
+   "The last known victim was Linda Pesce, 36, who left home on April 29, 1986, for an evening work meeting. Her car was found abandoned on the Nimitz-H-1 viaduct near the airport. Police set up roadblocks to question commuters. Her body was found on Sand Island on May 3, 1986, according to KHON2. Wikipedia reports that a 43-year-old man had approached police saying a psychic had told him where the body was, and that the search he directed initially found nothing.",
+   "On May 9, 1986, police arrested Howard Gay, an Ewa Beach mechanic who worked overnight shifts at an air freight carrier on Lagoon Drive, as the primary suspect in the Pesce case. According to Wikipedia and the Honolulu Star-Bulletin coverage it cites, he was questioned from about 8 p.m. until 3 a.m., failed a polygraph examination and was released without charge; police kept him under surveillance. His girlfriend told investigators he had left the house after arguments on the nights of the murders. About two months later, a woman who had seen a man with Pesce picked Gay from a photo lineup but was reluctant to testify. Prosecutors never charged him. Hawaii News Now reported in 2025 that he died in 2003 in California.",
+   "Retired HPD Major Louis Souza told Hawaii News Now in 2006 that investigators had looked for a connection among the victims and found none, and that while the arrest was \"satisfaction,\" it was \"frustrating that the state didn't feel that they had enough to prosecute him.\" Retired deputy chief John McCarthy told the station in 2025 that police \"were finding a dead female and there were no witnesses,\" and that investigative techniques were far more limited in 1986 than today.",
+   "The killings stopped after Pesce's death. Howard Gay was investigated and never charged, and no other person has been publicly named. The five murders remain unsolved and open with the Honolulu Police Department; none of the reporting reviewed for this profile records a DNA identification or new charges."
+  ],
+  "timeline": [
+   {
+    "date": "1985-05-29",
+    "text": "Vicki Gail Purdy, 25, is last seen in Waikiki around midnight; her body is found the next morning on an embankment at Keehi Lagoon."
+   },
+   {
+    "date": "1986-01-14",
+    "text": "Regina Sakamoto, 17, disappears after missing her school bus in Waipahu; her body is found at Keehi Lagoon on January 15."
+   },
+   {
+    "date": "1986-01-30",
+    "text": "Denise Hughes, 21, fails to arrive at work; three youths find her body in the Moanalua stream drainage canal on February 1."
+   },
+   {
+    "date": "1986-02-05",
+    "text": "Honolulu police form a 27-member serial killer task force with help from the FBI and the Green River task force."
+   },
+   {
+    "date": "1986-03-26",
+    "text": "Louise Medeiros, 25, disappears after a late-night flight from Kauai to Oahu; road workers find her body near Waikele stream on April 2."
+   },
+   {
+    "date": "1986-04-29",
+    "text": "Linda Pesce, 36, leaves for an evening work meeting; her car is found abandoned on the Nimitz-H-1 viaduct near the airport."
+   },
+   {
+    "date": "1986-05-03",
+    "text": "Pesce's body is found on Sand Island; she is the last known victim."
+   },
+   {
+    "date": "1986-05-09",
+    "text": "Police arrest Howard Gay, 43, an Ewa Beach mechanic, in the Pesce case; he fails a polygraph and is released without charge."
+   },
+   {
+    "date": "2003",
+    "text": "Howard Gay dies in California, never having been charged in any of the five murders."
+   },
+   {
+    "date": "2006-06-29",
+    "text": "Retired HPD Major Louis Souza tells Hawaii News Now the state did not believe it had enough evidence to prosecute; the cases remain open."
+   },
+   {
+    "date": "2025-07-08",
+    "text": "Hawaii News Now revisits the case; retired deputy chief John McCarthy says the investigation was hampered by a lack of witnesses. No one has been charged."
+   }
+  ],
+  "cases": [
+   "honolulu-strangler-1985"
+  ],
+  "tags": [
+   "unsolved",
+   "unidentified killer",
+   "sexual assault",
+   "task force",
+   "bus stops"
+  ],
+  "sources": [
+   {
+    "title": "Hawaii News Now - Serial killer case still a mystery (2006)",
+    "url": "https://www.hawaiinewsnow.com/story/5099177/serial-killer-case-still-a-mystery/"
+   },
+   {
+    "title": "Hawaii News Now - Diane Suzuki's death is one of many high-profile murders in Hawaii (2025)",
+    "url": "https://www.hawaiinewsnow.com/2025/07/09/diane-suzukis-death-is-one-many-high-profile-murders-hawaii/"
+   },
+   {
+    "title": "KHON2 - From KHON2's archives: Police suspect serial killer in 5 women's murders",
+    "url": "https://www.khon2.com/news/from-khon2s-archives-police-suspect-serial-killer-in-5-womens-murders/amp/"
+   },
+   {
+    "title": "Wikipedia - Honolulu Strangler",
+    "url": "https://en.wikipedia.org/wiki/Honolulu_Strangler"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Honolulu_Strangler",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "i-70-killer",
+  "name": "I-70 Killer",
+  "aliases": [
+   "I-70 Serial Killer",
+   "I-70 Killings"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "Indiana",
+   "Missouri",
+   "Kansas",
+   "Texas"
+  ],
+  "primaryState": "Indiana",
+  "cities": [
+   "Indianapolis",
+   "Wichita",
+   "Terre Haute",
+   "St. Charles",
+   "Raytown"
+  ],
+  "activeFrom": 1992,
+  "activeTo": 1992,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "6 killed in 1992; 2 more killed and 1 wounded in Texas in 1993 to 1994 are a disputed possible link"
+  },
+  "victimProfile": "Lone clerks and owners of small specialty shops near Interstate 70, five women aged 23 to 37 and one man aged 40",
+  "method": [
+   "shooting"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. Six shop workers were shot in the head in small stores in Indiana, Kansas and Missouri between April 8 and May 7, 1992, all linked by a .22-caliber weapon. Police released an age-enhanced sketch in 2022; a $25,000 reward stands.",
+  "narrative": [
+   "The I-70 Killer is the name given to an unidentified man who shot six people working in small retail stores in Indiana, Kansas and Missouri between April 8 and May 7, 1992. The name refers to Interstate 70, which runs near most of the stores. No one has been charged. Police linked the six killings through ballistics on a .22-caliber weapon. Investigators in Texas later examined three 1993 and 1994 shootings as possible related attacks, a link that ballistics testing did not confirm.",
+   "The first killing came on April 8, 1992, in Indianapolis, where Robin Fuldauer, 26, the manager of a Payless ShoeSource on Pendleton Pike, was working alone. According to KMOV, police believe the killer entered around 1:15 p.m., took her to a back storage room and shot her; less than $100 was taken. On April 11, Patricia Magers, 32, owner of the La Bride d'Elegance bridal shop in Wichita, Kansas, and her employee Patricia Smith, 23, were shot in the back of the store around closing time. On April 27, Michael McCown, 40, was shot while stocking shelves at Sylvia's Ceramics, his mother's shop in Terre Haute, Indiana; he was the only male victim. On May 3, Nancy Kitzmiller, 24, was killed at Boot Village in St. Charles, Missouri, and on May 7, Sarah Blessing, 37, was shot at a gift shop in Raytown, Missouri.",
+   "According to KMOV and WTWO, the pattern was consistent: small specialty shops holding little cash, a victim alone at a slow time of day, a walk to a back room and a shot to the head, with little or nothing taken. Ballistics tied the Indianapolis and Wichita shootings to one gun within days. Investigators identified the weapon as a .22-caliber pistol, most probably an Erma Werke ET22, with an Intratec Scorpion not ruled out, and found traces of jeweler's rouge on the casings. In Wichita, a customer who returned to the bridal shop after closing met a man carrying a small rifle, refused to go to the back and left; retired Wichita Lieutenant Michael Hennessy told FOX59 the encounter gave police their first eyewitness, and it produced the original sketch of a thin white man, 5 feet 7 to 5 feet 9, with sandy blond or reddish hair.",
+   "In 1993 and 1994, three women were shot in the head in small shops in Texas: Mary Ann Glasscock, 51, at a Fort Worth antiques store on September 25, 1993; Amy Vess, 22, at an Arlington dance apparel store on November 1, 1993; and Vicki Webb, who survived a shooting at a Houston gift shop on January 15, 1994. According to KMOV, Texas authorities at first called a connection a definite possibility, but ballistics testing found the Texas gun did not match the I-70 weapon, and police came to doubt the link.",
+   "Suspect reviews over the following decades produced no charges. KMOV reported that investigators cleared several men, including a Tennessee man sought in 1992 for unrelated killings who resembled the sketch; police ruled him out in 2012. In January 2022, KMOV reported that investigators were also examining the November 30, 2001, shooting of liquor store clerk Billy Brossman in Terre Haute, seven blocks from the McCown scene; Terre Haute police confirmed similarities but did not publicly connect the cases.",
+   "In October 2021, authorities released a new sketch, credited to the St. Charles Police Department, describing a white man who was 22 to 40 in 1992, 5 feet 7 to 5 feet 9 and 140 to 160 pounds, with sandy blond hair with a red tint; Crime Stoppers of Central Indiana took tips. KTVI reported that in 2021 the five departments met with the FBI to review the evidence with newer forensic technology. On January 20, 2022, St. Charles police released an age-enhanced sketch estimating the killer would now be 52 to 70 and announced a review of the files with every agency involved plus the FBI and ATF. As of August 2025, KTVI reported that St. Charles police lead the case and a $25,000 reward remains on offer."
+  ],
+  "timeline": [
+   {
+    "date": "1992-04-08",
+    "text": "Robin Fuldauer, 26, shot at a Payless ShoeSource on Pendleton Pike, Indianapolis."
+   },
+   {
+    "date": "1992-04-11",
+    "text": "Patricia Magers, 32, and Patricia Smith, 23, shot at the La Bride d'Elegance bridal shop in Wichita, Kansas; a customer's description produces the first composite sketch."
+   },
+   {
+    "date": "1992-04-27",
+    "text": "Michael McCown, 40, shot at Sylvia's Ceramics in Terre Haute, Indiana, the only male victim."
+   },
+   {
+    "date": "1992-05-03",
+    "text": "Nancy Kitzmiller, 24, shot at Boot Village in St. Charles, Missouri."
+   },
+   {
+    "date": "1992-05-07",
+    "text": "Sarah Blessing, 37, shot at a gift shop in Raytown, Missouri; the last killing linked by ballistics."
+   },
+   {
+    "date": "1993-09-25",
+    "text": "Mary Ann Glasscock, 51, shot at an antiques store in Fort Worth, Texas; examined as a possible related case."
+   },
+   {
+    "date": "1993-11-01",
+    "text": "Amy Vess, 22, shot at a dance apparel store in Arlington, Texas."
+   },
+   {
+    "date": "1994-01-15",
+    "text": "Vicki Webb survives a shooting at a Houston gift shop; ballistics later show the Texas gun does not match the I-70 weapon."
+   },
+   {
+    "date": "2001-11-30",
+    "text": "Liquor store clerk Billy Brossman shot in Terre Haute, seven blocks from the McCown scene; later examined for similarities."
+   },
+   {
+    "date": "2012",
+    "text": "Police rule out a Tennessee man long considered a suspect, citing no concrete evidence."
+   },
+   {
+    "date": "2021-10-20",
+    "text": "Authorities release a new sketch of the suspect, credited to the St. Charles Police Department, with tips to Crime Stoppers of Central Indiana."
+   },
+   {
+    "date": "2021",
+    "text": "The five police departments meet with the FBI to review the evidence with newer forensic technology."
+   },
+   {
+    "date": "2022-01-20",
+    "text": "St. Charles police release an age-enhanced sketch estimating the killer is now 52 to 70; the FBI and ATF join a multi-agency review."
+   },
+   {
+    "date": "2025-08-06",
+    "text": "KTVI reports the case remains open under St. Charles police with a $25,000 reward."
+   }
+  ],
+  "cases": [
+   "i-70-killer"
+  ],
+  "tags": [
+   "unidentified",
+   "retail workers",
+   "ballistics",
+   "composite sketch",
+   "interstate highway"
+  ],
+  "sources": [
+   {
+    "title": "Wikipedia - I-70 killer",
+    "url": "https://en.wikipedia.org/wiki/I-70_killer"
+   },
+   {
+    "title": "KMOV - 29 days of terror: The hunt for the I-70 killer leads police to release age-enhanced sketch of suspect (Jan. 20, 2022)",
+    "url": "https://www.firstalert4.com/2022/01/20/29-days-terror-hunt-i-70-killer-leads-police-release-age-enhanced-sketch-suspect"
+   },
+   {
+    "title": "KMOV - April 8, 1992: The I-70 serial killer claims his first victim (Jan. 20, 2022)",
+    "url": "https://www.firstalert4.com/2022/01/20/april-8-1992-i-70-serial-killer-claims-his-first-victim"
+   },
+   {
+    "title": "KMOV - Phantom pursuit: The hunt for the I-70 killer (Jan. 20, 2022)",
+    "url": "https://www.firstalert4.com/2022/01/20/phantom-pursuit-hunt-i-70-killer/"
+   },
+   {
+    "title": "KMOV - Did he strike again? I-70 killer could be linked to unsolved Terre Haute murder (Jan. 20, 2022)",
+    "url": "https://www.firstalert4.com/2022/01/20/did-he-strike-again-i-70-killer-could-be-linked-unsolved-terre-haute-murder/"
+   },
+   {
+    "title": "FOX59 - New sketch released in I-70 killings (Oct. 20, 2021)",
+    "url": "https://digital-release.fox59.com/?p=1240957"
+   },
+   {
+    "title": "WTWO/MyWabashValley - The I-70 Killer: 27 years later (May 26, 2019)",
+    "url": "https://digital-release.mywabashvalley.com/?p=1288"
+   },
+   {
+    "title": "KTVI via Yahoo News - Ongoing search for 'I-70 Killer' continues 33 years later (Aug. 6, 2025)",
+    "url": "https://www.yahoo.com/news/articles/ongoing-search-70-killer-continues-195530268.html"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/I-70_killer",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "israel-keyes",
@@ -4683,6 +5919,167 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "kristen-gilbert",
+  "name": "Kristen Gilbert",
+  "aliases": [
+   "Kristen Heather Strickland",
+   "The Angel of Death"
+  ],
+  "born": "1967-11-13",
+  "died": null,
+  "gender": "Female",
+  "country": "United States",
+  "states": [
+   "Massachusetts"
+  ],
+  "primaryState": "Massachusetts",
+  "cities": [
+   "Northampton"
+  ],
+  "activeFrom": 1995,
+  "activeTo": 1996,
+  "victims": {
+   "convicted": 4,
+   "confessed": null,
+   "suspected": "4 murders and 3 attempted murders charged; prosecutors noted she was on duty for about half of roughly 350 deaths on her ward between 1989 and 1996, but no further murders were attributed to her"
+  },
+  "victimProfile": "Male veterans aged 35 to 68 who were patients on Ward C of the Veterans Affairs Medical Center in Northampton, Massachusetts",
+  "method": [
+   "epinephrine injection"
+  ],
+  "apprehended": "1998-11-24",
+  "captureMethod": "Three fellow nurses reported a pattern of cardiac emergencies on her shifts and missing epinephrine in February 1996, prompting a federal investigation that included exhumations and tissue testing; she was already imprisoned for a 1996 bomb threat when the murder indictment was unsealed in November 1998.",
+  "legalStatus": "Convicted",
+  "sentence": "Life in prison without the possibility of parole (March 27, 2001), after the federal jury declined to impose a death sentence; earlier, 15 months for a 1996 bomb threat (1998)",
+  "fate": "Imprisoned",
+  "fateDetail": "Federal Medical Center Carswell, Fort Worth, Texas",
+  "summary": "Imprisoned for life. Former VA nurse convicted by a federal jury in March 2001 of murdering four patients and trying to kill two others with epinephrine injections at the Northampton, Massachusetts, VA Medical Center in 1995 and 1996.",
+  "narrative": [
+   "Kristen Gilbert is a former registered nurse who was convicted in federal court in March 2001 of murdering four patients and attempting to murder two others at the Veterans Affairs Medical Center in Northampton, Massachusetts, between August 1995 and February 1996. A jury found her guilty of three counts of first-degree murder, one count of second-degree murder and two counts of attempted murder, then declined to impose the death penalty. She was sentenced on March 27, 2001, to life in prison without parole and is held at the Federal Medical Center Carswell in Fort Worth, Texas.",
+   "According to the First Circuit's October 2000 opinion in United States v. Gilbert, she worked the evening shift on Ward C, which housed the hospital's intensive care unit, from March 1989 until February 1996. The indictment alleged that within six months of beginning an affair with a hospital police officer, James Perrault, in autumn 1995, she killed four Ward C patients and tried to kill three others by injecting them with epinephrine, a heart stimulant with no authorized use on the ward. The Boston Globe identified the four men as Stanley Jagodowski, 66, who went into cardiac arrest on about August 21, 1995; Henry Hudon, 35, who died on December 8, 1995; Kenneth Cutting, 41, who died on February 2, 1996; and Edward Skwira, who died in February 1996.",
+   "The investigation began inside the ward. The Globe reported that nurses who had noticed how many emergencies fell on Gilbert's shifts began quietly watching her, and one colleague found epinephrine ampules missing; hospital records could not account for about 88 of 135 ampules dispensed to Ward C over six months, a gap the defense blamed on poor record-keeping. In February 1996 three nurses took their suspicions to supervisors, a formal inquiry opened and Gilbert resigned. The Seattle Times reported that an autopsy of Hudon found epinephrine poisoning. A federal grand jury began a criminal investigation in June 1996.",
+   "While that investigation was under way, Gilbert made anonymous threatening calls to the hospital, including a false bomb threat on September 26, 1996 that forced the evacuation of about 50 patients, according to the Globe. She was arrested on October 8, 1996, convicted by a jury and sentenced in April 1998 to 15 months in federal prison. The Globe also reported Perrault's account that Gilbert, calling him from a psychiatric ward in July 1996, told him she had killed the patients. Gilbert denied the killings and pleaded not guilty.",
+   "The murder indictment was unsealed on November 24, 1998, while she was still serving the bomb-threat sentence. The Seattle Times reported charges of three murders, two attempted murders, witness retaliation and obstruction of justice; a later indictment added a fourth murder and a third attempted murder. Because the hospital was federal property, prosecutors could seek the death penalty even though Massachusetts has none. Before trial, Judge Michael A. Ponsor excluded evidence of the bomb threat and of a statistical analysis putting the odds of her presence at so many deaths at one in 100 million; the First Circuit largely upheld those rulings.",
+   "The trial opened in Springfield in late 2000. Prosecutors argued that Gilbert created emergencies to gain attention, particularly from Perrault; the defense said the men died of natural causes, ABC News reported. On March 14, 2001, the jury convicted her on four murder counts and two counts of attempted murder. After a penalty phase, the jury deliberated about six hours and on March 26 chose life imprisonment, according to CBS News. The judge imposed the sentence the next day; Wikipedia describes it as four consecutive life terms plus 20 years. In July 2003 she abandoned her appeal after a Supreme Court decision raised the prospect of a renewed death-penalty prosecution at any retrial.",
+   "Gilbert was born Kristen Heather Strickland in Fall River, Massachusetts, on November 13, 1967, according to the Globe. She earned a nursing diploma from Greenfield Community College in 1988, married Glenn Gilbert that year and had two sons. She joined the Northampton VA hospital on March 6, 1989; the Globe reported some staff privately nicknamed her the Angel of Death. She was living in Setauket, New York, when the murder indictment was announced."
+  ],
+  "timeline": [
+   {
+    "date": "1967-11-13",
+    "text": "Kristen Heather Strickland born in Fall River, Massachusetts."
+   },
+   {
+    "date": "1989-03-06",
+    "text": "Begins work as a nurse at the Veterans Affairs Medical Center in Northampton, Massachusetts."
+   },
+   {
+    "date": "1995-08-21",
+    "text": "Stanley Jagodowski, 66, goes into cardiac arrest on Ward C and dies about three hours later; later charged as her first murder."
+   },
+   {
+    "date": "1995-12-08",
+    "text": "Henry Hudon, 35, dies after a cardiac arrest on Ward C; an autopsy later finds epinephrine poisoning."
+   },
+   {
+    "date": "1996-02-02",
+    "text": "Kenneth Cutting, 41, dies after ventricular fibrillation on Ward C."
+   },
+   {
+    "date": "1996-02",
+    "text": "Edward Skwira dies three days after a cardiac arrest; last of the four charged murders."
+   },
+   {
+    "date": "1996-02-17",
+    "text": "Three nurses report suspicions about deaths and missing epinephrine; a formal inquiry opens and Gilbert resigns."
+   },
+   {
+    "date": "1996-06",
+    "text": "A federal grand jury begins a criminal investigation."
+   },
+   {
+    "date": "1996-09-26",
+    "text": "Makes a false bomb threat against the hospital, forcing the evacuation of about 50 patients."
+   },
+   {
+    "date": "1996-10-08",
+    "text": "Arrested for the bomb threat."
+   },
+   {
+    "date": "1998-04",
+    "text": "Convicted of the bomb threat and sentenced to 15 months in federal prison."
+   },
+   {
+    "date": "1998-11-24",
+    "text": "Federal murder indictment unsealed; charged with three murders and two attempted murders, later expanded to four and three."
+   },
+   {
+    "date": "2000-11-20",
+    "text": "Capital murder trial begins in federal court in Springfield, Massachusetts, before Judge Michael A. Ponsor."
+   },
+   {
+    "date": "2001-03-14",
+    "text": "Jury convicts her of three first-degree murders, one second-degree murder and two attempted murders."
+   },
+   {
+    "date": "2001-03-26",
+    "text": "Jury declines to impose the death penalty and chooses life imprisonment."
+   },
+   {
+    "date": "2001-03-27",
+    "text": "Sentenced to life in prison without parole."
+   },
+   {
+    "date": "2003-07",
+    "text": "Drops her federal appeal."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "medical killer",
+   "nurse",
+   "poisoning",
+   "veterans",
+   "federal death penalty"
+  ],
+  "sources": [
+   {
+    "title": "United States Court of Appeals, First Circuit - United States v. Gilbert (Oct. 3, 2000)",
+    "url": "https://caselaw.findlaw.com/court/us-1st-circuit/1193429.html"
+   },
+   {
+    "title": "Boston Globe - The nurse: part 1",
+    "url": "https://cache.boston.com/globe/metro/packages/nurse/part1.htm"
+   },
+   {
+    "title": "Boston Globe - The nurse: part 2",
+    "url": "https://cache.boston.com/globe/metro/packages/nurse/part2.htm"
+   },
+   {
+    "title": "Seattle Times - VA nurse accused of murdering 3 patients (Nov. 25, 1998)",
+    "url": "https://archive.seattletimes.com/archive/19981125/2785487/va-nurse-accused-of-murdering-3-patients"
+   },
+   {
+    "title": "Deseret News - Did suspect in slaying call victim's wife? (Nov. 27, 1998)",
+    "url": "https://www.deseret.com/1998/11/27/19415118/did-suspect-in-slaying-call-victim-s-wife"
+   },
+   {
+    "title": "CBS News - Killer Nurse Gets Life (March 26, 2001)",
+    "url": "https://www.cbsnews.com/news/killer-nurse-gets-life/"
+   },
+   {
+    "title": "ABC News - Murderous Nurse Escapes Death Penalty",
+    "url": "https://abcnews.com/US/story?id=93723&page=1"
+   },
+   {
+    "title": "Wikipedia - Kristen Gilbert",
+    "url": "https://en.wikipedia.org/wiki/Kristen_Gilbert"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Gilbert",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "larry-eyler",
   "name": "Larry Eyler",
   "aliases": [
@@ -5471,6 +6868,181 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 9400
+ },
+ {
+  "id": "oakland-county-child-killer",
+  "name": "Oakland County Child Killer",
+  "aliases": [
+   "The Babysitter Killer",
+   "The Babysitter",
+   "The Snow Murderer"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "Michigan"
+  ],
+  "primaryState": "Michigan",
+  "cities": [
+   "Ferndale",
+   "Southfield",
+   "Royal Oak",
+   "Troy",
+   "Berkley",
+   "Franklin",
+   "Birmingham",
+   "Livonia"
+  ],
+  "activeFrom": 1976,
+  "activeTo": 1977,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "4"
+  },
+  "victimProfile": "Children aged 10 to 12, two boys and two girls, abducted from suburbs along the Woodward Avenue corridor north of Detroit",
+  "method": [
+   "suffocation",
+   "shotgun"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. Four children aged 10 to 12 were abducted in Oakland County, Michigan, between February 1976 and March 1977 and found dead days or weeks later. A 200-officer task force closed in 1978; the case remains open with the Michigan State Police.",
+  "narrative": [
+   "The Oakland County Child Killer is the name given to the unidentified person or persons who abducted and killed four children in the northern suburbs of Detroit, Michigan, between February 1976 and March 1977. The victims, Mark Stebbins, 12, Jill Robinson, 12, Kristine Mihelich, 10, and Timothy King, 11, were taken from communities along the Woodward Avenue corridor in Oakland County and found dead between four and nineteen days later. No one has ever been charged. According to the Michigan State Police, quoted by WDIV in February 2026, the investigation remains open and every new tip is examined.",
+   "Stebbins was last seen leaving an American Legion hall in Ferndale on February 15, 1976, and was found four days later in a Southfield parking lot; he had been smothered and sexually assaulted. Robinson left her Royal Oak home on December 22, 1976, and was found on December 26 beside Interstate 75 in Troy, killed with a shotgun. Mihelich went missing in Berkley on January 2, 1977, and was found on January 21 in a snowbank in Franklin; she had been suffocated. King left his Birmingham home on March 16, 1977, and was found on March 22 in a ditch in Livonia; he had been suffocated and sexually assaulted. The ABA Journal and WDIV report that the children were fed and bathed while held captive, the detail behind the \"Babysitter Killer\" label.",
+   "After King's disappearance a multi-agency task force led by the Michigan State Police was formed. The ABA Journal reported in 2017 that it drew about 200 local, county and state officers plus the FBI, spent about 2 million dollars and reviewed roughly 20,000 leads. A 1978 U.S. Department of Justice report used the investigation as the model for a manual on interjurisdictional \"major case teams\". A witness account of a blue AMC Gremlin near the King abduction led police to stop many Gremlin drivers; later reporting has questioned whether that car was involved. The task force was disbanded in December 1978 and the case passed to the Michigan State Police.",
+   "The investigation produced persons of interest but no charges. Christopher Busch, a Bloomfield Township man with child sexual assault convictions, was questioned and polygraphed in early 1977 and released; he died of a gunshot wound ruled self-inflicted in November 1978. In June 2012 Oakland County Prosecutor Jessica Cooper and Chief Assistant Prosecutor Paul Walton told WDIV that Busch's DNA did not match the physical evidence and that no evidence connected him to the killings. At a press conference on July 17, 2012, reported by The Associated Press and CBS News, Cooper announced that FBI testing showed hairs found on Stebbins and King came from the same unknown person, the first forensic link between any of the victims, and that a matching hair had been recovered from a 1966 Pontiac Bonneville owned by Arch Edward Sloan, who was serving a life sentence for an unrelated 1983 sexual assault. Cooper said Sloan was not the source of the hair and often lent his car to others; he was investigated repeatedly and never charged. The ABA Journal also reported that a hair from Mihelich's body yielded a mitochondrial DNA profile pointing to another man and his maternal relatives; he was questioned and never charged.",
+   "Victims' families pressed the case in court. Timothy King's father, Barry King, sued the Michigan State Police under the Freedom of Information Act in 2010 and obtained more than 3,400 pages of files, according to the ABA Journal. Kristine Mihelich's mother filed a 100 million dollar lawsuit in 2012 alleging the investigation had been mishandled; WDIV reported it was dismissed in 2013. Barry King died in 2020.",
+   "In February 2019 WXYZ reported, citing prison records, that Sloan had been interviewed by task force detectives in 2010 and 2012 and had failed a polygraph about the murders. Sloan died in custody on June 12, 2026, according to a Michigan Department of Corrections spokesperson quoted by WXYZ, which reported that detectives questioned him a final time in his last hours. In February 2026 the Michigan State Police told WDIV that the case is open and that evidence is re-evaluated as new technology becomes available. Tips can be submitted at 1-855-MICHTIP."
+  ],
+  "timeline": [
+   {
+    "date": "1976-02-15",
+    "text": "Mark Stebbins, 12, last seen leaving an American Legion hall in Ferndale."
+   },
+   {
+    "date": "1976-02-19",
+    "text": "Stebbins found dead in an office parking lot in Southfield."
+   },
+   {
+    "date": "1976-12-22",
+    "text": "Jill Robinson, 12, leaves her Royal Oak home by bicycle and disappears."
+   },
+   {
+    "date": "1976-12-26",
+    "text": "Robinson found beside Interstate 75 in Troy, killed with a shotgun."
+   },
+   {
+    "date": "1977-01-02",
+    "text": "Kristine Mihelich, 10, disappears after walking to a 7-Eleven in Berkley."
+   },
+   {
+    "date": "1977-01-21",
+    "text": "Mihelich found in a snowbank on a dead-end road in Franklin."
+   },
+   {
+    "date": "1977-03-16",
+    "text": "Timothy King, 11, disappears after leaving his Birmingham home for a pharmacy."
+   },
+   {
+    "date": "1977-03-22",
+    "text": "King found in a ditch off Gill Road in Livonia; the multi-agency task force is organized."
+   },
+   {
+    "date": "1978-11",
+    "text": "Person of interest Christopher Busch dies of a gunshot wound ruled self-inflicted."
+   },
+   {
+    "date": "1978-12",
+    "text": "Task force disbanded; the Michigan State Police take over the case."
+   },
+   {
+    "date": "2010",
+    "text": "Barry King sues the Michigan State Police for the investigative files and obtains more than 3,400 pages."
+   },
+   {
+    "date": "2012-06-26",
+    "text": "Oakland County prosecutors say DNA excludes Busch and that the killer is believed to be alive."
+   },
+   {
+    "date": "2012-07-17",
+    "text": "Prosecutor Jessica Cooper announces hairs on Stebbins and King match each other and a hair from Arch Sloan's 1966 Pontiac Bonneville."
+   },
+   {
+    "date": "2013",
+    "text": "Mihelich family's 100 million dollar lawsuit dismissed; a buried blue Gremlin is dug up in Grand Blanc after a tip."
+   },
+   {
+    "date": "2019-02",
+    "text": "WXYZ reports Sloan failed a polygraph about the murders; Investigation Discovery airs a two-part documentary."
+   },
+   {
+    "date": "2020",
+    "text": "Barry King, father of Timothy King, dies."
+   },
+   {
+    "date": "2026-02-15",
+    "text": "Fiftieth anniversary of the first abduction; Michigan State Police say the case remains open."
+   },
+   {
+    "date": "2026-06-12",
+    "text": "Arch Sloan dies in custody after detectives question him a final time; no one has been charged."
+   }
+  ],
+  "cases": [
+   "oakland-county-child-killer"
+  ],
+  "tags": [
+   "child victims",
+   "unsolved",
+   "hair evidence",
+   "mitochondrial dna",
+   "task force"
+  ],
+  "sources": [
+   {
+    "title": "ABA Journal - A Father's Mission: Victim's dad demands to know why 4 child murders remain unsolved after 40 years (2017)",
+    "url": "https://www.abajournal.com/magazine/article/oakland_county_child_killings"
+   },
+   {
+    "title": "U.S. Department of Justice, Office of Justice Programs - Oakland County (MI) Special Task Force: Finding the Child-Killer in the Woodward Corridor, Major Case Investigation Team Manual (1978)",
+    "url": "https://www.ojp.gov/index%2ephp/node/384376"
+   },
+   {
+    "title": "Associated Press via Michigan Public - Investigators say they have new evidence in the Oakland County child killings of the 1970s (July 17, 2012)",
+    "url": "https://www.michiganpublic.org/law/2012-07-17/investigators-say-they-have-new-evidence-in-the-oakland-county-child-killings-of-the-1970s"
+   },
+   {
+    "title": "CBS News - Oakland County Child Killer case: New DNA evidence discovered in 1970s Michigan murders, prosecutor says (July 17, 2012)",
+    "url": "https://www.cbsnews.com/news/oakland-county-child-killer-case-new-dna-evidence-discovered-in-1970s-michigan-murders-prosecutor-says"
+   },
+   {
+    "title": "WDIV ClickOnDetroit - New evidence suggests Oakland County Child Killer is still alive, not popular suspect (June 26, 2012)",
+    "url": "https://www.clickondetroit.com/news/2012/06/26/new-evidence-suggests-oakland-county-child-killer-is-still-alive-not-popular-suspect/"
+   },
+   {
+    "title": "WDIV ClickOnDetroit - Oakland County Child Killer murders remain unsolved 50 years later: Everything we know (February 15, 2026)",
+    "url": "https://www.clickondetroit.com/features/2026/02/15/oakland-county-child-killer-murders-remain-unsolved-50-years-later-everything-we-know/"
+   },
+   {
+    "title": "WXYZ Detroit - Oakland County Child Killer suspect gave detectives new information hours before his death (June 2026)",
+    "url": "https://www.wxyz.com/news/local-news/investigations/oakland-county-child-killer-suspect-gave-detectives-new-information-hours-before-his-death"
+   },
+   {
+    "title": "Wikipedia - Oakland County Child Killer",
+    "url": "https://en.wikipedia.org/wiki/Oakland_County_Child_Killer"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Oakland_County_Child_Killer",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "ottis-toole",
@@ -7122,6 +8694,161 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "texarkana-phantom",
+  "name": "Phantom Killer of Texarkana",
+  "aliases": [
+   "The Phantom Killer",
+   "The Phantom",
+   "The Moonlight Murderer",
+   "Texarkana Moonlight Murders"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "Texas",
+   "Arkansas"
+  ],
+  "primaryState": "Texas",
+  "cities": [
+   "Texarkana"
+  ],
+  "activeFrom": 1946,
+  "activeTo": 1946,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "5 killed and 3 wounded in 4 attacks"
+  },
+  "victimProfile": "Young couples parked on rural roads outside Texarkana, aged 15 to 29, and a farm couple in their thirties attacked at home",
+  "method": [
+   "shooting",
+   "beating"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "Unknown",
+  "fateDetail": null,
+  "summary": "Unidentified. An attacker shot and beat eight people in four attacks around Texarkana, Texas and Arkansas, between February and May 1946, killing five. The Texas Rangers led a huge investigation; a car thief was questioned but never charged. The case remains open.",
+  "narrative": [
+   "The Phantom Killer is the name given to an unidentified attacker who struck four times around Texarkana, on the Texas-Arkansas line, between February 22 and May 3, 1946. Eight people were attacked and five were killed, according to the Encyclopedia of Arkansas and the Texarkana Gazette. Three attacks took place in Bowie County, Texas, and the fourth in Miller County, Arkansas. No one has ever been charged with any of the crimes, and the case was never officially solved.",
+   "The first attack came late on February 22, 1946, when Jimmy Hollis, 25, and Mary Jeanne Larey, 19, were parked on a secluded road outside Texarkana, Texas. According to the Encyclopedia of Arkansas, a masked man forced them out of the car at gunpoint, beat Hollis with the gun and sexually assaulted Larey. Both survived. On March 24, Richard Griffin, 29, and Polly Ann Moore, 17, were found dead in Griffin's car on a lovers' lane off Highway 67, each shot in the back of the head with a .32-caliber pistol.",
+   "On April 14, Paul Martin, 16, and Betty Jo Booker, 15, were found shot dead near Spring Lake Park; investigators linked the same .32 pistol to both double murders. The Texarkana Gazette, marking the 70th anniversary in 2016, reported that the second double murder sent a shock wave through the twin cities. The final attack, on May 3, was different: farmer Virgil Starks, 37, was shot twice through a window of his farmhouse in Miller County, Arkansas. His wife Katie, 36, was shot twice in the face but escaped and survived. A .22-caliber weapon was used, and the Gazette has reported that some close to the case question whether the Starks attack was the Phantom's work.",
+   "The investigation was one of the largest Texas had seen. Texas Ranger Captain Manuel T. \"Lone Wolf\" Gonzaullas became its public face, working with Bowie County sheriff W. H. Presley, Texarkana police chief Jack Runnels, Miller County sheriff W. E. Davis and the Arkansas State Police, with FBI assistance. Hundreds of suspects were questioned, Rangers used decoy couples in parked cars, rewards passed $10,000, and the Texarkana Gazette coined the name Phantom Killer.",
+   "In July 1946, Arkansas State Police officer Max Tackett, who had noticed that a car was stolen and abandoned around the time of each attack, traced a stolen car to a woman connected to Youell Swinney, a 29-year-old car thief and counterfeiter. According to the Encyclopedia of Arkansas, the woman, Peggy, who later became Swinney's wife, gave officers unpublished details of the Booker-Martin murders, but her account changed, and prosecutors concluded she was unreliable and could not be compelled to testify against her husband. Swinney was investigated and never charged with any of the murders. In 1947 he was convicted in Bowie County of automobile theft and, as a habitual criminal, received a mandatory life sentence.",
+   "That sentence later unraveled. In Ex parte Swinney, decided September 25, 1973, the Texas Court of Criminal Appeals found that a 1941 Arkansas conviction used to enhance his sentence was void because he had not been shown to have had counsel; without it the maximum term was ten years, long since served, and the court ordered his release. Wikipedia records that he died in Dallas on September 15, 1994, though the Encyclopedia of Arkansas notes conflicting accounts. Tackett and Miller County deputy Tillman Johnson believed to the end of their lives that Swinney was the Phantom, and historian James Presley argued the same in a 2014 book. No court has ever ruled on the question.",
+   "Other leads failed, including a 1948 suicide note confessing to the murders that investigators could not corroborate. In February 2020 the FBI released more than 1,100 pages from its 1946-1949 file, the Arkansas Democrat-Gazette reported. The Encyclopedia of Arkansas describes the case as a cold case that is theoretically still open. It inspired Charles B. Pierce's 1976 film The Town That Dreaded Sundown, which, the Wikipedia article notes, is the source of much of the folklore around the case."
+  ],
+  "timeline": [
+   {
+    "date": "1946-02-22",
+    "text": "Jimmy Hollis, 25, and Mary Jeanne Larey, 19, beaten and assaulted by a masked gunman on a lovers' lane outside Texarkana, Texas; both survive."
+   },
+   {
+    "date": "1946-03-24",
+    "text": "Richard Griffin, 29, and Polly Ann Moore, 17, found shot dead in Griffin's car off Highway 67 west of Texarkana, Bowie County."
+   },
+   {
+    "date": "1946-04-14",
+    "text": "Paul Martin, 16, and Betty Jo Booker, 15, found shot dead near Spring Lake Park; the same .32 pistol is linked to both double murders."
+   },
+   {
+    "date": "1946-04",
+    "text": "Texas Ranger Captain M. T. 'Lone Wolf' Gonzaullas takes charge of a multi-agency investigation; the Texarkana Gazette coins the name Phantom Killer."
+   },
+   {
+    "date": "1946-05-03",
+    "text": "Virgil Starks, 37, shot dead through a window of his farmhouse in Miller County, Arkansas; his wife Katie is wounded and survives."
+   },
+   {
+    "date": "1946-07",
+    "text": "Arkansas State Police arrest car thief Youell Swinney after tracing a stolen car; his companion Peggy gives, then changes, an account implicating him. He is never charged with murder."
+   },
+   {
+    "date": "1947",
+    "text": "Swinney convicted of automobile theft in Bowie County and sentenced to life as a habitual criminal."
+   },
+   {
+    "date": "1948-11-04",
+    "text": "A university freshman dies by suicide leaving a note confessing to the murders; investigators find no supporting evidence."
+   },
+   {
+    "date": "1951",
+    "text": "Gonzaullas retires from the Texas Rangers."
+   },
+   {
+    "date": "1973-09-25",
+    "text": "Texas Court of Criminal Appeals grants Swinney's habeas petition in Ex parte Swinney, voiding a 1941 enhancement conviction and ordering his release."
+   },
+   {
+    "date": "1976",
+    "text": "Charles B. Pierce's film The Town That Dreaded Sundown, loosely based on the case, is released."
+   },
+   {
+    "date": "1994-09-15",
+    "text": "Youell Swinney dies in a Dallas nursing home, according to Wikipedia; the Encyclopedia of Arkansas notes conflicting accounts."
+   },
+   {
+    "date": "2014",
+    "text": "Historian James Presley publishes The Phantom Killer, arguing Swinney was responsible."
+   },
+   {
+    "date": "2020-02-07",
+    "text": "FBI releases more than 1,100 pages of its 1946-1949 case file online; the case remains unsolved."
+   }
+  ],
+  "cases": [
+   "the-texarkana-moonlight"
+  ],
+  "tags": [
+   "unsolved",
+   "couples",
+   "lovers' lane",
+   "texas rangers",
+   "fbi files"
+  ],
+  "sources": [
+   {
+    "title": "Texas Court of Criminal Appeals - Ex parte Swinney, 499 S.W.2d 101 (1973) (Caselaw Access Project)",
+    "url": "https://static.case.law/sw2d/499/cases/0101-01.json"
+   },
+   {
+    "title": "Encyclopedia of Arkansas - Texarkana Moonlight Murders",
+    "url": "https://encyclopediaofarkansas.net/entries/texarkana-moonlight-murders-4478/"
+   },
+   {
+    "title": "Arkansas Democrat-Gazette - FBI releases archive on Texarkana's Phantom Killer (Feb. 7, 2020)",
+    "url": "https://www.arkansasonline.com/news/2020/feb/07/fbi-releases-archive-texarkanas-phantom-killer-ove/"
+   },
+   {
+    "title": "Texarkana Gazette - Phantom Killer Attacks: Part II (Apr. 14, 2016)",
+    "url": "https://www.texarkanagazette.com/news/texarkana/story/2016/apr/14/phantom-killer-attacks-part-ii/420867/"
+   },
+   {
+    "title": "Texarkana Gazette - Phantom Killer's last alleged victim shot to death 70 years ago today (May 3, 2016)",
+    "url": "https://www.texarkanagazette.com/news/texarkana/story/2016/may/03/phantom-killers-last-alleged-victim-shot-death-70-years-ago-today/422384/"
+   },
+   {
+    "title": "Texas Ranger Hall of Fame and Museum - Manuel T. Gonzaullas",
+    "url": "https://www.texasranger.org/Hall-of-Fame/Gonzaullas-Manuel"
+   },
+   {
+    "title": "Wikipedia - Texarkana Moonlight Murders",
+    "url": "https://en.wikipedia.org/wiki/Texarkana_Moonlight_Murders"
+   },
+   {
+    "title": "Wikipedia - Youell Swinney",
+    "url": "https://en.wikipedia.org/wiki/Youell_Swinney"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Texarkana_Moonlight_Murders",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "timothy-spencer",
   "name": "Timothy Wilson Spencer",
   "aliases": [
@@ -7599,6 +9326,158 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "west-mesa-bone-collector",
+  "name": "West Mesa Bone Collector",
+  "aliases": [
+   "West Mesa murders",
+   "118th Street murders"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "New Mexico"
+  ],
+  "primaryState": "New Mexico",
+  "cities": [
+   "Albuquerque"
+  ],
+  "activeFrom": 2003,
+  "activeTo": 2005,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "11 women and an unborn child recovered; police say up to 8 more missing women may be linked"
+  },
+  "victimProfile": "Women and teenage girls aged 15 to 32 who disappeared from Albuquerque between 2003 and 2005; police say ten of the eleven had ties to drugs or sex work",
+  "method": [
+   "unknown",
+   "burial in shallow graves"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. The remains of 11 women and an unborn child were found buried on Albuquerque's West Mesa in February 2009; the women had disappeared between 2003 and 2005. No one has been charged, and the case remains open with the Albuquerque Police Department.",
+  "narrative": [
+   "The West Mesa Bone Collector is the unidentified person believed responsible for the deaths of eleven women and teenage girls whose remains were found buried on the West Mesa, an undeveloped area on the west side of Albuquerque, New Mexico, in 2009. According to the Albuquerque Police Department's case page, the victims were last seen between 2003 and 2005; one, Michelle Valdez, was pregnant, and the remains of her unborn child were found with her. No one has been arrested or charged, police have named no official suspect, and the investigation remains open.",
+   "The discovery began on February 2, 2009, when, as the APD case page records, a woman walking her dog found a human bone on a trail near 118th Street SW and reported it to police. Wikipedia notes that grading for a housing development had exposed bones in an arroyo bank. The Associated Press reported that the excavation ran around the clock and that identifying the remains through DNA and dental records took nearly a year. According to the APD page, Syllannia Edwards was identified on November 13, 2009, Virginia Cloven and Evelyn Salazar on November 17, 2009, and Jamie Barela on January 26, 2010, completing the identification of all eleven.",
+   "The eleven identified victims were Jamie Barela, 15; Monica Candelaria, 22; Victoria Chavez, 26; Virginia Cloven, 24; Syllannia Edwards, 15; Cinnamon Elks, 32; Doreen Marquez, 24; Julie Nieto, 24; Veronica Romero, 28; Evelyn Salazar, 27; and Michelle Valdez, 22. The APD page states that ten of the women had ties to drugs and prostitution and that Barela, Salazar's cousin, had no known involvement. Edwards had been reported missing in 2003 from Lawton, Oklahoma. According to the Associated Press, many of the women knew one another and some were mothers.",
+   "The AP and Wikipedia both record that Detective Ida Lopez had noticed women with drug and prostitution arrests disappearing from Albuquerque's streets in the mid-2000s and compiled a list of the missing before the graves were found; every woman found on the mesa was on her list. Other women on the list remain unaccounted for: KUNM reported in 2019 that six were still missing and that police believed the same person was responsible; the AP in 2022 and KOB in 2025 put the number at eight. Searches of the mesa in 2018 and 2021 found no further victims.",
+   "The APD runs the investigation through its 118th Street Task Force and, with the FBI and the victims' families, offers a reward of up to $100,000 for information leading to an arrest and conviction. In August 2010 police searched properties in Joplin, Missouri, belonging to a photographer and seized thousands of photographs; Wikipedia records that police later said he had been cleared. In December 2010 police released photographs of unidentified women found during the investigation; several were identified as alive. KUNM reported in February 2019 that Lt. Scott Norris, head of APD's violent crimes section, called it \"an active case,\" with three detectives assigned and more than 1,000 tips a year.",
+   "Two men have been widely discussed in connection with the case, though neither was ever charged in it. KSFR, drawing on Albuquerque Journal reporting, named them in 2022 as Lorenzo Montoya, who was shot and killed in December 2006 by the boyfriend of a 19-year-old woman he had strangled at his trailer, and Joseph Blea, who is serving a 90-year sentence imposed in 2015 for sexual assaults unrelated to West Mesa. The AP reported in February 2022 that Liz Thomson, a retired APD homicide sergeant rehired as a contract cold-case investigator, said the number of suspects was \"more than the two [people] that are commonly out there,\" and that detectives were auditing nearly 1,200 tips and had interviewed about 200 women. The Paper (abq.news) reported in 2021 that police had never publicly linked either man to the killings.",
+   "The city dedicated a one-acre Women's Memorial Park at the site on June 27, 2020. In February 2025, KOB reported that APD had received nearly 1,500 tips since 2009 and that Lopez, now a cold-case investigator, said detectives had \"persons of interest that we're looking into\" but no single lead suspect. As of 2026 the case remains unsolved."
+  ],
+  "timeline": [
+   {
+    "date": "2003-05-15",
+    "text": "Monica Candelaria, 22, the first of the eleven identified victims to vanish, is last seen in Albuquerque."
+   },
+   {
+    "date": "2004-09-22",
+    "text": "Michelle Valdez, 22, who was pregnant, is last seen; most of the identified victims disappeared between 2003 and 2004."
+   },
+   {
+    "date": "2005",
+    "text": "Detective Ida Lopez compiles a list of women with drug and prostitution arrests who have disappeared from Albuquerque streets."
+   },
+   {
+    "date": "2009-02-02",
+    "text": "A woman walking her dog finds a human bone near 118th Street SW on the West Mesa; excavation uncovers the remains of 11 women and an unborn child."
+   },
+   {
+    "date": "2009-11-13",
+    "text": "Syllannia Edwards, 15, reported missing from Lawton, Oklahoma in 2003, is identified from a sketch and dental records."
+   },
+   {
+    "date": "2009-11-17",
+    "text": "Virginia Cloven and Evelyn Salazar are identified through DNA."
+   },
+   {
+    "date": "2010-01-26",
+    "text": "Jamie Barela, 15, is identified, completing the identification of all eleven victims."
+   },
+   {
+    "date": "2010-08",
+    "text": "Police search properties in Joplin, Missouri, belonging to a photographer and seize thousands of photos; he is later cleared."
+   },
+   {
+    "date": "2010-12-09",
+    "text": "Police release photographs of unidentified women found during the investigation; several are later identified as alive."
+   },
+   {
+    "date": "2018-06",
+    "text": "Bones found near the burial site are determined to be ancient and unrelated."
+   },
+   {
+    "date": "2019-02-20",
+    "text": "APD Lt. Scott Norris calls it an active case with three detectives assigned and more than 1,000 tips a year."
+   },
+   {
+    "date": "2020-06-27",
+    "text": "The city opens the Women's Memorial Park at the burial site."
+   },
+   {
+    "date": "2022-02-02",
+    "text": "At the 13th anniversary, APD says nearly 1,200 tips are being audited and that the suspect pool is larger than the two men commonly named publicly; reward of up to $100,000 reiterated."
+   },
+   {
+    "date": "2025-02",
+    "text": "APD says it has received nearly 1,500 tips since 2009 and still has persons of interest; eight women linked to the case remain missing."
+   }
+  ],
+  "cases": [
+   "west-mesa-murders-2009"
+  ],
+  "tags": [
+   "unsolved",
+   "sex workers",
+   "unidentified killer",
+   "mass grave",
+   "dna identification"
+  ],
+  "sources": [
+   {
+    "title": "Albuquerque Police Department - West Mesa Homicide Investigation",
+    "url": "https://www.cabq.gov/police/contact-the-police/west-mesa-homicide-investigation"
+   },
+   {
+    "title": "CBS News / Associated Press - Reward offered in unsolved New Mexico serial killings (Feb. 3, 2022)",
+    "url": "https://www.cbsnews.com/news/new-mexico-unsolved-serial-killings-albuquerque-reward/"
+   },
+   {
+    "title": "CBS Colorado / Associated Press - 10 years later, West Mesa murders unsolved (Feb. 2, 2019)",
+    "url": "https://www.cbsnews.com/colorado/news/10-years-later-west-mesa-murders/"
+   },
+   {
+    "title": "KUNM - APD talks 10-year investigation into West Mesa murders (Feb. 20, 2019)",
+    "url": "https://www.kunm.org/local-news/2019-02-20/apd-talks-10-year-investigation-into-west-mesa-murders"
+   },
+   {
+    "title": "KSFR - Thirteen years later, investigators still searching for West Mesa killer (Feb. 3, 2022)",
+    "url": "https://www.ksfr.org/news/2022-02-03/thirteen-years-later-investigators-still-searching-for-west-mesa-killer"
+   },
+   {
+    "title": "KOB 4 - Families, APD seek answers 16 years after West Mesa murders",
+    "url": "https://www.kob.com/news/top-news/families-apd-seek-answers-16-years-after-west-mesa-murders/"
+   },
+   {
+    "title": "The Paper (abq.news) - 12th anniversary of West Mesa murder discovery (Feb. 2021)",
+    "url": "https://abq.news/2021/02/12th-anniversary-of-west-mesa-murder-discovery/"
+   },
+   {
+    "title": "Wikipedia - West Mesa murders",
+    "url": "https://en.wikipedia.org/wiki/West_Mesa_murders"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/West_Mesa_murders",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "william-bonin",
   "name": "William Bonin",
   "aliases": [
@@ -7764,5 +9643,165 @@
   "wikipedia": "https://en.wikipedia.org/wiki/William_Bonin",
   "enriched": true,
   "verified": "2026-10-28"
+ },
+ {
+  "id": "zodiac-killer",
+  "name": "Zodiac Killer",
+  "aliases": [
+   "Zodiac",
+   "The Zodiac"
+  ],
+  "born": null,
+  "died": null,
+  "gender": "Unknown",
+  "country": "United States",
+  "states": [
+   "California"
+  ],
+  "primaryState": "California",
+  "cities": [
+   "Benicia",
+   "Vallejo",
+   "Lake Berryessa",
+   "San Francisco"
+  ],
+  "activeFrom": 1968,
+  "activeTo": 1969,
+  "victims": {
+   "convicted": null,
+   "confessed": null,
+   "suspected": "5 confirmed killed and 2 survivors; 37 claimed in a 1974 letter"
+  },
+  "victimProfile": "Young couples parked at night in remote spots and a San Francisco cab driver, aged 16 to 29",
+  "method": [
+   "shooting",
+   "stabbing"
+  ],
+  "apprehended": null,
+  "captureMethod": null,
+  "legalStatus": "Unidentified",
+  "sentence": null,
+  "fate": "At large",
+  "fateDetail": null,
+  "summary": "Unidentified. The Zodiac Killer attacked seven people in Northern California between December 1968 and October 1969, killing five, and taunted police and newspapers with letters and ciphers. The case remains open with the SFPD, Vallejo police and the FBI.",
+  "narrative": [
+   "The Zodiac Killer is the unidentified person responsible for a series of attacks in the San Francisco Bay Area between December 1968 and October 1969. Five people were killed and two survived in four attacks in Benicia, Vallejo, Napa County and San Francisco. The attacker wrote to Bay Area newspapers under the name Zodiac, enclosed coded messages, and in a January 1974 letter to the San Francisco Chronicle claimed 37 victims. No one has ever been charged. The FBI's San Francisco field office said in December 2020 that the case remains an ongoing investigation, and the Wikipedia article records that the City of Vallejo and the Napa and Solano county sheriffs also list it as open.",
+   "The first confirmed attack came on December 20, 1968, when David Faraday, 17, and Betty Lou Jensen, 16, were shot with a .22-caliber pistol beside Lake Herman Road near Benicia. Shortly after midnight on July 5, 1969, Darlene Ferrin, 22, and Michael Mageau, 19, were shot in a parked car at Blue Rock Springs Park in Vallejo; Ferrin died and Mageau survived. According to the Wikipedia article, a man then telephoned Vallejo police to report the shooting and claim the Lake Herman Road murders.",
+   "On August 1, 1969, three letters arrived at the Vallejo Times-Herald, the San Francisco Chronicle and the San Francisco Examiner, each carrying a third of a 408-character cipher. A Salinas couple, Donald and Bettye Harden, solved it within days; it contained no name. On September 27, 1969, a hooded man stabbed Bryan Hartnell, 20, and Cecelia Shepard, 22, at Lake Berryessa in Napa County. Hartnell survived and Shepard died two days later. On October 11, 1969, cab driver Paul Stine, 29, was shot in Presidio Heights, San Francisco, the last killing conclusively linked to the series. A letter to the Chronicle afterward enclosed a piece of Stine's shirt, and a 340-character cipher followed on November 8, 1969.",
+   "Inspectors Bill Armstrong and Dave Toschi led the San Francisco investigation, while Vallejo police and the Napa and Solano county sheriffs handled the other attacks. Letters claiming to be from Zodiac continued into 1974, including the Chronicle letter of January 29, 1974 that ends \"Me - 37, SFPD - 0,\" as transcribed on Wikisource. Police never confirmed any killings beyond the five.",
+   "The only person publicly named by police was Arthur Leigh Allen, a former schoolteacher from Vallejo. A Vallejo police captain named him as that department's suspect, according to a CNN interview with San Francisco inspector Kelly Carroll in October 2002. Vallejo police interviewed Allen in 1971 and served a search warrant on his home in February 1991, according to the Wikipedia article on Allen. He denied involvement, was never charged, and died on August 26, 1992. In October 2002, ABC News reported that SFPD crime lab supervisor Cydne Holt had recovered a partial DNA profile from a stamp on the envelope of the November 8, 1969 card, and that Allen's DNA did not match. Carroll told CNN the result \"effectively clears him.\" The partial profile was too limited to identify anyone.",
+   "The San Francisco Police Department marked the case inactive in April 2004 and reactivated it in March 2007. In 2018, Vallejo police attempted investigative genetic genealogy on letter envelopes without definitive results, according to the Wikipedia article. On December 5, 2020, the 340 cipher was solved by David Oranchak of the United States, Sam Blake of Australia and Jarl Van Eycke of Belgium. The FBI confirmed the solution and said, as reported by KTVU and Global News, that the case \"remains an ongoing investigation for the FBI San Francisco division and our local law enforcement partners.\" The decoded message, which begins \"I hope you are having lots of fun in trying to catch me,\" does not name the writer. Two shorter ciphers from 1970 remain unsolved.",
+   "Because the Zodiac has never been identified, nothing is known of the person's background. Other cases have been linked to the series, including the 1966 murder of Cheri Jo Bates in Riverside and the 1970 abduction of Kathleen Johns near Patterson, but none has been confirmed by police. Several groups have announced identifications over the decades; none has been accepted by any investigating agency."
+  ],
+  "timeline": [
+   {
+    "date": "1968-12-20",
+    "text": "David Faraday, 17, and Betty Lou Jensen, 16, shot on Lake Herman Road near Benicia."
+   },
+   {
+    "date": "1969-07-05",
+    "text": "Darlene Ferrin, 22, killed and Michael Mageau, 19, wounded at Blue Rock Springs Park, Vallejo; a caller reports the shooting to Vallejo police."
+   },
+   {
+    "date": "1969-08-01",
+    "text": "Letters with a three-part 408-character cipher arrive at the Vallejo Times-Herald, San Francisco Chronicle and San Francisco Examiner."
+   },
+   {
+    "date": "1969-08-05",
+    "text": "Donald and Bettye Harden of Salinas solve the 408 cipher; it contains no name."
+   },
+   {
+    "date": "1969-09-27",
+    "text": "Bryan Hartnell, 20, and Cecelia Shepard, 22, stabbed at Lake Berryessa; Shepard dies September 29."
+   },
+   {
+    "date": "1969-10-11",
+    "text": "Cab driver Paul Stine, 29, shot in Presidio Heights, San Francisco; the last confirmed killing."
+   },
+   {
+    "date": "1969-11-08",
+    "text": "340-character cipher mailed to the San Francisco Chronicle."
+   },
+   {
+    "date": "1974-01-29",
+    "text": "Letter to the Chronicle ends with the score line \"Me - 37, SFPD - 0.\""
+   },
+   {
+    "date": "1991-02",
+    "text": "Vallejo police serve a search warrant on the home of Arthur Leigh Allen; he is never charged."
+   },
+   {
+    "date": "1992-08-26",
+    "text": "Arthur Leigh Allen dies in Vallejo."
+   },
+   {
+    "date": "2002-10",
+    "text": "SFPD crime lab reports a partial DNA profile from a 1969 envelope stamp; it does not match Allen."
+   },
+   {
+    "date": "2004-04",
+    "text": "SFPD marks the case inactive."
+   },
+   {
+    "date": "2007-03",
+    "text": "SFPD reactivates the case."
+   },
+   {
+    "date": "2018",
+    "text": "Vallejo police attempt genetic genealogy on letter envelopes without definitive results."
+   },
+   {
+    "date": "2020-12-05",
+    "text": "The 340 cipher is solved by David Oranchak, Sam Blake and Jarl Van Eycke; the FBI confirms the solution and says the investigation is ongoing."
+   }
+  ],
+  "cases": [
+   "zodiac-killer",
+   "zodiac-lake-berryessa"
+  ],
+  "tags": [
+   "unidentified",
+   "ciphers",
+   "letters to press",
+   "couples",
+   "dna evidence"
+  ],
+  "sources": [
+   {
+    "title": "KTVU - Cipher solved in Zodiac Killer case decades after it was sent (Dec. 11, 2020)",
+    "url": "https://www.ktvu.com/news/cipher-solved-in-zodiac-killer-case-decades-after-it-was-sent"
+   },
+   {
+    "title": "Global News - Zodiac Killer cipher solved after 51 years, FBI confirms (Dec. 11, 2020)",
+    "url": "https://globalnews.ca/news/7516776/zodiac-killer-cipher-solved-code/"
+   },
+   {
+    "title": "ABC7 - Zodiac Killer's '340 Cipher' solved by code experts (Dec. 12, 2020)",
+    "url": "https://abc7.com/the-zodiac-killer-340-cipher-cypher/8694644/"
+   },
+   {
+    "title": "CNN transcript - SFPD Inspector Kelly Carroll on the Zodiac DNA test (Oct. 27, 2002)",
+    "url": "http://transcripts.cnn.com/TRANSCRIPTS/0210/27/sm.30.html"
+   },
+   {
+    "title": "ABC News Primetime - Partial DNA profile from Zodiac envelope excludes Arthur Leigh Allen (Oct. 17, 2002)",
+    "url": "https://abcnews.com/Primetime/story?id=132040&page=1"
+   },
+   {
+    "title": "Wikisource - Zodiac Killer letter to the San Francisco Chronicle, January 29, 1974",
+    "url": "https://en.wikisource.org/wiki/Zodiac_Killer_letter,_January_29th_1974"
+   },
+   {
+    "title": "Wikipedia - Zodiac Killer",
+    "url": "https://en.wikipedia.org/wiki/Zodiac_Killer"
+   },
+   {
+    "title": "Wikipedia - Arthur Leigh Allen",
+    "url": "https://en.wikipedia.org/wiki/Arthur_Leigh_Allen"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Zodiac_Killer",
+  "enriched": true,
+  "verified": "2026-10-29"
  }
 ]
