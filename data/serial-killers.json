@@ -2155,6 +2155,153 @@
   "searchVolume": 8700
  },
  {
+  "id": "carlton-gary",
+  "name": "Carlton Gary",
+  "aliases": [
+   "The Stocking Strangler",
+   "Carlton Michael Gary",
+   "Carl Michaels",
+   "Michael David"
+  ],
+  "born": "1950-09-24",
+  "died": "2018-03-15",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Georgia",
+   "New York"
+  ],
+  "primaryState": "Georgia",
+  "cities": [
+   "Columbus",
+   "Albany",
+   "Syracuse"
+  ],
+  "activeFrom": 1977,
+  "activeTo": 1978,
+  "victims": {
+   "convicted": 3,
+   "confessed": null,
+   "suspected": "7 to 9"
+  },
+  "victimProfile": "Elderly women aged 59 to 89 who lived alone in the Wynnton neighborhood of Columbus, Georgia",
+  "method": [
+   "strangulation"
+  ],
+  "apprehended": "1984-05-03",
+  "captureMethod": "A pistol stolen in a 1977 burglary in the victims' neighborhood surfaced in Michigan and was traced through relatives to Gary, who was arrested for burglary; his fingerprints then matched those from four murder scenes",
+  "legalStatus": "Convicted",
+  "sentence": "Death, imposed August 27, 1986, on each of three counts of malice murder, with convictions on three counts each of rape and burglary",
+  "fate": "Executed",
+  "fateDetail": "Lethal injection at the Georgia Diagnostic and Classification Prison, Jackson, Georgia; pronounced dead at 10:33 p.m. on March 15, 2018",
+  "summary": "Executed. Carlton Gary, the Columbus, Georgia \"Stocking Strangler,\" was convicted in 1986 of the 1977 murders of three elderly women, Florence Scheible, Martha Thurmond and Kathleen Woodruff, and executed by lethal injection in March 2018.",
+  "narrative": [
+   "Carlton Gary was convicted in 1986 by a Muscogee County jury of murdering three elderly women in Columbus, Georgia, in 1977: Florence Scheible, 89, Martha Thurmond, 69, and Kathleen Woodruff, 74. Known in the press as the \"Stocking Strangler,\" he was found guilty on three counts each of malice murder, rape and burglary and sentenced to death on August 27, 1986. Prosecutors said he was responsible for a total of nine attacks on elderly women in Columbus in 1977 and 1978, seven of them fatal. After more than three decades of appeals, Georgia executed him by lethal injection at the state prison in Jackson on March 15, 2018.",
+   "Gary was born in Columbus on September 24, 1950, and, according to The Atlanta Journal-Constitution, moved to Florida as a young child. Between September 1977 and April 1978 a series of attacks struck women who lived alone in Columbus's Wynnton neighborhood. According to the 2012 opinion of the U.S. Court of Appeals for the Eleventh Circuit, the uncharged deaths introduced at trial as similar crimes were those of Fern Jackson on September 16, 1977, Jean Dimenstein on September 24, 1977, Mildred Borom on February 12, 1978, and Janet Cofer on April 19, 1978. Two women survived: Gertrude Miller, who was raped and beaten on September 11, 1977, and Ruth Schwob, who was attacked on February 11, 1978. The AJC reported that Schwob, 74, survived by pressing a panic button. CBS News reported that most of the victims were choked, often with their own stockings.",
+   "The case went unsolved for six years. The Eleventh Circuit opinion says police had no viable suspect until 1984, when a gun stolen in a 1977 burglary in the area was found in Michigan in the possession of Gary's cousin, a discovery made through Michigan's gun registration laws. Gary was arrested for burglary on May 3, 1984, and was indicted the next day, according to an Associated Press chronology published by WTVC. His fingerprints matched latent prints from four of the crime scenes. In statements to officers, according to the court, Gary said he had been present at seven of the scenes as a burglar but blamed the rapes and murders on a boyhood friend, Malvin Crittenden; the AP reported that investigators found nothing to corroborate that claim.",
+   "Before Columbus, Gary had a record in several states. The AJC reported that his fingerprints were found in 1970 at the Albany, New York, home of Nellie Farmer, 85, who was raped and strangled, but that he was convicted only of robbery. In 1975 Marion Fisher, 40, was raped and strangled near Syracuse, New York, and evidence from her case was later linked to Gary's DNA; according to the Wikipedia article, the Onondaga County district attorney declined to charge him because he was already on Georgia's death row. He was never tried for either death. The AJC reported that Gary escaped from a New York county jail in 1977 and was later imprisoned in South Carolina for a string of restaurant armed robberies.",
+   "The Georgia Supreme Court sent the case back in 1987 for a hearing on whether Gary had effective counsel, then affirmed the convictions and death sentences on March 6, 1990. State habeas relief was denied between 1995 and 1997, and federal habeas relief was denied by the district court in 2004 and by the Eleventh Circuit in February 2009. After the U.S. Supreme Court declined review in November 2009, the state set an execution date of December 16, 2009. The Board of Pardons and Paroles denied clemency, but the Georgia Supreme Court stayed the execution hours before it was due so that DNA evidence could be tested.",
+   "The DNA testing gave mixed results. The AP reported that testing showed a match between Gary and Jean Dimenstein, one of the uncharged deaths. His lawyers pointed to semen on clothing worn by Gertrude Miller, who had identified him at trial, that did not match him, and argued that other samples from the convicted cases were contaminated at the state crime lab. They also cited a shoeprint from a size 10 shoe, disclosed years after trial, although Gary wore a 13 and a half, and a bite-mark exemplar that defense experts said did not match his teeth. The state disputed these claims. A Muscogee County judge denied his extraordinary motion for a new trial on September 1, 2017, finding the evidence unlikely to have changed the verdict, and the Georgia Supreme Court declined to hear an appeal in December 2017.",
+   "Gary, 67, was put to death on the night of March 15, 2018, the first execution in Georgia that year. He declined to make a final statement and was pronounced dead at 10:33 p.m."
+  ],
+  "timeline": [
+   {
+    "date": "1950-09-24",
+    "text": "Carlton Michael Gary born in Columbus, Georgia."
+   },
+   {
+    "date": "1970",
+    "text": "Fingerprints found at the Albany, New York, home of Nellie Farmer, 85, who was raped and strangled; Gary is convicted only of robbery."
+   },
+   {
+    "date": "1975",
+    "text": "Marion Fisher, 40, is raped and strangled near Syracuse, New York; DNA later links the case to Gary, who is never charged."
+   },
+   {
+    "date": "1977-09-11",
+    "text": "Gertrude Miller is raped and beaten in Columbus and survives; the first attack in the series."
+   },
+   {
+    "date": "1977-10-21",
+    "text": "Florence Scheible, 89, is killed in her Columbus home; one of the three murders for which Gary is convicted."
+   },
+   {
+    "date": "1977-10-25",
+    "text": "Martha Thurmond, 69, is killed in Columbus; a convicted count."
+   },
+   {
+    "date": "1977-12-28",
+    "text": "Kathleen Woodruff, 74, is killed in Columbus; a convicted count."
+   },
+   {
+    "date": "1978-04-19",
+    "text": "Janet Cofer, 61, is killed; the last death in the Columbus series."
+   },
+   {
+    "date": "1984-05-03",
+    "text": "Gary is arrested for burglary after a gun stolen in 1977 is traced to him; his fingerprints match four murder scenes."
+   },
+   {
+    "date": "1986-08-27",
+    "text": "Convicted in Muscogee County of three counts each of malice murder, rape and burglary and sentenced to death."
+   },
+   {
+    "date": "1990-03-06",
+    "text": "Georgia Supreme Court affirms the convictions and death sentences."
+   },
+   {
+    "date": "2009-12-16",
+    "text": "Georgia Supreme Court stays his execution hours before it is due so DNA evidence can be tested."
+   },
+   {
+    "date": "2017-09-01",
+    "text": "Muscogee County Superior Court denies his extraordinary motion for a new trial."
+   },
+   {
+    "date": "2018-03-15",
+    "text": "Executed by lethal injection at the state prison in Jackson, Georgia, aged 67."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "elderly victims",
+   "strangulation",
+   "death row",
+   "dna testing",
+   "fingerprint evidence",
+   "disputed conviction"
+  ],
+  "sources": [
+   {
+    "title": "CBS News - Carlton Gary, the \"Stocking Strangler,\" executed in Georgia (March 15, 2018)",
+    "url": "https://www.cbsnews.com/news/carlton-gary-stocking-strangler-executed-georgia-tonight-2018-03-15/"
+   },
+   {
+    "title": "WTVC NewsChannel 9 (Associated Press) - Georgia executes man dubbed 'stocking strangler' (March 16, 2018)",
+    "url": "https://newschannel9.com/news/local/georgia-executes-man-dubbed-stocking-strangler"
+   },
+   {
+    "title": "FindLaw - Carlton Gary v. Warden, Georgia Diagnostic Prison, U.S. Court of Appeals for the Eleventh Circuit (July 12, 2012)",
+    "url": "https://caselaw.findlaw.com/us-11th-circuit/1605898.html"
+   },
+   {
+    "title": "The Atlanta Journal-Constitution - Execution looming for serial killer who terrorized Columbus (March 8, 2018)",
+    "url": "https://www.ajc.com/news/crime--law/serial-killer-execution-close-chapter-for-columbus/EcnfQzGCrYLVSj2Mzb58jO/"
+   },
+   {
+    "title": "The Atlanta Journal-Constitution - Parole board denies clemency for \"stocking strangler\" (December 16, 2009)",
+    "url": "https://www.ajc.com/news/local/parole-board-denies-clemency-for-stocking-strangler/4vdFmy09lMgOiLz8QiKovJ/"
+   },
+   {
+    "title": "Wikipedia - Carlton Gary",
+    "url": "https://en.wikipedia.org/wiki/Carlton_Gary"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Carlton_Gary",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "charles-cullen",
   "name": "Charles Cullen",
   "aliases": [
@@ -3913,6 +4060,165 @@
   "verified": "2026-10-29"
  },
  {
+  "id": "donald-gaskins",
+  "name": "Donald Henry Gaskins",
+  "aliases": [
+   "Pee Wee Gaskins",
+   "Pee Wee",
+   "The Meanest Man in America",
+   "Donald Henry Parrott Jr."
+  ],
+  "born": "1933-03-31",
+  "died": "1991-09-06",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "South Carolina"
+  ],
+  "primaryState": "South Carolina",
+  "cities": [
+   "Prospect",
+   "Sumter",
+   "Florence",
+   "Columbia"
+  ],
+  "activeFrom": 1970,
+  "activeTo": 1982,
+  "victims": {
+   "convicted": 10,
+   "confessed": 13,
+   "suspected": "14 to 15"
+  },
+  "victimProfile": "Acquaintances, relatives, hitchhikers and associates in the Florence and Sumter areas, among them teenagers and a two-year-old child, plus a fellow prison inmate killed for hire",
+  "method": [
+   "shooting",
+   "stabbing",
+   "beating",
+   "drowning",
+   "poisoning",
+   "explosive"
+  ],
+  "apprehended": "1975-11-14",
+  "captureMethod": "Associate Walter Neeley told police Gaskins had killed Dennis Bellamy and John Henry Knight and later led investigators to buried bodies near Prospect",
+  "legalStatus": "Convicted",
+  "sentence": "Ten life sentences (nine for murder, one for burglary) on guilty pleas after a 1976 death sentence was set aside; death sentence in 1983 for the murder of Rudolph Tyner",
+  "fate": "Executed",
+  "fateDetail": "Electric chair, South Carolina, September 6, 1991, 1:10 a.m., hours after cutting his wrists",
+  "summary": "Executed. Donald \"Pee Wee\" Gaskins was serving life sentences for nine South Carolina murders from 1970 to 1975 when he killed death-row inmate Rudolph Tyner with a bomb in 1982. Sentenced to death, he was electrocuted in 1991.",
+  "narrative": [
+   "Donald Henry \"Pee Wee\" Gaskins was a South Carolina serial killer who was convicted of ten murders: nine killings committed between 1970 and 1975, for which he was serving life sentences, and the 1982 bombing death of fellow inmate Rudolph Tyner at the Central Correctional Institution in Columbia. A Richland County jury sentenced him to death for the Tyner killing in 1983, and he was executed in South Carolina's electric chair on September 6, 1991, aged 58. Gaskins later claimed to have killed around 100 people, but the Wikipedia article notes that law enforcement and journalists have discredited most of those claims.",
+   "Gaskins was born on March 31, 1933, in Florence County, and grew up near the rural community of Prospect. According to the South Carolina Encyclopedia, he stood barely five feet tall, which earned him his nickname, and he spent several years in a Florence reform school as a youth. The Wikipedia article says he served prison terms in the 1950s and 1960s for assault, the killing of a fellow inmate that was classed as manslaughter, and the rape of a 12-year-old girl, and that he was paroled for the last time in November 1968.",
+   "The Wikipedia article lists the killings attributed to him between 1970 and 1975, most of them in the Sumter and Florence areas. They include his 15-year-old niece Janice Kirby and Patricia Ann Alsbrook, 17, in November 1970; Martha Ann Dicks; Doreen Hope Dempsey, 22, and her two-year-old daughter Robin Michelle in 1973; Johnny Sellers and Jessie Ruth Judy in 1974; Silas Barnwell Yates in a 1975 murder for hire; Dianne Bellamy Neeley and Avery Leroy Howard in April 1975; 13-year-old Kim Gehlken; and Dennis Bellamy, 28, and John Henry Knight, 15, who were shot near Prospect in October 1975. WIS reported in June 2025 that Gaskins had admitted in court to poisoning Dicks, and that her remains, long lost after being sent to a college for study, had been found in a box on the College of Charleston campus.",
+   "Gaskins was arrested on November 14, 1975, after his associate Walter Neeley told police that Gaskins had killed Bellamy and Knight and had described other killings and burial sites, according to the Wikipedia article. On December 4, 1975, Neeley led investigators to land near Prospect where eight bodies were recovered. The South Carolina Encyclopedia says he was charged in Florence County with five murders and was sentenced to death on May 28, 1976, after a jury convicted him of killing Dennis Bellamy. That death sentence did not stand. The Fourth Circuit later recorded that Gaskins pleaded guilty under a plea bargain to several murders and was serving ten life sentences, nine for murder and one for burglary. In the sworn confession tied to that plea, he admitted killing 13 people between 1970 and 1975, according to the Wikipedia article; the Deseret News described him in 1991 as the confessed killer of 13.",
+   "While serving those sentences at the Central Correctional Institution, Gaskins worked on death row. There he was hired by Tony Cimo, the son of Myrtle Moon, to kill Rudolph Tyner, who had been sentenced to death for the 1978 robbery killings of Bill and Myrtle Moon at their grocery store in Murrells Inlet. The State newspaper reported that a first attempt with poison only made Tyner sick. According to the Fourth Circuit, Gaskins then had another inmate pass Tyner a cup-shaped speaker rigged with a wire, telling him it would let the two men talk between cells; when Tyner held it to his ear, the device exploded and killed him on September 12, 1982. Recorded collect calls between Gaskins and Cimo became key evidence. Cimo pleaded guilty to conspiracy, received eight years and was paroled after less than three, The State reported.",
+   "Gaskins was tried in the Richland County Court of General Sessions, prosecuted by Dick Harpootlian, and on March 24, 1983, was convicted of Tyner's murder and sentenced to death, with prior murder convictions and murder for hire found as aggravating factors. The South Carolina Supreme Court affirmed in State v. Gaskins (1985), state post-conviction relief was denied in 1987, and the Fourth Circuit rejected habeas petitions in 1990 and again on September 5, 1991, when it also refused a stay of execution.",
+   "Hours before his execution, Gaskins cut his wrists and arms with a razor blade, and he went to the electric chair with about 20 stitches, the Deseret News reported. He was pronounced dead at 1:10 a.m. on September 6, 1991. The Wikipedia article notes that his was the first execution in South Carolina in more than a century of a white defendant for killing a Black victim. The State reported in 2022 that he was convicted of ten murders, including Tyner's, confessed to 15 and led authorities to the remains of at least 13 people."
+  ],
+  "timeline": [
+   {
+    "date": "1933-03-31",
+    "text": "Donald Henry Gaskins born in Florence County, South Carolina."
+   },
+   {
+    "date": "1970-11",
+    "text": "Janice Kirby, 15, and Patricia Ann Alsbrook, 17, killed in the Sumter area; the earliest of the 1970s killings."
+   },
+   {
+    "date": "1973-06",
+    "text": "Doreen Hope Dempsey, 22, and her two-year-old daughter Robin Michelle killed near Prospect."
+   },
+   {
+    "date": "1975-10-10",
+    "text": "Dennis Bellamy, 28, and John Henry Knight, 15, shot near Prospect."
+   },
+   {
+    "date": "1975-11-14",
+    "text": "Gaskins arrested after associate Walter Neeley speaks to police."
+   },
+   {
+    "date": "1975-12-04",
+    "text": "Neeley leads investigators to land near Prospect where eight bodies are recovered."
+   },
+   {
+    "date": "1976-05-28",
+    "text": "Convicted of the murder of Dennis Bellamy in Florence County and sentenced to death; the sentence is later set aside."
+   },
+   {
+    "date": "1978",
+    "text": "Pleads guilty to further murders and a burglary charge; serves ten life sentences."
+   },
+   {
+    "date": "1982-09-12",
+    "text": "Rudolph Tyner killed at the Central Correctional Institution in Columbia by an explosive device supplied by Gaskins in a murder-for-hire arranged by Tony Cimo."
+   },
+   {
+    "date": "1983-03-24",
+    "text": "Convicted in Richland County of Tyner's murder and sentenced to death."
+   },
+   {
+    "date": "1985",
+    "text": "South Carolina Supreme Court affirms the conviction and death sentence in State v. Gaskins."
+   },
+   {
+    "date": "1990-10-15",
+    "text": "Fourth Circuit affirms dismissal of his federal habeas petition in Gaskins v. McKellar."
+   },
+   {
+    "date": "1991-09-05",
+    "text": "Fourth Circuit denies a final habeas petition and stay of execution."
+   },
+   {
+    "date": "1991-09-06",
+    "text": "Executed in South Carolina's electric chair at 1:10 a.m., hours after cutting his wrists."
+   },
+   {
+    "date": "2025-06-13",
+    "text": "WIS reports that the lost remains of victim Martha Ann Dicks were found at the College of Charleston."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "executed",
+   "murder for hire",
+   "prison killing",
+   "guilty plea",
+   "uncorroborated claims"
+  ],
+  "sources": [
+   {
+    "title": "U.S. Court of Appeals, Fourth Circuit - Gaskins v. McKellar, 916 F.2d 941 (October 15, 1990)",
+    "url": "https://law.resource.org/pub/us/case/reporter/F2/916/916.F2d.941.89-4011.html"
+   },
+   {
+    "title": "U.S. Court of Appeals, Fourth Circuit - Gaskins v. Evatt, 943 F.2d 49 (September 5, 1991)",
+    "url": "https://law.resource.org/pub/us/case/reporter/F2/943/943.F2d.49.91-4009.html"
+   },
+   {
+    "title": "Deseret News - Killer of 14 is executed after slashing his wrists (September 6, 1991)",
+    "url": "https://www.deseret.com/1991/9/6/18939747/killer-of-14-is-executed-after-slashing-his-wrists"
+   },
+   {
+    "title": "The State via AOL - 40 years ago, infamous SC killer 'Pee Wee' Gaskins slayed last victim, a fellow prisoner (September 24, 2022)",
+    "url": "https://www.aol.com/40-years-ago-infamous-sc-100000131.html"
+   },
+   {
+    "title": "WIS News 10 - 'It's sad': Remains found of SC serial killer Pee Wee Gaskins' final victim (June 13, 2025)",
+    "url": "https://www.wistv.com/2025/06/13/remains-south-carolina-serial-killers-last-victim-found/"
+   },
+   {
+    "title": "South Carolina Encyclopedia - Gaskins, Donald Henry",
+    "url": "https://scencyclopedia.org/sce/?p=6671"
+   },
+   {
+    "title": "Wikipedia - Donald Henry Gaskins",
+    "url": "https://en.wikipedia.org/wiki/Donald_Henry_Gaskins"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Donald_Henry_Gaskins",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "donald-harvey",
   "name": "Donald Harvey",
   "aliases": [
@@ -4999,6 +5305,164 @@
   "searchVolume": 13000
  },
  {
+  "id": "gary-michael-hilton",
+  "name": "Gary Michael Hilton",
+  "aliases": [
+   "The National Forest Serial Killer",
+   "The Beast of Blood Mountain",
+   "Gary Hilton"
+  ],
+  "born": "1946-11-22",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "North Carolina",
+   "Florida",
+   "Georgia"
+  ],
+  "primaryState": "North Carolina",
+  "cities": [
+   "Tallahassee",
+   "Dawsonville"
+  ],
+  "activeFrom": 2007,
+  "activeTo": 2008,
+  "victims": {
+   "convicted": 4,
+   "confessed": 4,
+   "suspected": "4"
+  },
+  "victimProfile": "Hikers and forest visitors, an elderly couple and two women aged 24 and 46, abducted on or near national forest and state park land and robbed of their bank cards",
+  "method": [
+   "blunt force",
+   "shooting"
+  ],
+  "apprehended": "2008-01-04",
+  "captureMethod": "Arrested in the Atlanta area after authorities publicized his description and received numerous calls; the arrest warrant said he was caught after trying to use Meredith Emerson's credit card",
+  "legalStatus": "Convicted",
+  "sentence": "Georgia: life with parole eligibility after 30 years for the Emerson murder (January 31, 2008); Florida: death for the Dunlap murder (April 21, 2011); federal: life without parole under a March 2012 plea agreement for the Bryant murders",
+  "fate": "Imprisoned",
+  "fateDetail": "On Florida death row since April 2011; Union Correctional Institution, Raiford, Florida, according to the Wikipedia article",
+  "summary": "Imprisoned. Gary Michael Hilton was convicted of killing four people on forest land in 2007 and 2008: Meredith Emerson in Georgia, Cheryl Dunlap in Florida and John and Irene Bryant in North Carolina. He is under a Florida death sentence.",
+  "narrative": [
+   "Gary Michael Hilton is an American serial killer, often called the National Forest Serial Killer, who was convicted of four murders committed on or near public forest land in North Carolina, Florida and Georgia between October 2007 and January 2008. He pleaded guilty in Georgia in January 2008 to the murder of hiker Meredith Emerson and received life in prison; a Leon County, Florida jury convicted him in 2011 of murdering Cheryl Dunlap and he was sentenced to death; and in March 2012 he pleaded guilty in federal court in Asheville, North Carolina, to murdering John and Irene Bryant. He remains on Florida's death row.",
+   "The first known killings were of John and Irene Bryant, a couple in their 80s from western North Carolina who disappeared in October 2007 while hiking in Pisgah National Forest. According to the Wikipedia article, Irene Bryant's body was found near a trail in November 2007 and she had been beaten to death. Skeletal remains found by a hunter in Macon County in early February 2008 were identified as John Bryant on February 4, 2008, when Transylvania County Sheriff David Mahoney said he believed Hilton was responsible for both deaths, CBS News reported. In his later federal plea, Hilton admitted shooting John Bryant within the Nantahala National Forest in Macon County and killing Irene Bryant within the Pisgah National Forest in Transylvania County, according to the U.S. Attorney's Office.",
+   "Cheryl Dunlap, 46, a nurse and Sunday school teacher from the Tallahassee area, was last seen alive on December 1, 2007, at Leon Sinks, according to the Florida Supreme Court. Her car was found on December 3 with a tire punctured by a bayonet, and a hunter found her body in the Apalachicola National Forest on December 15. The court recounted that her ATM card was used on December 2, 3 and 4 to withdraw $700, that witnesses placed Hilton near Leon Sinks and in the forest that month, that a bayonet recovered in Georgia was matched to the tire punctures, and that her DNA was found on items taken from his van.",
+   "On New Year's Day 2008, Meredith Emerson, 24, was hiking with her dog in the north Georgia mountains near Blood Mountain in Union County. The Associated Press reported that Hilton abducted her and spent three days trying to drain her bank accounts while she gave him incorrect PIN numbers, and that he killed her on January 4 by striking her in the head. He was arrested after authorities released his description and received numerous calls; the AP, citing the arrest warrant, said he was caught after trying to use her credit card. The Florida Supreme Court described a witness calling police after seeing him near a convenience store's dumpsters. Accounts differ on whether the arrest was made on January 4 or January 5.",
+   "Hilton, then 61, agreed through his lawyer to lead investigators to Emerson's body, which was found nearly 50 miles from where she disappeared, in exchange for prosecutors not seeking the death penalty. On January 31, 2008, a specially called Dawson County grand jury indicted him and he pleaded guilty to murder the same day before Judge Bonnie Oliver of Dawson County Superior Court, who imposed life in prison with the possibility of parole after 30 years. The judge said she accepted the deal because Hilton would likely die before any execution could be carried out, the AP reported. In interviews later released by the Georgia Bureau of Investigation, he described Emerson resisting him throughout.",
+   "A Leon County grand jury indicted Hilton on February 28, 2008, for first-degree murder, kidnapping and two counts of grand theft in the Dunlap case, and he was driven from Georgia to Florida on June 6, 2008. His trial began on February 2, 2011. The jury unanimously recommended death on February 21, 2011, and the trial court sentenced him to death on April 21, 2011, finding six aggravating circumstances, including that the murder was especially heinous, atrocious or cruel and was cold, calculated and premeditated. The Florida Supreme Court affirmed the conviction and sentence on March 21, 2013, and in August 2021 rejected his postconviction claims of ineffective counsel, according to UPI and WCTV.",
+   "A federal grand jury returned a five-count indictment in June 2011 charging Hilton with the kidnapping, robbery and murder of the Bryants on national forest land. On March 27, 2012, he pleaded guilty to their murders and to related robbery, kidnapping and firearms offenses under an agreement providing for life in prison without parole. According to the Wikipedia article, Hilton was born on November 22, 1946, in Atlanta, and he has been examined as a possible suspect in several other deaths and disappearances in the Southeast, none of which has led to a charge."
+  ],
+  "timeline": [
+   {
+    "date": "1946-11-22",
+    "text": "Gary Michael Hilton born in Atlanta, Georgia, according to the Wikipedia article."
+   },
+   {
+    "date": "2007-10",
+    "text": "John and Irene Bryant, in their 80s, disappear while hiking in Pisgah National Forest, North Carolina."
+   },
+   {
+    "date": "2007-11",
+    "text": "Irene Bryant's body is found near a hiking trail."
+   },
+   {
+    "date": "2007-12-01",
+    "text": "Cheryl Dunlap, 46, is last seen alive at Leon Sinks near Tallahassee, Florida."
+   },
+   {
+    "date": "2007-12-15",
+    "text": "A hunter finds Dunlap's body in the Apalachicola National Forest."
+   },
+   {
+    "date": "2008-01-01",
+    "text": "Meredith Emerson, 24, is abducted while hiking in Union County, Georgia."
+   },
+   {
+    "date": "2008-01-04",
+    "text": "Emerson is killed, according to the Georgia indictment; Hilton is arrested around this date (accounts differ between January 4 and 5)."
+   },
+   {
+    "date": "2008-01-31",
+    "text": "Pleads guilty in Dawson County Superior Court to Emerson's murder; sentenced to life with parole eligibility after 30 years."
+   },
+   {
+    "date": "2008-02-04",
+    "text": "Skeletal remains found by a hunter in Macon County, North Carolina, are identified as John Bryant."
+   },
+   {
+    "date": "2008-02-28",
+    "text": "Leon County grand jury indicts Hilton for the murder and kidnapping of Dunlap."
+   },
+   {
+    "date": "2011-02-21",
+    "text": "Florida jury unanimously recommends death after convicting Hilton in the Dunlap case."
+   },
+   {
+    "date": "2011-04-21",
+    "text": "Sentenced to death in Leon County for Dunlap's murder."
+   },
+   {
+    "date": "2012-03-27",
+    "text": "Pleads guilty in federal court in Asheville to murdering John and Irene Bryant, under an agreement providing for life without parole."
+   },
+   {
+    "date": "2013-03-21",
+    "text": "Florida Supreme Court affirms the Dunlap conviction and death sentence."
+   },
+   {
+    "date": "2021-08-26",
+    "text": "Florida Supreme Court rejects his postconviction appeal."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "hikers",
+   "national forests",
+   "death row",
+   "guilty plea",
+   "multi-state"
+  ],
+  "sources": [
+   {
+    "title": "Florida Supreme Court via FindLaw - Hilton v. State, No. SC11-898 (March 21, 2013)",
+    "url": "https://caselaw.findlaw.com/fl-supreme-court/1626090.html"
+   },
+   {
+    "title": "U.S. Attorney's Office, Western District of North Carolina - Gary Michael Hilton pleads guilty to murder charges (March 27, 2012)",
+    "url": "https://www.justice.gov/archive/usao/ncw/pressreleases/2012/Charlotte-2012-03-27-hilton.html"
+   },
+   {
+    "title": "Associated Press via NBC News - Drifter pleads guilty to Georgia hiker's murder (January 31, 2008)",
+    "url": "https://www.nbcnews.com/news/amp/wbna22936471"
+   },
+   {
+    "title": "Associated Press via CBS News - Body of missing N.C. hiker identified (February 4, 2008)",
+    "url": "https://www.cbsnews.com/news/body-of-missing-nc-hiker-identified"
+   },
+   {
+    "title": "Associated Press via NBC News - Killer says female hiker fought him to the end (March 23, 2008)",
+    "url": "https://www.nbcnews.com/id/wbna23769881"
+   },
+   {
+    "title": "UPI - Florida Supreme Court upholds death sentence for Gary Hilton (August 26, 2021)",
+    "url": "https://www.upi.com/Top_News/US/2021/08/26/Florida-Supreme-Court-upholds-death-sentence-for-Gary-Hilton/8591630008062/"
+   },
+   {
+    "title": "WCTV - Serial killer Gary Michael Hilton's death sentence upheld (August 26, 2021)",
+    "url": "https://www.wctv.tv/2021/08/26/serial-killer-gary-michael-hiltons-death-sentence-upheld/"
+   },
+   {
+    "title": "Wikipedia - Gary Michael Hilton",
+    "url": "https://en.wikipedia.org/wiki/Gary_Michael_Hilton"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gary_Michael_Hilton",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "gary-ridgway",
   "name": "Gary Ridgway",
   "aliases": [
@@ -5165,6 +5629,138 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 40000
+ },
+ {
+  "id": "gary-schaefer",
+  "name": "Gary Schaefer",
+  "aliases": [
+   "Gary Lee Schaefer"
+  ],
+  "born": "1951",
+  "died": "2023-11-26",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Vermont"
+  ],
+  "primaryState": "Vermont",
+  "cities": [
+   "Springfield"
+  ],
+  "activeFrom": 1979,
+  "activeTo": 1983,
+  "victims": {
+   "convicted": 1,
+   "confessed": 2,
+   "suspected": "3"
+  },
+  "victimProfile": "Girls aged 11 to 13 from Springfield, Vermont, abducted from roads near their homes",
+  "method": [
+   "beating"
+  ],
+  "apprehended": "1983-04-11",
+  "captureMethod": "A friend who escaped the Richards abduction described the abductor and his car, and the description and other evidence led Springfield police to Schaefer",
+  "legalStatus": "Convicted",
+  "sentence": "30 years to life on a no contest plea to kidnapping, sexual assault and second-degree murder of Catherine Richards, together with a kidnapping charge from a 1982 abduction (sentenced January 1984)",
+  "fate": "Died in prison",
+  "fateDetail": "Kentucky State Penitentiary, Eddyville, Kentucky, where he had been held under the Interstate Corrections Compact since May 1985; acute medical event, death not considered suspicious",
+  "summary": "Died in prison. Gary Schaefer was convicted of the 1983 murder of 11-year-old Katy Richards in Springfield, Vermont, confessed to a 1981 killing and was charged in a third. Serving 30 years to life, he died in a Kentucky prison in 2023.",
+  "narrative": [
+   "Gary Lee Schaefer was a Springfield, Vermont, auto mechanic who was convicted of the 1983 kidnapping, sexual assault and murder of 11-year-old Catherine \"Katy\" Richards and was the prime suspect in the killings of two other Springfield girls between 1979 and 1983. Under a plea agreement he confessed to the 1981 murder of 12-year-old Theresa Fenton, and he was charged with, but never tried for, the 1979 murder of 13-year-old Sherri Nastasia. Sentenced to 30 years to life, he spent most of his sentence at the Kentucky State Penitentiary in Eddyville, where he died on November 26, 2023, at age 72, according to the Vermont Department of Corrections.",
+   "According to the Wikipedia article, Schaefer was born in 1951 in Allentown, Pennsylvania, and grew up in Springfield, where his family belonged to a Christadelphian congregation. He served in the Navy and, after returning to Springfield, worked as a mechanic at a local car dealership and lived in the family farmhouse. Acquaintances described him at the time of his arrest as quiet and religious; a forensic psychologist who studied the case, Tom Powell, told WCAX in 2023 that Schaefer presented himself as a fundamentalist Christian and was able to deceive the people around him.",
+   "The first of the three deaths later linked to him was that of Sherri Nastasia, who disappeared from Springfield in late August 1979. The Wikipedia article says she was last seen getting into a man's car and that her skeletal remains were found near a highway rest area in Rockingham several months later and identified through dental records. On August 31, 1981, Theresa Fenton was abducted while riding her bicycle in Springfield and beaten in a wooded area; she was found alive but died the next day at a hospital in Hanover, New Hampshire, according to the Wikipedia article. Both investigations stalled without an arrest.",
+   "On April 9, 1983, Katy Richards was walking with a friend in Springfield when a man forced her into his car with threats; the friend ran for help. Richards was found dead in woods near the town the next day, about 18 hours after she was last seen, WCAX reported. The friend's description and other evidence led police to Schaefer, then 31, and he was arraigned on kidnapping charges in Windsor County District Court on April 11, 1983, according to the Brattleboro Reformer. Investigators also tied him to the November 1982 abduction of a 17-year-old Brattleboro girl, who had escaped from his car in White River Junction.",
+   "Schaefer was charged with the Richards murder in June 1983 and initially pleaded not guilty. He later changed his plea to no contest and, under a plea agreement, was convicted of kidnapping, sexual assault and second-degree murder in the Richards case and of kidnapping in the 1982 abduction; he was sentenced to 30 years to life, VTDigger and the Department of Corrections reported. VTDigger reported that the agreement also required him to confess to the kidnapping, sexual assault and murder of Theresa Fenton, and the Wikipedia article says the deal protected him from prosecution in her death. He was never charged with that killing.",
+   "Prosecutors did charge Schaefer with first-degree murder in the death of Sherri Nastasia, but the charge was dropped after a judge ruled that a confession he had given police was improper evidence because it was obtained under hypnosis. VTDigger dates the dismissal to 1985; the Wikipedia article cites a Brattleboro Reformer report from April 1986. The Nastasia killing has never been resolved in court. Prosecutor William Bos explained the limits of the earlier investigations by saying a man could not be charged with murder merely because one crime resembled another, WCAX reported.",
+   "Vermont has no maximum-security prison, and in May 1985 Schaefer was transferred to the Kentucky State Penitentiary under the Interstate Corrections Compact. VTDigger reported that although he had served his minimum term, he was not eligible for release because he had not completed required treatment and rehabilitation programs. Just after midnight on November 26, 2023, staff found him experiencing an acute medical event during a routine cell check; he was taken to a hospital, where efforts to save him failed. Corrections officials said the death did not appear suspicious, and the state Defender General's office said it would conduct its own review."
+  ],
+  "timeline": [
+   {
+    "date": "1951",
+    "text": "Gary Lee Schaefer born in Allentown, Pennsylvania; the family later moves to Springfield, Vermont."
+   },
+   {
+    "date": "1979-08",
+    "text": "Sherri Nastasia, 13, disappears in Springfield; her skeletal remains are later found near a rest area in Rockingham."
+   },
+   {
+    "date": "1981-08-31",
+    "text": "Theresa Fenton, 12, is abducted while bicycling in Springfield and beaten; she dies the next day in a Hanover, New Hampshire, hospital."
+   },
+   {
+    "date": "1982-11",
+    "text": "A 17-year-old Brattleboro girl is abducted and escapes from the car in White River Junction; Schaefer is later charged with kidnapping."
+   },
+   {
+    "date": "1983-04-09",
+    "text": "Katy Richards, 11, is forced into a car in Springfield while her friend escapes; her body is found the next day."
+   },
+   {
+    "date": "1983-04-11",
+    "text": "Schaefer pleads innocent to kidnapping charges in Windsor County District Court."
+   },
+   {
+    "date": "1983-06",
+    "text": "Schaefer is charged with the murder of Katy Richards."
+   },
+   {
+    "date": "1984-01",
+    "text": "Sentenced to 30 years to life after a no contest plea in the Richards case; the plea agreement requires him to confess to the Fenton murder."
+   },
+   {
+    "date": "1984-05",
+    "text": "Charged with first-degree murder in the death of Sherri Nastasia."
+   },
+   {
+    "date": "1985-05",
+    "text": "Transferred to the Kentucky State Penitentiary in Eddyville under the Interstate Corrections Compact."
+   },
+   {
+    "date": "1985",
+    "text": "The Nastasia murder charge is dropped after a judge rules a confession obtained under hypnosis inadmissible (VTDigger; other reports date the dismissal to 1986)."
+   },
+   {
+    "date": "2023-11-26",
+    "text": "Dies at age 72 after an acute medical event at the Kentucky State Penitentiary."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "child victims",
+   "plea agreement",
+   "hypnosis",
+   "interstate transfer",
+   "new england"
+  ],
+  "sources": [
+   {
+    "title": "Vermont Department of Corrections - Vermont DOC Reports Death of Incarcerated Individual in Kentucky (November 28, 2023)",
+    "url": "https://doc.vermont.gov/press-release/vermont-doc-reports-death-incarcerated-individual-kentucky"
+   },
+   {
+    "title": "VTDigger - A convicted killer from Vermont who was a suspect in other deaths has died in a Kentucky prison (November 28, 2023)",
+    "url": "https://vtdigger.org/2023/11/28/a-convicted-killer-from-vermont-who-was-a-suspect-in-other-deaths-has-died-in-a-kentucky-prison/"
+   },
+   {
+    "title": "WCAX - Vt. man convicted of child murder dies in prison; was he a serial killer? (November 28, 2023)",
+    "url": "https://www.wcax.com/2023/11/28/convicted-killer-vermont-dies-kentucky-prison/"
+   },
+   {
+    "title": "Brattleboro Reformer - Vermont convicted murderer, kidnapper dies in Kentucky prison (November 28, 2023)",
+    "url": "https://www.reformer.com/local-news/vermont-convicted-murderer-kidnapper-dies-in-kentucky-prison/article_ec3d2b9c-8dfe-11ee-a2f9-77f7c5811a85.html"
+   },
+   {
+    "title": "Vermont Public - Vermont DOC investigating death of incarcerated Vermonter at Kentucky maximum-security prison (November 28, 2023)",
+    "url": "https://www.vermontpublic.org/local-news/2023-11-28/vermont-doc-investigating-death-of-incarcerated-vermonter-at-kentucky-maximum-security-prison"
+   },
+   {
+    "title": "Wikipedia - Gary Schaefer",
+    "url": "https://en.wikipedia.org/wiki/Gary_Schaefer"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Gary_Schaefer",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "genene-jones",
@@ -5831,6 +6427,159 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Lee_Lucas",
   "enriched": true,
   "verified": "2026-10-28"
+ },
+ {
+  "id": "henry-louis-wallace",
+  "name": "Henry Louis Wallace",
+  "aliases": [
+   "The Taco Bell Strangler",
+   "Henry Wallace"
+  ],
+  "born": "1965-11-04",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "North Carolina",
+   "South Carolina"
+  ],
+  "primaryState": "North Carolina",
+  "cities": [
+   "Charlotte",
+   "Barnwell"
+  ],
+  "activeFrom": 1990,
+  "activeTo": 1994,
+  "victims": {
+   "convicted": 9,
+   "confessed": 11,
+   "suspected": "11"
+  },
+  "victimProfile": "Young women aged 18 to 35, most of them Black women in Charlotte whom he knew through work or acquaintances, killed in their homes",
+  "method": [
+   "strangulation",
+   "beating",
+   "stabbing"
+  ],
+  "apprehended": "1994-03-12",
+  "captureMethod": "Detectives listed people the victims had let into their apartments, matched his palm print to a victim's car, and arrested him on an outstanding misdemeanor larceny warrant, after which he confessed",
+  "legalStatus": "Convicted",
+  "sentence": "Nine death sentences (January 29, 1997) for nine counts of first-degree murder, plus consecutive prison terms including eight life sentences for first-degree rape",
+  "fate": "Imprisoned",
+  "fateDetail": "On death row at Central Prison, Raleigh, North Carolina; not among the death sentences commuted by Governor Roy Cooper in December 2024",
+  "summary": "On death row. Henry Louis Wallace was convicted in 1997 of murdering nine young women in Charlotte, North Carolina, between 1992 and 1994 and received nine death sentences. He also confessed to a 1990 killing in South Carolina and a 1992 Charlotte killing that were never tried.",
+  "narrative": [
+   "Henry Louis Wallace is an American serial killer who was convicted in January 1997 of murdering nine young women in Charlotte, North Carolina, between June 1992 and March 1994. A Mecklenburg County jury returned nine first-degree murder verdicts on January 7, 1997, and he received nine death sentences on January 29. After his arrest in March 1994 he also confessed to two killings that were never tried: one in Charlotte in 1992 and one in his hometown of Barnwell, South Carolina, in 1990. The North Carolina Supreme Court upheld the convictions and sentences in 2000, and as of the most recent reporting he remains on death row at Central Prison in Raleigh.",
+   "Wallace was born in Barnwell, South Carolina, in November 1965, according to the Wikipedia article. He served in the U.S. Navy in the late 1980s; the Seattle Times reported in 1994 that he had been a weapons technician assigned to the USS Nimitz when he was arrested for a burglary in Bremerton, Washington,. He settled in Charlotte around 1991. The North Carolina Supreme Court noted that he held a number of jobs with management responsibilities during the period of the crimes, and Fox News reported that the nickname the Taco Bell Strangler came from his work as a manager at a Charlotte Taco Bell, where he met several of the women he later killed.",
+   "According to the Charlotte Observer, the first killing was that of Tashanda Bethea, 18, a Barnwell high school student who disappeared on March 8, 1990; her body was found in a pond on April 1. Wallace was questioned but never charged. In Charlotte, Sharon Nance, 33, was killed in May 1992. The nine victims named in the murder convictions were Caroline Love, 20, in June 1992; Shawna Hawk, 20, on February 19, 1993; Audrey Spain, 24, in June 1993; Valencia Jumper, 21, in August 1993, whose apartment was set on fire; Michelle Stinson, 20, in September 1993; Vanessa Mack, 25, found on February 20, 1994; Betty Baucom, 24, and Brandi Henderson, 18, who lived in the same east Charlotte apartment complex and were killed in March 1994; and Deborah Slaughter, 35, found on March 12, 1994. Most were strangled in their own homes, and according to the Seattle Times police said he knew the women, several through work. Henderson's infant son was choked during the attack on her and survived.",
+   "Charlotte police were slow to connect the deaths. Retired homicide detective Garry McFadden told Fox News in 2018 that investigators treated the killings as separate homicides and did not recognize a serial killer until a couple of days before the arrest and that police were slow to recognize that lower-income Black women were being targeted. Wallace had been arrested for shoplifting on February 4, 1994, without being linked to the murders. According to the court's account, detectives drew up lists of people who had been let into the victims' apartments, and Wallace's name appeared. On March 11 a palm print from Baucom's car was matched to him, and on the evening of March 12 he was arrested at a friend's apartment on an outstanding misdemeanor larceny warrant.",
+   "Over the following hours Wallace gave recorded confessions. The court opinion says he admitted all nine murders later tried, along with related rapes, sexual offenses and robberies, and also admitted killing Bethea in South Carolina and Nance in North Carolina. The Seattle Times reported on March 14 that he had been charged with ten counts of murder, including Nance's, and that he had told investigators where to find the remains of Caroline Love, who had been missing since June 1992.",
+   "After more than two years of pretrial litigation, jury selection began on September 30, 1996, on nine murder charges; the Bethea and Nance killings were not part of the trial. Defense experts argued that his mental illness and childhood abuse mitigated against a death sentence, and the state cross-examined them about the two uncharged killings. Besides the murder verdicts, the jury convicted him of multiple counts of rape, sexual offense and robbery, and he received consecutive prison terms on those counts.",
+   "On May 5, 2000, in State v. Wallace, the North Carolina Supreme Court found no prejudicial error and held that the nine death sentences were not disproportionate, observing that the number of victims and serial nature of the crimes set the case apart from any other in the state's history. The U.S. Supreme Court declined review in 2001, and a Superior Court judge rejected a further challenge in 2005, according to the Wikipedia article. Wallace was not among the 15 death row prisoners whose sentences Governor Roy Cooper commuted on December 31, 2024, according to WTVD. The Charlotte Observer reported in 2023 that he had been on death row for more than 26 years."
+  ],
+  "timeline": [
+   {
+    "date": "1965-11-04",
+    "text": "Born in Barnwell, South Carolina."
+   },
+   {
+    "date": "1990-03-08",
+    "text": "Tashanda Bethea, 18, disappears in Barnwell, South Carolina; her body is found in a pond on April 1. Wallace is questioned but not charged, and later confesses to her killing."
+   },
+   {
+    "date": "1992-05",
+    "text": "Sharon Nance, 33, is killed in Charlotte; Wallace later confesses, but the killing is not part of his trial."
+   },
+   {
+    "date": "1992-06",
+    "text": "Caroline Love, 20, is killed in Charlotte; she is reported missing on June 15 and her remains are recovered only after Wallace's confession."
+   },
+   {
+    "date": "1993-02-19",
+    "text": "Shawna Hawk, 20, is killed in Charlotte."
+   },
+   {
+    "date": "1993-06",
+    "text": "Audrey Spain, 24, is killed; she is found on June 25."
+   },
+   {
+    "date": "1993-08-10",
+    "text": "Valencia Jumper, 21, is killed and her apartment set on fire."
+   },
+   {
+    "date": "1993-09",
+    "text": "Michelle Stinson, 20, is killed in Charlotte."
+   },
+   {
+    "date": "1994-02-20",
+    "text": "Vanessa Mack, 25, is found dead in her west Charlotte apartment."
+   },
+   {
+    "date": "1994-03",
+    "text": "Betty Baucom, 24, and Brandi Henderson, 18, are killed in the same east Charlotte apartment complex; on March 12 Deborah Slaughter, 35, is found dead."
+   },
+   {
+    "date": "1994-03-12",
+    "text": "Arrested on a misdemeanor larceny warrant after a palm print links him to Baucom's car; confesses overnight and is charged with ten murders."
+   },
+   {
+    "date": "1996-09-30",
+    "text": "Jury selection begins in Mecklenburg County on nine murder charges."
+   },
+   {
+    "date": "1997-01-07",
+    "text": "Found guilty of nine counts of first-degree murder."
+   },
+   {
+    "date": "1997-01-29",
+    "text": "Sentenced to death nine times."
+   },
+   {
+    "date": "2000-05-05",
+    "text": "North Carolina Supreme Court finds no error and upholds the nine death sentences in State v. Wallace."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "charlotte",
+   "strangulation",
+   "death row",
+   "confession",
+   "police criticism"
+  ],
+  "sources": [
+   {
+    "title": "North Carolina Supreme Court via FindLaw - State v. Wallace (May 5, 2000)",
+    "url": "https://caselaw.findlaw.com/court/nc-supreme-court/1127327.html"
+   },
+   {
+    "title": "Seattle Times - Man charged with slayings in N.C. sought in Kitsap case (March 14, 1994)",
+    "url": "https://archive.seattletimes.com/archive/19940314/1900185/man-charged-with-slayings-in-nc-sought-in-kitsap-case----investigators-blame-him-for-10-murders-over-20-months"
+   },
+   {
+    "title": "Charlotte Observer via Yahoo News - 11 victims in two states: A timeline of Henry Wallace's killings in Charlotte and SC (July 26, 2023)",
+    "url": "https://ca.news.yahoo.com/11-victims-two-states-timeline-090000829.html"
+   },
+   {
+    "title": "Charlotte Observer via AOL - Serial killer strangled his mother. Now, he says, it's Henry Wallace's turn to die (July 27, 2023)",
+    "url": "https://www.aol.com/news/serial-killer-strangled-mother-now-090000522.html"
+   },
+   {
+    "title": "Fox News - 'Taco Bell Strangler' detective speaks out about infamous case in new documentary (July 24, 2018)",
+    "url": "https://www.foxnews.com/entertainment/taco-bell-strangler-detective-speaks-out-about-infamous-case-in-new-documentary-there-are-still-wounds"
+   },
+   {
+    "title": "ABC11 (WTVD) - Gov. Cooper commutes sentences of 15 on death row (December 31, 2024)",
+    "url": "https://abc11.com/amp/post/roy-cooper-death-row-commutations-gov-commutes-sentences-15-issues-other-pardons/15734515/"
+   },
+   {
+    "title": "Wikipedia - Henry Louis Wallace",
+    "url": "https://en.wikipedia.org/wiki/Henry_Louis_Wallace"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_Louis_Wallace",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "herb-baumeister",
@@ -7724,6 +8473,149 @@
    }
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Paul_Franklin",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
+  "id": "joshua-wade",
+  "name": "Joshua Wade",
+  "aliases": [
+   "Joshua Alan Wade",
+   "Josh Wade"
+  ],
+  "born": "1980-03-18",
+  "died": "2024-06-14",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Alaska"
+  ],
+  "primaryState": "Alaska",
+  "cities": [
+   "Anchorage",
+   "Wasilla"
+  ],
+  "activeFrom": 1994,
+  "activeTo": 2007,
+  "victims": {
+   "convicted": 1,
+   "confessed": 5,
+   "suspected": "5"
+  },
+  "victimProfile": "Strangers or near-strangers in the Anchorage area: two mentally ill men, an Alaska Native woman, an unidentified man and a 52-year-old neighbor",
+  "method": [
+   "shooting",
+   "bludgeoning"
+  ],
+  "apprehended": "2007-09-02",
+  "captureMethod": "Identified from ATM security footage using the victim's card, he was arrested by Anchorage police and the FBI after a standoff at a south Anchorage apartment",
+  "legalStatus": "Convicted",
+  "sentence": "99 years (Alaska, first-degree murder of Mindy Schloss, parole barred for at least 66 years) plus consecutive federal life sentence for carjacking resulting in death (February 17, 2010)",
+  "fate": "Died in prison",
+  "fateDetail": "Indiana State Prison, Michigan City, Indiana; found unresponsive in his cell, cause not publicly reported",
+  "summary": "Died in prison. Joshua Wade pleaded guilty in 2010 to murdering his Anchorage neighbor Mindy Schloss and admitted the 2000 killing of Della Brown; in 2014 he confessed to three more Alaska killings. He died in an Indiana prison in 2024.",
+  "narrative": [
+   "Joshua Alan Wade was an Anchorage, Alaska, man who in February 2010 pleaded guilty in state court to the 2007 first-degree murder of his neighbor, nurse practitioner Mindy Schloss, and in federal court to carjacking resulting in her death. Under the plea agreements he also admitted killing Della Brown in 2000, a murder of which an Anchorage jury had acquitted him in 2003. In 2014 he told state and federal investigators he had killed three more men in Alaska between 1994 and 2000, bringing the total he claimed to five. Serving a 99-year state term and a consecutive federal life sentence, he died at the Indiana State Prison in Michigan City on June 14, 2024, aged 44.",
+   "The earliest killing Wade later claimed was that of John Michael Martin, 38, who was found shot in the back of the head beside a bike trail along Northern Lights Boulevard in Anchorage in May 1994, shortly after leaving a Village Inn restaurant where he regularly had coffee with friends. Wade was 14 at the time. The Anchorage Daily News reported that Martin had schizophrenia and that the detective on the case had exhausted all leads. In December 1999 Henry Ongtowasruk, 30, originally from the village of Wales, was found dead in a room at the Alaska Budget Motel in the Fairview neighborhood of Anchorage; the state medical examiner ruled the death a homicide. Both men were mentally ill and, according to the newspaper, had no known link to Wade.",
+   "In September 2000 Della Brown, a 33-year-old Alaska Native woman, was found in an abandoned shed in Spenard. Prosecutors said Wade had struck her in the head with a rock and then shown the body to a series of acquaintances. At the 2003 trial his lawyers portrayed him as a boastful talker, and witnesses who had seen the body were themselves involved in crime. The jury acquitted him of murder, sexual assault and robbery and convicted him only of tampering with evidence, for which he served six and a half years. The Anchorage Daily News later noted that the verdict was widely seen as highlighting injustices against Alaska Native crime victims.",
+   "Months after completing probation, Wade lived next door to Mindy Schloss, 52, a nurse practitioner. She was last seen on August 3, 2007, and missed a scheduled flight to Fairbanks two days later. According to court testimony reported by the Anchorage Daily News, Wade entered her home at night, bound her with zip ties, obtained her ATM card and PIN, and drove her in her own car to a wooded area near Wasilla, where he shot her and burned her body. On August 29 police said a security photo showed him using an ATM the weekend she vanished, and the FBI sought him for bank fraud. He was taken into custody on September 2, 2007, after a standoff at a south Anchorage apartment, Alaska Public Media reported. Schloss was found more than a month after she disappeared.",
+   "Because Schloss died during a carjacking, Wade faced a possible federal death sentence, although Alaska has no death penalty. On February 17, 2010, he pleaded guilty before Superior Court Judge Phillip Volland, who imposed 99 years and barred parole for at least 66 years, and before Chief U.S. District Judge Ralph Beistline, who sentenced him to life to be served consecutively, according to the U.S. Attorney's Office for Alaska. When Beistline called him a coward who preyed on women, Wade interrupted with a remark about the men he had killed, which officials at the time could not explain.",
+   "In 2014, after a failed attempt to withdraw his earlier admissions, Wade offered investigators new information in exchange for a transfer out of the Alaska prison system. At a press conference on June 20, 2014, authorities said he had admitted killing Martin, Ongtowasruk and an unidentified man on the night Brown died, whom he said he beat and then shot in the Matanuska-Susitna Valley. Assistant Attorney General John Novak said not all claims were equally confirmed and that no decision on new charges had been made. Wade had already been moved from Spring Creek Correctional Center in Seward to the federal penitentiary in Terre Haute, Indiana.",
+   "He was later held in the Indiana state prison system. On June 14, 2024, the Indiana Department of Correction said, he was found unresponsive in his cell and could not be revived; an autopsy was ordered. Wade was born in Great Falls, Montana, and, according to the Wikipedia article, on March 18, 1980; he grew up in Anchorage, and in court he described being sexually abused from the age of five. His case is the subject of Monte Francis's 2016 book Ice and Bone."
+  ],
+  "timeline": [
+   {
+    "date": "1980",
+    "text": "Joshua Alan Wade born in Great Falls, Montana; he later grows up in Anchorage."
+   },
+   {
+    "date": "1994-05",
+    "text": "John Michael Martin, 38, found shot beside a bike trail on Northern Lights Boulevard, Anchorage; Wade, then 14, later confesses to the killing."
+   },
+   {
+    "date": "1999-12",
+    "text": "Henry Ongtowasruk, 30, found dead at the Alaska Budget Motel in Fairview, Anchorage; Wade later confesses."
+   },
+   {
+    "date": "2000-09",
+    "text": "Della Brown, 33, killed in a Spenard shed; Wade later says he also killed an unidentified man that night."
+   },
+   {
+    "date": "2003",
+    "text": "Jury acquits Wade of murdering Brown but convicts him of tampering with evidence; he serves six and a half years."
+   },
+   {
+    "date": "2007-08-03",
+    "text": "Neighbor Mindy Schloss, 52, last seen; she is abducted from her home and killed near Wasilla."
+   },
+   {
+    "date": "2007-08-29",
+    "text": "Police release ATM photo and seek Wade; FBI says he is wanted for bank fraud."
+   },
+   {
+    "date": "2007-09-02",
+    "text": "Wade taken into custody after a standoff at a south Anchorage apartment."
+   },
+   {
+    "date": "2010-02-17",
+    "text": "Pleads guilty to Schloss's murder in state court and to carjacking resulting in death in federal court, admitting Brown's murder; sentenced to 99 years plus consecutive life."
+   },
+   {
+    "date": "2014-02",
+    "text": "Transferred from Spring Creek Correctional Center in Seward to the federal penitentiary in Terre Haute, Indiana."
+   },
+   {
+    "date": "2014-06-20",
+    "text": "State and federal authorities announce Wade has confessed to killing Martin, Ongtowasruk and an unidentified man."
+   },
+   {
+    "date": "2024-06-14",
+    "text": "Found unresponsive in his cell at the Indiana State Prison in Michigan City and pronounced dead, aged 44."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "alaska",
+   "guilty plea",
+   "prior acquittal",
+   "confession",
+   "federal case"
+  ],
+  "sources": [
+   {
+    "title": "U.S. Attorney's Office, District of Alaska - Joshua Wade pleads guilty and is sentenced for carjacking and murder of Mindy Schloss (February 17, 2010)",
+    "url": "https://www.justice.gov/archive/usao/ak/news/2010/February/Wade_Joshua_02-17-10.html"
+   },
+   {
+    "title": "Anchorage Daily News - Wade to spend his life in prison (February 17, 2010)",
+    "url": "https://www.adn.com/alaska-news/article/wade-spend-his-life-prison/2010/02/17/"
+   },
+   {
+    "title": "Associated Press via San Diego Union-Tribune - Alaska man sentenced to 99 years in nurse's murder (February 17, 2010)",
+    "url": "https://www.sandiegouniontribune.com/sdut-alaska-man-sentenced-to-99-years-in-nurses-murder-2010feb17-story.html"
+   },
+   {
+    "title": "Anchorage Daily News - Authorities: Joshua Wade admits to 3 additional killings (June 20, 2014)",
+    "url": "https://www.adn.com/alaska-news/article/authorities-joshua-wade-admits-3-additional-killings-0/2014/06/20/"
+   },
+   {
+    "title": "Alaska Public Media - Anchorage Police and FBI take Wade into custody (September 3, 2007)",
+    "url": "https://alaskapublic.org/2007/09/03/anchorage-police-and-fbi-take-wade-into-custody"
+   },
+   {
+    "title": "Alaska Public Media - Anchorage Police and FBI looking for Joshua Alan Wade (August 29, 2007)",
+    "url": "https://alaskapublic.org/2007/08/29/anchorage-police-and-fbi-looking-for-joshua-alan-wade"
+   },
+   {
+    "title": "Anchorage Daily News - Alaska serial killer Joshua Wade dies in Indiana prison (June 20, 2024)",
+    "url": "https://www.adn.com/alaska-news/crime-courts/2024/06/20/alaska-serial-killer-joshua-wade-dies-in-indiana-prison/"
+   },
+   {
+    "title": "Wikipedia - Joshua Wade",
+    "url": "https://en.wikipedia.org/wiki/Joshua_Wade"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Wade",
   "enriched": true,
   "verified": "2026-10-29"
  },
@@ -10244,6 +11136,158 @@
   "verified": "2026-10-28"
  },
  {
+  "id": "paul-dennis-reid",
+  "name": "Paul Dennis Reid",
+  "aliases": [
+   "The Fast Food Killer",
+   "Paul Dennis Reid Jr.",
+   "Justin Parks"
+  ],
+  "born": "1957-11-12",
+  "died": "2013-11-01",
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Tennessee"
+  ],
+  "primaryState": "Tennessee",
+  "cities": [
+   "Nashville",
+   "Clarksville"
+  ],
+  "activeFrom": 1997,
+  "activeTo": 1997,
+  "victims": {
+   "convicted": 7,
+   "confessed": null,
+   "suspected": "7"
+  },
+  "victimProfile": "Fast-food and restaurant employees, three of them teenagers, killed during after-hours or opening-time robberies at three restaurants",
+  "method": [
+   "shooting",
+   "stabbing"
+  ],
+  "apprehended": null,
+  "captureMethod": "Arrested in June 1997 after allegedly trying to kidnap the Shoney's manager who had fired him; fingerprints taken then were matched to a card from a Captain D's victim's wallet",
+  "legalStatus": "Convicted",
+  "sentence": "Seven death sentences on seven first-degree murder convictions from three trials (Davidson County, Captain D's and McDonald's cases; Montgomery County, Baskin-Robbins case), plus consecutive prison terms on robbery, kidnapping and attempted murder counts",
+  "fate": "Died in prison",
+  "fateDetail": "Died on death row on November 1, 2013, aged 55, at Nashville General Hospital at Meharry after about two weeks in hospital; held at Riverbend Maximum Security Institution",
+  "summary": "Died in prison. Paul Dennis Reid was convicted of murdering seven workers in robberies at a Captain D's and a McDonald's in Nashville and a Baskin-Robbins in Clarksville, Tennessee, in 1997. Sentenced to death seven times, he died on death row in 2013.",
+  "narrative": [
+   "Paul Dennis Reid Jr., known in press coverage as the Fast Food Killer, was convicted of murdering seven restaurant workers during three robberies in Nashville and Clarksville, Tennessee, between February and April 1997. Across three separate trials he was found guilty of seven counts of first-degree murder and received seven death sentences, which the Wikipedia article describes as the most ever imposed on one person in Tennessee. He was never executed. After years of litigation over his mental competency, he died on November 1, 2013, aged 55, at Nashville General Hospital at Meharry, where he had been a patient for about two weeks, the Associated Press reported.",
+   "Reid was born in Texas in 1957 and, according to the Associated Press, was a drifter who had come to Nashville hoping to become a country singer. The Tennessee Supreme Court recorded that he had been convicted in Texas in 1984 of aggravated robbery and that he was 39 when the 1997 crimes were committed. AP reporting states that he had been fired from his job as a dishwasher at a Nashville Shoney's shortly before the first killings.",
+   "The first robbery took place on the morning of February 16, 1997, at a Captain D's restaurant on Lebanon Road in the Donelson area of Nashville. According to the Tennessee Supreme Court, Sarah Jackson, 16, and Steve Hampton, 25, were preparing to open the restaurant when they were shot on the floor, and about $7,140 and Hampton's wallet were taken. On March 23, 1997, four employees finishing the night shift at a McDonald's in the Hermitage area were forced into a storage room after the safe was emptied. Ronald Santiago, Robert Sewell and Andrea Brown were shot; Santiago and Sewell died at the scene and Brown died later in hospital. The fourth employee, Jose Ramirez Gonzales, was stabbed repeatedly after the gun jammed, pretended to be dead and then called 911. He survived and later identified Reid from photographs. On April 23, 1997, Angela Holmes, 21, and Michelle Mace, 16, were abducted during a robbery at a Baskin-Robbins in Clarksville; their bodies were found at Dunbar Cave State Natural Area, AP reported.",
+   "Reid became a suspect after an unrelated arrest. According to AP reporting, in June 1997 he tried to kidnap the Shoney's manager who had fired him, and he was linked to the restaurant killings after that. The Tennessee Supreme Court's 2002 opinion says police first considered him a suspect on June 12, 1997, after his arrest in Cheatham County, which supplied his fingerprints and photograph. His right thumbprint was found on a video rental card from Hampton's wallet, which had been discarded along Ellington Parkway, and shoe prints at the Captain D's matched the length of shoes taken from his home. Employees also identified him as a man who had asked about a job there the night before the killings. The exact date of his first arrest is given differently across sources.",
+   "Reid was tried separately for each robbery. A Davidson County jury convicted him in 1999 of two counts of first-degree murder and especially aggravated robbery in the Captain D's case and imposed death on both murders; the trial court added a consecutive 25-year robbery sentence. In Montgomery County he was convicted of two counts of first-degree murder, two counts of especially aggravated kidnapping and especially aggravated robbery for the Clarksville killings. A second Davidson County jury convicted him on all counts in the McDonald's case, including three premeditated murders and attempted first-degree murder, and sentenced him to death on each murder. The Tennessee Supreme Court affirmed the Captain D's judgment in 2002, the Clarksville judgment in 2005 and the McDonald's judgment in December 2006.",
+   "The later years of the case turned on whether Reid was competent to make legal decisions. He dropped his appeals and came within hours of execution in April 2003; U.S. District Judge Todd Campbell found him mentally ill but competent to waive them, AP reported, before he agreed to resume. In 2006 AP described him as having been found brain-damaged and schizophrenic, and reported that he told lawyers and reporters a military government controlled and monitored him. Family members, including his sister, kept filing appeals on his behalf. A January 2008 execution date was stayed by Judge Campbell in December 2007 while Tennessee's lethal injection procedure was under review. In 2013 the Tennessee Supreme Court ruled that relatives and advocates could not pursue appeals against his wishes, finding that they had not proven him incompetent.",
+   "Reid was held on death row at Riverbend Maximum Security Institution in Nashville, according to WPLN. He died months after the 2013 ruling, with no execution date pending; the state medical examiner was to determine the cause of death. According to the Wikipedia article, he had at one time also been considered a suspect in the 1993 Brown's Chicken killings in Palatine, Illinois, for which two other men were later convicted."
+  ],
+  "timeline": [
+   {
+    "date": "1957-11-12",
+    "text": "Paul Dennis Reid Jr. born in Texas."
+   },
+   {
+    "date": "1984",
+    "text": "Convicted in Texas of aggravated robbery."
+   },
+   {
+    "date": "1997-02-16",
+    "text": "Sarah Jackson, 16, and Steve Hampton, 25, shot during a robbery at a Captain D's on Lebanon Road in Donelson, Nashville."
+   },
+   {
+    "date": "1997-03-23",
+    "text": "Ronald Santiago, Robert Sewell and Andrea Brown killed in a robbery at a McDonald's in Hermitage, Nashville; a fourth employee survives stab wounds."
+   },
+   {
+    "date": "1997-04-23",
+    "text": "Angela Holmes, 21, and Michelle Mace, 16, abducted from a Baskin-Robbins in Clarksville; their bodies are found at Dunbar Cave State Natural Area."
+   },
+   {
+    "date": "1997-06",
+    "text": "Arrested after allegedly trying to kidnap the Shoney's manager who had fired him; police name him a suspect in the restaurant killings by June 12."
+   },
+   {
+    "date": "1999",
+    "text": "Convicted in Davidson County of the Captain D's murders and sentenced to death on both counts."
+   },
+   {
+    "date": "2002-11-26",
+    "text": "Tennessee Supreme Court affirms the Captain D's convictions and death sentences."
+   },
+   {
+    "date": "2003-04-28",
+    "text": "Federal judge Todd Campbell finds Reid mentally ill but competent to drop his appeals; the April 29 execution is later halted when he resumes them."
+   },
+   {
+    "date": "2005-05-24",
+    "text": "Tennessee Supreme Court affirms the Montgomery County convictions and death sentences for the Clarksville killings."
+   },
+   {
+    "date": "2006-12-27",
+    "text": "Tennessee Supreme Court affirms the McDonald's convictions and death sentences."
+   },
+   {
+    "date": "2007-12",
+    "text": "Judge Campbell stays the execution set for January 3, 2008, during review of Tennessee's lethal injection procedure."
+   },
+   {
+    "date": "2013",
+    "text": "Tennessee Supreme Court rules that relatives and advocates cannot pursue appeals against Reid's wishes."
+   },
+   {
+    "date": "2013-11-01",
+    "text": "Dies at Nashville General Hospital at Meharry, aged 55, while on death row."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "robbery",
+   "workplace",
+   "death row",
+   "competency",
+   "teenage victims"
+  ],
+  "sources": [
+   {
+    "title": "Tennessee Supreme Court via Caselaw Access Project - State v. Reid, 91 S.W.3d 247 (November 26, 2002)",
+    "url": "https://static.case.law/sw3d/91/cases/0247-01.json"
+   },
+   {
+    "title": "Tennessee Supreme Court via vLex - State v. Reid, 213 S.W.3d 792 (December 27, 2006)",
+    "url": "https://case-law.vlex.com/vid/state-v-reid-886451489"
+   },
+   {
+    "title": "Associated Press via The Daily Beacon - Judge refuses to stop Reid execution (April 29, 2003)",
+    "url": "https://utdailybeacon.com/134328/news/judge-refuses-to-stop-reid-execution/"
+   },
+   {
+    "title": "Associated Press via NBC News - Tennessee, condemned inmate wait in limbo (June 28, 2006)",
+    "url": "https://www.nbcnews.com/id/wbna13602244"
+   },
+   {
+    "title": "Associated Press via WMC Action News 5 - Judge issues stay of execution for Paul Dennis Reid (December 26, 2007)",
+    "url": "https://www.actionnews5.com/story/7543311/judge-issues-stay-of-execution-for-paul-dennis-reid/"
+   },
+   {
+    "title": "Associated Press via Jefferson City News Tribune - Man convicted in 7 slayings dies in Tenn. hospital (November 2, 2013)",
+    "url": "https://www.newstribune.com/news/2013/nov/02/man-convicted-7-slayings-dies-tenn-hospital/"
+   },
+   {
+    "title": "WPLN - Paul Dennis Reid Dead At 55 (November 1, 2013)",
+    "url": "https://wpln.org/post/paul-dennis-reid-dies-on-death-row/"
+   },
+   {
+    "title": "Wikipedia - Paul Dennis Reid",
+    "url": "https://en.wikipedia.org/wiki/Paul_Dennis_Reid"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Paul_Dennis_Reid",
+  "enriched": true,
+  "verified": "2026-10-29"
+ },
+ {
   "id": "paul-john-knowles",
   "name": "Paul John Knowles",
   "aliases": [
@@ -11498,6 +12542,146 @@
   "enriched": true,
   "verified": "2026-10-28",
   "searchVolume": 9100
+ },
+ {
+  "id": "robert-charles-browne",
+  "name": "Robert Charles Browne",
+  "aliases": [
+   "Robert Browne"
+  ],
+  "born": "1952-10-31",
+  "died": null,
+  "gender": "Male",
+  "country": "United States",
+  "states": [
+   "Colorado",
+   "Louisiana",
+   "Texas",
+   "Arkansas"
+  ],
+  "primaryState": "Colorado",
+  "cities": [
+   "Colorado Springs",
+   "Black Forest",
+   "Coushatta",
+   "Houston"
+  ],
+  "activeFrom": 1980,
+  "activeTo": 1991,
+  "victims": {
+   "convicted": 2,
+   "confessed": 48,
+   "suspected": "9 to 48"
+  },
+  "victimProfile": "Mostly girls and young women, including two Colorado Springs-area teenagers, among them a 15-year-old Army wife, and young women from his Louisiana hometown",
+  "method": [
+   "strangulation",
+   "blunt force",
+   "stabbing"
+  ],
+  "apprehended": "1995-03-28",
+  "captureMethod": "Crime-scene fingerprints from the Heather Church case were run through fingerprint databases not searched before and matched Browne through earlier felony records",
+  "legalStatus": "Convicted",
+  "sentence": "Life without parole for the kidnapping and murder of Heather Dawn Church (1995 guilty plea); a second life sentence for first-degree murder of Rocio Sperry (2006 guilty plea)",
+  "fate": "Imprisoned",
+  "fateDetail": "Limon Correctional Facility, Limon, Colorado (per Wikipedia, as of February 2023)",
+  "summary": "Serving life. Robert Charles Browne pleaded guilty to the 1991 murder of Heather Dawn Church and the 1987 murder of Rocio Sperry near Colorado Springs. He claims 48 killings in nine states; investigators said a few out-of-state claims were corroborated.",
+  "narrative": [
+   "Robert Charles Browne is a Louisiana-born former soldier who is serving two life sentences in Colorado for the murders of two girls in the Colorado Springs area. In 1995 he pleaded guilty to the 1991 kidnapping and murder of 13-year-old Heather Dawn Church and was sentenced to life without parole; in July 2006 he pleaded guilty to first-degree murder in the 1987 death of Rocio Sperry, about 15, and received a second life term. He has claimed responsibility for 48 killings in nine states between 1970 and 1995. Investigators have said a handful of those claims were corroborated, but he has not been charged in any killing outside Colorado.",
+   "According to the Wikipedia article, Browne was born on October 31, 1952, in Coushatta, Louisiana, the youngest of nine children. He left high school shortly before turning 17 to join the Army, and the Associated Press reported that he served from 1969 to 1976 before being dishonorably discharged for drug use. Wikipedia says he married five times, with every marriage ending in divorce, and that he worked at various businesses in Louisiana, Texas and Colorado.",
+   "Heather Dawn Church disappeared on September 17, 1991, from her family's home in Black Forest, Colorado, where she had been babysitting. According to the Wikipedia article, her remains were found in September 1993 off Rampart Range Road, and the case stayed unsolved until an investigator working for the Colorado Springs police ran crime-scene fingerprints through dozens of fingerprint databases that had not been searched before. The prints matched Browne through earlier felony records, and he was charged with Church's murder on March 28, 1995. Under a plea agreement he pleaded guilty to kidnapping and murder; prosecutors did not seek the death penalty, and he was sentenced to life in prison without parole.",
+   "In March 2000, Browne sent El Paso County prosecutors a taunting letter written in cryptic prose; Newsweek reported that it read in part, \"The score is you, one, the other team, 48.\" A group of unpaid retired investigators working with the El Paso County Sheriff's Office, among them former FBI and CIA officer Charlie Hess, retired Colorado Springs detective Lou Smit and former newspaper publisher Scott Fischer, took up the case. The Associated Press reported that Hess corresponded with Browne, and that in early 2003 Browne wrote, \"Try the missing persons files on a young Army wife.\" That pointed investigators to Rocio Sperry, a 15-year-old who was married to a soldier and had vanished from Colorado Springs in 1987. Browne then confessed in a prison interview to killing her. Her remains have never been found.",
+   "On July 27, 2006, Browne pleaded guilty in Colorado Springs to first-degree murder in Sperry's death. Newsweek reported that investigators had confirmed details of his account, including a ring he said he took from her and sold, which the sheriff's office traced to the buyer. He received a second life sentence. The same week, El Paso County Sheriff Terry Maketa announced that Browne claimed 48 killings: 17 in Louisiana, nine in Colorado, seven in Texas, five in Arkansas, three in Mississippi, two each in California, New Mexico and Oklahoma, and one in Washington. Some reports gave the figure as 49, counting a claimed killing of a fellow soldier in South Korea in 1970, which the sheriff said had not been verified.",
+   "Maketa said authorities had corroborated six of the out-of-state claims, three in Louisiana, two in Texas and one in Arkansas, according to the Associated Press; a later WAFB report put the total at seven when the two Colorado cases were included. Newsweek quoted Maketa as saying Browne had given information on 19 of the 48 claimed killings and was a strong suspect in seven. The Louisiana cases named in reporting are three young women from Coushatta: Wanda Faye Hudson, Faye Self and Katherine Jean Hayes. Published accounts differ on the years of those deaths, which fall in the early 1980s. Reporting also linked Browne to Nidia Mendoza, 17, whose body was found near Houston in 1984, and the Wikipedia article lists further possible victims in Texas, Arkansas and Oklahoma, among them Timothy Lee Warren, found shot in a Tulsa park in March 1992.",
+   "Maketa said Browne might be exaggerating but that investigators could not proceed on that assumption, and then-Colorado Attorney General John Suthers said he believed the claims of multiple killings. Others were more doubtful. Criminologist Robert Keppel told the Associated Press that such numbers were \"just for media purposes.\" The Wikipedia article notes that most of the 48 claims remain uncorroborated. As of February 2023, according to Wikipedia, Browne was held at the Limon Correctional Facility in Limon, Colorado."
+  ],
+  "timeline": [
+   {
+    "date": "1952-10-31",
+    "text": "Robert Charles Browne born in Coushatta, Louisiana, the youngest of nine children."
+   },
+   {
+    "date": "1969",
+    "text": "Joins the Army; he serves until 1976, when he is dishonorably discharged for drug use."
+   },
+   {
+    "date": "1984",
+    "text": "Body of Nidia Mendoza, 17, found near Houston; investigators later link Browne to her death."
+   },
+   {
+    "date": "1987-11-10",
+    "text": "Rocio Sperry, about 15, disappears from Colorado Springs; her remains are never found."
+   },
+   {
+    "date": "1991-09-17",
+    "text": "Heather Dawn Church, 13, abducted from her family's home in Black Forest, Colorado."
+   },
+   {
+    "date": "1993-09",
+    "text": "Church's remains found off Rampart Range Road."
+   },
+   {
+    "date": "1995-03-28",
+    "text": "Browne charged with Church's murder after a fingerprint match."
+   },
+   {
+    "date": "1995-05",
+    "text": "Pleads guilty to Church's kidnapping and murder; sentenced to life without parole."
+   },
+   {
+    "date": "2000-03",
+    "text": "Sends a taunting letter to El Paso County prosecutors hinting at 48 killings."
+   },
+   {
+    "date": "2003",
+    "text": "In correspondence with retired investigator Charlie Hess, points to the missing-persons file of a young Army wife; later confesses to killing Rocio Sperry."
+   },
+   {
+    "date": "2006-07-27",
+    "text": "Pleads guilty to first-degree murder of Rocio Sperry and receives a second life sentence; sheriff announces his claim of 48 killings in nine states."
+   },
+   {
+    "date": "2023-02",
+    "text": "Held at Limon Correctional Facility, Colorado, according to Wikipedia."
+   }
+  ],
+  "cases": [],
+  "tags": [
+   "guilty plea",
+   "fingerprint match",
+   "cold case",
+   "multi-state claims",
+   "letters to police"
+  ],
+  "sources": [
+   {
+    "title": "Associated Press via Deseret News - Colorado man says he killed up to 48 (July 28, 2006)",
+    "url": "https://www.deseret.com/2006/7/28/19965919/colorado-man-says-he-killed-up-to-48/"
+   },
+   {
+    "title": "Associated Press via NBC News - Colorado killer details gruesome murders (July 27, 2006)",
+    "url": "https://www.nbcnews.com/id/wbna14062361"
+   },
+   {
+    "title": "Newsweek - Did Robert Charles Browne Really Murder 48? (July 29, 2006)",
+    "url": "https://www.newsweek.com/did-robert-charles-browne-really-murder-48-112781"
+   },
+   {
+    "title": "WAFB - Colorado Killer Claims Responsibility for 49 Slayings, 3 in LA (July 28, 2006)",
+    "url": "https://www.wafb.com/story/5208729/colorado-killer-claims-responsibility-for-49-slayings-3-in-la/"
+   },
+   {
+    "title": "Associated Press via Police1 - Three retirees credited with cracking Colorado serial killer case (August 7, 2006)",
+    "url": "https://www.police1.com/investigations/articles/three-retirees-credited-with-cracking-colorado-serial-killer-case-IEbZGD60Eb5ZCRhf"
+   },
+   {
+    "title": "Wikipedia - Robert Charles Browne",
+    "url": "https://en.wikipedia.org/wiki/Robert_Charles_Browne"
+   }
+  ],
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Charles_Browne",
+  "enriched": true,
+  "verified": "2026-10-29"
  },
  {
   "id": "robert-foley",
