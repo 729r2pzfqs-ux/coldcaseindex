@@ -169,7 +169,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Aileen_Wuornos",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 255000
  },
  {
   "id": "alan-wade-wilmer",
@@ -458,7 +459,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Albert_DeSalvo",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6900
  },
  {
   "id": "albert-fish",
@@ -1530,7 +1532,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Shawcross",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2700
  },
  {
   "id": "axeman-of-new-orleans",
@@ -1681,7 +1684,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Axeman_of_New_Orleans",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2400
  },
  {
   "id": "belle-gunness",
@@ -1840,7 +1844,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Belle_Gunness",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 5200
  },
  {
   "id": "bobby-joe-long",
@@ -2625,7 +2630,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ng",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3900
  },
  {
   "id": "christopher-wilder",
@@ -2810,7 +2816,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Wilder",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 4800
  },
  {
   "id": "cleveland-torso-murderer",
@@ -3581,7 +3588,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/David_Berkowitz",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 42000
  },
  {
   "id": "dean-corll",
@@ -3896,7 +3904,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Dennis_Rader",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 70000
  },
  {
   "id": "derrick-todd-lee",
@@ -4057,7 +4066,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Derrick_Todd_Lee",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6400
  },
  {
   "id": "donald-gaskins",
@@ -4216,7 +4226,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Donald_Henry_Gaskins",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 4100
  },
  {
   "id": "donald-harvey",
@@ -4525,7 +4536,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Dorothea_Puente",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 20000
  },
  {
   "id": "eastbound-strangler",
@@ -4985,7 +4997,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Edwards_(serial_killer)",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2700
  },
  {
   "id": "freeway-phantom",
@@ -5460,7 +5473,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Gary_Michael_Hilton",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3500
  },
  {
   "id": "gary-ridgway",
@@ -5914,7 +5928,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Genene_Jones",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 2400
  },
  {
   "id": "gerald-stano",
@@ -6249,7 +6264,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/H._H._Holmes",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 11000
  },
  {
   "id": "henry-lee-lucas",
@@ -6426,7 +6442,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Lee_Lucas",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 12000
  },
  {
   "id": "henry-louis-wallace",
@@ -6579,7 +6596,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Louis_Wallace",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 7500
  },
  {
   "id": "herb-baumeister",
@@ -6898,7 +6916,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Mullin",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3700
  },
  {
   "id": "honolulu-strangler",
@@ -7501,7 +7520,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Toppan",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3900
  },
  {
   "id": "jeffrey-dahmer",
@@ -7673,7 +7693,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Jeffrey_Dahmer",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 990000
  },
  {
   "id": "jerry-brudos",
@@ -8141,7 +8162,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne_Gacy",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 275000
  },
  {
   "id": "joseph-deangelo",
@@ -8771,7 +8793,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Juan_Corona",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2400
  },
  {
   "id": "judy-buenoano",
@@ -8926,7 +8949,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Judy_Buenoano",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2100
  },
  {
   "id": "keith-jesperson",
@@ -9086,7 +9110,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Keith_Hunter_Jesperson",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6500
  },
  {
   "id": "kenneth-bianchi",
@@ -9255,7 +9280,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Bianchi",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 3200
  },
  {
   "id": "kenneth-mcduff",
@@ -9410,7 +9436,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_McDuff",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 3100
  },
  {
   "id": "khalil-wheeler-weaver",
@@ -9555,7 +9582,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Khalil_Wheeler-Weaver",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2500
  },
  {
   "id": "kristen-gilbert",
@@ -9716,7 +9744,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Kristen_Gilbert",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3200
  },
  {
   "id": "larry-eyler",
@@ -10045,7 +10074,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Bittaker_and_Roy_Norris",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 2600
  },
  {
   "id": "lonnie-franklin",
@@ -10202,7 +10232,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Lonnie_Franklin_Jr.",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 2600
  },
  {
   "id": "lorenzo-gilyard",
@@ -11133,7 +11164,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Ottis_Toole",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 7400
  },
  {
   "id": "paul-dennis-reid",
@@ -11441,7 +11473,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Paul_John_Knowles",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3000
  },
  {
   "id": "randy-kraft",
@@ -11765,7 +11798,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Rex_Heuermann",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 145000
  },
  {
   "id": "richard-chase",
@@ -11904,7 +11938,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Chase",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6600
  },
  {
   "id": "richard-cottingham",
@@ -12249,7 +12284,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Ramirez",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 112000
  },
  {
   "id": "robert-ben-rhoades",
@@ -12391,7 +12427,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Ben_Rhoades",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6100
  },
  {
   "id": "robert-berdella",
@@ -12974,7 +13011,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hansen",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 19000
  },
  {
   "id": "robert-yates",
@@ -13141,7 +13179,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Lee_Yates",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 4800
  },
  {
   "id": "rodney-alcala",
@@ -13319,7 +13358,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Rodney_Alcala",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 79000
  },
  {
   "id": "roger-kibbe",
@@ -13631,7 +13671,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Little",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 38000
  },
  {
   "id": "scott-kimball",
@@ -13780,7 +13821,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Scott_Kimball",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 3100
  },
  {
   "id": "shawn-grate",
@@ -14269,7 +14311,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 364000
  },
  {
   "id": "texarkana-phantom",
@@ -14892,7 +14935,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Lynn_Sells",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 6200
  },
  {
   "id": "velma-barfield",
@@ -15050,7 +15094,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Velma_Barfield",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2900
  },
  {
   "id": "walter-ellis",
@@ -15631,7 +15676,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Wayne_Williams",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 26000
  },
  {
   "id": "west-mesa-bone-collector",
@@ -15930,7 +15976,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Westley_Allan_Dodd",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 2200
  },
  {
   "id": "william-bonin",
@@ -16097,7 +16144,8 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/William_Bonin",
   "enriched": true,
-  "verified": "2026-10-28"
+  "verified": "2026-10-28",
+  "searchVolume": 4600
  },
  {
   "id": "zodiac-killer",
@@ -16257,6 +16305,7 @@
   ],
   "wikipedia": "https://en.wikipedia.org/wiki/Zodiac_Killer",
   "enriched": true,
-  "verified": "2026-10-29"
+  "verified": "2026-10-29",
+  "searchVolume": 174000
  }
 ]

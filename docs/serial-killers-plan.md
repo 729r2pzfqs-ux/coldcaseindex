@@ -1,16 +1,18 @@
 # Serial killers category: implementation plan
 
-Status: phase 3, wave 1 shipped 2026-10-29. Live: 96 profiles (13 women, 13 unidentified or
-never-charged series), hub, 51 state pages (22 indexable: California, Colorado, Connecticut,
-Florida, Illinois, Indiana, Kansas, Kentucky, Louisiana, Massachusetts, Michigan, Missouri,
-New Jersey, New York, Ohio, Oregon, Pennsylvania, Texas, Utah, Virginia, Washington,
-Wisconsin), all 7 lists indexable, timeline, statistics, both answer pages. Phase 3 added 35
-profiles, including Rex Heuermann (guilty plea April 2026, sentenced June 2026) and Alan Wade
-Wilmer Sr. (Colonial Parkway, `Suspected, never charged`, named by Virginia State Police and
-the FBI). New `legalStatus` value `Not guilty by reason of insanity` (Jane Toppan). New
-profiles have no `SEARCH_VOLUME` entry yet, so they do not appear on the famous list. Next:
-Georgia, Alaska, Vermont and North Carolina sit at 2 (need 3); the collect script's `candidates`,
-`infobox` and `select` stages are still to be written.
+Status: phase 4 (final) shipped 2026-10-29. Live: 104 profiles, hub, 51 state pages (27
+indexable: Alaska, California, Colorado, Connecticut, Florida, Georgia, Illinois, Indiana,
+Kansas, Kentucky, Louisiana, Massachusetts, Michigan, Missouri, New Jersey, New York, North
+Carolina, Ohio, Oregon, Pennsylvania, South Carolina, Texas, Utah, Vermont, Virginia,
+Washington, Wisconsin), all 7 lists indexable (famous list 71 entries), timeline, statistics,
+both answer pages. Phase 3 added 35 profiles (Heuermann after his 2026 guilty plea; Alan Wade
+Wilmer Sr. as `Suspected, never charged`; new `legalStatus` value `Not guilty by reason of
+insanity` for Jane Toppan). Phase 4 added 8 (Carlton Gary, Gary Michael Hilton, Henry Louis
+Wallace, Joshua Wade, Gary Schaefer, Robert Charles Browne, Donald Gaskins, Paul Dennis Reid)
+and 49 Ahrefs search volumes. Researched and left out: Thomas Bunday (only two fetchable
+sources), Blanche Taylor Moore (two attributed deaths). Gary Schaefer reaches the 3-victim bar
+only by counting a dismissed murder charge as an official attribution; the profile states the
+counts exactly. Still open: the collect script's `candidates`, `infobox` and `select` stages.
 
 Target: a new `/serial-killers/` section of coldcaseindex.com aimed at the "serial killers"
 keyword cluster (75K/mo head term at KD 17; "california serial killers" 2K at KD 1;

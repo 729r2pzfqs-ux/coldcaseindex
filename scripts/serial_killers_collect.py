@@ -33,6 +33,21 @@ SEARCH_VOLUME = {
     'danny-rolling': 10000, 'randy-kraft': 9700, 'shawn-grate': 9600, 'nannie-doss': 9400,
     'robert-berdella': 9100, 'carl-panzram': 8700, 'shelly-knotek': 8400, 'anthony-sowell': 8300,
     'gary-ridgway': 40000, 'herb-baumeister': 13000,
+    # Ahrefs Keywords Explorer, US, 2026-10-29 (phase 4). Read from the per-term clusters of an 82-keyword
+    # list, so only names whose surname or alias term is unique to one keyword are recorded.
+    'jeffrey-dahmer': 990000, 'ted-bundy': 364000, 'john-wayne-gacy': 275000, 'aileen-wuornos': 255000,
+    'zodiac-killer': 174000, 'rex-heuermann': 145000, 'richard-ramirez': 112000, 'rodney-alcala': 79000,
+    'dennis-rader': 70000, 'david-berkowitz': 42000, 'samuel-little': 38000, 'wayne-williams': 26000,
+    'dorothea-puente': 20000, 'robert-hansen': 19000, 'henry-lee-lucas': 12000, 'h-h-holmes': 11000,
+    'henry-louis-wallace': 7500, 'ottis-toole': 7400, 'albert-desalvo': 6900, 'richard-chase': 6600,
+    'keith-jesperson': 6500, 'derrick-todd-lee': 6400, 'tommy-lynn-sells': 6200, 'robert-ben-rhoades': 6100,
+    'belle-gunness': 5200, 'christopher-wilder': 4800, 'robert-yates': 4800, 'william-bonin': 4600,
+    'donald-gaskins': 4100, 'charles-ng': 3900, 'jane-toppan': 3900, 'herbert-mullin': 3700,
+    'gary-michael-hilton': 3500, 'kenneth-bianchi': 3200, 'kristen-gilbert': 3200, 'scott-kimball': 3100,
+    'kenneth-mcduff': 3100, 'paul-john-knowles': 3000, 'velma-barfield': 2900, 'edward-wayne-edwards': 2700,
+    'arthur-shawcross': 2700, 'lawrence-bittaker': 2600, 'lonnie-franklin': 2600, 'khalil-wheeler-weaver': 2500,
+    'axeman-of-new-orleans': 2400, 'juan-corona': 2400, 'genene-jones': 2400, 'westley-allan-dodd': 2200,
+    'judy-buenoano': 2100,
 }
 
 LEGAL = {'Convicted', 'Convicted (overturned)', 'Charged', 'Died before trial', 'Confessed, never tried',
