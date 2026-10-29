@@ -930,9 +930,6 @@ h2.sub-heading { font-family: var(--font-display); font-size: var(--text-lg); fo
 .progress li.done { border-top-color: var(--color-text-faint); }
 .progress li.current { border-top-color: var(--color-primary); color: var(--color-text); font-weight: 600; }
 .progress li span { display: block; font-weight: 400; color: var(--color-text-muted); margin-top: 2px; }
-.viz-group { margin: var(--space-6) 0 var(--space-8); }
-.viz-group > .viz { margin: 0 0 var(--space-6); }
-.viz-group > .table-wrap { margin: 0; }
 .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; border: 1px solid var(--color-border); border-radius: var(--radius-lg); max-width: 100%; }
 .table-wrap:focus-visible { outline: 2px solid var(--color-primary); }
 .data-table { width: 100%; border-collapse: collapse; font-size: var(--text-sm); font-variant-numeric: tabular-nums; }
