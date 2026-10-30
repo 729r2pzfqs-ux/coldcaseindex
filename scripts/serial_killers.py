@@ -380,11 +380,18 @@ def article_ld(h1, desc, url, published, modified, about=None, section='Serial k
           "author": {"@type": "Organization", "name": B.SITE, "url": f'{B.BASE_URL}/about/'},
           "publisher": {"@type": "Organization", "name": B.SITE, "url": B.BASE_URL,
                         "logo": {"@type": "ImageObject", "url": f"{B.BASE_URL}/logos/logo-icon-512x512.png"}},
-          "isBasedOn": {"@type": "Dataset", "name": f"{B.SITE} serial killer profiles",
-                        "url": f"{B.BASE_URL}/data/serial-killers.json"}}
+          "isBasedOn": sk_dataset(f'{B.BASE_URL}/{SECTION}/', context=False)}
     if about:
         ld["about"] = about
     return ld
+
+
+def sk_dataset(url, context=True):
+    return B.dataset_ld(f"{B.SITE} serial killer profiles",
+                        "Structured profiles of US serial killers: names, aliases, states, years active, "
+                        "convicted, confessed and suspected victim counts, capture method, legal status, "
+                        "sentence, fate, timeline and sources.",
+                        url, f"{B.BASE_URL}/data/serial-killers.json", context=context)
 
 
 def featured(profiles):
@@ -514,14 +521,7 @@ def render_hub(profiles, serial_cases):
     schema = [
         B.breadcrumb_ld([('Home', f'{B.BASE_URL}/'), (SECTION_LABEL, url)]),
         collection_ld('Serial killers: profiles, lists and cases by state', desc, url, feat),
-        {"@context": "https://schema.org", "@type": "Dataset", "name": f"{B.SITE} serial killer profiles",
-         "description": "Structured profiles of US serial killers: names, aliases, states, years active, "
-                        "convicted, confessed and suspected victim counts, capture method, legal status, "
-                        "sentence, fate, timeline and sources.",
-         "url": url, "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-         "creator": {"@type": "Organization", "name": B.SITE, "url": B.BASE_URL},
-         "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json",
-                           "contentUrl": f"{B.BASE_URL}/data/serial-killers.json"}]},
+        sk_dataset(url),
     ]
     return lambda p, m: B.page(title='Serial Killers: Profiles, Lists and Cases by State', desc=desc,
                                canonical=url, prefix=prefix, body=body, schema=schema, active=NAV_LABEL)

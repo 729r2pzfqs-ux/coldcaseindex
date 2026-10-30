@@ -545,6 +545,23 @@ def page(*, title, desc, canonical, prefix, body, schema, active=None, og_type='
 '''
 
 
+DATASET_LICENSE = 'https://creativecommons.org/licenses/by-nc/4.0/'
+CASES_DATASET_DESC = ('Documented cold cases and historic crimes with type, status, date, location, '
+                      'summary, timeline and sources.')
+
+
+def dataset_ld(name, description, url, content_url, context=True, **extra):
+    """schema.org Dataset with the fields Search Console requires or recommends (description, creator,
+    license, distribution). Used both top level and nested under isBasedOn."""
+    ld = {"@context": "https://schema.org"} if context else {}
+    ld.update({"@type": "Dataset", "name": name, "description": description, "url": url,
+               "creator": {"@type": "Organization", "name": SITE, "url": BASE_URL},
+               "license": DATASET_LICENSE, "isAccessibleForFree": True})
+    ld.update(extra)
+    ld["distribution"] = [{"@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": content_url}]
+    return ld
+
+
 def breadcrumb_ld(items):
     return {
         "@context": "https://schema.org",
@@ -1753,7 +1770,8 @@ def analysis_page(slug, title, h1, desc, lead, sections, method_notes, recs_n):
             "author": {"@type": "Organization", "name": SITE, "url": f'{BASE_URL}/about/'},
             "publisher": {"@type": "Organization", "name": SITE, "url": BASE_URL,
                           "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/logos/logo-icon-512x512.png"}},
-            "isBasedOn": {"@type": "Dataset", "name": f"{SITE} case database", "url": f"{BASE_URL}/data/cases.json"},
+            "isBasedOn": dataset_ld(f"{SITE} case database", CASES_DATASET_DESC, f"{BASE_URL}/",
+                                    f"{BASE_URL}/data/cases.json", context=False),
         }
         crumbs = breadcrumb_ld([('Home', f'{BASE_URL}/'), ('Analysis', f'{BASE_URL}/analysis/'), (title, url)])
         return page(title=f'{title} | {SITE}', desc=desc, canonical=url, prefix=prefix, body=body, schema=[article, crumbs],
@@ -2318,15 +2336,9 @@ def render_home(cases, stats, by_region, log):
          "name": SITE, "url": url,
          "logo": {"@type": "ImageObject", "url": f"{BASE_URL}/logos/logo-icon-512x512.png"},
          "contactPoint": {"@type": "ContactPoint", "email": CONTACT, "contactType": "corrections"}},
-        {"@context": "https://schema.org", "@type": "Dataset", "name": f"{SITE} case database",
-         "description": (f"{n} documented cold cases and historic crimes with type, status, date, location, "
-                         "summary, timeline and sources."),
-         "url": url, "creator": {"@id": f"{BASE_URL}/#organization"},
-         "temporalCoverage": f"{min(years)}/{max(years)}",
-         "keywords": ["cold cases", "unsolved homicides", "missing persons", "unidentified persons"],
-         "license": "https://creativecommons.org/licenses/by-nc/4.0/",
-         "distribution": [{"@type": "DataDownload", "encodingFormat": "application/json",
-                           "contentUrl": f"{BASE_URL}/data/cases.json"}]},
+        dataset_ld(f"{SITE} case database", f"{n} {CASES_DATASET_DESC[0].lower()}{CASES_DATASET_DESC[1:]}", url,
+                   f"{BASE_URL}/data/cases.json", temporalCoverage=f"{min(years)}/{max(years)}",
+                   keywords=["cold cases", "unsolved homicides", "missing persons", "unidentified persons"]),
     ]
     extra = ('\n<link rel="stylesheet" href="./home.css">\n'
              '<meta name="google-site-verification" content="PnQaWQNHws_WTbo90jGB6meg8bYUQTFNwPb3DeO4XjM">')
