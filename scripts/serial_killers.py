@@ -308,7 +308,7 @@ def tile_figure(prefix, title, sub):
     W, H, tiles = B.viz.tile_map(fills=fills, links=links, tips=tips)
     legend = ''.join(f'<li><span class="swatch" style="background:{B.viz.SEQ_RAMP[i]}"></span>{lab}</li>'
                      for i, lab in enumerate(['1 to 2', '3 to 5', '6 to 10', '11 to 20', 'More than 20']))
-    return f'''<figure class="viz" data-mediavine-no-ads>
+    return f'''<figure class="viz">
         <div class="viz-title">{e(title)}</div>
         <div class="viz-sub">{sub}</div>
         <svg viewBox="0 0 {W} {H}" role="img" aria-label="Tile map of US states shaded by number of serial killer profiles" xmlns="http://www.w3.org/2000/svg">{tiles}</svg>
@@ -538,7 +538,7 @@ def render_state(state, profs, serial_cases, all_states):
     indexable = n >= (MIN_PROFILES_HIGH if known_vol else MIN_PROFILES_LOW)
     ab = B.viz.STATE_ABBR[state]
     links = {B.viz.STATE_ABBR[s]: f'../{state_slug(s)}/' for s in all_states}
-    locator = f'''<figure class="viz locator" data-mediavine-no-ads>
+    locator = f'''<figure class="viz locator">
         <div class="viz-title">{e(state)}</div>
         <div class="viz-sub">Select another state to see its serial killers.</div>
         {B.viz.locator_map(state, links)}
@@ -664,14 +664,14 @@ def render_profile(p, profiles, state_links):
         </div>''' for k, val in [d for d in details if d])
 
     strip = B.viz.timeline_strip(p['_events'], p['activeFrom'], p['_open'], B.BUILD_YEAR)
-    strip_html = f'''<figure class="viz" data-mediavine-no-ads>
+    strip_html = f'''<figure class="viz">
           <div class="viz-title">Timeline to scale</div>
           <div class="viz-sub">Each dot is a dated event below; the distance between dots is elapsed time. The darker dot marks the first known murder.</div>
           {strip}
         </figure>''' if strip else ''
     links = {B.viz.STATE_ABBR[s]: f'../{state_slug(s)}/' for s in B.viz.STATE_ABBR}
     n_state = len(BY_STATE[p['primaryState']])
-    locator_html = f'''<figure class="viz locator" data-mediavine-no-ads>
+    locator_html = f'''<figure class="viz locator">
           <div class="viz-title">{e(p['primaryState'])}</div>
           <div class="viz-sub"><a class="prose-link" href="../{state_slug(p['primaryState'])}/">{B.plural(n_state, 'serial killer profile')} in {e(p['primaryState'])}</a>. Select any state to browse its profiles.</div>
           {B.viz.locator_map(p['primaryState'], links)}
@@ -746,7 +746,7 @@ def render_profile(p, profiles, state_links):
 
       <p class="case-summary">{e(p['summary'])}</p>
 
-      <dl class="case-details-grid" data-mediavine-no-ads>
+      <dl class="case-details-grid">
         {grid}
       </dl>
 
@@ -872,7 +872,7 @@ def render_timeline(profiles):
       {crumbs(prefix, [('Timeline', None)])}
       <h1 class="section-heading">Serial Killers Timeline, by Decade</h1>
       <p class="section-subtext">Every profile in the dataset placed by the year of the first known murder. Decades with more profiles reflect both the history of serial murder in the United States, which peaked in the 1970s and 1980s, and which profiles have been written so far.</p>
-      <figure class="viz" data-mediavine-no-ads>
+      <figure class="viz">
         <div class="viz-title">Profiles by decade of first known murder</div>
         <div class="viz-sub">Select a column to jump to that decade.</div>
         {chart}
@@ -924,7 +924,7 @@ def _report(slug, title, h1, desc, lead, sections, notes, active_label=None):
 
 
 def _fig(title, sub, inner):
-    return f'''<figure class="viz" data-mediavine-no-ads>
+    return f'''<figure class="viz">
         <div class="viz-title">{e(title)}</div>
         <div class="viz-sub">{sub}</div>
         {inner}
