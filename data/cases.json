@@ -13143,13 +13143,17 @@
    {
     "title": "Bing News results - Denver Gazette 12 Dec 2025 'Boulder police share latest developments in JonBenét Ramsey investigation'; Arizona Daily Star Sept 2026",
     "url": "https://www.bing.com/news/search?q=JonBenet+Ramsey+Boulder+police"
+   },
+   {
+    "title": "ABC News - How new DNA tech could solve JonBenét Ramsey's murder case 30 years later",
+    "url": "https://abcnews.com/US/new-dna-tech-solve-jonbent-ramseys-murder-case/story?id=137603999"
    }
   ],
   "narrative": [
    "On the morning of December 26, 1996, six-year-old JonBenét Ramsey was reported missing from her family's home in Boulder, Colorado. Her mother, Patsy Ramsey, told police she found a two-and-a-half-page handwritten ransom note on a staircase demanding $118,000 — an amount reported to closely match a bonus her father, John Ramsey, had received. No child was taken. Several hours later, around 1:00 p.m., John Ramsey and a friend discovered the girl's body in a basement room of the house. According to the coroner, the autopsy attributed her death to \"asphyxia by strangulation associated with craniocerebral trauma.\" The killing drew intense national media attention that has continued for decades.",
    "The early investigation was widely criticized. Reporting and later official reviews noted that the crime scene was not immediately secured, that friends and family moved through the house, and that potential evidence was contaminated before forensic work was complete. Suspicion in the press and among some investigators initially focused on members of the Ramsey family, though none of them was ever charged with a crime. A Boulder County grand jury was convened on September 15, 1998, to examine the case. In 1999 the grand jury voted to indict John and Patsy Ramsey on charges related to child abuse resulting in death and being accessories to a crime, but District Attorney Alex Hunter declined to sign the indictment or prosecute, citing insufficient evidence. The existence and content of that grand jury vote were not made public until sealed documents were released on October 25, 2013.",
    "On July 9, 2008, Boulder District Attorney Mary Lacy publicly cleared the Ramsey family. Citing newly applied \"touch DNA\" analysis of an unidentified male profile recovered from JonBenét's clothing, Lacy wrote in a letter to John Ramsey that the evidence \"excludes\" the family as suspects and stated, \"to the extent that we may have contributed in any way to the public perception that you might have been involved in this crime, I am deeply sorry.\" The family members were therefore never charged and were publicly exonerated by the DA. Critics, including some forensic experts, later questioned how conclusive the DNA finding was, and in 2016 successor District Attorney Stan Garnett said Lacy's exoneration letter was not legally binding.",
-   "The case remains officially unsolved and is handled as an active homicide by the Boulder Police Department. The department says it convened a Cold Case Review Panel in December 2023 and reports having followed up on more than 21,000 tips and interviewed over 1,000 people across 19 states. In a statement dated November 27, 2024, Police Chief Steve Redfearn said, \"The assertion that there is viable evidence and leads we are not pursuing — to include DNA testing — is completely false,\" adding that detectives continue to work with DNA experts and outside labs. John Ramsey has publicly urged police to pursue investigative genetic genealogy on the unidentified male DNA, saying he believes newer techniques could identify the killer. As of 2026, Boulder police continue to describe the case as active and ongoing, with periodic annual updates, and no arrest has been made."
+   "The case remains officially unsolved and is handled as an active homicide by the Boulder Police Department. The department says it convened a Cold Case Review Panel in December 2023 and reports having followed up on more than 21,000 tips and interviewed over 1,000 people across 19 states. In a statement dated November 27, 2024, Police Chief Steve Redfearn said, \"The assertion that there is viable evidence and leads we are not pursuing — to include DNA testing — is completely false,\" adding that detectives continue to work with DNA experts and outside labs. John Ramsey has publicly urged police to pursue investigative genetic genealogy on the unidentified male DNA, saying he believes newer techniques could identify the killer. In an ABC News interview published on November 6, 2026, Redfearn said the department is in talks with laboratories about forensic genetic genealogy testing of the unidentified male DNA but is cautious about sending samples, because very small samples can be consumed in testing; he said detectives are also testing new evidence and pursuing every lead. As of 2026, Boulder police continue to describe the case as active and ongoing, with periodic annual updates, and no arrest has been made."
   ],
   "timeline": [
    {
@@ -13191,6 +13195,10 @@
    {
     "date": "2025-01",
     "event": "John Ramsey publicly pushes for expanded DNA testing and investigative genetic genealogy, saying he is more confident in current investigators."
+   },
+   {
+    "date": "2026-11-06",
+    "event": "In an ABC News interview, Police Chief Steve Redfearn says Boulder police are in talks with laboratories about forensic genetic genealogy testing of the unknown male DNA but are cautious because small samples can be consumed by testing."
    }
   ],
   "enriched": true
@@ -64326,7 +64334,7 @@
   "city": "Canton",
   "age": 23,
   "gender": "Female",
-  "summary": "Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging. In August 2024 a federal grand jury indicted former Stoughton police detective Matthew Farwell, alleging he strangled her on February 1, 2021, and staged the scene after she became pregnant and a friend reported their relationship, which prosecutors say began when she was 15. Farwell has pleaded not guilty; his trial began in federal court in Boston in October 2026.",
+  "summary": "Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging. In August 2024 a federal grand jury indicted former Stoughton police detective Matthew Farwell, alleging he strangled her on February 1, 2021, and staged the scene after she became pregnant and a friend reported their relationship, which prosecutors say began when she was 15. Farwell has pleaded not guilty; his trial began in federal court in Boston in October 2026, and the jury, which started deliberating on November 6, told the judge on November 9 that it was deadlocked.",
   "lastSeen": "February 1, 2021, her apartment in Canton, Massachusetts",
   "tags": [
    "police",
@@ -64360,6 +64368,18 @@
    {
     "title": "Boston Globe - Matthew Farwell trial live updates",
     "url": "https://www.bostonglobe.com/2026/10/15/metro/sandra-birchmore-trial-live-updates/"
+   },
+   {
+    "title": "WBUR - Jurors listen as prosecutor, Farwell attorney tell very different stories about Birchmore's death",
+    "url": "https://www.wbur.org/news/2026/11/06/matthew-farwell-trial-sandra-birchmore-death-closing-statements"
+   },
+   {
+    "title": "WBUR - Matthew Farwell jury tells judge it's deadlocked on charges related to Sandra Birchmore's death",
+    "url": "https://www.wbur.org/news/2026/11/09/farwell-birchmore-stoughton-trial-deadlocked"
+   },
+   {
+    "title": "CBS Boston - Matthew Farwell trial jury is deadlocked, says \"will not change any time soon\"",
+    "url": "https://www.cbsnews.com/boston/news/matthew-farwell-deadlocked-jury-sandra-birchmore/"
    }
   ],
   "narrative": [
@@ -64367,7 +64387,7 @@
    "In December 2020 Birchmore learned she was pregnant and told Farwell she believed he was the father. On January 20, 2021, a friend of hers called the Stoughton police department to report the relationship. On February 1, 2021, during a snowstorm, surveillance video showed Farwell entering her apartment building in Canton in the evening and leaving about half an hour later. On February 4, 2021, after she missed several days of work at the Sharon public schools, Canton police conducted a well-being check and found her dead. In May 2021 a state pathologist ruled the death a suicide by hanging.",
    "Farwell resigned from the department on April 1, 2022. In September 2022 Stoughton police released the results of an internal investigation that found inappropriate relationships between Birchmore and three officers, including Farwell and his twin brother William; the officers denied the accusations. Her estate filed a wrongful death lawsuit in December 2022 against the Farwells, a supervisor and the town. Federal investigators then re-examined the death, and a former New York City chief medical examiner retained by investigators concluded it was a homicide.",
    "On August 28, 2024, a federal grand jury indicted Farwell on a charge of killing a witness or victim, alleging that he strangled Birchmore and staged her apartment to look like a suicide in order to prevent her from reporting his sexual abuse of a minor. He pleaded not guilty. A DNA test in 2025 showed he was not the father of her unborn child. On October 28, 2025, a superseding indictment added a count of causing the death of an unborn child; the indictment stated she was eight to ten weeks pregnant. In December 2025 prosecutors said they would not seek the death penalty. The killing-a-witness count carries a mandatory life sentence if he is convicted.",
-   "Farwell's trial opened before Chief U.S. District Judge Denise J. Casper at the Moakley Courthouse in Boston, with jury selection on October 6, 2026, and opening statements on October 9, 2026. Prosecutors told jurors Farwell killed her to keep the relationship hidden; his lawyers conceded a relationship but said Birchmore, who was struggling, died by suicide after he ended it. Witnesses in the first week included Stoughton police officials, a friend of Birchmore's and FBI forensic examiners who testified about tens of thousands of messages recovered from her devices. The trial was expected to last about five weeks. Farwell is presumed innocent unless convicted."
+   "Farwell's trial opened before Chief U.S. District Judge Denise J. Casper at the Moakley Courthouse in Boston, with jury selection on October 6, 2026, and opening statements on October 9, 2026. Prosecutors told jurors Farwell killed her to keep the relationship hidden; his lawyers conceded a relationship but said Birchmore, who was struggling, died by suicide after he ended it. Witnesses in the first week included Stoughton police officials, a friend of Birchmore's and FBI forensic examiners who testified about tens of thousands of messages recovered from her devices. After about four weeks of testimony from some 50 witnesses, both sides gave closing arguments on November 6, 2026, and the jury of eight men and four women began deliberating that afternoon. On November 9, after more than 10 hours of deliberations, jurors sent Judge Casper a note saying they were deadlocked and that this would not change any time soon. With both sides asking that deliberations continue, she sent the jurors home and ordered them to return on November 10; four alternate jurors were also told to report. Farwell is presumed innocent unless convicted."
   ],
   "timeline": [
    {
@@ -64429,6 +64449,291 @@
    {
     "date": "2026-10-09",
     "event": "Opening statements; the trial is expected to last about five weeks."
+   },
+   {
+    "date": "2026-11-06",
+    "event": "Closing arguments; the jury of eight men and four women begins deliberating in the afternoon."
+   },
+   {
+    "date": "2026-11-09",
+    "event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "glenn-powers-1991",
+  "name": "Glenn Powers (Quincy John Doe)",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 1991,
+  "date": "March 21, 1991 (remains found)",
+  "state": "Massachusetts",
+  "city": "Quincy",
+  "age": 40,
+  "gender": "Male",
+  "summary": "Skeletal remains of a man were found in a shallow grave in woods off Quarry Street in Quincy, Massachusetts, on March 21, 1991; the medical examiner ruled the death a homicide by blunt force trauma. He went unidentified for 35 years until the Norfolk District Attorney's Office announced on October 30, 2026, that forensic genetic genealogy had identified him as Glenn Powers, a 1970 graduate of Randolph High School. No one has been charged, and investigators are asking the public for information.",
+  "lastSeen": "Date last seen not released; remains found March 21, 1991, in a wooded area near 270 Quarry Street, Quincy, Massachusetts",
+  "tags": [
+   "genetic genealogy",
+   "john doe",
+   "remains found",
+   "homicide",
+   "dna identification"
+  ],
+  "sources": [
+   {
+    "title": "WCVB - DNA used to identify body found in shallow grave in 1991",
+    "url": "https://www.wcvb.com/article/glenn-powers-dna-identification-quincy-homicide-oct-30-2026/74298347"
+   },
+   {
+    "title": "Boston.com - Police identify man found in shallow grave in Quincy more than 3 decades ago",
+    "url": "https://www.boston.com/news/crime/2026/11/01/police-identify-man-found-in-shallow-grave-in-quincy-more-than-3-decades-ago/"
+   },
+   {
+    "title": "Patch - Slain Man Found In Quincy Shallow Grave 35 Years Ago Identified",
+    "url": "https://patch.com/massachusetts/quincy/slain-man-found-quincy-shallow-grave-35-years-ago-identified"
+   },
+   {
+    "title": "New Bedford Guide - Massachusetts cold case: remains found in Quincy grave in 1991 identified",
+    "url": "https://www.newbedfordguide.com/massachusetts-cold-case-solved-grads-skull-crushed-remains-pulled-from-grave-named-as-killer-still-walks-free/2026/11/09"
+   },
+   {
+    "title": "Boston Globe - Skeletal remains found in shallow grave in Quincy in 1991 have been identified with DNA technology",
+    "url": "https://www.bostonglobe.com/2026/10/30/metro/skeletal-remains-quincy-shallow-grave-glenn-powers/"
+   }
+  ],
+  "narrative": [
+   "On March 21, 1991, a person walking through a wooded area near 270 Quarry Street in Quincy, Massachusetts, came upon a shallow grave containing human skeletal remains. The site, since developed, is close to what are now the Sgt. Robert Allen Curry and Michael G. Therrien athletic fields. The Office of the Chief Medical Examiner determined that the man had died of blunt force trauma and ruled the death a homicide. According to local reporting on the case, the remains were estimated to have been in the ground for at least six months.",
+   "Investigators could not establish who the man was, and for 35 years the case was carried as an unidentified homicide victim. It was eventually taken up by a Massachusetts State Police trooper from the Unresolved Case Unit assigned to the Norfolk District Attorney's Office, working with Quincy police.",
+   "On October 30, 2026, Norfolk District Attorney Michael W. Morrissey announced that the remains had been identified as Glenn Powers, a 1970 graduate of Randolph High School. The identification came through forensic genetic genealogy, which pairs advanced DNA sequencing with traditional family-tree research. Local reports said the genealogical work was done by the Investigative Genetic Genealogy Center at Ramapo College of New Jersey, that a reference sample from a sibling confirmed the match in October 2026, and that Powers was born around 1951, which would have made him about 40 at the time of his death.",
+   "Authorities have not said when Powers was last seen, whether he was ever reported missing, or how he came to be buried in Quincy. No suspect has been named and no one has been charged. \"We never forget a victim, no matter how much time goes by,\" Morrissey said, adding that his office is committed to finding the person or people responsible. Anyone with information is asked to call the State Police tip line at the Norfolk District Attorney's Office at 781-830-4990, Quincy police at 617-745-5768, or the State Police Unresolved Case Unit at 1-855-627-6583."
+  ],
+  "timeline": [
+   {
+    "date": "1970",
+    "event": "Glenn Powers graduates from Randolph High School in Randolph, Massachusetts."
+   },
+   {
+    "date": "1991-03-21",
+    "event": "A passerby finds skeletal remains in a shallow grave in woods near 270 Quarry Street in Quincy; the medical examiner rules the death a homicide by blunt force trauma."
+   },
+   {
+    "date": "2026-10",
+    "event": "A reference DNA sample from a sibling confirms the identification developed through forensic genetic genealogy, according to local reports."
+   },
+   {
+    "date": "2026-10-30",
+    "event": "Norfolk District Attorney Michael W. Morrissey announces the remains are those of Glenn Powers and appeals for information about his killing."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "toni-gordon-sheila-cummings-1987",
+  "name": "Toni Gordon & Sheila Cummings (Charlotte Avenue Jane Does)",
+  "type": "Multiple Homicide",
+  "status": "Conviction",
+  "year": 1987,
+  "date": "November 17, 1987 (remains found)",
+  "state": "Tennessee",
+  "city": "Nashville",
+  "age": 31,
+  "gender": "Female",
+  "summary": "On November 17, 1987, Nashville police found the skeletons of two women buried beneath the dirt-floor basement of a house at 3509 Charlotte Avenue. A former tenant, James Shaffer, confessed to killing both and received two life sentences, but neither victim could be named for decades. Sheila Cummings, 23, of Elgin, Illinois, was identified in July 2025, and on November 9, 2026, police announced that the second woman, known only as \"Lil' Bit,\" was Toni L. Gordon, 31, of Nashville.",
+  "lastSeen": "Police believe both women were killed in Nashville in the mid-1980s; their remains were found November 17, 1987, at 3509 Charlotte Avenue",
+  "tags": [
+   "genetic genealogy",
+   "jane doe",
+   "double homicide",
+   "remains found",
+   "dna identification"
+  ],
+  "sources": [
+   {
+    "title": "FOX 17 Nashville - Nashville cold-case victim identified after 40 years",
+    "url": "https://fox17.com/news/local/nashville-cold-case-victim-identified-after-40-years-toni-l-gordon"
+   },
+   {
+    "title": "NewsChannel 5 - Woman found murdered in Nashville basement nearly 40 years ago identified through DNA",
+    "url": "https://www.newschannel5.com/news/state/tennessee/davidson-county/woman-found-murdered-in-nashville-basement-nearly-40-years-ago-identified-through-dna"
+   },
+   {
+    "title": "WKRN via Yahoo News - Nearly 40 years later, Nashville police identify woman found buried in basement",
+    "url": "https://www.yahoo.com/news/us/articles/nearly-40-years-later-nashville-225533658.html"
+   },
+   {
+    "title": "WSMV - Illinois woman identified as victim of 1980s Nashville double homicide",
+    "url": "https://www.wsmv.com/2025/07/03/illinois-woman-identified-victim-1980s-nashville-double-homicide/"
+   },
+   {
+    "title": "NewsChannel 5 - Efforts continue to identify two women brutally murdered in West Nashville",
+    "url": "https://www.newschannel5.com/news/efforts-continue-to-identify-two-women-brutally-murdered-in-west-nashville"
+   }
+  ],
+  "narrative": [
+   "In November 1987 a resident of a house at 3509 Charlotte Avenue in West Nashville noticed something protruding from the dirt floor of the basement. It was a human skull. Metro Nashville police, called to the house on November 17, 1987, uncovered two complete skeletons in shallow graves beneath the home.",
+   "Detectives traced a former tenant, James Shaffer, a registered sex offender who was then in jail in Logan County, Kentucky. Interviewed there, he confessed to killing both women and burying them in the basement. According to his account as later described by Nashville police, he picked up the first woman, whom he knew as Sheila Cummings, near Broadway and 4th Avenue North in April 1984, struck her with a rubber mallet and stabbed her after she took money from his wallet, and dismembered her body. He said he met the second woman, whom he knew only as \"Lil' Bit,\" around 12th Avenue North and Jefferson Street on July 4, 1985, and strangled her. Shaffer received two life sentences and died in prison in 2004.",
+   "Although the killer was known, the victims were not. For decades police could not confirm who either woman was, and the second had no name at all. By 2023 the Metro Nashville Police Department's cold case unit had sent bone samples to a laboratory in the hope that forensic genetic genealogy could identify them, and both sets of remains were exhumed in January 2025 for forensic analysis. That April police released a forensic rendering of \"Lil' Bit,\" described as a Black woman about 5 feet 7 inches tall with a gold overlay on a front tooth, who was buried wearing a copper Grim Reaper ring.",
+   "On July 2, 2025, DNA from two daughters confirmed the first victim as Sheila Cummings, 23, of Elgin, Illinois; one of them had contacted the cold case unit after reading about the case online and said her mother had been missing since 1984. On November 9, 2026, police announced that forensic genetic genealogy had identified the second woman as Toni L. Gordon of Nashville, who was 31 when she was killed. Her relatives had believed she moved out of state and lost touch; they have been notified. Police credited DNA Investigative Solutions, Bode Technology, NamUs, the medical examiner's office and the Tennessee Bureau of Investigation with assisting in the work."
+  ],
+  "timeline": [
+   {
+    "date": "1984-04-21",
+    "event": "The date James Shaffer later told detectives he picked up Sheila Cummings near Broadway and 4th Avenue North in Nashville."
+   },
+   {
+    "date": "1985-07-04",
+    "event": "The date Shaffer said he met the woman he called \"Lil' Bit\" near 12th Avenue North and Jefferson Street."
+   },
+   {
+    "date": "1987-11-17",
+    "event": "Metro Nashville police find two skeletons buried under the dirt-floor basement of 3509 Charlotte Avenue after a resident spots a skull."
+   },
+   {
+    "date": "1987",
+    "event": "Shaffer, jailed in Logan County, Kentucky, confesses to both killings; he later receives two life sentences."
+   },
+   {
+    "date": "2004",
+    "event": "Shaffer dies in prison."
+   },
+   {
+    "date": "2025-01",
+    "event": "Both victims are exhumed for forensic analysis."
+   },
+   {
+    "date": "2025-07-02",
+    "event": "DNA from her daughters confirms the first victim as Sheila Cummings, 23, of Elgin, Illinois."
+   },
+   {
+    "date": "2026-11-09",
+    "event": "Metro Nashville police announce that forensic genetic genealogy has identified the second victim as Toni L. Gordon, 31, of Nashville."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "yoshea-jarmon-2007",
+  "name": "Yoshea Jarmon",
+  "type": "Homicide",
+  "status": "Arrest Made",
+  "year": 2007,
+  "date": "September 15, 2007",
+  "state": "Texas",
+  "city": "Houston",
+  "age": 29,
+  "gender": "Female",
+  "summary": "Yoshea Jarmon, a 29-year-old mother, was found strangled in her apartment at 9555 Crofton Street in Houston on September 15, 2007. The case went unsolved for 19 years until Houston police announced on November 4, 2026, that her boyfriend at the time, Zachary Harper, 47, had been charged with murder. Harper, who was already in the Harris County Jail on a separate murder charge from 2023, has not been convicted in either case.",
+  "lastSeen": "Found dead September 15, 2007, in her apartment at 9555 Crofton Street, Houston, Texas",
+  "tags": [
+   "domestic violence",
+   "strangulation",
+   "homicide",
+   "cold case arrest"
+  ],
+  "sources": [
+   {
+    "title": "City of Houston / Houston Police Department - UPDATE: Suspect charged in 2007 murder at 9555 Crofton Street",
+    "url": "https://cityofhouston.news/update-suspect-charged-in-2007-murder-at-9555-crofton-street/"
+   },
+   {
+    "title": "ABC13 Houston - Man charged with 2007 murder of woman found strangled inside her apartment on Crofton Street, according to HPD",
+    "url": "https://abc13.com/post/man-charged-2007-murder-woman-was-found-strangled-death-inside-apartment-crofton-street-according-hpd/20016584/"
+   },
+   {
+    "title": "ABC News - Boyfriend charged in Houston woman's 2007 cold case murder, police say",
+    "url": "https://abcnews.com/US/boyfriend-charged-houston-womans-2007-cold-case-murder/story?id=137919745"
+   },
+   {
+    "title": "ABC13 Houston - Boyfriend charged in woman's 2007 cold case murder, police say",
+    "url": "https://abc13.com/post/boyfriend-charged-womans-2007-cold-case-murder-police-say/20019105/"
+   }
+  ],
+  "narrative": [
+   "On September 15, 2007, Yoshea Jarmon, 29, was found dead inside her apartment at 9555 Crofton Street in northeast Houston. Her brother, Terance Jarmon, told ABC13 that neighbors had called to say her two young children were alone outside the apartment, and that he found her body in a closet. Houston police said she had been strangled; ABC13 reported that an electrical cord was used and that one of her arms had been cut. Some news reports spell her first name Yosheka.",
+   "Detectives learned early on that witnesses had seen a man near the apartment around the time she was found, and that Jarmon's car had been taken. It was recovered a few days later close to a place where her boyfriend, Zachary Harper, had been staying. Investigators also believed there was a history of family violence between the two. Earlier fingerprint results were inconclusive, ABC13 reported, and no charge was filed. The case passed to the Houston Police Department's Homicide Cold Case Unit.",
+   "Harper was later charged with murder in an unrelated case, the shooting death of Armin Mirazimi, 26, at 1809 Saint Elmo Street in Houston on September 10, 2023. ABC13 reported that his arrest in that case led detectives to take another look at Jarmon's death and to complete additional evidence testing. After consulting the Harris County District Attorney's Office, police announced on November 4, 2026, that Harper, 47, had been charged with murder in Jarmon's killing in the 338th Criminal District Court.",
+   "Harper was already being held without bond in the Harris County Jail when the new charge was filed. He has not been tried in either case and is presumed innocent unless convicted. Terance Jarmon told ABC13 he had suspected Harper since 2007 because of his behavior after the killing."
+  ],
+  "timeline": [
+   {
+    "date": "2007-09-15",
+    "event": "Yoshea Jarmon, 29, is found strangled in her apartment at 9555 Crofton Street in Houston; her car is missing."
+   },
+   {
+    "date": "2007-09",
+    "event": "Jarmon's car is recovered a few days later near a location where her boyfriend, Zachary Harper, had been staying. No charge is filed."
+   },
+   {
+    "date": "2023-09-10",
+    "event": "Armin Mirazimi, 26, is shot to death at 1809 Saint Elmo Street in Houston; Harper is later charged with murder in that case."
+   },
+   {
+    "date": "2026-11-04",
+    "event": "Houston police announce that Harper, 47, has been charged with murder in Jarmon's death in the 338th Criminal District Court."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "sreeja-koya-2026",
+  "name": "Sreeja Koya",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2026,
+  "date": "November 2, 2026",
+  "state": "Massachusetts",
+  "city": "Boston",
+  "age": 23,
+  "gender": "Female",
+  "summary": "Sreeja Koya, a 23-year-old University of Massachusetts Boston graduate student from Telangana, India, was last seen leaving her residence in the Edison Green area of Boston's Dorchester neighborhood at about 9:45 p.m. on November 2, 2026. She was reported missing the next day, and Boston police issued a public appeal on November 4, saying she might be in the area of Carson Beach or Harbor Point. As of November 9, 2026, no public report indicated she had been found.",
+  "lastSeen": "About 9:45 p.m. on November 2, 2026, leaving her residence in the Edison Green area of Dorchester, Boston, Massachusetts, wearing a black jacket and blue jeans",
+  "tags": [
+   "missing person",
+   "college student",
+   "international student"
+  ],
+  "sources": [
+   {
+    "title": "Boston Police Department - Missing Person Alert: Boston Police seek public's assistance in efforts to locate 23-year-old Sreeja Koya of Dorchester",
+    "url": "https://police.boston.gov/2026/11/04/missing-person-alert-boston-police-seek-publics-assistance-in-efforts-to-locate-23-year-old-sreeja-koya-of-dorchester/"
+   },
+   {
+    "title": "NBC Boston - Police seek missing UMass Boston student from Dorchester",
+    "url": "https://www.nbcboston.com/news/local/boston-police-seek-missing-dorchester-woman-last-seen-monday/4043956/"
+   },
+   {
+    "title": "Boston.com - Police search for woman, 23, missing from Boston",
+    "url": "https://www.boston.com/news/local-news/2026/11/05/police-search-for-woman-23-missing-from-boston/"
+   },
+   {
+    "title": "The Week - Telangana student Sreeja Koya missing in Boston since Nov 2; minister seeks MEA help",
+    "url": "https://www.theweek.in/news/india/2026/11/07/telangana-student-sreeja-koya-missing-in-boston-since-nov-2-minister-seeks-mea-help.html"
+   }
+  ],
+  "narrative": [
+   "Sreeja Koya, 23, also reported as Sreeja Reddy Koya, is a student at the University of Massachusetts Boston. According to her family, she grew up in Kanagal mandal in the Nalgonda district of Telangana, India, earned a commerce degree in Hyderabad and moved to the United States to study for a master's degree in finance. She lived in the Edison Green area of Dorchester.",
+   "On the evening of Monday, November 2, 2026, she spoke by phone with her mother, Swaroopa Reddy, and said there was a birthday party at her residence and that she planned to eat and go to bed early, The Week reported. At about 9:45 p.m. she left the residence, reportedly for a walk, and did not return. Her friends told the family she never came back. Her mother said the family was surprised she had gone out at night because she was usually careful.",
+   "She was reported missing on Tuesday, November 3. On November 4 the Boston Police Department issued a missing person alert describing her as an Indian woman between 5 feet 3 inches and 5 feet 5 inches tall with a thin build and black hair, last seen wearing a black jacket and blue jeans. Police said she might be in the area of Carson Beach or Harbor Point, along the Dorchester Bay shoreline; Indian media reported that her phone's last known location was in that area. UMass Boston confirmed she was a student, and her friends circulated an appeal at the university.",
+   "The case drew attention in India, where Telangana minister Komatireddy Venkat Reddy asked the Ministry of External Affairs, the Consulate General of India and Boston police to help trace her. Boston police have not publicly described the disappearance as suspicious, and as of November 9, 2026, no public report indicated that she had been located. Anyone with information is asked to call 911 or District C-11 detectives at 617-343-4335; anonymous tips can be given to CrimeStoppers at 1-800-494-TIPS or by texting TIP to 27463."
+  ],
+  "timeline": [
+   {
+    "date": "2026-11-02",
+    "event": "Sreeja Koya speaks with her mother by phone in the evening; at about 9:45 p.m. she leaves her residence in the Edison Green area of Dorchester and does not return."
+   },
+   {
+    "date": "2026-11-03",
+    "event": "She is reported missing to Boston police."
+   },
+   {
+    "date": "2026-11-04",
+    "event": "Boston police issue a public missing person alert and say she may be in the area of Carson Beach or Harbor Point."
+   },
+   {
+    "date": "2026-11-07",
+    "event": "Indian media report that a Telangana state minister has asked India's Ministry of External Affairs and the consulate in Boston to assist in the search."
    }
   ],
   "enriched": true

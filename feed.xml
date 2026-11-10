@@ -5,9 +5,63 @@
   <link rel="self" type="application/atom+xml" href="https://coldcaseindex.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://coldcaseindex.com/updates/"/>
   <id>https://coldcaseindex.com/feed.xml</id>
-  <updated>2026-10-27T00:00:00Z</updated>
+  <updated>2026-11-10T00:00:00Z</updated>
   <author><name>ColdCaseIndex</name><uri>https://coldcaseindex.com/</uri></author>
   <rights>CC BY-NC 4.0</rights>
+  <entry>
+    <title>Timeline updated: Sandra Birchmore</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sandra-birchmore-2021/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:sandra-birchmore-2021/extended</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;2 new events, latest November 9, 2026: After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report.&lt;/p&gt;&lt;p&gt;Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Timeline updated: JonBenét Ramsey</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/jonbenet-ramsey/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:jonbenet-ramsey/extended</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;November 6, 2026: In an ABC News interview, Police Chief Steve Redfearn says Boulder police are in talks with laboratories about forensic genetic genealogy testing of the unknown male DNA but are cautious because small samples can be consumed by testing.&lt;/p&gt;&lt;p&gt;Six-year-old JonBenét Ramsey was found dead in the basement of her family&amp;#x27;s Boulder home on December 26, 1996, hours after her mother reported finding a ransom note demanding $118,000. She had been struck on the head and strangled.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Yoshea Jarmon (2007, Texas)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/yoshea-jarmon-2007/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:yoshea-jarmon-2007/added</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Yoshea Jarmon, a 29-year-old mother, was found strangled in her apartment at 9555 Crofton Street in Houston on September 15, 2007. The case went unsolved for 19 years until Houston police announced on November 4, 2026, that her boyfriend at the time, Zachary Harper, 47, had been charged with murder.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Toni Gordon &amp; Sheila Cummings (Charlotte Avenue Jane Does) (1987, Tennessee)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/toni-gordon-sheila-cummings-1987/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:toni-gordon-sheila-cummings-1987/added</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;On November 17, 1987, Nashville police found the skeletons of two women buried beneath the dirt-floor basement of a house at 3509 Charlotte Avenue. A former tenant, James Shaffer, confessed to killing both and received two life sentences, but neither victim could be named for decades.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Sreeja Koya (2026, Massachusetts)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sreeja-koya-2026/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:sreeja-koya-2026/added</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Sreeja Koya, a 23-year-old University of Massachusetts Boston graduate student from Telangana, India, was last seen leaving her residence in the Edison Green area of Boston&amp;#x27;s Dorchester neighborhood at about 9:45 p.m. on November 2, 2026.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Glenn Powers (Quincy John Doe) (1991, Massachusetts)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/glenn-powers-1991/"/>
+    <id>tag:coldcaseindex.com,2026-11-10:glenn-powers-1991/added</id>
+    <published>2026-11-10T00:00:00Z</published>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Skeletal remains of a man were found in a shallow grave in woods off Quarry Street in Quincy, Massachusetts, on March 21, 1991; the medical examiner ruled the death a homicide by blunt force trauma.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Timeline updated: Skelton Brothers</title>
     <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/skelton-brothers-2010/"/>
@@ -403,59 +457,5 @@
     <updated>2026-09-29T00:00:00Z</updated>
     <category term="extended"/>
     <content type="html">&lt;p&gt;5 new events, latest April 2025: The Alaska Court of Appeals hears oral argument in the appeal; no ruling is announced.&lt;/p&gt;&lt;p&gt;Sophie Sergie, 20, of Pitkas Point, Alaska, was found sexually assaulted, stabbed and shot in a dormitory bathroom at the University of Alaska Fairbanks on April 26, 1993. Genetic genealogy led to the February 2019 arrest of former student Steven Downs in Maine.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Sofia Silva, Kristin Lisk &amp; Kati Lisk</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/lisk-murders-1996/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:lisk-murders-1996/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;2 new events, latest August 13, 2002: Authorities announce that forensic evidence ties Evonitz to all three killings and close the cases.&lt;/p&gt;&lt;p&gt;Sofia Silva, 16, vanished from the front steps of her Spotsylvania County, Virginia home on September 9, 1996, and sisters Kristin, 15, and Kati Lisk, 12, were taken from their front yard on May 1, 1997. All three were found dead.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Sneha Anne Philip</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sneha-philip-2001/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:sneha-philip-2001/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;January 31, 2008: A New York appeals court reverses a 2006 ruling and declares Philip a victim of the September 11 attacks.&lt;/p&gt;&lt;p&gt;Dr. Sneha Anne Philip, an internist, was last seen shopping at a store near the World Trade Center on September 10, 2001. She was never seen again. Whether she died in the 9/11 attacks or disappeared separately remains unknown.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Skelton Brothers</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/skelton-brothers-2010/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:skelton-brothers-2010/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;5 new events, latest September 16, 2026: Skelton waives arraignment; the case moves to pretrial proceedings, with a hearing set for October 14, 2026.&lt;/p&gt;&lt;p&gt;Andrew (9), Alexander (7) and Tanner (5) Skelton were last seen on Thanksgiving 2010 at their father&amp;#x27;s home in Morenci, Michigan, and have never been found. John Skelton served a prison term for unlawful imprisonment.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Sherri Rasmussen</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sherri-rasmussen-1986/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:sherri-rasmussen-1986/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;5 new events, latest February 12, 2025: Parole is denied again; next eligibility is set for 2028.&lt;/p&gt;&lt;p&gt;Sherri Rasmussen, a 29-year-old nursing director at Glendale Adventist Medical Center, was beaten and shot in her Van Nuys condominium on February 24, 1986. The case was treated as a burglary and went cold.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Sherin Mathews</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sherin-mathews-2017/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:sherin-mathews-2017/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;6 new events, latest January 2021: A Texas appellate court upholds the conviction and life sentence.&lt;/p&gt;&lt;p&gt;Three-year-old Sherin Mathews, adopted from India in 2016, was reported missing from her Richardson, Texas, home on October 7, 2017; her body was found in a nearby culvert two weeks later.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Shanquella Robinson</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/shanquella-robinson-2022/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:shanquella-robinson-2022/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;8 new events, latest June 30, 2026: That defendant appeals to the North Carolina Court of Appeals.&lt;/p&gt;&lt;p&gt;Shanquella Robinson, 25, of Charlotte, North Carolina, died on October 29, 2022, at a rental villa in San José del Cabo, Mexico, during a trip with six companions. A video showed her being struck by a travel companion.&lt;/p&gt;</content>
   </entry>
 </feed>

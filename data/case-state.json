@@ -2339,6 +2339,15 @@
 "text": "ddeae6d4a858",
 "timeline": "b3b5856bad6f"
 },
+"glenn-powers-1991": {
+"events": 4,
+"last_date": "2026-10-30",
+"last_event": "Norfolk District Attorney Michael W. Morrissey announces the remains are those of Glenn Powers and appeals for information about his killing.",
+"name": "Glenn Powers (Quincy John Doe)",
+"status": "Unsolved",
+"text": "5857cccd5b00",
+"timeline": "3f83192cc651"
+},
 "gloria-satterfield-2018": {
 "events": 3,
 "last_date": "2021-10-01",
@@ -3249,13 +3258,13 @@
 "timeline": "460666ae1f03"
 },
 "jonbenet-ramsey": {
-"events": 10,
-"last_date": "2025-01",
-"last_event": "John Ramsey publicly pushes for expanded DNA testing and investigative genetic genealogy, saying he is more confident in current investigators.",
+"events": 11,
+"last_date": "2026-11-06",
+"last_event": "In an ABC News interview, Police Chief Steve Redfearn says Boulder police are in talks with laboratories about forensic genetic genealogy testing of the unknown male DNA but are cautious because small samples can be consumed by testing.",
 "name": "JonBenét Ramsey",
 "status": "Unsolved",
-"text": "6acaae4eda53",
-"timeline": "225d8e9badb2"
+"text": "1cf15fae9cdf",
+"timeline": "828d4820a84d"
 },
 "jonelle-matthews-1984": {
 "events": 7,
@@ -5616,13 +5625,13 @@
 "timeline": "8f6b0547c696"
 },
 "sandra-birchmore-2021": {
-"events": 15,
-"last_date": "2026-10-09",
-"last_event": "Opening statements; the trial is expected to last about five weeks.",
+"events": 17,
+"last_date": "2026-11-09",
+"last_event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report.",
 "name": "Sandra Birchmore",
 "status": "Pending Trial",
-"text": "55069723a7bb",
-"timeline": "89749b3942f5"
+"text": "ae85fe9e24c6",
+"timeline": "e158798d89fb"
 },
 "sandra-bland": {
 "events": 8,
@@ -6010,6 +6019,15 @@
 "status": "Unsolved",
 "text": "65b8275edc1f",
 "timeline": "c61696b1127e"
+},
+"sreeja-koya-2026": {
+"events": 4,
+"last_date": "2026-11-07",
+"last_event": "Indian media report that a Telangana state minister has asked India's Ministry of External Affairs and the consulate in Boston to assist in the search.",
+"name": "Sreeja Koya",
+"status": "Unsolved",
+"text": "b9e4e19018ae",
+"timeline": "16b7c07a256f"
 },
 "st-louis-jane-doe-1983": {
 "events": 9,
@@ -6515,6 +6533,15 @@
 "text": "7cc7f2fe7538",
 "timeline": "04bb43e1622b"
 },
+"toni-gordon-sheila-cummings-1987": {
+"events": 8,
+"last_date": "2026-11-09",
+"last_event": "Metro Nashville police announce that forensic genetic genealogy has identified the second victim as Toni L. Gordon, 31, of Nashville.",
+"name": "Toni Gordon & Sheila Cummings (Charlotte Avenue Jane Does)",
+"status": "Conviction",
+"text": "da18707e40d2",
+"timeline": "dd38ca9e1a42"
+},
 "torso-murders": {
 "events": 8,
 "last_date": "2026",
@@ -6946,6 +6973,15 @@
 "status": "Conviction",
 "text": "8a2fb00a5276",
 "timeline": "e7739a3778eb"
+},
+"yoshea-jarmon-2007": {
+"events": 4,
+"last_date": "2026-11-04",
+"last_event": "Houston police announce that Harper, 47, has been charged with murder in Jarmon's death in the 338th Criminal District Court.",
+"name": "Yoshea Jarmon",
+"status": "Arrest Made",
+"text": "8e482d1d7f21",
+"timeline": "4d2b1380c828"
 },
 "young-dolph-2021": {
 "events": 8,
