@@ -2209,6 +2209,12 @@
 "query": "Queens",
 "match": "Queens, Queens County, New York, United States"
 },
+"Quincy|Massachusetts": {
+"lat": 42.251,
+"lon": -71.0037,
+"query": "Quincy",
+"match": "Quincy, Norfolk County, Massachusetts, United States"
+},
 "Rancho Bernardo|California": {
 "lat": 33.0228,
 "lon": -117.0744,
