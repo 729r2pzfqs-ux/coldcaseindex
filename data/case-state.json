@@ -1241,6 +1241,15 @@
 "text": "bec85698ed3a",
 "timeline": "26c2372e7180"
 },
+"clare-fearon-2026": {
+"events": 5,
+"last_date": "2026-11-12",
+"last_event": "Barnstable police end large-scale search operations after a week and move to a targeted investigation, saying they are not giving up.",
+"name": "Clare Fearon",
+"status": "Unsolved",
+"text": "f0ae71f6966f",
+"timeline": "936c92aa3120"
+},
 "claremont-serial-murders-1996": {
 "events": 4,
 "last_date": "2020-09-24",
@@ -3338,6 +3347,15 @@
 "text": "0d31d178fbd6",
 "timeline": "3fc825afe2aa"
 },
+"juanita-boyd-1981": {
+"events": 8,
+"last_date": "2026-11-10",
+"last_event": "Sheriff Ronald Heeg announces that Phillips killed Boyd and that the case is solved; no charges are possible because he is dead.",
+"name": "Juanita Boyd",
+"status": "Solved",
+"text": "ac7c864348b1",
+"timeline": "3b1459570df8"
+},
 "juanita-williams": {
 "events": 6,
 "last_date": "2023-11-28",
@@ -4138,6 +4156,15 @@
 "status": "Conviction",
 "text": "bf8ab8d9b497",
 "timeline": "e508844e2ac3"
+},
+"lottie-jo-gunn-1985": {
+"events": 4,
+"last_date": "2026-12-23",
+"last_event": "Scheduled formal arraignment in Westmoreland County.",
+"name": "Lottie Jo Gunn",
+"status": "Arrest Made",
+"text": "0102252fa0a9",
+"timeline": "670139384e28"
 },
 "lyle-and-erik-menendez-parents": {
 "events": 11,
@@ -5625,13 +5652,13 @@
 "timeline": "8f6b0547c696"
 },
 "sandra-birchmore-2021": {
-"events": 17,
-"last_date": "2026-11-09",
-"last_event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report.",
+"events": 20,
+"last_date": "2027-02-03",
+"last_event": "Scheduled sentencing before Chief Judge Denise J. Casper.",
 "name": "Sandra Birchmore",
-"status": "Pending Trial",
-"text": "ae85fe9e24c6",
-"timeline": "e158798d89fb"
+"status": "Conviction",
+"text": "d825cf38598b",
+"timeline": "ccbeced6bad3"
 },
 "sandra-bland": {
 "events": 8,
@@ -5975,6 +6002,15 @@
 "text": "b89ea1c72208",
 "timeline": "6ce918174a11"
 },
+"sofia-marrone-1978": {
+"events": 6,
+"last_date": "2026-11-12",
+"last_event": "Suffolk County District Attorney Raymond A. Tierney and Police Commissioner Kevin Catalina announce she has been identified as Sofia Marrone, one of six cold case identifications, and say investigators are examining a possible link to Biege",
+"name": "Sofia Marrone (Montauk Mary)",
+"status": "Unsolved",
+"text": "db3ad283e054",
+"timeline": "d95dd26c0545"
+},
 "soham-murders-2002": {
 "events": 4,
 "last_date": "2026-03-07",
@@ -6021,13 +6057,13 @@
 "timeline": "c61696b1127e"
 },
 "sreeja-koya-2026": {
-"events": 4,
-"last_date": "2026-11-07",
-"last_event": "Indian media report that a Telangana state minister has asked India's Ministry of External Affairs and the consulate in Boston to assist in the search.",
+"events": 6,
+"last_date": "2026-11-08",
+"last_event": "The Consulate General of India in Boston says it has filed a formal complaint and is coordinating with police, who it says have begun a nationwide search alert.",
 "name": "Sreeja Koya",
 "status": "Unsolved",
-"text": "b9e4e19018ae",
-"timeline": "16b7c07a256f"
+"text": "a43cdfb95bd4",
+"timeline": "a15c77b022a7"
 },
 "st-louis-jane-doe-1983": {
 "events": 9,

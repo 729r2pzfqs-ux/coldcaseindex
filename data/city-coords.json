@@ -1410,6 +1410,12 @@
 "query": "La Cygne",
 "match": "La Cygne, Linn County, Kansas, United States"
 },
+"La Porte|Indiana": {
+"lat": 41.6106,
+"lon": -86.7225,
+"query": "La Porte",
+"match": "La Porte, LaPorte County, Indiana, 46350, United States"
+},
 "LaGrange|Georgia": {
 "lat": 33.0393,
 "lon": -85.0313,
@@ -1776,6 +1782,12 @@
 "query": "Money",
 "match": "Money, Leflore County, Mississippi, 38945, United States"
 },
+"Montauk|New York": {
+"lat": 41.042,
+"lon": -71.9415,
+"query": "Montauk",
+"match": "Montauk, Town of East Hampton, Suffolk County, New York, 11954, United States"
+},
 "Montgomery|Vermont": {
 "lat": 44.8775,
 "lon": -72.608,
@@ -1943,6 +1955,12 @@
 "lon": -79.9748,
 "query": "North Charleston",
 "match": "North Charleston, Charleston County, South Carolina, United States"
+},
+"North Huntingdon|Pennsylvania": {
+"lat": 40.3373,
+"lon": -79.7482,
+"query": "North Huntingdon",
+"match": "North Huntingdon Township, Westmoreland County, Pennsylvania, United States"
 },
 "North Las Vegas|Nevada": {
 "lat": 36.2005,
@@ -2905,6 +2923,12 @@
 "lon": -95.0938,
 "query": "Welch",
 "match": "Welch, Craig County, Oklahoma, United States"
+},
+"West Barnstable|Massachusetts": {
+"lat": 41.7082,
+"lon": -70.3723,
+"query": "West Barnstable",
+"match": "West Barnstable, Barnstable, Barnstable County, Massachusetts, 02668, United States"
 },
 "West Des Moines|Iowa": {
 "lat": 41.5644,

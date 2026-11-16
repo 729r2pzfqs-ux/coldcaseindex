@@ -3758,5 +3758,12 @@
 {"date": "2026-11-10", "id": "toni-gordon-sheila-cummings-1987", "kind": "added", "name": "Toni Gordon & Sheila Cummings (Charlotte Avenue Jane Does)"},
 {"date": "2026-11-10", "id": "yoshea-jarmon-2007", "kind": "added", "name": "Yoshea Jarmon"},
 {"count": 1, "date": "2026-11-10", "event": "In an ABC News interview, Police Chief Steve Redfearn says Boulder police are in talks with laboratories about forensic genetic genealogy testing of the unknown male DNA but are cautious because small samples can be consumed by testing.", "id": "jonbenet-ramsey", "kind": "extended", "name": "JonBenét Ramsey", "when": "2026-11-06"},
-{"count": 2, "date": "2026-11-10", "event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report.", "id": "sandra-birchmore-2021", "kind": "extended", "name": "Sandra Birchmore", "when": "2026-11-09"}
+{"count": 2, "date": "2026-11-10", "event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report.", "id": "sandra-birchmore-2021", "kind": "extended", "name": "Sandra Birchmore", "when": "2026-11-09"},
+{"date": "2026-11-16", "id": "clare-fearon-2026", "kind": "added", "name": "Clare Fearon"},
+{"date": "2026-11-16", "id": "juanita-boyd-1981", "kind": "added", "name": "Juanita Boyd"},
+{"date": "2026-11-16", "id": "lottie-jo-gunn-1985", "kind": "added", "name": "Lottie Jo Gunn"},
+{"date": "2026-11-16", "id": "sofia-marrone-1978", "kind": "added", "name": "Sofia Marrone (Montauk Mary)"},
+{"date": "2026-11-16", "from": "Pending Trial", "id": "sandra-birchmore-2021", "kind": "status", "name": "Sandra Birchmore", "to": "Conviction"},
+{"count": 3, "date": "2026-11-16", "event": "Scheduled sentencing before Chief Judge Denise J. Casper.", "id": "sandra-birchmore-2021", "kind": "extended", "name": "Sandra Birchmore", "when": "2027-02-03"},
+{"count": 2, "date": "2026-11-16", "event": "The Consulate General of India in Boston says it has filed a formal complaint and is coordinating with police, who it says have begun a nationwide search alert.", "id": "sreeja-koya-2026", "kind": "extended", "name": "Sreeja Koya", "when": "2026-11-08"}
 ]

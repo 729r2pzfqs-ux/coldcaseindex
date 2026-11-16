@@ -64327,18 +64327,19 @@
   "id": "sandra-birchmore-2021",
   "name": "Sandra Birchmore",
   "type": "Homicide",
-  "status": "Pending Trial",
+  "status": "Conviction",
   "year": 2021,
   "date": "February 1, 2021 (body found February 4, 2021)",
   "state": "Massachusetts",
   "city": "Canton",
   "age": 23,
   "gender": "Female",
-  "summary": "Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging. In August 2024 a federal grand jury indicted former Stoughton police detective Matthew Farwell, alleging he strangled her on February 1, 2021, and staged the scene after she became pregnant and a friend reported their relationship, which prosecutors say began when she was 15. Farwell has pleaded not guilty; his trial began in federal court in Boston in October 2026, and the jury, which started deliberating on November 6, told the judge on November 9 that it was deadlocked.",
+  "summary": "Sandra Birchmore, 23, was found dead in her Canton, Massachusetts, apartment on February 4, 2021, and the state medical examiner ruled her death a suicide by hanging. In August 2024 a federal grand jury indicted former Stoughton police detective Matthew Farwell, alleging he strangled her on February 1, 2021, and staged the scene after she became pregnant and a friend reported their relationship, which prosecutors say began when she was 15. Farwell pleaded not guilty and went on trial in federal court in Boston in October 2026. On November 10, 2026, a day after jurors reported being deadlocked, the jury convicted him of killing a witness or victim and of causing the death of an unborn child. He faces a mandatory life sentence at a sentencing set for February 3, 2027, and his lawyers have said they will seek an acquittal or a new trial.",
   "lastSeen": "February 1, 2021, her apartment in Canton, Massachusetts",
   "tags": [
    "police",
-   "strangulation"
+   "strangulation",
+   "federal trial"
   ],
   "sources": [
    {
@@ -64380,6 +64381,18 @@
    {
     "title": "CBS Boston - Matthew Farwell trial jury is deadlocked, says \"will not change any time soon\"",
     "url": "https://www.cbsnews.com/boston/news/matthew-farwell-deadlocked-jury-sandra-birchmore/"
+   },
+   {
+    "title": "WBUR - Jury finds Matthew Farwell guilty of killing Sandra Birchmore and unborn child",
+    "url": "https://www.wbur.org/news/2026/11/10/guilty-verdict-matthew-farwell-sandra-birchmore"
+   },
+   {
+    "title": "U.S. Attorney's Office, District of Massachusetts - Matthew Farwell Convicted of Murdering Sandra Birchmore and Causing the Death of Her Unborn Baby",
+    "url": "https://www.justice.gov/usao-ma/pr/matthew-farwell-convicted-murdering-sandra-birchmore-and-causing-death-her-unborn-baby"
+   },
+   {
+    "title": "Boston.com - Matthew Farwell, convicted killer of Sandra Birchmore, wants a new trial",
+    "url": "https://www.boston.com/news/crime/2026/11/13/matthew-farwell-convicted-killer-sandra-birchmore-wants-new-trial/"
    }
   ],
   "narrative": [
@@ -64387,7 +64400,7 @@
    "In December 2020 Birchmore learned she was pregnant and told Farwell she believed he was the father. On January 20, 2021, a friend of hers called the Stoughton police department to report the relationship. On February 1, 2021, during a snowstorm, surveillance video showed Farwell entering her apartment building in Canton in the evening and leaving about half an hour later. On February 4, 2021, after she missed several days of work at the Sharon public schools, Canton police conducted a well-being check and found her dead. In May 2021 a state pathologist ruled the death a suicide by hanging.",
    "Farwell resigned from the department on April 1, 2022. In September 2022 Stoughton police released the results of an internal investigation that found inappropriate relationships between Birchmore and three officers, including Farwell and his twin brother William; the officers denied the accusations. Her estate filed a wrongful death lawsuit in December 2022 against the Farwells, a supervisor and the town. Federal investigators then re-examined the death, and a former New York City chief medical examiner retained by investigators concluded it was a homicide.",
    "On August 28, 2024, a federal grand jury indicted Farwell on a charge of killing a witness or victim, alleging that he strangled Birchmore and staged her apartment to look like a suicide in order to prevent her from reporting his sexual abuse of a minor. He pleaded not guilty. A DNA test in 2025 showed he was not the father of her unborn child. On October 28, 2025, a superseding indictment added a count of causing the death of an unborn child; the indictment stated she was eight to ten weeks pregnant. In December 2025 prosecutors said they would not seek the death penalty. The killing-a-witness count carries a mandatory life sentence if he is convicted.",
-   "Farwell's trial opened before Chief U.S. District Judge Denise J. Casper at the Moakley Courthouse in Boston, with jury selection on October 6, 2026, and opening statements on October 9, 2026. Prosecutors told jurors Farwell killed her to keep the relationship hidden; his lawyers conceded a relationship but said Birchmore, who was struggling, died by suicide after he ended it. Witnesses in the first week included Stoughton police officials, a friend of Birchmore's and FBI forensic examiners who testified about tens of thousands of messages recovered from her devices. After about four weeks of testimony from some 50 witnesses, both sides gave closing arguments on November 6, 2026, and the jury of eight men and four women began deliberating that afternoon. On November 9, after more than 10 hours of deliberations, jurors sent Judge Casper a note saying they were deadlocked and that this would not change any time soon. With both sides asking that deliberations continue, she sent the jurors home and ordered them to return on November 10; four alternate jurors were also told to report. Farwell is presumed innocent unless convicted."
+   "Farwell's trial opened before Chief U.S. District Judge Denise J. Casper at the Moakley Courthouse in Boston, with jury selection on October 6, 2026, and opening statements on October 9, 2026. Prosecutors told jurors Farwell killed her to keep the relationship hidden; his lawyers conceded a relationship but said Birchmore, who was struggling, died by suicide after he ended it. Witnesses in the first week included Stoughton police officials, a friend of Birchmore's and FBI forensic examiners who testified about tens of thousands of messages recovered from her devices. After about four weeks of testimony from some 50 witnesses, both sides gave closing arguments on November 6, 2026, and the jury of eight men and four women began deliberating that afternoon. On November 9, after more than 10 hours of deliberations, jurors sent Judge Casper a note saying they were deadlocked and that this would not change any time soon. With both sides asking that deliberations continue, she sent the jurors home and ordered them to return on November 10; four alternate jurors were also told to report. On the afternoon of November 10, 2026, after more than 15 hours of deliberations over three days, the jury found Farwell guilty of both counts: killing a witness or victim and causing the death of an unborn child. Because prosecutors did not seek the death penalty, he faces a mandatory sentence of life in prison; Casper set sentencing for February 3, 2027. U.S. Attorney Leah Foley said the verdict delivered justice for Birchmore, and the head of the FBI's Boston office said the case showed the need for a second look when evidence demands one. On November 12, defense lawyers Kimberly Stevens and Joanne Daley asked for additional time, until 30 days after they receive final trial transcripts, to file motions for a judgment of acquittal and for a new trial; prosecutors did not object to the request."
   ],
   "timeline": [
    {
@@ -64457,6 +64470,18 @@
    {
     "date": "2026-11-09",
     "event": "After more than 10 hours of deliberations, jurors tell Judge Casper in a note that they are deadlocked. She sends them home and orders them to return on November 10 to continue; four alternates are told to report."
+   },
+   {
+    "date": "2026-11-10",
+    "event": "After more than 15 hours of deliberations over three days, the jury finds Farwell guilty of killing a witness or victim and of causing the death of an unborn child. Sentencing is set for February 3, 2027; the conviction carries a mandatory life sentence."
+   },
+   {
+    "date": "2026-11-12",
+    "event": "Farwell's lawyers ask the court for more time to file motions for a judgment of acquittal and for a new trial, seeking 30 days after they receive final trial transcripts; prosecutors do not object."
+   },
+   {
+    "date": "2027-02-03",
+    "event": "Scheduled sentencing before Chief Judge Denise J. Casper."
    }
   ],
   "enriched": true
@@ -64687,7 +64712,7 @@
   "city": "Boston",
   "age": 23,
   "gender": "Female",
-  "summary": "Sreeja Koya, a 23-year-old University of Massachusetts Boston graduate student from Telangana, India, was last seen leaving her residence in the Edison Green area of Boston's Dorchester neighborhood at about 9:45 p.m. on November 2, 2026. She was reported missing the next day, and Boston police issued a public appeal on November 4, saying she might be in the area of Carson Beach or Harbor Point. As of November 9, 2026, no public report indicated she had been found.",
+  "summary": "Sreeja Koya, a 23-year-old University of Massachusetts Boston graduate student from Telangana, India, was last seen leaving her residence in the Edison Green area of Boston's Dorchester neighborhood at about 9:45 p.m. on November 2, 2026. She was reported missing the next day, and Boston police issued a public appeal on November 4, saying she might be in the area of Carson Beach or Harbor Point. India's consulate in Boston said on November 8 that it had filed a formal complaint and that police had issued a nationwide alert. As of November 16, 2026, no public report indicated she had been found.",
   "lastSeen": "About 9:45 p.m. on November 2, 2026, leaving her residence in the Edison Green area of Dorchester, Boston, Massachusetts, wearing a black jacket and blue jeans",
   "tags": [
    "missing person",
@@ -64710,13 +64735,17 @@
    {
     "title": "The Week - Telangana student Sreeja Koya missing in Boston since Nov 2; minister seeks MEA help",
     "url": "https://www.theweek.in/news/india/2026/11/07/telangana-student-sreeja-koya-missing-in-boston-since-nov-2-minister-seeks-mea-help.html"
+   },
+   {
+    "title": "India New England News - Telangana Student Sreeja Reddy Koya Missing in Boston; Indian Consulate, Police and TANA Coordinate Search",
+    "url": "https://indianewengland.com/telangana-student-sreeja-reddy-koya-missing-in-boston-indian-consulate-police-and-tana-coordinate-search/"
    }
   ],
   "narrative": [
    "Sreeja Koya, 23, also reported as Sreeja Reddy Koya, is a student at the University of Massachusetts Boston. According to her family, she grew up in Kanagal mandal in the Nalgonda district of Telangana, India, earned a commerce degree in Hyderabad and moved to the United States to study for a master's degree in finance. She lived in the Edison Green area of Dorchester.",
    "On the evening of Monday, November 2, 2026, she spoke by phone with her mother, Swaroopa Reddy, and said there was a birthday party at her residence and that she planned to eat and go to bed early, The Week reported. At about 9:45 p.m. she left the residence, reportedly for a walk, and did not return. Her friends told the family she never came back. Her mother said the family was surprised she had gone out at night because she was usually careful.",
    "She was reported missing on Tuesday, November 3. On November 4 the Boston Police Department issued a missing person alert describing her as an Indian woman between 5 feet 3 inches and 5 feet 5 inches tall with a thin build and black hair, last seen wearing a black jacket and blue jeans. Police said she might be in the area of Carson Beach or Harbor Point, along the Dorchester Bay shoreline; Indian media reported that her phone's last known location was in that area. UMass Boston confirmed she was a student, and her friends circulated an appeal at the university.",
-   "The case drew attention in India, where Telangana minister Komatireddy Venkat Reddy asked the Ministry of External Affairs, the Consulate General of India and Boston police to help trace her. Boston police have not publicly described the disappearance as suspicious, and as of November 9, 2026, no public report indicated that she had been located. Anyone with information is asked to call 911 or District C-11 detectives at 617-343-4335; anonymous tips can be given to CrimeStoppers at 1-800-494-TIPS or by texting TIP to 27463."
+   "The case drew attention in India, where Telangana minister Komatireddy Venkat Reddy asked the Ministry of External Affairs, the Consulate General of India and Boston police to help trace her. On November 8 the Consulate General of India in Boston said it had filed a formal complaint and was coordinating with police, who it said had begun a nationwide search alert; her phone has reportedly been switched off since she disappeared, and representatives of the Telugu Association of North America have visited police to ask for updates, India New England News reported. Boston police have not publicly described the disappearance as suspicious, and as of November 16, 2026, no public report indicated that she had been located. Anyone with information is asked to call 911 or District C-11 detectives at 617-343-4335; anonymous tips can be given to CrimeStoppers at 1-800-494-TIPS or by texting TIP to 27463."
   ],
   "timeline": [
    {
@@ -64732,8 +64761,303 @@
     "event": "Boston police issue a public missing person alert and say she may be in the area of Carson Beach or Harbor Point."
    },
    {
+    "date": "2026-11-05",
+    "event": "Telangana minister Komatireddy Venkat Reddy publicly urges Indian and U.S. authorities to act quickly to find her."
+   },
+   {
     "date": "2026-11-07",
     "event": "Indian media report that a Telangana state minister has asked India's Ministry of External Affairs and the consulate in Boston to assist in the search."
+   },
+   {
+    "date": "2026-11-08",
+    "event": "The Consulate General of India in Boston says it has filed a formal complaint and is coordinating with police, who it says have begun a nationwide search alert."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "sofia-marrone-1978",
+  "name": "Sofia Marrone (Montauk Mary)",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 1978,
+  "date": "March 22, 1978",
+  "state": "New York",
+  "city": "Montauk",
+  "age": 73,
+  "gender": "Female",
+  "summary": "A woman found shot to death at East Overlook Park in Montauk, New York, on March 22, 1978, went unidentified for more than 48 years and became known as \"Montauk Mary.\" On November 12, 2026, Suffolk County officials identified her as Sofia Margherita Marrone, 73, of Pleasantville, New Jersey, who had last been seen leaving a hospital in Somers Point, New Jersey, six days earlier. Investigators are examining a possible link to New Jersey serial killer Richard Biegenwald, who died in 2008, but no forensic connection has been established and the killing remains unsolved.",
+  "lastSeen": "March 16, 1978, leaving a hospital in Somers Point, New Jersey; found dead March 22, 1978, at East Overlook Park off Montauk Highway, Montauk, New York",
+  "tags": [
+   "jane doe",
+   "dna identification",
+   "shooting",
+   "homicide",
+   "remains found"
+  ],
+  "sources": [
+   {
+    "title": "CBS New York - New DNA technology helps ID victims in multiple Long Island cold cases",
+    "url": "https://www.cbsnews.com/newyork/news/long-island-cold-cases-victims-identified/"
+   },
+   {
+    "title": "Fox News - Cold case DNA unmasks 'Montauk Mary' as cops probe link to Jersey Shore 'Thrill Killer'",
+    "url": "https://www.foxnews.com/us/michael-ruiz-cold-case-dna-unmasks-montauk-mary-cops-probe-link-jersey-shore-thrill-killer"
+   },
+   {
+    "title": "Long Island Guide - Suffolk County Identifies Six People in Cold Cases Dating Back Nearly 50 Years",
+    "url": "https://www.longislandguide.com/2026/11/13/suffolk-county-identifies-six-people-in-cold-cases-dating-back-nearly-50-years/"
+   },
+   {
+    "title": "Newsweek - Long Island To Announce Breakthrough In 6 Historic Cold Cases",
+    "url": "https://www.newsweek.com/long-island-cold-case-victims-montauk-mary-12704445"
+   }
+  ],
+  "narrative": [
+   "At about 12:30 p.m. on March 22, 1978, a U.S. airman on his lunch break found a woman's body at East Overlook Park, off Montauk Highway near the Camp Hero radar station in Montauk, at the eastern tip of Long Island. She was lying face up about 15 feet from the parking lot. The medical examiner found she had been shot four times, once in the chest and three times in the legs, and had probably been dead only a few hours.",
+   "Police described her as a white woman, thought to be in her 60s, about 5 feet tall and roughly 200 pounds, with short gray hair and hazel eyes. She wore a plaid tweed coat, a multicolored dress and orange slippers, and none of the clothing carried tags. With no identification and no matching missing-person report, she became known as \"Montauk Mary.\" The case stayed open with the Suffolk County Police Department for decades, and investigators released an updated forensic sketch in 2025.",
+   "On November 12, 2026, Suffolk County District Attorney Raymond A. Tierney and Police Commissioner Kevin Catalina announced that the county's Cold Case Task Force had identified her as Sofia Margherita Marrone, born January 18, 1905, of Pleasantville, New Jersey. She was 73. Officials said she had left a hospital in Somers Point, New Jersey, on March 16, 1978, six days before she was found. She was one of six long-unidentified people named that day; officials credited advanced DNA sequencing of degraded samples followed by searches for relatives, with work by the county crime laboratory and medical examiner, private laboratories and the FBI.",
+   "The identification gave investigators a new line of inquiry. Tierney said Marrone was shot with rare .22-caliber short rounds, the same type of ammunition found with Richard Biegenwald when New Jersey police arrested him in 1983. Biegenwald, known as the \"Thrill Killer,\" was convicted of murders in New Jersey, was known to pick up victims in Jersey Shore towns, and died in prison in 2008. A witness in 1978 reported seeing a bearded man in a gold-colored car with New Jersey plates near the park; Biegenwald wore a beard and had access to several vehicles.",
+   "Authorities have stressed that no forensic link between Biegenwald and Marrone's death has been established and that the homicide has not been solved. How she travelled from southern New Jersey to Montauk, and with whom, is not publicly known. Anyone with information is asked to call Suffolk County Crime Stoppers at 1-800-220-TIPS."
+  ],
+  "timeline": [
+   {
+    "date": "1905-01-18",
+    "event": "Sofia Margherita Marrone is born in Pleasantville, New Jersey."
+   },
+   {
+    "date": "1978-03-16",
+    "event": "Marrone, 73, leaves a hospital in Somers Point, New Jersey; it is the last time she is known to have been seen."
+   },
+   {
+    "date": "1978-03-22",
+    "event": "A U.S. airman finds a woman shot to death at East Overlook Park in Montauk, New York. She cannot be identified and becomes known as \"Montauk Mary.\""
+   },
+   {
+    "date": "2008",
+    "event": "Richard Biegenwald, the New Jersey serial killer later examined as a possible suspect, dies in prison."
+   },
+   {
+    "date": "2025",
+    "event": "Suffolk County investigators release an updated forensic sketch of the unidentified woman."
+   },
+   {
+    "date": "2026-11-12",
+    "event": "Suffolk County District Attorney Raymond A. Tierney and Police Commissioner Kevin Catalina announce she has been identified as Sofia Marrone, one of six cold case identifications, and say investigators are examining a possible link to Biegenwald."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "juanita-boyd-1981",
+  "name": "Juanita Boyd",
+  "type": "Homicide",
+  "status": "Solved",
+  "year": 1981,
+  "date": "February 21, 1981",
+  "state": "Indiana",
+  "city": "La Porte",
+  "age": 31,
+  "gender": "Female",
+  "summary": "Juanita Boyd, a 31-year-old LaPorte County courthouse employee and mother of a 9-year-old son, disappeared after an evening at a tavern in La Porte, Indiana, in February 1981. Six days later her body was found in the trunk of her car, which was stuck in mud in rural Coolspring Township. On November 10, 2026, the LaPorte County Sheriff's Office announced that forensic genetic genealogy and a DNA match had identified her killer as Carl David Phillips, who died in 2017 and so cannot be charged.",
+  "lastSeen": "February 21, 1981, at a tavern on Lincolnway in La Porte, Indiana; found dead six days later in the trunk of her car off Forester Road in Coolspring Township",
+  "tags": [
+   "genetic genealogy",
+   "dna evidence",
+   "homicide",
+   "suspect deceased"
+  ],
+  "sources": [
+   {
+    "title": "ABC7 Chicago - Juanita Boyd cold case: DNA links Carl David Phillips to murder of woman in 1981, LaPorte County Sheriff's Office says",
+    "url": "https://abc7chicago.com/post/la-porte-county-sheriffs-office-provide-update-cold-case-investigation-tuesday-watch-live/20030136/"
+   },
+   {
+    "title": "CBS Chicago - La Porte County Sheriff's Office identifies Carl David Phillips as killer in 1981 murder of Juanita Boyd",
+    "url": "https://www.cbsnews.com/chicago/news/la-porte-county-sheriffs-office-carl-david-phillips-killer-juanita-boyd-cold-case/"
+   },
+   {
+    "title": "WSBT - Cold Case Solved: LaPorte County sheriff uses DNA to identify suspect in 1981 murder",
+    "url": "https://wsbt.com/news/local/cold-case-solved-laporte-county-police-use-dna-to-identify-suspect-in-1981-murder-victim-juanita-boyd-murdered-killed-car-coolspring-township-investigation-genetic-geneology"
+   },
+   {
+    "title": "ABC57 - 1981 cold case murder of Juanita Boyd closed following identification of killer Carl \"David\" Phillips",
+    "url": "https://www.abc57.com/news/1981-cold-case-murder-of-juanita-boyd-closed-following-identification-of-killer-carl-david-phillips"
+   }
+  ],
+  "narrative": [
+   "Juanita Boyd was 31, worked at the LaPorte County Courthouse and was raising a 9-year-old son. On the night of February 21, 1981, she was at a tavern on Lincolnway in La Porte, Indiana, a few minutes from her home. She did not come back and was reported missing the next day.",
+   "Six days after she vanished, her green 1970 Pontiac Catalina was found stuck in mud off Forester Road in rural Coolspring Township. Her body was in the trunk. The sheriff's office has said she died of asphyxiation; local reports say she had been strangled and stabbed. DNA testing did not yet exist, but investigators preserved the evidence, including an undergarment that carried a bodily fluid.",
+   "For years suspicion centered on Boyd's boyfriend at the time, who was never charged and whom DNA later ruled out. Detectives reopened the case in 2013 and spent the next 13 years working it with newer DNA methods. With help from Parabon NanoLabs and the Indiana State Police laboratory in Lowell, they used forensic genetic genealogy to build a family tree from distant relatives of the unknown man whose DNA was on her clothing. In July 2026 they obtained a reference sample from a close relative of a potential suspect, and in October 2026 a comparison matched the DNA from the undergarment to one man, with a stated probability of 38 trillion to one.",
+   "On November 10, 2026, Sheriff Ronald Heeg and Captains Andy Hynek and Derek Allen named that man as Carl David Phillips, who lived in LaPorte County at the time and had lived near the place where the car was found as a child. According to investigators, Phillips had served prison time in the 1970s for armed robberies in Tippecanoe County and was believed to be on parole in 1981; he was convicted of a burglary in LaPorte County in 1984 and paroled in 1991. Detectives found no known connection between him and Boyd, and no motive has been established.",
+   "Phillips died on September 24, 2017, and was never charged; authorities said he would have faced a murder charge had he been alive, so the evidence against him has not been tested in court. The sheriff's office considers the case solved. Members of Boyd's family and retired investigators attended the announcement, and the office said it is applying the same techniques to three other cold cases."
+  ],
+  "timeline": [
+   {
+    "date": "1981-02-21",
+    "event": "Juanita Boyd, 31, is last seen at a tavern on Lincolnway in La Porte, Indiana."
+   },
+   {
+    "date": "1981-02-22",
+    "event": "Boyd is reported missing after failing to return home."
+   },
+   {
+    "date": "1981-02-27",
+    "event": "On or about this date, six days after she disappeared, her body is found in the trunk of her Pontiac, stuck in mud off Forester Road in Coolspring Township."
+   },
+   {
+    "date": "2013",
+    "event": "The LaPorte County Sheriff's Office reopens the case to apply newer DNA technology."
+   },
+   {
+    "date": "2017-09-24",
+    "event": "Carl David Phillips, later identified as the killer, dies."
+   },
+   {
+    "date": "2026-07",
+    "event": "Investigators obtain a DNA reference sample from a close relative of a potential suspect developed through forensic genetic genealogy."
+   },
+   {
+    "date": "2026-10",
+    "event": "A profile comparison matches DNA from Boyd's undergarment to Phillips."
+   },
+   {
+    "date": "2026-11-10",
+    "event": "Sheriff Ronald Heeg announces that Phillips killed Boyd and that the case is solved; no charges are possible because he is dead."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "lottie-jo-gunn-1985",
+  "name": "Lottie Jo Gunn",
+  "type": "Homicide",
+  "status": "Arrest Made",
+  "year": 1985,
+  "date": "May 24, 1985",
+  "state": "Pennsylvania",
+  "city": "North Huntingdon",
+  "age": 16,
+  "gender": "Female",
+  "summary": "Lottie Jo Gunn, a 16-year-old from Ohio, was found stabbed to death along Turner Valley Road in North Huntingdon Township, Pennsylvania, on May 24, 1985. The case went unsolved for 41 years. On November 5, 2026, Westmoreland County detectives arrested James Kruczek, 61, of West Mifflin, on a charge of criminal homicide after DNA from her clothing was matched to him; he has pleaded not guilty and was ordered to stand trial after a preliminary hearing on November 13, 2026.",
+  "lastSeen": "Found dead May 24, 1985, along Turner Valley Road in North Huntingdon Township, Westmoreland County, Pennsylvania",
+  "tags": [
+   "teenager",
+   "stabbing",
+   "dna evidence",
+   "homicide",
+   "cold case arrest"
+  ],
+  "sources": [
+   {
+    "title": "Westmoreland County District Attorney - County Detectives make arrest in 41-year-old homicide case involving stabbing of 16-year-old girl",
+    "url": "https://crimewatch.net/us/pa/westmoreland/da/177666/cases/da-county-detectives-make-arrest-41-year-old-homicide-case-involving-stabbing-16-year"
+   },
+   {
+    "title": "CBS Pittsburgh - Pennsylvania man arrested in 16-year-old Ohio girl's death, closing 1985 cold case",
+    "url": "https://www.cbsnews.com/pittsburgh/news/man-arrested-teenage-girls-death-westmoreland-county-cold-case/"
+   },
+   {
+    "title": "CBS Pittsburgh - Pennsylvania man arrested for 1985 cold case killing of 16-year-old Ohio girl appears in court",
+    "url": "https://www.cbsnews.com/pittsburgh/news/james-kruczek-westmoreland-county-cold-case-court-appearance/"
+   },
+   {
+    "title": "KDKA Radio - Westmoreland Co. Police make arrest in over 40-year-old cold case",
+    "url": "https://www.audacy.com/kdkaradio/news/local/westmoreland-cold-case"
+   }
+  ],
+  "narrative": [
+   "On May 24, 1985, the Friday of Memorial Day weekend, the body of a teenage girl was found along Turner Valley Road in North Huntingdon Township, Westmoreland County. She had been stabbed several times in the abdomen and her death was ruled a homicide. She was later identified as Lottie Jo Gunn, 16, of Ohio.",
+   "The FBI and police in Akron, Ohio, determined that Gunn was one of several young runaways who had been drawn into an interstate prostitution ring, KDKA Radio reported. No one was charged with her killing, and the case stayed open for four decades.",
+   "According to the Westmoreland County District Attorney's Office, tips to the office and advances in DNA testing revived the investigation. An acquaintance told investigators that in the spring of 1985 James Kruczek had said he picked up a girl, killed her and left her body in the Coulter area of North Huntingdon Township. Detectives obtained Kruczek's DNA with a search warrant, and laboratory testing matched it to DNA on the dress Gunn was wearing, prosecutors said.",
+   "County detectives arrested Kruczek, 61, of West Mifflin, and District Attorney Nicole Ziccarelli announced a single count of criminal homicide on November 5, 2026, saying it had taken 41 years to reach that point. He was jailed without bail in the Westmoreland County Prison.",
+   "At a preliminary hearing on November 13, 2026, three witnesses testified in about 35 minutes. Glassport Police Chief Shawn DeVerse, who knew Kruczek in high school, testified that Kruczek told him in the 1980s that he had killed a girl who tried to \"rip him off\" and dumped her body near where Gunn was found. Kruczek's attorney entered a not guilty plea and said his client maintains he never met Gunn. The judge held the case for court, and formal arraignment is scheduled for December 23, 2026. Kruczek is presumed innocent unless proven guilty."
+  ],
+  "timeline": [
+   {
+    "date": "1985-05-24",
+    "event": "A teenage girl is found stabbed to death along Turner Valley Road in North Huntingdon Township, Pennsylvania; she is later identified as Lottie Jo Gunn, 16, of Ohio."
+   },
+   {
+    "date": "2026-11-05",
+    "event": "Westmoreland County District Attorney Nicole Ziccarelli announces the arrest of James Kruczek, 61, of West Mifflin, on one count of criminal homicide after DNA on Gunn's clothing is matched to him."
+   },
+   {
+    "date": "2026-11-13",
+    "event": "After a preliminary hearing with three witnesses, the case is held for court; Kruczek pleads not guilty and remains jailed without bail."
+   },
+   {
+    "date": "2026-12-23",
+    "event": "Scheduled formal arraignment in Westmoreland County."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "clare-fearon-2026",
+  "name": "Clare Fearon",
+  "type": "Missing Person",
+  "status": "Unsolved",
+  "year": 2026,
+  "date": "November 5, 2026",
+  "state": "Massachusetts",
+  "city": "West Barnstable",
+  "age": 76,
+  "gender": "Female",
+  "summary": "Clare Fearon, a 76-year-old West Barnstable, Massachusetts, woman who has dementia, went for a walk from her Pine Street neighborhood on the morning of November 5, 2026, without her phone or money and did not return. A weeklong search by local, county and state agencies covered nearly 2,000 acres on foot and about 850 acres from the air without finding her. Barnstable police scaled back the large-scale search on November 12 and moved to a targeted investigation; they say nothing suggests the disappearance is suspicious and continue to ask for surveillance footage and tips.",
+  "lastSeen": "About 10 a.m. on November 5, 2026, walking in the Pine Street area of West Barnstable, Massachusetts, wearing black leggings or pants, a long-sleeve blue shirt and black shoes",
+  "tags": [
+   "missing person",
+   "dementia",
+   "elderly",
+   "search and rescue",
+   "surveillance footage"
+  ],
+  "sources": [
+   {
+    "title": "CapeCod.com - Search Continues for Missing West Barnstable Woman; Police Seek Surveillance Footage",
+    "url": "https://www.capecod.com/cape-wide-news/sunday-update-search-continues-for-missing-west-barnstable-woman-police-seek-surveillance-footage/"
+   },
+   {
+    "title": "CBS Boston - Drones, K9s and dive teams join search for Cape Cod woman with dementia, missing for days",
+    "url": "https://www.cbsnews.com/boston/news/barnstable-missing-woman-clare-fearon/"
+   },
+   {
+    "title": "Boston.com - All-out search underway for missing Barnstable woman suffering from dementia",
+    "url": "https://www.boston.com/news/local-news/2026/11/08/all-out-search-underway-for-missing-barnstable-woman-suffering-from-dementia/"
+   },
+   {
+    "title": "MassLive via Yahoo News - Police end weeklong search for missing Cape Cod woman, but vow to keep investigating",
+    "url": "https://www.yahoo.com/news/articles/police-end-weeklong-search-missing-004826573.html"
+   }
+  ],
+  "narrative": [
+   "Clare Fearon, 76, lives in West Barnstable, a village in the town of Barnstable on Cape Cod, and has dementia. On the morning of Thursday, November 5, 2026, she left on foot from the Pine Street area without her cellphone or money. Neighborhood security video recorded her at about 9:30 a.m., and police give about 10 a.m. as the time she was last seen. She was wearing black leggings or pants, a long-sleeve blue shirt and black shoes.",
+   "Her family reported her missing at about 3:40 p.m. that day, and a search began within the hour. Police later received reports of possible sightings on nearby Parker Road at about 10:30 a.m. and 11 a.m. on the day she vanished. Investigators established her movements before the walk and confirmed with the Cape Cod Regional Transit Authority that she had not boarded any of its buses.",
+   "The search drew on agencies from across the region. Barnstable police, Massachusetts State Police patrol, K-9 and Air Wing units, the West Barnstable Fire Department, the Barnstable County technical rescue team and the Cape Cod regional SWAT team took part, using drones, all-terrain vehicles, divers and more than 60 searchers on foot across roughly four square miles of woods, railroad tracks, cranberry bogs and ponds around Pine Street. Police asked residents and businesses to review camera footage from 10 a.m. to 5 p.m. on November 5 and asked volunteers not to enter the search area on their own. They also said reports circulating online that she had been found were inaccurate.",
+   "On November 12, 2026, after a week, Barnstable police said they were moving from large-scale search operations to a more targeted investigative approach. By then crews had covered nearly 2,000 acres on foot and almost 850 acres by air. The department said the change did not mean it was giving up and that resources could be redeployed quickly if new information warranted.",
+   "Police have said there is no information suggesting the disappearance is suspicious or that the public is in danger. Her family is cooperating with investigators and has asked for privacy. As of November 16, 2026, no public report indicated that she had been found. Anyone with information, or with security, doorbell or trail-camera footage from the area, is asked to call the Barnstable Police Department at 508-778-3874."
+  ],
+  "timeline": [
+   {
+    "date": "2026-11-05",
+    "event": "Clare Fearon, 76, is recorded on security video in the Pine Street area of West Barnstable at about 9:30 a.m. and is last seen at about 10 a.m. Her family reports her missing at about 3:40 p.m., and a multi-agency search begins."
+   },
+   {
+    "date": "2026-11-07",
+    "event": "Police report that more than 1,500 acres have been searched on foot and nearly 850 acres by drone."
+   },
+   {
+    "date": "2026-11-08",
+    "event": "Barnstable and Massachusetts State Police carry out an aerial search; police ask residents and businesses to review surveillance footage from November 5."
+   },
+   {
+    "date": "2026-11-09",
+    "event": "K-9 teams search the Church Street, Parker Road and Pine Street areas."
+   },
+   {
+    "date": "2026-11-12",
+    "event": "Barnstable police end large-scale search operations after a week and move to a targeted investigation, saying they are not giving up."
    }
   ],
   "enriched": true
