@@ -3765,5 +3765,10 @@
 {"date": "2026-11-16", "id": "sofia-marrone-1978", "kind": "added", "name": "Sofia Marrone (Montauk Mary)"},
 {"date": "2026-11-16", "from": "Pending Trial", "id": "sandra-birchmore-2021", "kind": "status", "name": "Sandra Birchmore", "to": "Conviction"},
 {"count": 3, "date": "2026-11-16", "event": "Scheduled sentencing before Chief Judge Denise J. Casper.", "id": "sandra-birchmore-2021", "kind": "extended", "name": "Sandra Birchmore", "when": "2027-02-03"},
-{"count": 2, "date": "2026-11-16", "event": "The Consulate General of India in Boston says it has filed a formal complaint and is coordinating with police, who it says have begun a nationwide search alert.", "id": "sreeja-koya-2026", "kind": "extended", "name": "Sreeja Koya", "when": "2026-11-08"}
+{"count": 2, "date": "2026-11-16", "event": "The Consulate General of India in Boston says it has filed a formal complaint and is coordinating with police, who it says have begun a nationwide search alert.", "id": "sreeja-koya-2026", "kind": "extended", "name": "Sreeja Koya", "when": "2026-11-08"},
+{"date": "2026-11-24", "id": "jacqueline-dunleavy-1968", "kind": "added", "name": "Jacqueline \"Jackie\" Dunleavy"},
+{"date": "2026-11-24", "id": "jim-johnson-jr-2013", "kind": "added", "name": "Jim Johnson Jr."},
+{"date": "2026-11-24", "id": "kyong-ok-kim-1990", "kind": "added", "name": "Kyong-Ok Kim (Riverhead Jane Doe)"},
+{"date": "2026-11-24", "from": "Pending Trial", "id": "richard-glossip-oklahoma", "kind": "status", "name": "Richard Glossip (case)", "to": "Conviction"},
+{"count": 2, "date": "2026-11-24", "event": "Scheduled sentencing on the accessory charge.", "id": "richard-glossip-oklahoma", "kind": "extended", "name": "Richard Glossip (case)", "when": "2026-12-17"}
 ]

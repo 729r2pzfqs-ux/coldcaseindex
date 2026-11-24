@@ -2293,6 +2293,12 @@
 "query": "Richwoods",
 "match": "Richwoods, Washington County, Missouri, 63071, United States"
 },
+"Riverhead|New York": {
+"lat": 40.9169,
+"lon": -72.6624,
+"query": "Riverhead",
+"match": "Town of Riverhead, Suffolk County, New York, United States"
+},
 "Riverside|California": {
 "lat": 33.9732,
 "lon": -117.3731,

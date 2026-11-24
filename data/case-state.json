@@ -2762,6 +2762,15 @@
 "text": "54b9777147e3",
 "timeline": "e5e04d68231f"
 },
+"jacqueline-dunleavy-1968": {
+"events": 4,
+"last_date": "2026-11-23",
+"last_event": "London police announce that forensic investigative genetic genealogy has identified Moore as Dunleavy's killer and declare the case solved; no charges can be laid because he is dead.",
+"name": "Jacqueline \"Jackie\" Dunleavy",
+"status": "Solved",
+"text": "e880a497c2ff",
+"timeline": "5d29980bb66f"
+},
 "jacqueline-martarella-1985": {
 "events": 9,
 "last_date": "April 2026",
@@ -3139,6 +3148,15 @@
 "status": "Conviction",
 "text": "ce5577f41d9e",
 "timeline": "4ffdef393da5"
+},
+"jim-johnson-jr-2013": {
+"events": 3,
+"last_date": "2026-11-19",
+"last_event": "Florida Attorney General James Uthmeier and Orlando police announce the arrests of Carlton Williams, Derrick Dean, Sean Davis and Nathaniel Webster on charges including first-degree felony murder, kidnapping, armed robbery and racketeering.",
+"name": "Jim Johnson Jr.",
+"status": "Arrest Made",
+"text": "6aaf7b18f8be",
+"timeline": "fb4d65ceda09"
 },
 "jimmie-lee-jackson": {
 "events": 10,
@@ -3742,6 +3760,15 @@
 "status": "Unsolved",
 "text": "50068b671ea2",
 "timeline": "a0885727290a"
+},
+"kyong-ok-kim-1990": {
+"events": 5,
+"last_date": "2026-11-12",
+"last_event": "The Suffolk County District Attorney's Cold Case Task Force publicly identifies the Riverhead victim as Kyong-Ok Kim, one of six John and Jane Does named that day.",
+"name": "Kyong-Ok Kim (Riverhead Jane Doe)",
+"status": "Unsolved",
+"text": "e9d258fb8f38",
+"timeline": "56a926d73277"
 },
 "kyron-horman": {
 "events": 11,
@@ -5436,13 +5463,13 @@
 "timeline": "dee9c66664c2"
 },
 "richard-glossip-oklahoma": {
-"events": 12,
-"last_date": "2026-10-27",
-"last_event": "Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City.",
+"events": 14,
+"last_date": "2026-12-17",
+"last_event": "Scheduled sentencing on the accessory charge.",
 "name": "Richard Glossip (case)",
-"status": "Pending Trial",
-"text": "71f7e829ea6a",
-"timeline": "f5a5360db86f"
+"status": "Conviction",
+"text": "68d0b7b946c7",
+"timeline": "2513f8176216"
 },
 "richard-speck": {
 "events": 9,

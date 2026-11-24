@@ -5,9 +5,54 @@
   <link rel="self" type="application/atom+xml" href="https://coldcaseindex.com/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://coldcaseindex.com/updates/"/>
   <id>https://coldcaseindex.com/feed.xml</id>
-  <updated>2026-11-16T00:00:00Z</updated>
+  <updated>2026-11-24T00:00:00Z</updated>
   <author><name>ColdCaseIndex</name><uri>https://coldcaseindex.com/</uri></author>
   <rights>CC BY-NC 4.0</rights>
+  <entry>
+    <title>Timeline updated: Richard Glossip (case)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/richard-glossip-oklahoma/"/>
+    <id>tag:coldcaseindex.com,2026-11-24:richard-glossip-oklahoma/extended</id>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="extended"/>
+    <content type="html">&lt;p&gt;2 new events, latest December 17, 2026: Scheduled sentencing on the accessory charge.&lt;/p&gt;&lt;p&gt;Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Status change: Richard Glossip (case), Pending Trial to Conviction</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/richard-glossip-oklahoma/"/>
+    <id>tag:coldcaseindex.com,2026-11-24:richard-glossip-oklahoma/status</id>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="status"/>
+    <content type="html">&lt;p&gt;Status changed from Pending Trial to Conviction. At least one person was convicted in connection with the case.&lt;/p&gt;&lt;p&gt;Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Kyong-Ok Kim (Riverhead Jane Doe) (1990, New York)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/kyong-ok-kim-1990/"/>
+    <id>tag:coldcaseindex.com,2026-11-24:kyong-ok-kim-1990/added</id>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;A woman&amp;#x27;s beaten body was found by a town street-sweeper operator beside woods off Osborn Avenue in Riverhead, New York, on March 12, 1990. For more than 36 years she was known publicly only as &amp;quot;Riverhead Jane Doe.&amp;quot; On November 12, 2026, the Suffolk County District Attorney&amp;#x27;s Cold Case Task Force…&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Jim Johnson Jr. (2013, Florida)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/jim-johnson-jr-2013/"/>
+    <id>tag:coldcaseindex.com,2026-11-24:jim-johnson-jr-2013/added</id>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Jim Johnson Jr. was abducted on December 6, 2013, from a barbershop on South Orange Blossom Trail in Orlando, Florida, and his family home was robbed at gunpoint the same day; his body was found five days later in a wooded area in Daytona Beach. The case went cold for nearly 13 years.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>New case: Jacqueline &quot;Jackie&quot; Dunleavy (1968, Canada)</title>
+    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/jacqueline-dunleavy-1968/"/>
+    <id>tag:coldcaseindex.com,2026-11-24:jacqueline-dunleavy-1968/added</id>
+    <published>2026-11-24T00:00:00Z</published>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <category term="added"/>
+    <content type="html">&lt;p&gt;Jacqueline &amp;quot;Jackie&amp;quot; Dunleavy, a 16-year-old high school student, was strangled on the evening of January 9, 1968, after finishing her shift at a variety store in London, Ontario; her body was found about 90 minutes later on the grounds of a school. The case went unsolved for almost 59 years.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Timeline updated: Sreeja Koya</title>
     <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/sreeja-koya-2026/"/>
@@ -141,7 +186,7 @@
     <published>2026-10-27T00:00:00Z</published>
     <updated>2026-10-27T00:00:00Z</updated>
     <category term="extended"/>
-    <content type="html">&lt;p&gt;October 27, 2026: Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City.&lt;/p&gt;&lt;p&gt;Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S. Supreme Court vacated his conviction on February 25, 2025.&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;October 27, 2026: Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City.&lt;/p&gt;&lt;p&gt;Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S.&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>Timeline updated: Faith Hedgepeth</title>
@@ -412,50 +457,5 @@
     <updated>2026-09-29T00:00:00Z</updated>
     <category term="extended"/>
     <content type="html">&lt;p&gt;9 new events, latest June 2024: Chad Daybell&amp;#x27;s lawyer files a notice of appeal to the Idaho Supreme Court.&lt;/p&gt;&lt;p&gt;Tammy Daybell died at her home in Salem, Idaho on October 19, 2019. A coroner ruled the death natural without an autopsy, but her body was exhumed that December and an autopsy found she died of asphyxiation.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Tamla Horsford</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/tamla-horsford-2018/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:tamla-horsford-2018/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;July 28, 2021: GBI closes its reopened investigation with no criminal charges.&lt;/p&gt;&lt;p&gt;Tamla Horsford, a Black mother of five, was found dead at a sleepover party at a white friend&amp;#x27;s home in Cumming, Georgia. Her death was ruled accidental but her family disputes this.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Suzy Lamplugh</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzy-lamplugh-1986/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:suzy-lamplugh-1986/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;4 new events, latest July 28, 2026: On the 40th anniversary the Met makes a final appeal and says the inquiry will become inactive in a year if new leads produce nothing.&lt;/p&gt;&lt;p&gt;Estate agent Suzy Lamplugh, 25, vanished on July 28, 1986 after leaving her Fulham office to show a property on Shorrolds Road to a client recorded as &amp;#x27;Mr Kipper&amp;#x27;. She has never been found and was declared dead in 1993.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Suzanne Sevakis</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-sevakis-1990/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:suzanne-sevakis-1990/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;6 new events, latest January 23, 2023: Floyd dies on Florida&amp;#x27;s death row, never having been charged in Suzanne Sevakis&amp;#x27;s death (date per Wikipedia).&lt;/p&gt;&lt;p&gt;Suzanne Sevakis, 20, died in April 1990 five days after an apparent hit-and-run in Oklahoma City, where she was known as Tonya Hughes. The FBI says she had been taken as a child in the mid-1970s by Franklin Delano Floyd, who raised her under false names and later married her.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Suzanne Morphew</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-morphew/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:suzanne-morphew/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;June 24, 2026: Judge Amanda Hopkins grants a defense continuance and vacates the October 13, 2026 trial date over the objection of prosecutors and Suzanne&amp;#x27;s siblings; the trial is subsequently reset for July 19, 2027.&lt;/p&gt;&lt;p&gt;Suzanne Morphew, 49, disappeared on Mother&amp;#x27;s Day, May 10, 2020, in Chaffee County, Colorado. Her husband, Barry Morphew, was charged with her murder in 2021, but the case was dismissed without prejudice in April 2022 after the prosecution was sanctioned for discovery violations.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Timeline updated: Suzanne Bombardier</title>
-    <link rel="alternate" type="text/html" href="https://coldcaseindex.com/cases/suzanne-bombardier-1980/"/>
-    <id>tag:coldcaseindex.com,2026-09-29:suzanne-bombardier-1980/extended</id>
-    <published>2026-09-29T00:00:00Z</published>
-    <updated>2026-09-29T00:00:00Z</updated>
-    <category term="extended"/>
-    <content type="html">&lt;p&gt;4 new events, latest June 27, 2022: Bacom is sentenced to life in prison without the possibility of parole.&lt;/p&gt;&lt;p&gt;Suzanne Bombardier, 14, was abducted in June 1980 while babysitting at her sister&amp;#x27;s home in Antioch, California; a fisherman found her body in the San Joaquin River days later. She had been raped and stabbed. After a DNA match, Mitchell Lynn Bacom was arrested on December 11, 2017.&lt;/p&gt;</content>
   </entry>
 </feed>

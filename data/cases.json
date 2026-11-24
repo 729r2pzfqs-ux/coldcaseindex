@@ -63788,17 +63788,18 @@
   "id": "richard-glossip-oklahoma",
   "name": "Richard Glossip (case)",
   "type": "Homicide",
-  "status": "Pending Trial",
+  "status": "Conviction",
   "year": 1997,
   "date": "January 7, 1997",
   "state": "Oklahoma",
   "city": "Oklahoma City",
   "age": null,
   "gender": "Male",
-  "summary": "Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S. Supreme Court vacated his conviction on February 25, 2025. He was released on $500,000 bond in May 2026; a third trial is set for December 2026. He maintains his innocence.",
+  "summary": "Motel owner Barry Van Treese was beaten to death at the Best Budget Inn in Oklahoma City in January 1997 by Justin Sneed, who testified that Richard Glossip put him up to it. Glossip was twice convicted and sentenced to death. The U.S. Supreme Court vacated his conviction on February 25, 2025, and he was released on $500,000 bond in May 2026. On November 12, 2026, weeks before a third trial, he pleaded guilty to accessory after the fact to first-degree murder while maintaining that he had no part in the killing; the murder charge was dropped. Sentencing is set for December 17, 2026.",
   "lastSeen": "January 1997, Best Budget Inn, Oklahoma City, Oklahoma (where Barry Van Treese was killed)",
   "tags": [
-   "death row"
+   "death row",
+   "plea agreement"
   ],
   "sources": [
    {
@@ -63832,6 +63833,14 @@
    {
     "title": "Oklahoma judge rejects Glossip's bid to delay murder retrial for DNA testing - Hoodline",
     "url": "https://hoodline.com/2026/10/oklahoma-judge-rejects-glossip-s-bid-to-delay-murder-retrial-for-dna-testing/"
+   },
+   {
+    "title": "Death Penalty Information Center - Richard Glossip Enters Plea Agreement as Accessory After the Fact to First Degree Murder While Still Maintaining His Innocence",
+    "url": "https://deathpenaltyinfo.org/richard-glossip-enters-plea-agreement-as-accessory-after-the-fact-to-first-degree-murder-while-still-maintaining-his-innocence"
+   },
+   {
+    "title": "FOX 5 New York - Richard Glossip, ex-death row inmate, pleads guilty to lesser charge in Oklahoma",
+    "url": "https://www.fox5ny.com/news/richard-glossip-ex-death-row-inmate-pleads-guilty-lesser-charge-oklahoma"
    }
   ],
   "narrative": [
@@ -63840,7 +63849,8 @@
    "According to SCOTUSblog, Glossip returned to state court in 2023 after the state disclosed files indicating that prosecutors had known Sneed was prescribed lithium for bipolar disorder after his arrest and had allowed him to testify falsely about it. Two independent reports had questioned the conviction, and Oklahoma Attorney General Gentner Drummond supported Glossip's request to set it aside. The Oklahoma Court of Criminal Appeals refused, and the state parole board denied clemency.",
    "On February 25, 2025, the U.S. Supreme Court reversed the state court and ordered a new trial. In an opinion by Justice Sonia Sotomayor, the court held that prosecutors had violated their duty under Napue v. Illinois to correct testimony they knew to be false, and that because Sneed's testimony was the only direct evidence of Glossip's guilt, the error could have affected the verdict, SCOTUSblog reported. The ruling did not decide whether Glossip is guilty or innocent.",
    "In June 2025 Drummond announced that the state would try Glossip again for first-degree murder, The Intercept reported; News 9 reported that the state is not seeking the death penalty. District Judge Heather Coyle denied bond in July 2025 and later left the case. Glossip's lawyers argued that a 2023 email exchange with the attorney general amounted to a binding plea agreement, under which he would have pleaded guilty to accessory after the fact and been released; the state denied that any deal was reached, and on April 10, 2026, District Judge Natalie Mai declined to enforce it, according to News 9.",
-   "On May 14, 2026, Judge Mai set bond at $500,000, with electronic monitoring, a nightly curfew and a ban on leaving the state, and Glossip, then 63, left the Oklahoma County jail that afternoon, The Intercept reported. His trial was first set for September 2026. News 9 reported on July 28, 2026, that it had been moved, with jury selection scheduled for December 9, 2026, and the trial expected to last about three weeks. On October 27, 2026, Judge Mai denied a defense request to push the trial to April 2027 for additional DNA testing, keeping the December date."
+   "On May 14, 2026, Judge Mai set bond at $500,000, with electronic monitoring, a nightly curfew and a ban on leaving the state, and Glossip, then 63, left the Oklahoma County jail that afternoon, The Intercept reported. His trial was first set for September 2026. News 9 reported on July 28, 2026, that it had been moved, with jury selection scheduled for December 9, 2026, and the trial expected to last about three weeks. On October 27, 2026, Judge Mai denied a defense request to push the trial to April 2027 for additional DNA testing, keeping the December date.",
+   "The third trial did not take place. On November 12, 2026, Glossip pleaded guilty to accessory after the fact to first-degree murder, and prosecutors dropped the first-degree murder charge, according to the Death Penalty Information Center and FOX 5 New York. His attorney Don Knight said Glossip still maintains his innocence of the killing and entered the plea to bring the case to an end; according to FOX, the plea admits that Glossip helped put plexiglass over a broken motel window but says he did not know Van Treese's body was inside. Attorney General Gentner Drummond called accepting the plea a difficult decision for him and for the Van Treese family, and said it secures a conviction connected to the killing and gives the state its best chance of obtaining additional prison time. Sentencing is scheduled for December 17, 2026. The defense argues that Glossip has already served more than the maximum term for the offense, while the state intends to ask for more time; FOX reported that he could be released or returned to prison for up to 15 years."
   ],
   "timeline": [
    {
@@ -63890,6 +63900,14 @@
    {
     "date": "2026-10-27",
     "event": "Judge Natalie Mai denies a defense motion to move the retrial to April 2027 for DNA testing of a knife the defense says could implicate someone else; the third trial remains set for early December 2026 in Oklahoma City."
+   },
+   {
+    "date": "2026-11-12",
+    "event": "Glossip pleads guilty to accessory after the fact to first-degree murder while maintaining his innocence of the killing; the state drops the first-degree murder charge and the December retrial is cancelled."
+   },
+   {
+    "date": "2026-12-17",
+    "event": "Scheduled sentencing on the accessory charge."
    }
   ],
   "enriched": true
@@ -65058,6 +65076,204 @@
    {
     "date": "2026-11-12",
     "event": "Barnstable police end large-scale search operations after a week and move to a targeted investigation, saying they are not giving up."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "jacqueline-dunleavy-1968",
+  "name": "Jacqueline \"Jackie\" Dunleavy",
+  "type": "Homicide",
+  "status": "Solved",
+  "year": 1968,
+  "date": "January 9, 1968",
+  "state": "Ontario",
+  "city": "London",
+  "country": "Canada",
+  "age": 16,
+  "gender": "Female",
+  "summary": "Jacqueline \"Jackie\" Dunleavy, a 16-year-old high school student, was strangled on the evening of January 9, 1968, after finishing her shift at a variety store in London, Ontario; her body was found about 90 minutes later on the grounds of a school. The case went unsolved for almost 59 years. On November 23, 2026, London police announced that forensic investigative genetic genealogy had identified her killer as Michael Joseph Moore, an Irish immigrant who was 25 at the time and who died in 2018. Police say he would have been charged had he been alive.",
+  "lastSeen": "About 6:30 p.m. on January 9, 1968, leaving the Stanley Variety Store on Stanley Street near Wharncliffe Road, London, Ontario; found dead about 8 p.m. on the grounds of Katherine Harley School on Oxford Street",
+  "tags": [
+   "teenager",
+   "strangulation",
+   "genetic genealogy",
+   "dna evidence",
+   "homicide",
+   "suspect deceased"
+  ],
+  "sources": [
+   {
+    "title": "London Police Service - Cold case homicide solved using DNA evidence (68-1101)",
+    "url": "https://www.londonpolice.ca/news/posts/cold-case-homicide-solved-using-dna-evidence-68-1101/"
+   },
+   {
+    "title": "CHCH / The Canadian Press - Police solve 1968 murder of teen girl in London, Ont., thanks to genetic genealogy",
+    "url": "https://www.chch.com/chch-news/police-solve-1968-murder-of-teen-girl-in-london-ont-thanks-to-genetic-genealogy/"
+   },
+   {
+    "title": "CP24 - London police to provide update on cold case homicide investigation",
+    "url": "https://www.cp24.com/news/canada/2026/11/23/london-police-to-provide-update-on-cold-case-homicide-investigation/"
+   },
+   {
+    "title": "CBC News - London, Ont., police solve 1968 murder of teenager Jackie Dunleavy using genetic genealogy",
+    "url": "https://www.cbc.ca/news/canada/london/jackie-dunleavy-murder-case-solved-dna-9.7432089"
+   }
+  ],
+  "narrative": [
+   "Jacqueline Dunleavy, known as Jackie, was 16 and a Grade 10 student at Westminster Secondary School in London, Ontario. She worked part-time at the Stanley Variety Store on Stanley Street near Wharncliffe Road. On Tuesday, January 9, 1968, she finished her shift at about 6:30 p.m. and was last seen walking out of the store, according to the London Police Service.",
+   "At about 8 p.m. that evening, three young people found her on the grounds of Katherine Harley School on Oxford Street, a site now occupied by Matthews Hall. She was pronounced dead at the scene. Police say she had suffered a head injury and that the cause of death was strangulation.",
+   "The 1968 investigation generated many leads and witness interviews, and biological evidence was collected and preserved, but no one was charged. The file was re-examined from 1997 to 2001 under Project Angel, a joint review of historical homicides by London police and the Ontario Provincial Police, again without identifying the killer.",
+   "In a later review, the London police Major Crime Section had the preserved evidence retested. The forensic laboratory Othram developed a profile that could be compared with distant genetic relatives, and genealogy research carried out with the Toronto Police Service built family trees that led to one man. Investigators then conducted further interviews and obtained DNA samples for comparison, which were analyzed by Ontario's Centre of Forensic Sciences, police said.",
+   "On November 23, 2026, police named the killer as Michael Joseph Moore. Born in Ireland in 1942, he emigrated to Canada in January 1967, was living in an apartment on Springbank Drive in London by May of that year, and was 25 when Dunleavy was killed. He died on March 3, 2018. Lead investigator Det. Mike Budzyn said the evidence met the threshold for charges and that Moore would have been arrested had he been alive. Police have not linked him to other cases and are asking anyone who knew him to call 519-661-5670."
+  ],
+  "timeline": [
+   {
+    "date": "1968-01-09",
+    "event": "Jackie Dunleavy, 16, leaves her job at the Stanley Variety Store in London, Ontario, at about 6:30 p.m.; her body is found at about 8 p.m. on the grounds of Katherine Harley School. She had been strangled."
+   },
+   {
+    "date": "1997",
+    "event": "Project Angel, a joint London police and Ontario Provincial Police review of historical homicides, begins re-examining the case; it runs until 2001 without an identification."
+   },
+   {
+    "date": "2018-03-03",
+    "event": "Michael Joseph Moore, later identified as the killer, dies."
+   },
+   {
+    "date": "2026-11-23",
+    "event": "London police announce that forensic investigative genetic genealogy has identified Moore as Dunleavy's killer and declare the case solved; no charges can be laid because he is dead."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "jim-johnson-jr-2013",
+  "name": "Jim Johnson Jr.",
+  "type": "Homicide",
+  "status": "Arrest Made",
+  "year": 2013,
+  "date": "December 6, 2013",
+  "state": "Florida",
+  "city": "Orlando",
+  "age": null,
+  "gender": "Male",
+  "summary": "Jim Johnson Jr. was abducted on December 6, 2013, from a barbershop on South Orange Blossom Trail in Orlando, Florida, and his family home was robbed at gunpoint the same day; his body was found five days later in a wooded area in Daytona Beach. The case went cold for nearly 13 years. On November 19, 2026, Florida Attorney General James Uthmeier and Orlando police announced the arrests of four men on charges including first-degree felony murder, kidnapping, armed robbery and racketeering. The men have not been tried, and prosecutors plan to seek grand jury indictments.",
+  "lastSeen": "Morning of December 6, 2013, at a barbershop on South Orange Blossom Trail, Orlando, Florida; found dead December 11, 2013, in a wooded area in Daytona Beach",
+  "tags": [
+   "kidnapping",
+   "home invasion",
+   "robbery",
+   "homicide",
+   "cold case arrest",
+   "racketeering"
+  ],
+  "sources": [
+   {
+    "title": "WFTV - Four charged nearly 13 years after Orlando man's kidnapping and murder",
+    "url": "https://www.wftv.com/news/local/orange-county/four-charged-nearly-13-years-after-orlando-mans-kidnapping-murder/GEXEDNG3X5GSTOUR7W3VADQ7ZQ/"
+   },
+   {
+    "title": "ClickOrlando (WKMG) - 4 arrested in 2013 Orlando murder cold case",
+    "url": "https://www.clickorlando.com/news/local/2026/11/19/florida-ag-to-speak-in-orlando/"
+   },
+   {
+    "title": "FOX 35 Orlando - 4 men arrested in 2013 Orlando cold case kidnapping, murder",
+    "url": "https://www.fox35orlando.com/news/4-men-arrested-2013-orlando-cold-case-kidnapping-murder"
+   },
+   {
+    "title": "CBS12 - Cold case cracked: Four men arrested in 2013 kidnapping, killing of Orlando man, AG says",
+    "url": "https://cbs12.com/news/local/four-men-arrested-in-2013-kidnapping-killing-of-orlando-man-jim-johnson-jr-barbershop-murder-racketeering-cold-case-florida-ag-james-uthmeier-cold-case-solved-florida-crime-news"
+   }
+  ],
+  "narrative": [
+   "Jim Johnson Jr. grew up in Orlando, Florida, where he played football in school; relatives have described him as a devoted father, brother and son. On the morning of December 6, 2013, he went for a haircut at a barbershop on South Orange Blossom Trail. According to WFTV, he disappeared from the rear of the business at about 9:15 a.m., and officers found a large bloodstain near where his vehicle had been parked.",
+   "Investigators say the abduction was part of a planned robbery. According to Florida Attorney General James Uthmeier, the men who took Johnson obtained his family's address and went to the home, where they held a friend of Johnson's at gunpoint and shot him; he survived and told police what had happened. WFTV reported that the intruders emptied a concealed floor safe, and officials said a vehicle and other property were stolen.",
+   "Johnson's body was found on December 11, 2013, in a wooded area in Daytona Beach, about 55 miles from Orlando. The Volusia County medical examiner attributed his death to homicidal violence, WFTV reported. No one was charged, and the case remained open for almost 13 years while his sister, Melody, continued to press for answers; the nonprofit Project Cold Case eventually referred the file to a cold case initiative in the attorney general's office.",
+   "On November 19, 2026, Uthmeier and Orlando Police Chief Eric Smith announced four arrests: Carlton Leon Williams, 50, Derrick Lineil Dean, 47, and Sean Quentin Daniel Cosby Davis, 35, all of Orlando, and Nathaniel Webster, 42, of Altamonte Springs. Three were taken into custody by Orlando police and one surrendered. The charges include first-degree felony murder, kidnapping, armed burglary, armed robbery, aggravated battery with a firearm, grand theft of an automobile and racketeering. Officials said the review by Orlando's cold case homicide unit and the Office of Statewide Prosecution relied on DNA analysis, cellphone records that traced communications to the area where the body was found, and surveillance footage.",
+   "Prosecutor Richard Mantei said the state expects to present the case to a grand jury within weeks and seek indictments. All four men are presumed innocent, and officials have not publicly described how Johnson was killed or each defendant's alleged role."
+  ],
+  "timeline": [
+   {
+    "date": "2013-12-06",
+    "event": "Jim Johnson Jr. is abducted from a barbershop on South Orange Blossom Trail in Orlando; the same day armed men rob his family's home and shoot a friend of his, who survives."
+   },
+   {
+    "date": "2013-12-11",
+    "event": "Johnson's body is found in a wooded area in Daytona Beach."
+   },
+   {
+    "date": "2026-11-19",
+    "event": "Florida Attorney General James Uthmeier and Orlando police announce the arrests of Carlton Williams, Derrick Dean, Sean Davis and Nathaniel Webster on charges including first-degree felony murder, kidnapping, armed robbery and racketeering."
+   }
+  ],
+  "enriched": true
+ },
+ {
+  "id": "kyong-ok-kim-1990",
+  "name": "Kyong-Ok Kim (Riverhead Jane Doe)",
+  "type": "Homicide",
+  "status": "Unsolved",
+  "year": 1990,
+  "date": "March 12, 1990",
+  "state": "New York",
+  "city": "Riverhead",
+  "age": 32,
+  "gender": "Female",
+  "summary": "A woman's beaten body was found by a town street-sweeper operator beside woods off Osborn Avenue in Riverhead, New York, on March 12, 1990. For more than 36 years she was known publicly only as \"Riverhead Jane Doe.\" On November 12, 2026, the Suffolk County District Attorney's Cold Case Task Force released her name: Kyong-Ok Kim, 32, a South Korean-born woman who had been living in Woodside, Queens. Her cause of death remains under investigation and no one has been charged.",
+  "lastSeen": "Found dead about 12:40 p.m. on March 12, 1990, near a wooded area off Osborn Avenue, south of Horton Road, Riverhead, New York",
+  "tags": [
+   "jane doe",
+   "identified",
+   "blunt force trauma",
+   "homicide",
+   "remains found"
+  ],
+  "sources": [
+   {
+    "title": "Riverhead News-Review - 'Riverhead Jane Doe' finally named in 1990 cold case",
+    "url": "https://riverheadnewsreview.timesreview.com/2026/11/140234/riverhead-jane-doe-finally-named-in-1990-cold-case/"
+   },
+   {
+    "title": "Patch - ID Of Riverhead 'Jane Doe' Released For First Time: DA",
+    "url": "https://patch.com/new-york/riverhead/id-riverhead-jane-doe-released-first-time-da"
+   },
+   {
+    "title": "Suffolk County District Attorney - Cold Case Task Force Identifies Six John and Jane Doe Individuals in Cases Dating Back 50 Years",
+    "url": "https://www.suffolkcountyda.org/cold-case-task-force-identifies-six-john-and-jane-doe-individuals-in-cases-dating-back-50-years/"
+   },
+   {
+    "title": "Long Island Guide - Suffolk County Identifies Six People in Cold Cases Dating Back Nearly 50 Years",
+    "url": "https://www.longislandguide.com/2026/11/13/suffolk-county-identifies-six-people-in-cold-cases-dating-back-nearly-50-years/"
+   }
+  ],
+  "narrative": [
+   "At about 12:40 p.m. on March 12, 1990, a Riverhead Town employee operating a street sweeper near a wooded area off Osborn Avenue, south of Horton Road, noticed what he first took for a mannequin. It was the body of a woman. She had black hair, brown eyes and a one-inch scar on her left cheek, and was dressed in a black and brown blouse, a black miniskirt and sheer black tights, the Riverhead News-Review reported.",
+   "An autopsy found blunt force trauma to her face and body. With no name released, the case was carried in public records as \"Riverhead Jane Doe.\" According to the Suffolk County District Attorney's Office, the cause of death is still under investigation.",
+   "On November 12, 2026, District Attorney Raymond Tierney announced that the county's Cold Case Task Force, a joint effort of his office and the Suffolk County Police Department, was naming six previously unidentified people in cases going back to 1976. One was the Riverhead victim: Kyong-Ok Kim, born in South Korea on November 30, 1957, and 32 when she died. Officials said her identity had been known to law enforcement before the announcement but had never been made public; they did not say when or how it was established.",
+   "According to the district attorney's office, Kim married in 1978, moved to the United States and settled in Michigan, where she had a son later that year. Around 1985 she became estranged from her family and moved to New York. She worked for a time at a grocery store in Manhattan and lived in Woodside, Queens. How she came to be in Riverhead, roughly 70 miles east of Queens, has not been explained publicly.",
+   "No suspect has been named. Kim's family has been notified and has asked for privacy. Anyone with information is asked to contact Suffolk County Crime Stoppers at 1-800-220-TIPS."
+  ],
+  "timeline": [
+   {
+    "date": "1957-11-30",
+    "event": "Kyong-Ok Kim is born in South Korea."
+   },
+   {
+    "date": "1978",
+    "event": "Kim marries, moves to the United States and settles in Michigan, where her son is born."
+   },
+   {
+    "date": "1985",
+    "event": "Around this year Kim becomes estranged from her family and moves to New York, later living in Woodside, Queens."
+   },
+   {
+    "date": "1990-03-12",
+    "event": "A street-sweeper operator finds a woman's beaten body near woods off Osborn Avenue in Riverhead, New York."
+   },
+   {
+    "date": "2026-11-12",
+    "event": "The Suffolk County District Attorney's Cold Case Task Force publicly identifies the Riverhead victim as Kyong-Ok Kim, one of six John and Jane Does named that day."
    }
   ],
   "enriched": true
